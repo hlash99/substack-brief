@@ -1,0 +1,46 @@
+name: refresh
+
+# Server-side refresh of the Substack rolling brief: pull the Yahoo "Substack"
+# folder over IMAP, summarize new emails, commit data.json. Runs twice a day
+# (~7:20am and ~4:20pm Pacific). Skips cleanly until the repo secrets
+# (YAHOO_EMAIL, YAHOO_APP_PASSWORD, GROQ_API_KEY) are added.
+on:
+  schedule:
+    - cron: '23 14,23 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - name: Build brief
+        env:
+          YAHOO_EMAIL: ${{ secrets.YAHOO_EMAIL }}
+          YAHOO_APP_PASSWORD: ${{ secrets.YAHOO_APP_PASSWORD }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+        run: python scripts/build_brief.py
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- data.json; then
+            git add data.json
+            git commit -m "brief: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "no change"
+          fi

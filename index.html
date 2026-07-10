@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>📬 Substack Brief</title>
+<link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="92">📬</text></svg>'>
+<meta name="theme-color" content="#0a141f">
+<meta name="description" content="Rolling brief of the latest Substack newsletters — cross-newsletter themes plus per-email bullets, refreshed server-side twice a day.">
+<style>
+:root{--bg:#0a141f;--panel:#121f30;--panel2:#16273c;--line:#1f3450;--txt:#dce7f5;
+--dim:#8fa5c0;--teal:#3ec9c4;--gold:#ffd34d;--green:#4ade80;--red:#f87171}
+*{box-sizing:border-box}
+body{margin:0;font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+color:var(--txt);background:var(--bg);
+background-image:radial-gradient(1100px 600px at 75% -10%,#12233a 0%,transparent 60%),
+radial-gradient(900px 500px at -10% 110%,#0e1e33 0%,transparent 55%);min-height:100vh}
+.wrap{max-width:880px;margin:0 auto;padding:28px 18px 60px}
+h1{font-size:26px;margin:0 0 2px}
+.sub{color:var(--dim);font-size:13.5px;margin:0 0 18px}
+.sub b{color:var(--teal);font-weight:600}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:0 0 18px}
+.brief{border-color:#4a3d14;background:linear-gradient(180deg,#181f2b,#121f30)}
+.brief h2{margin:0 0 10px;font-size:15px;color:var(--gold);letter-spacing:.4px;text-transform:uppercase}
+.brief ul{margin:0;padding-left:20px}
+.brief li{margin:7px 0}
+.chips{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 18px}
+.chip{border:1px solid var(--line);background:var(--panel);color:var(--dim);border-radius:999px;
+padding:4px 12px;font-size:13px;cursor:pointer;user-select:none}
+.chip.on{color:#06231f;background:var(--teal);border-color:var(--teal);font-weight:600}
+.day{margin:22px 0 10px;font-size:13px;color:var(--dim);letter-spacing:.6px;text-transform:uppercase;
+display:flex;align-items:center;gap:10px}
+.day::after{content:"";flex:1;height:1px;background:var(--line)}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:13px 16px;margin:0 0 10px}
+.card .top{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap}
+.badge{font-size:11.5px;font-weight:700;letter-spacing:.3px;padding:2px 8px;border-radius:999px;
+background:var(--panel2);border:1px solid var(--line);white-space:nowrap}
+.subj{font-weight:650;font-size:15.5px}
+a.subj{color:var(--txt);text-decoration:none;border-bottom:1px dotted #3a557c}
+a.subj:hover{color:var(--teal);border-color:var(--teal)}
+.when{color:var(--dim);font-size:12px;margin-left:auto;white-space:nowrap}
+.card ul{margin:8px 0 2px;padding-left:20px}
+.card li{margin:4px 0;font-size:14.5px}
+.card.ex li{color:var(--dim);font-style:italic}
+.exnote{font-size:11.5px;color:#c9a13d;margin-top:6px}
+.empty{color:var(--dim);text-align:center;padding:40px 0}
+.foot{color:#5c7392;font-size:12px;margin-top:34px;line-height:1.7}
+.foot a{color:#7fa3c9}
+@media(max-width:540px){.when{margin-left:0;width:100%}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>📬 Substack Brief</h1>
+<p class="sub" id="sub">loading…</p>
+
+<div class="panel brief" id="brief" hidden>
+  <h2 id="briefHd">The Brief</h2>
+  <ul id="briefUl"></ul>
+</div>
+
+<div class="chips" id="chips"></div>
+<div id="feed"><div class="empty">Loading the latest newsletters…</div></div>
+
+<p class="foot">Pulled from the Yahoo Mail <b>Substack</b> folder over IMAP and summarized
+server-side twice a day (morning &amp; afternoon Pacific) by
+<a href="https://github.com/hlash99/substack-brief">hlash99/substack-brief</a>.
+Items marked <i>excerpt</i> are raw snippets awaiting AI summarization.
+Part of the <a href="https://hlash99.github.io/">hlash99 dashboard</a>.</p>
+</div>
+
+<script>
+const $=s=>document.querySelector(s);
+const PUB={thebulwark:"The Bulwark",zeteo:"Zeteo",paulkrugman:"Krugman",doomberg:"Doomberg",
+messagebox:"Message Box",barbarafwalter:"Here Be Dragons",macgregorwarrior:"Warrior Diplomacy",
+post:"Substack Post"};
+const HUE={};let hueSeed=0;
+function hue(p){if(!(p in HUE))HUE[p]=(hueSeed+=67)%360;return HUE[p]}
+const pubName=p=>PUB[p]||p.replace(/[-_]+/g," ").replace(/\b\w/g,c=>c.toUpperCase());
+const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let DATA=null,FILTER="all";
+
+function dayKey(iso){return (iso||"").slice(0,10)}
+function dayLabel(k){
+  const d=new Date(k+"T12:00"),today=new Date(),y=new Date(Date.now()-864e5);
+  const fmt=d.toLocaleDateString(undefined,{weekday:"short",month:"short",day:"numeric"});
+  if(k===today.toISOString().slice(0,10)||k===dayKey(localISO(today)))return "Today · "+fmt;
+  if(k===dayKey(localISO(y)))return "Yesterday · "+fmt;
+  return fmt;
+}
+function localISO(d){return new Date(d.getTime()-d.getTimezoneOffset()*6e4).toISOString()}
+function timeOf(iso){const d=new Date(iso);return isNaN(d)?"":d.toLocaleTimeString(undefined,{hour:"numeric",minute:"2-digit"})}
+function ago(iso){const s=(Date.now()-new Date(iso))/1e3;
+  return s<3600?Math.round(s/60)+"m ago":s<86400?Math.round(s/3600)+"h ago":Math.round(s/86400)+"d ago"}
+
+function render(){
+  const d=DATA;if(!d)return;
+  const cutoff=Date.now()-d.window_days*864e5;
+  const items=(d.items||[]).filter(it=>new Date(it.date)>=cutoff);
+  $("#sub").innerHTML=`<b>${items.length}</b> newsletters in the last ${d.window_days} days · updated ${ago(d.updated)}`;
+
+  if(d.brief&&d.brief.bullets&&d.brief.bullets.length){
+    $("#brief").hidden=false;
+    $("#briefHd").textContent=`The Brief · last ${d.brief.span_days||3} days`;
+    $("#briefUl").innerHTML=d.brief.bullets.map(b=>`<li>${esc(b)}</li>`).join("");
+  }
+
+  const counts={};items.forEach(it=>counts[it.pub]=(counts[it.pub]||0)+1);
+  const pubs=Object.keys(counts).sort((a,b)=>counts[b]-counts[a]);
+  $("#chips").innerHTML=[`<span class="chip${FILTER==="all"?" on":""}" data-p="all">All · ${items.length}</span>`]
+    .concat(pubs.map(p=>`<span class="chip${FILTER===p?" on":""}" data-p="${esc(p)}">${esc(pubName(p))} · ${counts[p]}</span>`)).join("");
+  document.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{FILTER=c.dataset.p;render()});
+
+  const show=items.filter(it=>FILTER==="all"||it.pub===FILTER);
+  if(!show.length){$("#feed").innerHTML=`<div class="empty">Nothing here yet.</div>`;return}
+  const days={};show.forEach(it=>{(days[dayKey(it.date)]=days[dayKey(it.date)]||[]).push(it)});
+  $("#feed").innerHTML=Object.keys(days).sort().reverse().map(k=>
+    `<div class="day">${dayLabel(k)}</div>`+days[k].map(it=>{
+      const ex=it.summary_by==="excerpt";
+      const subj=it.url?`<a class="subj" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.subject)}</a>`
+                       :`<span class="subj">${esc(it.subject)}</span>`;
+      return `<div class="card${ex?" ex":""}">
+        <div class="top"><span class="badge" style="color:hsl(${hue(it.pub)} 65% 72%)">${esc(pubName(it.pub))}</span>
+        ${subj}<span class="when">${esc(it.newsletter)} · ${timeOf(it.date)}</span></div>
+        <ul>${(it.bullets||[]).map(b=>`<li>${esc(b)}</li>`).join("")}</ul>
+        ${ex?`<div class="exnote">excerpt — AI summary pending</div>`:""}
+      </div>`}).join("")).join("");
+}
+
+fetch("data.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{DATA=d;render()})
+  .catch(()=>{$("#feed").innerHTML=`<div class="empty">Couldn't load data.json.</div>`});
+</script>
+</body>
+</html>
