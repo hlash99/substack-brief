@@ -1,43 +1,202 @@
 {
- "updated": "2026-07-10T13:24-07:00",
+ "updated": "2026-07-12T06:59-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The Iran war is back on: strikes are being exchanged under a ceasefire that never really began, a senior official says 'nobody's afraid of him,' and analysts warn moving U.S. bases into Israel would create new human shields (Zeteo First Draft, Zeteo guest essay).",
-   "Graham Platner suspended — and will formally quit Monday — his Maine Senate run after sexual-assault allegations; Maine Democrats plan a ~600-delegate convention, while JVL argues progressives are blaming the establishment instead of the candidate (Morning Shots, The Triad, First Draft).",
-   "The immigration crackdown's human toll sharpened: ICE agents killed Lorenzo Salgado Araujo in Houston, and Haitian TPS work permits expired, forcing Springfield employers to fire workers or break the law (Morning Shots).",
-   "Trump keeps blurring state and market: the White House is hawking mystery below-market 'Freedom Fuel' gas stations, and claimed credit for a routine Walmart ground-beef sale (The Triad, Receipts).",
-   "Climate costs went from projection to line item — heat closed Trump's own State Fair and Krugman argues extreme-event frequency, not averages, is what will hurt (Krugman).",
-   "Elsewhere: a Zeteo/Searchlight poll finds majority-ish support for Medicare for All but doubts about execution, and Doomberg cautions that dramatic footage of Ukraine's refinery strikes outruns the actual damage (Zeteo U.S. Politics, Doomberg)."
+   "The largest foodborne outbreak in U.S. history — 3,000+ Cyclospora cases and climbing — is unfolding with the CDC lagging state counts, a mess Your Local Epidemiologist pins on a gutted federal public-health system (YLE).",
+   "The Supreme Court's overturn of Humphrey's Executor is already biting: Trump fired the remaining Democratic election commissioners, while a crypto bill in Congress may be the vehicle to shore up agency independence (The Breakdown, This Week in Democracy).",
+   "Post-Platner Maine looks salvageable — Collins built her race around him, so a vetted progressive replacement rescrambles the map; meanwhile Israel politics keeps splitting Democratic primaries from Arizona to the presidential field (Message Box, Focus Group, Zeteo).",
+   "The deportation wars have a new front: Flock campus cameras feeding license-plate data to ICE, as the roundup week logged another ICE killing, Patriot Front marching in DC, and a push to rehear birthright citizenship (Huddled Masses, This Week in Democracy).",
+   "Krugman's double warning: AI is landing in a worse-than-Gilded-Age oligarchy that will amplify its harms, and financial deregulation 'termites' are quietly rebuilding 2008-style crisis risk (Krugman ×2).",
+   "In Gaza, Israel escalated again — two dozen killed including aid workers, settler violence up 560% since 2019 — against one bright spot: a captive believed dead came home (This Week in Palestine)."
   ],
   "by": "claude",
-  "updated": "2026-07-10T13:24-07:00",
+  "updated": "2026-07-12T06:59-07:00",
   "span_days": 3,
   "ids": [
-   "20260709103113.3.de1873f655489ca7@mg2.substack.com",
-   "20260709110651.3.10c4af07c6ca181e@mg-d0.substack.com",
-   "20260709130431.3.9a9f319598f9c3b2@mg-d0.substack.com",
-   "20260709145038.3.43356b2bbbb057d0@mg2.substack.com",
-   "20260709150110.3.f52417d1777f6550@mg2.substack.com",
-   "20260709163119.3.51c54cc5013eafc3@mg-d0.substack.com",
-   "20260709185813.3.69bab5abecb3237b@mg-d1.substack.com",
-   "20260709190417.3.c0700195a7577abe@mg-d1.substack.com",
-   "20260709230159.3.2c6c5b5d1a2b93a1@mg-d1.substack.com",
-   "20260710004207.3.37a730cb87b61c44@mg-d1.substack.com",
-   "20260710090120.3.d3ff276a1e206718@mg-d1.substack.com",
-   "20260710103041.3.f7ec3861ab483c80@mg2.substack.com",
-   "20260710104525.3.cefe65c84fe717ac@mg2.substack.com",
-   "20260710112920.3.92e628c1a9ac39a7@mg-d0.substack.com",
-   "20260710121522.3.0f53178351032947@mg-d1.substack.com",
-   "20260710140203.3.fea138a0a2604616@mg-d1.substack.com",
-   "20260710141656.3.b98210345e2539b5@mg-d0.substack.com",
-   "20260710175132.3.140713c9a2c01f61@mg-d0.substack.com",
-   "20260710180042.3.a558864dfb1d00a4@mg-d0.substack.com",
-   "20260710191032.3.55afc18e186f4652@mg2.substack.com"
+   "20260710210735.3.35b3d7d95975bb8a@mg-d0.substack.com",
+   "20260710225305.3.6b8832766767bfbb@mg-d1.substack.com",
+   "20260711103026.3.9ef35d587174683f@mg-d1.substack.com",
+   "20260711113206.3.db4bb47ff69ff1c3@mg2.substack.com",
+   "20260711122915.3.0736b65e1ccb68f4@mg2.substack.com",
+   "20260711130159.3.e2d1f7474565c1aa@mg-d0.substack.com",
+   "20260711131116.3.e2885a001430b1c3@mg-d0.substack.com",
+   "20260711140227.3.488d9117a595525f@mg-d0.substack.com",
+   "20260711143120.3.87692ee2bc10af23@mg-d0.substack.com",
+   "20260711183034.3.6bac8bd37eba1ce4@mg-d0.substack.com",
+   "20260711190255.3.38eced649aa75f8f@mg-d1.substack.com",
+   "20260712103026.3.f6fb28dc8acfd342@mg-d0.substack.com",
+   "20260712124657.3.567bf49e3ca1eb78@mg-d0.substack.com"
   ]
  },
  "items": [
+  {
+   "id": "20260712124657.3.567bf49e3ca1eb78@mg-d0.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Supreme Court Broke Independent Agencies. Here’s a Way to Slow the Damage.",
+   "date": "2026-07-12T05:55",
+   "url": null,
+   "bullets": [
+    "Guest author Todd Phillips: the Court's Trump v. Slaughter ruling overturned 91-year-old Humphrey's Executor, letting presidents fire FTC/NLRB/CPSC/EEOC commissioners over policy disagreements.",
+    "His fix: a crypto market-structure bill already before Congress could carry provisions keeping independent commissions from becoming one-party instruments."
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260712103026.3.f6fb28dc8acfd342@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "AI in an Age of Oligarchy",
+   "date": "2026-07-12T03:40",
+   "url": null,
+   "bullets": [
+    "Krugman: AI is arriving into wealth concentration worse than the Gilded Age — unlike the 1950s-60s, when progressive taxes and antitrust could have contained the damage.",
+    "The oligarchic context — weak worker protections, captured policy — will magnify AI's social and economic downsides rather than spreading its gains."
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260711190255.3.38eced649aa75f8f@mg-d1.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Explosive foodborne outbreak",
+   "date": "2026-07-11T12:09",
+   "url": null,
+   "bullets": [
+    "Katelyn Jetelina on the largest cyclosporiasis outbreak in U.S. history: 3,000+ cases (a normal YEAR's total) and climbing, spread via a rinse-resistant parasite on produce.",
+    "State counts are running ahead of the CDC's website — she blames a gutted federal public-health apparatus with no transparency or centralized communication for the confusing guidance."
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260711183034.3.6bac8bd37eba1ce4@mg-d0.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: An Emotional Reunion After Israel Releases Palestinian Captive Believed to Be Dead",
+   "date": "2026-07-11T11:38",
+   "url": null,
+   "bullets": [
+    "Weekly roundup: Israel escalated Gaza attacks, killing at least two dozen including children and two aid workers; West Bank settler violence is up 560% since 2019 with 6.6% of cases indicted.",
+    "One bright spot: an emotional reunion after Israel released a Palestinian captive his family believed was dead."
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260711143120.3.87692ee2bc10af23@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Socialist Arizona Candidate Says Israel Is Interfering in His Election",
+   "date": "2026-07-11T07:36",
+   "url": null,
+   "bullets": [
+    "Democratic socialist Kai Newkirk, challenging Rep. Greg Stanton in Arizona, tells Zeteo Israel is interfering in his primary — extending the Mamdani-style insurgent wave to a new state.",
+    "He calls Stanton's record enabling the Gaza war 'morally disqualifying.'"
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260711130159.3.e2d1f7474565c1aa@mg-d0.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“I had become haunted by the simplest question: What did I care about?”",
+   "date": "2026-07-11T07:20",
+   "url": null,
+   "bullets": [
+    "Substack's Weekender: an essay on quitting and staying in New York ('What did I care about?'), writers debating AI's merits, and a dispatch from NBA summer league."
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260711140227.3.488d9117a595525f@mg-d0.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "Exclusive: The Next Frontier of the Deportation Wars: College Campuses",
+   "date": "2026-07-11T07:17",
+   "url": null,
+   "bullets": [
+    "Exclusive: activists are opening a new front against Flock license-plate cameras on college campuses, whose data feeds ICE target-hunting — an ambient dragnet catching immigrants on daily commutes.",
+    "Follow-up: the GoFundMe for Lorenzo Salgado Araujo's family jumped from $58,000 to $425,000 after last week's newsletter on his killing by ICE."
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260711131116.3.e2885a001430b1c3@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Tommy Vietor: Democrats’ Way Forward on Israel",
+   "date": "2026-07-11T06:18",
+   "url": null,
+   "bullets": [
+    "Tommy Vietor joins the Focus Group: Democratic voters' opinion of Israel has nosedived over three years, and Israel politics is now shaping 2026 primaries and the next presidential field."
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260711122915.3.0736b65e1ccb68f4@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "How Democrats Can Still Beat Susan Collins",
+   "date": "2026-07-11T05:30",
+   "url": null,
+   "bullets": [
+    "Pfeiffer's mailbag: Platner's exit actually leaves Maine winnable — Collins' campaign built its whole strategy around him, and a vetted progressive replacement scrambles it.",
+    "He owns what he missed on Platner and points to his Pod Save America conversation with Alex Wagner for the postmortem."
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260711113206.3.db4bb47ff69ff1c3@mg2.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Policy in Search of a Problem",
+   "date": "2026-07-11T04:39",
+   "url": null,
+   "bullets": [
+    "Overtime digest: Mark Hertling argues withdrawing U.S. troops from Europe is 'a policy in search of a problem' as DOD reviews force posture during the Ankara NATO summit.",
+    "Also: evangelicals confronting Christian nationalism in their own churches, and Eric Edelman on the one word Trump won't say in Turkey."
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260711103026.3.9ef35d587174683f@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Dennis Kelleher of Better Markets",
+   "date": "2026-07-11T03:34",
+   "url": null,
+   "bullets": [
+    "Krugman interviews Better Markets' Dennis Kelleher on the quiet demolition of financial regulation — 'termites' eating stability while attention is elsewhere.",
+    "Kelleher's case: financial-crisis risk lands on everyone, not just the investor class that owns most assets."
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260710225305.3.6b8832766767bfbb@mg-d1.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 77: ICE Kills Again, White Supremacists Descend on DC, and Trump Wants Birthright Ci…",
+   "date": "2026-07-10T15:56",
+   "url": null,
+   "bullets": [
+    "Week 77 roundup: Trump fired the remaining Democratic election commissioners (post-Slaughter), ordered more Iran strikes mid-NATO-summit, and pardoned 11 including a $4M GOP donor tied to Abramoff.",
+    "Also this week: Patriot Front white supremacists marched through DC on July 4, and the administration is pushing to have the birthright-citizenship case reheard."
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260710210735.3.35b3d7d95975bb8a@mg-d0.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Did What? (Evergreen Tweet.)",
+   "date": "2026-07-10T14:19",
+   "url": null,
+   "bullets": [
+    "Sarah and JVL on Trump's NATO disgrace, whether McConnell is really working the phones on policy, and the Democratic factional fight — is strategist Morris Katz just the left's Steve Bannon?"
+   ],
+   "summary_by": "claude"
+  },
   {
    "id": "20260710191032.3.55afc18e186f4652@mg2.substack.com",
    "newsletter": "Sonny Bunch - The Bulwark",
@@ -1012,7 +1171,7 @@
   }
  ],
  "counts": {
-  "shown": 63,
-  "total": 75
+  "shown": 66,
+  "total": 88
  }
 }
