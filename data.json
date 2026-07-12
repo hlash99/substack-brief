@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T06:59-07:00",
+ "updated": "2026-07-12T09:36-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -32,12 +32,39 @@
  },
  "items": [
   {
+   "id": "20260712162657.3.0cb72e2742718193@mg2.substack.com",
+   "newsletter": "Mehdi from Zeteo",
+   "pub": "zeteo",
+   "subject": "Lindsey Graham, Proud War Hawk, Has Died. Here He Is in His Own Words",
+   "date": "2026-07-12T09:26-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/lindsey-graham-dies-quotes-war-hawk",
+   "bullets": [
+    "Lindsey Graham, who never met a Middle East country he didn’t want to invade, “passed away from a brief and sudden illness” on Saturday night, according to a short statement from his office. Media [ https://substack.com/redirect/6c2c20e7-d8…",
+    "The 71-year-old Graham, who was first elected to the Senate in 2002, had been scheduled to appear on NBC News’s ‘Meet the Press’ this morning, after returning from a trip to Ukraine. His sudden death, notes the New York Times [ https://subs…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260712140249.3.44b894168f472195@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Republicans Slam Platner, but Stay Silent About Trump’s Assault Allegations",
+   "date": "2026-07-12T07:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/republicans-slam-platner-but-stay",
+   "bullets": [
+    "Republicans publicly condemned Maine Senate candidate Graham Platner after a sexual assault allegation, yet remain silent on similar accusations against former President Trump.",
+    "Francesca Fiorentini highlights the double standard, noting that GOP figures like Kevin McCarthy and Sen. John Kennedy criticize attacks on women while defending a known alleged predator.",
+    "In a three‑minute video, the most empathetic Republican toward Platner is identified, underscoring the party’s inconsistent stance on sexual misconduct."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260712124657.3.567bf49e3ca1eb78@mg-d0.substack.com",
    "newsletter": "Jonathan Cohn - The Bulwark",
    "pub": "thebulwark",
    "subject": "The Supreme Court Broke Independent Agencies. Here’s a Way to Slow the Damage.",
-   "date": "2026-07-12T05:55",
-   "url": null,
+   "date": "2026-07-12T05:46-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/supreme-court-independent-agencies-commissions-humphreys-executor-slaughter",
    "bullets": [
     "Guest author Todd Phillips: the Court's Trump v. Slaughter ruling overturned 91-year-old Humphrey's Executor, letting presidents fire FTC/NLRB/CPSC/EEOC commissioners over policy disagreements.",
     "His fix: a crypto market-structure bill already before Congress could carry provisions keeping independent commissions from becoming one-party instruments."
@@ -49,8 +76,8 @@
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
    "subject": "AI in an Age of Oligarchy",
-   "date": "2026-07-12T03:40",
-   "url": null,
+   "date": "2026-07-12T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/ai-in-an-age-of-oligarchy",
    "bullets": [
     "Krugman: AI is arriving into wealth concentration worse than the Gilded Age — unlike the 1950s-60s, when progressive taxes and antitrust could have contained the damage.",
     "The oligarchic context — weak worker protections, captured policy — will magnify AI's social and economic downsides rather than spreading its gains."
@@ -62,8 +89,8 @@
    "newsletter": "Your Local Epidemiologist",
    "pub": "yourlocalepidemiologist",
    "subject": "Explosive foodborne outbreak",
-   "date": "2026-07-11T12:09",
-   "url": null,
+   "date": "2026-07-11T12:02-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/explosive-foodborne-outbreak",
    "bullets": [
     "Katelyn Jetelina on the largest cyclosporiasis outbreak in U.S. history: 3,000+ cases (a normal YEAR's total) and climbing, spread via a rinse-resistant parasite on produce.",
     "State counts are running ahead of the CDC's website — she blames a gutted federal public-health apparatus with no transparency or centralized communication for the confusing guidance."
@@ -75,8 +102,8 @@
    "newsletter": "This Week in Palestine | Zeteo",
    "pub": "zeteo",
    "subject": "This Week in Palestine: An Emotional Reunion After Israel Releases Palestinian Captive Believed to Be Dead",
-   "date": "2026-07-11T11:38",
-   "url": null,
+   "date": "2026-07-11T11:30-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/palestine-week-gaza-strikes-israel-settlers",
    "bullets": [
     "Weekly roundup: Israel escalated Gaza attacks, killing at least two dozen including children and two aid workers; West Bank settler violence is up 560% since 2019 with 6.6% of cases indicted.",
     "One bright spot: an emotional reunion after Israel released a Palestinian captive his family believed was dead."
@@ -88,23 +115,11 @@
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
    "subject": "Socialist Arizona Candidate Says Israel Is Interfering in His Election",
-   "date": "2026-07-11T07:36",
-   "url": null,
+   "date": "2026-07-11T07:31-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/socialist-arizona-candidate-says",
    "bullets": [
     "Democratic socialist Kai Newkirk, challenging Rep. Greg Stanton in Arizona, tells Zeteo Israel is interfering in his primary — extending the Mamdani-style insurgent wave to a new state.",
     "He calls Stanton's record enabling the Gaza war 'morally disqualifying.'"
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260711130159.3.e2d1f7474565c1aa@mg-d0.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“I had become haunted by the simplest question: What did I care about?”",
-   "date": "2026-07-11T07:20",
-   "url": null,
-   "bullets": [
-    "Substack's Weekender: an essay on quitting and staying in New York ('What did I care about?'), writers debating AI's merits, and a dispatch from NBA summer league."
    ],
    "summary_by": "claude"
   },
@@ -113,8 +128,8 @@
    "newsletter": "Adrian Carrasquillo",
    "pub": "thebulwark",
    "subject": "Exclusive: The Next Frontier of the Deportation Wars: College Campuses",
-   "date": "2026-07-11T07:17",
-   "url": null,
+   "date": "2026-07-11T07:02-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/exclusive-next-frontier-deportation-wars-college-campus-flock-cameras",
    "bullets": [
     "Exclusive: activists are opening a new front against Flock license-plate cameras on college campuses, whose data feeds ICE target-hunting — an ambient dragnet catching immigrants on daily commutes.",
     "Follow-up: the GoFundMe for Lorenzo Salgado Araujo's family jumped from $58,000 to $425,000 after last week's newsletter on his killing by ICE."
@@ -126,10 +141,22 @@
    "newsletter": "Sarah Longwell - The Bulwark",
    "pub": "thebulwark",
    "subject": "Tommy Vietor: Democrats’ Way Forward on Israel",
-   "date": "2026-07-11T06:18",
-   "url": null,
+   "date": "2026-07-11T06:11-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/tommy-vietor-democrats-way-forward",
    "bullets": [
     "Tommy Vietor joins the Focus Group: Democratic voters' opinion of Israel has nosedived over three years, and Israel politics is now shaping 2026 primaries and the next presidential field."
+   ],
+   "summary_by": "claude"
+  },
+  {
+   "id": "20260711130159.3.e2d1f7474565c1aa@mg-d0.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“I had become haunted by the simplest question: What did I care about?”",
+   "date": "2026-07-11T06:01-07:00",
+   "url": "https://post.substack.com/p/i-had-become-haunted-by-the-simplest",
+   "bullets": [
+    "Substack's Weekender: an essay on quitting and staying in New York ('What did I care about?'), writers debating AI's merits, and a dispatch from NBA summer league."
    ],
    "summary_by": "claude"
   },
@@ -138,8 +165,8 @@
    "newsletter": "Dan Pfeiffer from The Message Box",
    "pub": "messagebox",
    "subject": "How Democrats Can Still Beat Susan Collins",
-   "date": "2026-07-11T05:30",
-   "url": null,
+   "date": "2026-07-11T05:29-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/how-democrats-can-still-beat-susan",
    "bullets": [
     "Pfeiffer's mailbag: Platner's exit actually leaves Maine winnable — Collins' campaign built its whole strategy around him, and a vetted progressive replacement scrambles it.",
     "He owns what he missed on Platner and points to his Pod Save America conversation with Alex Wagner for the postmortem."
@@ -151,8 +178,8 @@
    "newsletter": "Jim Swift - The Bulwark",
    "pub": "thebulwark",
    "subject": "Policy in Search of a Problem",
-   "date": "2026-07-11T04:39",
-   "url": null,
+   "date": "2026-07-11T04:32-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/policy-in-search-of-a-problem",
    "bullets": [
     "Overtime digest: Mark Hertling argues withdrawing U.S. troops from Europe is 'a policy in search of a problem' as DOD reviews force posture during the Ankara NATO summit.",
     "Also: evangelicals confronting Christian nationalism in their own churches, and Eric Edelman on the one word Trump won't say in Turkey."
@@ -164,8 +191,8 @@
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
    "subject": "Dennis Kelleher of Better Markets",
-   "date": "2026-07-11T03:34",
-   "url": null,
+   "date": "2026-07-11T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/dennis-kelleher-of-better-markets",
    "bullets": [
     "Krugman interviews Better Markets' Dennis Kelleher on the quiet demolition of financial regulation — 'termites' eating stability while attention is elsewhere.",
     "Kelleher's case: financial-crisis risk lands on everyone, not just the investor class that owns most assets."
@@ -177,8 +204,8 @@
    "newsletter": "This Week in Democracy",
    "pub": "zeteo",
    "subject": "This Week in Democracy – Week 77: ICE Kills Again, White Supremacists Descend on DC, and Trump Wants Birthright Ci…",
-   "date": "2026-07-10T15:56",
-   "url": null,
+   "date": "2026-07-10T15:53-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-77-ice",
    "bullets": [
     "Week 77 roundup: Trump fired the remaining Democratic election commissioners (post-Slaughter), ordered more Iran strikes mid-NATO-summit, and pardoned 11 including a $4M GOP donor tied to Abramoff.",
     "Also this week: Patriot Front white supremacists marched through DC on July 4, and the administration is pushing to have the birthright-citizenship case reheard."
@@ -190,8 +217,8 @@
    "newsletter": "Sarah and JVL - The Bulwark",
    "pub": "thebulwark",
    "subject": "Trump Did What? (Evergreen Tweet.)",
-   "date": "2026-07-10T14:19",
-   "url": null,
+   "date": "2026-07-10T14:07-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/trump-did-what-evergreen-tweet",
    "bullets": [
     "Sarah and JVL on Trump's NATO disgrace, whether McConnell is really working the phones on policy, and the Democratic factional fight — is strategist Morris Katz just the left's Steve Bannon?"
    ],
@@ -202,8 +229,8 @@
    "newsletter": "Sonny Bunch - The Bulwark",
    "pub": "thebulwark",
    "subject": "R.I.P. Attention Spans",
-   "date": "2026-07-10T12:17",
-   "url": null,
+   "date": "2026-07-10T12:10-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/rip-attention-spans",
    "bullets": [
     "Bulwark Goes to Hollywood interviews critic David Thomson on his new book 'A Sudden Flicker of Light' — film's amoral artistry has 'begun to diminish our nature.'",
     "Thomson calls Citizen Kane a 'shallow masterpiece' and traces the attention-span rot from packed 1930 movie palaces to TV to the phone in your pocket."
@@ -215,8 +242,8 @@
    "newsletter": "Zeteo",
    "pub": "zeteo",
    "subject": "Trump Could Move U.S. Bases to Israel. Here’s Why They’d Become Netanyahu’s Newest Human Shields",
-   "date": "2026-07-10T11:08",
-   "url": null,
+   "date": "2026-07-10T11:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-us-military-bases-israel-what-to-know",
    "bullets": [
     "Former defense intel analyst Harrison Mann: the Pentagon, after evacuating damaged HQs in Kuwait, Bahrain and Qatar, is exploring big permanent U.S. bases inside Israel.",
     "He argues they'd become Netanyahu's 'human shields' — empowering Israeli aggression and permanently entangling the U.S. — while Congress advances a bill merging U.S.-Israeli military R&D."
@@ -228,8 +255,8 @@
    "newsletter": "JVL - The Bulwark",
    "pub": "thebulwark",
    "subject": "The Red Menace Is Here!",
-   "date": "2026-07-10T10:58",
-   "url": null,
+   "date": "2026-07-10T10:51-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/the-red-menace-is-here",
    "bullets": [
     "The White House is promoting 'Freedom Fuel,' a mystery chain selling below-market gas whose trademark was filed the same day Trump first posted about it.",
     "JVL: the 'red menace' is Republican — a state-adjacent enterprise with zero transparency; no one can say who owns it or how it sells gas at a loss."
@@ -241,8 +268,8 @@
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
    "pub": "thebulwark",
    "subject": "A Season of Death and Fear",
-   "date": "2026-07-10T07:23",
-   "url": null,
+   "date": "2026-07-10T07:16-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/a-season-of-death-and-fear-immigration-mass-deportation-springfield-haitians-texas-ice",
    "bullets": [
     "Jim Swift reports from Springfield, Ohio: Haitian TPS work authorization expired today after Mullin v. Doe — employers must now fire longtime workers or violate federal law.",
     "Navigator poll: nearly half of Americans have watched a 2026 World Cup game, with identical enthusiasm among Democrats and Republicans."
@@ -254,8 +281,8 @@
    "newsletter": "Mehdi Unfiltered",
    "pub": "zeteo",
    "subject": "Does Trump Compare To Hitler? Mehdi Asks This Fascism Expert",
-   "date": "2026-07-10T07:14",
-   "url": null,
+   "date": "2026-07-10T07:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/does-trump-compare-to-hitler",
    "bullets": [
     "Mehdi interviews Omer Aziz ('Shadows of the Republic'): 'the much more dangerous part of fascism is the fascists in suits' — constitutional machinery turned against citizens.",
     "They cover whether Trump compares to Hitler, Musk's role in the global fascist project, and Aziz's three-point antifascist playbook."
@@ -267,8 +294,8 @@
    "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
    "pub": "macgregorwarrior",
    "subject": "A ‘Golden Spike’ to Transform America from Coast to Coast",
-   "date": "2026-07-10T05:22",
-   "url": null,
+   "date": "2026-07-10T05:15-07:00",
+   "url": "https://macgregorwarrior.substack.com/p/a-golden-spike-to-transform-america",
    "bullets": [
     "Macgregor republishes his 2018 op-ed pitching a 'golden spike' energy-maritime-infrastructure program as the strategic alternative to Obama-era piecemeal spending (paywalled past the intro)."
    ],
@@ -279,8 +306,8 @@
    "newsletter": "First Draft | Zeteo",
    "pub": "zeteo",
    "subject": "🆘 Trump’s Violent Crackdowns on U.S. Cities Are Still Happening. Don't Look Away",
-   "date": "2026-07-10T04:32",
-   "url": null,
+   "date": "2026-07-10T04:29-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trumps-violent-crackdowns-on-us-cities",
    "bullets": [
     "Swin: Trump's violent crackdowns on immigrants and blue cities are still escalating after the Minneapolis horror forced a PR 'reset' — the strategy is to wear the public out.",
     "Graham Platner's campaign confirms he'll formally withdraw from the Maine Senate race on Monday."
@@ -292,8 +319,8 @@
    "newsletter": "Sarah Longwell - The Bulwark",
    "pub": "thebulwark",
    "subject": "Trump's Own Judge Torched DOJ's Insane Election Subpoena (w/ Andrew Weissmann)",
-   "date": "2026-07-10T03:52",
-   "url": null,
+   "date": "2026-07-10T03:45-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/trumps-own-judge-torched-dojs-insane",
    "bullets": [
     "Sarah Longwell and Andrew Weissmann on the Trump-appointed judge who torched DOJ's subpoena demanding names of every 2020 Fulton County election worker.",
     "Also: DOJ's stunning concession in a reporter's Epstein-files lawsuit, what senators must ask Todd Blanche, and a surprising SCOTUS ruling on phone location data."
@@ -305,8 +332,8 @@
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
    "subject": "An Encouraging Encounter With Real Americans",
-   "date": "2026-07-10T03:34",
-   "url": null,
+   "date": "2026-07-10T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/an-encouraging-encounter-with-real",
    "bullets": [
     "Krugman reports for jury selection in Mercer County, NJ, and finds the mundane civic machinery — 78 people patiently waiting to state conflicts — quietly encouraging about Americans."
    ],
@@ -317,8 +344,8 @@
    "newsletter": "Doomberg",
    "pub": "doomberg",
    "subject": "Sources and Methods",
-   "date": "2026-07-10T02:05",
-   "url": null,
+   "date": "2026-07-10T02:01-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/sources-and-methods",
    "bullets": [
     "Doomberg: energy-war analysis is now propaganda discernment — the FT's 'apocalyptic' footage of Ukraine's June 18 strike on Moscow's biggest refinery says little about real damage to Russian output."
    ],
@@ -329,8 +356,8 @@
    "newsletter": "Catherine Rampell - The Bulwark",
    "pub": "thebulwark",
    "subject": "The Price of Staying on Trump’s Good Side",
-   "date": "2026-07-09T17:51",
-   "url": null,
+   "date": "2026-07-09T17:42-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/the-price-of-staying-on-trumps-good-side-walmart",
    "bullets": [
     "Trump claimed Walmart cut ground-beef prices ~15% 'at his administration's request' — it was a routine July Rollback promotion already underway.",
     "Rampell: companies are learning that letting Trump take credit is the price of staying on his good side — free marketing for them, corroded markets for everyone else."
@@ -342,8 +369,8 @@
    "newsletter": "Zeteo | Dark Side of the World Cup",
    "pub": "zeteo",
    "subject": "The Dark Side of the World Cup: Balogun and Egypt VAR Decisions Fuel Allegations of Corruption",
-   "date": "2026-07-09T16:09",
-   "url": null,
+   "date": "2026-07-09T16:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/world-cup-balogun-var-fifa",
    "bullets": [
     "Final 'Dark Side of the World Cup' episode ties Trump pressuring Infantino to reverse Balogun's red card, and VAR calls against Egypt and Iran, to FIFA's long corruption history.",
     "Jules Boykoff: the World Cup is where 'a privileged sliver of the global 1%... cut deals with each other' in the luxury boxes."
@@ -355,8 +382,8 @@
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
    "subject": "‘A First-of-Its-Kind’ Poll About Medicare for All",
-   "date": "2026-07-09T12:13",
-   "url": null,
+   "date": "2026-07-09T12:04-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/medicare-for-all-poll-searchlight-institute",
    "bullets": [
     "Zeteo partnered with centrist Searchlight Institute on a first-of-its-kind Medicare for All poll: single-payer draws majority or plurality support depending on wording.",
     "Strong support for government covering healthcare costs sits alongside deep skepticism that government can run a national program."
@@ -368,8 +395,8 @@
    "newsletter": "Joe Perticone - The Bulwark",
    "pub": "thebulwark",
    "subject": "The Drinking Culture on Capitol Hill is Worse Than You Might Think",
-   "date": "2026-07-09T12:09",
-   "url": null,
+   "date": "2026-07-09T11:58-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/drinking-culture-capitol-hill-worse-you-might-think-sexual-harrassment-assault-swalwell-gallego-patel-mccaul-franken",
    "bullets": [
     "Guest author Jake Lahut maps Capitol Hill's drinking ecosystem: female staffers keep whisper networks of which bars — and which booze-drenched lawmakers — to avoid.",
     "The culture underpins abuse scandals like Platner's and Swalwell's; Twain complained about DC booze in 1889 and it's only gotten worse."
@@ -381,8 +408,8 @@
    "newsletter": "JVL - The Bulwark",
    "pub": "thebulwark",
    "subject": "Progressives Are Mad at the Wrong People",
-   "date": "2026-07-09T09:39",
-   "url": null,
+   "date": "2026-07-09T09:31-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/progressives-are-mad-at-the-wrong-people-graham-platner",
    "bullets": [
     "JVL: progressives raging at the Democratic establishment (or Israel, or oligarchs) over Platner's implosion are misreading it — an imperfect establishment is still the only vehicle against Trumpism.",
     "Conflating the fight for Medicare for All with the fight against authoritarianism is 'a grievous mistake.'"
@@ -394,8 +421,8 @@
    "newsletter": "Mehdi Unfiltered",
    "pub": "zeteo",
    "subject": "‘Death’ and ‘Mass Murder’: Abby Martin on U.S. Policy Toward Cuba",
-   "date": "2026-07-09T08:07",
-   "url": null,
+   "date": "2026-07-09T08:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/death-and-mass-murder-are-us-policy-towards-cuba",
    "bullets": [
     "Abby Martin — first U.S. journalist to interview Cuban president Díaz-Canel — tells Mehdi U.S. sanctions are collapsing Cuba's grid: 'mass murder is the policy.'",
     "Her documentary 'Cuba After Castro' connects Cuba to Gaza, which she calls the 'connective tissue' of U.S. foreign-policy harm."
@@ -407,8 +434,8 @@
    "newsletter": "Will Sommer - The Bulwark",
    "pub": "thebulwark",
    "subject": "Meet the Man Who Could Cost Candace Owens Millions",
-   "date": "2026-07-09T07:58",
-   "url": null,
+   "date": "2026-07-09T07:50-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/meet-the-man-who-could-cost-candace-owens-millions-mitch-snow",
    "bullets": [
     "Students for Trump founder Ryan Fournier was arraigned on six new counts — his first felony — for obstruction, assault and threats, atop cocaine and gun cases.",
     "Main story: the self-proclaimed son of the Zodiac killer whose defamation case could cost Candace Owens millions."
@@ -420,8 +447,8 @@
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
    "pub": "thebulwark",
    "subject": "An American Life Cut Short",
-   "date": "2026-07-09T06:18",
-   "url": null,
+   "date": "2026-07-09T06:04-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/an-american-life-cut-short-salgado-araujo-ice-shooting-killing-houston-deportation-trump-miller-mullin",
    "bullets": [
     "Kristol on Lorenzo Salgado Araujo, killed by ICE agents while driving to work in Houston — immigrants as keepers of the work-and-family American creed.",
     "Platner suspended his campaign in a long, apology-free video; Maine Democrats plan a ~600-delegate convention to pick his replacement."
@@ -433,8 +460,8 @@
    "newsletter": "First Draft | Zeteo",
    "pub": "zeteo",
    "subject": "💣 Iran Humiliates Trump Again as His Imperial Bloodlust Surges",
-   "date": "2026-07-09T04:15",
-   "url": null,
+   "date": "2026-07-09T04:06-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/iran-humiliates-trump-again-as-his",
    "bullets": [
     "The U.S. and Iran are exchanging strikes again as a 'ceasefire that never really began' collapses; a senior U.S. official on Trump: 'Nobody's afraid of him right now.'",
     "After two chaotic NATO summit days in Ankara, Trump flew home to a government and adversaries that increasingly tune out his threats."
@@ -446,8 +473,8 @@
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
    "subject": "The Heat Is On",
-   "date": "2026-07-09T03:34",
-   "url": null,
+   "date": "2026-07-09T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-heat-is-on",
    "bullets": [
     "Extreme heat forced early closure of Trump's Great American State Fair — 44 people treated, 11 hospitalized — after 'virtually impossible without climate change' heat waves in the US and Europe.",
     "Krugman: focusing on average warming misleads — a few degrees means a huge jump in extreme-event frequency, and the social and economic bill is arriving now."
@@ -459,26 +486,27 @@
    "newsletter": "The Bulwark",
    "pub": "thebulwark",
    "subject": "Birthright Citizenship Is Not Just for Immigrants",
-   "date": "2026-07-08T16:12",
-   "url": null,
+   "date": "2026-07-08T16:05-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/birthright-citizenship-is-not-just",
    "bullets": [
-    "(Photo illustration by Bill Kuchman/The Bulwark | Photos: Shutterstock) NOW THAT WE’VE COMPLETED our celebration of America’s 250th birthday it’s time to prepare for the 300th—the tricentennial. I will not live to see it but I hope the nati…",
-    "At least, I hope a certain kind of America will celebrate its 300th year—one that has regained its moral equilibrium and turned its back resoundingly on illiberalism in all its ugly forms. If the United States does not reverse its current r…"
+    "The Supreme Court’s recent decision in Trump v. Barbara reaffirmed birthright citizenship, citing the Fourteenth Amendment’s original intent and the 1898 Wong Kim Ark precedent, reinforcing equality for nearly all children born on U.S. soil.",
+    "The author argues that congressional legislation cannot overturn this constitutional ruling, warning that attempts by figures like Speaker Mike Johnson to reverse it ignore the finality of Supreme Court interpretations.",
+    "By upholding birthright citizenship, the Court preserves a core democratic principle, countering anti‑immigrant rhetoric and preventing a shift toward citizenship based on race, ancestry, or wealth."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260708210105.3.f4d25cde2c0ec71c@mg-d1.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
    "subject": "Meet Fox's Latest Favorite Primetime Guest: A Democratic Senator",
-   "date": "2026-07-08T14:08",
-   "url": null,
+   "date": "2026-07-08T14:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/fox-fetterman-democrats-hannity",
    "bullets": [
-    "Trump's fav cable network can't get enough of the Dem it once called a 'giant walking vegetable.' Plus, '60 Minutes' is still getting Bari'd, and a new TDS is taking over the MAGA world.",
-    "Good evening, and welcome to this week’s ‘Ragebait.’ Justin Baragona here, bringing you the latest media dispatches from the right-wing industrial outrage complex and Bari World. In tonight’s edition, we reveal just how often a certain MAGA…"
+    "Fox’s primetime lineup repeatedly attacked Pennsylvania Democrat John Fetterman during the 2022 midterms, calling him a “giant walking vegetable,” an “incompetent husk” after his stroke, and falsely labeling his policies as “pro‑murderer” and drug‑legalization.",
+    "Despite that earlier smear campaign, Fox now regularly invites Fetterman as a guest, turning him into a favored voice on the network’s MAGA‑aligned shows."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260708195046.3.9a2bda1a5f71c1d1@mg2.substack.com",
@@ -498,13 +526,14 @@
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
    "subject": "The Pain in Spain is Mainly in Trump's Brain",
-   "date": "2026-07-08T12:57",
-   "url": null,
+   "date": "2026-07-08T12:49-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-pain-in-spain-is-mainly-in-trumps",
    "bullets": [
-    "This isn't about economics, it's about mental health Yesterday, Donald Trump ordered Scott Bessent, the Secretary of theTreasury, to cut off all trade with Spain. Bessent said “Yes, sir.” Trump also said that this is because the Spaniards h…",
-    "Okay, I made up that second part, but he did in fact order Bessent to cut off all trade. Presidents have a lot of discretionary authority on tariffs and trade, more than they should, but you do not have the right as president to impose tari…"
+    "Trump ordered Treasury Secretary Scott Bessent to cut off all trade with Spain, but this is legally and practically impossible due to EU membership and U.S. trade dependencies.",
+    "Krugman calls Trump's actions irrational, arguing no functioning political system would tolerate a leader making unilateral, nonsensical trade demands.",
+    "The crisis reflects a deeper failure in U.S. governance, as institutions enable a 'personality cult' around an unstable figure rather than challenging his authority."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260708180208.3.2d08ce325b802194@mg2.substack.com",
@@ -524,78 +553,84 @@
    "newsletter": "We're Not Kidding | Zeteo",
    "pub": "zeteo",
    "subject": "‘We’re Gonna Be Killed By the Dumbest Fascists on Earth’: Mehdi & Wajahat Ali Laugh and Lament Over the Future of …",
-   "date": "2026-07-08T07:17",
-   "url": null,
+   "date": "2026-07-08T07:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/wajahat-ali-dumb-fascists-america-250",
    "bullets": [
-    "‘We’re Gonna Be Killed By the Dumbest Fascists on Earth’: Mehdi & Wajahat Ali Laugh and Lament Over the Future of America The longtime friends discuss their shared love of Bond movies, the rise of white supremacy, the World Cup's latest con…",
-    "Mehdi and Wajahat Ali have been friends for almost two decades. And just like with any good friend, there’s a lot the two don’t agree on, from who they think the best Bond actor is to whether there are alliances the left can make with the f…"
+    "Mehdi and Wajahat Ali argue immigrants are vital to America, with Waj’s memoir “Go Back to Where You Came From” warning of backlash against immigrants in their homeland and sharing personal stories of Pakistani and Pakistani‑American heritage.",
+    "They critique current U.S. politics, contrasting Zohran Mamdani’s hopeful 4th‑of‑July speech with Donald Trump’s negative one, and recount MAGA crowds dismissing weather reports as “liberal” conspiracies during a storm‑hit event.",
+    "The conversation also covers Waj’s parents’ imprisonment, Trump’s interference in the World Cup, U.S. versus UK extremism, rising Islamophobia, and a brief mention of the Epstein Files."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260708133119.3.623d73a60eb33b9a@mg-d0.substack.com",
    "newsletter": "Here Be Dragons from Barbara F. Walter",
    "pub": "barbarafwalter",
    "subject": "Call Your Friend",
-   "date": "2026-07-08T06:32",
-   "url": null,
+   "date": "2026-07-08T06:31-07:00",
+   "url": "https://barbarafwalter.substack.com/p/call-your-friend",
    "bullets": [
-    "We know what matters. We just don't live like it. One of the most robust findings in the social sciences is that relationships matter. One of the most robust findings in the social sciences is that relationships matter.",
-    "Researchers have tracked thousands of people over years and lifetimes. They’ve analyzed their education, intelligence, income, professional success, marriage, health, and wealth. In the end, they always reach the same conclusion."
+    "Studies of thousands of people show that strong relationships boost health, longevity, and life satisfaction, yet Americans spend less time with friends than a generation ago, driving a national loneliness epidemic.",
+    "Cross‑cultural observations—from the Huaorani chief in Ecuador to laborers in Laos—demonstrate that people in precarious environments invest deeply in relationships because life’s fragility makes each bond feel high stakes.",
+    "The author urges readers to seize the slower summer months to intentionally nurture friendships—calling a friend, inviting over, or simply chatting with a stranger—before life’s demands erode those connections."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260708131757.3.d77827f7f17a328e@mg-d1.substack.com",
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
    "pub": "thebulwark",
    "subject": "ICE Is Shooting People Again",
-   "date": "2026-07-08T06:24",
-   "url": null,
+   "date": "2026-07-08T06:17-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/ice-is-shooting-people-again-afghan-houston-detention-centers-iran-war-trump",
    "bullets": [
-    "WILLIAM KRISTOL, BENJAMIN PARKER, AND JIM SWIFT And so once more we’re at war. Central Command announced yesterday afternoon it had conducted “a series of powerful strikes against Iran to impose heavy costs for targeting and attacking comme…",
-    "The reasons various parts of the administration provided for these strikes were stultifyingly stupid. One official told Axios’s Barak Ravid, “As President Trump and the administration have repeatedly affirmed, the MOU in effect with Iran is…"
+    "U.S. Central Command announced new strikes on Iran after alleged attacks on commercial shipping, with Trump saying the cease‑fire is over while still urging negotiations for a new one.",
+    "ICE faced scrutiny after two deaths: Afghan veteran Mohammad Nazeer Paktiawal died in custody from an alleged drug reaction despite his wife’s pleas for his inhaler, and Mexican construction worker Lorenzo Salgado Araujo was killed during a disputed vehicle stop, with DHS providing no evidence of a “weaponized” vehicle.",
+    "The newsletter links these incidents to Trump’s aggressive mass‑deportation agenda, noting 21 ICE deaths recorded in 2026 and accusing the administration of institutionalized cruelty."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260708112947.3.ca6495106342940f@mg-d1.substack.com",
    "newsletter": "First Draft | Zeteo",
    "pub": "zeteo",
    "subject": "‘Not AIPAC’s Guy’",
-   "date": "2026-07-08T04:34",
-   "url": null,
+   "date": "2026-07-08T04:29-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/not-aipac-guy-el-sayed-stevens-michigan",
    "bullets": [
-    "The Michigan Senate Democratic primary debate between progressive Abdul El-Sayed and centrist Haley Stevens got heated, while Donald Trump played victim in Turkey, and the U.S struck Iran yet again.",
-    "🚨 Breaking: President Donald Trump cast doubt on the interim agreement with Iran after he called the ceasefire “over” and said dealing with Tehran was a waste of time. The comments followed U.S. strikes on Iran in what the U.S. said was a r…"
+    "President Trump publicly doubted the interim Iran nuclear agreement, called the ceasefire “over,” and labeled talks with Tehran a waste, yet said he’d still permit negotiations after U.S. strikes in the Strait of Hormuz",
+    "The Michigan Democratic Senate primary has narrowed to Abdul El‑Sayed versus Rep. Haley Stevens, with Stevens portrayed as backed by AIPAC and Senate leader Chuck Schumer and criticized for accepting big‑tech and corporate donations",
+    "During the debate, the candidates clashed over U.S. policy toward Israel, with El‑Sayed accusing Stevens of being beholden to pro‑Israel interests while she defended her record and dismissed his critiques"
    ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260708103038.3.5d301e7ac5fa89f1@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Pathetic in Ankara",
-   "date": "2026-07-08T03:38",
-   "url": null,
-   "bullets": [
-    "A recent report in the Wall Street Journal describes a tense meeting among European leaders early this year, convened after Donald Trump threatened to use military force to seize Greenland from Denmark. According to the Journal,",
-    "heads of government were venting so emotionally about the 47th president that some of the nearly 30 leaders present would later call the session “therapy night.” Yesterday, soon after he arrived in Ankara for the NATO Summit, Trump reiterat…"
-   ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260708103206.3.e96d91ebf3379e1e@mg2.substack.com",
    "newsletter": "Dan Pfeiffer from The Message Box",
    "pub": "messagebox",
    "subject": "Can a Democrat Really Win Texas?",
-   "date": "2026-07-08T03:37",
-   "url": null,
+   "date": "2026-07-08T03:32-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/can-a-democrat-really-win-texas",
    "bullets": [
-    "Thank you for reading Message Box. This is a community of more than 160,000 activists, organizers, political junkies, and others who care about our democracy. I’m privileged to write for such an incredible group. Special thanks to our paid …",
-    "Plus thoughts on how Dems should respond to the DSA and what comes next for NBC News. I hope everyone had a great Fourth of July holiday and celebrated our country despite Trump’s best efforts to destroy it."
+    "Democrats see a tighter Texas race this year, with a NYT poll showing Rep. James Talarico and Gov. Greg Abbott dead‑locked at 47% each, despite the GOP planning roughly $500 million in negative ads against Talarico.",
+    "Pfeiffer argues Democrats have a better chance than in 2018 because of three factors he outlines, though the email cuts off before naming them.",
+    "He notes the emotional toll of past Texas losses, citing Beto O’Rourke’s 2018 campaign as a high point that raised hopes but ultimately fell short."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260708103038.3.5d301e7ac5fa89f1@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Pathetic in Ankara",
+   "date": "2026-07-08T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/pathetic-in-ankara",
+   "bullets": [
+    "European leaders, frustrated by Trump’s renewed Greenland demand, are accelerating a “de‑Americanization” push, dropping US tech like Microsoft and investing hundreds of billions in homegrown AI, space and data infrastructure.",
+    "Trump’s failures in Iran, the near‑total cut of US aid to Ukraine (99%) and the ineffective tariff war have shown the limits of US military, financial and economic power, prompting allies to seek alternatives such as crypto, Chinese yuan and independent pipelines.",
+    "Consequently, NATO’s Ankara summit is expected to produce little, as allies now treat Trump as a senile blusterer and focus on building a world less dependent on US influence."
+   ],
+   "summary_by": "groq"
   },
   {
    "id": "20260708010905.3.c9a6087c87dd038b@mg2.substack.com",
@@ -628,26 +663,27 @@
    "newsletter": "Zeteo",
    "pub": "zeteo",
    "subject": "World’s Worst Person Is Also World’s First Trillionaire. What Does That Mean for the Rest of Us?",
-   "date": "2026-07-07T16:49",
-   "url": null,
+   "date": "2026-07-07T16:43-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/elon-musk-trillionaire-klein",
    "bullets": [
-    "In this latest episode of 'Unshocked,' Naomi and Mehdi break down what Elon Musk’s trillionaire status means for democracy, capitalism, and the rise of racism. What does it take to become the world’s first trillionaire, even if only for a f…",
-    "According to Naomi and Mehdi, the equation looks a bit more like this – a combination of government subsidies, ridiculous IPO promises, political corruption, and perhaps being one of the most horrible people on the planet."
+    "Elon Musk’s recent trillionaire status is attributed to a mix of government subsidies, unrealistic IPO promises, and political corruption, raising concerns about wealth-driven impunity and democratic erosion.",
+    "The interview critiques Musk’s SpaceX IPO goals—space tourism and AI data centers in space—as wildly unrealistic, and highlights his feud with Rep. Ro Khanna over deaths linked to DOGE’s USAID cuts.",
+    "Peter Thiel’s claim that democracy and freedom are incompatible is discussed, alongside protests in Albania over a Trump-linked resort plan on a protected nature reserve."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260707191649.3.216eda8c72acf4bd@mg-d1.substack.com",
    "newsletter": "Will Sommer - The Bulwark",
    "pub": "thebulwark",
    "subject": "MAGA Loves Trump’s World Cup Meddling—Until We Lose",
-   "date": "2026-07-07T12:25",
-   "url": null,
+   "date": "2026-07-07T12:16-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/maga-loves-trumps-world-cup-meddlinguntil",
    "bullets": [
-    "Welcome back to False Flag! Pro-Trump rapper Tom MacDonald kicked off the July Fourth weekend with a new patriotic anthem about how sick it is to be an American, “Us in the USA.” The track has already racked up more than 2.9 million views o…",
-    "The face-tatted performer—who is actually Canadian—wanted to celebrate the moon landing in his song as an example of American exceptionalism. But in a sign of how whacked-out the right is these days, MacDonald recognized that he couldn’t ta…"
+    "Trump called FIFA president Gianni Infantino to lift a one‑game suspension on American‑born striker Folari Balogun, who had received a red card in a prior match, sparking a brief surge of pro‑Trump soccer enthusiasm that ended when the U.S. lost 4‑1 to Belgium and the movement quickly abandoned the sport",
+    "MAGA figures such as Benny Johnson, Dave Portnoy, and Laura Loomer celebrated Trump’s intervention, posted paid ads, and later mocked the U.S. defeat, while conservative commentators like Alex Marlow and Tyler Bowyer framed the incident as a victory for American citizenship and presidential power"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260707152156.3.a9b04b1c1a5417c3@mg2.substack.com",
@@ -667,13 +703,14 @@
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
    "pub": "thebulwark",
    "subject": "A Case Study in Recklessly Endangering the Senate",
-   "date": "2026-07-07T06:26",
-   "url": null,
+   "date": "2026-07-07T06:19-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/a-case-study-in-recklessly-endangering-senate-graham-platner-sexual-assault-allegation-midterms-maine-susan-collins-democrats",
    "bullets": [
-    "Graham Platner had talent, but was selfish and reckless. And now it will take the type of politics he decried to clean up his mess. SAM STEIN, BENJAMIN PARKER, AND JIM SWIFT Soccer? Never heard of it. Happy Tuesday.",
-    "Join Bill Kristol and Ben Parker for Morning Shots Live today at 10:30 a.m. EDT on Substack and YouTube. Democratic U.S. Senate candidate Graham Platner speaks to voters at a town hall at the Elks Lodge 188 on June 7, 2026 in Portland, Main…"
+    "A former Maine Democratic Senate candidate, Graham Platner, was accused by a former girlfriend of a 2019 sexual assault, with Facebook messages and a second ex‑boyfriend corroborating her claim, prompting his likely withdrawal before the July 13 deadline.",
+    "Democrats fear Platner’s scandal could jeopardize Senate control and damage party credibility, as insiders warn replacing him mid‑race is difficult and may fuel conspiracy narratives among voters.",
+    "Bill Kristol and Ben Parker will discuss the fallout and broader implications on their Morning Shots Live show at 10:30 a.m. EDT today."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260707110811.3.68d14a00cd7571eb@mg-d0.substack.com",
@@ -693,26 +730,27 @@
    "newsletter": "Dan Pfeiffer from The Message Box",
    "pub": "messagebox",
    "subject": "Thoughts on Graham Platner's Imploding Campaign",
-   "date": "2026-07-07T03:44",
-   "url": null,
+   "date": "2026-07-07T03:43-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/thoughts-on-graham-platners-imploding",
    "bullets": [
-    "Thank you for reading Message Box. This is a community of more than 160,000 activists, organizers, political junkies, and others who care about our democracy. I’m privileged to write for such an incredible group. Special thanks to our paid …",
-    "Why I backed him, what the allegations change, and where Maine Democrats go from here For weeks now, Democrats have been holding their breath, afraid that another shoe would drop about Graham Platner."
+    "Jenny Racicot accused Democratic Senate nominee Graham Platner of 2021 sexual assault, with Politico detailing her account of non-consensual encounter.",
+    "Dan Pfeiffer admits supporting Platner was a mistake, urging him to drop out to allow a Democratic replacement in Maine against Susan Collins.",
+    "Allegations include Platner entering Racicot's home uninvited, intoxicated, and using force during the assault, per Politico's reporting."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260707103039.3.ff59796b05424f54@mg2.substack.com",
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
    "subject": "Day Off",
-   "date": "2026-07-07T03:35",
-   "url": null,
+   "date": "2026-07-07T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/day-off-906",
    "bullets": [
-    "Crashing headache yesterday. I blame EU-KLEMS. Hoping to be back tomorrow. You’re currently a free subscriber to Paul Krugman. For the full experience, upgrade your subscription. Give the gift of Paul Krugman's Substack",
-    "548 Market Street PMB 72296, San Francisco, CA 94104"
+    "Paul Krugman took a day off due to a crashing headache, attributing it to EU-KLEMS data analysis.",
+    "He anticipates returning to his usual schedule tomorrow."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260707090139.3.4ad740d323e9fb02@mg2.substack.com",
@@ -745,78 +783,83 @@
    "newsletter": "The Bulwark",
    "pub": "thebulwark",
    "subject": "Graham Platner Crossed the Voters’ Red Line",
-   "date": "2026-07-06T16:32",
-   "url": null,
+   "date": "2026-07-06T16:20-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/graham-platner-crossed-the-voters-red-line-sexual-assault-allegation-maine-senate-election-midterms",
    "bullets": [
-    "There was one thing Maine women told us would keep them from supporting him—and it just became public. (Photo Illustration by Bill Kuchman/The Bulwark | Photos: Getty) POLITICO REPORTED ON MONDAY AFTERNOON that Graham Platner’s ex-girlfrien…",
-    "He should, and not just on moral grounds. Because before this story was published, Maine voters in our focus groups told us that they would likely abandon Platner over this exact type of scandal."
+    "Graham Platner, the Democratic nominee for Maine’s Senate seat, faced a sexual assault allegation from his ex‑girlfriend claiming he forced her to have sex nearly five years ago, as reported by POLITICO and the New York Times.",
+    "Platner released a video denying the allegations but did not clarify whether he would withdraw from the race, despite focus groups showing Maine voters, especially women who supported Kamala Harris, would likely abandon him over such a scandal.",
+    "Prior to the allegations, Platner’s conduct—including a Nazi tattoo and reports of toxic behavior—had already sparked controversy, yet many voters in a June 3 focus group remained willing to support him until the accusations surfaced."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260706202344.3.8d01363d267605ce@mg-d1.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
    "subject": "BREAKING: Graham Platner Accused of Sexual Assault",
-   "date": "2026-07-06T13:28",
-   "url": null,
+   "date": "2026-07-06T13:23-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/graham-platner-accused-sexual-assault",
    "bullets": [
-    "This email is from Zeteo’s U.S. Politics section, which is focused on bringing you original reporting and sharp analysis on politics in the U.S., and particularly the Trump administration. If you’d like to unsubscribe from this section – bu…",
-    "A woman told Politico that Maine’s Democratic Senate nominee drunkenly assaulted her in 2021. Platner has a week to drop out of the race. Graham Platner speaks to voters at a town hall on June 7, 2026 in Portland, Maine. Photo by Laura Bret…"
+    "Graham Platner, Maine’s Democratic Senate nominee, is accused by Jenny Racicot of forcibly assaulting her in 2021 after arriving drunk at her home, a claim he denies and has led to event cancellations and calls for his withdrawal before the July 13 deadline.",
+    "Platner’s campaign, already tainted by past scandals—including a Nazi‑style tattoo, misogynist Reddit posts, sexting after marriage, and a 2013‑15 intimidation allegation—has seen support from high‑profile progressives but limited Democratic fundraising, leaving Republican incumbent Susan Collins in a strong position."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260706171447.3.0b421711b74fee5e@mg-d0.substack.com",
    "newsletter": "JVL - The Bulwark",
    "pub": "thebulwark",
    "subject": "Ode to JVL",
-   "date": "2026-07-06T10:22",
+   "date": "2026-07-06T10:14-07:00",
    "url": null,
    "bullets": [
-    "Family man, curmudgeon, lover of people. JVL would have come up with a funny caption for this photo. (The Bulwark) JVL’s mother-in-law passed away last night. JVL texted me and Tim in the middle of the night to let us know about her passing…",
-    "I scrolled up and looked at the picture JVL had sent us over the weekend of his entire family camped out in the living room, surrounding her and keeping vigil. And I had a thought: Readers of this newsletter obviously know a lot about JVL, …"
+    "JVL’s mother‑in‑law died, prompting him to pause The Triad and devote time to his family, revealing his deep, often surprising devotion to loved ones; his wife and friends note his rare, intense care for her.",
+    "JVL’s close friendship with the newsletter’s author and co‑hosts—Tim and Bill—has evolved from a professional partnership into a tight personal bond, with constant text chats blending work and life.",
+    "The author urges readers to support the late mother‑in‑law’s favorite charity, highlighting JVL’s ongoing commitment to his community and the emotional impact of his generosity."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260706160347.3.0ed3abc39c71b1c7@mg-d1.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
    "subject": "LAST CHANCE TO SAVE 25% OFF! Zeteo Sale Ends Tomorrow",
-   "date": "2026-07-06T09:11",
-   "url": null,
+   "date": "2026-07-06T09:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/last-chance-to-save-25-off-sale-ends",
    "bullets": [
-    "Don't miss out on your last chance to receive our special discount pricing. The big Zeteo 'Independence Day' sale ends tomorrow at midnight. Our biggest sale of the year ends tomorrow!",
-    "If you’ve been reading Zeteo but haven’t yet become a paid subscriber, this is your chance to join at our best price of the year. Only pay $5.25/month for an annual subscription. Right now, you’re only seeing part of what Zeteo has to offer…"
+    "Zeteo’s annual subscription is discounted 25% to $5.25/month, ending tomorrow at midnight (July 7).",
+    "Paid subscribers gain full access to exclusive interviews, podcasts, documentaries, live Q&As, and events.",
+    "The offer emphasizes supporting independent journalism against billionaire‑owned media."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260706132519.3.4f301d8a20974fa7@mg2.substack.com",
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
    "pub": "thebulwark",
    "subject": "America’s 250th Survived Trump’s Sabotage",
-   "date": "2026-07-06T06:32",
+   "date": "2026-07-06T06:25-07:00",
    "url": null,
    "bullets": [
-    "The president tried to make the event all about himself. He failed. And for that, the country succeeded. WILLIAM KRISTOL, BENJAMIN PARKER, AND JIM SWIFT We trust everyone had an enjoyable Independence Day weekend—unless you were on the Nati…",
-    "Andrew Egger is off for two weeks, but somehow we’ll keep this newsletter going until he gets back. Happy Monday. Join Sam Stein and Will Sommer for MAGA Mondays at 10 a.m. EDT today on Substack and YouTube."
+    "Trump tried to hijack the 250th anniversary with a Mt. Rushmore video and a Fourth of July spectacle, but his efforts were eclipsed by historic symbols, the World Cup, and Pope Francis’s Liberty Medal speech praising America’s liberty legacy.",
+    "The author argues that the true spirit of the anniversary is embodied by figures like Pope Francis, Ukraine’s Zelensky and Hungary’s new PM Péter Magyar, who uphold liberal democracy over Trump’s self‑aggrandizement",
+    "Trump’s post‑holiday barrage of 100+ Truth Social posts and his upcoming NATO summit trip underscore his frantic attempts to stay relevant, while critics warn his actions could further damage U.S. standing in the alliance"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260706130032.3.17bb544857c5db09@mg-d0.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
    "subject": "Kidnapped Gaza Doctor Faces ‘Life-Threatening Condition’ in Israeli Captivity",
-   "date": "2026-07-06T06:16",
-   "url": null,
+   "date": "2026-07-06T06:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/kidnapped-gaza-doctor-hussam-abu-safiya-life-threatening-condition",
    "bullets": [
-    "'This is the last time you’ll see me,' Dr. Hussam Abu Safiya told his lawyer. 'They brought me here to kill me.' Abu Karsheli paints a portrait of Dr. Hussam Abu Safiya on the rubble of a building destroyed in Israeli attacks on June 27, 20…",
-    "A famed Palestinian hospital director who Israel abducted in December 2024 is on the brink of death, his lawyer warns. Dr. Hussam Abu Safiya has been in Israeli captivity for 18 months, ever since Israeli forces shut down the crucial Kamal …"
+    "Dr. Hussam Abu Safiya, a prominent Gaza pediatrician abducted in Dec 2024, is in a life‑threatening condition after daily beatings, including a hammer attack, while held in Israeli administrative detention for 18 months without charge",
+    "His lawyer reports severe bruising, breathing difficulties and loss of consciousness, and the Israeli Supreme Court has been ordered to respond to a petition demanding his release and an independent prison inspection",
+    "The WHO, UN rapporteurs, Amnesty International and several UK MPs have called for his immediate release, while US leaders have remained silent"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260706110540.3.cc7adbb8e44d1058@mg-d1.substack.com",
@@ -849,156 +892,159 @@
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
    "subject": "Pump and Dump and Trump",
-   "date": "2026-07-06T03:36",
-   "url": null,
+   "date": "2026-07-06T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/pump-and-dump-and-trump",
    "bullets": [
-    "For all my interviews and more, subscribe on YouTube. Donald Trump has distinguished himself in many ways. One of them is that he is our first pump and dump president. Hi, Paul Krugman here. A podcast today rather than a full-on piece: I’m …",
-    "Obviously no president has enriched himself from office the way that Trump has. That’s common knowledge. One of the things that is really amazing about it, however, is the way in which he enriched himself — a lot of which has to do with cry…"
+    "Donald Trump’s Trumpcoin lost 97% of its value, wiping out $3.8 billion for nearly one million retail investors, while insiders profited from early sales before the crash.",
+    "Trump’s administration’s pro‑crypto rhetoric pushed the market cap from ~$2 trillion to >$4 trillion after the 2024 election, only to see Bitcoin prices halve and the crypto market lose roughly $2 trillion in value, a modern pump‑and‑dump on unprecedented scale."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260705230043.3.516fb21aa441ab0d@mg-d1.substack.com",
    "newsletter": "Sarah Longwell—The Bulwark",
    "pub": "thebulwark",
    "subject": "Voters are Sounding More and More Like Trump on Birthright Citizenship",
-   "date": "2026-07-05T16:13",
+   "date": "2026-07-05T16:00-07:00",
    "url": null,
    "bullets": [
-    "One last reminder: Our July Fourth sale for new Bulwark+ members ends tonight. Just a few hours left to grab a year-long membership for $86. He lost in court. But he’s bending reality to his warped point of view.",
-    "(Illustrations by Sarah Rogers/The Bulwark) A MAJORITY OF THE SUPREME COURT decided last week to follow the obvious, black-letter text of the Constitution and uphold birthright citizenship. This should not have been a close call."
+    "The Supreme Court upheld birthright citizenship in a 5‑4 ruling, rejecting Trump’s executive order as unconstitutional, despite justices appearing divided on the issue.",
+    "A focus group of Trump‑voting Florida women revealed strong skepticism of the 160‑year‑old precedent, framing immigration as a zero‑sum threat while still supporting “legal” pathways for newcomers.",
+    "The author argues that Trump’s failed legal push has shifted Republican rank‑and‑file rhetoric to mirror his hard‑line immigration stance, making it a litmus test for future GOP candidates."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260705204303.3.cbd5fb55a2f6eb8d@mg-d1.substack.com",
    "newsletter": "Sarah Longwell—The Bulwark",
    "pub": "thebulwark",
    "subject": "Our flash sale ends tonight at midnight.",
-   "date": "2026-07-05T13:52",
+   "date": "2026-07-05T13:43-07:00",
    "url": null,
    "bullets": [
-    "ICYMI: OUR JULY FOURTH SALE ENDS AT MIDNIGHT TONIGHT! Upgrade today for just $86 for a year of unlimited access to: community commenting features and members-only live chats; and Read, watch, or listen when you want via TheBulwark.com, the …",
-    "Memberships help to sustain the work we do keeping tabs on the chaos from Trump’s Washington and helping you see around the next corner. Come ride with us through the midterm elections and beyond—because the only way through is together."
+    "The Bulwark’s July Fourth flash sale ends at midnight, offering a $86 annual membership for unlimited access to articles, newsletters, ad‑free shows, and community features.",
+    "The promotion frames the membership as a way to support independent journalism that tracks Trump‑era chaos and upcoming midterm elections.",
+    "The offer emphasizes patriotism as defending democracy and a free press, urging readers to ‘ride together’ against politicized symbols."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260705130314.3.375a2608377e4242@mg-d0.substack.com",
    "newsletter": "Zeteo | Dark Side of the World Cup",
    "pub": "zeteo",
    "subject": "How Shameful Can the World Cup Get? We Take a Look at Two Previous Tournaments",
-   "date": "2026-07-05T06:14",
-   "url": null,
+   "date": "2026-07-05T06:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/how-shameful-can-the-world-cup-get",
    "bullets": [
-    "In many ways, the U.S.'s World Cup has been a bit of a disaster. But it's not the first time the tournament has been filled with fascism, authoritarianism, and corruption. The joy the World Cup is giving so many across the globe is undeniab…",
-    "While Iran’s games offered its fans a welcome distraction from the war being waged on the country, the treatment of their team by the US government was deeply offensive and unfair. And while Congolese fans reveled in the Democratic Republic…"
+    "The episode examines FIFA’s history of supporting authoritarian regimes, from Mussolini’s Italy in 1934 and Argentina’s 1978 military junta to recent scandals in Russia 2018 and Qatar 2022.",
+    "It highlights recent U.S. actions that undermined inclusivity, such as the unfair treatment of Iran’s team and the visa denial for a prominent Congolese fan, exposing ongoing hypocrisy."
    ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260705120359.3.f1593a2bcf5b7a48@mg-d1.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Donald Trump Is Bringing Back ‘Death Panels’",
-   "date": "2026-07-05T05:20",
-   "url": null,
-   "bullets": [
-    "Hello, readers! Today’s edition of The Breakdown starts with a political memory that’s burned into my brain. It’s from a battle during the early Obama era—an episode that, among other things, gave an early glimpse of how misinformation onli…",
-    "Today’s edition also has a slightly different format than usual: Instead of one essay, it’s three distinct items with a loose connection tied to today’s news. You can think of it as my homage to JVL and The Triad—though, to be clear, it’s m…"
-   ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260705120433.3.4cada759cc1f09a2@mg-d1.substack.com",
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
    "subject": "European vs. U.S. Economic Performance: An Update",
-   "date": "2026-07-05T05:17",
+   "date": "2026-07-05T05:04-07:00",
+   "url": "https://paulkrugman.substack.com/p/european-vs-us-economic-performance",
+   "bullets": [
+    "European GDP per capita and productivity gaps with the U.S. have not widened over 25 years, contradicting claims of relative decline.",
+    "The 'US-EU paradox' arises from conflicting growth vs. purchasing power metrics, with industrial mix (U.S. tech concentration) and measurement challenges skewing comparisons.",
+    "Europe’s economic security, lower inequality, and social policies offset its tech-sector weaknesses, maintaining its global democratic and economic influence."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260705120359.3.f1593a2bcf5b7a48@mg-d1.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Donald Trump Is Bringing Back ‘Death Panels’",
+   "date": "2026-07-05T05:03-07:00",
    "url": null,
    "bullets": [
-    "A progress report on trans-Atlantic comparisons Today’s primer is a long, dense, wonkish discussion of an issue I’ve been steadily working on in the background. To be honest, this post is aimed primarily at economists, not a general audienc…",
-    "Europe is an economic superpower that has given its residents extraordinarily good lives both by historical standards and compared with the rest of the world. Yes, Europeans have smaller houses and cars than Americans do. Many of them also,…"
+    "In 2009 the ACA included a bipartisan provision allowing doctors to bill Medicare for end‑of‑life planning talks, which conservatives like Elizabeth McCaughey falsely portrayed as mandatory “death panels,” a claim that persisted with 40% of Americans believing it in 2010.",
+    "Trump’s administration is now reviving the “death panel” narrative by proposing new regulations that echo the earlier false accusations, positioning the policy as a threat to patient autonomy."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260704170221.3.c553dc0d6b9986c5@mg2.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
    "subject": "Let Us Celebrate a 250-Year History of American Radicalism",
-   "date": "2026-07-04T10:11",
-   "url": null,
+   "date": "2026-07-04T10:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/let-us-celebrate-a-250-year-history",
    "bullets": [
-    "This email is from Zeteo’s U.S. Politics section, which is focused on bringing you original reporting and sharp analysis on politics in the U.S., and particularly the Trump administration. If you’d like to unsubscribe from this section – bu…",
-    "The Left should make the most of this Semiquincentennial and start reminding Americans of the radicalism and revolution at the heart of the history of this country, writes historian Harvey Kaye."
+    "The 250th anniversary of the U.S. founding coincides with Trump's reactionary policies, contrasting with the nation's radical egalitarian roots. 50 years of class-warfare by elites and neoliberal Democrats have eroded workers' rights, deepened inequality, and fueled authoritarianism. Progressives should seize the moment to reclaim the Democratic Party and revive the revolutionary promise of 'We the People.'"
    ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260704130214.3.5b8e90e73615dcab@mg-d1.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“As a writer, I often felt like I was trying to enter various clubs that didn’t want me”",
-   "date": "2026-07-04T07:12",
-   "url": null,
-   "bullets": [
-    "In this edition of the Weekender: performative reading, going back to the drawing board, and a dying author’s final piece of work. This week, we’re picking unexpected books, renewing creative vows, and contending with unfinished projects.",
-    "Through the act of creation, Maggie Rogers has embarked on a journey of rediscovery. Everything before 2020, I remember in a straight line. Everything after, I remember as a spiral. This strange post-covid non-linearity. I’m back in my stud…"
-   ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260704130151.3.af59b16fd92708b2@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Heather Cox Richardson: America's 250 Great (and Awful) Years",
-   "date": "2026-07-04T06:18",
-   "url": null,
-   "bullets": [
-    "We hope you enjoy this preview of today’s Focus Group with Sarah Longwell and Heather Cox Richardson. Full episodes are available wherever you get your podcasts and YouTube. Or upgrade to watch the full ad-free episode of this show now.",
-    "This July Fourth, join us for just $86 for the next year—14 percent off a full Bulwark membership. Eight-six the BS and get a daily dose of sanity in your inbox. Ride with us. SARAH LONGWELL AND HEATHER COX RICHARDSON"
-   ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260704130409.3.9ae692884c476df9@mg2.substack.com",
    "newsletter": "This Week in Palestine | Zeteo",
    "pub": "zeteo",
    "subject": "This Week in Palestine: 1,000 Days of Genocide, as Israel Continues to Kill Kids",
-   "date": "2026-07-04T06:17",
+   "date": "2026-07-04T06:04-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-1000-days",
+   "bullets": [
+    "The newsletter marks 1,000 days of Israel’s war on Gaza, citing daily bombings, forced displacement, starvation, and medical deprivation that have killed dozens of children, including infant Siwar, and caused widespread atrocities such as torture, rape, and burning alive.",
+    "It argues the ongoing genocide is sustained by U.S. and Western support for Israel, noting recent incidents like the killing of three children and a footballer, and calls for international accountability.",
+    "The piece highlights recent developments, including the arrest of far‑right minister Itamar Ben‑Gvir and a plea from the Hind Rajab Foundation urging the U.S. to act amid the escalating violence."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260704130214.3.5b8e90e73615dcab@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“As a writer, I often felt like I was trying to enter various clubs that didn’t want me”",
+   "date": "2026-07-04T06:02-07:00",
+   "url": "https://post.substack.com/p/as-a-writer-i-often-felt-like-i-was",
+   "bullets": [
+    "Maggie Rogers describes a post‑COVID creative renaissance, returning to her studio after six years, experimenting with song structures and embracing vulnerability to produce an evolving album with multiple titles.",
+    "William T. Vollmann, battling cancer and opioid‑induced fog, confirms he will not finish his long‑running Seven Dreams series, citing time constraints and publisher conflicts, and is instead focusing on two short non‑fiction works."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260704130151.3.af59b16fd92708b2@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Heather Cox Richardson: America's 250 Great (and Awful) Years",
+   "date": "2026-07-04T06:01-07:00",
    "url": null,
    "bullets": [
-    "‘This Week in Palestine’ is a weekly email dedicated to documenting Israel’s ongoing atrocities against Palestinians in occupied Gaza and the West Bank. We hope you find it worth reading every week – but if you’d like to unsubscribe from th…",
-    "Zeteo’s weekly round-up of the stories you may have missed out of occupied Gaza and the West Bank, as Israel continues its genocidal war and apartheid policies. A man carries the body of 1-year-old Siwar, who was killed along with her 23-ye…"
+    "Heather Cox Richardson argues that July 4th should be celebrated as a chance to reflect on America’s 250-year history, noting voters’ mixed feelings about patriotism amid post‑Trump rebuilding efforts.",
+    "She highlights the 250‑to‑250 project, which chronicles key people, places, and events that have shaped the U.S. toward a more perfect Union, offering lessons for contemporary politics."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260704113030.3.ab0df4c9a42c397b@mg-d1.substack.com",
    "newsletter": "Jim Swift - The Bulwark",
    "pub": "thebulwark",
    "subject": "America at 250: The Founding and the Uniform",
-   "date": "2026-07-04T04:41",
+   "date": "2026-07-04T04:30-07:00",
    "url": null,
    "bullets": [
-    "Plus: What You Missed This Week From The Bulwark Happy 4th of July! America is 250 today. However you choose to observe this occasion, have a safe and meaningful holiday. If you like today’s issue, you can share this newsletter with someone…",
-    "MOST REPUBLICS FAIL by 300 years. For the United States to survive another 250, Americans must care about our revolutionary inheritance and what it actually means. This July Fourth offers an opportunity to encourage Americans to see themsel…"
+    "Jay Nordlinger argues America's global influence hinges on upholding its founding ideals of liberty and equality as it marks its 250th anniversary. Phil Edwards reports on The Villages, a Florida retirement community dubbed a 'baby boomer utopia.' Substack readers recommend Ken Burns documentaries like 'The American Revolution' and 'The Statue of Liberty' to reflect on U.S. history ahead of the 250th anniversary."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260704103132.3.122337368ac338c5@mg-d1.substack.com",
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
    "subject": "Bicentennial Memories",
-   "date": "2026-07-04T03:35",
-   "url": null,
+   "date": "2026-07-04T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/bicentennial-memories",
    "bullets": [
-    "Lisbon 1976: Miguel Beleza, Andy Abel, Jeff Frankel, me Today is the nation’s 250th anniversary. And it should be a day of celebration. But it won’t be. America’s 250th birthday will be a grim, glum affair. As far as I can tell, even MAGA e…",
-    "It’s a huge difference from the bicentennial, which I celebrated in an unusual but deeply memorable way. You see, I spent the summer of 1976 in Portugal, which had had its own revolution (the Carnation Revolution) just two years earlier. Th…"
+    "Krugman recalls 1976 Lisbon bicentennial picnic, contrasting 1970s optimism with today’s grim 250th anniversary amid Trump-era corruption and political dysfunction.",
+    "1976’s hope stemmed from Vietnam’s end and Nixon’s Watergate downfall, which proved accountability; now, GOP enablers shield Trump despite unprecedented corruption.",
+    "Portugal’s 1974 revolution to democracy and U.S. low profile in Lisbon highlight 1976’s cautious optimism, absent in today’s polarized America."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260704000147.3.82d10be4ec5a0823@mg-d1.substack.com",
@@ -1018,91 +1064,96 @@
    "newsletter": "Zeteo",
    "pub": "zeteo",
    "subject": "On 'Piers Uncensored,' Mehdi Debates Director of Elon Musk-Backed, Anti-Muslim Movie",
-   "date": "2026-07-03T12:11",
-   "url": null,
+   "date": "2026-07-03T12:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/on-piers-uncensored-mehdi-debates",
    "bullets": [
-    "Mehdi takes on Uwe Boll, director of the film 'Citizen Vigilante,' that was denied classification in Germany for allegedly inciting violence against migrants - but has the loud backing of Elon Musk.",
-    "Mehdi went back on Piers Morgan's ‘Uncensored’ show yesterday to challenge Uwe Boll, the director whose incendiary film, Citizen Vigilante has been panned by critics and even refused classification in Germany."
+    "Mehdi Debates Uwe Boll on Piers Morgan’s ‘Uncensored’, accusing Boll’s film *Citizen Vigilante* of being a 90‑minute far‑right propaganda piece that is violent, incoherent and Islamophobic, and condemning Elon Musk for promoting it on Twitter.",
+    "Debate highlights Boll’s gaslighting of European crime rates, his self‑serving reversal on Donald Trump and MAGA, and the film’s refusal of classification in Germany, with Variety calling it a morally bankrupt exploitation movie."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260703183038.3.9189a9aa40b98e53@mg2.substack.com",
    "newsletter": "Sonny Bunch - The Bulwark",
    "pub": "thebulwark",
    "subject": "The American Popularity Contest Turns 250",
-   "date": "2026-07-03T11:39",
+   "date": "2026-07-03T11:30-07:00",
    "url": null,
    "bullets": [
-    "On this week’s episode of The Bulwark Goes to Hollywood, I was joined by CNN’s Brian Stelter to discuss Comcast’s plan to spin off NBC Universal into its own company. It’s a pretty big deal, so I hope you give this a listen to get a sense o…",
-    "Comcast and NBC Universal Are Breaking Up: What Does That Mean? And in case you missed it, this week I reviewed the movie that Elon Musk has been pushing hard on his social media platform—a vigilante fantasy for the anti-immigrant set. As I…"
+    "The newsletter uses Robert Altman’s 1975 film *Nashville* to argue that America’s political scene is driven by celebrity culture, with characters chasing fame rather than policy, exemplified by the “Replacement” party’s gimmicky campaign.",
+    "It contrasts *Nashville* with Richard Linklater’s *Dazed and Confused*, suggesting both films show a persistent American desire for popularity and belonging, from 1976 bicentennial celebrations to high‑school cliques.",
+    "The author invites readers to share favorite American movies and promotes a Bulwark+ subscription discount for the Fourth of July weekend."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260703170206.3.e5d94e9498fa8126@mg-d0.substack.com",
    "newsletter": "Sarah and JVL - The Bulwark",
    "pub": "thebulwark",
    "subject": "It's 100x Worse Than Watergate—and Republicans Still Won't Quit",
-   "date": "2026-07-03T10:17",
+   "date": "2026-07-03T10:02-07:00",
    "url": null,
    "bullets": [
-    "Take back the Fourth. This holiday didn't come with a party affiliation. It came with a declaration that this country is dedicated to freedom, equality, and self-government. The Bulwark is here to remind you of that every single day.",
-    "This July Fourth, join us for $86 a year—14 percent off a full Bulwark membership. Eight-six the BS and get a daily dose of sanity in your inbox. Ride with us. Sarah Longwell and Bill Kristol (filling in for JVL) take on America’s 250th bir…"
+    "Sarah Longwell and Bill Kristol argue that the GOP has slid from Reagan’s inclusive rhetoric to a hard‑line stance, citing 2,000 daily ICE arrests and a backlash over the birthright citizenship ruling.",
+    "They claim the “socialist takeover” scare misreads Democratic voters, pointing to a shift toward moderate policies and highlighting emerging 2028 candidates who could reshape the party’s future."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260703160052.3.ca2ba1694d100a76@mg-d1.substack.com",
    "newsletter": "JVL - The Bulwark",
    "pub": "thebulwark",
    "subject": "America at 250: We Had a Good Run",
-   "date": "2026-07-03T09:17",
+   "date": "2026-07-03T09:00-07:00",
    "url": null,
    "bullets": [
-    "My mother-in-law, Peggy, is one of the most important people in my life. She is precious to me. In a few days she will celebrate her birthday, if she is still here. She has been in hospice the last few months. As I write, she is on the home…",
-    "When she is gone, she will leave a hole in our hearts. Peggy appeared to be in excellent health until last fall. A year ago she drove twelve hours (solo) to North Carolina for the family vacation and, upon arrival, jumped into the swimming …"
+    "The author argues that America’s liberal arc has reversed, citing a surge toward illiberalism born of prosperity rather than crisis, and warns that the republic’s virtue may no longer be enough to save it.",
+    "He compares the nation’s decline to a hospice patient’s sudden illness, suggesting that the United States is now in a state of “deathbed vigil” as its liberal ideals erode.",
+    "He concludes that recognizing America’s vulnerability could inspire a renewed, bold struggle to reclaim liberalism, rather than accepting fatalistic decline."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260703150337.3.835192271f7af525@mg2.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
    "subject": "'250 Years of Cruelty' – Viet Thanh Nguyen on the ‘American Empire' and How to Save the U.S.",
-   "date": "2026-07-03T08:17",
-   "url": null,
+   "date": "2026-07-03T08:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/250-america-birthday-cruelty-viet-thanh-nguyen",
    "bullets": [
-    "The liberation of the American peoples cannot be achieved without the shedding of imperial weight, writes the Pulitzer prize-winning author in this somber essay marking the semiquincentennial.",
-    "The word I think of to describe the United States on its 250th anniversary is cruelty. There are other words, of course, that could describe a country of such size, power, and diversity."
+    "Viet Thanh Nguyen argues that the United States, on its 250th anniversary, is best described by cruelty, citing its long history of violence and oppression rather than optimism or hope.",
+    "He warns that the moral arc of the nation may bend toward greater injustice, pointing to systemic cruelty that has existed since the founding of America.",
+    "Nguyen calls for a critical reassessment of American identity and policies, urging readers to confront the nation’s violent legacy rather than romanticize its past."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260703143037.3.bef0ec849bf42254@mg-d1.substack.com",
    "newsletter": "Adrian Carrasquillo",
    "pub": "thebulwark",
    "subject": "MAGA Goes Batshit Over SCOTUS Birthright Citizenship Ruling",
-   "date": "2026-07-03T07:39",
+   "date": "2026-07-03T07:30-07:00",
    "url": null,
    "bullets": [
-    "Bulwark fam, let me be the first to wish you a happy July Fourth weekend! Living through the ups and downs—well, mostly downs—of the Trump administration can frankly be exhausting. So I hope you get a chance to unplug and spend time with th…",
-    "Meanwhile, I want to invite you to sign up for a Bulwark+ membership. Our members make this newsletter—and all our reporting and commentary!—possible. This week, in honor of Independence Day, we’ve got a sale going on: You can sign up for a…"
+    "The Supreme Court upheld birthright citizenship, sparking a wave of MAGA backlash that included Stephen Miller’s dehumanizing remarks about ‘shithole’ countries and calls for mass deportations and forced sterilization of foreign visitors.",
+    "Right‑wing influencers like Matt Walsh and Sean Davis urged harsher ICE enforcement, border militarization, and even the nullification of birthright citizenship, while claiming that female justices such as Amy Barrett were the worst on the Court.",
+    "Immigrant families—e.g., Estrella Lopez and Rosa—expressed fear that the ruling could lead to retroactive revocation of citizenship for children born to non‑citizen parents, highlighting the anxiety over potential future legal shifts and the impact on their families’ stability."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260703110825.3.6c64b2282075e792@mg2.substack.com",
    "newsletter": "First Draft | Zeteo",
    "pub": "zeteo",
    "subject": "🇺🇸 Trump Throws America’s WORST Birthday Party",
-   "date": "2026-07-03T04:22",
-   "url": null,
+   "date": "2026-07-03T04:08-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-throws-americas-worst-birthday",
    "bullets": [
-    "The president refuses to hear the truth about his plans for the 250th anniversary of independence, as the whole shebang threatens to fall flat on its face. Also, Graham Platner has an AIPAC warning.",
-    "ANDREW PEREZ, ASAWIN SUEBSAENG, PREM THAKKER, AND MARTIN PENGELLY On this day in 1988, the USS Vincennes shot down an Iranian passenger jet it mistook for a hostile aircraft. All 290 people on board were killed. The U.S. first denied respon…"
+    "The USS Vincennes mistakenly shot down an Iranian passenger jet in 1988, killing 290 and later paying $62 million in damages to victims’ families.",
+    "Trump announced a July 4 speech on the National Mall despite forecast 97°F heat, delaying fireworks and banning backpacks, coolers, chairs, and bug spray for attendees.",
+    "Michigan’s Abdul El‑Sayed and Maine’s Graham Platner warn that AIPAC and campaign spending are fueling further Trump‑linked corruption."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260703103048.3.d77c5205ccb601dc@mg2.substack.com",
@@ -1122,26 +1173,27 @@
    "newsletter": "Doomberg",
    "pub": "doomberg",
    "subject": "Treatment Resistant",
-   "date": "2026-07-03T02:09",
-   "url": null,
+   "date": "2026-07-03T02:00-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/treatment-resistant",
    "bullets": [
-    "Even when they “work,” sanctions eventually backfire. “Ill habits gather unseen degrees, as brooks make rivers, rivers run to seas.” – John Dryden Proverbs achieve durability when they combine a kernel of truth with memorability, authority,…",
-    "Such proverbs capture the essence of our main critique against the use of financial sanctions as a means of geopolitical coercion, for they rarely achieve their stated objectives. Even when they are superficially effective—against weak coun…"
+    "Sanctions rarely achieve geopolitical goals and mainly harm civilian populations, acting as financial weapons of mass destruction, while targeted powers like China and Russia emerge stronger.",
+    "Huawei claims its new chip-design framework could reach 1.4‑nanometer density by 2031 without EUV tools, undermining U.S. concerns that sanctions can halt China's semiconductor progress.",
+    "EU attempts to replace Russian pipeline gas with pricier LNG are failing, as global energy demand ensures Russia’s oil and gas remain essential despite sanctions."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260703010017.3.58a8d407b6916fd1@mg-d0.substack.com",
    "newsletter": "Mehdi Unfiltered",
    "pub": "zeteo",
    "subject": "Could This Outspoken Arizona Senator Be the Dems’ Presidential Nominee in 2028?",
-   "date": "2026-07-02T18:07",
-   "url": null,
+   "date": "2026-07-02T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/gallego-tax-investigation-ice-2028",
    "bullets": [
-    "Mehdi speaks to Ruben Gallego about his plans to tax the rich and restrict aid to Israel, the Trump DOJ’s investigation into his campaign finances, and going from ‘progressive’ to ‘border hawk.’",
-    "Ever since his election to the Senate in 2024, Ruben Gallego, the junior senator from Arizona, has been widely viewed as a major Democratic presidential contender for 2028. But can Gallego keep that momentum going, as President Donald Trump…"
+    "Senator Ruben Gallego, Arizona’s 2024 junior senator, says the Trump‑appointed DOJ is investigating him over alleged campaign‑finance violations because they’re “afraid” of his populist agenda to tax the rich and curb billionaire influence, including the Soros family.",
+    "He defends voting for the Laken Riley Act and a nuanced ICE stance—advocating dismantling the agency without endorsing the “Abolish ICE” slogan—while weighing whether to cut aid to Israel and hinting he may run for president in 2028."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260702230300.3.6222ba9ca0e95b86@mg2.substack.com",
@@ -1171,7 +1223,7 @@
   }
  ],
  "counts": {
-  "shown": 66,
-  "total": 88
+  "shown": 68,
+  "total": 90
  }
 }
