@@ -1,20 +1,28 @@
 {
- "updated": "2026-07-12T09:36-07:00",
+ "updated": "2026-07-12T17:15-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The largest foodborne outbreak in U.S. history — 3,000+ Cyclospora cases and climbing — is unfolding with the CDC lagging state counts, a mess Your Local Epidemiologist pins on a gutted federal public-health system (YLE).",
-   "The Supreme Court's overturn of Humphrey's Executor is already biting: Trump fired the remaining Democratic election commissioners, while a crypto bill in Congress may be the vehicle to shore up agency independence (The Breakdown, This Week in Democracy).",
-   "Post-Platner Maine looks salvageable — Collins built her race around him, so a vetted progressive replacement rescrambles the map; meanwhile Israel politics keeps splitting Democratic primaries from Arizona to the presidential field (Message Box, Focus Group, Zeteo).",
-   "The deportation wars have a new front: Flock campus cameras feeding license-plate data to ICE, as the roundup week logged another ICE killing, Patriot Front marching in DC, and a push to rehear birthright citizenship (Huddled Masses, This Week in Democracy).",
-   "Krugman's double warning: AI is landing in a worse-than-Gilded-Age oligarchy that will amplify its harms, and financial deregulation 'termites' are quietly rebuilding 2008-style crisis risk (Krugman ×2).",
-   "In Gaza, Israel escalated again — two dozen killed including aid workers, settler violence up 560% since 2019 — against one bright spot: a captive believed dead came home (This Week in Palestine)."
+   "The Trump administration’s relentless assault on democratic institutions— from firing election commissioners and weaponizing the courts to illegal drone strikes and opaque military base plans— dominates the political coverage (The Bulwark, Zeteo, The Message Box).",
+   "Republican double standards on sexual misconduct are highlighted, with GOP leaders condemning opponents while shielding Trump and other accused predators (The Bulwark, Zeteo).",
+   "The Supreme Court’s erosion of independent agencies threatens regulatory oversight, prompting calls for legislative fixes (The Bulwark).",
+   "AI’s rollout in an already oligarchic economy is warned to deepen wealth concentration and weaken worker protections (Paul Krugman).",
+   "A massive cyclosporiasis outbreak exposes a crippled federal public‑health system lacking transparency and coordination (Your Local Epidemiologist)."
   ],
-  "by": "claude",
-  "updated": "2026-07-12T06:59-07:00",
-  "span_days": 3,
+  "by": "groq",
   "ids": [
+   "20260710004207.3.37a730cb87b61c44@mg-d1.substack.com",
+   "20260710090120.3.d3ff276a1e206718@mg-d1.substack.com",
+   "20260710103041.3.f7ec3861ab483c80@mg2.substack.com",
+   "20260710104525.3.cefe65c84fe717ac@mg2.substack.com",
+   "20260710112920.3.92e628c1a9ac39a7@mg-d0.substack.com",
+   "20260710121522.3.0f53178351032947@mg-d1.substack.com",
+   "20260710140203.3.fea138a0a2604616@mg-d1.substack.com",
+   "20260710141656.3.b98210345e2539b5@mg-d0.substack.com",
+   "20260710175132.3.140713c9a2c01f61@mg-d0.substack.com",
+   "20260710180042.3.a558864dfb1d00a4@mg-d0.substack.com",
+   "20260710191032.3.55afc18e186f4652@mg2.substack.com",
    "20260710210735.3.35b3d7d95975bb8a@mg-d0.substack.com",
    "20260710225305.3.6b8832766767bfbb@mg-d1.substack.com",
    "20260711103026.3.9ef35d587174683f@mg-d1.substack.com",
@@ -27,10 +35,57 @@
    "20260711183034.3.6bac8bd37eba1ce4@mg-d0.substack.com",
    "20260711190255.3.38eced649aa75f8f@mg-d1.substack.com",
    "20260712103026.3.f6fb28dc8acfd342@mg-d0.substack.com",
-   "20260712124657.3.567bf49e3ca1eb78@mg-d0.substack.com"
-  ]
+   "20260712124657.3.567bf49e3ca1eb78@mg-d0.substack.com",
+   "20260712140249.3.44b894168f472195@mg-d1.substack.com",
+   "20260712162657.3.0cb72e2742718193@mg2.substack.com",
+   "20260712195159.3.f5715ddef8bd52d3@mg2.substack.com",
+   "20260712210221.3.233c348d117be7b9@mg2.substack.com",
+   "20260712230421.3.91e196052e9d6e7b@mg-d1.substack.com"
+  ],
+  "updated": "2026-07-12T17:15-07:00",
+  "span_days": 3
  },
  "items": [
+  {
+   "id": "20260712230421.3.91e196052e9d6e7b@mg-d1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "One Weird Trick for Torpedoing Todd Blanche’s Hearing",
+   "date": "2026-07-12T16:04-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/one-weird-trick-for-torpedoing-todd",
+   "bullets": [
+    "Democratic senators have a litany of accusations to use against Attorney General‑designate Todd Blanche, including conflicts of interest, DOJ purges, a slush fund, Jan. 6 pardons, attempted self‑pardons, politically‑charged prosecutions, a “war” on judges, and obstruction of oversight.",
+    "The author argues that while all these issues merit scrutiny, focusing on a single, especially damaging point could be the most effective strategy to undermine Blanche’s confirmation.",
+    "Specific evidence links Blanche to controversial actions such as the Jan. 6 pardons and attempts to self‑pardon, suggesting a pattern of politicized legal maneuvering."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260712210221.3.233c348d117be7b9@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Trump’s Illegal Boat Bombings Are Just ‘Murder for Murder’s Sake,’ U.S. Official Says",
+   "date": "2026-07-12T14:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trumps-illegal-boat-bombings-not-working",
+   "bullets": [
+    "U.S. officials say Trump’s administration continues a lethal bombing campaign against alleged “narcoterrorist” drug boats, despite lacking evidence of targets and facing accusations of illegality.",
+    "Intelligence and government data cited by the newsletter indicate the strikes have not reduced drug trafficking or saved lives, and the White House is aware of their ineffectiveness.",
+    "President Trump has reportedly discussed expanding the operations, claiming they make the U.S. safer and prevent tens of thousands of deaths, though no verification of casualties exists."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260712195159.3.f5715ddef8bd52d3@mg2.substack.com",
+   "newsletter": "Bulwark+Takes",
+   "pub": "thebulwark",
+   "subject": "We Found Decades of Video of Trump Defending Accused Sex Predators",
+   "date": "2026-07-12T12:51-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/you-will-not-believe-how-often-trump",
+   "bullets": [
+    "Sarah Longwell and Tim Miller detail how Donald Trump repeatedly defended men accused of sexual assault—from Roy Moore and Roger Ailes to Mike Tyson and Ghislaine Maxwell—showing a pattern of GOP hypocrisy."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260712162657.3.0cb72e2742718193@mg2.substack.com",
    "newsletter": "Mehdi from Zeteo",
@@ -39,10 +94,11 @@
    "date": "2026-07-12T09:26-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/lindsey-graham-dies-quotes-war-hawk",
    "bullets": [
-    "Lindsey Graham, who never met a Middle East country he didn’t want to invade, “passed away from a brief and sudden illness” on Saturday night, according to a short statement from his office. Media [ https://substack.com/redirect/6c2c20e7-d8…",
-    "The 71-year-old Graham, who was first elected to the Senate in 2002, had been scheduled to appear on NBC News’s ‘Meet the Press’ this morning, after returning from a trip to Ukraine. His sudden death, notes the New York Times [ https://subs…"
+    "Lindsey Graham, a Republican senator and prominent war hawk, died suddenly at 71 from cardiac arrest, days before his expected re-election bid.",
+    "Graham's career was marked by shifting stances, from harshly criticizing Trump in 2015-2021 to calling him 'the greatest president' by 2026.",
+    "He advocated extreme policies, including 'leveling Gaza,' assassinating Putin, and defending Trump's 2020 election lies, while praising genocidal Israeli ministers posthumously."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260712140249.3.44b894168f472195@mg-d1.substack.com",
@@ -637,13 +693,14 @@
    "newsletter": "Tim, Sarah and JVL - The Bulwark",
    "pub": "thebulwark",
    "subject": "Even Marjorie Taylor Greene Doesn’t Buy the McConnell Story",
-   "date": "2026-07-07T18:18",
-   "url": null,
+   "date": "2026-07-07T18:09-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/even-marjorie-taylor-greene-doesnt",
    "bullets": [
-    "Enjoy this free preview of The Next Level. Follow the show wherever you get your podcasts and YouTube. Or upgrade now and get the full ad-free episode and join the Next Level community.",
-    "TIM MILLER, SARAH LONGWELL, AND SAM STEIN Tim, Sarah, and Sam Stein (filling in for JVL) take on the political stories dominating the headlines: — Mitch McConnell is alive and taking calls (maybe, probably?)—despite Laura Loomer’s reports t…"
+    "Mitch McConnell is reportedly alive and taking calls, contradicting Laura Loomer’s claims, while the Bulwark notes the political fallout from the Platner candidacy and its impact on the movement and Maine’s future.",
+    "Kevin McCarthy and other Trump defenders are portrayed as losing moral footing after the Platner debacle, illustrating the broader crisis among Trump loyalists.",
+    "Mallory McMorrow’s Michigan Senate loss highlights the Democratic Party’s struggle to balance moderate and progressive factions, underscoring intra-party tensions."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260708001323.3.063f92112484c4ea@mg-d0.substack.com",
@@ -690,13 +747,13 @@
    "newsletter": "Zeteo",
    "pub": "zeteo",
    "subject": "BREAKING: Nigel Farage 'Resigns' From UK Parliament Amid Investigations Into His Finances",
-   "date": "2026-07-07T08:25",
-   "url": null,
+   "date": "2026-07-07T08:21-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/breaking-nigel-farage-resigns-from",
    "bullets": [
-    "But it's a stunt: The Reform UK leader, who is facing a parliamentary standards investigation, vows to fight a 'people vs establishment' by-election. Nigel Farage makes a statement to the media on July 7, 2026. Photo: PA Images via Reuters …",
-    "Britain’s Nigel Farage has announced he is resigning from his seat in the UK Parliament in order to trigger a by-election, which he says he will contest. The surprise move comes as the Reform UK leader faces mounting scrutiny over his finan…"
+    "Nigel Farage resigned as MP for Clacton to trigger a by‑election, citing a need for a fresh mandate while two parliamentary standards investigations probe his undeclared £5 million gift from a billionaire donor and alleged support from convicted fraudster George Cottrell.",
+    "The investigations will pause during the campaign but resume if Farage is re‑elected; the move will cost taxpayers a by‑election less than two years after his election, drawing criticism from political rivals who label him a “grifter” and accuse him of using the election to distract from financial misconduct."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260707131927.3.5b16cdb5f51159ef@mg-d0.substack.com",
@@ -717,13 +774,12 @@
    "newsletter": "First Draft | Zeteo",
    "pub": "zeteo",
    "subject": "Will Platner Drop Out?",
-   "date": "2026-07-07T04:24",
-   "url": null,
+   "date": "2026-07-07T04:08-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/will-platner-drop-out",
    "bullets": [
-    "After a woman accused the Maine progressive of sexual assault, backers deserted in droves while the candidate said he would 'reflect on the best path forward.' In DC, President Trump ranted on.",
-    "On this day in 2017, Donald Trump met Vladimir Putin for the first time, at the G20 in Hamburg, Germany. The Russian president denied interfering in the election Trump won the year before. It was later discovered that the two men had a seco…"
+    "Maine Democratic Party can replace him on the ballot if he exits by July 13, with a new candidate selected by July 27, otherwise the race remains unchanged"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260707104307.3.a7143cb1e646f191@mg-d1.substack.com",
@@ -757,26 +813,26 @@
    "newsletter": "Doomberg",
    "pub": "doomberg",
    "subject": "Blue Chips",
-   "date": "2026-07-07T02:11",
-   "url": null,
+   "date": "2026-07-07T02:01-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/blue-chips",
    "bullets": [
-    "Will the highest-pedigreed off-grid gas-to-data project in the world get built? “I think for a lot of amateurs, their alignment is always out.” – Karrie Webb Although it has taken a little longer than we might have anticipated, many of the …",
-    "Despite the burgeoning excitement about an AI-driven nuclear power renaissance, we cautioned in “Bridge Burning” that “there is a significant timing mismatch between the speed with which nuclear plants can be brought online for AI and the u…"
+    "Doomberg predicted AI data centers would need massive behind‑meter power, favoring natural‑gas turbines over nuclear due to speed and baseload reliability, and warned gas turbine supply would tighten.",
+    "Regulators have slowed off‑grid projects and Permian gas prices stayed negative in 2026, but Project Kilby—twice the size of Project Stargate—appears near final investment decision and could shift Permian oil‑gas dynamics."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260707010116.3.184440e1f1f9fc4d@mg2.substack.com",
    "newsletter": "Mehdi from Zeteo",
    "pub": "zeteo",
    "subject": "Who Should You Believe About the Genocide in Gaza? Mehdi Names Them All in 60 Seconds",
-   "date": "2026-07-06T18:07",
-   "url": null,
+   "date": "2026-07-06T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/who-should-you-believe-gaza",
    "bullets": [
-    "Mehdi asks who’s really telling the truth about Gaza in his latest 60-second rant. Benjamin Netanyahu or dozens and dozens of UN officials, legal scholars, historians, and human rights groups?",
-    "The recent UN report which concluded that Israel’s military deliberately targeted Palestinian children was called a “propaganda piece” by the country’s Foreign Ministry and a “political blood libel” by its ambassador to the UN."
+    "Mehdi’s 60‑second rant lists the sources to trust on Gaza, contrasting the UN report that says Israel deliberately targeted children with Israel’s Foreign Ministry calling the report propaganda and a political blood libel.",
+    "He argues Israel and its allies routinely label accusations of war crimes, ethnic cleansing, and genocide as lies and antisemitism, urging readers to scrutinize who is speaking."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260706232010.3.f6a5d6404b777374@mg-d0.substack.com",
@@ -866,26 +922,26 @@
    "newsletter": "First Draft | Zeteo",
    "pub": "zeteo",
    "subject": "First Draft: In Michigan, the War for the Democratic Party Is On",
-   "date": "2026-07-06T04:18",
-   "url": null,
+   "date": "2026-07-06T04:05-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/in-michigan-the-war-for-the-democratic",
    "bullets": [
-    "In Michigan, the War for the Democratic Party Is On Reactions to Mallory McMorrow's exit showed most know Abdul El-Sayed is a stronger candidate than Haley Stevens. Meanwhile, in DC, the madman in the White House was ranting about crowd siz…",
-    "⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿 England pulled off an astonishing 3-2 victory in Mexico last night against the (co-host) nation and are through to the quarter-finals of the World Cup. Mehdi thinks it is “coming home,” and even Donald Trump is heaping praise on H…"
+    "Mallory McMorrow dropped out of Michigan’s Democratic Senate primary without endorsing, prompting progressive leaders like Adam Green to hail Abdul El‑Sayed as the most important primary candidate in America\",\"El‑Sayed, a pro‑Palestine progressive, leads polls over establishment‑backed Haley Stevens, who enjoys strong AIPAC support and ties to former Obama adviser David Axelrod\",\"The race mirrors recent left‑wing primary victories in New York and Colorado, centering on Medicare for All and opposition to pro‑Israel lobby influence"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260706105608.3.2ec4027f89f9fd5c@mg2.substack.com",
    "newsletter": "Dan Pfeiffer from The Message Box",
    "pub": "messagebox",
    "subject": "Michigan and the Fight for the Future of the Party",
-   "date": "2026-07-06T03:59",
-   "url": null,
+   "date": "2026-07-06T03:56-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/michigan-and-the-fight-for-the-future",
    "bullets": [
-    "Thank you for reading Message Box. This is a community of more than 160,000 activists, organizers, political junkies, and others who care about our democracy. I’m privileged to write for such an incredible group. Special thanks to our paid …",
-    "What Mallory McMorrow's exit means for Michigan's Senate primary It’s been an exciting and tumultuous primary season for Democrats. Several incumbent members of Congress have lost their primaries, in many cases to first-time candidates. But…"
+    "The Michigan Senate primary, crucial for Democrats’ Senate majority, narrowed to a two‑way race after Mallory McMorrow dropped out, leaving El‑Sayed and Haley Stevens to compete.",
+    "Mike Rogers, who lost to Elissa Slotkin by under 20,000 votes, is now the unopposed Republican nominee for the open Michigan seat, making the Democratic contest decisive.",
+    "The primary has become a proxy battle over party divisions—establishment anger, ideological splits, and the Israel‑Gaza stance—highlighting the stakes for the party’s future."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260706103103.3.a9102bf3af45c4d1@mg-d1.substack.com",
@@ -1051,13 +1107,14 @@
    "newsletter": "Mehdi Unfiltered",
    "pub": "zeteo",
    "subject": "Celebrating Nationalism Is ‘Very Dangerous,’ Warns UCLA Historian",
-   "date": "2026-07-03T17:08",
-   "url": null,
+   "date": "2026-07-03T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/celebrating-nationalism-is-very-dangerous",
    "bullets": [
-    "Academic and award-winning author Robin D. G. Kelley discusses his hopes and fears on America's 250th anniversary, recent Supreme Court rulings, the Palestine exception, and more with Mehdi.",
-    "What does the United States’ 250th anniversary celebration really mean today, in this political climate? What lessons has the country learned – and failed to learn? What does the second Trump administration, which has been catastrophic to A…"
+    "Historian Robin D. G. Kelley warns that celebrating nationalism during the U.S. 250th anniversary is dangerous, arguing the Declaration’s promise of equality was never meant for all, especially African‑American and Indigenous peoples.",
+    "He links Trump’s assault on birthright citizenship to a broader vision of a white republic and ties the rise of U.S. fascism to the systemic oppression of Palestinian voices.",
+    "Kelley questions whether the Founding Fathers left Britain for liberty or to preserve slavery, suggesting the nation must become “post‑nationalist” to confront these contradictions."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260703190230.3.a81068bfab1c807e@mg2.substack.com",
@@ -1223,7 +1280,7 @@
   }
  ],
  "counts": {
-  "shown": 68,
-  "total": 90
+  "shown": 69,
+  "total": 93
  }
 }
