@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T17:15-07:00",
+ "updated": "2026-07-13T09:45-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -46,6 +46,71 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260713163507.3.cd969cbdde8bb875@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Lindsey Graham: The Good, the Bad, and the Banality of Evil",
+   "date": "2026-07-13T09:35-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/lindsey-graham-the-good-the-bad-and",
+   "bullets": [
+    "It was heartening to see tributes to Lindsey Graham from prominent Democratic figures. Like Hunter Biden [ https://substack.com/redirect/5e0fc8ee-9412-45bf-a312-4172b622e3e1?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM …",
+    "He was a man who loved his work, his country, and his family. He didn’t have an easy life growing up and to me that explained a lot about him as well as his devotion to his remaining family members including his sister. It also explained hi…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260713144415.3.c32f3356c7e9647b@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "💥6pm ET TODAY! What’s Next for Iran, Palestine, and Lebanon Q&A",
+   "date": "2026-07-13T07:44-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/6pm-et-today-whats-next-for-iran",
+   "bullets": [
+    "The illegal war in Iran has officially ramped up [ https://substack.com/redirect/ccd077d1-e711-4863-86c2-da081057f079?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] again with new U.S. strikes on Iran and Iran retaliati…",
+    "Top experts and Mehdi together will help answer these questions, provide insightful analysis, and unpack many more details about the latest, troubling developments in the region: from Iran to Lebanon, where concerns around a shaky peace agr…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260713132816.3.1e099ab794549359@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Jeffrey Epstein Takes Center Stage",
+   "date": "2026-07-13T06:28-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/jeffrey-epstein-takes-center-stage-todd-blanche-trump-justice-department-democrats-senate-lindsey-graham-republicans-gop",
+   "bullets": [
+    "Deeply ambivalent about starting out this morning with ongoing Iranian attacks on shipping in the Strait of Hormuz and retaliatory strikes on Iran by the United States (with attendant rises in oil prices). On the one hand, it’s important in…",
+    "Join Will Sommer and Sam Stein at 10:00 a.m. EDT today for MAGA Mondays on Substack [ https://open.substack.com/live-stream/276991?utm_source=post-publish ] and YouTube [ https://substack.com/redirect/fa57f77c-6298-4a4a-8c25-37f1b584b501?j=…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260713105801.3.2aed25d8837db964@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Trump Makes Lindsey Graham’s Death All About... Himself",
+   "date": "2026-07-13T03:58-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-makes-lindsey-grahams-death",
+   "bullets": [
+    "On this day in 2024, Donald Trump survived an assassination attempt at a rally in Butler, Pennsylvania. The upper part of Trump’s right ear was hit by a bullet or bullet fragment. One supporter was killed and two seriously injured. The shoo…",
+    "Good morning from Washington. Martin here, and as is becoming sort of traditional, Happy Monday [ https://substack.com/redirect/26d95ee9-91b9-4e04-ba3e-8b240ba2e6ee?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]. After …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260713105031.3.36b2494df770f066@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Oligarchy in Action: The Case of Corporate Tax Cuts",
+   "date": "2026-07-13T03:50-07:00",
+   "url": "https://paulkrugman.substack.com/p/oligarchy-in-action-the-case-of-corporate",
+   "bullets": [
+    "Institute for Taxation and Economic Policy I’ve written on a number of occasions about what I called, in yesterday’s primer [ https://substack.com/redirect/59cdf7a0-300b-4825-8db9-aada9151449c?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgP…",
+    "As I pointed out in yesterday’s primer, the best available explanations for the huge rise in wealth concentration at the topof the distribution emphasize the large decline in tax progressivity since the 1970s, which greatly reduced tax rate…"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20260712230421.3.91e196052e9d6e7b@mg-d1.substack.com",
    "newsletter": "The Bulwark",
@@ -569,13 +634,12 @@
    "newsletter": "Adrian Carrasquillo",
    "pub": "thebulwark",
    "subject": "He Lived Here for 35 Years. Put Three Kids in College. ICE Killed Him.",
-   "date": "2026-07-08T13:03",
-   "url": null,
+   "date": "2026-07-08T12:50-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/he-lived-here-for-35-years-put-three-kids-in-college-ice-killed-jim-lorenzo-salgado-araujo",
    "bullets": [
-    "Bulwark fam, today we have an emergency edition of Huddled Masses after ICE once again shot and killed someone, this time in Houston: Lorenzo Salgado Araujo, 52, a father of three U.S. citizen sons who has been in the country thirty-five ye…",
-    "I spoke to his sons, which was heartbreaking, but important so we know more about this small business owner, father, and husband beyond what ICE tells us about him. Lorenzo Salgado Araujo was picking up a crew for a construction project whe…"
+    "Araujo’s son, teacher Ronaldo Salgado, highlighted his father’s work ethic, three U.S.-born sons’ college education, and the family’s grief, while Rep. Sylvia Garcia and Rep. Christian Menefee condemned the killing and urged accountability"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260708194931.3.8930fd1b253b7e03@mg-d1.substack.com",
@@ -596,13 +660,14 @@
    "newsletter": "Zeteo",
    "pub": "zeteo",
    "subject": "How the U.S.-Iran Fight in the Strait of Hormuz Can Be Resolved Before It Blows Up the MOU",
-   "date": "2026-07-08T11:13",
-   "url": null,
+   "date": "2026-07-08T11:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/iran-us-ceasefire-hormuz-strikes",
    "bullets": [
-    "Sacrificing the entire MOU over the question of who nominally manages the Strait for the next few weeks would be a costly and unnecessary mistake, writes Iranian-American relations expert Trita Parsi.",
-    "This article was originally published on Trita Parsi’s Substack. Zeteo is republishing it with his permission. Vessels at the Strait of Hormuz, as seen from Musandam, Oman, on July 8, 2026. Photo via Reuters"
+    "The U.S. struck 80 Iranian targets and reimposed oil sanctions after Iran fired on ships in the Strait of Hormuz, while the IRGC claimed attacks on 85 U.S. sites, escalating the dispute over MOU interpretation.",
+    "Washington and Tehran disagree on whether the MOU requires vessels to coordinate with Iran; a proposed compromise would have ships notify both Iran and a GCC maritime authority, but talks stalled after Khamenei’s funeral.",
+    "The U.S. aims to assert escalation dominance, but rescinding the Iranian oil license may undermine its leverage if buyers view access as politically unstable."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260708140244.3.923aab332d45c778@mg2.substack.com",
@@ -707,13 +772,13 @@
    "newsletter": "Jonathan Cohn - The Bulwark",
    "pub": "thebulwark",
    "subject": "Why Mallory McMorrow’s Campaign Didn’t Survive",
-   "date": "2026-07-07T17:20",
-   "url": null,
+   "date": "2026-07-07T17:13-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/why-mallory-mcmorrows-campaign-didnt",
    "bullets": [
-    "Hello readers of The Breakdown! Tonight’s newsletter is hitting your inboxes right as the two remaining Democratic Senate candidates in Michigan are wrapping up a televised debate. It’s been unusually heated, with the contenders clashing no…",
-    "But tonight I’m focusing more on the candidate who isn’t there, because she announced on Sunday that she’s suspending her campaign. The political challenges that forced her out say a lot about what’s happening in the Democratic party, not j…"
+    "Mallory McMorrow, a 38‑year‑old state senator who launched a high‑profile Senate bid in April 2025 with viral LGBTQ‑rights speech and a video touting wins in red districts, fell to double‑digit poll deficits behind Abdul El‑Sayed and Haley Stevens by early July and suspended her campaign before the Aug. 4 primary.",
+    "Her collapse is attributed to establishment pressure from figures like retiring Sen. Gary Peters to cede her base to Stevens, internal polling suggesting El‑Sayed could capture her supporters, and her criticism of Democratic leadership that alienated party insiders."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260707234349.3.e722d6b023b2b0e8@mg2.substack.com",
@@ -1280,7 +1345,7 @@
   }
  ],
  "counts": {
-  "shown": 69,
-  "total": 93
+  "shown": 68,
+  "total": 98
  }
 }
