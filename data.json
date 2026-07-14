@@ -1,37 +1,18 @@
 {
- "updated": "2026-07-13T17:13-07:00",
+ "updated": "2026-07-14T08:53-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The Trump administration’s relentless assault on democratic institutions— from firing election commissioners and weaponizing the courts to illegal drone strikes and opaque military base plans— dominates the political coverage (The Bulwark, Zeteo, The Message Box).",
-   "Republican double standards on sexual misconduct are highlighted, with GOP leaders condemning opponents while shielding Trump and other accused predators (The Bulwark, Zeteo).",
-   "The Supreme Court’s erosion of independent agencies threatens regulatory oversight, prompting calls for legislative fixes (The Bulwark).",
-   "AI’s rollout in an already oligarchic economy is warned to deepen wealth concentration and weaken worker protections (Paul Krugman).",
-   "A massive cyclosporiasis outbreak exposes a crippled federal public‑health system lacking transparency and coordination (Your Local Epidemiologist)."
+   "Tensions between the US and Iran are escalating, with experts predicting a major US escalation against Iran soon, amidst Trump's recent Iran war rhetoric and US strikes on alleged 'narcoterrorist' drug boats",
+   "Trump's administration is facing criticism for its handling of various issues, including the ICE killing of a Colombian immigrant in Maine and the president's admission of a corrupt plan to influence CNN's coverage",
+   "The US is experiencing a surge in cyclospora cases, with over 3,000 reported, and a potentially severe West Nile virus season, prompting concerns about the country's public health infrastructure",
+   "Corporate tax rates have declined significantly, benefiting wealthy shareholders, while Democrats are being criticized for their inability to effectively communicate their policies and values to voters",
+   "Trump's record of defending accused sex predators has been highlighted, amidst ongoing controversy over his own allegations and the GOP's hypocrisy on the issue",
+   "The Supreme Court's recent ruling on independent agencies has raised concerns about the erosion of democratic institutions and the need for reforms to protect these agencies from partisan interference"
   ],
   "by": "groq",
   "ids": [
-   "20260710004207.3.37a730cb87b61c44@mg-d1.substack.com",
-   "20260710090120.3.d3ff276a1e206718@mg-d1.substack.com",
-   "20260710103041.3.f7ec3861ab483c80@mg2.substack.com",
-   "20260710104525.3.cefe65c84fe717ac@mg2.substack.com",
-   "20260710112920.3.92e628c1a9ac39a7@mg-d0.substack.com",
-   "20260710121522.3.0f53178351032947@mg-d1.substack.com",
-   "20260710140203.3.fea138a0a2604616@mg-d1.substack.com",
-   "20260710141656.3.b98210345e2539b5@mg-d0.substack.com",
-   "20260710175132.3.140713c9a2c01f61@mg-d0.substack.com",
-   "20260710180042.3.a558864dfb1d00a4@mg-d0.substack.com",
-   "20260710191032.3.55afc18e186f4652@mg2.substack.com",
-   "20260710210735.3.35b3d7d95975bb8a@mg-d0.substack.com",
-   "20260710225305.3.6b8832766767bfbb@mg-d1.substack.com",
-   "20260711103026.3.9ef35d587174683f@mg-d1.substack.com",
-   "20260711113206.3.db4bb47ff69ff1c3@mg2.substack.com",
-   "20260711122915.3.0736b65e1ccb68f4@mg2.substack.com",
-   "20260711130159.3.e2d1f7474565c1aa@mg-d0.substack.com",
-   "20260711131116.3.e2885a001430b1c3@mg-d0.substack.com",
-   "20260711140227.3.488d9117a595525f@mg-d0.substack.com",
-   "20260711143120.3.87692ee2bc10af23@mg-d0.substack.com",
    "20260711183034.3.6bac8bd37eba1ce4@mg-d0.substack.com",
    "20260711190255.3.38eced649aa75f8f@mg-d1.substack.com",
    "20260712103026.3.f6fb28dc8acfd342@mg-d0.substack.com",
@@ -40,12 +21,150 @@
    "20260712162657.3.0cb72e2742718193@mg2.substack.com",
    "20260712195159.3.f5715ddef8bd52d3@mg2.substack.com",
    "20260712210221.3.233c348d117be7b9@mg2.substack.com",
-   "20260712230421.3.91e196052e9d6e7b@mg-d1.substack.com"
+   "20260712230421.3.91e196052e9d6e7b@mg-d1.substack.com",
+   "20260713105031.3.36b2494df770f066@mg2.substack.com",
+   "20260713105801.3.2aed25d8837db964@mg2.substack.com",
+   "20260713132816.3.1e099ab794549359@mg-d1.substack.com",
+   "20260713144415.3.c32f3356c7e9647b@mg2.substack.com",
+   "20260713183016.3.65d28bd581af9474@mg2.substack.com",
+   "20260713233119.3.0695bec7e6fd4202@mg-d0.substack.com",
+   "20260714000107.3.05493f46eced48bf@mg-d0.substack.com",
+   "20260714083024.3.bd5b63a336dfff4d@mg-d1.substack.com",
+   "20260714090153.3.d674e97d2a07e435@mg-d0.substack.com",
+   "20260714090156.3.0f88bc6705f4e5d1@mg-d1.substack.com",
+   "20260714110933.3.9dbcc28345f1ae4e@mg-d1.substack.com",
+   "20260714111834.3.e343ea9f3e736dfd@mg-d1.substack.com",
+   "20260714133228.3.7f1d21e2e770399d@mg2.substack.com",
+   "20260714140509.3.31df5e63b06d9746@mg-d0.substack.com",
+   "20260714150052.3.d0696d45337a83e3@mg2.substack.com"
   ],
-  "updated": "2026-07-12T17:15-07:00",
+  "updated": "2026-07-14T08:53-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260714150052.3.d0696d45337a83e3@mg2.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Pete Buttigieg: Time for Radical Change",
+   "date": "2026-07-14T08:00-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/pete-buttigieg-time-for-radical-change",
+   "bullets": [
+    "Pete Buttigieg wants radical institutional changes",
+    "He proposes expanding SCOTUS and the House",
+    "Buttigieg is stumping for candidates in Fox News areas"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260714140509.3.31df5e63b06d9746@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "‘Major U.S. Escalation’ Against Iran Soon, Experts Tell Zeteo",
+   "date": "2026-07-14T07:05-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/major-us-escalation-against-iran",
+   "bullets": [
+    "Trita Parsi expects a major US escalation against Iran soon",
+    "Iranian Foreign Minister Abbas Araghchi mocked Trump's 20% toll demand",
+    "Rami Khouri calls the Lebanon-Israel peace deal a neo-colonial affirmation"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260714133228.3.7f1d21e2e770399d@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Keeps Bombing, Nothing Keeps Changing.",
+   "date": "2026-07-14T06:32-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/trump-keeps-bombing-nothing-keeps-changing-iran-hormuz-strait-oil-ukraine-russia",
+   "bullets": [
+    "Trump’s “participation trophy” at the National Mall is a 10‑foot monument to his Iran war, installed by an anonymous protest‑art group near the MLK Memorial.",
+    "Mark Hertling argues that U.S. military superiority over Iran is offset by Iran’s ability to disrupt shipping, energy markets, and U.S. bases, creating a mission‑creep scenario where punishment does not equal coercion.",
+    "William Kristol uses Burke’s idea of a “lovely” country to critique ICE killings and the failure of Todd Blanche to seek justice for Epstein survivors, calling for congressional action."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260714111834.3.e343ea9f3e736dfd@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Trump's Stunning Admission About CNN",
+   "date": "2026-07-14T04:18-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/trumps-stunning-admission-about-cnn",
+   "bullets": [
+    "Trump admitted on live TV that the FCC’s approval of Paramount Skydance’s acquisition of CNN was part of a corrupt plan to make the network more MAGA‑friendly, citing pro‑Trump billionaire David Ellison’s promises to change CNN’s coverage and lineup, including hiring Bari Weiss to overhaul the network’s news programs.",
+    "The author argues that Democrats are outgunned in today’s information war because pro‑Trump billionaires own major media outlets and social platforms, and urges Democrats to invest in independent, pro‑democracy media infrastructure rather than traditional TV to compete effectively."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260714110933.3.9dbcc28345f1ae4e@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "‘You Took Her Dad’: ICE Kills Maine Man in Front of Daughter in Bluey Pajamas",
+   "date": "2026-07-14T04:09-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/you-took-her-dad-ice-kills-maine",
+   "bullets": [
+    "ICE agents in Biddeford, Maine, shot and killed 26‑year‑old Colombian immigrant Joan Sebastian Guerrero, who had work authorization and a Social Security number, after a chaotic confrontation that the agency later described as a “fleeing” attempt and a “weaponized” vehicle claim.",
+    "Maine Senator Angus King revealed that DHS Secretary Markwayne Mullin admitted Guerrero was not the target of a warrant, and the department subsequently altered its narrative to justify the shooting as a response to a perceived threat to public safety.",
+    "The incident underscores ongoing controversies over ICE enforcement tactics under the Trump administration, amid broader criticism of the agency’s use of force and the administration’s handling of immigration policy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260714103011.3.a873d8a229903709@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Suddenly, Hormuz is Less Crucial Than It Was",
+   "date": "2026-07-14T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than",
+   "bullets": [
+    "Are we back at war with Iran? Did the war ever stop? The US is, once again, bombing Iran while Iranian drones strike shipping. Iran, giddy with its success in defying America, is demanding sovereignty over the Strait of Hormuz, while Donald…",
+    "Folks, this is bad. U.S. national security policy is now entirely in the service of one man’s vanity. We got into this mess because Trump thought he could win an easy victory that would let him strut around feeling powerful. Now we can’t ge…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260714090156.3.0f88bc6705f4e5d1@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Artificial Bloom",
+   "date": "2026-07-14T02:01-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/artificial-bloom",
+   "bullets": [
+    "Bloom Energy’s solid‑oxide fuel cells promise cheap, clean power from US natural gas, but their growth hinges on scarce scandium, a rare‑earth largely supplied by China.",
+    "Short‑seller Hunterbrook traced four China‑linked scandium supply routes, arguing Bloom’s plan for 25 GW of cells would require multiples of global scandium output, making its expansion unrealistic.",
+    "Bloom rebutted in an SEC 8‑K, claiming sufficient non‑Chinese scandium supply and visibility to meet current and future demand, though skeptics note the claim’s credibility remains unproven."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260714090153.3.d674e97d2a07e435@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "LIVE IN LONDON! Get Tickets for Zeteo UK’s Launch Event with Mehdi and Zack Polanski",
+   "date": "2026-07-14T02:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/live-in-london-get-tickets-for-zeteo",
+   "bullets": [
+    "Zeteo UK, the fastest‑growing new Substack in its first 30 days, will host a live launch on 14 September at the Barbican Centre featuring an interview with Green Party leader Zack Polanski and a Q&A on Labour’s prospects, Green influence, Reform UK, Middle‑East politics and Donald Trump",
+    "Subscribers receive early ticket access before the public release on 20 June, with paid subscribers and Founding Members getting a 20% discount and a bundle subscription option for future UK events"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260714083024.3.bd5b63a336dfff4d@mg-d1.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Cyclospora keeps climbing, a bad West Nile season, truck spraying, and good news",
+   "date": "2026-07-14T01:30-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/cyclospora-keeps-climbing-a-bad-west",
+   "bullets": [
+    "Cyclospora cases are surging, with Michigan reporting 2,640 cases—31 times the usual level—and investigators suspect lettuce or packaged salads, so avoid bagged greens until more data emerge",
+    "The CDC has flagged an unusually early West Nile virus spike—48 cases across 23 states, over five times the historical average for this time—prompting mosquito‑control trucks to spray, which studies show poses minimal health risk",
+    "Over 341,000 public comments were submitted on the OMB’s proposed rule that could undermine U.S. science, marking an unprecedented response before the comment period closed"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260714000107.3.05493f46eced48bf@mg-d0.substack.com",
    "newsletter": "Zeteo",
@@ -67,10 +186,11 @@
    "date": "2026-07-13T16:31-07:00",
    "url": "https://open.substack.com/pub/thebulwark/p/the-lindsey-graham-conspiracy-theories-are-already-running-wild",
    "bullets": [
-    "A PROMINENT 71-YEAR-OLD can’t just die of cardiovascular disease these days. Instead, judging by some people’s reactions to the death of Sen. Lindsey Graham (R-S.C.), there has to be a hidden hand at play.",
-    "“Was Lindsey Graham assassinated by Russia or Iran?” asked [ https://substack.com/redirect/4d969704-edb0-4494-89b7-2f3d15b245f8?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] right-wing activist Laura Loomer, adding tha…"
+    "Right‑wing activists Laura Loomer, Matt Van Swol, and columnist Marc Thiessen spun Senator Lindsey Graham’s aortic‑dissection death into conspiracies about Russian or Iranian assassinations, despite his long‑standing blood‑pressure issues.",
+    "Billionaire Bill Ackman and former CBS reporter Lara Logan joined the speculation, with Ackman deleting a tweet questioning the death’s plausibility and Logan hunting numerological clues in Trump’s posts.",
+    "The episode illustrates how, in 2026’s MAGA‑driven online sphere, any unexpected event—like a 71‑year‑old senator’s natural death—is immediately reframed as evidence of hidden plots, echoing academic Michael Barkun’s claim that conspiracists reject coincidence."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260713183016.3.65d28bd581af9474@mg2.substack.com",
@@ -1388,7 +1508,7 @@
   }
  ],
  "counts": {
-  "shown": 68,
-  "total": 101
+  "shown": 70,
+  "total": 110
  }
 }
