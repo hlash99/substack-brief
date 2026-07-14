@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T09:45-07:00",
+ "updated": "2026-07-13T17:13-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -47,6 +47,46 @@
  },
  "items": [
   {
+   "id": "20260714000107.3.05493f46eced48bf@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "'No More Wars?' Mehdi Challenges Top Trump Ally Over the 'Erratic' President's Betrayal on Iran",
+   "date": "2026-07-13T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/no-more-wars-mehdi-challenges-top",
+   "bullets": [
+    "Mehdi accuses Trump of breaking his 2024 campaign promise of “no more wars,” citing Trump’s own words and arguing the president’s recent Iran rhetoric is a dangerous, illegal war revival.",
+    "He confronts Piers Morgan on Trump’s alleged “exit ramp” strategy, claiming escalating conflict is unwise, and criticizes mainstream media for hagiography of deceased figures while ignoring Senator Lindsey Graham’s alleged bloodshed."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260713233119.3.0695bec7e6fd4202@mg-d0.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Lindsey Graham Conspiracy Theories Are Already Running Wild",
+   "date": "2026-07-13T16:31-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/the-lindsey-graham-conspiracy-theories-are-already-running-wild",
+   "bullets": [
+    "A PROMINENT 71-YEAR-OLD can’t just die of cardiovascular disease these days. Instead, judging by some people’s reactions to the death of Sen. Lindsey Graham (R-S.C.), there has to be a hidden hand at play.",
+    "“Was Lindsey Graham assassinated by Russia or Iran?” asked [ https://substack.com/redirect/4d969704-edb0-4494-89b7-2f3d15b245f8?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] right-wing activist Laura Loomer, adding tha…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260713183016.3.65d28bd581af9474@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "When Will Democrats Learn the Importance of a Good Fight, Not Just a Good Policy?",
+   "date": "2026-07-13T11:30-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/when-will-democrats-learn-the-importance",
+   "bullets": [
+    "Democrats have repeatedly failed to win elections by focusing on good policy and compromise, assuming voters reward virtue; Obama’s own admissions show a lack of effective messaging and storytelling.",
+    "The Biden administration’s risk‑averse, incremental approach—seen in weak labor enforcement, cautious green‑energy funding, and delayed Jan. 6 investigations—illustrates a broader Democratic fear of taking bold, confrontational actions.",
+    "Citing a study of 48 former officials, the author argues that Democrats’ reluctance to “pick the fights worth having” stems from a misplaced belief that the political center will reward centrism, a mindset that has cost them political power."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260713163507.3.cd969cbdde8bb875@mg2.substack.com",
    "newsletter": "JVL - The Bulwark",
    "pub": "thebulwark",
@@ -67,10 +107,11 @@
    "date": "2026-07-13T07:44-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/6pm-et-today-whats-next-for-iran",
    "bullets": [
-    "The illegal war in Iran has officially ramped up [ https://substack.com/redirect/ccd077d1-e711-4863-86c2-da081057f079?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] again with new U.S. strikes on Iran and Iran retaliati…",
-    "Top experts and Mehdi together will help answer these questions, provide insightful analysis, and unpack many more details about the latest, troubling developments in the region: from Iran to Lebanon, where concerns around a shaky peace agr…"
+    "A live Town Hall Q&A on July 13 at 6 pm ET will examine the recent U.S. strikes on Iran, Iran’s retaliation across Gulf allies, and the collapse of the cease‑fire.",
+    "Panelists—including Trita Parsi, Rami Khouri, and Rula Jebreal—will discuss escalating conflicts in Iran, Lebanon’s fragile peace with Israel, and the worsening humanitarian crisis and settler violence in Gaza and the West Bank.",
+    "House member Ro Khanna reported being detained by Israeli settlers armed with U.S.-made M4 rifles during a recent West Bank visit."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260713132816.3.1e099ab794549359@mg-d1.substack.com",
@@ -80,10 +121,10 @@
    "date": "2026-07-13T06:28-07:00",
    "url": "https://open.substack.com/pub/thebulwark/p/jeffrey-epstein-takes-center-stage-todd-blanche-trump-justice-department-democrats-senate-lindsey-graham-republicans-gop",
    "bullets": [
-    "Deeply ambivalent about starting out this morning with ongoing Iranian attacks on shipping in the Strait of Hormuz and retaliatory strikes on Iran by the United States (with attendant rises in oil prices). On the one hand, it’s important in…",
-    "Join Will Sommer and Sam Stein at 10:00 a.m. EDT today for MAGA Mondays on Substack [ https://open.substack.com/live-stream/276991?utm_source=post-publish ] and YouTube [ https://substack.com/redirect/fa57f77c-6298-4a4a-8c25-37f1b584b501?j=…"
+    "Deputy Attorney General Todd Blanche is accused of orchestrating a cover‑up of the Jeffrey Epstein case, meeting Ghislaine Maxwell, overseeing botched redactions, and now faces a Senate Judiciary hearing for AG confirmation.",
+    "A poll shows 75% of Americans, including 66% of Republicans, believe the government is still hiding Epstein information, and Democrats are urged to spotlight Blanche’s role to sway voters ahead of the hearing."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260713105801.3.2aed25d8837db964@mg2.substack.com",
@@ -93,10 +134,11 @@
    "date": "2026-07-13T03:58-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/trump-makes-lindsey-grahams-death",
    "bullets": [
-    "On this day in 2024, Donald Trump survived an assassination attempt at a rally in Butler, Pennsylvania. The upper part of Trump’s right ear was hit by a bullet or bullet fragment. One supporter was killed and two seriously injured. The shoo…",
-    "Good morning from Washington. Martin here, and as is becoming sort of traditional, Happy Monday [ https://substack.com/redirect/26d95ee9-91b9-4e04-ba3e-8b240ba2e6ee?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]. After …"
+    "Trump framed Senator Lindsey Graham’s death as a personal victory, recalling Graham’s 2016 primary challenge and praising his later support for Trump’s agenda, especially the SAVE Act.",
+    "The newsletter notes Graham’s 2024 death from a heart attack and contrasts his early criticism of Trump—calling him a “nutjob” and “demagogue”—with his later alignment on issues like the 2018 Kavanaugh defense.",
+    "It also highlights that the SAVE Act, Trump’s voter‑suppression proposal, is set to dominate congressional discussion when Congress reconvenes on Monday."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260713105031.3.36b2494df770f066@mg2.substack.com",
@@ -106,10 +148,11 @@
    "date": "2026-07-13T03:50-07:00",
    "url": "https://paulkrugman.substack.com/p/oligarchy-in-action-the-case-of-corporate",
    "bullets": [
-    "Institute for Taxation and Economic Policy I’ve written on a number of occasions about what I called, in yesterday’s primer [ https://substack.com/redirect/59cdf7a0-300b-4825-8db9-aada9151449c?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgP…",
-    "As I pointed out in yesterday’s primer, the best available explanations for the huge rise in wealth concentration at the topof the distribution emphasize the large decline in tax progressivity since the 1970s, which greatly reduced tax rate…"
+    "Corporate tax rates fell from about 35% in the 1960s to roughly 12% today, a decline that primarily benefits wealthy shareholders and coincides with a sharp rise in top‑0.01% wealth concentration.",
+    "Gallup polls show a persistent majority of Americans think corporations pay too little in taxes, yet corporate tax cuts have continued, driven by campaign finance influence, corruption, and a media ecosystem that normalizes billionaire‑friendly policies.",
+    "The 2017 Trump corporate tax cut produced no significant increase in U.S. investment, reinforcing the view that such cuts do not trickle down and instead serve as indirect tax cuts for the rich, underscoring the need for Democratic policies to raise taxes on the wealthy."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260712230421.3.91e196052e9d6e7b@mg-d1.substack.com",
@@ -1346,6 +1389,6 @@
  ],
  "counts": {
   "shown": 68,
-  "total": 98
+  "total": 101
  }
 }
