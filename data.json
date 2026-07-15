@@ -1,23 +1,18 @@
 {
- "updated": "2026-07-14T17:11-07:00",
+ "updated": "2026-07-15T08:57-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Tensions between the US and Iran are escalating, with experts predicting a major US escalation against Iran soon, amidst Trump's recent Iran war rhetoric and US strikes on alleged 'narcoterrorist' drug boats",
-   "Trump's administration is facing criticism for its handling of various issues, including the ICE killing of a Colombian immigrant in Maine and the president's admission of a corrupt plan to influence CNN's coverage",
-   "The US is experiencing a surge in cyclospora cases, with over 3,000 reported, and a potentially severe West Nile virus season, prompting concerns about the country's public health infrastructure",
-   "Corporate tax rates have declined significantly, benefiting wealthy shareholders, while Democrats are being criticized for their inability to effectively communicate their policies and values to voters",
-   "Trump's record of defending accused sex predators has been highlighted, amidst ongoing controversy over his own allegations and the GOP's hypocrisy on the issue",
-   "The Supreme Court's recent ruling on independent agencies has raised concerns about the erosion of democratic institutions and the need for reforms to protect these agencies from partisan interference"
+   "ICE's aggressive tactics have resulted in the killing of two civilians, Lorenzo Salgado Araujo and Joan Sebastian Guerrero, with agents lacking body cameras and proper training, as reported by The Bulwark and Zeteo",
+   "Trump's erratic policy on the Strait of Hormuz, including a proposed 20% toll, has been widely criticized, with experts warning of a potential major US escalation against Iran, according to Zeteo and Paul Krugman",
+   "The US is experiencing a surge in Cyclospora cases, with over 2,600 reported in Michigan, and experts are warning people to avoid bagged salads and take precautions to prevent infection, as noted by Your Local Epidemiologist",
+   "Trump's admission that the FCC's approval of Paramount Skydance's acquisition of CNN was part of a corrupt plan to make the network more MAGA-friendly has sparked concerns about the integrity of the media, as reported by The Message Box",
+   "Democrats are being urged to learn from their past mistakes and focus on effective messaging and storytelling to win elections, rather than just relying on good policy, according to Zeteo",
+   "Corporate tax rates have fallen significantly over the years, primarily benefiting wealthy shareholders, and experts are warning of the dangers of oligarchy and the need for tax reform, as discussed by Paul Krugman"
   ],
   "by": "groq",
   "ids": [
-   "20260711183034.3.6bac8bd37eba1ce4@mg-d0.substack.com",
-   "20260711190255.3.38eced649aa75f8f@mg-d1.substack.com",
-   "20260712103026.3.f6fb28dc8acfd342@mg-d0.substack.com",
-   "20260712124657.3.567bf49e3ca1eb78@mg-d0.substack.com",
-   "20260712140249.3.44b894168f472195@mg-d1.substack.com",
    "20260712162657.3.0cb72e2742718193@mg2.substack.com",
    "20260712195159.3.f5715ddef8bd52d3@mg2.substack.com",
    "20260712210221.3.233c348d117be7b9@mg2.substack.com",
@@ -26,22 +21,128 @@
    "20260713105801.3.2aed25d8837db964@mg2.substack.com",
    "20260713132816.3.1e099ab794549359@mg-d1.substack.com",
    "20260713144415.3.c32f3356c7e9647b@mg2.substack.com",
+   "20260713163507.3.cd969cbdde8bb875@mg2.substack.com",
    "20260713183016.3.65d28bd581af9474@mg2.substack.com",
    "20260713233119.3.0695bec7e6fd4202@mg-d0.substack.com",
    "20260714000107.3.05493f46eced48bf@mg-d0.substack.com",
    "20260714083024.3.bd5b63a336dfff4d@mg-d1.substack.com",
    "20260714090153.3.d674e97d2a07e435@mg-d0.substack.com",
    "20260714090156.3.0f88bc6705f4e5d1@mg-d1.substack.com",
+   "20260714103011.3.a873d8a229903709@mg2.substack.com",
    "20260714110933.3.9dbcc28345f1ae4e@mg-d1.substack.com",
    "20260714111834.3.e343ea9f3e736dfd@mg-d1.substack.com",
    "20260714133228.3.7f1d21e2e770399d@mg2.substack.com",
    "20260714140509.3.31df5e63b06d9746@mg-d0.substack.com",
-   "20260714150052.3.d0696d45337a83e3@mg2.substack.com"
+   "20260714150052.3.d0696d45337a83e3@mg2.substack.com",
+   "20260714165611.3.459d7adfa990d073@mg-d1.substack.com",
+   "20260714191241.3.825248d85a543e85@mg-d0.substack.com",
+   "20260714213220.3.19d844fab7a51214@mg2.substack.com",
+   "20260715004910.3.fc17d5a3ad769dc5@mg-d1.substack.com",
+   "20260715103037.3.8c285e797b2779fc@mg-d1.substack.com",
+   "20260715103122.3.8fe1cf896848ccf6@mg-d1.substack.com",
+   "20260715105206.3.67ff308c9168bc64@mg-d1.substack.com",
+   "20260715133023.3.4056dc5d3eca4906@mg2.substack.com"
   ],
-  "updated": "2026-07-14T08:53-07:00",
+  "updated": "2026-07-15T08:57-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260715141824.3.631b60d3c20f6387@mg2.substack.com",
+   "newsletter": "We're Not Kidding | Zeteo",
+   "pub": "zeteo",
+   "subject": "Mehdi and the ‘Millennial Jon Stewart’ Talk Genocide, Messi, and ‘Bald Fascist’ Stephen Miller",
+   "date": "2026-07-15T07:18-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/adam-friedland-world-cup-israel-stephen-miller",
+   "bullets": [
+    "Stephen Miller’s baldness. Donald Trump’s theater career. Alexi “DEI hire” Lalas. South African racists. Inept autocrats. Baby Hitler. Osama Bin Laden’s favorite soccer team. These are just a few of the many topics that Mehdi and Adam Fried…",
+    "“I think [Messi] should have retired in 2022 when he won the World Cup,” Mehdi says. “I don’t know why politicians and sports stars cannot quit at the top.” “What are you complaining about? It has been twenty-two years of the greatest art w…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260715133023.3.4056dc5d3eca4906@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "They Don’t Care If ICE Kills People",
+   "date": "2026-07-15T06:30-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/they-dont-care-if-ice-kills-people-dhs-immigration-traffic-stop-shootings-trump-triumphal-arch",
+   "bullets": [
+    "ICE has ramped up arrests to ~2,000 a day, killed two civilians (Lorenzo Salgado Araujo and Joan Sebastian Guerrero) without evidence, and agents are unarmed, untrained, and not wearing body cameras, per DHS and local prosecutors.",
+    "The Trump administration fired key ICE officials but secured multi‑year funding and higher arrest quotas, allowing ICE to continue a mass‑deportation regime with no new accountability or transparency measures.",
+    "ICE briefly suspended vehicle stops after the killings, but officials said it was a short‑term review, and President Biden defended ICE as a “great” crime‑fighting tool, indicating no substantive policy change."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260715111132.3.c4b88f0559fdcfb3@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Are Trump and the GOP About to Confirm the Worst Attorney General Ever?",
+   "date": "2026-07-15T04:11-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/are-trump-and-the-gop-about-to-confirm",
+   "bullets": [
+    "On this day in 2006, San Francisco podcasting company Odeo released a new product: Twitter, the “microblogging” service that would revolutionize, and some say ruin, public and political discourse.",
+    "Good morning, and happy Wednesday. Martin here, delighted to bring you your morning news, on what promises to be another day of absurd Capitol Hill tragicomedy. In today’s ‘First Draft,’ we consider The Increasingly Poor Decisions of Todd […"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260715105206.3.67ff308c9168bc64@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Message Box Pro for Your Team",
+   "date": "2026-07-15T03:52-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/bring-your-team-onto-message-box",
+   "bullets": [
+    "Dan Pfeiffer offers a group subscription to Message Box Pro at $45 per person per month (30% off the $65 individual rate) with a two‑seat minimum, targeting political communications teams.",
+    "Pro members receive weekly strategy memos, polling analysis, messaging guidance, and access to a Discord community of congressional staff, campaign operatives, and organizers.",
+    "The service is pitched to communications firms, think tanks, advocacy groups, and campaign teams as a valuable asset for Capitol Hill and state‑level political work."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260715103122.3.8fe1cf896848ccf6@mg-d1.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Top 10 Cyclospora questions",
+   "date": "2026-07-15T03:31-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/top-10-cyclospora-questions",
+   "bullets": [
+    "Avoid bagged, kit, and boxed salads and peel or cook produce; whole lettuce heads are safe if outer 2‑3 layers are removed, and high‑risk groups should also skip raspberries, fresh herbs, onions and snap peas.",
+    "Cooking to an internal 158°F (e.g., sauté spinach 1.5 min) is the only proven way to kill Cyclospora; home freezers aren’t cold enough and microwaving is unreliable.",
+    "The outbreak’s source is still unknown, with Michigan issuing an unusual public warning; states are actively investigating, but federal guidance lagged and public‑health resources are strained."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260715103037.3.8c285e797b2779fc@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Forever War Gets Scary",
+   "date": "2026-07-15T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-forever-war-gets-scary",
+   "bullets": [
+    "Trump’s erratic policy—first proposing a 20% toll on Strait of Hormuz shipping, then demanding foreign investment—has collapsed, leaving only punitive strikes against Iran with no clear strategy.",
+    "Krugman warns the shift from trying to spin a ‘victory’ into outright bombing signals Trump abandoning any electoral advantage, instead preparing disinformation and possible election interference for the November midterms.",
+    "The real danger, Krugman argues, is not the Iranian conflict itself but the president’s willingness to use illegal, destabilizing actions that threaten U.S. democratic institutions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260715004910.3.fc17d5a3ad769dc5@mg-d1.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Sarah's Latest Focus Group Almost Broke JVL's Brain",
+   "date": "2026-07-14T17:49-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/sarahs-latest-focus-group-almost",
+   "bullets": [
+    "JVL notes two recent ICE officer killings, questioning desensitization while the hosts assert they remain outraged.",
+    "They label Trump's aborted plan to toll the Strait of Hormuz as a potential act of war and criticize Todd Blanche and Republican senators.",
+    "Tim references his interview with Pete Buttigieg and welcomes Josh Shapiro’s decision to avoid intra‑Democratic conflicts."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260714213220.3.19d844fab7a51214@mg2.substack.com",
    "newsletter": "Adrian Carrasquillo",
@@ -1550,7 +1651,7 @@
   }
  ],
  "counts": {
-  "shown": 71,
-  "total": 113
+  "shown": 70,
+  "total": 120
  }
 }
