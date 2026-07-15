@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14T08:53-07:00",
+ "updated": "2026-07-14T17:11-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -42,6 +42,47 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260714213220.3.19d844fab7a51214@mg2.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "ICE’s New Permanent Family Separation: Killing Latino Fathers",
+   "date": "2026-07-14T14:32-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/unimaginable-horror-facing-latino-fathers-johan-guerrero",
+   "bullets": [
+    "ICE agents shot 26‑year‑old Johan Sebastián Durán Guerrero in Biddeford, Maine, claiming public‑safety concerns despite his legal work status and presence of his 3‑year‑old daughter at the scene.",
+    "The shooting mirrors the recent killing of Lorenzo Salgado Araujo; both victims were fathers, agents lacked body‑cameras despite a $20 million congressional allocation, and a new recruit fired the shots.",
+    "Latino leaders and activists, including Rep. Joaquin Castro and influencer Carlos Espina, condemn the killings as state‑sanctioned violence targeting community providers and demand accountability."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260714191241.3.825248d85a543e85@mg-d0.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "\"I Saw Terrorization of the Palestinians\": U.S. Congressman Detained by Settlers",
+   "date": "2026-07-14T12:12-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/i-saw-terrorization-of-the-palestinians-says-ro-khanna-detained-settlers",
+   "bullets": [
+    "California Congressman Ro Khanna was detained by Israeli settlers and soldiers during a Palestinian‑led West Bank visit, describing the experience as “terrorization of the Palestinians.”",
+    "Khanna says the detention sparked bipartisan attacks and criticism, accusing U.S. ambassador Mike Huckabee of failing to protect American citizens and fearing his trip will set a precedent for others.",
+    "He explains his shift from pro‑Israel views, refuses to endorse a full arms embargo on Israel, and notes Elon Musk threatened to sue him over related legislation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260714165611.3.459d7adfa990d073@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Emperor’s Tollbooth",
+   "date": "2026-07-14T09:56-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/the-emperors-tollbooth-strait-hormuz-toll-trump-iran",
+   "bullets": [
+    "Trump announced a 20% toll on all cargo through the Strait of Hormuz, then retracted it hours later, proposing vague “investments” from Gulf states instead, a move the author calls an act of war and evidence of presidential madness",
+    "The author argues the plan was never realistic because no major powers—China, Europe, Indo‑Pacific allies—reacted, indicating the proposal was detached from maritime law and international feasibility"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260714150052.3.d0696d45337a83e3@mg2.substack.com",
    "newsletter": "Tim Miller - The Bulwark",
@@ -119,10 +160,11 @@
    "date": "2026-07-14T03:30-07:00",
    "url": "https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than",
    "bullets": [
-    "Are we back at war with Iran? Did the war ever stop? The US is, once again, bombing Iran while Iranian drones strike shipping. Iran, giddy with its success in defying America, is demanding sovereignty over the Strait of Hormuz, while Donald…",
-    "Folks, this is bad. U.S. national security policy is now entirely in the service of one man’s vanity. We got into this mess because Trump thought he could win an easy victory that would let him strut around feeling powerful. Now we can’t ge…"
+    "Trump’s brinkmanship over the Strait of Hormuz has limited impact on oil markets because global refining capacity, not crude supply, is the bottleneck, driven by a 10% loss from Russian refinery attacks linked to the Ukraine war.",
+    "Even though crude prices fell near pre‑war levels, consumer‑facing gasoline and diesel prices remain about $75 per barrel due to refinery shortages, keeping demand low and inflation sticky.",
+    "The brief Hormuz crisis illustrates how U.S. policy driven by Trump’s vanity adds geopolitical risk without altering the underlying supply‑demand dynamics shaped by the Russia‑Ukraine conflict."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260714090156.3.0f88bc6705f4e5d1@mg-d1.substack.com",
@@ -214,10 +256,10 @@
    "date": "2026-07-13T09:35-07:00",
    "url": "https://open.substack.com/pub/thebulwark/p/lindsey-graham-the-good-the-bad-and",
    "bullets": [
-    "It was heartening to see tributes to Lindsey Graham from prominent Democratic figures. Like Hunter Biden [ https://substack.com/redirect/5e0fc8ee-9412-45bf-a312-4172b622e3e1?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM …",
-    "He was a man who loved his work, his country, and his family. He didn’t have an easy life growing up and to me that explained a lot about him as well as his devotion to his remaining family members including his sister. It also explained hi…"
+    "Democratic figures, including Amy Klobuchar, praised Lindsey Graham as a devoted, energetic senator who embraced tough issues and remained loyal to friends and causes.",
+    "The author acknowledges the heartfelt tributes but warns that Graham’s death should also prompt harsher, more rigorous political analysis."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260713144415.3.c32f3356c7e9647b@mg2.substack.com",
@@ -1508,7 +1550,7 @@
   }
  ],
  "counts": {
-  "shown": 70,
-  "total": 110
+  "shown": 71,
+  "total": 113
  }
 }
