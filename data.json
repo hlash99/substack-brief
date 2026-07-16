@@ -1,22 +1,18 @@
 {
- "updated": "2026-07-15T08:57-07:00",
+ "updated": "2026-07-15T17:15-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "ICE's aggressive tactics have resulted in the killing of two civilians, Lorenzo Salgado Araujo and Joan Sebastian Guerrero, with agents lacking body cameras and proper training, as reported by The Bulwark and Zeteo",
-   "Trump's erratic policy on the Strait of Hormuz, including a proposed 20% toll, has been widely criticized, with experts warning of a potential major US escalation against Iran, according to Zeteo and Paul Krugman",
-   "The US is experiencing a surge in Cyclospora cases, with over 2,600 reported in Michigan, and experts are warning people to avoid bagged salads and take precautions to prevent infection, as noted by Your Local Epidemiologist",
-   "Trump's admission that the FCC's approval of Paramount Skydance's acquisition of CNN was part of a corrupt plan to make the network more MAGA-friendly has sparked concerns about the integrity of the media, as reported by The Message Box",
-   "Democrats are being urged to learn from their past mistakes and focus on effective messaging and storytelling to win elections, rather than just relying on good policy, according to Zeteo",
-   "Corporate tax rates have fallen significantly over the years, primarily benefiting wealthy shareholders, and experts are warning of the dangers of oligarchy and the need for tax reform, as discussed by Paul Krugman"
+   "Trump's erratic policy on Iran has collapsed, leaving only punitive strikes with no clear strategy, warns Paul Krugman (Paul Krugman)",
+   "ICE agents have killed two unarmed men, prompting accusations of a targeted 'death squad' campaign against presumed immigrants (The Bulwark)",
+   "A cyclosporiasis outbreak is infecting thousands across the US, with cases still rising and the parasite's source still unidentified (Zeteo, Your Local Epidemiologist)",
+   "Trump's abandoned plan to toll the Strait of Hormuz was widely criticized as an act of war and evidence of presidential madness (The Bulwark, Zeteo)",
+   "The Trump administration's handling of the Jeffrey Epstein case is under scrutiny, with accusations of a cover-up and calls for transparency (The Bulwark, Zeteo)",
+   "The US is bracing for a potential escalation of conflict with Iran, with experts warning of a 'major US escalation' soon (Zeteo)"
   ],
   "by": "groq",
   "ids": [
-   "20260712162657.3.0cb72e2742718193@mg2.substack.com",
-   "20260712195159.3.f5715ddef8bd52d3@mg2.substack.com",
-   "20260712210221.3.233c348d117be7b9@mg2.substack.com",
-   "20260712230421.3.91e196052e9d6e7b@mg-d1.substack.com",
    "20260713105031.3.36b2494df770f066@mg2.substack.com",
    "20260713105801.3.2aed25d8837db964@mg2.substack.com",
    "20260713132816.3.1e099ab794549359@mg-d1.substack.com",
@@ -41,12 +37,72 @@
    "20260715103037.3.8c285e797b2779fc@mg-d1.substack.com",
    "20260715103122.3.8fe1cf896848ccf6@mg-d1.substack.com",
    "20260715105206.3.67ff308c9168bc64@mg-d1.substack.com",
-   "20260715133023.3.4056dc5d3eca4906@mg2.substack.com"
+   "20260715111132.3.c4b88f0559fdcfb3@mg-d1.substack.com",
+   "20260715133023.3.4056dc5d3eca4906@mg2.substack.com",
+   "20260715141824.3.631b60d3c20f6387@mg2.substack.com",
+   "20260715162204.3.c70fe3a77181139e@mg-d0.substack.com",
+   "20260715185028.3.8896627e3cb92a4b@mg2.substack.com",
+   "20260715233058.3.2a0a874802bb4cee@mg-d1.substack.com"
   ],
-  "updated": "2026-07-15T08:57-07:00",
+  "updated": "2026-07-15T17:15-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260715233058.3.2a0a874802bb4cee@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "EXCLUSIVE: Senate Dems’ Top Strategist Outlines His Path to the Majority",
+   "date": "2026-07-15T16:30-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/exclusive-senate-dems-top-strategist-midterms-schumer-platner-michigan-iowa-south-carolina-graham",
+   "bullets": [
+    "JB Poersch, former DCCC executive director and current Senate Majority PAC head, argues Democrats should focus on four Trump‑won toss‑ups—Alaska, Iowa, Ohio, Texas—because strong Democratic candidates exist there.",
+    "He notes Republicans are shifting money to these states, while Democrats see opportunities in high‑profile races like Florida’s Alex Vindman ($16 M raised) and Mississippi’s Scott Colom, plus independent campaigns in Nebraska and Montana.",
+    "Poersch stresses that South Carolina’s seat, opened by Lindsey Graham’s death, could become competitive if a bruising GOP primary weakens the Republican incumbent, making it a key target for the party’s 2024 Senate strategy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260715185028.3.8896627e3cb92a4b@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "‘Explosive Diarrhea’ Outbreak: What You Need to Know",
+   "date": "2026-07-15T11:50-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/explosive-diarrhea-outbreak-what",
+   "bullets": [
+    "A cyclosporiasis outbreak causing severe diarrhea has infected thousands across more than half of U.S. states, with cases still rising and the parasite’s source still unidentified.",
+    "The disease spreads via contaminated food or water—common culprits include raspberries, basil, salad mixes, cilantro, berry mixes, lettuce and snap peas—and is unlikely to be person‑to‑person.",
+    "Officials cite the Trump administration’s cuts to federal health agency funding as a factor hampering tracking and response to the fast‑moving outbreak."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260715183032.3.7995dd0daf59bb66@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "When You’re Sliding Into First and You Feel You’re Gonna Burst, Read This Story",
+   "date": "2026-07-15T11:30-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/cyclospora-outbreak-interview",
+   "bullets": [
+    "“EXPLOSIVE DIARRHEA” IS NOT A PHRASE YOU WANT to be hearing in your household, let alone on the national news. But it is happening a lot these days, thanks to an outbreak of a parasitic infection called cyclospora [ https://substack.com/red…",
+    "So far the largest number is in Michigan [ https://substack.com/redirect/ac5df2ad-fedb-4f40-a793-1e3dd0ef7b98?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ], my home state. But it’s not simply a Michigan problem: More t…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260715162204.3.c70fe3a77181139e@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "America’s Death Squads Are Real",
+   "date": "2026-07-15T09:22-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/americas-death-squads-are-real",
+   "bullets": [
+    "Federal agents killed two unarmed men this week—illegal immigrant Lorenzo Salgado Araujo and legal resident Johan Sebastián Guerrero—prompting the author to label the actions as a targeted “death squad” campaign against presumed immigrants.",
+    "The piece argues this marks the first U.S. instance since Jim Crow of state‑sanctioned killings, contrasting it with routine police brutality and warning that insiders often underestimate such crimes against humanity.",
+    "It then recounts a fictional rise of a populist politician who weaponized anti‑drug rhetoric, promising to unleash police and civilian militias to “slaughter” drug users, illustrating how draconian policies can gain mass support."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260715141824.3.631b60d3c20f6387@mg2.substack.com",
    "newsletter": "We're Not Kidding | Zeteo",
@@ -55,10 +111,11 @@
    "date": "2026-07-15T07:18-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/adam-friedland-world-cup-israel-stephen-miller",
    "bullets": [
-    "Stephen Miller’s baldness. Donald Trump’s theater career. Alexi “DEI hire” Lalas. South African racists. Inept autocrats. Baby Hitler. Osama Bin Laden’s favorite soccer team. These are just a few of the many topics that Mehdi and Adam Fried…",
-    "“I think [Messi] should have retired in 2022 when he won the World Cup,” Mehdi says. “I don’t know why politicians and sports stars cannot quit at the top.” “What are you complaining about? It has been twenty-two years of the greatest art w…"
+    "Mehdi and Adam Friedland discuss a wide range of topics—from Messi’s retirement and Stephen Miller’s rise to fascism, to Adam’s viral interview with Congressman Ritchie Torres and his South African family history—while reflecting on their experiences interviewing defensive politicians.",
+    "The episode includes Adam’s anecdotes about working in an Israeli ambulance service, Trump’s influence on the World Cup, and a contentious moment where Scott Jennings admits he’s a “performer,” plus speculation on whether Adam should run for president.",
+    "Free subscribers can watch a 5‑minute preview of the video, while paid subscribers get full access; the show is also available on Spotify and Apple Podcasts."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260715133023.3.4056dc5d3eca4906@mg2.substack.com",
@@ -82,10 +139,11 @@
    "date": "2026-07-15T04:11-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/are-trump-and-the-gop-about-to-confirm",
    "bullets": [
-    "On this day in 2006, San Francisco podcasting company Odeo released a new product: Twitter, the “microblogging” service that would revolutionize, and some say ruin, public and political discourse.",
-    "Good morning, and happy Wednesday. Martin here, delighted to bring you your morning news, on what promises to be another day of absurd Capitol Hill tragicomedy. In today’s ‘First Draft,’ we consider The Increasingly Poor Decisions of Todd […"
+    "Todd Blanche, Trump’s acting attorney general and nominee, faces a Senate Judiciary hearing where Democrats will attack his role in the $10 billion IRS lawsuit, the $1.776 billion “Anti‑Weaponization Fund” for Jan 6 supporters, and his involvement in covering up Jeffrey Epstein files, while Republicans hope to keep the vote alive despite the loss of Lindsey Graham.",
+    "The New York Times obtained emails showing Blanche’s participation in Trump’s “Retribution Campaign,” and a Florida judge rebuked him over the IRS suit, prompting possible ethics complaints and raising concerns among GOP senators like John Cornyn.",
+    "Epstein survivors, including Danielle Bensky, plan to testify, accusing Blanche of betraying victims by blocking investigations and redacting files, intensifying pressure on his confirmation amid a narrow Senate margin."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260715105206.3.67ff308c9168bc64@mg-d1.substack.com",
@@ -1651,7 +1709,7 @@
   }
  ],
  "counts": {
-  "shown": 70,
-  "total": 120
+  "shown": 69,
+  "total": 124
  }
 }
