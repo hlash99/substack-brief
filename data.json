@@ -1,22 +1,18 @@
 {
- "updated": "2026-07-15T17:15-07:00",
+ "updated": "2026-07-16T08:52-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's erratic policy on Iran has collapsed, leaving only punitive strikes with no clear strategy, warns Paul Krugman (Paul Krugman)",
-   "ICE agents have killed two unarmed men, prompting accusations of a targeted 'death squad' campaign against presumed immigrants (The Bulwark)",
-   "A cyclosporiasis outbreak is infecting thousands across the US, with cases still rising and the parasite's source still unidentified (Zeteo, Your Local Epidemiologist)",
-   "Trump's abandoned plan to toll the Strait of Hormuz was widely criticized as an act of war and evidence of presidential madness (The Bulwark, Zeteo)",
-   "The Trump administration's handling of the Jeffrey Epstein case is under scrutiny, with accusations of a cover-up and calls for transparency (The Bulwark, Zeteo)",
-   "The US is bracing for a potential escalation of conflict with Iran, with experts warning of a 'major US escalation' soon (Zeteo)"
+   "Trump's administration has resumed aggressive deportations, resulting in at least three deaths this week, with ICE agents killing two unarmed men, prompting outrage and calls for accountability (Zeteo, The Bulwark)",
+   "ICE's actions have been described as a targeted 'death squad' campaign against presumed immigrants, with agents lacking body cameras and training, despite a $20 million congressional allocation (The Bulwark, Zeteo)",
+   "Trump's erratic policy on Iran has collapsed, leaving only punitive strikes with no clear strategy, and his 20% toll on Strait of Hormuz shipping has been widely criticized as an act of war (The Bulwark, Paul Krugman)",
+   "Democrats are being outgunned in the information war, with Trump admitting on live TV that the FCC's approval of Paramount Skydance's acquisition of CNN was part of a corrupt plan to make the network more MAGA-friendly (The Message Box)",
+   "A cyclosporiasis outbreak is spreading across the US, with thousands infected and the parasite's source still unidentified, prompting warnings to avoid contaminated food and water (Zeteo, Your Local Epidemiologist)",
+   "Trump's approval rating has fallen to 37%, the lowest in 17 years, according to a Times/Siena poll, with his pardon power and authoritarian mindset raising concerns about DOJ independence (The Bulwark)"
   ],
   "by": "groq",
   "ids": [
-   "20260713105031.3.36b2494df770f066@mg2.substack.com",
-   "20260713105801.3.2aed25d8837db964@mg2.substack.com",
-   "20260713132816.3.1e099ab794549359@mg-d1.substack.com",
-   "20260713144415.3.c32f3356c7e9647b@mg2.substack.com",
    "20260713163507.3.cd969cbdde8bb875@mg2.substack.com",
    "20260713183016.3.65d28bd581af9474@mg2.substack.com",
    "20260713233119.3.0695bec7e6fd4202@mg-d0.substack.com",
@@ -41,13 +37,101 @@
    "20260715133023.3.4056dc5d3eca4906@mg2.substack.com",
    "20260715141824.3.631b60d3c20f6387@mg2.substack.com",
    "20260715162204.3.c70fe3a77181139e@mg-d0.substack.com",
+   "20260715183032.3.7995dd0daf59bb66@mg2.substack.com",
    "20260715185028.3.8896627e3cb92a4b@mg2.substack.com",
-   "20260715233058.3.2a0a874802bb4cee@mg-d1.substack.com"
+   "20260715233058.3.2a0a874802bb4cee@mg-d1.substack.com",
+   "20260716011952.3.7010b855dd06d000@mg-d1.substack.com",
+   "20260716111850.3.b09b9489b870cf6a@mg2.substack.com",
+   "20260716112552.3.51d69af21a6020db@mg-d1.substack.com",
+   "20260716131607.3.436de1341b1689d7@mg-d1.substack.com",
+   "20260716133950.3.02998e207fefb530@mg2.substack.com",
+   "20260716151331.3.47c27bb11618b007@mg-d1.substack.com"
   ],
-  "updated": "2026-07-15T17:15-07:00",
+  "updated": "2026-07-16T08:52-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260716151331.3.47c27bb11618b007@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Lindsey Graham’s Death Reminded Us What’s Wrong With Mainstream Media",
+   "date": "2026-07-16T08:13-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/lindsey-grahams-death-reminded-us",
+   "bullets": [
+    "Lindsey Graham’s death highlighted the ineffectiveness of Sunday shows, with CNN’s State of the Union and NBC’s Meet the Press offering shallow, self‑serving coverage that merely showcased their hosts’ access to the president.",
+    "The newsletter questions whether broadcast networks will comply with Donald Trump’s demands to air his election‑denial address, implying a potential shift toward partisan propaganda.",
+    "It also critiques California Attorney General’s criticism of Bari Weiss’s impact on CBS, suggesting that her presence has harmed the network’s credibility and editorial standards."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260716133950.3.02998e207fefb530@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "All the Dictator’s Men",
+   "date": "2026-07-16T06:39-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/all-the-dictators-men-trump-blanche-clayton-democracy-midterms-elections-2020",
+   "bullets": [
+    "Trump’s approval rating has fallen to 37%, the lowest in 17 years, according to a Times/Siena poll, a new political low for any president in recent history.",
+    "Todd Blanche, Trump’s former personal attorney, testified before the Senate Judiciary Committee that the president’s pardon power is absolute and that the DOJ must comply, reflecting an authoritarian mindset and raising concerns about DOJ independence."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260716131607.3.436de1341b1689d7@mg-d1.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "A personal request",
+   "date": "2026-07-16T06:16-07:00",
+   "url": "https://ossoff.substack.com/p/a-personal-request",
+   "bullets": [
+    "Jon Ossoff urges $26 donations to counter $11 million spent against him, $44 million pledged by GOP Super PAC, and $269 million spent by Republicans in 2020‑21 to defeat him in Georgia.",
+    "He cites a 1.2% margin of victory in 2021 and claims that small contributions like $26 were crucial to that win, urging supporters to replicate that success for a decisive midterm victory."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260716112552.3.51d69af21a6020db@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Democracy in an Age of Powermaxxing",
+   "date": "2026-07-16T04:25-07:00",
+   "url": "https://paulkrugman.substack.com/p/democracy-in-an-age-of-powermaxxing",
+   "bullets": [
+    "Andrew Hall’s email‑fundraising data shows a sharp rise in politicians’ negative mentions of billionaires after the 2025 Trump inauguration, coining the trend “billionaire bashing.”",
+    "The wealth of the 400 richest Americans grew from $92 billion in 1982 to $6.6 trillion in 2025, while workers’ share of national income hit an 80‑year low, linking elite wealth to declining living standards.",
+    "Billionaires now fund roughly 20% of 2024 campaign spending, leveraging Citizens United‑enabled rules to push low‑tax, deregulation, and pro‑billionaire policies that threaten U.S. democracy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260716111850.3.b09b9489b870cf6a@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "🛑 Trump Can’t Quit His Failing Campaign of Terror and Murder",
+   "date": "2026-07-16T04:18-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-cant-quit-his-failing-campaign",
+   "bullets": [
+    "Trump’s administration has resumed aggressive deportations, resulting in at least three deaths this week—including Colombian Joan Sebastián Durán Guerrero in Maine and a 28‑year‑old in Florida—while Republicans claim they’ll curb anti‑immigrant brutality after the midterms but fail to act.",
+    "A coalition of Democrats, including Nancy Pelosi, voted to cut military aid to Israel, marking a rare bipartisan move amid ongoing criticism of U.S. foreign policy.",
+    "The newsletter urges listeners to tune into a 9 p.m. ET primetime address and a follow‑up Zeteo analysis to dissect the president’s anticipated falsehoods."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260716011952.3.7010b855dd06d000@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "ICE Keeps Killing People. Can They Be Held to Account? Legal Expert Weighs In",
+   "date": "2026-07-15T18:19-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/ice-keeps-killing-people-can-they",
+   "bullets": [
+    "ICE officers shot and killed a man in Maine and another in Texas, each time claiming self‑defense, raising concerns about civilian deaths with apparent impunity.",
+    "Civil‑rights lawyer Maya Wiley argues Congress must enact stronger oversight and accountability measures for ICE, questioning whether the civil‑rights movement can still advance under the current administration."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260715233058.3.2a0a874802bb4cee@mg-d1.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
@@ -84,10 +168,11 @@
    "date": "2026-07-15T11:30-07:00",
    "url": "https://open.substack.com/pub/thebulwark/p/cyclospora-outbreak-interview",
    "bullets": [
-    "“EXPLOSIVE DIARRHEA” IS NOT A PHRASE YOU WANT to be hearing in your household, let alone on the national news. But it is happening a lot these days, thanks to an outbreak of a parasitic infection called cyclospora [ https://substack.com/red…",
-    "So far the largest number is in Michigan [ https://substack.com/redirect/ac5df2ad-fedb-4f40-a793-1e3dd0ef7b98?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ], my home state. But it’s not simply a Michigan problem: More t…"
+    "Cyclospora, a single‑celled parasite spread via human fecal contamination of produce, has sickened thousands across 30+ states, with Michigan reporting the most cases.",
+    "Symptoms include weeks‑long watery diarrhea, cramping and dehydration; high‑risk groups (pregnant, children, elderly, immunocompromised) may need antibiotics, while healthy adults can often wait it out.",
+    "Because the source is still unknown, experts advise avoiding pre‑packaged salads and raspberries, washing produce isn’t enough, and cooking to at least 158 °F is the only reliable way to kill the parasite."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260715162204.3.c70fe3a77181139e@mg-d0.substack.com",
@@ -1709,7 +1794,7 @@
   }
  ],
  "counts": {
-  "shown": 69,
-  "total": 124
+  "shown": 70,
+  "total": 130
  }
 }
