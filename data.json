@@ -1,31 +1,18 @@
 {
- "updated": "2026-07-16T17:17-07:00",
+ "updated": "2026-07-17T08:51-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's administration has resumed aggressive deportations, resulting in at least three deaths this week, with ICE agents killing two unarmed men, prompting outrage and calls for accountability (Zeteo, The Bulwark)",
-   "ICE's actions have been described as a targeted 'death squad' campaign against presumed immigrants, with agents lacking body cameras and training, despite a $20 million congressional allocation (The Bulwark, Zeteo)",
-   "Trump's erratic policy on Iran has collapsed, leaving only punitive strikes with no clear strategy, and his 20% toll on Strait of Hormuz shipping has been widely criticized as an act of war (The Bulwark, Paul Krugman)",
-   "Democrats are being outgunned in the information war, with Trump admitting on live TV that the FCC's approval of Paramount Skydance's acquisition of CNN was part of a corrupt plan to make the network more MAGA-friendly (The Message Box)",
-   "A cyclosporiasis outbreak is spreading across the US, with thousands infected and the parasite's source still unidentified, prompting warnings to avoid contaminated food and water (Zeteo, Your Local Epidemiologist)",
-   "Trump's approval rating has fallen to 37%, the lowest in 17 years, according to a Times/Siena poll, with his pardon power and authoritarian mindset raising concerns about DOJ independence (The Bulwark)"
+   "Donald Trump's recent speech has been widely criticized for its false claims and divisive rhetoric, with many arguing it is a tactic to undermine midterm election results and build a narrative that he is uniquely capable of leading the country (The Bulwark, Paul Krugman, Zeteo)",
+   "Trump's influence on the Republican party and his potential to disrupt the 2024 midterms is a major concern, with some arguing that his actions are a threat to American democracy (The Bulwark, Zeteo)",
+   "ICE's recent killings of unarmed men have sparked outrage and calls for greater accountability, with many arguing that the agency's actions are a form of state-sanctioned violence (The Bulwark, Zeteo)",
+   "The cyclosporiasis outbreak across the US has infected thousands, with the source of the parasite still unknown and officials warning of the need for greater food safety measures (Your Local Epidemiologist, The Bulwark)",
+   "Trump's erratic foreign policy, including his aborted plan to toll the Strait of Hormuz, has raised concerns about his ability to lead the country and navigate complex international relationships (The Bulwark, Paul Krugman)",
+   "The normalization of state-sanctioned violence and the desensitization of the public to such incidents are major concerns, with many arguing that these trends pose a significant threat to American democracy and values (The Bulwark)"
   ],
   "by": "groq",
   "ids": [
-   "20260713163507.3.cd969cbdde8bb875@mg2.substack.com",
-   "20260713183016.3.65d28bd581af9474@mg2.substack.com",
-   "20260713233119.3.0695bec7e6fd4202@mg-d0.substack.com",
-   "20260714000107.3.05493f46eced48bf@mg-d0.substack.com",
-   "20260714083024.3.bd5b63a336dfff4d@mg-d1.substack.com",
-   "20260714090153.3.d674e97d2a07e435@mg-d0.substack.com",
-   "20260714090156.3.0f88bc6705f4e5d1@mg-d1.substack.com",
-   "20260714103011.3.a873d8a229903709@mg2.substack.com",
-   "20260714110933.3.9dbcc28345f1ae4e@mg-d1.substack.com",
-   "20260714111834.3.e343ea9f3e736dfd@mg-d1.substack.com",
-   "20260714133228.3.7f1d21e2e770399d@mg2.substack.com",
-   "20260714140509.3.31df5e63b06d9746@mg-d0.substack.com",
-   "20260714150052.3.d0696d45337a83e3@mg2.substack.com",
    "20260714165611.3.459d7adfa990d073@mg-d1.substack.com",
    "20260714191241.3.825248d85a543e85@mg-d0.substack.com",
    "20260714213220.3.19d844fab7a51214@mg2.substack.com",
@@ -45,12 +32,115 @@
    "20260716112552.3.51d69af21a6020db@mg-d1.substack.com",
    "20260716131607.3.436de1341b1689d7@mg-d1.substack.com",
    "20260716133950.3.02998e207fefb530@mg2.substack.com",
-   "20260716151331.3.47c27bb11618b007@mg-d1.substack.com"
+   "20260716151331.3.47c27bb11618b007@mg-d1.substack.com",
+   "20260716160211.3.8d43f2dace683881@mg2.substack.com",
+   "20260716163833.3.4f1b6cee6ec09f0a@mg-d1.substack.com",
+   "20260716190210.3.3157511fdd8c5d31@mg2.substack.com",
+   "20260716190211.3.4278d684ae88b464@mg-d1.substack.com",
+   "20260717041230.3.47fea70163e937cb@mg2.substack.com",
+   "20260717101411.3.e77c791b7b68b9b3@mg2.substack.com",
+   "20260717112647.3.11d3343acf0def8f@mg-d1.substack.com",
+   "20260717132949.3.2ccd749f5b01eee8@mg2.substack.com",
+   "20260717142708.3.4421681b02b7da10@mg2.substack.com"
   ],
-  "updated": "2026-07-16T08:52-07:00",
+  "updated": "2026-07-17T08:51-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260717142708.3.4421681b02b7da10@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "*Tickets!* Join Comedian Mo Amer and Mehdi LIVE in Houston",
+   "date": "2026-07-17T07:27-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/tickets-join-comedian-mo-amer-and-4a3",
+   "bullets": [
+    "Mo Amer and Mehdi will host a live taping of Zeteo’s podcast ‘We’re Not Kidding’ on Friday, Oct. 16 at Houston’s Cullen Performance Hall, covering Mo’s Netflix series, stand‑up, and Israel‑Palestine politics.",
+    "Subscribers get early ticket access before the public sale on July 21, with seats priced $50‑$100 plus taxes and fees.",
+    "The event is sponsored by the Risala Foundation and will include live audience Q&A."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260717132949.3.2ccd749f5b01eee8@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Real Threat to Our Elections Is Donald Trump",
+   "date": "2026-07-17T06:29-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/the-real-threat-to-our-elections-trump-speech-foreign-interference-influence",
+   "bullets": [
+    "Truth Social’s new premium service lets paying users view Donald Trump’s posts milliseconds before the public, a move that could deepen the influence of wealthy donors on the president’s messaging.",
+    "The 2021 National Intelligence Council report found no evidence of foreign actors altering U.S. voting mechanics, but highlighted that Russia and Iran spread false claims to erode public confidence—an approach mirrored by Trump’s own rhetoric.",
+    "Recent polls show only about 38‑39% of likely voters approve of Trump’s performance, with roughly 61% disapproving, and a sharp decline in the percentage who feel better off under his administration, signaling a potential mid‑term backlash."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260717112647.3.11d3343acf0def8f@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Trump Can’t Get No Respect",
+   "date": "2026-07-17T04:26-07:00",
+   "url": "https://paulkrugman.substack.com/p/trump-cant-get-no-respect",
+   "bullets": [
+    "Trump’s speech was a string of false claims, including that America had become the most respected country, despite Pew data showing a sharp decline in global respect for the U.S. and allies reducing dependence on American economic and military support.",
+    "Krugman argues Trump’s boastful rhetoric is a tactic to justify undermining midterm election results and to build a narrative that he is uniquely capable of leading, thereby attempting to erode democratic norms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260717111415.3.ef04779abf9bd020@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Stephen Miller Expands His Apocalyptic War on the Left",
+   "date": "2026-07-17T04:14-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/stephen-miller-expands-his-apocalyptic",
+   "bullets": [
+    "On this day in 1984, at the Democratic National Convention in San Francisco, Rev. Jesse Jackson delivered his ‘Rainbow Coalition’ speech [ https://substack.com/redirect/f44d19e2-53fb-4bbe-8b3d-619528ca30a0?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaitto…",
+    "Happy Friday! It’s Andrew here, looking forward to the weekend – or as Donald Trump understands it, the days he prefers to make news and war and ramp up his authoritarian blitz. Perhaps he’ll go easy on us, because yesterday was truly enoug…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260717101411.3.e77c791b7b68b9b3@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Trump's Speech Was Political Malpractice of the Highest Order",
+   "date": "2026-07-17T03:14-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/trumps-speech-was-political-malpractice",
+   "bullets": [
+    "Pfeiffer condemns Trump’s recent speech as incoherent, poorly delivered, and dangerous, calling it the highest order of political malpractice.",
+    "He argues the speech’s aim to frighten Democrats about election subversion actually threatens Republican candidates nationwide."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260717041230.3.47fea70163e937cb@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Trump's Big Speech Was 'Gibberish,' 'Drivel,' 'Horseshit'",
+   "date": "2026-07-16T21:12-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trumps-big-speech-was-gibberish-drivel",
+   "bullets": [
+    "Trump’s White House speech repeated false 2020 election fraud claims and added an unsubstantiated allegation that China flipped votes for Biden, despite briefings that no evidence exists",
+    "Zeteo’s Swin Suebsaeng disclosed upcoming reporting confirming senior staff were told there was no “smoking gun” of Chinese interference, and Congressman Jamie Raskin called the speech gibberish and a self‑debunking attack on the electoral system",
+    "The livestream featured a Q&A on Democratic strategies, including holding Republicans accountable, positions on Israel aid cuts, and ties to AIPAC, with subscriber questions also addressed"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260717001528.3.5b290d57f173b4e0@mg2.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Racist Law From 1882 Is Not That Racist, Trump Says",
+   "date": "2026-07-16T17:15-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/racist-law-from-1882-is-not-that-racist-chinese-exclusion-act-smithsonian",
+   "bullets": [
+    "A RACIST LAW THAT INSPIRED MORE RACIST LAWS and was literally named after its racism is definitely not racist. At least according to the Trump administration. Laser-focused on the midterms, the White House recently released a 162-page repor…",
+    "This new report, released by the White House Domestic Policy Council, renders in exhaustive, heavily footnoted detail all of the Smithsonian’s alleged sins. Among its worst transgressions:"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20260716230059.3.58f14c005a8ac535@mg-d1.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -1861,7 +1951,7 @@
   }
  ],
  "counts": {
-  "shown": 71,
-  "total": 135
+  "shown": 70,
+  "total": 142
  }
 }
