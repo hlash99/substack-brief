@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T08:52-07:00",
+ "updated": "2026-07-16T17:17-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -51,6 +51,73 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260716230059.3.58f14c005a8ac535@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "‘My Neighbor Was Murdered by White Supremacists’: Zeteo Reports From Maine on Yet Another ICE Killing",
+   "date": "2026-07-16T16:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/ice-killing-joan-sebastian-guerrero-biddeford-maine",
+   "bullets": [
+    "After Donald Trump’s primetime address tonight, scheduled at 9pm ET, head to zeteo.com [ https://substack.com/redirect/19ebb1ac-9266-4d73-91eb-4341b9650abb?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] and youtube.com/…",
+    "BIDDEFORD, Maine – Thirty-six hours after Donald Trump’s masked secret police killed Joan Sebastián Guerrero, his blood is still on the ground, stained into the road. “This is blood,” someone has written in chalk. There’s a memorial on the …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260716190210.3.3157511fdd8c5d31@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "A Pro-Trump Private Investigator Is Investigating Elections in Georgia",
+   "date": "2026-07-16T12:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/pro-trump-private-investigator-elections-georgia",
+   "bullets": [
+    "The Republican‑led Georgia State Election Board has hired two self‑identified election deniers as taxpayer‑funded investigators, giving them subpoena power to probe alleged 2020 fraud despite no evidence.",
+    "Trump’s false claims that the 2020 election was stolen have convinced most Georgia Republicans, prompting a campaign to sow distrust ahead of the 2024 midterms, especially in Black‑majority Fulton County.",
+    "The newsletter urges listeners to tune in to a Zeteo podcast where Mehdi and Swin dissect Trump’s upcoming primetime address and the ongoing election‑denial strategy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260716190211.3.4278d684ae88b464@mg-d1.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Can This Pseudo-Journalist Destroy American Democracy?",
+   "date": "2026-07-16T12:02-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/can-this-pseudo-journalist-destroy-american-democracy-john-solomon-just-the-news-trump",
+   "bullets": [
+    "Trump’s Thursday primetime address is expected to push false claims—labeling Senators Ossoff and Warnock as fake, declaring a voter‑fraud emergency, and blaming China for the 2020 election—aimed at boosting GOP midterm chances.",
+    "John Solomon, a former Washington Post reporter now a short‑term White House staffer, has long engineered MAGA conspiracy narratives, from the Russia probe to Ukraine and 2020 fraud, using his mainstream‑journalist façade to legitimize them.",
+    "Solomon’s close ties to Trump led to his appointment as a personal representative at the National Archives, enabling him to obtain and later publish declassified FBI files, illustrating his privileged access and role in shaping right‑wing disinformation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260716163833.3.4f1b6cee6ec09f0a@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A Modest Request: Don’t Grow Numb to This",
+   "date": "2026-07-16T09:38-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/a-modest-request-dont-grow-numb-to-this",
+   "bullets": [
+    "The author links three recent incidents—Rep. Ro Khanna and Cameron Kasky’s detention by Israeli settlers, a swatting‑style attack on Pete Buttigieg’s family, and the ICE killings of Lorenzo Araujo in Houston and Joan Sebastian Guerrero in Maine—as evidence of a growing normalization of state‑sanctioned violence."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260716160211.3.8d43f2dace683881@mg2.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "Regret, superstition, and trauma-bonding: two champions on what it’s really like to play in the World Cup",
+   "date": "2026-07-16T09:02-07:00",
+   "url": "https://post.substack.com/p/regret-superstition-and-trauma-bonding",
+   "bullets": [
+    "The 2026 World Cup has been streamed nearly 12 billion times, and former US women’s stars Julie Foudy and Abby Wambach say tournament schedules leave virtually no downtime, forcing them to “shut down” and watch other games or movies to conserve energy.",
+    "Both athletes describe intense external pressure: Wambach tied her performance to livelihood and endorsement deals, while Foudy recalled the 1999 host‑nation pressure and adopted the mantra “pressure is a privilege,” which helped the US win that World Cup.",
+    "They note a distinct post‑tournament “blues” or trauma‑bonding effect, where years of focused training leave athletes feeling lost once the event ends, a reality they now discuss with younger competitors."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260716151331.3.47c27bb11618b007@mg-d1.substack.com",
    "newsletter": "Zeteo",
@@ -1794,7 +1861,7 @@
   }
  ],
  "counts": {
-  "shown": 70,
-  "total": 130
+  "shown": 71,
+  "total": 135
  }
 }
