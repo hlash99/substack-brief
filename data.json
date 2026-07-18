@@ -1,21 +1,18 @@
 {
- "updated": "2026-07-17T08:51-07:00",
+ "updated": "2026-07-17T17:14-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Donald Trump's recent speech has been widely criticized for its false claims and divisive rhetoric, with many arguing it is a tactic to undermine midterm election results and build a narrative that he is uniquely capable of leading the country (The Bulwark, Paul Krugman, Zeteo)",
-   "Trump's influence on the Republican party and his potential to disrupt the 2024 midterms is a major concern, with some arguing that his actions are a threat to American democracy (The Bulwark, Zeteo)",
-   "ICE's recent killings of unarmed men have sparked outrage and calls for greater accountability, with many arguing that the agency's actions are a form of state-sanctioned violence (The Bulwark, Zeteo)",
-   "The cyclosporiasis outbreak across the US has infected thousands, with the source of the parasite still unknown and officials warning of the need for greater food safety measures (Your Local Epidemiologist, The Bulwark)",
-   "Trump's erratic foreign policy, including his aborted plan to toll the Strait of Hormuz, has raised concerns about his ability to lead the country and navigate complex international relationships (The Bulwark, Paul Krugman)",
-   "The normalization of state-sanctioned violence and the desensitization of the public to such incidents are major concerns, with many arguing that these trends pose a significant threat to American democracy and values (The Bulwark)"
+   "Donald Trump's recent speech has been widely condemned for its false claims and divisive rhetoric, with many arguing it is a tactic to undermine midterm election results and justify authoritarian actions (The Bulwark, Zeteo, Paul Krugman)",
+   "Trump's administration has been linked to a growing number of state-sanctioned killings, including the recent deaths of two unarmed men at the hands of federal agents (The Bulwark, Zeteo)",
+   "The Trump administration's aggressive deportation policies have resulted in at least three deaths this week, prompting calls for stronger oversight and accountability measures for ICE (Zeteo, The Bulwark)",
+   "Stephen Miller has declared left-wing activism a form of political terrorism, justifying an all-out federal crackdown on liberals and linking it to Trump's broader authoritarian agenda (First Draft | Zeteo)",
+   "Trump's approval rating has fallen to 37%, the lowest in 17 years, according to a recent poll, as his administration faces criticism for its handling of various issues, including immigration and election interference (Bill Kristol & Andrew Egger - The Bulwark)",
+   "The cyclosporiasis outbreak in the US has infected thousands, with cases still rising, and officials are working to identify the source of the parasite and prevent further spread (Jonathan Cohn - The Bulwark, Your Local Epidemiologist)"
   ],
   "by": "groq",
   "ids": [
-   "20260714165611.3.459d7adfa990d073@mg-d1.substack.com",
-   "20260714191241.3.825248d85a543e85@mg-d0.substack.com",
-   "20260714213220.3.19d844fab7a51214@mg2.substack.com",
    "20260715004910.3.fc17d5a3ad769dc5@mg-d1.substack.com",
    "20260715103037.3.8c285e797b2779fc@mg-d1.substack.com",
    "20260715103122.3.8fe1cf896848ccf6@mg-d1.substack.com",
@@ -37,16 +34,118 @@
    "20260716163833.3.4f1b6cee6ec09f0a@mg-d1.substack.com",
    "20260716190210.3.3157511fdd8c5d31@mg2.substack.com",
    "20260716190211.3.4278d684ae88b464@mg-d1.substack.com",
+   "20260716230059.3.58f14c005a8ac535@mg-d1.substack.com",
    "20260717041230.3.47fea70163e937cb@mg2.substack.com",
    "20260717101411.3.e77c791b7b68b9b3@mg2.substack.com",
+   "20260717111415.3.ef04779abf9bd020@mg2.substack.com",
    "20260717112647.3.11d3343acf0def8f@mg-d1.substack.com",
    "20260717132949.3.2ccd749f5b01eee8@mg2.substack.com",
-   "20260717142708.3.4421681b02b7da10@mg2.substack.com"
+   "20260717142708.3.4421681b02b7da10@mg2.substack.com",
+   "20260717160538.3.dbcdcbfcc45394ef@mg-d0.substack.com",
+   "20260717190127.3.bd9024b1ba6b2a28@mg-d0.substack.com",
+   "20260717204015.3.44efc6ae869cab35@mg-d1.substack.com",
+   "20260717220056.3.a69ed119aba3d28a@mg-d0.substack.com",
+   "20260717220216.3.d2f82d70d14aaf7d@mg2.substack.com"
   ],
-  "updated": "2026-07-17T08:51-07:00",
+  "updated": "2026-07-17T17:14-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260717220216.3.d2f82d70d14aaf7d@mg2.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Silver Lining of Trump’s Reheated Election Denialism",
+   "date": "2026-07-17T15:02-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/the-silver-lining-of-trumps-reheated",
+   "bullets": [
+    "Trump claimed China accessed 200 million voter files",
+    "Trump's DOJ is 0-16 in court suits for voter rolls",
+    "Trump may declare national emergency over foreign election interference"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260717220056.3.a69ed119aba3d28a@mg-d0.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 78: Trump Lays the Groundwork to Steal Future Elections",
+   "date": "2026-07-17T15:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-78-trump",
+   "bullets": [
+    "Trump subpoenaed NYT journalists",
+    "A federal judge voided Trump's $1.8 billion IRS settlement",
+    "Trump called for ICE traffic stops to continue despite recent deaths"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260717204015.3.44efc6ae869cab35@mg-d1.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Voters Say JD Vance Gives Them the Willies",
+   "date": "2026-07-17T13:40-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/trump-voters-say-jd-vance-gives-them",
+   "bullets": [
+    "Trump’s latest speech is described as tedious and frightening, with the authors noting that new documents continue to undermine his election claims and expose inconsistencies in his narrative.",
+    "JD Vance’s appearance on Joe Rogan is labeled cringe-worthy, provoking harsh backlash from Trump voters who feel betrayed and angry at his perceived lack of authenticity.",
+    "Democrats missed key opportunities during the Todd Blanche hearing, failing to capitalize on evidence that could have weakened Trump’s influence and credibility."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260717190127.3.bd9024b1ba6b2a28@mg-d0.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why the Paramount-WB Merger Will Be Terrible for Theaters",
+   "date": "2026-07-17T12:01-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/why-the-paramount-wb-merger-will-be-terrible-for-theaters-christopher-nolan-odyssey",
+   "bullets": [
+    "The $110 billion Paramount‑Warner Bros. Discovery merger threatens to close movie theaters by eliminating competition that drives favorable terms and creative output, as warned by California AG Rob Bonta and Cinema United’s Michael O’Leary.",
+    "Regulators rely on a behavioral remedy promising 30 releases per year, but past mergers (e.g., Disney‑Fox, Ticketmaster‑Live Nation) show such promises are often unenforced, risking reduced film supply and higher costs for theaters.",
+    "Sonny Bunch notes Christopher Nolan’s new film The Odyssey, released in 70 mm and IMAX, as part of a “Death Drive Trilogy” that reflects his obsession with self‑destruction, while also highlighting the film’s varied formats and thematic links to his earlier work."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260717174214.3.51e7cb7e2d32d9ec@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Bad air, bad lettuce",
+   "date": "2026-07-17T10:42-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/bad-air-bad-lettuce",
+   "bullets": [
+    "Yes, I know it’s a summer Friday afternoon, but I wanted to pop in with two important health updates that might be useful as you head into the weekend. If you’re in the Midwest or Northeast, you’ve probably already noticed it just by lookin…",
+    "Here’s what it all means for your health. I’ll keep it quick. Air pollution is at extremely high, dangerous levels Air pollution levels in Chicago, Detroit, New York, and DC are the worst  [ https://substack.com/redirect/62b99504-3278-4064-…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260717172207.3.71f1c1bc4def3110@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Trump Has Given Us a ‘Golden Age’ – Of Corruption and Cruelty",
+   "date": "2026-07-17T10:22-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/donald-trump-golden-age-corruption-cruelty",
+   "bullets": [
+    "They cannot competently govern, but give Donald Trump’s flunkies this much: They know what their president wants to hear. “You have changed America and created the Golden Age,” Commerce Secretary Howard Lutnick has gushed [ https://substack…",
+    "And “the Golden Age,” Interior Secretary Doug Burgum told [ https://substack.com/redirect/4e9d7859-dd14-4564-b29e-0d7909d86d7f?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] Americans on the country’s 250th birthday, “i…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260717160538.3.dbcdcbfcc45394ef@mg-d0.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "Shoot First, Smear Later",
+   "date": "2026-07-17T09:05-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/shoot-first-smear-later-lorenzo-salgado-araujo",
+   "bullets": [
+    "The FBI, leading the investigation into ICE agent‑shot Lorenzo Salgado Araujo, reported finding eight plastic bags of a white crystal‑like substance in his van, allegedly consistent with methamphetamine, and the warrant application was unsealed unusually quickly.",
+    "The author argues this rapid disclosure mirrors a Trump‑era pattern of smearing victims of immigration enforcement killings by highlighting alleged criminal ties, suggesting the drug find is being used to portray Araujo as a drug dealer rather than an innocent immigrant father."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260717142708.3.4421681b02b7da10@mg2.substack.com",
    "newsletter": "Zeteo",
@@ -96,10 +195,11 @@
    "date": "2026-07-17T04:14-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/stephen-miller-expands-his-apocalyptic",
    "bullets": [
-    "On this day in 1984, at the Democratic National Convention in San Francisco, Rev. Jesse Jackson delivered his ‘Rainbow Coalition’ speech [ https://substack.com/redirect/f44d19e2-53fb-4bbe-8b3d-619528ca30a0?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaitto…",
-    "Happy Friday! It’s Andrew here, looking forward to the weekend – or as Donald Trump understands it, the days he prefers to make news and war and ramp up his authoritarian blitz. Perhaps he’ll go easy on us, because yesterday was truly enoug…"
+    "Stephen Miller, deputy White House deputy chief of staff, declared left-wing activism a form of political terrorism, framing it as a national security threat and justifying an all‑out federal crackdown on liberals.",
+    "The newsletter links Miller’s expanded authority to Trump’s broader authoritarian agenda, noting Miller’s role in the harsh immigration deportation campaign that hurt Trump’s poll numbers but kept him in power as the administration’s ‘fascism strategist.’",
+    "It also mentions concurrent issues: Trump’s ongoing election‑fraud falsehoods, rising tensions over Iran and the Strait of Hormuz, and Attorney General Todd Blanche’s meeting with Epstein victims."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260717101411.3.e77c791b7b68b9b3@mg2.substack.com",
@@ -149,10 +249,11 @@
    "date": "2026-07-16T16:00-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/ice-killing-joan-sebastian-guerrero-biddeford-maine",
    "bullets": [
-    "After Donald Trump’s primetime address tonight, scheduled at 9pm ET, head to zeteo.com [ https://substack.com/redirect/19ebb1ac-9266-4d73-91eb-4341b9650abb?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] and youtube.com/…",
-    "BIDDEFORD, Maine – Thirty-six hours after Donald Trump’s masked secret police killed Joan Sebastián Guerrero, his blood is still on the ground, stained into the road. “This is blood,” someone has written in chalk. There’s a memorial on the …"
+    "A memorial in Biddeford, Maine, marks the killing of immigrant Joan Sebastián Guerrero by ICE agents, with locals protesting and demanding accountability.",
+    "The newsletter claims ICE has become an unaccountable paramilitary force under Trump, citing kidnappings, killings on video, and increased federal funding defended by Republicans like Sen. Susan Collins.",
+    "Listeners are invited to a post‑Trump address discussion with Mehdi, Swin, and Rep. Jamie Raskin on Zeteo’s site and YouTube channel."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260716190210.3.3157511fdd8c5d31@mg2.substack.com",
@@ -1951,7 +2052,7 @@
   }
  ],
  "counts": {
-  "shown": 70,
-  "total": 142
+  "shown": 72,
+  "total": 149
  }
 }
