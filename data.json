@@ -1,25 +1,18 @@
 {
- "updated": "2026-07-17T17:14-07:00",
+ "updated": "2026-07-18T08:27-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Donald Trump's recent speech has been widely condemned for its false claims and divisive rhetoric, with many arguing it is a tactic to undermine midterm election results and justify authoritarian actions (The Bulwark, Zeteo, Paul Krugman)",
-   "Trump's administration has been linked to a growing number of state-sanctioned killings, including the recent deaths of two unarmed men at the hands of federal agents (The Bulwark, Zeteo)",
-   "The Trump administration's aggressive deportation policies have resulted in at least three deaths this week, prompting calls for stronger oversight and accountability measures for ICE (Zeteo, The Bulwark)",
-   "Stephen Miller has declared left-wing activism a form of political terrorism, justifying an all-out federal crackdown on liberals and linking it to Trump's broader authoritarian agenda (First Draft | Zeteo)",
-   "Trump's approval rating has fallen to 37%, the lowest in 17 years, according to a recent poll, as his administration faces criticism for its handling of various issues, including immigration and election interference (Bill Kristol & Andrew Egger - The Bulwark)",
-   "The cyclosporiasis outbreak in the US has infected thousands, with cases still rising, and officials are working to identify the source of the parasite and prevent further spread (Jonathan Cohn - The Bulwark, Your Local Epidemiologist)"
+   "Donald Trump's recent speech has been widely condemned as incoherent and dangerous, with many arguing it threatens to undermine democracy and boost GOP midterm chances (The Bulwark, Zeteo, The Message Box)",
+   "Trump's administration has been linked to a growing number of state-sanctioned killings, including the deaths of two unarmed men at the hands of federal agents (The Bulwark, Zeteo)",
+   "The 2024 election season is heating up, with Democrats focusing on key toss-up states and Republicans shifting money to competitive races (The Bulwark, Zeteo)",
+   "A cyclosporiasis outbreak is spreading across the US, infecting thousands and causing severe diarrhea, with the source of the parasite still unknown (The Bulwark, Zeteo)",
+   "Trump's influence on the Republican party is still strong, with many candidates embracing his authoritarian agenda and election denialism (The Bulwark, Zeteo, The Message Box)",
+   "The World Cup has been marred by controversy, including the attendance of authoritarian leaders and the use of the event for political gain (Zeteo)"
   ],
   "by": "groq",
   "ids": [
-   "20260715004910.3.fc17d5a3ad769dc5@mg-d1.substack.com",
-   "20260715103037.3.8c285e797b2779fc@mg-d1.substack.com",
-   "20260715103122.3.8fe1cf896848ccf6@mg-d1.substack.com",
-   "20260715105206.3.67ff308c9168bc64@mg-d1.substack.com",
-   "20260715111132.3.c4b88f0559fdcfb3@mg-d1.substack.com",
-   "20260715133023.3.4056dc5d3eca4906@mg2.substack.com",
-   "20260715141824.3.631b60d3c20f6387@mg2.substack.com",
    "20260715162204.3.c70fe3a77181139e@mg-d0.substack.com",
    "20260715183032.3.7995dd0daf59bb66@mg2.substack.com",
    "20260715185028.3.8896627e3cb92a4b@mg2.substack.com",
@@ -35,6 +28,7 @@
    "20260716190210.3.3157511fdd8c5d31@mg2.substack.com",
    "20260716190211.3.4278d684ae88b464@mg-d1.substack.com",
    "20260716230059.3.58f14c005a8ac535@mg-d1.substack.com",
+   "20260717001528.3.5b290d57f173b4e0@mg2.substack.com",
    "20260717041230.3.47fea70163e937cb@mg2.substack.com",
    "20260717101411.3.e77c791b7b68b9b3@mg2.substack.com",
    "20260717111415.3.ef04779abf9bd020@mg2.substack.com",
@@ -42,15 +36,120 @@
    "20260717132949.3.2ccd749f5b01eee8@mg2.substack.com",
    "20260717142708.3.4421681b02b7da10@mg2.substack.com",
    "20260717160538.3.dbcdcbfcc45394ef@mg-d0.substack.com",
+   "20260717172207.3.71f1c1bc4def3110@mg2.substack.com",
+   "20260717174214.3.51e7cb7e2d32d9ec@mg-d0.substack.com",
    "20260717190127.3.bd9024b1ba6b2a28@mg-d0.substack.com",
    "20260717204015.3.44efc6ae869cab35@mg-d1.substack.com",
    "20260717220056.3.a69ed119aba3d28a@mg-d0.substack.com",
-   "20260717220216.3.d2f82d70d14aaf7d@mg2.substack.com"
+   "20260717220216.3.d2f82d70d14aaf7d@mg2.substack.com",
+   "20260718103032.3.51caa67696c6e5d2@mg-d1.substack.com",
+   "20260718114333.3.2fb23a8b0192d945@mg2.substack.com",
+   "20260718122308.3.894ee9aae811bcb6@mg-d0.substack.com",
+   "20260718130102.3.b330c595a72ef428@mg-d1.substack.com",
+   "20260718130228.3.8fc84f4e32615414@mg-d1.substack.com",
+   "20260718135600.3.aeb3a35cd4578020@mg-d0.substack.com"
   ],
-  "updated": "2026-07-17T17:14-07:00",
+  "updated": "2026-07-18T08:27-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260718135600.3.aeb3a35cd4578020@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "David French: Character Counts For Less",
+   "date": "2026-07-18T06:56-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/david-french-character-counts-for",
+   "bullets": [
+    "David French discusses low-character politicians",
+    "Voters have lowered expectations for politicians",
+    "French joins to talk Nixon, Clinton, and Trump"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260718130228.3.8fc84f4e32615414@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“Could I really claim these hallmarks of adulthood if the only thing making them possible is my father’s generosit…",
+   "date": "2026-07-18T06:02-07:00",
+   "url": "https://post.substack.com/p/could-i-really-claim-these-hallmarks",
+   "bullets": [
+    "Nick Cave says music is essentially good",
+    "Phia claimed commissions on unearned purchases",
+    "Allison Raskin questions if financial independence defines adulthood"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260718130102.3.b330c595a72ef428@mg-d1.substack.com",
+   "newsletter": "Zeteo | Dark Side of the World Cup",
+   "pub": "zeteo",
+   "subject": "The Real Winner of the World Cup? FIFA",
+   "date": "2026-07-18T06:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/fifa-world-cup-trump-final",
+   "bullets": [
+    "Donald Trump will attend a World Cup match",
+    "Argentine President Javier Milei was expected to attend with Trump",
+    "FIFA allows authoritarian leaders to use the World Cup for benefit"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260718122308.3.894ee9aae811bcb6@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "How to Make Your Donation Matter",
+   "date": "2026-07-18T05:23-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/how-to-make-your-donation-matter",
+   "bullets": [
+    "SCOTUS’s ruling allowing unlimited direct donations to the DNC and RNC gives Democrats a financial advantage, leaving Republican candidates at a disadvantage in fundraising and campaign reach.",
+    "The author advises donors to prioritize contributions that support congressional gains and to focus on Wisconsin’s relatively less gerrymandered districts to maximize impact.",
+    "He notes that long‑time Democratic donors often receive frequent, desperate solicitation calls from candidates seeking funds, highlighting the urgency of strategic giving."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260718114333.3.2fb23a8b0192d945@mg2.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Susan Collins, Lindsey Graham, and a Changed Senate",
+   "date": "2026-07-18T04:43-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/susan-collins-lindsey-graham-and",
+   "bullets": [
+    "Lindsey Graham’s sudden death marks the end of an era; the author laments his decline and lack of leadership, citing Adam Kinzinger’s and Charles Krauthammer’s critiques and a free link to Will Saletan’s exposé on Graham’s corruption.",
+    "Pete Buttigieg urges Democrats to overhaul institutions—expand SCOTUS, the House, grant D.C. statehood, and adopt a popular‑vote presidential election—while highlighting family tragedy, Iowa’s pivotal role, and his campaign work in Fox‑News‑heavy states.",
+    "The author reflects on a Hawaii vacation, reading Ted Koppel’s book, and notes ongoing coverage of Trump’s cruelty toward Haitians, Cuban political prisoners, and other political stories, urging continued attention."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260718103032.3.51caa67696c6e5d2@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Lina Khan on AI and More",
+   "date": "2026-07-18T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/lina-khan-on-ai-and-more",
+   "bullets": [
+    "Lina Khan explains New York City’s new “Click to Cancel” rule, requiring subscription cancellations to be as easy as sign‑ups, aiming to curb $160 million annual consumer losses and prevent frictional cancellation practices.",
+    "Khan highlights a forthcoming junk‑fee rule that will prohibit hidden end‑of‑transaction fees, protecting consumers from deceptive pricing that gives unfair competitive advantage to firms that hide costs.",
+    "She discusses the city’s public‑interest technology initiative, creating an in‑house tech team to improve digital service delivery, arguing that building internal capacity reduces reliance on costly external consultants and safeguards long‑term government functionality."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260718090018.3.4b7e0fbd9e34d7df@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Land of the Waning Sun",
+   "date": "2026-07-18T02:00-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/land-of-the-waning-sun",
+   "bullets": [
+    "“Many a good newspaper story has been ruined by over verification.” – James Gordon Bennett Three years ago, the Energy Institute inherited custodianship of the authoritative and widely cited Statistical Review of World Energy from its origi…",
+    "Judging by the recent press conference the Energy Institute held to accompany the release [ https://substack.com/redirect/28ffc961-23ea-44f6-85d5-4b8f8eb1782d?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] of the 2026 e…"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20260717220216.3.d2f82d70d14aaf7d@mg2.substack.com",
    "newsletter": "The Bulwark",
@@ -115,10 +214,10 @@
    "date": "2026-07-17T10:42-07:00",
    "url": "https://yourlocalepidemiologist.substack.com/p/bad-air-bad-lettuce",
    "bullets": [
-    "Yes, I know it’s a summer Friday afternoon, but I wanted to pop in with two important health updates that might be useful as you head into the weekend. If you’re in the Midwest or Northeast, you’ve probably already noticed it just by lookin…",
-    "Here’s what it all means for your health. I’ll keep it quick. Air pollution is at extremely high, dangerous levels Air pollution levels in Chicago, Detroit, New York, and DC are the worst  [ https://substack.com/redirect/62b99504-3278-4064-…"
+    "Wildfire smoke has pushed PM2.5 levels in Chicago, Detroit, New York, DC and parts of the West Coast to the world’s worst, raising heart‑attack risk by about 40% at current AQI 160 and making an hour in “purple” air equivalent to smoking half a pack of cigarettes; N95 masks cut related hospitalizations by roughly 30% and HEPA/MERV‑13 filtration is recommended for indoor protection.",
+    "Epidemiologists trace the ongoing Midwest cyclosporiasis outbreak to shredded iceberg lettuce supplied by Taylor Farms, with 90% of Michigan cases reporting recent Taco Bell visits, prompting a precaution to avoid such lettuce (and possibly other produce) in affected states, especially for high‑risk groups."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260717172207.3.71f1c1bc4def3110@mg2.substack.com",
@@ -128,10 +227,11 @@
    "date": "2026-07-17T10:22-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/donald-trump-golden-age-corruption-cruelty",
    "bullets": [
-    "They cannot competently govern, but give Donald Trump’s flunkies this much: They know what their president wants to hear. “You have changed America and created the Golden Age,” Commerce Secretary Howard Lutnick has gushed [ https://substack…",
-    "And “the Golden Age,” Interior Secretary Doug Burgum told [ https://substack.com/redirect/4e9d7859-dd14-4564-b29e-0d7909d86d7f?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] Americans on the country’s 250th birthday, “i…"
+    "Commerce Secretary Howard Lutnick, Treasury Secretary Scott Bessent and Pentagon’s Pete Hegseth all praised Trump’s administration as a “Golden Age” of prosperity, defense and national greatness, despite evidence to the contrary.",
+    "The author argues Trump’s policies have driven inflation higher, stalled the Iran conflict, resulted in lethal ICE actions against immigrants, and produced costly vanity projects, all while approval ratings sit below 40%.",
+    "Thus, the so‑called Golden Age is actually a period of heightened corruption, cruelty and policy failures, according to the newsletter’s critique."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260717160538.3.dbcdcbfcc45394ef@mg-d0.substack.com",
@@ -236,10 +336,11 @@
    "date": "2026-07-16T17:15-07:00",
    "url": "https://open.substack.com/pub/thebulwark/p/racist-law-from-1882-is-not-that-racist-chinese-exclusion-act-smithsonian",
    "bullets": [
-    "A RACIST LAW THAT INSPIRED MORE RACIST LAWS and was literally named after its racism is definitely not racist. At least according to the Trump administration. Laser-focused on the midterms, the White House recently released a 162-page repor…",
-    "This new report, released by the White House Domestic Policy Council, renders in exhaustive, heavily footnoted detail all of the Smithsonian’s alleged sins. Among its worst transgressions:"
+    "The White House’s 162‑page Domestic Policy Council report attacks Smithsonian exhibits for acknowledging slave‑holding founders and for a slide showing a butterfly, which officials claim symbolizes illegal‑alien activism.",
+    "The report absurdly defends the 1882 Chinese Exclusion Act, denying its racial motive despite historical evidence that it was explicitly racist and upheld by the Supreme Court as a security measure.",
+    "Recent research shows the Act hurt Western economic growth and job quality, contradicting the administration’s claim that it was merely a neutral economic response."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260716230059.3.58f14c005a8ac535@mg-d1.substack.com",
@@ -2053,6 +2154,6 @@
  ],
  "counts": {
   "shown": 72,
-  "total": 149
+  "total": 156
  }
 }
