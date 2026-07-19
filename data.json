@@ -1,22 +1,18 @@
 {
- "updated": "2026-07-18T08:27-07:00",
+ "updated": "2026-07-18T17:14-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Donald Trump's recent speech has been widely condemned as incoherent and dangerous, with many arguing it threatens to undermine democracy and boost GOP midterm chances (The Bulwark, Zeteo, The Message Box)",
-   "Trump's administration has been linked to a growing number of state-sanctioned killings, including the deaths of two unarmed men at the hands of federal agents (The Bulwark, Zeteo)",
-   "The 2024 election season is heating up, with Democrats focusing on key toss-up states and Republicans shifting money to competitive races (The Bulwark, Zeteo)",
-   "A cyclosporiasis outbreak is spreading across the US, infecting thousands and causing severe diarrhea, with the source of the parasite still unknown (The Bulwark, Zeteo)",
-   "Trump's influence on the Republican party is still strong, with many candidates embracing his authoritarian agenda and election denialism (The Bulwark, Zeteo, The Message Box)",
-   "The World Cup has been marred by controversy, including the attendance of authoritarian leaders and the use of the event for political gain (Zeteo)"
+   "Trump’s relentless election‑denial campaign is escalating, with new false fraud claims, a premium “Truth Social” service for his posts, and a looming push to weaponize the courts and donors against opponents (The Bulwark, The Message Box, Will Sommer).",
+   "U.S. immigration enforcement is turning deadly, as ICE agents have killed multiple migrants in Maine and Texas, prompting calls for congressional oversight and highlighting a broader pattern of state‑sanctioned violence (Zeteo, JVL, First Draft).",
+   "The Gaza conflict is intensifying, with Israeli forces striking a funeral, demolishing homes, and killing children, while U.S. politicians face backlash for commenting on the violence (Zeteo).",
+   "Energy markets remain dominated by fossil fuels, with hydrocarbons supplying over 86% of global primary energy and renewables contributing a negligible share, underscoring the challenge of climate transition (Doomberg).",
+   "Consumer‑protection moves are gaining traction, as Lina Khan pushes “Click to Cancel” and junk‑fee rules to curb hidden charges and protect shoppers (Paul Krugman).",
+   "The looming Paramount‑Warner Bros. Discovery merger threatens theater competition and could reshape film distribution, echoing past antitrust concerns (The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20260715162204.3.c70fe3a77181139e@mg-d0.substack.com",
-   "20260715183032.3.7995dd0daf59bb66@mg2.substack.com",
-   "20260715185028.3.8896627e3cb92a4b@mg2.substack.com",
-   "20260715233058.3.2a0a874802bb4cee@mg-d1.substack.com",
    "20260716011952.3.7010b855dd06d000@mg-d1.substack.com",
    "20260716111850.3.b09b9489b870cf6a@mg2.substack.com",
    "20260716112552.3.51d69af21a6020db@mg-d1.substack.com",
@@ -42,17 +38,33 @@
    "20260717204015.3.44efc6ae869cab35@mg-d1.substack.com",
    "20260717220056.3.a69ed119aba3d28a@mg-d0.substack.com",
    "20260717220216.3.d2f82d70d14aaf7d@mg2.substack.com",
+   "20260718090018.3.4b7e0fbd9e34d7df@mg-d1.substack.com",
    "20260718103032.3.51caa67696c6e5d2@mg-d1.substack.com",
    "20260718114333.3.2fb23a8b0192d945@mg2.substack.com",
    "20260718122308.3.894ee9aae811bcb6@mg-d0.substack.com",
    "20260718130102.3.b330c595a72ef428@mg-d1.substack.com",
    "20260718130228.3.8fc84f4e32615414@mg-d1.substack.com",
-   "20260718135600.3.aeb3a35cd4578020@mg-d0.substack.com"
+   "20260718135600.3.aeb3a35cd4578020@mg-d0.substack.com",
+   "20260718180030.3.72b7242d32376c27@mg-d1.substack.com"
   ],
-  "updated": "2026-07-18T08:27-07:00",
+  "updated": "2026-07-18T17:14-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260718180030.3.72b7242d32376c27@mg-d1.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine – Israel Attacks Funeral as It Escalates Strikes on Gaza",
+   "date": "2026-07-18T11:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israel-attacks-funeral-gaza",
+   "bullets": [
+    "Israeli forces escalated attacks this week, striking a Gaza funeral, demolishing a family home within a 30‑minute window, and killing additional children amid ongoing hospital and police raids",
+    "A U.S. politician witnessed a fragment of the daily Palestinian violence and faced backlash from the pro‑Israel propaganda machine",
+    "Settlers continued assaults on Palestinians on their own land, highlighting the relentless cycle of violence"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260718135600.3.aeb3a35cd4578020@mg-d0.substack.com",
    "newsletter": "Sarah Longwell - The Bulwark",
@@ -145,10 +157,11 @@
    "date": "2026-07-18T02:00-07:00",
    "url": "https://open.substack.com/pub/doomberg/p/land-of-the-waning-sun",
    "bullets": [
-    "“Many a good newspaper story has been ruined by over verification.” – James Gordon Bennett Three years ago, the Energy Institute inherited custodianship of the authoritative and widely cited Statistical Review of World Energy from its origi…",
-    "Judging by the recent press conference the Energy Institute held to accompany the release [ https://substack.com/redirect/28ffc961-23ea-44f6-85d5-4b8f8eb1782d?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] of the 2026 e…"
+    "The 2026 Statistical Review shows hydrocarbons still supplied 86.24% of global primary energy in 2025, a negligible drop from 86.65% despite record‑setting fossil fuel consumption.",
+    "The Institute’s report inflates renewables’ impact by counting electricity, including wood burning, and highlighting that renewables contributed only a third of a 1% rise in total energy growth.",
+    "China, responsible for 56% of global coal use and 31% of emissions, is portrayed positively in the report despite flat coal demand and massive solar expansion that likely peaked in 2025."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260717220216.3.d2f82d70d14aaf7d@mg2.substack.com",
@@ -2153,7 +2166,7 @@
   }
  ],
  "counts": {
-  "shown": 72,
-  "total": 156
+  "shown": 71,
+  "total": 157
  }
 }
