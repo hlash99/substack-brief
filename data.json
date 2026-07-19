@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T17:14-07:00",
+ "updated": "2026-07-19T08:28-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -51,6 +51,60 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260719140244.3.5fb0f3ac9a2e7b4f@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Could This Be America’s First Democratic Socialist Governor?",
+   "date": "2026-07-19T07:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/socialist-wisconsin-francesca-hong",
+   "bullets": [
+    "Francesca Hong, a democratic socialist, frames her gubernatorial campaign around human rights, democracy and fairness, refusing to retract her past “defund the police” stance as responsible reform.",
+    "Establishment Democrats label Hong “unelectable,” while she criticizes the Republican nominee Tom Tiffany as a “traitor” and debates repealing Wisconsin’s IHRA antisemitism definition.",
+    "Hong admits regretting a 2023 Gaza ceasefire protest she now calls a “highly antisemitic act,” and she accuses Israel of genocide against Palestinians."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260719124521.3.89c3de5375f76d11@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Exclusive: Trump Preparing a New Attack on Head Start",
+   "date": "2026-07-19T05:45-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/exclusive-trump-preparing-new-attack-on-head-start-education-preschool",
+   "bullets": [
+    "The Trump administration is drafting a regulation to overhaul Head Start, the federal early‑childhood program serving over 700,000 low‑income kids, by stripping most existing provider rules and imposing new MAGA‑aligned standards.",
+    "A proposed rule would bar enrollment of any child whose parents are not U.S. citizens, nationals, or “qualifying” immigrants, potentially denying benefits to citizen children—a move legal experts say is unprecedented."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260719112808.3.7de096e4dd72cbc4@mg2.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Senators Never Asked Blanche the Most Obvious Epstein Question (w/ Andrew Weissmann)",
+   "date": "2026-07-19T04:28-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/senators-never-asked-blanche-the",
+   "bullets": [
+    "Andrew Weissmann argues Senate Democrats failed to press Todd Blanche on the withheld Epstein files, leaving a key question about the files unanswered during his confirmation hearing.",
+    "He claims the $1.776 billion settlement and a document clearing Trump of tax liability are being misrepresented, and that dismantling the election‑security apparatus is intentional, not neglect."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260719103028.3.51e419bd47148540@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Against Oligarchy, Part I: Progressive Taxation",
+   "date": "2026-07-19T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/against-oligarchy-part-i-progressive",
+   "bullets": [
+    "A few hundred billionaires—0.0002% of adults—hold wealth equal to about 20% of US GDP and contribute roughly 20% of campaign money, driving policies like corporate tax cuts after Citizens United.",
+    "Krugman argues that the surge in wealth concentration since the 1970s stems from the erosion of progressive taxation, which once limited elite fortunes and political clout.",
+    "He will examine the US progressive tax history, who actually pays high‑end taxes, optimal rates, and proposals for taxing the hyper‑wealthy in upcoming posts."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260718180030.3.72b7242d32376c27@mg-d1.substack.com",
    "newsletter": "This Week in Palestine | Zeteo",
@@ -2166,7 +2220,7 @@
   }
  ],
  "counts": {
-  "shown": 71,
-  "total": 157
+  "shown": 72,
+  "total": 161
  }
 }
