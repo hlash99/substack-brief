@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T08:28-07:00",
+ "updated": "2026-07-19T17:17-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -51,6 +51,48 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260719220108.3.d6c24724291980d5@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "'Zeteo Is a Pathetic Fake News Blog,' Says an Angry Trump White House",
+   "date": "2026-07-19T15:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-white-house-smears",
+   "bullets": [
+    "Zeteo reported that former President Donald Trump is planning to steal classified U.S. documents after leaving office a second time, prompting a White House email calling the outlet a “pathetic fake news blog.”",
+    "White House officials escalated the attack, labeling Zeteo “terrorist sympathizers,” calling founder Mehdi Hasan a “nutjob” and “dummy,” and accusing the site of left‑wing hacks after Zeteo exposed Trump’s plans to spy on U.S. allies and alleged election‑stealing plots.",
+    "The newsletter uses the White House’s denunciations to rally readers to become paid subscribers or donors, framing financial support as a way to resist what it describes as an authoritarian, warmongering Trump administration."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260719191717.3.a759c84afb84e7db@mg2.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump's Speech Totally Screws His Supporters (w/ Nicole Wallace)",
+   "date": "2026-07-19T12:17-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/trumps-speech-totally-screws-his",
+   "bullets": [
+    "Trump is now claiming the 2016 and 2024 elections run by Democrats were legitimate while insisting the 2020 election he oversaw was fraudulent, a reversal that risks inflaming his base ahead of the midterms.",
+    "Jack Smith has charged Trump with fraud for knowingly lying about his loss to Biden, while former prosecutor TDS continues to push the stolen‑2020‑election narrative and Senator Lindsey Graham’s actions are portrayed as damaging democracy.",
+    "Merrick Garland has remained silent amid ongoing DOJ and FBI purges, a point highlighted in the episode with Nicole Wallace on The Bulwark’s weekend podcast."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260719180055.3.09cd74e675bb0817@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Russiagate Was Real, Trump Admits",
+   "date": "2026-07-19T11:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-russia-interference-real",
+   "bullets": [
+    "A declassified National Intelligence Council report released by the Trump administration now acknowledges that Russia attempted to meddle in the 2020 election to benefit Trump, contradicting his prior “hoax” claims.",
+    "The document says President Vladimir Putin and senior Russian officials are coordinating proxies to spread false claims about Joe Biden, Ukrainian politicians, and alleged Ukrainian influence in the 2016 election.",
+    "The White House issued the report alongside Trump’s primetime address on election integrity, marking an official admission of Russian interference aimed at boosting Trump’s campaign."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260719140244.3.5fb0f3ac9a2e7b4f@mg2.substack.com",
    "newsletter": "Mehdi Unfiltered",
@@ -2220,7 +2262,7 @@
   }
  ],
  "counts": {
-  "shown": 72,
-  "total": 161
+  "shown": 71,
+  "total": 164
  }
 }
