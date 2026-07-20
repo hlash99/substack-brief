@@ -1,37 +1,18 @@
 {
- "updated": "2026-07-19T17:17-07:00",
+ "updated": "2026-07-20T09:05-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s relentless election‑denial campaign is escalating, with new false fraud claims, a premium “Truth Social” service for his posts, and a looming push to weaponize the courts and donors against opponents (The Bulwark, The Message Box, Will Sommer).",
-   "U.S. immigration enforcement is turning deadly, as ICE agents have killed multiple migrants in Maine and Texas, prompting calls for congressional oversight and highlighting a broader pattern of state‑sanctioned violence (Zeteo, JVL, First Draft).",
-   "The Gaza conflict is intensifying, with Israeli forces striking a funeral, demolishing homes, and killing children, while U.S. politicians face backlash for commenting on the violence (Zeteo).",
-   "Energy markets remain dominated by fossil fuels, with hydrocarbons supplying over 86% of global primary energy and renewables contributing a negligible share, underscoring the challenge of climate transition (Doomberg).",
-   "Consumer‑protection moves are gaining traction, as Lina Khan pushes “Click to Cancel” and junk‑fee rules to curb hidden charges and protect shoppers (Paul Krugman).",
-   "The looming Paramount‑Warner Bros. Discovery merger threatens theater competition and could reshape film distribution, echoing past antitrust concerns (The Bulwark)."
+   "Trump's war with Iran has resulted in significant costs, including 17 US service member deaths and a $113 billion price tag, with US gas prices rising from $3 to $4 per gallon since the war began (The Bulwark, Douglas Macgregor)",
+   "Despite evidence of Russian interference in the 2020 election, Trump has continued to downplay the issue, with a recently declassified report acknowledging Russia's attempts to meddle in the election to benefit Trump (Zeteo, The Bulwark)",
+   "The Trump administration is drafting a regulation to overhaul Head Start, a federal early-childhood program, by stripping most existing provider rules and imposing new MAGA-aligned standards (The Bulwark)",
+   "Progressive taxation has eroded since the 1970s, leading to a surge in wealth concentration among the elite, with a few hundred billionaires holding wealth equal to about 20% of US GDP (Paul Krugman)",
+   "Hydrocarbons still supplied 86.24% of global primary energy in 2025, with renewables contributing only a small percentage of total energy growth, according to the 2026 Statistical Review (Doomberg)",
+   "Trump's claims of election denialism and foreign interference have been repeatedly debunked, with his DOJ being 0-16 in court suits for voter rolls and a federal judge voiding his $1.8 billion IRS settlement (The Bulwark, This Week in Democracy)"
   ],
   "by": "groq",
   "ids": [
-   "20260716011952.3.7010b855dd06d000@mg-d1.substack.com",
-   "20260716111850.3.b09b9489b870cf6a@mg2.substack.com",
-   "20260716112552.3.51d69af21a6020db@mg-d1.substack.com",
-   "20260716131607.3.436de1341b1689d7@mg-d1.substack.com",
-   "20260716133950.3.02998e207fefb530@mg2.substack.com",
-   "20260716151331.3.47c27bb11618b007@mg-d1.substack.com",
-   "20260716160211.3.8d43f2dace683881@mg2.substack.com",
-   "20260716163833.3.4f1b6cee6ec09f0a@mg-d1.substack.com",
-   "20260716190210.3.3157511fdd8c5d31@mg2.substack.com",
-   "20260716190211.3.4278d684ae88b464@mg-d1.substack.com",
-   "20260716230059.3.58f14c005a8ac535@mg-d1.substack.com",
-   "20260717001528.3.5b290d57f173b4e0@mg2.substack.com",
-   "20260717041230.3.47fea70163e937cb@mg2.substack.com",
-   "20260717101411.3.e77c791b7b68b9b3@mg2.substack.com",
-   "20260717111415.3.ef04779abf9bd020@mg2.substack.com",
-   "20260717112647.3.11d3343acf0def8f@mg-d1.substack.com",
-   "20260717132949.3.2ccd749f5b01eee8@mg2.substack.com",
-   "20260717142708.3.4421681b02b7da10@mg2.substack.com",
-   "20260717160538.3.dbcdcbfcc45394ef@mg-d0.substack.com",
    "20260717172207.3.71f1c1bc4def3110@mg2.substack.com",
    "20260717174214.3.51e7cb7e2d32d9ec@mg-d0.substack.com",
    "20260717190127.3.bd9024b1ba6b2a28@mg-d0.substack.com",
@@ -45,12 +26,134 @@
    "20260718130102.3.b330c595a72ef428@mg-d1.substack.com",
    "20260718130228.3.8fc84f4e32615414@mg-d1.substack.com",
    "20260718135600.3.aeb3a35cd4578020@mg-d0.substack.com",
-   "20260718180030.3.72b7242d32376c27@mg-d1.substack.com"
+   "20260718180030.3.72b7242d32376c27@mg-d1.substack.com",
+   "20260719103028.3.51e419bd47148540@mg-d0.substack.com",
+   "20260719112808.3.7de096e4dd72cbc4@mg2.substack.com",
+   "20260719124521.3.89c3de5375f76d11@mg2.substack.com",
+   "20260719140244.3.5fb0f3ac9a2e7b4f@mg2.substack.com",
+   "20260719180055.3.09cd74e675bb0817@mg-d0.substack.com",
+   "20260719191717.3.a759c84afb84e7db@mg2.substack.com",
+   "20260719220108.3.d6c24724291980d5@mg-d0.substack.com",
+   "20260720001316.3.f51b97ddd709be3c@mg-d0.substack.com",
+   "20260720023223.3.90818014c82d0b89@mg-d0.substack.com",
+   "20260720103015.3.b89dff21ac622c9d@mg-d0.substack.com",
+   "20260720110355.3.619d0b569797b99b@mg2.substack.com",
+   "20260720121727.3.c9953efd47c0ae9e@mg-d0.substack.com",
+   "20260720131439.3.1be7593c5d7d285c@mg-d0.substack.com"
   ],
-  "updated": "2026-07-18T17:14-07:00",
+  "updated": "2026-07-20T09:05-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260720131439.3.1be7593c5d7d285c@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Spain Wins. Trump Is Losing.",
+   "date": "2026-07-20T06:14-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/spain-wins-trump-is-losing-iran-hormuz-missile-drone-attack-casualties-war",
+   "bullets": [
+    "Trump's war with Iran has killed 17 US service members",
+    "The war has cost an estimated $113 billion",
+    "US gas prices have risen from $3 to $4 per gallon since the war began"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260720121727.3.c9953efd47c0ae9e@mg-d0.substack.com",
+   "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
+   "pub": "macgregorwarrior",
+   "subject": "Trump’s War to the last Missile",
+   "date": "2026-07-20T05:17-07:00",
+   "url": "https://macgregorwarrior.substack.com/p/trumps-war-to-the-last-missile",
+   "bullets": [
+    "Trump’s administration is stuck in a costly air‑only campaign against Iran, with the Strait of Hormuz closed and Iran’s nuclear program still a threat, while Netanyahu demands nuclear disarmament under US oversight.",
+    "Retired Marine General Frank McKenzie proposes using ground forces to seize Kharg Island, Iran’s main oil terminal capable of loading 10 supertankers or 7 million barrels per day, arguing possession of Iranian soil would strengthen U.S. negotiating leverage."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260720110355.3.619d0b569797b99b@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "The Arrested Tate Brothers Are Tied to the Trumps: Why Won’t Dems Exploit This?",
+   "date": "2026-07-20T04:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-arrested-tate-brothers-are-tied",
+   "bullets": [
+    "Andrew and Tristan Tate were arrested in Florida on Saturday, facing 59 UK charges including rape, sexual assault, trafficking, and child pornography, after a long extradition campaign by British victims’ lawyers.",
+    "The newsletter argues that senior Democrats missed a political opportunity to expose the Tate brothers’ ties to the Trump family and the Republican Party, despite evidence of American political support for the Tates amid the Epstein‑Trump scandal.",
+    "It also notes Donald Trump’s escalating illegal war with Iran and highlights Maine Senator Troy Jackson’s controversial campaign, framing these as key political stories of the week."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260720103916.3.23f2a52f5b41811d@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Trump's Most Corrupt Act Yet (Seriously!)",
+   "date": "2026-07-20T03:39-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/trumps-most-corrupt-act-yet-seriously",
+   "bullets": [
+    "I honestly thought I was beyond being shocked by Donald Trump’s depraved avarice, but I have to admit that I was blown away by the latest example of Trump’s blatant corruption. Here’s the report from the Associated Press [ https://substack.…",
+    "President Donald Trump’s media company is planning to charge for special high-speed access to Truth Social posts, including possibly his own, affecting national security and financial markets."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260720103015.3.b89dff21ac622c9d@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Trump’s War on the Future, Monetary Edition",
+   "date": "2026-07-20T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/trumps-war-on-the-future-monetary",
+   "bullets": [
+    "Brazil’s free, instant Pix digital payment system, praised as a model for central‑bank digital currencies, has sparked a Trump administration move to impose Section 301 tariffs on Brazilian exports, ostensibly over “unfair trade” but really to protect U.S. Visa/Mastercard interests and the dollar’s dominance.",
+    "A House Republican bill now bans any study of a U.S. digital dollar, reflecting special‑interest opposition from crypto and fossil‑fuel lobbyists who fear a superior public payment option, while Brazil’s success contrasts with El Salvador’s failed Bitcoin experiment.",
+    "Economist Monica de Bolle notes the tariffs will likely backfire, strengthening Brazil’s export position—especially in soybeans—while Trump’s policy merely declares war on technological progress without achieving its aims."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260720025039.3.c4e6bb88d0e343be@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "EXCLUSIVE: Javier Bardem Joins Mehdi to Talk Spain's World Cup Win, Palestine, Trump, and More",
+   "date": "2026-07-19T19:50-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/exclusive-javier-bardem-joins-mehdi",
+   "bullets": [
+    "The world saw Javier Bardem, legendary Spanish actor, Oscar winner, and one-time Bond villain, sitting in the crowd at MetLife Stadium, supporting Spain at the World Cup Final in New Jersey on Sunday.",
+    "Just hours after the game wrapped, with Spain defeating Argentina 1-0 to reclaim the World Cup trophy after 16 years, Bardem headed back to his hotel room and joined Mehdi for an exclusive live chat on YouTube [ https://substack.com/redirec…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260720023223.3.90818014c82d0b89@mg-d0.substack.com",
+   "newsletter": "Citrini",
+   "pub": "citrini",
+   "subject": "All Along the AI Watchtower",
+   "date": "2026-07-19T19:32-07:00",
+   "url": "https://open.substack.com/pub/citrini/p/all-along-the-ai-watchtower",
+   "bullets": [
+    "The AI market’s recent sell‑off isn’t explained by open‑source models, cost competition, or geopolitical shocks, but by the fragility of heavily leveraged, crowded AI thematic trades unwinding after a rapid rise",
+    "Despite growing aggregate token spend, the value of the AI “pie” and its distribution remain uncertain, prompting investors to look beyond obvious winners to mis‑categorized stocks like a mobile‑chip designer and tools with fewer seats",
+    "The current correction may clear the deck, allowing durable growth for true AI leaders while exposing firms that were wrongly labeled, such as those benefiting from IBM’s earnings miss and other overlooked opportunities"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260720001316.3.f51b97ddd709be3c@mg-d0.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Michigan Democratic Primary Has Grown Absolutely Toxic",
+   "date": "2026-07-19T17:13-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/the-michigan-democratic-primary-has-grown-absolutely-toxic",
+   "bullets": [
+    "The Michigan Senate Democratic primary pits moderate Rep. Haley Stevens against progressive Abdul El‑Sayed, with both sides launching personal attacks—Stevens mocked for voice and looks, El‑Sayed accused of being the GOP’s preferred nominee.",
+    "Democratic operatives are openly fighting over which candidate can win the swing seat, fearing a loss in the general; progressives see the race as a last chance to curb centrist momentum after socialist wins in Colorado and New York, while centrists argue the left is risking Senate control to prove an ideological point.",
+    "Both camps doubt the party can unite behind the eventual nominee, fearing the acrimony will echo the 2016 Sanders‑Clinton split and jeopardize the 2028 presidential primary, with some Stevens supporters even threatening to withhold votes in the general if El‑Sayed wins."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260719220108.3.d6c24724291980d5@mg-d0.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -2262,7 +2365,7 @@
   }
  ],
  "counts": {
-  "shown": 71,
-  "total": 164
+  "shown": 75,
+  "total": 172
  }
 }
