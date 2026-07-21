@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T09:05-07:00",
+ "updated": "2026-07-20T17:17-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -45,6 +45,61 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260720233629.3.02f7cab2e8de7a39@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "QAnon Conspiracy Theorists Have Taken Over a Prison",
+   "date": "2026-07-20T16:36-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/qanon-conspiracy-theorists-have-taken-over-prison-child-trafficking-california-david-bryan",
+   "bullets": [
+    "QAnon promoter Pastor David Bryan is raising $1.6 million to convert the decommissioned Leo Chesney women’s prison in Live Oak, California, into a ‘Peace of Heaven’ children’s sanctuary for alleged trafficking victims.",
+    "The Rev17 2.0 conference, billed as an apocalyptic‑themed fundraiser, will run Aug 28‑30 and feature figures like former CBS reporter Lara Logan, QAnon activist Ann Vandersteel, and ex‑Colorado clerk Tina Peters, with tickets $99‑$299 funding the prison overhaul."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260720220312.3.24024353fc08453c.3a7azh6a@mg1.substack.com",
+   "newsletter": "Citrini",
+   "pub": "citrini",
+   "subject": "💬 New thread from Citrini",
+   "date": "2026-07-20T15:03-07:00",
+   "url": null,
+   "bullets": [
+    "Momentum‑driven baskets suffered roughly 20%+ losses over the past month, yet many remain up two‑ to three‑fold year‑to‑date.",
+    "The worst‑performing baskets included EU semis and a few outliers whose mean‑reversion was halted by a sudden market shock.",
+    "Top performers featured Earned Wage Access (led by DAVE), the Iran Conflict Beta, Elder Care, Rate‑Sensitive Regionals, and Agentic Utilities, all posting solid gains despite prior outperformance."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260720215411.3.39b3adbb2becbd61@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "7 Things You Need to Know About the Bab al-Mandeb Strait - That Trump Probably Doesn't",
+   "date": "2026-07-20T14:54-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/7-things-you-need-to-know-about-the-bde",
+   "bullets": [
+    "Iran’s allies in Yemen’s Houthi movement announced an immediate maritime embargo, effectively closing the Bab al‑Mandeb Strait to Saudi shipping, adding a second front to the US‑Iran conflict.",
+    "If the Bab al‑Mandeb and the Strait of Hormuz are both blocked, oil prices could spike dramatically, potentially reaching record highs.",
+    "Trump has expanded strikes on Iranian civilian infrastructure and Iran has exited the US‑Iran MOU, while the Houthis claim control of the strait’s northern coast."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260720164238.3.32c26a399e6f7e4d@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Truth Social Legalizes Insider Trading",
+   "date": "2026-07-20T09:42-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/truth-social-legalizes-insider-trading",
+   "bullets": [
+    "Trump Media’s Truth API will let paying subscribers see posts before the public, priced at $100,000 a month or $60,000 with a three‑year lock‑in, effectively creating a paid insider‑trading channel for market‑moving information.",
+    "The author argues this service legalizes insider trading by turning Trump’s social feed into a Bloomberg‑style terminal, exposing a new vulnerability in U.S. economic and social systems.",
+    "The piece suggests the move showcases Donald Trump’s “animal cunning” and could boost Don Jr.’s presidential prospects."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260720131439.3.1be7593c5d7d285c@mg-d0.substack.com",
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
@@ -94,10 +149,11 @@
    "date": "2026-07-20T03:39-07:00",
    "url": "https://open.substack.com/pub/messagebox/p/trumps-most-corrupt-act-yet-seriously",
    "bullets": [
-    "I honestly thought I was beyond being shocked by Donald Trump’s depraved avarice, but I have to admit that I was blown away by the latest example of Trump’s blatant corruption. Here’s the report from the Associated Press [ https://substack.…",
-    "President Donald Trump’s media company is planning to charge for special high-speed access to Truth Social posts, including possibly his own, affecting national security and financial markets."
+    "Trump’s Truth Social will charge Wall Street firms for millisecond‑early access to his posts, creating a pay‑to‑play insider‑trading scheme that lets banks profit before the public sees the news.",
+    "Presidential conflict‑of‑interest rules exempt Trump, allowing the scheme despite its clear illegality, while past presidents used blind trusts to avoid such loopholes.",
+    "Echelon Insights polls show voter concern over political corruption rising from 8% in Dec 2024 to 17% now, making the issue the second‑most‑cited national problem after cost of living."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260720103015.3.b89dff21ac622c9d@mg-d0.substack.com",
@@ -121,10 +177,11 @@
    "date": "2026-07-19T19:50-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/exclusive-javier-bardem-joins-mehdi",
    "bullets": [
-    "The world saw Javier Bardem, legendary Spanish actor, Oscar winner, and one-time Bond villain, sitting in the crowd at MetLife Stadium, supporting Spain at the World Cup Final in New Jersey on Sunday.",
-    "Just hours after the game wrapped, with Spain defeating Argentina 1-0 to reclaim the World Cup trophy after 16 years, Bardem headed back to his hotel room and joined Mehdi for an exclusive live chat on YouTube [ https://substack.com/redirec…"
+    "Javier Bardem joined host Mehdi after Spain’s 1‑0 World Cup win over Argentina to critique Argentina’s play, Trump’s awkward trophy speech, and the match’s symbolic Palestine‑Israel overtones.",
+    "Bardem condemned the Gaza “genocide” and called Netanyahu a war criminal, insisting criticism of Israel shouldn’t be labeled antisemitic, while also denouncing Israel’s impunity and high 2026 World Cup ticket prices.",
+    "He previewed upcoming theater projects and a new film with Penélope Cruz, and the full, paywall‑free conversation is available on YouTube and Substack."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260720023223.3.90818014c82d0b89@mg-d0.substack.com",
@@ -2366,6 +2423,6 @@
  ],
  "counts": {
   "shown": 75,
-  "total": 172
+  "total": 176
  }
 }
