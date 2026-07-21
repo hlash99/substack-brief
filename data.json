@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T17:17-07:00",
+ "updated": "2026-07-21T08:58-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -45,6 +45,87 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260721150415.3.0e9b09af819864d3@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "‘My Father Is a Hero’: Detained Palestinian Dr. Hussam Abu Safiya’s Son Speaks to Zeteo",
+   "date": "2026-07-21T08:04-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/abu-safiya-son-interview-gaza-doctor",
+   "bullets": [
+    "Elyas Abu Safiya hasn’t seen his father in person in 19 months. The last time he did, Dr. Hussam Abu Safiya was doing what he had done for most of his life: taking care of other people, saving lives.",
+    "On Dec. 27, 2024, the Israeli army abducted Dr. Abu Safiya from the Kamal Adwan Hospital – the last functioning hospital in northern Gaza. His son, Ibrahim, was killed in an Israeli bombing in October 2024."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260721132433.3.16018f839d785c96@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Cyclosporiasis, DOGE, and You",
+   "date": "2026-07-21T06:24-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/cyclosporiasis-doge-and-you-outbreak-lettuce-wildfire-smoke-canada-tariffs",
+   "bullets": [
+    "FBI Director Kash Patel plans a visit to Russia, raising concerns that it could signal a shift on Ukraine policy or fuel Trump‑Russia probe rumors, though the author suggests it may be a casual trip.",
+    "The cyclosporiasis outbreak, affecting thousands, is politicized as a result of Trump‑era budget cuts that reduced CDC staff from eleven to three and eliminated $30 million in funding, prompting Sen. Jon Ossoff to criticize the shutdown of surveillance programs.",
+    "Trump announced 50‑percent tariffs on roughly 5 % of Canadian exports—about $10 billion in new costs—using Section 338 of the Tariff Act to retaliate for wildfire smoke, targeting diverse goods like mezcal, fishing rods, honey, whey protein and hockey sticks."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260721111953.3.66aa137de151ca92@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Oy, Canada Tariffs",
+   "date": "2026-07-21T04:19-07:00",
+   "url": "https://paulkrugman.substack.com/p/oy-canada-tariffs",
+   "bullets": [
+    "The Trump administration invoked the unused Smoot‑Hawley Section 338 to slap 50% tariffs on a broad swath of Canadian goods, citing alleged Canadian discrimination and even wildfire smoke, though the real motive appears political retaliation.",
+    "Krugman argues the tariffs violate the US‑Mexico‑Canada Agreement, were never justified, and will hurt U.S. consumers without extracting concessions, underscoring Trump’s pattern of breaking trade deals on a whim."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260721103049.3.4071da96aa8b8f15@mg-d1.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Covid-19 waking up, Cyclospora marches on, and measles is close to hitting a milestone",
+   "date": "2026-07-21T03:30-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/covid-19-waking-up-cyclospora-marches",
+   "bullets": [
+    "Covid-19 is showing early summer resurgence, especially in the West where ER visits, test positivity and wastewater signals rise, so adults over 65 who missed the spring booster should get vaccinated now",
+    "U.S. measles cases have hit 2,278 by July 19, 2026—on track to break a 33‑year record—with 96% of cases among the unvaccinated, prompting advice to protect infants and stay up‑to‑date on shots",
+    "Cyclospora infections have surged past 11,000 cases across 46 states, driven by a massive Michigan outbreak and a nationwide shredded iceberg lettuce recall linked to Taylor Farms, so residents in the 27 recall states should avoid that lettuce, especially if pregnant, over 65, or immunocompromised"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260721095855.3.16cc9ce41fd848bc@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Bumbling Warmonger Picks Worst Possible Time to Escalate His Iran War",
+   "date": "2026-07-21T02:58-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/bumbling-warmonger-picks-worst-possible",
+   "bullets": [
+    "Trump has reignited the Iran war despite a recent ceasefire collapse, while U.S. oil reserves hit their lowest level since 1983, tightening global supply.",
+    "Houthis are moving to block the Bab‑al‑Mandeb Strait, threatening an extra 7% of world oil flow and nearly doubling the loss from the Hormuz blockade.",
+    "Ukraine’s dismantling of Russian refinery capacity further spikes the risk of global oil shortages as the economy teeters on the brink."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260721013016.3.a32948d6904b826f@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "This Famous Indian Journalist Has a Warning for the U.S. Media Under Trump",
+   "date": "2026-07-20T18:30-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/a-warning-for-the-us-from-an-indian-journalist",
+   "bullets": [
+    "Sreenivasan Jain spent nearly three decades anchoring NDTV, one of India’s most prominent news stations. Then, in 2022, billionaire and Modi ally Gautam Adani bought [ https://substack.com/redirect/c18120f5-00fb-479e-b999-9e38f6593b41?j=eyJ…",
+    "Jain and many of his NDTV colleagues responded by resigning in protest, and Jain now reports for the independent Newslaundry [ https://substack.com/redirect/78227c33-704e-43dc-a649-f22583a30256?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCg…"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20260720233629.3.02f7cab2e8de7a39@mg2.substack.com",
    "newsletter": "Will Sommer - The Bulwark",
@@ -2422,7 +2503,7 @@
   }
  ],
  "counts": {
-  "shown": 75,
-  "total": 176
+  "shown": 72,
+  "total": 182
  }
 }
