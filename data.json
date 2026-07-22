@@ -1,50 +1,174 @@
 {
- "updated": "2026-07-21T17:13-07:00",
+ "updated": "2026-07-22T08:55-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's war with Iran has resulted in significant costs, including 17 US service member deaths and a $113 billion price tag, with US gas prices rising from $3 to $4 per gallon since the war began (The Bulwark, Douglas Macgregor)",
-   "Despite evidence of Russian interference in the 2020 election, Trump has continued to downplay the issue, with a recently declassified report acknowledging Russia's attempts to meddle in the election to benefit Trump (Zeteo, The Bulwark)",
-   "The Trump administration is drafting a regulation to overhaul Head Start, a federal early-childhood program, by stripping most existing provider rules and imposing new MAGA-aligned standards (The Bulwark)",
-   "Progressive taxation has eroded since the 1970s, leading to a surge in wealth concentration among the elite, with a few hundred billionaires holding wealth equal to about 20% of US GDP (Paul Krugman)",
-   "Hydrocarbons still supplied 86.24% of global primary energy in 2025, with renewables contributing only a small percentage of total energy growth, according to the 2026 Statistical Review (Doomberg)",
-   "Trump's claims of election denialism and foreign interference have been repeatedly debunked, with his DOJ being 0-16 in court suits for voter rolls and a federal judge voiding his $1.8 billion IRS settlement (The Bulwark, This Week in Democracy)"
+   "Trump's war with Iran has resulted in significant costs, including 17 US service member deaths and an estimated $113 billion in expenses, with US gas prices rising from $3 to $4 per gallon since the war began (The Bulwark, Zeteo)",
+   "Trump's Truth Social will charge Wall Street firms for early access to his posts, creating a pay-to-play insider-trading scheme that raises concerns about corruption and conflict of interest (The Message Box, The Bulwark)",
+   "The US is experiencing a resurgence of Covid-19, with rising ER visits, test positivity, and wastewater signals, particularly in the West, prompting calls for adults over 65 to get vaccinated (Your Local Epidemiologist)",
+   "Trump's administration has imposed tariffs on Canadian goods, citing alleged discrimination, but the move is seen as political retaliation and is expected to hurt US consumers (Paul Krugman)",
+   "The Bab al-Mandeb Strait has been blocked by Iran's allies, adding a new front to the US-Iran conflict and potentially leading to a significant spike in oil prices (Zeteo)",
+   "The 2024 US election is seeing significant influence from billionaires, with 20% of campaign contributions coming from just 300 wealthy individuals, raising concerns about the impact of money on politics (Paul Krugman)"
   ],
   "by": "groq",
   "ids": [
-   "20260717172207.3.71f1c1bc4def3110@mg2.substack.com",
-   "20260717174214.3.51e7cb7e2d32d9ec@mg-d0.substack.com",
-   "20260717190127.3.bd9024b1ba6b2a28@mg-d0.substack.com",
-   "20260717204015.3.44efc6ae869cab35@mg-d1.substack.com",
-   "20260717220056.3.a69ed119aba3d28a@mg-d0.substack.com",
-   "20260717220216.3.d2f82d70d14aaf7d@mg2.substack.com",
-   "20260718090018.3.4b7e0fbd9e34d7df@mg-d1.substack.com",
-   "20260718103032.3.51caa67696c6e5d2@mg-d1.substack.com",
-   "20260718114333.3.2fb23a8b0192d945@mg2.substack.com",
-   "20260718122308.3.894ee9aae811bcb6@mg-d0.substack.com",
-   "20260718130102.3.b330c595a72ef428@mg-d1.substack.com",
-   "20260718130228.3.8fc84f4e32615414@mg-d1.substack.com",
-   "20260718135600.3.aeb3a35cd4578020@mg-d0.substack.com",
-   "20260718180030.3.72b7242d32376c27@mg-d1.substack.com",
-   "20260719103028.3.51e419bd47148540@mg-d0.substack.com",
-   "20260719112808.3.7de096e4dd72cbc4@mg2.substack.com",
-   "20260719124521.3.89c3de5375f76d11@mg2.substack.com",
-   "20260719140244.3.5fb0f3ac9a2e7b4f@mg2.substack.com",
    "20260719180055.3.09cd74e675bb0817@mg-d0.substack.com",
    "20260719191717.3.a759c84afb84e7db@mg2.substack.com",
    "20260719220108.3.d6c24724291980d5@mg-d0.substack.com",
    "20260720001316.3.f51b97ddd709be3c@mg-d0.substack.com",
    "20260720023223.3.90818014c82d0b89@mg-d0.substack.com",
+   "20260720025039.3.c4e6bb88d0e343be@mg-d1.substack.com",
    "20260720103015.3.b89dff21ac622c9d@mg-d0.substack.com",
+   "20260720103916.3.23f2a52f5b41811d@mg2.substack.com",
    "20260720110355.3.619d0b569797b99b@mg2.substack.com",
    "20260720121727.3.c9953efd47c0ae9e@mg-d0.substack.com",
-   "20260720131439.3.1be7593c5d7d285c@mg-d0.substack.com"
+   "20260720131439.3.1be7593c5d7d285c@mg-d0.substack.com",
+   "20260720164238.3.32c26a399e6f7e4d@mg-d0.substack.com",
+   "20260720215411.3.39b3adbb2becbd61@mg2.substack.com",
+   "20260720220312.3.24024353fc08453c.3a7azh6a@mg1.substack.com",
+   "20260720233629.3.02f7cab2e8de7a39@mg2.substack.com",
+   "20260721013016.3.a32948d6904b826f@mg-d1.substack.com",
+   "20260721095855.3.16cc9ce41fd848bc@mg-d1.substack.com",
+   "20260721103049.3.4071da96aa8b8f15@mg-d1.substack.com",
+   "20260721111953.3.66aa137de151ca92@mg-d0.substack.com",
+   "20260721132433.3.16018f839d785c96@mg-d1.substack.com",
+   "20260721150415.3.0e9b09af819864d3@mg2.substack.com",
+   "20260721160234.3.b1c31cadbd3b106e@mg-d0.substack.com",
+   "20260721162915.3.82aaf98548c8a286@mg-d0.substack.com",
+   "20260721185334.3.762c94c2819c4b85@mg2.substack.com",
+   "20260721200035.3.42df08b967b31dbe@mg-d1.substack.com",
+   "20260722002238.3.1e5abe0ab0623542@mg2.substack.com",
+   "20260722012308.3.621a447b4de6b3a2@mg-d0.substack.com",
+   "20260722103122.3.a5033dc783788d44@mg2.substack.com",
+   "20260722103147.3.4b4ff2ba0335fa78@mg2.substack.com",
+   "20260722150115.3.69a6bc64429a708e@mg-d1.substack.com"
   ],
-  "updated": "2026-07-20T09:05-07:00",
+  "updated": "2026-07-22T08:55-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260722150115.3.69a6bc64429a708e@mg-d1.substack.com",
+   "newsletter": "We're Not Kidding | Zeteo",
+   "pub": "zeteo",
+   "subject": "When Hasan Piker Met Mehdi Hasan",
+   "date": "2026-07-22T08:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/hasan-piker-michigan-democrats-tucker-carlson",
+   "bullets": [
+    "Hasan Piker is a target of the Democratic party establishment",
+    "Haley Stevens has a 12-1 spending advantage over Abdul El-Sayed",
+    "Tucker Carlson may be setting up JD Vance for 2028"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260722133051.3.a8d8962189c61c98@mg2.substack.com",
+   "newsletter": "Here Be Dragons from Barbara F. Walter",
+   "pub": "barbarafwalter",
+   "subject": "Can You Admit Trump Was Right About One Thing?",
+   "date": "2026-07-22T06:30-07:00",
+   "url": "https://barbarafwalter.substack.com/p/can-you-admit-trump-was-right-about",
+   "bullets": [
+    "I suspect every one of us - even those who oppose Donald Trump with every cell in their body - can identify at least one policy or decision of his that we think was a good idea. Maybe it was eliminating the penny. Maybe it was pushing NATO …",
+    "If you can think of one, why haven’t you ever said so publicly? Political scientists and social psychologists have studied this phenomenon for decades. Human beings are extraordinarily sensitive to social approval. We routinely censor ourse…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260722131609.3.1e8ac7afaefee3eb@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Cabinet of Contempt",
+   "date": "2026-07-22T06:16-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/trumps-cabinet-of-contempt-senate-iran-war-pentagon-defense-funding-hegseth-questions-blanche-justice-doj-attorney-general-epstein-maxwell",
+   "bullets": [
+    "Donald Trump’s Iran strategy is on a pendulum, and that pendulum has swung all the way back. “From this point forward, any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz,” he posted [ https://substack.com/redirec…",
+    "As I watched Secretary of Defense Pete Hegseth testify before the Senate Appropriations Committee yesterday, I couldn’t help thinking about a tour in Iraq twenty years ago. That was where I was taught a lesson that every soldier eventually …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260722103122.3.a5033dc783788d44@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Platner May Be Out But the Media Insists on Punishing Democrats in Maine",
+   "date": "2026-07-22T03:31-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/platner-may-be-out-but-the-media",
+   "bullets": [
+    "Maine’s Democratic Senate primary saw outsider Graham Platner win the gubernatorial primary before being removed over rape accusations, leading to a rapid replacement by former state Senate president Troy Jackson, who secured overwhelming support from 17,000 Democratic primary voters and faced no serious opposition.",
+    "National media, according to the author, framed the Maine Senate race as a failure for Democrats, focusing on internal chaos rather than policy or the broader impact of Trump’s actions, and criticized the progressive candidate despite his strong grassroots backing.",
+    "The piece also notes a new development in the Trump administration’s effort to silence and deport student protester Mohsen Mahdawi, linking it to broader concerns about political repression."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260722103147.3.4b4ff2ba0335fa78@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Oligarchy and the Media",
+   "date": "2026-07-22T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/oligarchy-and-the-media",
+   "bullets": [
+    "A NYT analysis finds 20% of 2024 campaign contributions came from just 300 billionaires, showing outsized political influence from a tiny elite.",
+    "Krugman argues that billionaire owners—Ellison, Musk, Zuckerberg, Bezos—are reshaping major media outlets (CBS, CNN, X, Facebook, Washington Post) to favor right‑wing, pro‑rich narratives.",
+    "Legal challenges to Paramount’s attempted Warner/CNN takeover could block further media consolidation, but broader billionaire control of information remains a systemic threat."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260722103154.3.e4b5415c069eb9eb@mg2.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Ending clock changes. But which direction should we reset the clock?",
+   "date": "2026-07-22T03:31-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/ending-clock-changes-but-which-direction",
+   "bullets": [
+    "Congress has gotten as far as it ever has in ending twice-a-year clock changes. The House passed the Sunshine Protection Act [ https://substack.com/redirect/947bab62-eb28-4fb4-92df-d2eb951d6716?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCg…",
+    "Ending the clock switch is extremely popular, and science agrees stopping this madness is what’s best for our health. But nearly every major [ https://substack.com/redirect/e2008fb1-0163-4af1-881b-9635ae15b7c8?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwa…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260722090146.3.56819f86fbce713f@mg-d0.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Old Tapes",
+   "date": "2026-07-22T02:01-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/old-tapes",
+   "bullets": [
+    "“Pursue one great decisive aim with force and determination.” – Carl von Clausewitz For those unfamiliar with how China fuses industrial policy with its geopolitical objectives to astonishing effect, the following two news articles might se…",
+    "“China’s monthly car ‌exports topped 1m for the first time in June as overall overseas shipments from the world’s second biggest economy rose 27%. Official Chinese customs data showed that a stronger-than-expected trade performance kept Chi…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260722012308.3.621a447b4de6b3a2@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Everything You Need to Know About the U.S. Criminal Case Against Nicolás Maduro",
+   "date": "2026-07-21T18:23-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/maduro-criminal-case-hearing-trump-what-to-know",
+   "bullets": [
+    "Maduro and his wife Cilia Flores face U.S. federal charges of conspiring to import and distribute cocaine, allegedly overseeing a drug network that moved hundreds of kilograms of cocaine into the U.S. since at least 2015",
+    "Their 2023 capture in Venezuela was part of a Trump‑era “regime‑change” operation, raising legal questions about the legitimacy of the arrest and extradition process",
+    "The case proceeds in U.S. court because prosecutors argue the drug conspiracy violated U.S. drug‑trafficking statutes and involved U.S. financial institutions, giving federal jurisdiction"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260722002238.3.1e5abe0ab0623542@mg2.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "This Deranged New Campaign Ad Creeped Us Out!",
+   "date": "2026-07-21T17:22-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/this-deranged-new-campaign-ad-creeped",
+   "bullets": [
+    "Will Sommer critiques a bizarre AI-generated political ad run by a Ted Cruz‑aligned group in Florida, mocking its whacky candidate lineup and absurd messaging.",
+    "He assesses the ongoing Iran war, the South Carolina Republican Senate primary, and the Michigan Senate race, contrasting online narratives with on‑the‑ground realities."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260721200035.3.42df08b967b31dbe@mg-d1.substack.com",
    "newsletter": "Zeteo",
@@ -2560,7 +2684,7 @@
   }
  ],
  "counts": {
-  "shown": 73,
-  "total": 186
+  "shown": 75,
+  "total": 195
  }
 }
