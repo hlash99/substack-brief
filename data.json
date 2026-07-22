@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T08:58-07:00",
+ "updated": "2026-07-21T17:13-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -46,6 +46,61 @@
  },
  "items": [
   {
+   "id": "20260721200035.3.42df08b967b31dbe@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Why Is No One Talking About the ‘New War’ Trump Is Waging in Somalia?",
+   "date": "2026-07-21T13:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-is-no-one-talking-about-the-new",
+   "bullets": [
+    "Trump has dramatically escalated U.S. airstrikes in Somalia, which experts label an unprecedented “new war” born from the U.S.’s inability to defeat long‑standing jihadist foes.",
+    "The Somalia campaign, ongoing since a U.S.-backed Ethiopian invasion in 2006, now rivals the 2001‑2021 Afghanistan war as America’s longest foreign conflict, operating without ground troops or congressional oversight.",
+    "Congress has offered little scrutiny or justification for the covert, frictionless “forever‑war” in Somalia, allowing the strike program to expand unchecked."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260721185334.3.762c94c2819c4b85@mg2.substack.com",
+   "newsletter": "Sarah Longwell—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Voters’ Age Concerns Aren’t Really About Age",
+   "date": "2026-07-21T11:53-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/voters-age-concerns-arent-really-graham-mcconnell-trump-sanders",
+   "bullets": [
+    "Six members of Congress, including 71‑year‑old Lindsey Graham, died this session and another 20 are over 80, making this one of the oldest Congresses on record; both recent presidents were 80+.",
+    "Focus groups of Trump voters reveal strong support for age limits on officeholders, with an NPR/Marist poll showing 80% favor upper age caps and nearly 90% favor term limits.",
+    "Voters link aging politicians to a stagnant, donor‑driven establishment, believing long‑time Washington insiders are less responsive to constituents."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260721162915.3.82aaf98548c8a286@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Forget Iran. Trump Is at War with Himself.",
+   "date": "2026-07-21T09:29-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/forget-iran-trump-is-at-war-with",
+   "bullets": [
+    "The author is baffled that Trump, after securing a Memorandum of Understanding with Iran, chose to renegotiate instead of exiting, reigniting conflict and causing U.S. casualties and higher gas prices.",
+    "He argues this paradox reveals Trump’s contradictory impulses—wanting to appear decisive while also needing to maintain leverage—making Iran the first true mystery of his presidency."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260721160234.3.b1c31cadbd3b106e@mg-d0.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "Against Claudefishing",
+   "date": "2026-07-21T09:02-07:00",
+   "url": "https://post.substack.com/p/against-claudefishing",
+   "bullets": [
+    "Substack is rolling out AI‑detection tools from Pangram in its app, letting users scan any post, comment or reply over 100 words to see how much was AI‑generated.",
+    "The newsletter cites Pangram’s estimate that up to 40% of social‑media text is AI‑generated and warns that undisclosed AI content—‘Claudefishing’—erodes trust and harms writers’ livelihoods.",
+    "New creator features will let authors add a ‘How I make this’ note and run Pangram on drafts, while future plans include AI‑content preferences for communities and improved spam defenses."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260721150415.3.0e9b09af819864d3@mg2.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
@@ -53,10 +108,11 @@
    "date": "2026-07-21T08:04-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/abu-safiya-son-interview-gaza-doctor",
    "bullets": [
-    "Elyas Abu Safiya hasn’t seen his father in person in 19 months. The last time he did, Dr. Hussam Abu Safiya was doing what he had done for most of his life: taking care of other people, saving lives.",
-    "On Dec. 27, 2024, the Israeli army abducted Dr. Abu Safiya from the Kamal Adwan Hospital – the last functioning hospital in northern Gaza. His son, Ibrahim, was killed in an Israeli bombing in October 2024."
+    "Dr. Hussam Abu Safiya, a Gaza surgeon, was abducted by the Israeli army on Dec. 27, 2024 from Kamal Adwan Hospital and is being held under Israel’s disputed “Unlawful Combatants” law without charge or trial, reportedly tortured and severely weakened.",
+    "His son Elyas, who has not seen him in 19 months and lost his brother Ibrahim in an Oct. 2024 Israeli bombing, is campaigning for his release, appealing to Donald Trump and UK PM Andy Burnham.",
+    "Israeli authorities initially denied the abduction, later admitted holding him, but have not disclosed his location for over a month, moving him between prisons while providing no information."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260721132433.3.16018f839d785c96@mg-d1.substack.com",
@@ -121,10 +177,11 @@
    "date": "2026-07-20T18:30-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/a-warning-for-the-us-from-an-indian-journalist",
    "bullets": [
-    "Sreenivasan Jain spent nearly three decades anchoring NDTV, one of India’s most prominent news stations. Then, in 2022, billionaire and Modi ally Gautam Adani bought [ https://substack.com/redirect/c18120f5-00fb-479e-b999-9e38f6593b41?j=eyJ…",
-    "Jain and many of his NDTV colleagues responded by resigning in protest, and Jain now reports for the independent Newslaundry [ https://substack.com/redirect/78227c33-704e-43dc-a649-f22583a30256?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCg…"
+    "Former NDTV anchor Sreenivasan Jain left after billionaire Gautam Adani bought a majority stake in 2022, turning the channel into a pro‑Modi outlet and prompting a wave of resignations.",
+    "Jain warns that without financially powerful owners willing to defend editorial independence, newsrooms in both India and the U.S. are vulnerable to capture, citing jailed, assaulted and killed journalists in India’s ‘world’s biggest democracy’.",
+    "He highlights the rise of pro‑BJP ‘Godi media’, anti‑Muslim propaganda, Bollywood figures coerced by the far‑right, and advises U.S. journalists to emulate India’s independent outlets like Newslaundry."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260720233629.3.02f7cab2e8de7a39@mg2.substack.com",
@@ -2503,7 +2560,7 @@
   }
  ],
  "counts": {
-  "shown": 72,
-  "total": 182
+  "shown": 73,
+  "total": 186
  }
 }
