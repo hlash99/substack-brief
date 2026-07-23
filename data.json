@@ -1,22 +1,18 @@
 {
- "updated": "2026-07-22T08:55-07:00",
+ "updated": "2026-07-22T17:17-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's war with Iran has resulted in significant costs, including 17 US service member deaths and an estimated $113 billion in expenses, with US gas prices rising from $3 to $4 per gallon since the war began (The Bulwark, Zeteo)",
-   "Trump's Truth Social will charge Wall Street firms for early access to his posts, creating a pay-to-play insider-trading scheme that raises concerns about corruption and conflict of interest (The Message Box, The Bulwark)",
-   "The US is experiencing a resurgence of Covid-19, with rising ER visits, test positivity, and wastewater signals, particularly in the West, prompting calls for adults over 65 to get vaccinated (Your Local Epidemiologist)",
-   "Trump's administration has imposed tariffs on Canadian goods, citing alleged discrimination, but the move is seen as political retaliation and is expected to hurt US consumers (Paul Krugman)",
-   "The Bab al-Mandeb Strait has been blocked by Iran's allies, adding a new front to the US-Iran conflict and potentially leading to a significant spike in oil prices (Zeteo)",
-   "The 2024 US election is seeing significant influence from billionaires, with 20% of campaign contributions coming from just 300 wealthy individuals, raising concerns about the impact of money on politics (Paul Krugman)"
+   "Trump's war with Iran has escalated, with the US suffering casualties and higher gas prices, and the conflict is now considered one of the longest foreign wars in US history (The Bulwark, Zeteo)",
+   "China's car exports have topped 1 million units in June, a 27% rise, outpacing US production capacity and pushing the country toward a $1 trillion trade surplus (Doomberg)",
+   "The US is experiencing a resurgence of Covid-19, especially in the West, and measles cases have hit 2,278, with 96% of cases among the unvaccinated (Your Local Epidemiologist)",
+   "Trump's Truth Social will charge Wall Street firms for early access to his posts, creating a pay-to-play insider-trading scheme (The Message Box, The Bulwark)",
+   "The US House has passed the Sunshine Protection Act to make daylight saving time permanent, but most sleep-medicine groups recommend permanent standard time (Your Local Epidemiologist)",
+   "Billionaires are reshaping major media outlets to favor right-wing, pro-rich narratives, with 20% of 2024 campaign contributions coming from just 300 billionaires (Paul Krugman)"
   ],
   "by": "groq",
   "ids": [
-   "20260719180055.3.09cd74e675bb0817@mg-d0.substack.com",
-   "20260719191717.3.a759c84afb84e7db@mg2.substack.com",
-   "20260719220108.3.d6c24724291980d5@mg-d0.substack.com",
-   "20260720001316.3.f51b97ddd709be3c@mg-d0.substack.com",
    "20260720023223.3.90818014c82d0b89@mg-d0.substack.com",
    "20260720025039.3.c4e6bb88d0e343be@mg-d1.substack.com",
    "20260720103015.3.b89dff21ac622c9d@mg-d0.substack.com",
@@ -40,14 +36,58 @@
    "20260721200035.3.42df08b967b31dbe@mg-d1.substack.com",
    "20260722002238.3.1e5abe0ab0623542@mg2.substack.com",
    "20260722012308.3.621a447b4de6b3a2@mg-d0.substack.com",
+   "20260722090146.3.56819f86fbce713f@mg-d0.substack.com",
    "20260722103122.3.a5033dc783788d44@mg2.substack.com",
    "20260722103147.3.4b4ff2ba0335fa78@mg2.substack.com",
-   "20260722150115.3.69a6bc64429a708e@mg-d1.substack.com"
+   "20260722103154.3.e4b5415c069eb9eb@mg2.substack.com",
+   "20260722131609.3.1e8ac7afaefee3eb@mg-d0.substack.com",
+   "20260722133051.3.a8d8962189c61c98@mg2.substack.com",
+   "20260722150115.3.69a6bc64429a708e@mg-d1.substack.com",
+   "20260722162550.3.778be2cf3d99bab3@mg2.substack.com"
   ],
-  "updated": "2026-07-22T08:55-07:00",
+  "updated": "2026-07-22T17:17-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260723000553.3.bb541e97ef2de5f4@mg-d0.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Dems’ Populism Paradox",
+   "date": "2026-07-22T17:05-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/democrats-populism-paradox",
+   "bullets": [
+    "COMING OUT OF THE 2024 PRESIDENTIAL ELECTION, Democrats had no shortage of ideas for how the party could win back working-class voters. Moderates wanted to move to the middle on social and cultural issues. Self-identified reformers preached…",
+    "As they saw it, winning back working-class voters required elevating working-class candidates (or, at least, candidates with a working-class aesthetic) who embraced populism and eschewed the caution they believed to have been detrimental to…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260723000152.3.aa028aed95c6255b@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Bari Weiss’s Latest Hire Has an N-Word Problem",
+   "date": "2026-07-22T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/bari-weisss-latest-hire-n-word-problem",
+   "bullets": [
+    "Good evening, and welcome to this week’s ‘Ragebait.’ Justin Baragona here, bringing you the latest media dispatches from the right-wing industrial outrage complex and Bari World. In tonight’s edition, we look at the controversial past of Ba…",
+    "Shortly after CBS News editor-in-chief Bari Weiss announced [ https://substack.com/redirect/6f842196-7419-4ff5-b311-403674f08753?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] that she had hired Mike Pesca – the host of…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260722162550.3.778be2cf3d99bab3@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How to Unlock the Authenticity Trap",
+   "date": "2026-07-22T09:25-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/how-to-unlock-the-authenticity-trap",
+   "bullets": [
+    "The author argues that the political industry’s push for ‘authentic’ candidates—those who ‘talk like a normal person’—is a reaction to Trump’s perceived authenticity, which voters equate with realness and a willingness to overturn elections, while dismissing more qualified but seemingly polished Democrats as phony.",
+    "He cites the example of Maine candidate Graham Platner, whose rugged oysterman persona and controversial online history were seen by voters as evidence of authenticity, yet his personal flaws ultimately led to his political failure, illustrating that authenticity can be a double‑edged sword."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260722150115.3.69a6bc64429a708e@mg-d1.substack.com",
    "newsletter": "We're Not Kidding | Zeteo",
@@ -70,10 +110,11 @@
    "date": "2026-07-22T06:30-07:00",
    "url": "https://barbarafwalter.substack.com/p/can-you-admit-trump-was-right-about",
    "bullets": [
-    "I suspect every one of us - even those who oppose Donald Trump with every cell in their body - can identify at least one policy or decision of his that we think was a good idea. Maybe it was eliminating the penny. Maybe it was pushing NATO …",
-    "If you can think of one, why haven’t you ever said so publicly? Political scientists and social psychologists have studied this phenomenon for decades. Human beings are extraordinarily sensitive to social approval. We routinely censor ourse…"
+    "Walter argues that most people, even Trump opponents, can identify at least one Trump policy they consider good, but silence due to preference falsification and the spiral of silence prevents public acknowledgment.",
+    "She explains that this self‑censorship distorts perceptions of public opinion, deepens polarization, and harms democratic deliberation by hiding common ground.",
+    "Walter urges readers to comment with a single Trump policy they think was right, hoping the exercise will restore intellectual honesty and magnanimity in American politics."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260722131609.3.1e8ac7afaefee3eb@mg-d0.substack.com",
@@ -83,10 +124,11 @@
    "date": "2026-07-22T06:16-07:00",
    "url": "https://open.substack.com/pub/thebulwark/p/trumps-cabinet-of-contempt-senate-iran-war-pentagon-defense-funding-hegseth-questions-blanche-justice-doj-attorney-general-epstein-maxwell",
    "bullets": [
-    "Donald Trump’s Iran strategy is on a pendulum, and that pendulum has swung all the way back. “From this point forward, any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz,” he posted [ https://substack.com/redirec…",
-    "As I watched Secretary of Defense Pete Hegseth testify before the Senate Appropriations Committee yesterday, I couldn’t help thinking about a tour in Iraq twenty years ago. That was where I was taught a lesson that every soldier eventually …"
+    "Trump warned on Truth Social that any Iranian attack on a Strait of Hormuz ship will trigger a U.S. strike on a bridge or power plant in Tehran, reviving a hard‑line Iran policy.",
+    "Senator Ossoff and Gary Peters pressed Defense Secretary Pete Hegseth on his claims that Iran’s Revolutionary Guard is “broken,” noting the ongoing costly campaign and a $90 billion funding request reveal a gap between rhetoric and reality, echoing past U.S. overconfidence in Iraq, Afghanistan and against ISIS.",
+    "Former Deputy Attorney General Todd Blanche’s Senate Judiciary testimony claimed he learned of Ghislaine Maxwell’s prison transfer from public reports and was uninvolved in the decision, a narrative many find implausible given his prior personal meeting with Maxwell and his central role in the Epstein investigation."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260722103122.3.a5033dc783788d44@mg2.substack.com",
@@ -124,10 +166,11 @@
    "date": "2026-07-22T03:31-07:00",
    "url": "https://yourlocalepidemiologist.substack.com/p/ending-clock-changes-but-which-direction",
    "bullets": [
-    "Congress has gotten as far as it ever has in ending twice-a-year clock changes. The House passed the Sunshine Protection Act [ https://substack.com/redirect/947bab62-eb28-4fb4-92df-d2eb951d6716?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCg…",
-    "Ending the clock switch is extremely popular, and science agrees stopping this madness is what’s best for our health. But nearly every major [ https://substack.com/redirect/e2008fb1-0163-4af1-881b-9635ae15b7c8?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwa…"
+    "The House passed the Sunshine Protection Act (308‑117) to make daylight saving time permanent, but most sleep‑medicine and circadian‑biology groups recommend permanent standard time because it aligns better with natural morning light cues.",
+    "Spring‑forward costs Americans ~40 minutes of sleep, raises fatal car crashes and workplace injuries by ~6 % in the first week, while permanent DST would shift winter sunrise to after 8:15 a.m for 200 million people, worsening circadian misalignment linked to obesity, metabolic disease and cancer risk.",
+    "Congress now faces two bills—permanent DST versus permanent standard time (H.R.9638)—and public input is still possible; meanwhile, individuals can mitigate clock‑change effects by getting morning sunlight, dimming evenings, and keeping consistent sleep schedules."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260722090146.3.56819f86fbce713f@mg-d0.substack.com",
@@ -137,10 +180,11 @@
    "date": "2026-07-22T02:01-07:00",
    "url": "https://open.substack.com/pub/doomberg/p/old-tapes",
    "bullets": [
-    "“Pursue one great decisive aim with force and determination.” – Carl von Clausewitz For those unfamiliar with how China fuses industrial policy with its geopolitical objectives to astonishing effect, the following two news articles might se…",
-    "“China’s monthly car ‌exports topped 1m for the first time in June as overall overseas shipments from the world’s second biggest economy rose 27%. Official Chinese customs data showed that a stronger-than-expected trade performance kept Chi…"
+    "China’s car exports topped 1 million units in June, a 27% rise, outpacing U.S. production capacity and pushing the country toward a $1 trillion trade surplus despite reduced tariffs.",
+    "Domestic subsidies for Chinese car buyers are being withdrawn, causing a slump in home sales and forcing manufacturers like BYD and Chery to rely on aggressive overseas expansion amid trade tensions.",
+    "The newsletter argues this export‑driven model—heavy early subsidies then rapid global market flooding—is now being replicated in AI, threatening Western tech firms and reshaping investment risks."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260722012308.3.621a447b4de6b3a2@mg-d0.substack.com",
@@ -2684,7 +2728,7 @@
   }
  ],
  "counts": {
-  "shown": 75,
-  "total": 195
+  "shown": 74,
+  "total": 198
  }
 }
