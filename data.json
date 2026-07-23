@@ -1,25 +1,18 @@
 {
- "updated": "2026-07-22T17:17-07:00",
+ "updated": "2026-07-23T09:06-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's war with Iran has escalated, with the US suffering casualties and higher gas prices, and the conflict is now considered one of the longest foreign wars in US history (The Bulwark, Zeteo)",
-   "China's car exports have topped 1 million units in June, a 27% rise, outpacing US production capacity and pushing the country toward a $1 trillion trade surplus (Doomberg)",
-   "The US is experiencing a resurgence of Covid-19, especially in the West, and measles cases have hit 2,278, with 96% of cases among the unvaccinated (Your Local Epidemiologist)",
-   "Trump's Truth Social will charge Wall Street firms for early access to his posts, creating a pay-to-play insider-trading scheme (The Message Box, The Bulwark)",
-   "The US House has passed the Sunshine Protection Act to make daylight saving time permanent, but most sleep-medicine groups recommend permanent standard time (Your Local Epidemiologist)",
-   "Billionaires are reshaping major media outlets to favor right-wing, pro-rich narratives, with 20% of 2024 campaign contributions coming from just 300 billionaires (Paul Krugman)"
+   "Trump's administration has escalated the Iran war despite a recent ceasefire collapse, with US oil reserves at their lowest level since 1983",
+   "Public approval of the Iran war is at 34% and 52% of voters want it ended immediately, with 58% of Americans believing it harms US interests",
+   "Trump's decision to reignite the war has been met with criticism, including from Senator Mark Warner, who calls the conflict a 'war of choice'",
+   "The US is also facing a potential oil crisis, with the Houthis moving to block the Bab-al-Mandeb Strait and Ukraine dismantling Russian refinery capacity",
+   "Meanwhile, Trump's social media platform, Truth Social, is offering a paid service that allows subscribers to see posts before the public, effectively creating a paid insider-trading channel",
+   "The combination of these factors has led to increased tensions and concerns about the impact on the US economy and global oil supply"
   ],
   "by": "groq",
   "ids": [
-   "20260720023223.3.90818014c82d0b89@mg-d0.substack.com",
-   "20260720025039.3.c4e6bb88d0e343be@mg-d1.substack.com",
-   "20260720103015.3.b89dff21ac622c9d@mg-d0.substack.com",
-   "20260720103916.3.23f2a52f5b41811d@mg2.substack.com",
-   "20260720110355.3.619d0b569797b99b@mg2.substack.com",
-   "20260720121727.3.c9953efd47c0ae9e@mg-d0.substack.com",
-   "20260720131439.3.1be7593c5d7d285c@mg-d0.substack.com",
    "20260720164238.3.32c26a399e6f7e4d@mg-d0.substack.com",
    "20260720215411.3.39b3adbb2becbd61@mg2.substack.com",
    "20260720220312.3.24024353fc08453c.3a7azh6a@mg1.substack.com",
@@ -43,12 +36,117 @@
    "20260722131609.3.1e8ac7afaefee3eb@mg-d0.substack.com",
    "20260722133051.3.a8d8962189c61c98@mg2.substack.com",
    "20260722150115.3.69a6bc64429a708e@mg-d1.substack.com",
-   "20260722162550.3.778be2cf3d99bab3@mg2.substack.com"
+   "20260722162550.3.778be2cf3d99bab3@mg2.substack.com",
+   "20260723000152.3.aa028aed95c6255b@mg-d1.substack.com",
+   "20260723000553.3.bb541e97ef2de5f4@mg-d0.substack.com",
+   "20260723010603.3.48a48819d769de00@mg-d0.substack.com",
+   "20260723101912.3.4429c9a0e818637b@mg-d1.substack.com",
+   "20260723103142.3.38898e34d759f95c@mg-d0.substack.com",
+   "20260723132116.3.71f66490b93510c6@mg-d1.substack.com",
+   "20260723150047.3.251cd339e1ba84ee@mg2.substack.com",
+   "20260723153159.3.2775e2e1d294b2c2@mg-d0.substack.com"
   ],
-  "updated": "2026-07-22T17:17-07:00",
+  "updated": "2026-07-23T09:06-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260723153159.3.2775e2e1d294b2c2@mg-d0.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "MAGA Rallies Around Andrew Tate",
+   "date": "2026-07-23T08:31-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/maga-rallies-around-andrew-tristan-tate-brothers",
+   "bullets": [
+    "Andrew Tate was arrested in Miami on sex trafficking charges.",
+    "Rep. Abe Hamadeh claims the Tates are victims of politicized lawfare.",
+    "MAGA supporters are urging the Trump administration to block the Tates' extradition to the UK."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260723150047.3.251cd339e1ba84ee@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "‘Five-Alarm Fire’: Top Senate Democrat on ‘Corrupt’ Elections, AIPAC Funding, and Ending the Iran War",
+   "date": "2026-07-23T08:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/mark-warner-elections-iran-israel-aipac-trump",
+   "bullets": [
+    "Sen. Mark Warner says Trump’s claim to end the Iran war in two weeks is false, citing no imminent threat and labeling the conflict a 'war of choice' while criticizing Trump’s lack of congressional transparency and a $70 billion funding request from Defense Secretary Pete Hegseth.",
+    "Warner defends his vote for Marco Rubio as Secretary of State, supports arms sales to Israel but opposes bulldozer sales, and denies that Israel is committing genocide in Gaza, contrasting it with other genocides such as Sudan, Rohingya, and Uyghur.",
+    "He admits to receiving AIPAC money, disputes Trump’s election interference allegations, calls the ‘five‑alarm fire’ about corrupt elections exaggerated, and outlines his stance on ICE and future U.S. foreign policy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260723132116.3.71f66490b93510c6@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "What’s More Unpopular Than Starting a War?",
+   "date": "2026-07-23T06:21-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/whats-more-unpopular-than-starting-war-iran-hormuz-bombing-energy-oil-crude-prices-trump-houthis-poll-midterms-democrats-congress-gop",
+   "bullets": [
+    "Trump’s administration just approved a $73 billion budget resolution to fund a war in Iran that has cost the U.S. 18 service members, hundreds of wounded, and tens of billions, while public approval of the war sits at 34 % and 52 % of voters want it ended immediately.",
+    "A University of Maryland poll shows 58 % of Americans believe the Iran war harms U.S. interests, with 76 % of Democrats, 65 % of independents, and 23 % of Republicans calling for an end, yet Republicans are trailing Democrats by 6–11 points in generic ballot polls.",
+    "Trump’s own base has fallen from 50 % to roughly 33 % in favor of the war, and the president’s rhetoric has shifted to “bomb the bridges and power plants,” while the Strait of Hormuz remains closed and Iranian-backed Houthi attacks are disrupting Red Sea shipping, worsening the U.S. energy crisis."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260723110129.3.3426387502809e3a@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Trump Is Dangerously Unwell. So Why Are These Dems Helping Him?",
+   "date": "2026-07-23T04:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-is-dangerously-unwell-so-why",
+   "bullets": [
+    "On this day in 2020, a federal judge [ https://substack.com/redirect/13d4c24e-62d3-4611-ba2c-3a1265521afa?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] in Portland barred President Donald Trump's federal agents from ta…",
+    "Happy Thursday, everyone. It’s Swin and Andrew here. It’s obvious our current state of affairs is unsustainable. The entire ruling party is propping up the personality cult and blundering agenda of someone who is disturbed to the point he’s…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260723103142.3.38898e34d759f95c@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Elon Musk, the New Hero of Populism",
+   "date": "2026-07-23T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/elon-musk-the-new-hero-of-populism",
+   "bullets": [
+    "A Harris survey shows 73% of Americans now view wealth inequality as a serious issue, up from 66% in 2022, and a UMass poll finds 58% see billionaires as a threat to democracy.",
+    "Top donor data reveal that by 2024 the richest 100 contributors spent three times more on Republicans than Democrats, with Elon Musk leading a new wave of flamboyant, public billionaire political influence.",
+    "Krugman argues Musk’s overt, narcissistic activism—mirroring Trump’s style—has unintentionally mobilized public backlash against oligarchic power, turning a billionaire into an unlikely populist rallying point."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260723101912.3.4429c9a0e818637b@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "What Everyone Gets Wrong About the Politics of Israel",
+   "date": "2026-07-23T03:19-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/what-everyone-gets-wrong-about-the",
+   "bullets": [
+    "The Michigan Senate primary pits progressive Abdul El‑Sayed, who calls Israel an apartheid state and wants to cut aid, against moderate Haley Stevens, who supports unconditional aid and is backed by AIPAC and the Democratic establishment.",
+    "Stevens is positioned as a mainstream Democrat who votes with Biden almost 100%, but on Israel she diverges from the party’s leftward shift, highlighting that moderation must target issues where voters see the party as extreme.",
+    "A NYT/Siena poll shows 53% of voters think Democrats are too far left versus 47% for Republicans, suggesting Democrats need moderate‑appearing candidates in swing states, yet using Israel as a moderating issue risks alienating the base without gaining centrist voters."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260723010603.3.48a48819d769de00@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "George Conway Is Back—and Trump Gave Him PLENTY to Work With",
+   "date": "2026-07-22T18:06-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/george-conway-is-backand-trump-gave",
+   "bullets": [
+    "Trump Media plans to sell Wall Street firms early access to market‑moving Truth Social posts, a scheme George Conway says gives Trump ample material to work with.",
+    "The DOJ has issued subpoenas targeting New York Times reporters and their families, while Trump’s Qatar‑based jet and the newly activated Alien Terrorist Removal Court are also discussed.",
+    "The episode also touches on the Paramount‑Warner merger and how these issues intersect with ongoing legal and political battles."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260723000553.3.bb541e97ef2de5f4@mg-d0.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
@@ -57,10 +155,11 @@
    "date": "2026-07-22T17:05-07:00",
    "url": "https://open.substack.com/pub/thebulwark/p/democrats-populism-paradox",
    "bullets": [
-    "COMING OUT OF THE 2024 PRESIDENTIAL ELECTION, Democrats had no shortage of ideas for how the party could win back working-class voters. Moderates wanted to move to the middle on social and cultural issues. Self-identified reformers preached…",
-    "As they saw it, winning back working-class voters required elevating working-class candidates (or, at least, candidates with a working-class aesthetic) who embraced populism and eschewed the caution they believed to have been detrimental to…"
+    "Polling shows Republican Susan Collins leads non‑college voters by 21 points while progressive candidate Graham Platner led college‑educated voters by 34 points, and Rep. Haley Stevens leads non‑college voters by 22 points over progressive Abdul El‑Sayed in Michigan.",
+    "Progressive strategists argue the Democratic struggle with non‑college voters is a party‑wide branding issue, not a left‑wing problem, citing Bernie Sanders aide Mark Longabaugh and Justice Democrats spokesperson Usamah Andrabi.",
+    "Progressives downplay Stevens' poll advantage, attributing it to $50 million in super‑PAC spending, while acknowledging that Democratic candidates of all stripes have failed to win back working‑class voters since 2024."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260723000152.3.aa028aed95c6255b@mg-d1.substack.com",
@@ -70,10 +169,11 @@
    "date": "2026-07-22T17:01-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/bari-weisss-latest-hire-n-word-problem",
    "bullets": [
-    "Good evening, and welcome to this week’s ‘Ragebait.’ Justin Baragona here, bringing you the latest media dispatches from the right-wing industrial outrage complex and Bari World. In tonight’s edition, we look at the controversial past of Ba…",
-    "Shortly after CBS News editor-in-chief Bari Weiss announced [ https://substack.com/redirect/6f842196-7419-4ff5-b311-403674f08753?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] that she had hired Mike Pesca – the host of…"
+    "Bari Weiss hired former Slate host Mike Pesca, who was suspended in 2021 for arguing white people should sometimes use the n‑word, as CBS News editorial director of podcasts.",
+    "Critics, including a former colleague, view the hire as evidence Weiss is building a staff tolerant of controversial speech about race.",
+    "The piece also claims the White House Correspondents’ Association threatens press freedom and notes CNN’s cautious optimism after the WarnerMount merger."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260722162550.3.778be2cf3d99bab3@mg2.substack.com",
@@ -2729,6 +2829,6 @@
  ],
  "counts": {
   "shown": 74,
-  "total": 198
+  "total": 205
  }
 }
