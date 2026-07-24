@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T17:16-07:00",
+ "updated": "2026-07-24T08:51-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -50,6 +50,89 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260724133718.3.9190469f5e420f21@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Tries to Erase the Casualties of His War",
+   "date": "2026-07-24T06:37-07:00",
+   "url": null,
+   "bullets": [
+    "The Trump administration removed four U.S. soldiers—Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad, and Sgt. Michael Emmanuel Swinton—from the Pentagon’s Iran‑war casualty list, citing “temporary data disruptions” while the deaths actually occurred after a cease‑fire declaration, a move seen as an attempt to avoid congressional war‑powers accountability.",
+    "President Trump abruptly added a condition to a signed Saudi nuclear‑program deal, demanding Saudi recognition of Israel via the Abraham Accords, effectively nullifying the agreement after signing and prompting Saudi officials to warn that tweets cannot overturn signed contracts.",
+    "The newsletter criticizes Trump’s pattern of reneging on agreements—such as the Iran memorandum of understanding and the Saudi nuclear deal—highlighting his view of contracts as leverage tools rather than binding commitments, and warns that this undermines U.S. credibility worldwide."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260724121522.3.7c30460a8270b7d9@mg2.substack.com",
+   "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
+   "pub": "macgregorwarrior",
+   "subject": "Why is America’s Army Falling Apart?",
+   "date": "2026-07-24T05:15-07:00",
+   "url": "https://macgregorwarrior.substack.com/p/why-is-americas-army-falling-apart",
+   "bullets": [
+    "Senator John McCain warned that the U.S. Army faces a crisis, citing a multibillion‑dollar acquisition graveyard that includes the $20 billion Future Combat System and the $6 billion Warfighter Information Network‑Tactical program.",
+    "Macgregor argues the Army urgently needs fresh, qualified general officers and a Secretary of the Army who will hold senior leaders accountable, rather than appointing defense‑industry executives or hedge‑fund managers.",
+    "He warns that without such reforms the Army will lose the first battle of the next war, and America may never get a second chance to fight."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260724110320.3.cf432f0185f9bb20@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Elon Musk, Islamophobe",
+   "date": "2026-07-24T04:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/elon-musk-islamophobe",
+   "bullets": [
+    "Elon Musk, the world’s first trillionaire and major Trump donor, has repeatedly amplified anti‑Muslim voices like Tommy Robinson on X, posting nearly 200 anti‑Muslim messages about UK grooming gangs in early 2025 and promoting the extremist film “Citizen Vigilante.”",
+    "Despite this record, mainstream media has largely ignored Musk’s Islamophobia; the Economist’s editor Zanny Minton Beddoes finally confronted him in an interview, asking directly if he is anti‑Muslim and criticizing his platforming of the film that glorifies violence against a Muslim immigrant family."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260724103117.3.0bf006347c9e758b@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Quagmire of the Vanities",
+   "date": "2026-07-24T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/quagmire-of-the-vanities",
+   "bullets": [
+    "Trump’s vanity keeps a losing war on Iran alive, driving oil to $100 a barrel and inflating the effective price to about $140 due to a cracked $65 spread between crude and refined products.",
+    "Refining capacity shortages—exacerbated by the Iran conflict and Ukraine’s attacks on Russian energy—push diesel and gasoline prices far above pre‑war levels, threatening a resurgence of inflation.",
+    "Escalating U.S. military presence and new tariffs on forced‑labor accusations could spur higher interest rates and deepen economic strain on families and businesses."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260724103014.3.a6dd87406de709b7@mg-d1.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Why is gauging health risk so hard?",
+   "date": "2026-07-24T03:30-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/why-is-gauging-health-risk-so-hard",
+   "bullets": [
+    "The US faces a surge of emerging health threats—Hantavirus, measles, Ebola, etc.—exacerbated by underfunded public health, climate change, and a skeptical, media‑driven public.",
+    "Frequent, sensationalized alerts risk causing panic fatigue; if warnings repeatedly overstate danger, people will ignore future threats, worsening preventable disease outcomes and economic costs.",
+    "The author argues that individuals struggle to assess risk and scientists to convey it because of four intertwined factors: infrastructure cuts, climate impacts, low institutional trust, and click‑bait media dynamics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260724005959.3.48654cbd5305607f@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Tulsi, Trump, and the War on Fauci – Part 1: The Smear Campaign",
+   "date": "2026-07-23T17:59-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/tulsi-trump-and-the-war-on-fauci",
+   "bullets": [
+    "Tulsi Gabbard claimed declassified documents prove a U.S. Department of Defense‑run network of foreign biolabs led by Fauci caused a COVID‑19 lab leak and that Fauci lied to Congress, but the author finds no evidence of a leak or wrongdoing in the papers.",
+    "The author cites virologist Dr. Angela Rasmussen to argue the pandemic’s origin is consistent with zoonotic spillover from Wuhan’s Huanan Seafood Market, aligning with Fauci’s testimony that NIAID‑funded work did not start the outbreak.",
+    "The piece warns that the Trump administration’s smear campaign against Fauci threatens scientific integrity, public‑health preparedness, national security, and democratic norms."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260723213604.3.4f8572f1499af5df@mg2.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -2857,6 +2940,6 @@
  ],
  "counts": {
   "shown": 71,
-  "total": 207
+  "total": 213
  }
 }
