@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T09:06-07:00",
+ "updated": "2026-07-23T17:16-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -51,6 +51,33 @@
  },
  "items": [
   {
+   "id": "20260723213604.3.4f8572f1499af5df@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "‘Explosive Diarrhea’: Company Tied to Outbreak Donated to Trump as He Delayed Food Safety Rule",
+   "date": "2026-07-23T14:36-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/taylor-farms-trump-donations-explosive-diarrhea",
+   "bullets": [
+    "Taylor Farms and industry groups lobbied to defund a foodborne illness testing program that handled about 80% of U.S. public testing, weakening disease detection.",
+    "During Trump's second term, the same lobbying network pushed to delay a tracing rule that could have quickly identified cyclosporiasis sources, and the delay was codified in a funding bill after Taylor Farms donated $1 million to a pro‑Trump super PAC and another $1 million to a House Republicans' super PAC.",
+    "Legal complaints and employee testimonies describe unsanitary conditions and long hours at Taylor Farms facilities, which experts say can exacerbate the spread of foodborne illnesses like the current \"explosive diarrhea\" outbreak."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260723170135.3.3843683757b35877@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The AI Layoff Trap",
+   "date": "2026-07-23T10:01-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/the-ai-artificial-intelligence-layoff-trap",
+   "bullets": [
+    "A Trump‑era civics quiz for high‑schoolers was allegedly rigged so a Sikh Connecticut student was eliminated in favor of three white contestants, illustrating perceived bias toward Heritage and MAGA supporters.",
+    "A new Wharton paper warns that rapid AI‑driven worker replacement could trigger mass unemployment, depress consumer demand, and create a Prisoner’s Dilemma where firms that adopt AI fastest hurt the overall economy."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260723153159.3.2775e2e1d294b2c2@mg-d0.substack.com",
    "newsletter": "Will Sommer - The Bulwark",
    "pub": "thebulwark",
@@ -100,10 +127,11 @@
    "date": "2026-07-23T04:01-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/trump-is-dangerously-unwell-so-why",
    "bullets": [
-    "On this day in 2020, a federal judge [ https://substack.com/redirect/13d4c24e-62d3-4611-ba2c-3a1265521afa?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] in Portland barred President Donald Trump's federal agents from ta…",
-    "Happy Thursday, everyone. It’s Swin and Andrew here. It’s obvious our current state of affairs is unsustainable. The entire ruling party is propping up the personality cult and blundering agenda of someone who is disturbed to the point he’s…"
+    "The newsletter claims Donald Trump is mentally unfit, citing his threats to raise taxes over Canada’s fires, re‑escalate war in Iran, and pursue an unconstitutional third term, which they say endangers the global economy.",
+    "It accuses some Democrats of aiding Trump by supporting his policies and fundraising, despite his alleged dangerous actions such as spiking drug prices and threatening war crimes.",
+    "The authors reference a 2020 Portland federal judge ruling that barred Trump’s agents from targeting journalists, drawing a parallel to current authoritarian tendencies."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260723103142.3.38898e34d759f95c@mg-d0.substack.com",
@@ -2828,7 +2856,7 @@
   }
  ],
  "counts": {
-  "shown": 74,
-  "total": 205
+  "shown": 71,
+  "total": 207
  }
 }
