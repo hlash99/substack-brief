@@ -1,55 +1,148 @@
 {
- "updated": "2026-07-24T17:58-07:00",
+ "updated": "2026-07-25T08:34-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's administration has escalated the Iran war despite a recent ceasefire collapse, with US oil reserves at their lowest level since 1983",
-   "Public approval of the Iran war is at 34% and 52% of voters want it ended immediately, with 58% of Americans believing it harms US interests",
-   "Trump's decision to reignite the war has been met with criticism, including from Senator Mark Warner, who calls the conflict a 'war of choice'",
-   "The US is also facing a potential oil crisis, with the Houthis moving to block the Bab-al-Mandeb Strait and Ukraine dismantling Russian refinery capacity",
-   "Meanwhile, Trump's social media platform, Truth Social, is offering a paid service that allows subscribers to see posts before the public, effectively creating a paid insider-trading channel",
-   "The combination of these factors has led to increased tensions and concerns about the impact on the US economy and global oil supply"
+   "The US is engaged in a potentially escalating war with Iran, with former Obama Iran deal negotiator Robert Malley warning that Iranian leaders may now consider developing nuclear weapons (Mehdi Unfiltered)",
+   "President Trump's administration has removed four US soldiers from the Iran-war casualty list, sparking concerns about congressional war-powers accountability (Bill Kristol & Andrew Egger - The Bulwark)",
+   "The Democratic National Committee has re-ordered the 2028 primary calendar, giving South Carolina an outsized influence and potentially handing Kamala Harris a significant advantage (Dan Pfeiffer from The Message Box)",
+   "Elon Musk has been accused of amplifying anti-Muslim voices and promoting extremist content, despite being largely ignored by mainstream media (First Draft | Zeteo)",
+   "The US Army is facing a crisis, with Senator John McCain warning of a multibillion-dollar acquisition graveyard and a need for fresh, qualified general officers (Douglas Macgregor from Warrior Diplomacy Substack)",
+   "Trump's vanity is keeping a losing war with Iran alive, driving oil prices up and threatening a resurgence of inflation, according to Paul Krugman (Paul Krugman)"
   ],
   "by": "groq",
   "ids": [
-   "20260720164238.3.32c26a399e6f7e4d@mg-d0.substack.com",
-   "20260720215411.3.39b3adbb2becbd61@mg2.substack.com",
-   "20260720220312.3.24024353fc08453c.3a7azh6a@mg1.substack.com",
-   "20260720233629.3.02f7cab2e8de7a39@mg2.substack.com",
-   "20260721013016.3.a32948d6904b826f@mg-d1.substack.com",
-   "20260721095855.3.16cc9ce41fd848bc@mg-d1.substack.com",
-   "20260721103049.3.4071da96aa8b8f15@mg-d1.substack.com",
-   "20260721111953.3.66aa137de151ca92@mg-d0.substack.com",
-   "20260721132433.3.16018f839d785c96@mg-d1.substack.com",
-   "20260721150415.3.0e9b09af819864d3@mg2.substack.com",
-   "20260721160234.3.b1c31cadbd3b106e@mg-d0.substack.com",
-   "20260721162915.3.82aaf98548c8a286@mg-d0.substack.com",
-   "20260721185334.3.762c94c2819c4b85@mg2.substack.com",
-   "20260721200035.3.42df08b967b31dbe@mg-d1.substack.com",
-   "20260722002238.3.1e5abe0ab0623542@mg2.substack.com",
-   "20260722012308.3.621a447b4de6b3a2@mg-d0.substack.com",
-   "20260722090146.3.56819f86fbce713f@mg-d0.substack.com",
-   "20260722103122.3.a5033dc783788d44@mg2.substack.com",
-   "20260722103147.3.4b4ff2ba0335fa78@mg2.substack.com",
-   "20260722103154.3.e4b5415c069eb9eb@mg2.substack.com",
-   "20260722131609.3.1e8ac7afaefee3eb@mg-d0.substack.com",
-   "20260722133051.3.a8d8962189c61c98@mg2.substack.com",
-   "20260722150115.3.69a6bc64429a708e@mg-d1.substack.com",
    "20260722162550.3.778be2cf3d99bab3@mg2.substack.com",
    "20260723000152.3.aa028aed95c6255b@mg-d1.substack.com",
    "20260723000553.3.bb541e97ef2de5f4@mg-d0.substack.com",
    "20260723010603.3.48a48819d769de00@mg-d0.substack.com",
    "20260723101912.3.4429c9a0e818637b@mg-d1.substack.com",
    "20260723103142.3.38898e34d759f95c@mg-d0.substack.com",
+   "20260723110129.3.3426387502809e3a@mg-d0.substack.com",
    "20260723132116.3.71f66490b93510c6@mg-d1.substack.com",
    "20260723150047.3.251cd339e1ba84ee@mg2.substack.com",
-   "20260723153159.3.2775e2e1d294b2c2@mg-d0.substack.com"
+   "20260723153159.3.2775e2e1d294b2c2@mg-d0.substack.com",
+   "20260723170135.3.3843683757b35877@mg-d1.substack.com",
+   "20260723213604.3.4f8572f1499af5df@mg2.substack.com",
+   "20260724005959.3.48654cbd5305607f@mg-d1.substack.com",
+   "20260724103014.3.a6dd87406de709b7@mg-d1.substack.com",
+   "20260724103117.3.0bf006347c9e758b@mg-d0.substack.com",
+   "20260724110320.3.cf432f0185f9bb20@mg2.substack.com",
+   "20260724121522.3.7c30460a8270b7d9@mg2.substack.com",
+   "20260724133718.3.9190469f5e420f21@mg2.substack.com",
+   "20260724155801.3.1658bebf984e7dbf@mg-d1.substack.com",
+   "20260724183543.3.bf4f05ea361999c3@mg2.substack.com",
+   "20260724190152.3.77b23ea1bda14318@mg-d0.substack.com",
+   "20260724220207.3.bbb087f6287c563e@mg-d0.substack.com",
+   "20260724223647.3.84f8b54426357ffb@mg-d0.substack.com",
+   "20260725012514.3.da44a9c995e04dd7@mg-d1.substack.com",
+   "20260725113129.3.27e02404f8068b1a@mg-d0.substack.com",
+   "20260725122807.3.275a4dd371282db6@mg-d1.substack.com",
+   "20260725130219.3.cc997fc8fe177092@mg-d1.substack.com",
+   "20260725130322.3.4c7c1fe20d3e4c7b@mg2.substack.com",
+   "20260725131826.3.c49c5216c3c22450@mg-d1.substack.com"
   ],
-  "updated": "2026-07-23T09:06-07:00",
+  "updated": "2026-07-25T08:34-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260725131826.3.c49c5216c3c22450@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Amy Walter: Pennsylvania's Trump-Shapiro Voters",
+   "date": "2026-07-25T06:18-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/amy-walter-pennsylvanias-trump-shapiro",
+   "bullets": [
+    "Gov. Josh Shapiro is poised for a large win in Pennsylvania, relying on former Trump voters who, in a focus group, showed openness to his candidacy and concern over the Trump administration.",
+    "Cook Political Report’s Amy Walter discusses the focus group’s views on Shapiro, Sen. John Fetterman’s potential party switch, and the implications of current generic ballot polling for Democrats."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260725130322.3.4c7c1fe20d3e4c7b@mg2.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“My husband had wrangled the cat into his crate before the firefighters chopped their way up to our floor”",
+   "date": "2026-07-25T06:03-07:00",
+   "url": "https://post.substack.com/p/my-husband-had-wrangled-the-cat-into",
+   "bullets": [
+    "Ella Gray Hickman recounts losing her home in a fire",
+    "Filmmaker Penny Lane documents Flaco the owl's escape from Central Park Zoo",
+    "E.K. Carlisle reviews Christopher Nolan's The Odyssey, finding it similar to his past work"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260725130219.3.cc997fc8fe177092@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "‘Logical’ That Iran Might Now Want Nukes, Says Biden’s Former Envoy to Iran",
+   "date": "2026-07-25T06:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/iran-war-guerilla-warfare-robert-malley-",
+   "bullets": [
+    "Robert Malley, former Obama Iran deal negotiator and Biden’s special envoy, warns that with the 2015 deal collapsed, Iranian leaders are likely to seriously consider developing nuclear weapons.",
+    "Malley calls U.S. strikes on Iran “violating the laws of war” and argues the resulting conflict would be worse than a respected 2015 agreement.",
+    "He also criticizes the U.S.’s Middle East policy, predicts Lebanon’s peace deal with Israel will fail, and demands accountability for Biden officials involved in Gaza’s genocide."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260725122807.3.275a4dd371282db6@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Did the DNC Just Hand Kamala Harris the 2028 Nomination?",
+   "date": "2026-07-25T05:28-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/did-the-dnc-just-hand-kamala-harris",
+   "bullets": [
+    "The DNC’s Rules and Bylaws Committee has re‑ordered the 2028 primary calendar, placing South Carolina first on January 22, followed by Nevada, New Hampshire, New Mexico, Michigan, Virginia, and Super Tuesday on March 7.",
+    "The new order gives South Carolina an outsized influence, as the first state’s outcome carries disproportionate weight, effectively granting a significant advantage to Kamala Harris.",
+    "New Hampshire’s February 8 date is contingent on its governor’s approval or a fully party‑funded primary; otherwise Delaware may take that slot, but the DNC’s decision still reshapes the early primary landscape."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260725113129.3.27e02404f8068b1a@mg-d0.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Undoing the Golden Age of Corruption, Demanding Accountability",
+   "date": "2026-07-25T04:31-07:00",
+   "url": null,
+   "bullets": [
+    "Bulwark has launched a fully redesigned website with a reorganized navigation bar, improved account page, and a new Read‑to‑Me feature now available on the web.",
+    "The redesign includes updated logos and smoother user experience, with the team crediting staff for the successful overhaul and noting minor kinks remain.",
+    "The newsletter also promotes Bulwark+ subscriptions and announces a World Cup winner prize, but contains no political or economic analysis."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260725103014.3.681a624f42985e95@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Talking Again With Gabriel Zucman",
+   "date": "2026-07-25T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/talking-again-with-gabriel-zucman",
+   "bullets": [
+    "In my writing about wealth concentration and oligarchy, I steal a lot from lean heavily on the truly work of Gabriel Zucman, who is a hugely important researcher (winner of the 2023 Clark Medal [ https://substack.com/redirect/97441094-fa91-…",
+    "Paul Krugman in Conversation with Gabriel Zucman Paul Krugman:     So, hi everyone. Paul Krugman here, bringing back Gabriel Zucman [ https://substack.com/redirect/05b9599a-d551-4a54-877c-81bb886538f2?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmN…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260725012514.3.da44a9c995e04dd7@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Tulsi, Trump, and the War on Fauci – Part 2: The 'Lab Leak' Obsession",
+   "date": "2026-07-24T18:25-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/tulsi-trump-war-on-fauci-lab-leak",
+   "bullets": [
+    "Tulsi Gabbard and Senator Rand Paul released documents claiming Fauci lied about a lab‑origin for SARS‑CoV‑2, but the papers mainly show informal jokes and political banter, offering no hard evidence of a leak.",
+    "The author argues the only basis for the lab‑leak theory is the virus’s emergence in Wuhan, which also hosts a live‑animal market, and that intelligence investigations have found no concrete proof of a lab accident.",
+    "Part 2 of the series contends that disinformation about a lab leak is being used to target scientists like Fauci, undermining science and democratic norms, while the factual record points to natural origins."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260724223647.3.84f8b54426357ffb@mg-d0.substack.com",
    "newsletter": "This Week in Democracy",
@@ -58,10 +151,11 @@
    "date": "2026-07-24T15:36-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-79-gop",
    "bullets": [
-    "An illegal war more [ https://substack.com/redirect/68702a94-d389-4d96-a610-cce57c3bc085?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] and more [ https://substack.com/redirect/5b770fa8-6dde-451b-82a7-64a9320d05f1?j=eyJ…",
-    "Americans are telling Donald Trump and his cronies they don’t like their policies – yet the president and his allies are still escalating [ https://substack.com/redirect/7eb45748-720d-452b-8197-43cc05bb4169?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaitt…"
+    "The DOJ filed its first-ever application to the dormant 1996 Alien Terrorist Removal Court, a “zombie” tribunal that can deport non‑citizens labeled “alien terrorists” using secret evidence.",
+    "House Judiciary Chair Jim Jordan urged Acting AG Todd Blanche to prosecute former special counsel Jack Smith, accusing him of false statements, while Smith’s lawyers say the move weaponizes the justice system.",
+    "Federal judges approved a new Tennessee congressional map that splits the majority‑Black Memphis district, eliminating the state’s only Democratic seat and paving the way for an additional GOP seat in the midterms."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260724220207.3.bbb087f6287c563e@mg-d0.substack.com",
@@ -84,10 +178,10 @@
    "date": "2026-07-24T12:01-07:00",
    "url": null,
    "bullets": [
-    "A COUPLE OF MONTHS BACK, I highlighted [ https://substack.com/redirect/43a5ac3e-421c-4ecb-8416-9f2611cd9a55?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] the strange reaction to Christopher Nolan’s then-upcoming film, …",
-    "I was fascinated by this story because it combined so many of my different interests: social media as a vector for disinformation, as chuds insisted that Page was playing Achilles even though no one associated with the production had sugges…"
+    "Conservative Twitter outrage over casting in Christopher Nolan’s The Odyssey proved misplaced, as the film earned nearly $200 million domestically in six days, outpacing Oppenheimer and on track for $500‑$600 million US and $1.2‑$1.4 billion worldwide, easily covering its $375 million budget.",
+    "The author argues the backlash stemmed from a flawed belief that social‑media fury can sink movies—a pattern misread from the failures of Lightyear, Snow White and Supergirl, which actually flopped due to weak audience appeal, not online protests."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260724183543.3.bf4f05ea361999c3@mg2.substack.com",
@@ -3007,6 +3101,6 @@
  ],
  "counts": {
   "shown": 69,
-  "total": 218
+  "total": 225
  }
 }
