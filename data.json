@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T08:51-07:00",
+ "updated": "2026-07-24T17:58-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -50,6 +50,73 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260724223647.3.84f8b54426357ffb@mg-d0.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 79: GOP Targets Former Special Counsel Jack Smith as Trump DOJ Awakens 'Zombie' Immi…",
+   "date": "2026-07-24T15:36-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-79-gop",
+   "bullets": [
+    "An illegal war more [ https://substack.com/redirect/68702a94-d389-4d96-a610-cce57c3bc085?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] and more [ https://substack.com/redirect/5b770fa8-6dde-451b-82a7-64a9320d05f1?j=eyJ…",
+    "Americans are telling Donald Trump and his cronies they don’t like their policies – yet the president and his allies are still escalating [ https://substack.com/redirect/7eb45748-720d-452b-8197-43cc05bb4169?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaitt…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260724220207.3.bbb087f6287c563e@mg-d0.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Second Iran War?",
+   "date": "2026-07-24T15:02-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/the-second-iran-war",
+   "bullets": [
+    "The DoD removed four soldiers’ names from the Iran war casualty list, saying they died after Trump’s April cease‑fire, implying a second, legally distinct Iran war.",
+    "The newsletter teases a secret Bulwark+ podcast with JVL and Sarah covering this topic plus interviews with Tom Homan on Jan. 6 shooters, Haley Stevens’ authenticity, a Mitch McConnell conspiracy, and a discussion on raising good men."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260724190152.3.77b23ea1bda14318@mg-d0.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "‘The Odyssey’ Was Never Going to Bomb, Despite Grifter Angst",
+   "date": "2026-07-24T12:01-07:00",
+   "url": null,
+   "bullets": [
+    "A COUPLE OF MONTHS BACK, I highlighted [ https://substack.com/redirect/43a5ac3e-421c-4ecb-8416-9f2611cd9a55?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] the strange reaction to Christopher Nolan’s then-upcoming film, …",
+    "I was fascinated by this story because it combined so many of my different interests: social media as a vector for disinformation, as chuds insisted that Page was playing Achilles even though no one associated with the production had sugges…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260724183543.3.bf4f05ea361999c3@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "BREAKING: ICC Member States Dismiss Chief Prosecutor",
+   "date": "2026-07-24T11:35-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/breaking-icc-member-states-dismiss-karim-khan",
+   "bullets": [
+    "82 of 110 ICC member states voted to remove Chief Prosecutor Karim Khan after a junior lawyer alleged non‑consensual sexual contact beginning in March 2023, with a second intern accusing similar misconduct in August 2025.",
+    "The allegations surfaced as Khan prepared arrest warrants for Israeli leaders and Hamas officials, prompting an external investigation, a March panel finding insufficient evidence, and ultimately disciplinary proceedings leading to his suspension and dismissal.",
+    "Human Rights Watch and a coalition of 180+ Palestinian and international groups warned the process politicized the ICC, while the African Bar Association cautioned that political bodies lacking legal expertise could undermine the Court’s credibility."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260724155801.3.1658bebf984e7dbf@mg-d1.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Inside Trump’s Stealth Trick to Rig the Census—and Congress",
+   "date": "2026-07-24T08:58-07:00",
+   "url": null,
+   "bullets": [
+    "A late‑June filing shows the Trump administration drafted rules to recategorize millions of both unauthorized and legal immigrants as not residing in the U.S., effectively erasing them from the census count",
+    "By excluding these immigrants, the rule would shrink state populations, reshaping congressional seats, electoral‑college votes and the allocation of trillions in federal funding tied to census data",
+    "The move, driven by anti‑immigrant sentiment and a desire to shift political power, has gone largely unnoticed despite its potentially massive impact on representation and resources"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260724133718.3.9190469f5e420f21@mg2.substack.com",
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
@@ -2939,7 +3006,7 @@
   }
  ],
  "counts": {
-  "shown": 71,
-  "total": 213
+  "shown": 69,
+  "total": 218
  }
 }
