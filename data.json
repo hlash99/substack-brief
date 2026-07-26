@@ -1,21 +1,18 @@
 {
- "updated": "2026-07-25T08:34-07:00",
+ "updated": "2026-07-25T18:02-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The US is engaged in a potentially escalating war with Iran, with former Obama Iran deal negotiator Robert Malley warning that Iranian leaders may now consider developing nuclear weapons (Mehdi Unfiltered)",
-   "President Trump's administration has removed four US soldiers from the Iran-war casualty list, sparking concerns about congressional war-powers accountability (Bill Kristol & Andrew Egger - The Bulwark)",
-   "The Democratic National Committee has re-ordered the 2028 primary calendar, giving South Carolina an outsized influence and potentially handing Kamala Harris a significant advantage (Dan Pfeiffer from The Message Box)",
-   "Elon Musk has been accused of amplifying anti-Muslim voices and promoting extremist content, despite being largely ignored by mainstream media (First Draft | Zeteo)",
-   "The US Army is facing a crisis, with Senator John McCain warning of a multibillion-dollar acquisition graveyard and a need for fresh, qualified general officers (Douglas Macgregor from Warrior Diplomacy Substack)",
-   "Trump's vanity is keeping a losing war with Iran alive, driving oil prices up and threatening a resurgence of inflation, according to Paul Krugman (Paul Krugman)"
+   "The escalation of the Israel‑Palestine conflict, highlighted by UN rapporteur Francesca Albanese calling West Bank settler attacks \"pogroms\" and the ICC chief prosecutor's removal amid war‑crimes investigations, dominates coverage (Zeteo, Zeteo).",
+   "U.S. political maneuvering around the Iran war intensifies, with debates over casualty listings, funding requests, and accusations of a \"war of choice\" fueling bipartisan criticism (The Bulwark, Mehdi Unfiltered, Bill Kristol & Andrew Egger).",
+   "Democratic primary battles over Israel aid and broader foreign‑policy stances surface in Michigan, reflecting a split between progressive anti‑aid candidates and establishment supporters (The Message Box).",
+   "Wealth inequality and billionaire influence surge into the spotlight, as Krugman notes rising public concern and Elon Musk's growing political role (Paul Krugman).",
+   "Trump‑related legal and procedural actions—ranging from the alien‑terrorist removal court to attempts to rewrite census rules and the DNC's 2028 calendar favoring Kamala Harris—remain a central thread (The Bulkward, Dan Pfeiffer, Sarah Longwell).",
+   "Public health alerts grow more complex, with experts warning that over‑hyped warnings risk fatigue while emerging threats like hantavirus and measles strain underfunded systems (Your Local Epidemiologist)."
   ],
   "by": "groq",
   "ids": [
-   "20260722162550.3.778be2cf3d99bab3@mg2.substack.com",
-   "20260723000152.3.aa028aed95c6255b@mg-d1.substack.com",
-   "20260723000553.3.bb541e97ef2de5f4@mg-d0.substack.com",
    "20260723010603.3.48a48819d769de00@mg-d0.substack.com",
    "20260723101912.3.4429c9a0e818637b@mg-d1.substack.com",
    "20260723103142.3.38898e34d759f95c@mg-d0.substack.com",
@@ -37,16 +34,32 @@
    "20260724220207.3.bbb087f6287c563e@mg-d0.substack.com",
    "20260724223647.3.84f8b54426357ffb@mg-d0.substack.com",
    "20260725012514.3.da44a9c995e04dd7@mg-d1.substack.com",
+   "20260725103014.3.681a624f42985e95@mg-d0.substack.com",
    "20260725113129.3.27e02404f8068b1a@mg-d0.substack.com",
    "20260725122807.3.275a4dd371282db6@mg-d1.substack.com",
    "20260725130219.3.cc997fc8fe177092@mg-d1.substack.com",
    "20260725130322.3.4c7c1fe20d3e4c7b@mg2.substack.com",
-   "20260725131826.3.c49c5216c3c22450@mg-d1.substack.com"
+   "20260725131826.3.c49c5216c3c22450@mg-d1.substack.com",
+   "20260725170032.3.dd09780783defa66@mg-d1.substack.com"
   ],
-  "updated": "2026-07-25T08:34-07:00",
+  "updated": "2026-07-25T18:02-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260725170032.3.dd09780783defa66@mg-d1.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: Francesca Albanese Calls Escalating Israeli Attacks in West Bank 'Pogroms' After Deadly We…",
+   "date": "2026-07-25T10:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-settler-violence-west-bank-gaza",
+   "bullets": [
+    "UN special rapporteur Francesca Albanese labeled recent settler attacks in the West Bank as “pogroms” and urged an arms embargo on Israel amid four Palestinian and two Israeli soldier deaths.",
+    "Settlers carried out some of the deadliest violence this year, facing little prosecution while Israel imposed collective punishments like curfews, roadblocks and mass raids on Palestinians.",
+    "The week also saw continued Israeli strikes on Gaza, including the killing of a family of six, further violating the declared ceasefire."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260725131826.3.c49c5216c3c22450@mg-d1.substack.com",
    "newsletter": "Sarah Longwell - The Bulwark",
@@ -124,10 +137,11 @@
    "date": "2026-07-25T03:30-07:00",
    "url": "https://paulkrugman.substack.com/p/talking-again-with-gabriel-zucman",
    "bullets": [
-    "In my writing about wealth concentration and oligarchy, I steal a lot from lean heavily on the truly work of Gabriel Zucman, who is a hugely important researcher (winner of the 2023 Clark Medal [ https://substack.com/redirect/97441094-fa91-…",
-    "Paul Krugman in Conversation with Gabriel Zucman Paul Krugman:     So, hi everyone. Paul Krugman here, bringing back Gabriel Zucman [ https://substack.com/redirect/05b9599a-d551-4a54-877c-81bb886538f2?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmN…"
+    "Zucman says US household wealth has risen from about 200‑250% of GDP in 1980 to over 500% today, meaning total wealth now equals more than five years of annual production.",
+    "The top 0.1% of Americans now own roughly 7% of US wealth (up from 1% in 1980), and the 20 wealthiest families hold about 2‑2.2% of wealth, equivalent to 12‑13% of GDP.",
+    "Policy shifts since the 1980s—such as corporate tax cuts, deregulation, and the decline of rent controls—have boosted capital’s share of income, driving faster wealth growth and enabling billionaires to fund 19% of political spending in the 2024 election cycle."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260725012514.3.da44a9c995e04dd7@mg-d1.substack.com",
@@ -3101,6 +3115,6 @@
  ],
  "counts": {
   "shown": 69,
-  "total": 225
+  "total": 226
  }
 }
