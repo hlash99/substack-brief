@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T18:02-07:00",
+ "updated": "2026-07-26T08:35-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -46,6 +46,73 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260726140258.3.9831bf7247c28471@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "The GOP Is Now ‘An Extremist Movement,’ Says Ex-Republican Strategist",
+   "date": "2026-07-26T07:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-republican-party-is-an-extremist",
+   "bullets": [
+    "Former GOP strategist Stuart Stevens argues the Republican Party has become an extremist movement, driven by Trump and rooted in racial politics, rather than a traditional party.",
+    "Stevens and host John Harwood discuss why “race is the original sin of the modern Republican Party” and outline what it would take for Democrats to win the 2028 election."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260726122510.3.0a2efd7e3d2911b0@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "What the Hell Is Happening in Wisconsin?",
+   "date": "2026-07-26T05:25-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/what-the-hell-is-happening-in-wisconsin",
+   "bullets": [
+    "The Wisconsin governor’s race has turned into a chaotic “shitshow,” with the GOP poised to clinch the governorship amid internal turmoil and weak Democratic organization.",
+    "Democratic challenger Ben Wikler remains absent from the race, leaving the party scrambling for a viable candidate as primary season winds down.",
+    "Pfeiffer warns the outcome will have massive consequences for the state’s political landscape and national elections."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260726120301.3.9b3bcea8932b7cdc@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why Gretchen Whitmer’s Senate Endorsement Matters",
+   "date": "2026-07-26T05:03-07:00",
+   "url": null,
+   "bullets": [
+    "Governor Gretchen Whitmer endorsed House Democrat Haley Stevens in the Michigan Senate primary, arguing the seat is crucial for Democrats to block Medicaid cuts, tariffs and rising gas and grocery prices.",
+    "Whitmer’s endorsement leverages her statewide popularity, but its impact is uncertain as past endorsements (e.g., Detroit Free Press for Mallory McMorrow) have proved ineffective and Whitmer faces criticism over data‑center support and budget vetoes.",
+    "With over 690,000 mail/absentee ballots already cast, the race is tight, and supporters claim Stevens’ swing‑district record makes her more electable than Abdul El‑Sayed’s left‑wing platform."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260726103030.3.26988932e64b743b@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Against Oligarchy, Part II: Wealth Taxes",
+   "date": "2026-07-26T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/against-oligarchy-part-ii-wealth",
+   "bullets": [
+    "Forbes has been publishing its “rich list” of the 400 wealthiest Americans since 1982. In that first year, Forbes estimated the combined net worth of its 400 at $92 billion — not a small sum, but only 0.8 percent of total U.S. wealth and 3.…",
+    "In 2025 the Forbes 400 were worth $6.6 trillion. That was 3.7 percent of national wealth and 26 percent of national income. With great wealth comes great power. The New York Times estimated that 300 billionaires and their families made 19 p…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260726090240.3.0c53574192810bac@mg2.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Demand Push",
+   "date": "2026-07-26T02:02-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/demand-push",
+   "bullets": [
+    "Matthew Smith of Chronometer Partners predicts a US natural gas shortage starting in 2028, with working storage potentially exhausted by 2030 due to rapidly rising demand despite ample production.",
+    "The Doomberg team notes that US shale gas output has repeatedly surged past 70‑100 bcf/d, questioning whether demand can outpace this growth and suggesting Smith’s crisis may be overstated."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260725170032.3.dd09780783defa66@mg-d1.substack.com",
    "newsletter": "This Week in Palestine | Zeteo",
@@ -3114,7 +3181,7 @@
   }
  ],
  "counts": {
-  "shown": 69,
-  "total": 226
+  "shown": 70,
+  "total": 231
  }
 }
