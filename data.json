@@ -1,28 +1,17 @@
 {
- "updated": "2026-07-26T08:35-07:00",
+ "updated": "2026-07-26T18:03-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The escalation of the Israel‑Palestine conflict, highlighted by UN rapporteur Francesca Albanese calling West Bank settler attacks \"pogroms\" and the ICC chief prosecutor's removal amid war‑crimes investigations, dominates coverage (Zeteo, Zeteo).",
-   "U.S. political maneuvering around the Iran war intensifies, with debates over casualty listings, funding requests, and accusations of a \"war of choice\" fueling bipartisan criticism (The Bulwark, Mehdi Unfiltered, Bill Kristol & Andrew Egger).",
-   "Democratic primary battles over Israel aid and broader foreign‑policy stances surface in Michigan, reflecting a split between progressive anti‑aid candidates and establishment supporters (The Message Box).",
-   "Wealth inequality and billionaire influence surge into the spotlight, as Krugman notes rising public concern and Elon Musk's growing political role (Paul Krugman).",
-   "Trump‑related legal and procedural actions—ranging from the alien‑terrorist removal court to attempts to rewrite census rules and the DNC's 2028 calendar favoring Kamala Harris—remain a central thread (The Bulkward, Dan Pfeiffer, Sarah Longwell).",
-   "Public health alerts grow more complex, with experts warning that over‑hyped warnings risk fatigue while emerging threats like hantavirus and measles strain underfunded systems (Your Local Epidemiologist)."
+   "The Trump administration’s reckless Iran war is spiraling, with casualties being hidden and the conflict driving oil prices above $100 a barrel, threatening a new inflation surge (Zeteo, The Bulwark, Paul Krugman).",
+   "The Republican Party is now being described as an extremist movement, deepening internal chaos as seen in the chaotic Wisconsin governor race and the DNC’s financial woes (Zeteo, The Bulwark, Dan Pfeiffer).",
+   "Democrats are scrambling for strategic wins, from Whitmer’s Michigan Senate endorsement to Shapiro’s appeal to former Trump voters in Pennsylvania, while the DNC reshapes the 2028 primary calendar to favor Kamala Harris (The Bulwark, Dan Pfeiffer).",
+   "U.S. energy outlook is uncertain: Doomberg questions a looming natural‑gas shortage while Krugman warns the Iran war and supply constraints are pushing gasoline and diesel to historic highs (Doomberg, Paul Krugman).",
+   "Internationally, the ICC’s removal of its chief prosecutor amid misconduct allegations and UN warnings of “pogroms” in the West Bank highlight a global governance crisis (Zeteo, This Week in Democracy)."
   ],
   "by": "groq",
   "ids": [
-   "20260723010603.3.48a48819d769de00@mg-d0.substack.com",
-   "20260723101912.3.4429c9a0e818637b@mg-d1.substack.com",
-   "20260723103142.3.38898e34d759f95c@mg-d0.substack.com",
-   "20260723110129.3.3426387502809e3a@mg-d0.substack.com",
-   "20260723132116.3.71f66490b93510c6@mg-d1.substack.com",
-   "20260723150047.3.251cd339e1ba84ee@mg2.substack.com",
-   "20260723153159.3.2775e2e1d294b2c2@mg-d0.substack.com",
-   "20260723170135.3.3843683757b35877@mg-d1.substack.com",
-   "20260723213604.3.4f8572f1499af5df@mg2.substack.com",
-   "20260724005959.3.48654cbd5305607f@mg-d1.substack.com",
    "20260724103014.3.a6dd87406de709b7@mg-d1.substack.com",
    "20260724103117.3.0bf006347c9e758b@mg-d0.substack.com",
    "20260724110320.3.cf432f0185f9bb20@mg2.substack.com",
@@ -40,12 +29,46 @@
    "20260725130219.3.cc997fc8fe177092@mg-d1.substack.com",
    "20260725130322.3.4c7c1fe20d3e4c7b@mg2.substack.com",
    "20260725131826.3.c49c5216c3c22450@mg-d1.substack.com",
-   "20260725170032.3.dd09780783defa66@mg-d1.substack.com"
+   "20260725170032.3.dd09780783defa66@mg-d1.substack.com",
+   "20260726090240.3.0c53574192810bac@mg2.substack.com",
+   "20260726120301.3.9b3bcea8932b7cdc@mg2.substack.com",
+   "20260726122510.3.0a2efd7e3d2911b0@mg2.substack.com",
+   "20260726140258.3.9831bf7247c28471@mg-d1.substack.com",
+   "20260726160452.3.eb4d09af0bd03b01@mg2.substack.com",
+   "20260726211608.3.caa8af6220479854@mg-d1.substack.com"
   ],
-  "updated": "2026-07-25T18:02-07:00",
+  "updated": "2026-07-26T18:03-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260726211608.3.caa8af6220479854@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Why Trump Has ‘No F*cking Way Out’ of His Failed Iran War",
+   "date": "2026-07-26T14:16-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-iran-war-no-way-out",
+   "bullets": [
+    "A senior administration official says Trump has “no fucking way out” of the illegal Iran war he launched, which has been losing within days and risks becoming a permanent conflict.",
+    "Despite hesitating to sign a “massive attack” plan, sources believe Trump may still expand the war, and any end would likely require a humiliating capitulation to Tehran, which his ego rejects.",
+    "Top federal officials are reportedly refusing to tell Trump the war is “FUBAR,” leaving him trapped in a quagmire with few viable exit options."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260726160452.3.eb4d09af0bd03b01@mg2.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "It’s Gone from Bad to Worse to Perilous at the DNC",
+   "date": "2026-07-26T09:04-07:00",
+   "url": null,
+   "bullets": [
+    "The DNC reported $2 million in debt to the RNC, which holds over $128 million cash, highlighting a stark fundraising gap with Republicans.",
+    "Chair Ken Martin defended the DNC’s finances, claiming the party raises $8.6 million monthly and is investing in campaign infrastructure despite the debt.",
+    "At a recent meeting in the Salamander Hotel, DNC members expressed skepticism about Martin’s assurances and debated the primary calendar for 2028."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260726140258.3.9831bf7247c28471@mg-d1.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -3181,7 +3204,7 @@
   }
  ],
  "counts": {
-  "shown": 70,
-  "total": 231
+  "shown": 68,
+  "total": 233
  }
 }
