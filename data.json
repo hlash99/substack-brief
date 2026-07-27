@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T18:03-07:00",
+ "updated": "2026-07-27T09:37-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -41,6 +41,61 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260727145203.3.9aa9e31a0260d484@mg-d0.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "This Congressman Went From Republican to Independent. But How “Independent” Is He?",
+   "date": "2026-07-27T07:52-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/kevin-kiley-independent-gerrymandering",
+   "bullets": [
+    "How does a congressman go from being endorsed [ https://substack.com/redirect/923a76f3-441a-4faa-86dd-34c81ddccf8e?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] as a “MAGA champion” by President Donald Trump to then le…",
+    "“I’ve seen just how dysfunctional Congress has become because of the excessive partisanship that characterizes just everything here,” says Rep. Kevin Kiley – who recently left the Republican party to become an independent."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260727131726.3.11c7a3da9c880a3b@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Wanted to Kill. Then He Bombed.",
+   "date": "2026-07-27T06:17-07:00",
+   "url": null,
+   "bullets": [
+    "The US halted its Iran bombing campaign after Gen. Dan Caine warned of dwindling munitions, creating a pause for potential peace talks.",
+    "Trump’s rescheduled White House Correspondents Dinner turned into a rambling, joke‑less tirade that fell flat on a hostile press audience, highlighting his continued craving for elite validation.",
+    "Paramount‑Skydance’s $111 billion bid for Warner Bros. Discovery is delayed until June 1 2027 or an antitrust ruling, as regulators fear the combined firm would control over 30% of the box‑office market."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260727110801.3.5e08bb019d019ca0@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "First Draft: Wild Attack on Mamdani Shows Netanyahu Knows He’s Cornered",
+   "date": "2026-07-27T04:08-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/wild-attack-on-mamdani-shows-netanyahu",
+   "bullets": [
+    "Mayor Zohran Mamdani called Netanyahu a “war criminal” and urged federal authorities to arrest him on an ICC warrant when he visits the UN, while noting he lacks arrest power himself",
+    "After two stabbing attacks on New York’s Upper West Side, Mamdani said the assailant shouted “Allahu Akbar,” promised full prosecution, and condemned antisemitic and racist violence",
+    "Netanyahu responded on Fox with a hostile attack on Mamdani, claiming he endangers Jewish New Yorkers, highlighting his political cornered position"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260727103041.3.c157d0d3d90aed52@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Fire This Time",
+   "date": "2026-07-27T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-fire-this-time",
+   "bullets": [
+    "Massive wildfires in France, Spain, and Canada—along with a deadly European heat dome—have forced evacuations and caused record‑poor air quality, outcomes long‑predicted by a 2012 UN climate report.",
+    "Krugman argues that climate scientists are now vilified while fossil‑fuel interests and a Trump‑era administration that despises science and hard thinking block policy action, even targeting researchers like Michael Mann.",
+    "He links this anti‑intellectual stance to broader oligarchic power, noting that mega‑billionaires and officials such as Pete Hegseth prioritize short‑term tax cuts and macho rhetoric over evidence‑based solutions."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260726211608.3.caa8af6220479854@mg-d1.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -3204,7 +3259,7 @@
   }
  ],
  "counts": {
-  "shown": 68,
-  "total": 233
+  "shown": 65,
+  "total": 237
  }
 }
