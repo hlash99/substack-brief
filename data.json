@@ -1,25 +1,18 @@
 {
- "updated": "2026-07-27T17:15-07:00",
+ "updated": "2026-07-28T09:17-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s pivot to a hard‑line stance on Iran and the stalled bombing campaign is forcing a costly, potentially permanent war that could reshape U.S. foreign policy (The Bulwark, Zeteo).",
-   "The U.S. political landscape is fracturing as the GOP morphs into an extremist, Trump‑centric movement while the DNC struggles with debt and internal discord, threatening the party’s 2028 prospects (The Bulwark, Zeteo).",
-   "Young Indians are staging unprecedented protests that have forced a minister’s resignation, signaling a broader generational backlash against Modi’s corruption and authoritarianism (Zeteo).",
-   "Climate catastrophes in Europe and North America are proving the predictions of a 2012 UN report, yet fossil‑fuel interests and a Trump‑era administration continue to block decisive action (Paul Krugman).",
-   "Israel’s continued settler violence in the West Bank is being labeled as “pogroms” by UN officials, raising calls for an arms embargo amid escalating tensions (Zeteo).",
-   "The U.S. energy sector faces a looming natural gas shortage by 2030, as demand outpaces even the robust shale output, challenging the narrative of abundant energy (Doomberg)."
+   "Trump's Iran war is at a stalemate with no clear exit strategy, according to administration officials (Zeteo, The Bulwark, Paul Krugman)",
+   "The Republican Party has become an extremist movement driven by Trump and racial politics, says former GOP strategist Stuart Stevens (Zeteo, The Bulwark)",
+   "The US is facing a munitions shortfall that won't be remedied until 2029, affecting its military capabilities (Paul Krugman, The Bulwark)",
+   "Climate scientists are being vilified while fossil-fuel interests block policy action on climate change (Paul Krugman)",
+   "The DNC is facing a significant fundraising gap with Republicans, reporting $2 million in debt (The Bulwark)",
+   "The Wisconsin governor's race is in chaos with the GOP poised to clinch the governorship amid internal Democratic turmoil (The Message Box)"
   ],
   "by": "groq",
   "ids": [
-   "20260725012514.3.da44a9c995e04dd7@mg-d1.substack.com",
-   "20260725103014.3.681a624f42985e95@mg-d0.substack.com",
-   "20260725113129.3.27e02404f8068b1a@mg-d0.substack.com",
-   "20260725122807.3.275a4dd371282db6@mg-d1.substack.com",
-   "20260725130219.3.cc997fc8fe177092@mg-d1.substack.com",
-   "20260725130322.3.4c7c1fe20d3e4c7b@mg2.substack.com",
-   "20260725131826.3.c49c5216c3c22450@mg-d1.substack.com",
    "20260725170032.3.dd09780783defa66@mg-d1.substack.com",
    "20260726090240.3.0c53574192810bac@mg2.substack.com",
    "20260726120301.3.9b3bcea8932b7cdc@mg2.substack.com",
@@ -33,12 +26,85 @@
    "20260727145203.3.9aa9e31a0260d484@mg-d0.substack.com",
    "20260727170705.3.e93030bf8daa97f1@mg-d0.substack.com",
    "20260727192558.3.e8eb53acab26d4e3@mg2.substack.com",
-   "20260727234444.3.4ab4ce0c124aa2b0@mg2.substack.com"
+   "20260727234444.3.4ab4ce0c124aa2b0@mg2.substack.com",
+   "20260728000027.3.b332cbead3d69b86@mg-d0.substack.com",
+   "20260728103056.3.1b12216e2a840a9d@mg-d1.substack.com",
+   "20260728112202.3.f8ed97cd674dbd07@mg2.substack.com",
+   "20260728132040.3.b90ca11793d4df51@mg-d1.substack.com",
+   "20260728141815.3.cea43fc5d9baffd8@mg2.substack.com"
   ],
-  "updated": "2026-07-27T17:15-07:00",
+  "updated": "2026-07-28T09:17-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260728141815.3.cea43fc5d9baffd8@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Mehdi Debates GOP California Governor Nominee on Iran and Slams Musk’s Anti-Muslim Bigotry",
+   "date": "2026-07-28T07:18-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/mehdi-debates-gop-california-governor",
+   "bullets": [
+    "Mehdi Debates GOP California Governor Nominee Steve Hilton on Trump‑backed war in Iran, condemning civilian targeting as war crimes and criticizing Hilton’s silence on the conflict.",
+    "Mehdi denounces Elon Musk’s anti‑Muslim remarks, labeling Musk a bigot and accusing him of using his platform to spread anti‑Muslim propaganda while criticizing journalists for not exposing him."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260728132040.3.b90ca11793d4df51@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "It’s Hard to Believe This Is the Situation We Face",
+   "date": "2026-07-28T06:20-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s team has removed Health and Human Services Secretary Robert F. Kennedy Jr. from vaccine‑autism investigations, angering Trump who demands progress on the issue, as reported by the Wall Street Journal.",
+    "The newsletter argues that the past decade of Trumpism has eroded American political institutions, civil liberties, and international standing, citing damage to the justice system, federal government, and foreign policy.",
+    "It highlights several related pieces: a podcast on Trump’s foreign policy, an article on military degradation, a report on Laura Loomer’s Ukraine reversal, and coverage of Mitch McConnell’s Senate claim."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260728130233.3.46e8e1fb0ad4f8e9@mg-d1.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Measles record (and hot questions), foodborne illness summer, Covid-19 summer wave, and more",
+   "date": "2026-07-28T06:02-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/measles-record-and-hot-questions",
+   "bullets": [
+    "Well, folks, it sure feels like we’ve entered a new phase of health status in the U.S. It’s hard to keep track of what food is safe to eat and where. (It’s also expensive to eat, and 4 million Americans [ https://substack.com/redirect/704ee…",
+    "But there is good news: There are things we can do. From individual actions, like the first people volunteering for an Ebola vaccine clinical trial just because they care, to the effort of many public health workers to slow down the explosi…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260728112202.3.f8ed97cd674dbd07@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Why Is This Alleged Abuser Still in Congress?",
+   "date": "2026-07-28T04:22-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-is-this-alleged-abuser-still",
+   "bullets": [
+    "Republican Congressman Max Miller faces multiple abuse allegations, including throwing boiling water at his ex‑wife, threatening her father, and a daughter’s broken collarbone, yet House GOP members have taken no action.",
+    "Miller, a former Trump aide, is also being urged by the Trump administration to influence mail‑in voting rules before the midterms, despite the serious accusations.",
+    "The piece highlights broader GOP indifference, noting a 5‑4 Supreme Court that upholds the 14th Amendment and a looming racist crackdown in Springfield, Ohio."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260728103056.3.1b12216e2a840a9d@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Putinization of the American Military",
+   "date": "2026-07-28T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-putinization-of-the-american",
+   "bullets": [
+    "The Trump administration is pulling back from Iran because the U.S. has expended over half its Patriot missile stock and faces a munitions shortfall that won’t be remedied until 2029, according to the Center for Strategic and International Studies.",
+    "Krugman blames Defense Secretary Pete Hegseth’s “performative masculinity” ethos and a culture of silence that hid the ammo deficit, leading to the rapid degradation of America’s military readiness.",
+    "He argues that this self‑inflicted decline, not battlefield defeats, marks the closest the U.S. has come to a military loss in modern times, and will take years, if ever, to recover."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260728000027.3.b332cbead3d69b86@mg-d0.substack.com",
    "newsletter": "Zeteo",
@@ -47,10 +113,11 @@
    "date": "2026-07-27T17:00-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/7-things-you-should-know-about-perus",
    "bullets": [
-    "On Tuesday, Keiko Fujimori will become [ https://substack.com/redirect/ae7e5769-de0f-488d-a617-2080e5cd1221?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] Peru’s new president, bringing Fujimorismo [ https://substack.co…",
-    "After three failed presidential bids since 2011, Fujimori hopes to finally deliver her vision of a new “order [ https://substack.com/redirect/d56e07a4-1c63-45a9-9a01-b972fb3ab5f0?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztH…"
+    "Keiko Fujimori, daughter of former president Alberto Fujimori—who ruled via a 1992 self‑coup, defeated the Shining Path but was convicted in 2009 for death‑squad massacres and forced sterilizations—has been elected Peru’s president, reviving the polarising Fujimorismo legacy.",
+    "She entered politics as a teenager, becoming a congresswoman before age 20 and leading the right‑wing Popular Force party, promising a new “order” after three failed presidential bids since 2011.",
+    "Critics warn her administration may repeat past abuses, citing her family’s corruption scandals, human‑rights violations, and the risk of authoritarian governance amid Peru’s fragile democracy."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260727234444.3.4ab4ce0c124aa2b0@mg2.substack.com",
@@ -3312,7 +3379,7 @@
   }
  ],
  "counts": {
-  "shown": 65,
-  "total": 241
+  "shown": 63,
+  "total": 246
  }
 }
