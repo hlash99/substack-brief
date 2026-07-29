@@ -1,23 +1,18 @@
 {
- "updated": "2026-07-28T17:14-07:00",
+ "updated": "2026-07-29T09:00-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's Iran war is at a stalemate with no clear exit strategy, according to administration officials (Zeteo, The Bulwark, Paul Krugman)",
-   "The Republican Party has become an extremist movement driven by Trump and racial politics, says former GOP strategist Stuart Stevens (Zeteo, The Bulwark)",
-   "The US is facing a munitions shortfall that won't be remedied until 2029, affecting its military capabilities (Paul Krugman, The Bulwark)",
-   "Climate scientists are being vilified while fossil-fuel interests block policy action on climate change (Paul Krugman)",
-   "The DNC is facing a significant fundraising gap with Republicans, reporting $2 million in debt (The Bulwark)",
-   "The Wisconsin governor's race is in chaos with the GOP poised to clinch the governorship amid internal Democratic turmoil (The Message Box)"
+   "Trump's Iran war has expanded the Senate map, turning Ohio, Alaska, and Iowa into toss-up or highly competitive Senate races",
+   "Decency is increasingly seen as weakness in American culture, partly due to social media and the impunity of some politicians",
+   "The White House Correspondents' Dinner inadvertently amplified Trump's narrative, rather than rebuking it",
+   "Progressive outsiders are unseating moderates in 2026 primaries, with pro-Israel stances becoming a decisive issue in many races",
+   "Trump's team has removed Health and Human Services Secretary Robert F Kennedy Jr from vaccine-autism investigations",
+   "The US has expended over half its Patriot missile stock and faces a munitions shortfall, leading to a pullback from Iran"
   ],
   "by": "groq",
   "ids": [
-   "20260725170032.3.dd09780783defa66@mg-d1.substack.com",
-   "20260726090240.3.0c53574192810bac@mg2.substack.com",
-   "20260726120301.3.9b3bcea8932b7cdc@mg2.substack.com",
-   "20260726122510.3.0a2efd7e3d2911b0@mg2.substack.com",
-   "20260726140258.3.9831bf7247c28471@mg-d1.substack.com",
    "20260726160452.3.eb4d09af0bd03b01@mg2.substack.com",
    "20260726211608.3.caa8af6220479854@mg-d1.substack.com",
    "20260727103041.3.c157d0d3d90aed52@mg2.substack.com",
@@ -30,13 +25,131 @@
    "20260728000027.3.b332cbead3d69b86@mg-d0.substack.com",
    "20260728103056.3.1b12216e2a840a9d@mg-d1.substack.com",
    "20260728112202.3.f8ed97cd674dbd07@mg2.substack.com",
+   "20260728130233.3.46e8e1fb0ad4f8e9@mg-d1.substack.com",
    "20260728132040.3.b90ca11793d4df51@mg-d1.substack.com",
-   "20260728141815.3.cea43fc5d9baffd8@mg2.substack.com"
+   "20260728141815.3.cea43fc5d9baffd8@mg2.substack.com",
+   "20260728162945.3.911274615418214a@mg-d0.substack.com",
+   "20260728194048.3.e7705ae617db2b8b@mg2.substack.com",
+   "20260728230147.3.8061652b8e6d5240@mg2.substack.com",
+   "20260729000343.3.a588b2185a6a0d24@mg-d0.substack.com",
+   "20260729011506.3.38de4ee509577387@mg2.substack.com",
+   "20260729101114.3.065300f38f63cadb@mg-d0.substack.com",
+   "20260729110344.3.7a5bf53dc93250d0@mg2.substack.com",
+   "20260729110716.3.24e9612d6f13c508@mg-d0.substack.com",
+   "20260729133012.3.d7d2f23165368cce@mg-d1.substack.com"
   ],
-  "updated": "2026-07-28T09:17-07:00",
+  "updated": "2026-07-29T09:00-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260729150142.3.57901bac033ab3cf@mg2.substack.com",
+   "newsletter": "We're Not Kidding | Zeteo",
+   "pub": "zeteo",
+   "subject": "Meet the Comedian Who Was Raised Republican, Then Became One of Mamdani’s Earliest Supporters",
+   "date": "2026-07-29T08:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/mary-beth-barone-comedian",
+   "bullets": [
+    "This week’s ‘We’re Not Kidding’ guest thinks “hot people” have been excluded from politics for too long — and it’s time to change that. Mary Beth Barone is a New York City comedian, actor, socialist, and early supporter of Zohran Mamdani’s …",
+    "“What do you think of the Democratic Party establishment?” Mehdi asks. “I think they should retire so they can trade stocks to reckless abandon,” Mary Beth says. “Go out on your boats and live your lives in your mansions. Just get out of po…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260729133012.3.d7d2f23165368cce@mg-d1.substack.com",
+   "newsletter": "Here Be Dragons from Barbara F. Walter",
+   "pub": "barbarafwalter",
+   "subject": "When Did Decency Become Weakness?",
+   "date": "2026-07-29T06:30-07:00",
+   "url": "https://barbarafwalter.substack.com/p/when-did-decency-become-weakness",
+   "bullets": [
+    "The NYT’s “sucker or jerk” framing reflects a cultural shift where decency is seen as weakness because incentives and enforcement have eroded, turning cooperation into a prisoner's dilemma.",
+    "Social media’s three‑hour‑daily exposure to cheating and the impunity of Trump‑era politicians and oligarchs reinforce the belief that rule‑breakers are rewarded, discouraging ordinary people from acting fairly.",
+    "Restoring fair, independent institutions—courts, ethics laws, watchdogs—makes good behavior rational again, allowing a third game‑theoretic option where decent people can thrive."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729132720.3.7fd71e7e5f5e9760@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "It’s Groundhog Day in Iran",
+   "date": "2026-07-29T06:27-07:00",
+   "url": null,
+   "bullets": [
+    "Donald Trump’s legal apparatchiks at the Justice Department have insisted for months that the criminal indictment against former FBI Director James Comey—one of the personal enemies Trump most longs to see punished—goes beyond the “86 47” I…",
+    "“Rest assured that it’s not just the Instagram post that leads somebody to get indicted,” Acting Attorney General Todd Blanche said [ https://substack.com/redirect/fa24d2fc-112f-4c70-a608-8c2315034d34?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmN…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260729110716.3.24e9612d6f13c508@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "EXCLUSIVE: Dem Poll Finds Trump’s Iran War ‘Expanded the Senate Map’",
+   "date": "2026-07-29T04:07-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/exclusive-dem-poll-finds-trumps-iran",
+   "bullets": [
+    "A Senate Majority PAC poll shows Trump’s approval on gas prices fell from 46% on March 1 to 33% by July 14, with cost‑of‑living approval slipping to low 30s in battleground states like Maine (32%) and Michigan (34%).",
+    "The poll claims the Iran war has turned Ohio, Alaska and Iowa into toss‑up or highly competitive Senate races, a shift that didn’t exist a year ago.",
+    "Trump praised the late Lindsey Graham in a flamboyant eulogy while Kentucky’s governor demanded proof that Mitch McConnell is still alive."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729110344.3.7a5bf53dc93250d0@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "When the Chips Are Down",
+   "date": "2026-07-29T04:03-07:00",
+   "url": "https://paulkrugman.substack.com/p/when-the-chips-are-down",
+   "bullets": [
+    "Krugman marvels at AI’s ability to identify a blurry cat image, crediting massive repetitive arithmetic on huge data sets as the breakthrough.",
+    "He warns that huge AI capital spending is justified only if the technology yields large economic returns and first‑movers can lock in profits, which Chinese firms may undercut with cheaper, lighter models.",
+    "The Korean KOSPI, heavily tied to semiconductor output, has fallen, signaling waning AI hype but not an imminent U.S. recession."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729101114.3.065300f38f63cadb@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "The Complicated Politics of Medicare for All",
+   "date": "2026-07-29T03:11-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/the-complicated-politics-of-medicare",
+   "bullets": [
+    "A 2025 Pew poll shows 90% of Democrats favor universal health insurance, making Medicare for All the most popular Democratic policy brand, but only 29% trust the federal government to run it, a stark drop from 77% during LBJ’s Medicare rollout\",\"A Kaiser Family Foundation poll finds Medicare for All has a net favorability of +14 points (56% favor, 42% oppose), rising to +45 when framed as guaranteeing health insurance as a right, yet 70% of voters—58% of Democrats—prefer keeping their current coverage over switching to a government plan\",\"Recent joint Searchlight Institute/Zeteo polling reveals support hinges on description: automatic enrollment in a Medicare‑like plan boosts backing, while mentioning replacement of private insurance sharply reduces it, highlighting messaging challenges for advocates"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729011506.3.38de4ee509577387@mg2.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The WHCD Walked Straight Into Trump’s Trap",
+   "date": "2026-07-28T18:15-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/the-whcd-walked-straight-into-trumps",
+   "bullets": [
+    "McConnell’s recent “proof of life” photo is framed as a political comeback, but the hosts argue it masks deeper health and succession concerns within the GOP leadership.",
+    "The White House Correspondents’ Dinner revival, featuring Trump’s jab at Kaitlan Collins, is portrayed as a platform that inadvertently amplifies Trump’s narrative rather than rebuking it.",
+    "Inside the DNC, the hosts debate whether a strong national committee still matters, noting the new 2028 primary calendar proposal and the tight Michigan Senate primary race as key tests."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729000343.3.a588b2185a6a0d24@mg-d0.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How Old-School Race Animus Could Shake Up the Michigan Senate Race",
+   "date": "2026-07-28T17:03-07:00",
+   "url": null,
+   "bullets": [
+    "Doctor and former Detroit public‑health director Abdul El‑Sayed is campaigning as the Democratic Senate candidate, highlighting his work on free school eyeglasses, anti‑pollution measures, and lead‑pipe removal.",
+    "El‑Sayed faces a tight primary against four‑term House Democrat Haley Stevens ahead of the Aug. 4 Michigan Senate primary.",
+    "He held a “Knock Out the Vote” rally in Detroit’s Rouge Park, emphasizing his long‑term commitment to the city as he seeks a Senate seat."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260728230147.3.8061652b8e6d5240@mg2.substack.com",
    "newsletter": "Mehdi Unfiltered",
@@ -3418,7 +3531,7 @@
   }
  ],
  "counts": {
-  "shown": 63,
-  "total": 249
+  "shown": 62,
+  "total": 257
  }
 }
