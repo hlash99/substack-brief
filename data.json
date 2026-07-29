@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T09:17-07:00",
+ "updated": "2026-07-28T17:14-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -38,6 +38,46 @@
  },
  "items": [
   {
+   "id": "20260728230147.3.8061652b8e6d5240@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Are AIPAC and Haley Stevens... Working Together?",
+   "date": "2026-07-28T16:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/aipac-haley-stevens-redboxing",
+   "bullets": [
+    "AIPAC’s United Democracy Project is spending about $30 million to back pro‑Israel Senate candidate Haley Stevens in Michigan’s Democratic primary, the most ever spent on a single race.",
+    "The super‑PAC is running ads mirroring Stevens’s messaging, which Mehdi argues may violate coordination bans through a tactic called ‘redboxing.’",
+    "Mehdi’s four‑minute video breaks down the receipts and explains how AIPAC and Stevens could be skirting campaign‑finance rules."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260728194048.3.e7705ae617db2b8b@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Meet All the New Progressives and Democratic Socialists Heading to Congress",
+   "date": "2026-07-28T12:40-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/progressives-leftists-heading-to-congress",
+   "bullets": [
+    "Progressive outsiders backed by the Democratic Socialists of America, Justice Democrats, and labor groups have unseated moderates in 2026 primaries, with pro‑Israel stances becoming a decisive issue in many races",
+    "A slate of guaranteed newcomers—including Adam Hamawy in New Jersey and other left‑leaning candidates in safe Democratic districts—are set to join Congress this fall, expanding the progressive coalition in Washington"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260728162945.3.911274615418214a@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How Trump Could Declare ‘Bankruptcy’ on Iran",
+   "date": "2026-07-28T09:29-07:00",
+   "url": null,
+   "bullets": [
+    "Nick Catoggio argues Trump’s “bankruptcy” on Iran—walking away from the conflict—would only work if Iran agreed to revert oil flows to pre‑war levels, which they refuse.",
+    "The author questions whether Trump can truly abdicate America’s stance on Iran, suggesting the only realistic option is to accept the loss and move on."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260728141815.3.cea43fc5d9baffd8@mg2.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
@@ -72,10 +112,9 @@
    "date": "2026-07-28T06:02-07:00",
    "url": "https://yourlocalepidemiologist.substack.com/p/measles-record-and-hot-questions",
    "bullets": [
-    "Well, folks, it sure feels like we’ve entered a new phase of health status in the U.S. It’s hard to keep track of what food is safe to eat and where. (It’s also expensive to eat, and 4 million Americans [ https://substack.com/redirect/704ee…",
-    "But there is good news: There are things we can do. From individual actions, like the first people volunteering for an Ebola vaccine clinical trial just because they care, to the effort of many public health workers to slow down the explosi…"
+    "COVID‑19 is entering a summer wave despite low absolute numbers, especially in the West, while an FDA‑recommended 2026‑27 vaccine formulation may be available by mid‑August, so adults over 65 should get the current booster now"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260728112202.3.f8ed97cd674dbd07@mg2.substack.com",
@@ -3380,6 +3419,6 @@
  ],
  "counts": {
   "shown": 63,
-  "total": 246
+  "total": 249
  }
 }
