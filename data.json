@@ -1,24 +1,18 @@
 {
- "updated": "2026-07-29T17:16-07:00",
+ "updated": "2026-07-30T09:02-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's Iran war has expanded the Senate map, turning Ohio, Alaska, and Iowa into toss-up or highly competitive Senate races",
-   "Decency is increasingly seen as weakness in American culture, partly due to social media and the impunity of some politicians",
-   "The White House Correspondents' Dinner inadvertently amplified Trump's narrative, rather than rebuking it",
-   "Progressive outsiders are unseating moderates in 2026 primaries, with pro-Israel stances becoming a decisive issue in many races",
-   "Trump's team has removed Health and Human Services Secretary Robert F Kennedy Jr from vaccine-autism investigations",
-   "The US has expended over half its Patriot missile stock and faces a munitions shortfall, leading to a pullback from Iran"
+   "The Iran war has escalated with missile strikes on US bases in Jordan and Saudi Arabia joining the conflict, straining the US economy and threatening global stability (The Bulwark, Zeteo)",
+   "The Trump administration's handling of the Iran war has been widely criticized, with some arguing that it has weakened the US position and emboldened Iran (Paul Krugman, Zeteo)",
+   "The US economy is slowing down, with GDP growth falling to 1.5% in Q2, and the Iran war is expected to have a significant impact on the economy (The Bulwark)",
+   "Right-wing media and politicians are increasingly using provocative and divisive rhetoric, including collaborations with OnlyFans models and anti-Muslim hate speech (The Bulwark, Zeteo)",
+   "The Democratic Party is facing internal conflicts, including a potential shake-up in the DNC leadership and debates over policies like Medicare for All (The Message Box, The Bulwark)",
+   "The 2026 elections are expected to be highly competitive, with progressive candidates gaining momentum and the Iran war potentially becoming a major campaign issue (Zeteo, The Bulwark)"
   ],
   "by": "groq",
   "ids": [
-   "20260726160452.3.eb4d09af0bd03b01@mg2.substack.com",
-   "20260726211608.3.caa8af6220479854@mg-d1.substack.com",
-   "20260727103041.3.c157d0d3d90aed52@mg2.substack.com",
-   "20260727110801.3.5e08bb019d019ca0@mg-d0.substack.com",
-   "20260727131726.3.11c7a3da9c880a3b@mg2.substack.com",
-   "20260727145203.3.9aa9e31a0260d484@mg-d0.substack.com",
    "20260727170705.3.e93030bf8daa97f1@mg-d0.substack.com",
    "20260727192558.3.e8eb53acab26d4e3@mg2.substack.com",
    "20260727234444.3.4ab4ce0c124aa2b0@mg2.substack.com",
@@ -36,12 +30,106 @@
    "20260729101114.3.065300f38f63cadb@mg-d0.substack.com",
    "20260729110344.3.7a5bf53dc93250d0@mg2.substack.com",
    "20260729110716.3.24e9612d6f13c508@mg-d0.substack.com",
-   "20260729133012.3.d7d2f23165368cce@mg-d1.substack.com"
+   "20260729132720.3.7fd71e7e5f5e9760@mg2.substack.com",
+   "20260729133012.3.d7d2f23165368cce@mg-d1.substack.com",
+   "20260729150142.3.57901bac033ab3cf@mg2.substack.com",
+   "20260729203840.3.35f2156926b85bd0@mg-d0.substack.com",
+   "20260729213431.3.0ddd84107a1f16ed@mg-d0.substack.com",
+   "20260729220337.3.4d81535f63340cba@mg2.substack.com",
+   "20260729234725.3.71216ab4bab7e3e1@mg2.substack.com",
+   "20260730010037.3.213f0bde4099e377@mg-d1.substack.com",
+   "20260730103026.3.7640430c3a864323@mg-d0.substack.com",
+   "20260730103042.3.39a5108d09e69038@mg-d0.substack.com",
+   "20260730105657.3.7934f602e857b528@mg-d0.substack.com",
+   "20260730133544.3.85ed7b02214c1db8@mg-d1.substack.com",
+   "20260730143904.3.9ee6cb944a4b73fb@mg2.substack.com"
   ],
-  "updated": "2026-07-29T09:00-07:00",
+  "updated": "2026-07-30T09:02-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260730143904.3.9ee6cb944a4b73fb@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Right-Wing Media and OnlyFans Are in a Symbiotic Relationship",
+   "date": "2026-07-30T07:39-07:00",
+   "url": null,
+   "bullets": [
+    "Savanna Cannon, a new MAGA influencer with 285k political Instagram followers, uses provocative yoga‑pants poses and OnlyFans content to target straight‑male audiences, boosting her political reach and subscriber funnel.",
+    "OnlyFans models and right‑wing commentators increasingly collaborate—podcasts like Fresh and Fit and Whatever feature OnlyFans stars to draw “simps,” while politicians like James Fishback use the platform to gain media exposure.",
+    "The trend fuels a symbiotic cycle: conservative media gains sexualized attention, OnlyFans creators tap into political audiences, and figures such as Nick Fuentes and Sophie Rain benefit from cross‑platform visibility."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730133544.3.85ed7b02214c1db8@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Civil Disobedience Is Coming to Springfield",
+   "date": "2026-07-30T06:35-07:00",
+   "url": null,
+   "bullets": [
+    "Commerce Department data shows U.S. GDP growth slowed to 1.5% in Q2 as the Iran war strains the economy, while Saudi Arabia joined the strike and Iran launched missile and drone attacks on Jordan, Kuwait, and Egypt, keeping the Strait of Hormuz largely closed and Red Sea shipping threatened by Houthi attacks.",
+    "In Springfield, Ohio, Haitian immigrants face TPS expiration, leading to job loss, lack of unemployment benefits, and emotional distress; local churches and nonprofits are mobilizing to provide food, rent, and legal support, while pastors call for peaceful civil disobedience and urge Republican senators to support TPS extension."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730105657.3.7934f602e857b528@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "📺 Trump Advisers Trash Fox for Nearly Convincing Him to Blow Up the World",
+   "date": "2026-07-30T03:56-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-advisers-trash-fox-for-nearly",
+   "bullets": [
+    "Trump advisers repeatedly called Fox News “retards,” blaming the network’s pro‑war propaganda for pushing Trump toward an escalatory “finish the job” Iran conflict that threatens global catastrophe and could hurt Republicans in the midterms.",
+    "The piece notes that the Trump administration is ending key Medicare subsidies, affecting millions of seniors, while also highlighting Anthony Fauci’s refusal to answer over 100 questions from Republican senators."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730103042.3.39a5108d09e69038@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Six Years Later, This Only Works Because of You",
+   "date": "2026-07-30T03:30-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/six-years-later-this-only-works-because",
+   "bullets": [
+    "Dan Pfeiffer celebrates six years of The Message Box, now serving nearly 170,000 readers and launching Message Box Pro for political operatives.",
+    "He promises data‑driven, contextual coverage of the upcoming midterms, highlighting truly winnable races and resource needs.",
+    "He urges free readers to upgrade with a 20% discount, funding continued coverage through the 2028 Democratic primary."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730103026.3.7640430c3a864323@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Reality is a Communist Plot",
+   "date": "2026-07-30T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/reality-is-a-communist-plot",
+   "bullets": [
+    "Krugman argues that MAGA supporters deny objective facts, embracing conspiracy claims about Covid vaccines, hydroxychloroquine, climate change, and election outcomes, reflecting a totalitarian mindset akin to Orwell’s description.",
+    "He links this reality‑denial to concrete harms: 1.2 million Covid deaths, rising measles cases, and a weakened U.S. position in the Iran war, while also warning that climate denial will increase pollution and economic decline.",
+    "Krugman frames the “war on reality” as a Communist‑labelled attack, suggesting that the GOP’s embrace of misinformation stems from big‑money corruption, crony capitalism, and extremist ideologies."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730010037.3.213f0bde4099e377@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Why Did Iran Launch a Surprise Attack on U.S. Bases in Jordan?",
+   "date": "2026-07-29T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-iran-surprise-attack-us-bases-trump",
+   "bullets": [
+    "Iran’s surprise missile strike on U.S. bases in Jordan coincided with Zelensky’s and Netanyahu’s Washington visits, deliberately forcing U.S. officials to view it as a major escalation.",
+    "The author argues that common explanations—hard‑liners, diplomatic sabotage, probing Trump’s resolve, or retaliation for U.S.-Saudi actions—only capture fragments of Tehran’s broader strategic calculus.",
+    "Zeteo suggests the attack reflects a calculated move by Iran to reshape regional power dynamics and signal its willingness to confront U.S. influence, beyond the usual partisan narratives."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260729234725.3.71216ab4bab7e3e1@mg2.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
@@ -3587,7 +3675,7 @@
   }
  ],
  "counts": {
-  "shown": 63,
-  "total": 261
+  "shown": 62,
+  "total": 267
  }
 }
