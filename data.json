@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T09:00-07:00",
+ "updated": "2026-07-29T17:16-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -43,6 +43,59 @@
  },
  "items": [
   {
+   "id": "20260729234725.3.71216ab4bab7e3e1@mg2.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "EXCLUSIVE: Ken Martin Open to Bringing on Big Name to Help at DNC",
+   "date": "2026-07-29T16:47-07:00",
+   "url": null,
+   "bullets": [
+    "Ken Martin, DNC chair, is reportedly open to hiring a high‑profile co‑chair to tackle fundraising woes and media duties, with names like Rahm Emanuel, Donna Brazile, and Pete Buttigieg floated, though Emanuel is unlikely to step down from a presidential run.",
+    "Martin’s tenure has been marred by a $2 million debt, low staff morale, and a lack of donor outreach; operatives note his reluctance to accept help, citing his ego and failure to engage key donors such as Shannon Watts.",
+    "The DNC’s future hinges on the upcoming summer meeting in Austin, where a majority vote could oust Martin or he might resign, while state party chairs’ loyalty—bolstered by recent funding—has kept pressure low until the midterms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729220337.3.4d81535f63340cba@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Mamdani Derangement Syndrome: Murdoch Media Lets Its Islamophobic Flag Fly",
+   "date": "2026-07-29T15:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/mamdani-derangement-syndrome-murdoch",
+   "bullets": [
+    "Murdoch‑owned outlets have intensified attacks on New York mayoral candidate Zohran Mamdani, labeling him an antisemitic, communist threat and calling for his denaturalization and deportation.",
+    "The coverage includes repeated Islamophobic rhetoric, portraying Mamdani as a danger to the city and featuring anti‑Muslim hate on front pages and cable news screens."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729213431.3.0ddd84107a1f16ed@mg-d0.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "JVL and Robert Kagan: Marco and Miller Go Full Fascist",
+   "date": "2026-07-29T14:34-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/jonathan-v-last-and-robert-kagan",
+   "bullets": [
+    "The preview podcast features JVL and Robert Kagan critiquing Marco Rubio and Stephen Miller’s use of Nazi‑style dehumanizing rhetoric against the left, warning it targets Democrats broadly, including protestors of Trump’s election‑stealing claims."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729203840.3.35f2156926b85bd0@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "It's time to leave the man alone.",
+   "date": "2026-07-29T13:38-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/its-time-to-leave-the-man-alone",
+   "bullets": [
+    "The author recounts personal harassment tied to the WHO logo and argues that Dr. Fauci has unfairly become the scapegoat for pandemic missteps, despite his limited policy role.",
+    "While acknowledging Fauci’s communication failures and lack of admission of mistakes, the piece calls for a 9/11‑style commission to investigate systemic pandemic errors rather than pursuing vitriolic attacks.",
+    "The central plea is to stop targeting Fauci and redirect public anger into constructive reforms of public‑health systems and decision‑making processes."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260729150142.3.57901bac033ab3cf@mg2.substack.com",
    "newsletter": "We're Not Kidding | Zeteo",
    "pub": "zeteo",
@@ -50,10 +103,11 @@
    "date": "2026-07-29T08:01-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/mary-beth-barone-comedian",
    "bullets": [
-    "This week’s ‘We’re Not Kidding’ guest thinks “hot people” have been excluded from politics for too long — and it’s time to change that. Mary Beth Barone is a New York City comedian, actor, socialist, and early supporter of Zohran Mamdani’s …",
-    "“What do you think of the Democratic Party establishment?” Mehdi asks. “I think they should retire so they can trade stocks to reckless abandon,” Mary Beth says. “Go out on your boats and live your lives in your mansions. Just get out of po…"
+    "Mary Beth Barone, a NYC comedian and socialist who grew up Republican, supports Zohran Mamdani’s mayoral run and critiques Democratic establishment as self‑serving elites who should retire from politics.",
+    "She uses her ‘Politics for Hot People’ series and new Netflix special ‘Galaxy Brain’ to push progressive policies, mock figures like Eric Adams, billionaires, and even Gwyneth Paltrow’s Israel ad.",
+    "The episode also covers NYC’s socialist surge, why Kamala Harris lost to Trump, and debates whether a future president could sport a red lip, with a 5‑minute preview free and full 35‑minute show for paid subscribers."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260729133012.3.d7d2f23165368cce@mg-d1.substack.com",
@@ -77,10 +131,11 @@
    "date": "2026-07-29T06:27-07:00",
    "url": null,
    "bullets": [
-    "Donald Trump’s legal apparatchiks at the Justice Department have insisted for months that the criminal indictment against former FBI Director James Comey—one of the personal enemies Trump most longs to see punished—goes beyond the “86 47” I…",
-    "“Rest assured that it’s not just the Instagram post that leads somebody to get indicted,” Acting Attorney General Todd Blanche said [ https://substack.com/redirect/fa24d2fc-112f-4c70-a608-8c2315034d34?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmN…"
+    "Acting Attorney General Todd Blanche insisted the Comey indictment rests on more than a threatening Instagram post, citing a secret FBI/Secret Service investigation that recent court filings reveal was a futile hunt for mob‑related testimony.",
+    "The New York Times data‑viz shows Trump’s Iran war flipping between bombing threats and ceasefires from March to July, culminating in renewed missile strikes after Iran hit a U.S. base, highlighting the cumulative toll on oil reserves, missile stockpiles, and U.S. credibility.",
+    "In Pennsylvania, GOP treasurer Stacy Garrity, backed by Trump despite his public snubs, faces a steep uphill battle against incumbent Gov. Josh Shapiro, with recent polls indicating a likely electoral defeat for the Trump‑endorsed candidate."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260729110716.3.24e9612d6f13c508@mg-d0.substack.com",
@@ -445,10 +500,11 @@
    "date": "2026-07-26T03:30-07:00",
    "url": "https://paulkrugman.substack.com/p/against-oligarchy-part-ii-wealth",
    "bullets": [
-    "Forbes has been publishing its “rich list” of the 400 wealthiest Americans since 1982. In that first year, Forbes estimated the combined net worth of its 400 at $92 billion — not a small sum, but only 0.8 percent of total U.S. wealth and 3.…",
-    "In 2025 the Forbes 400 were worth $6.6 trillion. That was 3.7 percent of national wealth and 26 percent of national income. With great wealth comes great power. The New York Times estimated that 300 billionaires and their families made 19 p…"
+    "Forbes’ 400 richest Americans grew from $92 billion (0.8% of U.S. wealth) in 1982 to $6.6 trillion (3.7% of wealth, 26% of income) by 2025, illustrating massive wealth concentration.",
+    "The New York Times found billionaires and families contributed 19% of political money in the 2024 election, while owners like Elon Musk, Larry Ellison and Jeff Bezos have shifted major media outlets rightward, amplifying oligarchic power.",
+    "Krugman argues that restoring highly progressive taxation, especially a modern wealth tax, is needed to curb this inequality, noting past tax cuts in the 1970s revived extreme wealth and that critiques of wealth taxes will be addressed later."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260726090240.3.0c53574192810bac@mg2.substack.com",
@@ -3531,7 +3587,7 @@
   }
  ],
  "counts": {
-  "shown": 62,
-  "total": 257
+  "shown": 63,
+  "total": 261
  }
 }
