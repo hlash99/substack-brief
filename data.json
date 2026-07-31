@@ -1,23 +1,18 @@
 {
- "updated": "2026-07-30T18:00-07:00",
+ "updated": "2026-07-31T09:15-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The Georgia Senate race is being framed as the most expensive and decisive contest of the year, with Ossoff warning that a MAGA win would unleash pro‑war, pro‑tariff, and health‑care cuts that could reshape national policy (Jon Ossoff, The Bulwark).",
-   "Republican senators are using a COVID hearing to spread false claims that vaccines are experimental gene therapy and lethal, while data shows only a handful of deaths and no evidence of vaccine harm (The Bulwark).",
-   "The Trump administration’s “Resurgence of Political Terrorism” conference and its rhetoric from Rubio and Miller echo Nazi‑style language, even as it condemns left‑wing violence, highlighting a dangerous double standard (The Bulwark).",
-   "An Ebola outbreak in eastern Congo has spiraled due to U.S. cuts to USAID’s surveillance team, with Musk and Trump blamed for leaving the region ill‑prepared and the WHO warning that actual cases could be four times higher (Zeteo).",
-   "Iran’s surprise missile strikes on U.S. bases in Jordan and the escalating war have turned several Senate races into toss‑ups, with Democrats citing the conflict as a key factor in shifting voter sentiment (Zeteo, The Bulwark).",
-   "The DNC’s fundraising woes and internal debt are prompting calls for high‑profile co‑chairs, while the party’s reliance on mega‑PACs and controversial messaging raises questions about its ability to compete in a climate of heightened political polarization (The Bulwark)."
+   "Trump's Iran war has expanded the Senate map, turning Ohio, Alaska, and Iowa into toss-up or highly competitive Senate races",
+   "The MAGA movement is marked by systemic misogyny, with Trump's allies promoting hyper-masculine rhetoric and targeting women and people of color",
+   "The Fed's commitment to fighting inflation is being questioned, with Treasury yields spiking and the dollar falling amid doubts about Chair Warsh's resolve",
+   "A new poll shows swing district voters prefer outsider candidates who promise major policy shifts, with 80% feeling elected officials favor wealthy donors over ordinary people",
+   "The Iran war has led to a surge in Ebola cases in eastern Congo, with over 3,200 reported cases and 1,400 deaths, and the WHO estimating actual numbers could be two-to-four times higher",
+   "The DNC is considering hiring a high-profile co-chair to tackle fundraising woes and media duties, with names like Rahm Emanuel and Pete Buttigieg floated"
   ],
   "by": "groq",
   "ids": [
-   "20260728103056.3.1b12216e2a840a9d@mg-d1.substack.com",
-   "20260728112202.3.f8ed97cd674dbd07@mg2.substack.com",
-   "20260728130233.3.46e8e1fb0ad4f8e9@mg-d1.substack.com",
-   "20260728132040.3.b90ca11793d4df51@mg-d1.substack.com",
-   "20260728141815.3.cea43fc5d9baffd8@mg2.substack.com",
    "20260728162945.3.911274615418214a@mg-d0.substack.com",
    "20260728194048.3.e7705ae617db2b8b@mg2.substack.com",
    "20260728230147.3.8061652b8e6d5240@mg2.substack.com",
@@ -42,12 +37,129 @@
    "20260730162727.3.188fea566dda52ef@mg-d0.substack.com",
    "20260730163343.3.b25a2a86f4e92ba7@mg2.substack.com",
    "20260730201224.3.025a2df4b1259df8@mg2.substack.com",
-   "20260730220658.3.1cade1adf74a6dc3@mg2.substack.com"
+   "20260730220658.3.1cade1adf74a6dc3@mg2.substack.com",
+   "20260731003149.3.59a31a93a9ba652c@mg-d0.substack.com",
+   "20260731010137.3.35799c6baf7f4d35@mg-d1.substack.com",
+   "20260731090128.3.bb88e9b48fc612c1@mg-d1.substack.com",
+   "20260731103024.3.575609973d74f7e5@mg-d1.substack.com",
+   "20260731103044.3.0812416b1cfe0e5c@mg-d1.substack.com",
+   "20260731105644.3.072fbcd004426e52@mg2.substack.com",
+   "20260731110103.3.76f00dea02aa955d@mg-d1.substack.com",
+   "20260731111450.3.3d687c6783a16838@mg2.substack.com",
+   "20260731132738.3.4b8fd25463f8e589@mg-d0.substack.com"
   ],
-  "updated": "2026-07-30T18:00-07:00",
+  "updated": "2026-07-31T09:15-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260731132738.3.4b8fd25463f8e589@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A Portrait of MAGA Psychodrama",
+   "date": "2026-07-31T06:27-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s White House is still a fundraising machine, with nightly calls to fundraiser Meredith O’Rourke to track donor cuts and inflows for his library, ballroom, and PACs, while his political agenda stalls and his popularity drops.",
+    "Fauci’s diary shows he treated pregnant aide Katie Miller with personal concern—calling her daily, calming her during anxiety, and contacting her baby’s doctors—yet Miller now claims he weaponized her pregnancy to aggrandize himself, a claim she defends on X.",
+    "Todd Blanche’s confirmation as Attorney General is stalled by Republican senators John Cornyn and Thom Tillis over concerns about his role in the Epstein cover‑up and a deal granting Trump’s family IRS immunity, highlighting a temporary setback for Trump’s DOJ agenda."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731111450.3.3d687c6783a16838@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "EXCLUSIVE: New Poll Shows Swing District Voters Prefer 'Outsiders' to Boring Centrists",
+   "date": "2026-07-31T04:14-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/exclusive-new-poll-shows-swing-district",
+   "bullets": [
+    "A new Working Families Party poll of 18 swing U.S. House districts shows 80% of voters feel elected officials favor wealthy donors over ordinary people, and they prefer outsider candidates who promise major policy shifts.",
+    "The survey, shared exclusively with Zeteo, found that independent and moderate voters are not seeking typical “moderate” candidates and are largely indifferent to labels of being too far left.",
+    "In the 2024 sample, 48% of respondents in these districts voted for Donald Trump over Kamala Harris, indicating a strong preference for outsider candidates over establishment figures."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731110103.3.76f00dea02aa955d@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Showed Up to the Trial and Lost $83 Million",
+   "date": "2026-07-31T04:01-07:00",
+   "url": null,
+   "bullets": [
+    "James Comey challenges the “8647” prosecution, while Donald Trump seeks to overturn E. Jean Carroll’s $83 million defamation judgment via a Supreme Court bid.",
+    "The administration pushes new mail‑in voting restrictions, withdraws subpoenas targeting New York Times reporters, and delays the Paramount‑Warner Bros merger."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731105644.3.072fbcd004426e52@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Come Hang Out at Crooked Con Nov 5-7",
+   "date": "2026-07-31T03:56-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/come-hang-out-at-crooked-con-nov",
+   "bullets": [
+    "Crooked Con returns Nov. 5‑7 in Washington, DC, with 2,500 attendees last year, featuring Barack Obama, Pod Save America live taping, Senator Chris Murphy interview, and a polling panel.",
+    "The event offers main‑stage talks, strategy panels, grassroots networking, and parties, targeting political workers and activists to connect with progressive creators and new‑media personalities.",
+    "Tickets are on sale at crookedcon.com; Friends of the Pod subscribers can still secure discounted seats before they sell out."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731103024.3.575609973d74f7e5@mg-d1.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Does public health *need* MAHA?",
+   "date": "2026-07-31T03:30-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/does-public-health-need-maha",
+   "bullets": [
+    "About 40% of Americans back the MAHA movement, but only 4% cite vaccines or medical choice as their motivation, showing a broader frustration with health system failures.",
+    "MAHA excels at amplifying system‑failure narratives, using modern storytelling, podcasts and rallies to mobilize diverse supporters, something public‑health institutions have struggled to match.",
+    "The newsletter warns that MAHA’s leadership, especially RFK Jr., undermines science—promoting anti‑vaccine agendas and superficial food reforms—so public health must offer evidence‑based, empathetic alternatives focused on cost, communication and savvy politics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731103044.3.0812416b1cfe0e5c@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Bond Market Doesn’t Like Bullshit",
+   "date": "2026-07-31T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-bond-market-doesnt-like-bullshit",
+   "bullets": [
+    "The Fed’s June 2024 FOMC meeting left rates unchanged amid 3.7% inflation, but Treasury yields spiked and the dollar fell as traders doubted Chair Kevin Warsh’s commitment to fighting inflation, citing his evasive press‑conference remarks and three dissenting votes—an unprecedented level of opposition since 1970.",
+    "Warsh’s performance, criticized as a “bullshitter” and politically driven, eroded market confidence; bond traders now expect the Fed will keep rates too low for too long, forcing higher future hikes to curb inflation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731090128.3.bb88e9b48fc612c1@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Geopolitical Checkers",
+   "date": "2026-07-31T02:01-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/geopolitical-checkers",
+   "bullets": [
+    "EU added 14 Chinese firms to its Russia sanctions, prompting Beijing to instantly blacklist the same 14 EU defense and tech companies, citing its Export Control and Anti‑Foreign Sanctions laws.",
+    "China’s rapid retaliation signals a broader strategy: any EU firm in dual‑use or defense sectors can face reciprocal bans, warning that similar counter‑measures could spread to critical energy commodities."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731010137.3.35799c6baf7f4d35@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "The Ugly Misogyny of Trump's Movement",
+   "date": "2026-07-30T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-ugly-misogyny-of-trumps-movement",
+   "bullets": [
+    "Pete Hegseth announced a testosterone‑screening program for troops, echoing the hyper‑masculine caricature of Defense Secretary Lloyd Austin mocked by SNL’s Colin Jost.",
+    "The New York Times reported Hegseth blocked promotions for five senior Navy officers—women and people of color—including the first woman to command a nuclear aircraft carrier, illustrating systemic misogyny in the MAGA movement."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260731003149.3.59a31a93a9ba652c@mg-d0.substack.com",
    "newsletter": "Catherine Rampell - The Bulwark",
@@ -56,10 +168,11 @@
    "date": "2026-07-30T17:31-07:00",
    "url": null,
    "bullets": [
-    "STOP ME IF YOU’VE HEARD THIS ONE BEFORE: Republicans are on the verge of finally fixing our out-of-control budget deficits. But first they need to get just one more unfunded spending binge out of their system—and then (they swear) they’ll g…",
-    "This is the story we’ve been hearing from supposed fiscal hawks in the GOP about why they have repeatedly voted to jam costly budget bills through the fast-track process known as “reconciliation.” Once a rarely used procedural tactic, recon…"
+    "Republicans have used reconciliation four times this Congress—record‑high—to pass budget bills without spending cuts, despite fiscal hawks’ promises of future offsets.",
+    "Reconciliation 3.0 added $70 billion for deportations and still lacks deficit reductions; leadership now promises a fourth reconciliation to finally cut spending.",
+    "Federal debt now exceeds 100% of GDP and 30‑year Treasury yields are at two‑decade highs, underscoring the fiscal stakes of these unchecked reconciliation bills."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260730220658.3.1cade1adf74a6dc3@mg2.substack.com",
@@ -3743,7 +3856,7 @@
   }
  ],
  "counts": {
-  "shown": 64,
-  "total": 272
+  "shown": 66,
+  "total": 280
  }
 }
