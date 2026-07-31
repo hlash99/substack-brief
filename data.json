@@ -1,22 +1,18 @@
 {
- "updated": "2026-07-30T09:02-07:00",
+ "updated": "2026-07-30T18:00-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The Iran war has escalated with missile strikes on US bases in Jordan and Saudi Arabia joining the conflict, straining the US economy and threatening global stability (The Bulwark, Zeteo)",
-   "The Trump administration's handling of the Iran war has been widely criticized, with some arguing that it has weakened the US position and emboldened Iran (Paul Krugman, Zeteo)",
-   "The US economy is slowing down, with GDP growth falling to 1.5% in Q2, and the Iran war is expected to have a significant impact on the economy (The Bulwark)",
-   "Right-wing media and politicians are increasingly using provocative and divisive rhetoric, including collaborations with OnlyFans models and anti-Muslim hate speech (The Bulwark, Zeteo)",
-   "The Democratic Party is facing internal conflicts, including a potential shake-up in the DNC leadership and debates over policies like Medicare for All (The Message Box, The Bulwark)",
-   "The 2026 elections are expected to be highly competitive, with progressive candidates gaining momentum and the Iran war potentially becoming a major campaign issue (Zeteo, The Bulwark)"
+   "The Georgia Senate race is being framed as the most expensive and decisive contest of the year, with Ossoff warning that a MAGA win would unleash pro‑war, pro‑tariff, and health‑care cuts that could reshape national policy (Jon Ossoff, The Bulwark).",
+   "Republican senators are using a COVID hearing to spread false claims that vaccines are experimental gene therapy and lethal, while data shows only a handful of deaths and no evidence of vaccine harm (The Bulwark).",
+   "The Trump administration’s “Resurgence of Political Terrorism” conference and its rhetoric from Rubio and Miller echo Nazi‑style language, even as it condemns left‑wing violence, highlighting a dangerous double standard (The Bulwark).",
+   "An Ebola outbreak in eastern Congo has spiraled due to U.S. cuts to USAID’s surveillance team, with Musk and Trump blamed for leaving the region ill‑prepared and the WHO warning that actual cases could be four times higher (Zeteo).",
+   "Iran’s surprise missile strikes on U.S. bases in Jordan and the escalating war have turned several Senate races into toss‑ups, with Democrats citing the conflict as a key factor in shifting voter sentiment (Zeteo, The Bulwark).",
+   "The DNC’s fundraising woes and internal debt are prompting calls for high‑profile co‑chairs, while the party’s reliance on mega‑PACs and controversial messaging raises questions about its ability to compete in a climate of heightened political polarization (The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20260727170705.3.e93030bf8daa97f1@mg-d0.substack.com",
-   "20260727192558.3.e8eb53acab26d4e3@mg2.substack.com",
-   "20260727234444.3.4ab4ce0c124aa2b0@mg2.substack.com",
-   "20260728000027.3.b332cbead3d69b86@mg-d0.substack.com",
    "20260728103056.3.1b12216e2a840a9d@mg-d1.substack.com",
    "20260728112202.3.f8ed97cd674dbd07@mg2.substack.com",
    "20260728130233.3.46e8e1fb0ad4f8e9@mg-d1.substack.com",
@@ -42,12 +38,84 @@
    "20260730103042.3.39a5108d09e69038@mg-d0.substack.com",
    "20260730105657.3.7934f602e857b528@mg-d0.substack.com",
    "20260730133544.3.85ed7b02214c1db8@mg-d1.substack.com",
-   "20260730143904.3.9ee6cb944a4b73fb@mg2.substack.com"
+   "20260730143904.3.9ee6cb944a4b73fb@mg2.substack.com",
+   "20260730162727.3.188fea566dda52ef@mg-d0.substack.com",
+   "20260730163343.3.b25a2a86f4e92ba7@mg2.substack.com",
+   "20260730201224.3.025a2df4b1259df8@mg2.substack.com",
+   "20260730220658.3.1cade1adf74a6dc3@mg2.substack.com"
   ],
-  "updated": "2026-07-30T09:02-07:00",
+  "updated": "2026-07-30T18:00-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260731003149.3.59a31a93a9ba652c@mg-d0.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "GOP Fiscal Responsibility Is Always a Bill Away",
+   "date": "2026-07-30T17:31-07:00",
+   "url": null,
+   "bullets": [
+    "STOP ME IF YOU’VE HEARD THIS ONE BEFORE: Republicans are on the verge of finally fixing our out-of-control budget deficits. But first they need to get just one more unfunded spending binge out of their system—and then (they swear) they’ll g…",
+    "This is the story we’ve been hearing from supposed fiscal hawks in the GOP about why they have repeatedly voted to jam costly budget bills through the fast-track process known as “reconciliation.” Once a rarely used procedural tactic, recon…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260730220658.3.1cade1adf74a6dc3@mg2.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "Unmistakable message",
+   "date": "2026-07-30T15:06-07:00",
+   "url": "https://ossoff.substack.com/p/i-cant-win-without-your-support",
+   "bullets": [
+    "Ossoff warns the Georgia Senate race will be the nation’s most expensive and competitive, saying its outcome will shape state, national, and global futures.",
+    "He frames his opponent, MAGA‑aligned Mike Collins, as a Trump‑backed extremist whose victory would enable pro‑war, pro‑tariff, and health‑care cuts.",
+    "Ossoff urges donors to contribute $10 or more to secure a decisive win that he says will send an unmistakable anti‑MAGA message for centuries."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730201224.3.025a2df4b1259df8@mg2.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Here Are the Republicans’ Biggest Lies From Their Fauci Show Trial",
+   "date": "2026-07-30T13:12-07:00",
+   "url": null,
+   "bullets": [
+    "Senators Ron Johnson and Rand Paul used a Senate COVID hearing to push false claims that vaccines are experimental gene therapy and that Fauci’s advice caused hundreds of thousands of deaths, despite data showing only about 6,400 nursing‑home deaths and no evidence vaccines are lethal.",
+    "Johnson cited a bogus poll claiming 24% of Americans know someone who died from vaccines—an impossible 82 million deaths—while also promoting unsubstantiated theories about Fauci’s health and a hidden algorithm suppressing vaccine harms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730163343.3.b25a2a86f4e92ba7@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Marco Rubio and Stephen Miller, in the Original German",
+   "date": "2026-07-30T09:33-07:00",
+   "url": null,
+   "bullets": [
+    "The Trump administration hosted a “Resurgence of Political Terrorism” conference, framing it as a ministerial focused solely on left‑wing violence despite its own role in the Jan 6 coup and pardoning participants.",
+    "During the conference, Marco Rubio and Stephen Miller delivered remarks that the author characterizes as overtly extremist, echoing Nazi‑style rhetoric while condemning leftist political violence.",
+    "The piece highlights the contradiction of a government that both incited and pardoned political terrorism while publicly decrying violence from the opposite side."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730162727.3.188fea566dda52ef@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Blame Elon Musk and Donald Trump for the Out-of-Control Ebola Crisis",
+   "date": "2026-07-30T09:27-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/ebola-congo-doge-usaid-cuts-musk-trump-deaths",
+   "bullets": [
+    "The new Ebola outbreak in eastern Congo, declared in May, has already produced over 3,200 reported cases and 1,400 deaths, with WHO estimating actual numbers could be two‑to‑four times higher.",
+    "The author argues that Elon Musk’s 2022 dismantling of USAID’s Ebola team and broader cuts left Congo without critical surveillance and response infrastructure, causing delayed detection and a sluggish international response.",
+    "Without USAID’s outbreak‑preparedness officers, lab transport support, and NGO coordination, the virus spread unchecked for months, illustrating how the agency’s removal directly worsened the crisis."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260730143904.3.9ee6cb944a4b73fb@mg2.substack.com",
    "newsletter": "Will Sommer - The Bulwark",
@@ -3675,7 +3743,7 @@
   }
  ],
  "counts": {
-  "shown": 62,
-  "total": 267
+  "shown": 64,
+  "total": 272
  }
 }
