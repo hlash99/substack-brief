@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T17:16-07:00",
+ "updated": "2026-08-01T08:33-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -53,6 +53,89 @@
  },
  "items": [
   {
+   "id": "20260801132725.3.438355388035f76d@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Pure Michigan Chaos (with Jonathan Cohn)",
+   "date": "2026-08-01T06:27-07:00",
+   "url": null,
+   "bullets": [
+    "After one of the costliest Democratic Senate primaries ever, Detroit mayoral hopeful Abdul El‑Sayed is pulling ahead of Rep. Haley Stevens, according to voter interviews.",
+    "Jonathan Cohn joins Sarah Longwell to examine how old‑school race animus, Gov. Gretchen Whitmer’s endorsement, and Mallory McMorrow’s campaign collapse could reshape Michigan’s Senate race.",
+    "The episode promotes upcoming live shows in NYC on September 8 and directs listeners to the ad‑supported Focus Group Podcast across platforms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260801130315.3.93a8405dfd23acc1@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“You can’t transform the world unless you can understand it, and you can’t understand the world unless you can mea…",
+   "date": "2026-08-01T06:03-07:00",
+   "url": "https://post.substack.com/p/you-cant-transform-the-world-unless",
+   "bullets": [
+    "Emily North argues that living fully and embracing potential is essential, warning that fear of time passing can lead to self‑obsession and wasted opportunities, urging readers to pursue joy and purpose each day.",
+    "Emily Wilson, the first woman to publish an English translation of the Odyssey, critiques media focus on her gender, insisting her work is driven by scholarly rigor and poetic fidelity rather than feminism, and highlights the gender gap in English‑language classical translations."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260801122811.3.9676161973603b2e@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Who Can Save the DNC?",
+   "date": "2026-08-01T05:28-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/who-can-save-the-dnc",
+   "bullets": [
+    "The New York Times, NOTUS and The Bulwark published damning pieces on DNC chair Ken Martin’s mishandling of the party’s internal “autopsy,” prompting calls for his resignation.",
+    "Despite criticism from Dan Pfeiffer and other Democrats, most party leaders and DNC officials have continued to back Martin, leaving the organization in a leadership crisis.",
+    "Pfeiffer asks whether any reformer can step in to rescue the DNC amid growing doubts about its competence and direction."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260801113048.3.a1bf97058ce18325@mg-d0.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "He's Making It Worse on Purpose",
+   "date": "2026-08-01T04:30-07:00",
+   "url": null,
+   "bullets": [
+    "JD Vance and Donald Trump spread a false claim that Haitian immigrants are harming Springfield, Ohio, and refuse to retract it, fueling anti‑immigrant sentiment in the town.",
+    "The author urges readers to donate to three charities—Haitian Community Help & Support Center, St. Vincent de Paul, and Second Harvest Food Bank—to aid the Haitian community directly affected by the rhetoric.",
+    "A laid‑off journalist’s new independent news site was mistakenly labeled fake by Facebook AI, and CNN’s Elie Honig publicly criticized Jeanine Pirro’s handling of a case against a former Olympian."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260801104032.3.9b9a49da88a91625@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Silent Saturday",
+   "date": "2026-08-01T03:40-07:00",
+   "url": "https://paulkrugman.substack.com/p/silent-saturday",
+   "bullets": [
+    "Krugman reports that the no‑bid contractor hired for the Reflecting Pool project botched the work.",
+    "He asserts that the sabotage charges against David Hearn were fabricated.",
+    "He attributes his delayed commentary to a stomach bug that kept him ill all week."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260801010021.3.557455962fe536aa@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "In Michigan, AIPAC Is Playing With Fire",
+   "date": "2026-07-31T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/in-michigan-aipac-is-playing-with",
+   "bullets": [
+    "AIPAC spent a record $46 million supporting Rep. Haley Stevens in the Michigan Democratic Senate primary, giving her a 12‑to‑1 advertising advantage over opponent Abdul El‑Sayed.",
+    "El‑Sayed, a vocal critic of Israel, condemned the spending as corrupt, while some Jewish leaders warned his candidacy threatens the national Jewish community and even considered backing the Republican.",
+    "Critics, including columnist Jonathan S. Tobin, accused El‑Sayed of antisemitic rhetoric, prompting Stevens to tweet that his attacks amount to blaming all problems on Jewish Americans."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260731220344.3.fa91bc9ae9b833ec@mg-d1.substack.com",
    "newsletter": "Sarah and JVL - The Bulwark",
    "pub": "thebulwark",
@@ -74,10 +157,10 @@
    "date": "2026-07-31T14:43-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/the-fake-invasion-of-spain-what-you",
    "bullets": [
-    "Christmas came early for the global far right, as images showed tens of thousands of migrants from Morocco breaching the borders of the Spanish enclave Ceuta. From Donald Trump  [ https://substack.com/redirect/71d655c9-e90e-46a6-8fd7-ac77f2…",
-    "There’s a lot of misinformation, racism, and xenophobia driving the hysterical response from the right in the U.S., UK, and European Union. So, what really happened? Here are nine things you should know about the fake “invasion” of Spain:"
+    "Around 60,000 migrants crossed into the Spanish enclave Ceuta in May, but over 48,000 (about 80%) have voluntarily returned to Morocco, contradicting far‑right claims of a mass “invasion.”",
+    "Ceuta, a Spanish EU territory on Morocco’s coast, operates under special Schengen rules that limit entry to mainland Spain, and the incident has been weaponized by Donald Trump and Nigel Farage to rally anti‑immigrant sentiment ahead of US midterms and UK elections."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260731195904.3.f74e0ebb20969268@mg-d1.substack.com",
@@ -3924,7 +4007,7 @@
   }
  ],
  "counts": {
-  "shown": 67,
-  "total": 285
+  "shown": 66,
+  "total": 291
  }
 }
