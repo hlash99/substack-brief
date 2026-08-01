@@ -1,22 +1,18 @@
 {
- "updated": "2026-07-31T09:15-07:00",
+ "updated": "2026-07-31T17:16-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's Iran war has expanded the Senate map, turning Ohio, Alaska, and Iowa into toss-up or highly competitive Senate races",
-   "The MAGA movement is marked by systemic misogyny, with Trump's allies promoting hyper-masculine rhetoric and targeting women and people of color",
-   "The Fed's commitment to fighting inflation is being questioned, with Treasury yields spiking and the dollar falling amid doubts about Chair Warsh's resolve",
-   "A new poll shows swing district voters prefer outsider candidates who promise major policy shifts, with 80% feeling elected officials favor wealthy donors over ordinary people",
-   "The Iran war has led to a surge in Ebola cases in eastern Congo, with over 3,200 reported cases and 1,400 deaths, and the WHO estimating actual numbers could be two-to-four times higher",
-   "The DNC is considering hiring a high-profile co-chair to tackle fundraising woes and media duties, with names like Rahm Emanuel and Pete Buttigieg floated"
+   "Trump's administration is facing criticism for its reliance on AI, including the use of ChatGPT for governance tasks, raising concerns about accountability and transparency (The Bulwark)",
+   "Elon Musk's super PAC is set to spend $100-120 million on Republican Senate and House races, while ICE is expanding arrests and deportations of Haitians as Temporary Protected Status ends (This Week in Democracy)",
+   "The Iran war is escalating, with Iran launching missile strikes on US bases in Jordan, and the US responding with bombing threats and ceasefires (Zeteo, The Bulwark)",
+   "The GOP is being accused of hypocrisy on fiscal responsibility, using reconciliation to pass budget bills without spending cuts, despite promises of future offsets (The Bulwark)",
+   "Trump's popularity is dropping, and his White House is still a fundraising machine, with nightly calls to track donor cuts and inflows for his library, ballroom, and PACs (The Bulwark)",
+   "The US economy is slowing down, with GDP growth slowing to 1.5% in Q2, and the Iran war straining the economy, while the Fed's commitment to fighting inflation is being questioned (Paul Krugman, The Bulwark)"
   ],
   "by": "groq",
   "ids": [
-   "20260728162945.3.911274615418214a@mg-d0.substack.com",
-   "20260728194048.3.e7705ae617db2b8b@mg2.substack.com",
-   "20260728230147.3.8061652b8e6d5240@mg2.substack.com",
-   "20260729000343.3.a588b2185a6a0d24@mg-d0.substack.com",
    "20260729011506.3.38de4ee509577387@mg2.substack.com",
    "20260729101114.3.065300f38f63cadb@mg-d0.substack.com",
    "20260729110344.3.7a5bf53dc93250d0@mg2.substack.com",
@@ -46,12 +42,84 @@
    "20260731105644.3.072fbcd004426e52@mg2.substack.com",
    "20260731110103.3.76f00dea02aa955d@mg-d1.substack.com",
    "20260731111450.3.3d687c6783a16838@mg2.substack.com",
-   "20260731132738.3.4b8fd25463f8e589@mg-d0.substack.com"
+   "20260731132738.3.4b8fd25463f8e589@mg-d0.substack.com",
+   "20260731181220.3.a3978be69e4d8668@mg2.substack.com",
+   "20260731184126.3.05720c3a6a5f13e4@mg-d0.substack.com",
+   "20260731195904.3.f74e0ebb20969268@mg-d1.substack.com",
+   "20260731220344.3.fa91bc9ae9b833ec@mg-d1.substack.com"
   ],
-  "updated": "2026-07-31T09:15-07:00",
+  "updated": "2026-07-31T17:16-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260731220344.3.fa91bc9ae9b833ec@mg-d1.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "You Can See the Bush Line From Your House",
+   "date": "2026-07-31T15:03-07:00",
+   "url": null,
+   "bullets": [
+    "The Trump administration is reportedly deploying ChatGPT for a wide range of tasks, from drafting communications to policy analysis, raising concerns about AI reliance in governance.",
+    "Senators Cornyn and Tillis are staging a symbolic protest against Todd Blanche, but the piece questions the effectiveness of their actions amid ongoing political tensions.",
+    "Trump has amassed $800 million in campaign contributions since returning to office, highlighting a significant fundraising surge that could influence upcoming electoral dynamics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731214317.3.c17d0b5d7ce6d707@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "The Fake ‘Invasion’ of Spain: What You Need to Know",
+   "date": "2026-07-31T14:43-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-fake-invasion-of-spain-what-you",
+   "bullets": [
+    "Christmas came early for the global far right, as images showed tens of thousands of migrants from Morocco breaching the borders of the Spanish enclave Ceuta. From Donald Trump  [ https://substack.com/redirect/71d655c9-e90e-46a6-8fd7-ac77f2…",
+    "There’s a lot of misinformation, racism, and xenophobia driving the hysterical response from the right in the U.S., UK, and European Union. So, what really happened? Here are nine things you should know about the fake “invasion” of Spain:"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260731195904.3.f74e0ebb20969268@mg-d1.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why Are Noirs Making a Comeback?",
+   "date": "2026-07-31T12:59-07:00",
+   "url": null,
+   "bullets": [
+    "The 70mm IMAX run of The Odyssey in Dallas has been extended for another month to meet high demand, with only 25 U.S. screens capable of showing the format and tickets selling out weeks in advance; extending the run is seen as a win‑win for theaters and audiences.",
+    "The resurgence of noir in contemporary media—highlighted by Sam Catlin’s discussion of Sugar’s second season and Prime Video’s Spider‑Noir—reflects a cultural cycle where stories emphasize hidden corruption, political favors, and a sense of futility, echoing the genre’s post‑WWII origins and past revivals in the 1970s and 1990s."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731184126.3.05720c3a6a5f13e4@mg-d0.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 80: Musk Plans to Spend $100 Million to Help GOP in Midterms and ICE Ramps Up Airpor…",
+   "date": "2026-07-31T11:41-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-80-musk-midterms-trump",
+   "bullets": [
+    "Elon Musk’s super PAC is set to spend $100‑$120 million on Republican Senate and House races in at least eight states, including Alaska, Iowa, Maine, Michigan, Ohio, California, Wisconsin and Washington.",
+    "ICE is expanding arrests and deportations of Haitians as Temporary Protected Status ends for 300,000 people, and is also detaining visa‑overstayers at airports, including spouses of U.S. citizens with pending applications.",
+    "The Trump administration filed an emergency Supreme Court appeal to enforce a March executive order restricting mail‑in voting for the November midterms, despite a federal appeals court warning it would cause confusion and disenfranchise voters."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731181220.3.a3978be69e4d8668@mg2.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Assume ICE Is Lying",
+   "date": "2026-07-31T11:12-07:00",
+   "url": null,
+   "bullets": [
+    "ICE agent David Brouillette, who had documented violent behavior including a 2022 incident throwing his daughter through a glass table and multiple protection orders, shot dead immigrant Johan Sebastián Durán Guerrero in Maine, contradicting the agency’s claim he was evading arrest and exposing failures in ICE’s rushed vetting of new agents.",
+    "In the July 7 shooting of Houston immigrant Lorenzo Salgado Araujo, ICE and Fox News falsely alleged methamphetamine was found in his van; later lab results identified the substance as harmless electrolyte salts, yet right‑wing outlets have not issued corrections.",
+    "White House border czar Tom Homan admitted Brouillette likely should not have passed ICE’s vetting, highlighting systemic issues as the agency hired 10,000 agents quickly, often skipping the six‑to‑nine‑month background checks required."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260731132738.3.4b8fd25463f8e589@mg-d0.substack.com",
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
@@ -3856,7 +3924,7 @@
   }
  ],
  "counts": {
-  "shown": 66,
-  "total": 280
+  "shown": 67,
+  "total": 285
  }
 }
