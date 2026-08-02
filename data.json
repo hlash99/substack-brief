@@ -1,30 +1,17 @@
 {
- "updated": "2026-08-01T08:33-07:00",
+ "updated": "2026-08-01T18:03-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's administration is facing criticism for its reliance on AI, including the use of ChatGPT for governance tasks, raising concerns about accountability and transparency (The Bulwark)",
-   "Elon Musk's super PAC is set to spend $100-120 million on Republican Senate and House races, while ICE is expanding arrests and deportations of Haitians as Temporary Protected Status ends (This Week in Democracy)",
-   "The Iran war is escalating, with Iran launching missile strikes on US bases in Jordan, and the US responding with bombing threats and ceasefires (Zeteo, The Bulwark)",
-   "The GOP is being accused of hypocrisy on fiscal responsibility, using reconciliation to pass budget bills without spending cuts, despite promises of future offsets (The Bulwark)",
-   "Trump's popularity is dropping, and his White House is still a fundraising machine, with nightly calls to track donor cuts and inflows for his library, ballroom, and PACs (The Bulwark)",
-   "The US economy is slowing down, with GDP growth slowing to 1.5% in Q2, and the Iran war straining the economy, while the Fed's commitment to fighting inflation is being questioned (Paul Krugman, The Bulwark)"
+   "The surge of MAGA‑aligned media exploiting sex, OnlyFans, and sensationalist content signals a new monetization strategy for right‑wing influencers, highlighted by Savanna Cannon’s videos and the broader OnlyFans‑politics symbiosis (The Bulwark, Will Sommer).",
+   "Escalating settler violence in the West Bank and harsh ICE actions against Haitian migrants underscore a widening human‑rights crisis in U.S. and Israeli‑occupied territories (Zeteo, The Bulwark).",
+   "Elon Musk’s $100‑million GOP super‑PAC spend and the Republican push for repeated budget reconciliation reveal a concerted effort to reshape fiscal policy and election outcomes despite mounting debt concerns (This Week in Democracy, Catherine Rampell).",
+   "AIPAC’s record $46 million ad blitz in the Michigan Senate primary and the backlash against pro‑Israel candidates illustrate how foreign‑policy lobbying is reshaping Democratic primaries (Zeteo).",
+   "Geopolitical tensions are intensifying as the EU sanctions Chinese firms and Beijing instantly retaliates, while the Iran‑Saudi conflict drags down global growth and threatens energy shipping lanes (Doomberg, Bill Kristol)."
   ],
   "by": "groq",
   "ids": [
-   "20260729011506.3.38de4ee509577387@mg2.substack.com",
-   "20260729101114.3.065300f38f63cadb@mg-d0.substack.com",
-   "20260729110344.3.7a5bf53dc93250d0@mg2.substack.com",
-   "20260729110716.3.24e9612d6f13c508@mg-d0.substack.com",
-   "20260729132720.3.7fd71e7e5f5e9760@mg2.substack.com",
-   "20260729133012.3.d7d2f23165368cce@mg-d1.substack.com",
-   "20260729150142.3.57901bac033ab3cf@mg2.substack.com",
-   "20260729203840.3.35f2156926b85bd0@mg-d0.substack.com",
-   "20260729213431.3.0ddd84107a1f16ed@mg-d0.substack.com",
-   "20260729220337.3.4d81535f63340cba@mg2.substack.com",
-   "20260729234725.3.71216ab4bab7e3e1@mg2.substack.com",
-   "20260730010037.3.213f0bde4099e377@mg-d1.substack.com",
    "20260730103026.3.7640430c3a864323@mg-d0.substack.com",
    "20260730103042.3.39a5108d09e69038@mg-d0.substack.com",
    "20260730105657.3.7934f602e857b528@mg-d0.substack.com",
@@ -46,12 +33,62 @@
    "20260731181220.3.a3978be69e4d8668@mg2.substack.com",
    "20260731184126.3.05720c3a6a5f13e4@mg-d0.substack.com",
    "20260731195904.3.f74e0ebb20969268@mg-d1.substack.com",
-   "20260731220344.3.fa91bc9ae9b833ec@mg-d1.substack.com"
+   "20260731214317.3.c17d0b5d7ce6d707@mg-d1.substack.com",
+   "20260731220344.3.fa91bc9ae9b833ec@mg-d1.substack.com",
+   "20260801010021.3.557455962fe536aa@mg2.substack.com",
+   "20260801104032.3.9b9a49da88a91625@mg-d1.substack.com",
+   "20260801113048.3.a1bf97058ce18325@mg-d0.substack.com",
+   "20260801122811.3.9676161973603b2e@mg2.substack.com",
+   "20260801130315.3.93a8405dfd23acc1@mg-d1.substack.com",
+   "20260801132725.3.438355388035f76d@mg-d1.substack.com",
+   "20260801170303.3.c07053fa7823e187@mg2.substack.com",
+   "20260801213848.3.5252c5c4c6cf50b8.hu14v0yq@mg1.substack.com",
+   "20260801223115.3.1686a4329f396291@mg-d0.substack.com"
   ],
-  "updated": "2026-07-31T17:16-07:00",
+  "updated": "2026-08-01T18:03-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260801223115.3.1686a4329f396291@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "The Horny Economy Fueling MAGA Media",
+   "date": "2026-08-01T15:31-07:00",
+   "url": null,
+   "bullets": [
+    "Savanna Cannon's sexually explicit MAGA videos have sparked a split among conservative influencers, who debate the role of sex appeal and authenticity in right‑wing media.",
+    "Will Sommer and Brendan Hartnett argue that creators are leveraging political content to amass huge audiences, with platforms like OnlyFans becoming intertwined with MAGA culture.",
+    "The episode suggests the incentives of virality and monetization are reshaping online conservative discourse, making sensationalism a driving force."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260801213848.3.5252c5c4c6cf50b8.hu14v0yq@mg1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "🗓️ The Bulwark is going live on Aug 2 at 8:00 AM PDT: “Trump’s Polls Are Collapsing. Is a Blue Tsunami Coming? (w/ Ron Brownstein) | Bulwark on Sunday”",
+   "date": "2026-08-01T14:38-07:00",
+   "url": null,
+   "bullets": [
+    "The upcoming Bulwark live show on Aug 2 at 8 AM PDT will examine collapsing Trump poll numbers and whether a Democratic “blue tsunami” is emerging, featuring Ron Brownstein."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260801170303.3.c07053fa7823e187@mg2.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: Israeli Settlers Torch Mosques, Steal From Palestinian Homes, and Establish New Illegal Ou…",
+   "date": "2026-08-01T10:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israeli-settlers-c92",
+   "bullets": [
+    "Israeli settler violence in the West Bank surged, with attacks including mosque arson, cemetery vandalism, property theft, and a pregnant woman’s ambulance blocked, while Israeli forces detained Palestinians instead of holding settlers accountable.",
+    "The week followed a deadly settler attack in Tal that killed four Palestinians and two Israelis, and ongoing Gaza strikes persisted despite Donald Trump’s claim of a “peace board” breakthrough tied to a disputed disarmament plan.",
+    "A live town‑hall on Monday at 1 pm ET will feature Mehdi, Diana Buttu, activist Fadi Quran, and journalist Jasper Nathaniel to discuss the escalating violence."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260801132725.3.438355388035f76d@mg-d1.substack.com",
    "newsletter": "Sarah Longwell - The Bulwark",
@@ -4007,7 +4044,7 @@
   }
  ],
  "counts": {
-  "shown": 66,
-  "total": 291
+  "shown": 68,
+  "total": 294
  }
 }
