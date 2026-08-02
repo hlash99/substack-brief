@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T18:03-07:00",
+ "updated": "2026-08-02T08:33-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -49,6 +49,47 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260802120741.3.2cd38c90a0fafbdf@mg2.substack.com",
+   "newsletter": "Pete Buttigieg",
+   "pub": "petebuttigieg",
+   "subject": "My Visit to Vernon AME, the Church That Survived the Tulsa Race Massacre",
+   "date": "2026-08-02T05:07-07:00",
+   "url": "https://petebuttigieg.substack.com/p/my-visit-to-vernon-ame-the-church",
+   "bullets": [
+    "In 1921 Tulsa’s Black Wall Street was razed, but Vernon AME Church’s brick basement—called the Refuge Room—saved 300 people, making it the only Black‑owned property to survive.",
+    "Pete Buttigieg visited Vernon AME with Pastor Keith Mayes Sr., Associate Pastor Francetta Mays, and survivor descendant Kristi Williams, emphasizing the congregation’s focus on thriving beyond the massacre’s legacy.",
+    "The church now promotes itself as an inclusive, hopeful community, inviting all regardless of race, politics, or sexual orientation, and shares a video of the visit for readers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260802120219.3.87a792f532ad161c@mg-d0.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The ‘Medicare for All’ Test for Michigan Democrats",
+   "date": "2026-08-02T05:02-07:00",
+   "url": null,
+   "bullets": [
+    "Abdul El‑Sayed, Detroit’s former public‑health director, is running for Michigan Senate on a single‑payer Medicare‑for‑All platform, contrasting with House Democrat Haley Stevens’ incremental, hybrid‑insurance approach.",
+    "The piece notes that while Medicare‑for‑All could expand coverage, it would disrupt a sector that’s one‑sixth of the U.S. economy and faces entrenched opposition from moneyed interests and a Senate biased toward the status quo.",
+    "Historically, Democrats like Ted Kennedy achieved universal‑coverage goals through compromises such as the ACA, suggesting El‑Sayed’s all‑or‑nothing stance may limit practical reform prospects."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260802103041.3.f0350c08ebc200c0@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Geoeconomics, Part I: Ranking Economic Superpowers",
+   "date": "2026-08-02T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/geoeconomics-part-i-ranking-economic",
+   "bullets": [
+    "Krugman argues that in today’s confrontational era, governments weaponize economic tools—tariffs, rare‑earth dominance, and control of shipping lanes—to pursue geopolitical aims, reviving interest in geoeconomics.",
+    "He notes that ranking the world’s economic superpowers (U.S., China, EU) depends on the metric used: some measures keep the U.S. on top, others put China ahead, while the EU’s rank varies, reflecting differing views of how economic size translates into power."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260801223115.3.1686a4329f396291@mg-d0.substack.com",
    "newsletter": "Bulwark Takes",
@@ -4044,7 +4085,7 @@
   }
  ],
  "counts": {
-  "shown": 68,
-  "total": 294
+  "shown": 66,
+  "total": 297
  }
 }
