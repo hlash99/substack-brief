@@ -1,25 +1,18 @@
 {
- "updated": "2026-08-02T18:01-07:00",
+ "updated": "2026-08-03T09:44-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Latino voters are emerging as the decisive swing bloc in 2026, with economic issues like gas prices driving a shift away from Trump despite previous support (Zeteo).",
-   "Democratic candidates are weaponizing data‑center opposition to tap voter anger over rising electricity bills, turning tech infrastructure into a new campaign flashpoint (The Bulwark).",
-   "Michigan’s Senate primary has become a flashpoint for foreign‑policy influence, as AIPAC’s $46 million ad blitz backs Haley Stevens against a Medicare‑for‑All challenger critical of Israel (Zeteo, The Bulwark).",
-   "ICE’s aggressive enforcement—highlighted by a fatal shooting in Maine and expanded deportations of Haitians—underscores a broader crackdown on immigrants amid claims of agency misconduct (The Bulwark).",
-   "Geoeconomic tensions are intensifying: the EU’s sanction of Chinese firms and Beijing’s swift retaliation illustrate how economic tools are now primary weapons in the U.S.–China rivalry (Paul Krugman, Doomberg).",
-   "MAGA’s media ecosystem is increasingly driven by sensational, sex‑focused content, with explicit videos sparking internal debates over authenticity and fundraising strategies (The Bulwark)."
+   "Settler violence in the West Bank has reached an all‑time high, with UN reports of raids, mosque burnings and attacks on dozens of Palestinians, while Israeli forces protect settlers and demolish homes, prompting a live Q&A on the issue (Zeteo).",
+   "Trump’s foreign policy is increasingly entangled with Netanyahu and Zelensky, as White House meetings suggest a push to expand wars against Iran and Russia, raising concerns that U.S. diplomatic credibility is eroding (Warrior Diplomacy).",
+   "China is capitalizing on U.S. setbacks in the Iran war by supplying advanced munitions and leveraging its manufacturing dominance, shifting global power dynamics and leaving America unable to influence the conflict (Paul Krugman).",
+   "Latino voters, once a Trump‑backed bloc, are now disillusioned and driven by economic concerns such as gas prices, positioning them as the only true swing vote in the 2026 election (Zeteo).",
+   "Democratic candidates across the country are using data centers as a political weapon, blaming them for higher utility bills and demanding tighter regulations, a new focal point in competitive races (The Bulwark).",
+   "The DNC faces a leadership crisis after criticism of chair Ken Martin’s handling of internal investigations, with calls for his resignation amid a broader party reform debate (The Message Box)."
   ],
   "by": "groq",
   "ids": [
-   "20260731090128.3.bb88e9b48fc612c1@mg-d1.substack.com",
-   "20260731103024.3.575609973d74f7e5@mg-d1.substack.com",
-   "20260731103044.3.0812416b1cfe0e5c@mg-d1.substack.com",
-   "20260731105644.3.072fbcd004426e52@mg2.substack.com",
-   "20260731110103.3.76f00dea02aa955d@mg-d1.substack.com",
-   "20260731111450.3.3d687c6783a16838@mg2.substack.com",
-   "20260731132738.3.4b8fd25463f8e589@mg-d0.substack.com",
    "20260731181220.3.a3978be69e4d8668@mg2.substack.com",
    "20260731184126.3.05720c3a6a5f13e4@mg-d0.substack.com",
    "20260731195904.3.f74e0ebb20969268@mg-d1.substack.com",
@@ -40,12 +33,84 @@
    "20260802160312.3.dbe9b83fcf9f7b76@mg-d0.substack.com",
    "20260802191713.3.14b2c52504acd121@mg-d0.substack.com",
    "20260803000018.3.6de750c4052ee86c@mg2.substack.com",
-   "20260803000124.3.939dbba647e73ab4@mg2.substack.com"
+   "20260803000124.3.939dbba647e73ab4@mg2.substack.com",
+   "20260803102753.3.5dc91d274229c081@mg-d1.substack.com",
+   "20260803110842.3.39eb616a6c006601@mg-d1.substack.com",
+   "20260803121507.3.e61c273ae8a3d896@mg-d1.substack.com",
+   "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com"
   ],
-  "updated": "2026-08-02T18:01-07:00",
+  "updated": "2026-08-03T09:44-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "🚨TODAY, 1pm ET: ‘Settler Terrorism’ in West Bank – LIVE Q&A",
+   "date": "2026-08-03T07:21-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/today-1pm-et-settler-terrorism-in",
+   "bullets": [
+    "UN warns West Bank settler violence is at an all‑time high as Netanyahu orders a wide‑scale military operation, with settlers and soldiers storming towns and attacking dozens of Palestinians.",
+    "Some of Israel’s most ardent defenders now label the violence as ‘terrorism,’ prompting a live town hall with lawyer Diana Buttu, Palestinian campaigner Fadi Quran, and reporter Jasper Nathaniel to discuss on‑ground realities and answer audience questions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803141027.3.dc1411c611879ba6@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "GOP Sheep to the Midterm Slaughter",
+   "date": "2026-08-03T07:10-07:00",
+   "url": null,
+   "bullets": [
+    "How much of an eyesore will Donald Trump’s coveted Triumphal Arch be? A National Park Service assessment found that the planned 250-foot arch will intrude on the views from “dozens of historic sites around the capital,” per new reporting fr…",
+    "Start your week off right: Come irradiate your brain with MAGA Mondays! Will Sommer and Andrew Egger are live on Substack [ https://open.substack.com/live-stream/304625?utm_source=post-publish ] and YouTube [ https://substack.com/redirect/7…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260803121507.3.e61c273ae8a3d896@mg-d1.substack.com",
+   "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
+   "pub": "macgregorwarrior",
+   "subject": "Trump's Wars are becoming One Big War",
+   "date": "2026-08-03T05:15-07:00",
+   "url": "https://macgregorwarrior.substack.com/p/trumps-wars-are-converging",
+   "bullets": [
+    "Trump’s close ties with Netanyahu and Zelensky, highlighted by recent White House meetings, suggest both leaders want him to expand their respective wars against Iran and Russia despite public calls for diplomacy.",
+    "Russian forces are advancing toward western Ukraine, threatening Odessa, Mykolaiv and potentially Dnipro, Kharkiv and Kyiv, while Ukraine’s government shows signs of collapse.",
+    "After Trump scrapped a June MOU with Iran, Arab states are entering the conflict and key maritime chokepoints from the Red Sea to the Suez are at risk, while China backs Iran, heightening global tension."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803110842.3.39eb616a6c006601@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "GOP Senator Says GOP Congressman Who Allegedly Abused His Daughter Is Unfit for Office. What Took Him So Long?",
+   "date": "2026-08-03T04:08-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/gop-senator-says-gop-congressman",
+   "bullets": [
+    "Ohio Senator Bernie Moreno publicly condemned Rep. Max Miller, alleging spousal and child abuse, saying Miller needs psychological help and fails basic character standards for office.",
+    "The newsletter announces the launch of a “Start the Steal” series on Trump’s alleged election interference, with the first installment outlining a “Doomsday Scenario” of power theft.",
+    "It also critiques Health Secretary Robert F. Kennedy Jr.’s recent CNN appearance and notes ongoing Trump-related policy reversals regarding Iran."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803102753.3.5dc91d274229c081@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "How China Won the Iran War",
+   "date": "2026-08-03T03:27-07:00",
+   "url": "https://paulkrugman.substack.com/p/how-china-won-the-iran-war",
+   "bullets": [
+    "China is capitalizing on the U.S. defeat in the Iran war, supplying Iran with advanced munitions and leveraging its manufacturing dominance to shift global power in its favor.",
+    "Trump’s attacks on science, military readiness, the dollar’s weaponization, and alliances have eroded U.S. advantages in technology, finance, and diplomatic trust, leaving America unable to influence the Iran conflict.",
+    "Global surveys now show many former U.S. allies favor China over the United States, indicating a loss of both trust and fear toward American leadership."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260803000124.3.939dbba647e73ab4@mg2.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -4009,93 +4074,10 @@
     "They claim the “socialist takeover” scare misreads Democratic voters, pointing to a shift toward moderate policies and highlighting emerging 2028 candidates who could reshape the party’s future."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260703160052.3.ca2ba1694d100a76@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "America at 250: We Had a Good Run",
-   "date": "2026-07-03T09:00-07:00",
-   "url": null,
-   "bullets": [
-    "The author argues that America’s liberal arc has reversed, citing a surge toward illiberalism born of prosperity rather than crisis, and warns that the republic’s virtue may no longer be enough to save it.",
-    "He compares the nation’s decline to a hospice patient’s sudden illness, suggesting that the United States is now in a state of “deathbed vigil” as its liberal ideals erode.",
-    "He concludes that recognizing America’s vulnerability could inspire a renewed, bold struggle to reclaim liberalism, rather than accepting fatalistic decline."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260703150337.3.835192271f7af525@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "'250 Years of Cruelty' – Viet Thanh Nguyen on the ‘American Empire' and How to Save the U.S.",
-   "date": "2026-07-03T08:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/250-america-birthday-cruelty-viet-thanh-nguyen",
-   "bullets": [
-    "Viet Thanh Nguyen argues that the United States, on its 250th anniversary, is best described by cruelty, citing its long history of violence and oppression rather than optimism or hope.",
-    "He warns that the moral arc of the nation may bend toward greater injustice, pointing to systemic cruelty that has existed since the founding of America.",
-    "Nguyen calls for a critical reassessment of American identity and policies, urging readers to confront the nation’s violent legacy rather than romanticize its past."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260703143037.3.bef0ec849bf42254@mg-d1.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "MAGA Goes Batshit Over SCOTUS Birthright Citizenship Ruling",
-   "date": "2026-07-03T07:30-07:00",
-   "url": null,
-   "bullets": [
-    "The Supreme Court upheld birthright citizenship, sparking a wave of MAGA backlash that included Stephen Miller’s dehumanizing remarks about ‘shithole’ countries and calls for mass deportations and forced sterilization of foreign visitors.",
-    "Right‑wing influencers like Matt Walsh and Sean Davis urged harsher ICE enforcement, border militarization, and even the nullification of birthright citizenship, while claiming that female justices such as Amy Barrett were the worst on the Court.",
-    "Immigrant families—e.g., Estrella Lopez and Rosa—expressed fear that the ruling could lead to retroactive revocation of citizenship for children born to non‑citizen parents, highlighting the anxiety over potential future legal shifts and the impact on their families’ stability."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260703110825.3.6c64b2282075e792@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "🇺🇸 Trump Throws America’s WORST Birthday Party",
-   "date": "2026-07-03T04:08-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-throws-americas-worst-birthday",
-   "bullets": [
-    "The USS Vincennes mistakenly shot down an Iranian passenger jet in 1988, killing 290 and later paying $62 million in damages to victims’ families.",
-    "Trump announced a July 4 speech on the National Mall despite forecast 97°F heat, delaying fireworks and banning backpacks, coolers, chairs, and bug spray for attendees.",
-    "Michigan’s Abdul El‑Sayed and Maine’s Graham Platner warn that AIPAC and campaign spending are fueling further Trump‑linked corruption."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260703103048.3.d77c5205ccb601dc@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The End of North America",
-   "date": "2026-07-03T03:35",
-   "url": null,
-   "bullets": [
-    "In what would be major news except for all the other disasters happening, Donald Trump has declined to renew the USMCA — the successor to the North American Free Trade Agreement — which he himself negotiated. This puts businesses on notice …",
-    "Some commentators have dismissed this as no big deal, because Trump’s successor will probably reverse his decision and make the USMCA permanent after all. However, this misses the point of such agreements. Before NAFTA went into effect, Nor…"
-   ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260703090041.3.e6dda7701862b6f7@mg-d0.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Treatment Resistant",
-   "date": "2026-07-03T02:00-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/treatment-resistant",
-   "bullets": [
-    "Sanctions rarely achieve geopolitical goals and mainly harm civilian populations, acting as financial weapons of mass destruction, while targeted powers like China and Russia emerge stronger.",
-    "Huawei claims its new chip-design framework could reach 1.4‑nanometer density by 2031 without EUV tools, undermining U.S. concerns that sanctions can halt China's semiconductor progress.",
-    "EU attempts to replace Russian pipeline gas with pricier LNG are failing, as global energy demand ensures Russia’s oil and gas remain essential despite sanctions."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 68,
-  "total": 298
+  "shown": 69,
+  "total": 297
  }
 }
