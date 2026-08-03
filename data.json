@@ -1,28 +1,18 @@
 {
- "updated": "2026-08-02T08:33-07:00",
+ "updated": "2026-08-02T18:01-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The surge of MAGA‑aligned media exploiting sex, OnlyFans, and sensationalist content signals a new monetization strategy for right‑wing influencers, highlighted by Savanna Cannon’s videos and the broader OnlyFans‑politics symbiosis (The Bulwark, Will Sommer).",
-   "Escalating settler violence in the West Bank and harsh ICE actions against Haitian migrants underscore a widening human‑rights crisis in U.S. and Israeli‑occupied territories (Zeteo, The Bulwark).",
-   "Elon Musk’s $100‑million GOP super‑PAC spend and the Republican push for repeated budget reconciliation reveal a concerted effort to reshape fiscal policy and election outcomes despite mounting debt concerns (This Week in Democracy, Catherine Rampell).",
-   "AIPAC’s record $46 million ad blitz in the Michigan Senate primary and the backlash against pro‑Israel candidates illustrate how foreign‑policy lobbying is reshaping Democratic primaries (Zeteo).",
-   "Geopolitical tensions are intensifying as the EU sanctions Chinese firms and Beijing instantly retaliates, while the Iran‑Saudi conflict drags down global growth and threatens energy shipping lanes (Doomberg, Bill Kristol)."
+   "Latino voters are emerging as the decisive swing bloc in 2026, with economic issues like gas prices driving a shift away from Trump despite previous support (Zeteo).",
+   "Democratic candidates are weaponizing data‑center opposition to tap voter anger over rising electricity bills, turning tech infrastructure into a new campaign flashpoint (The Bulwark).",
+   "Michigan’s Senate primary has become a flashpoint for foreign‑policy influence, as AIPAC’s $46 million ad blitz backs Haley Stevens against a Medicare‑for‑All challenger critical of Israel (Zeteo, The Bulwark).",
+   "ICE’s aggressive enforcement—highlighted by a fatal shooting in Maine and expanded deportations of Haitians—underscores a broader crackdown on immigrants amid claims of agency misconduct (The Bulwark).",
+   "Geoeconomic tensions are intensifying: the EU’s sanction of Chinese firms and Beijing’s swift retaliation illustrate how economic tools are now primary weapons in the U.S.–China rivalry (Paul Krugman, Doomberg).",
+   "MAGA’s media ecosystem is increasingly driven by sensational, sex‑focused content, with explicit videos sparking internal debates over authenticity and fundraising strategies (The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20260730103026.3.7640430c3a864323@mg-d0.substack.com",
-   "20260730103042.3.39a5108d09e69038@mg-d0.substack.com",
-   "20260730105657.3.7934f602e857b528@mg-d0.substack.com",
-   "20260730133544.3.85ed7b02214c1db8@mg-d1.substack.com",
-   "20260730143904.3.9ee6cb944a4b73fb@mg2.substack.com",
-   "20260730162727.3.188fea566dda52ef@mg-d0.substack.com",
-   "20260730163343.3.b25a2a86f4e92ba7@mg2.substack.com",
-   "20260730201224.3.025a2df4b1259df8@mg2.substack.com",
-   "20260730220658.3.1cade1adf74a6dc3@mg2.substack.com",
-   "20260731003149.3.59a31a93a9ba652c@mg-d0.substack.com",
-   "20260731010137.3.35799c6baf7f4d35@mg-d1.substack.com",
    "20260731090128.3.bb88e9b48fc612c1@mg-d1.substack.com",
    "20260731103024.3.575609973d74f7e5@mg-d1.substack.com",
    "20260731103044.3.0812416b1cfe0e5c@mg-d1.substack.com",
@@ -43,12 +33,71 @@
    "20260801132725.3.438355388035f76d@mg-d1.substack.com",
    "20260801170303.3.c07053fa7823e187@mg2.substack.com",
    "20260801213848.3.5252c5c4c6cf50b8.hu14v0yq@mg1.substack.com",
-   "20260801223115.3.1686a4329f396291@mg-d0.substack.com"
+   "20260801223115.3.1686a4329f396291@mg-d0.substack.com",
+   "20260802103041.3.f0350c08ebc200c0@mg-d1.substack.com",
+   "20260802120219.3.87a792f532ad161c@mg-d0.substack.com",
+   "20260802120741.3.2cd38c90a0fafbdf@mg2.substack.com",
+   "20260802160312.3.dbe9b83fcf9f7b76@mg-d0.substack.com",
+   "20260802191713.3.14b2c52504acd121@mg-d0.substack.com",
+   "20260803000018.3.6de750c4052ee86c@mg2.substack.com",
+   "20260803000124.3.939dbba647e73ab4@mg2.substack.com"
   ],
-  "updated": "2026-08-01T18:03-07:00",
+  "updated": "2026-08-02T18:01-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260803000124.3.939dbba647e73ab4@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Latinos Are the Only True Swing Vote in the U.S. – But Can Dems Win Them Over in 2026?",
+   "date": "2026-08-02T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/latinos-are-the-only-true-swing-vote",
+   "bullets": [
+    "Latino voters who backed Trump in 2024 are now disillusioned, but economic concerns—especially gas prices—are driving their shift more than immigration issues, according to Republican consultant Mike Madrid.",
+    "Madrid argues Latinos are the nation’s only true swing vote, being the least racially polarized and most likely to identify as independent, and they will vote with their feet if parties ignore their economic priorities."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803000018.3.6de750c4052ee86c@mg2.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Data Centers Are Suddenly Everywhere in Democratic Campaigns",
+   "date": "2026-08-02T17:00-07:00",
+   "url": null,
+   "bullets": [
+    "Democratic candidates from Ohio to Florida are running ads and proposals against data centers, blaming them for higher utility bills and demanding moratoriums or tighter regulations.",
+    "Pollster Zac McCrary says data centers have become a convenient villain for voters angry about electricity costs, making them a new focal point in many competitive races."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260802191713.3.14b2c52504acd121@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why Losing Battles are Worth Fighting",
+   "date": "2026-08-02T12:17-07:00",
+   "url": null,
+   "bullets": [
+    "The free preview of the latest Triad Mailbag episode features JVL answering listener questions on DSA candidates, protecting the 2030 census, Ross Douthat’s ‘60 Minutes’ appearance, Republican authoritarianism, Tolkien’s ‘long defeat’, Ezra Klein, site redesign, and personal interests like World Cup jerseys and comics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260802160312.3.dbe9b83fcf9f7b76@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "🚨 LIVE Q&A: 'Settler Terrorism’ in the West Bank - MONDAY 1PM ET",
+   "date": "2026-08-02T09:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/live-q-and-a-settler-terrorism-in",
+   "bullets": [
+    "UN reports West Bank settler violence at an all‑time high, with raids, mosque burnings and attacks on dozens of Palestinians while the Israeli military protects settlers and demolishes homes",
+    "Even Israel’s staunchest defenders label these actions as ‘terrorism,’ yet mainstream media coverage remains minimal",
+    "A live Q&A on Monday 1 PM ET will feature lawyer Diana Buttu, journalist Fadi Quran and reporter Jasper Nathaniel to discuss the current conditions and answer audience questions"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260802120741.3.2cd38c90a0fafbdf@mg2.substack.com",
    "newsletter": "Pete Buttigieg",
@@ -4043,49 +4092,10 @@
     "EU attempts to replace Russian pipeline gas with pricier LNG are failing, as global energy demand ensures Russia’s oil and gas remain essential despite sanctions."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260703010017.3.58a8d407b6916fd1@mg-d0.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Could This Outspoken Arizona Senator Be the Dems’ Presidential Nominee in 2028?",
-   "date": "2026-07-02T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/gallego-tax-investigation-ice-2028",
-   "bullets": [
-    "Senator Ruben Gallego, Arizona’s 2024 junior senator, says the Trump‑appointed DOJ is investigating him over alleged campaign‑finance violations because they’re “afraid” of his populist agenda to tax the rich and curb billionaire influence, including the Soros family.",
-    "He defends voting for the Laken Riley Act and a nuanced ICE stance—advocating dismantling the agency without endorsing the “Abolish ICE” slogan—while weighing whether to cut aid to Israel and hinting he may run for president in 2028."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260702230300.3.6222ba9ca0e95b86@mg2.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Air Conditioning is AMAZING. We Should Do It Better.",
-   "date": "2026-07-02T16:14",
-   "url": null,
-   "bullets": [
-    "Happy Independence Day, everyone! In honor of America’s hot-AF 250th birthday, this week’s Receipts newsletter is an ode to air conditioning, a relatively modern invention that Americans take for granted and Europeans have snubbed. It’s eas…",
-    "While you’re sweating your guts out this weekend, I hope you’ll consider supporting one of civilization’s other great achievements: the free press. No better way to do that than by joining us as a Bulwark+ member. In fact, we’ve got a July …"
-   ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260702223049.3.69c31605fedbb754@mg-d1.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 76: Trump Cashes In on Presidency as ICE Arrests 10,000 in 5 Days",
-   "date": "2026-07-02T15:37",
-   "url": null,
-   "bullets": [
-    "Zeteo’s weekly round-up, documenting the growth of authoritarianism in Trump’s second term. Protesters march against Trump in front of the White House in Washington, DC, on June 27, 2026. Photo by Alex Wrobleski/AFP via Getty Images",
-    "This week, Donald Trump’s corruption was on full display, the Supreme Court granted him more king-like powers, and the U.S. president hosted an election-denying convict in the Oval Office. Happy 250th Birthday, America!"
-   ],
-   "summary_by": "excerpt"
   }
  ],
  "counts": {
-  "shown": 66,
-  "total": 297
+  "shown": 68,
+  "total": 298
  }
 }
