@@ -1,52 +1,197 @@
 {
- "updated": "2026-08-03T09:44-07:00",
+ "updated": "2026-08-03T17:59-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Settler violence in the West Bank has reached an all‑time high, with UN reports of raids, mosque burnings and attacks on dozens of Palestinians, while Israeli forces protect settlers and demolish homes, prompting a live Q&A on the issue (Zeteo).",
-   "Trump’s foreign policy is increasingly entangled with Netanyahu and Zelensky, as White House meetings suggest a push to expand wars against Iran and Russia, raising concerns that U.S. diplomatic credibility is eroding (Warrior Diplomacy).",
-   "China is capitalizing on U.S. setbacks in the Iran war by supplying advanced munitions and leveraging its manufacturing dominance, shifting global power dynamics and leaving America unable to influence the conflict (Paul Krugman).",
-   "Latino voters, once a Trump‑backed bloc, are now disillusioned and driven by economic concerns such as gas prices, positioning them as the only true swing vote in the 2026 election (Zeteo).",
-   "Democratic candidates across the country are using data centers as a political weapon, blaming them for higher utility bills and demanding tighter regulations, a new focal point in competitive races (The Bulwark).",
-   "The DNC faces a leadership crisis after criticism of chair Ken Martin’s handling of internal investigations, with calls for his resignation amid a broader party reform debate (The Message Box)."
+   "Trump’s polling collapse is sparking a debate over a possible “Blue Tsunami” that could reshape the 2026 midterms (The Bulwark, Zeteo).",
+   "The West Bank is experiencing a surge in settler violence, with UN reports calling it “terrorism” as Israeli forces protect settlers while Palestinians suffer attacks (Zeteo).",
+   "Michigan’s Democratic Senate primary is turning into a battle of ideals versus electability, with Abdul El‑Sayed’s Medicare‑for‑All platform challenging Haley Stevens’ incremental approach (The Bulwark).",
+   "The Trump administration’s use of no‑bid contracts and false accusations—such as the Reflecting Pool case—has led to legal fallout and questions about abuse of power (The Bulwark, Heather Cox Richardson).",
+   "China is exploiting the U.S. defeat in the Iran war to expand its military and economic influence, shifting global power dynamics (Paul Krugman).",
+   "Latino voters, once Trump’s base, are now pivoting away due to economic concerns, making them the nation’s most critical swing bloc for 2026 (Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20260731181220.3.a3978be69e4d8668@mg2.substack.com",
-   "20260731184126.3.05720c3a6a5f13e4@mg-d0.substack.com",
-   "20260731195904.3.f74e0ebb20969268@mg-d1.substack.com",
-   "20260731214317.3.c17d0b5d7ce6d707@mg-d1.substack.com",
-   "20260731220344.3.fa91bc9ae9b833ec@mg-d1.substack.com",
    "20260801010021.3.557455962fe536aa@mg2.substack.com",
+   "20260801010021.3.557455962fe536aa@mg2.substack.com",
+   "20260801045926.3.2fd5724b66d3b2c5@mg2.substack.com",
    "20260801104032.3.9b9a49da88a91625@mg-d1.substack.com",
    "20260801113048.3.a1bf97058ce18325@mg-d0.substack.com",
+   "20260801113048.3.a1bf97058ce18325@mg-d1.substack.com",
    "20260801122811.3.9676161973603b2e@mg2.substack.com",
    "20260801130315.3.93a8405dfd23acc1@mg-d1.substack.com",
+   "20260801132725.3.438355388035f76d@mg-d0.substack.com",
    "20260801132725.3.438355388035f76d@mg-d1.substack.com",
+   "20260801150223.3.86841099f017afa0@mg-d1.substack.com",
+   "20260801170303.3.c07053fa7823e187@mg-d0.substack.com",
    "20260801170303.3.c07053fa7823e187@mg2.substack.com",
    "20260801213848.3.5252c5c4c6cf50b8.hu14v0yq@mg1.substack.com",
+   "20260801214324.3.5252c5c4c6cf50b8.726kcozj@mg1.substack.com",
    "20260801223115.3.1686a4329f396291@mg-d0.substack.com",
+   "20260802051136.3.b0be0d61fd7bc915@mg-d1.substack.com",
    "20260802103041.3.f0350c08ebc200c0@mg-d1.substack.com",
    "20260802120219.3.87a792f532ad161c@mg-d0.substack.com",
    "20260802120741.3.2cd38c90a0fafbdf@mg2.substack.com",
+   "20260802150639.3.af9fd55147cb91aa.b2l1ypb3@mg1.substack.com",
+   "20260802160312.3.dbe9b83fcf9f7b76@mg-d0.substack.com",
    "20260802160312.3.dbe9b83fcf9f7b76@mg-d0.substack.com",
    "20260802191713.3.14b2c52504acd121@mg-d0.substack.com",
+   "20260802191713.3.14b2c52504acd121@mg-d0.substack.com",
    "20260803000018.3.6de750c4052ee86c@mg2.substack.com",
+   "20260803000018.3.6de750c4052ee86c@mg2.substack.com",
+   "20260803000124.3.939dbba647e73ab4@mg-d0.substack.com",
    "20260803000124.3.939dbba647e73ab4@mg2.substack.com",
+   "20260803014520.3.e7b07808a473c5b2@mg-d0.substack.com",
+   "20260803033812.3.7336a31f473a5b63@mg2.substack.com",
    "20260803102753.3.5dc91d274229c081@mg-d1.substack.com",
    "20260803110842.3.39eb616a6c006601@mg-d1.substack.com",
+   "20260803110842.3.39eb616a6c006601@mg2.substack.com",
    "20260803121507.3.e61c273ae8a3d896@mg-d1.substack.com",
-   "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com"
+   "20260803130344.3.06139ed782eb530a@mg-d1.substack.com",
+   "20260803141027.3.dc1411c611879ba6@mg-d1.substack.com",
+   "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com",
+   "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com",
+   "20260803170153.3.0f508d27218097cc@mg2.substack.com",
+   "20260803170153.3.0f508d27218097cc@mg2.substack.com",
+   "20260803183633.3.2d7c0e78708b7f1c@mg-d0.substack.com",
+   "20260803183633.3.2d7c0e78708b7f1c@mg-d1.substack.com",
+   "20260803192008.3.b3b73945fb862ff0.snub30vl@mg1.substack.com",
+   "20260803204739.3.de2d96b8b054ab4c@mg-d0.substack.com",
+   "20260803204739.3.de2d96b8b054ab4c@mg2.substack.com",
+   "20260804000940.3.c0a3a566d72b539f@mg-d1.substack.com"
   ],
-  "updated": "2026-08-03T09:44-07:00",
+  "updated": "2026-08-03T17:59-07:00",
   "span_days": 3
  },
  "items": [
   {
-   "id": "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com",
+   "id": "20260804000940.3.c0a3a566d72b539f@mg-d1.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "What the Hell Happened to Sean Duffy’s Road-Trip TV Show?",
+   "date": "2026-08-03T17:09-07:00",
+   "url": null,
+   "bullets": [
+    "Secretary of Transportation Sean Duffy and wife Rachel Campos‑Duffy announced a multi‑million‑dollar “Great American Road Trip” TV series in May, funded by donations from corporations Duffy regulates, to promote family bonding and counter a “Pornhub world.”",
+    "Despite a Fox News debut and a promised June premiere, no episodes have aired three months later, and the Department of Transportation now labels the project a failed “key initiative.”"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803204739.3.de2d96b8b054ab4c@mg-d0.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
+   "subject": "‘What Happened in Gaza Is Coming to the West Bank’: Experts Examine ‘Settler Terror’",
+   "date": "2026-08-03T13:47-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/what-happened-in-gaza-is-coming-to",
+   "bullets": [
+    "Fadi Quran says the West Bank is the worst he's seen in his life",
+    "Israel is a settler state, says Diana Buttu, a Haifa-based lawyer",
+    "US funds and supports the settler movement, according to Fadi Quran"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803204739.3.de2d96b8b054ab4c@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
+   "subject": "‘What Happened in Gaza Is Coming to the West Bank’: Experts Examine ‘Settler Terror’",
+   "date": "2026-08-03T13:47-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/what-happened-in-gaza-is-coming-to",
+   "bullets": [
+    "Fadi Quran says the West Bank is the worst he's seen in his life",
+    "Diana Buttu claims Israel has always been a settler state",
+    "US funds and supports the settler movement"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803192008.3.b3b73945fb862ff0.snub30vl@mg1.substack.com",
+   "newsletter": "Home of the Brave",
+   "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
+   "subject": "🗓️ Home of the Brave is going live on Aug 4 at 12:00 PM EDT: “Jeanine Pirro Has Upset the Boss, ft. Harry Sisson”",
+   "date": "2026-08-03T12:20-07:00",
+   "url": null,
+   "bullets": [
+    "Home of the Brave goes live on Aug 4 at 12:00 PM EDT",
+    "Episode features Harry Sisson and discusses Jeanine Pirro",
+    "Event starts at 12:00 PM EDT on August 4"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803183633.3.2d7c0e78708b7f1c@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "‘It’s My Bleeding Heart’: Michiganders Agonize Over Stevens vs. El-Sayed",
+   "date": "2026-08-03T11:36-07:00",
+   "url": null,
+   "bullets": [
+    "Focus groups of Michigan voters who backed Kamala Harris show a split between emotional support for Haley Stevens and strategic preference for Abdul El‑Sayed, who leads polls by double digits.",
+    "Participants describe a tension between idealism and pragmatism, fearing that voting for Stevens may split the Democratic vote while El‑Sayed appears more electable.",
+    "The newsletter notes that polling cannot capture these nuanced voter calculations, prompting the author to rely on qualitative focus‑group insights."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803183633.3.2d7c0e78708b7f1c@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark_at_substack_com_dfz5na2cr457y1_p2m22105",
+   "subject": "‘It’s My Bleeding Heart’: Michiganders Agonize Over Stevens vs. El-Sayed",
+   "date": "2026-08-03T11:36-07:00",
+   "url": null,
+   "bullets": [
+    "In Michigan’s Democratic Senate primary, polls show Abdul El‑Sayed leading Haley Stevens by double digits, prompting voters to weigh idealism against strategic pragmatism.",
+    "Focus groups held in April, June, and July with 2024 Kamala Harris voters reveal a growing tension between heart‑felt support for Stevens and the perceived electability of El‑Sayed."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803170153.3.0f508d27218097cc@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Behold the TRUMP Act: I Know How to Fix American Politics",
+   "date": "2026-08-03T10:01-07:00",
+   "url": null,
+   "bullets": [
+    "Trump awarded a no‑bid contract to fix the Lincoln Memorial Reflecting Pool, which then failed and he blamed private citizen David Hearn, leading U.S. Attorney Jeanine Pirro to charge Hearn with a felony that could carry up to ten years in prison.",
+    "Pirro’s prosecution relied on false testimony claiming Hearn manually ripped out sealant, despite video evidence showing the pool’s failure pre‑dated his arrival; the case was withdrawn after the Justice Department admitted the charges were baseless.",
+    "The author argues that the scandal illustrates the need for accountability—potentially jail for a Department of the Interior official or disbarment of a Justice Department lawyer—to reform American politics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803170153.3.0f508d27218097cc@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Behold the TRUMP Act: I Know How to Fix American Politics",
+   "date": "2026-08-03T10:01-07:00",
+   "url": null,
+   "bullets": [
+    "Trump blamed David Hearn for Reflecting Pool failure",
+    "Hearn faced up to 10 years in prison for baseless charges",
+    "Prosecutor Jeanine Pirro lied about Hearn's involvement"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
+   "subject": "🚨TODAY, 1pm ET: ‘Settler Terrorism’ in West Bank – LIVE Q&A",
+   "date": "2026-08-03T07:21-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/today-1pm-et-settler-terrorism-in",
+   "bullets": [
+    "UN warns West Bank settler violence is at an all‑time high as Netanyahu orders a wide‑scale military operation, with settlers and soldiers storming towns and attacking dozens of Palestinians.",
+    "Some of Israel’s most ardent defenders now label the violence as ‘terrorism,’ prompting a live town hall with lawyer Diana Buttu, Palestinian campaigner Fadi Quran, and reporter Jasper Nathaniel to discuss on‑ground realities and answer audience questions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
    "subject": "🚨TODAY, 1pm ET: ‘Settler Terrorism’ in West Bank – LIVE Q&A",
    "date": "2026-08-03T07:21-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/today-1pm-et-settler-terrorism-in",
@@ -68,6 +213,33 @@
     "Start your week off right: Come irradiate your brain with MAGA Mondays! Will Sommer and Andrew Egger are live on Substack [ https://open.substack.com/live-stream/304625?utm_source=post-publish ] and YouTube [ https://substack.com/redirect/7…"
    ],
    "summary_by": "excerpt"
+  },
+  {
+   "id": "20260803141027.3.dc1411c611879ba6@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "GOP Sheep to the Midterm Slaughter",
+   "date": "2026-08-03T07:10-07:00",
+   "url": null,
+   "bullets": [
+    "Trump's 250-foot arch will intrude on historic sites' views",
+    "Todd Blanche's confirmation as attorney general is likely",
+    "Democrats can turn Blanche's confirmation into a liability for Republicans"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803130344.3.06139ed782eb530a@mg-d1.substack.com",
+   "newsletter": "Home of the Brave",
+   "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
+   "subject": "Have You Been Affected by Sticker Shock This Summer?",
+   "date": "2026-08-03T06:03-07:00",
+   "url": "https://open.substack.com/pub/ofthebrave/p/have-you-been-affected-by-sticker",
+   "bullets": [
+    "The newsletter claims the current administration’s clean‑energy cuts, tariffs, and war spending—$37 billion on war—are driving up summer prices, urging readers to call Sticker Shock & Associates for legal help.",
+    "It promotes a nationwide campaign with YouTube ads and 400 billboards across 16 heartland states to blame the administration for rising costs and encourages donations or subscriptions to support the effort."
+   ],
+   "summary_by": "groq"
   },
   {
    "id": "20260803121507.3.e61c273ae8a3d896@mg-d1.substack.com",
@@ -98,6 +270,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260803110842.3.39eb616a6c006601@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "GOP Senator Says GOP Congressman Who Allegedly Abused His Daughter Is Unfit for Office. What Took Him So Long?",
+   "date": "2026-08-03T04:08-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/gop-senator-says-gop-congressman",
+   "bullets": [
+    "Ohio Republican Senator Bernie Moreno publicly denounced former son‑in‑law Rep. Max Miller, citing alleged spousal and child abuse and claiming Miller’s erratic behavior makes him unfit for office.",
+    "Miller, a Trump‑aligned congressman from Ohio, is expected to run for re‑election despite Moreno’s statement that he lacks basic character standards and needs psychological help.",
+    "The piece frames Moreno’s condemnation as evidence of the Republican Party’s decline under Trump’s influence, highlighting the broader issue of alleged abuse within GOP ranks."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260803102753.3.5dc91d274229c081@mg-d1.substack.com",
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
@@ -108,6 +294,34 @@
     "China is capitalizing on the U.S. defeat in the Iran war, supplying Iran with advanced munitions and leveraging its manufacturing dominance to shift global power in its favor.",
     "Trump’s attacks on science, military readiness, the dollar’s weaponization, and alliances have eroded U.S. advantages in technology, finance, and diplomatic trust, leaving America unable to influence the Iran conflict.",
     "Global surveys now show many former U.S. allies favor China over the United States, indicating a loss of both trust and fear toward American leadership."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803033812.3.7336a31f473a5b63@mg2.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "August 2, 2026",
+   "date": "2026-08-02T20:38-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/august-2-2026",
+   "bullets": [
+    "The DOJ dismissed the case against David Hearn after his lawyers alleged grand jury misconduct, noting the sole witness testified pre‑existing damage and could not quantify Hearn’s alleged additional cost, raising questions of misdirection.",
+    "Todd Blanche, Trump’s former attorney and acting AG, has repeatedly flouted the law to serve Trump’s interests, securing indictments against Trump allies like James Comey, backing a $1.776 billion slush fund for Trump associates, and refusing to confirm the deal’s termination despite Senate pressure.",
+    "Trump has threatened to keep Blanche as acting AG and appeal a July 13 ruling that called the slush‑fund/non‑prosecution agreement a judicial manipulation, signaling his intent to preserve the deal and push for related legislation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803014520.3.e7b07808a473c5b2@mg-d0.substack.com",
+   "newsletter": "Heather Cox Richardson and 250 to 250 from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "Week Ten in 250 to 250",
+   "date": "2026-08-02T18:45-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/week-ten-in-250-to-250",
+   "bullets": [
+    "Heather Cox Richardson narrates the Declaration of Independence",
+    "Senator Andy Kim traces the road to Medicare and Medicaid",
+    "Jay Kuo tells the story of Ralph Carr defending Japanese Americans"
    ],
    "summary_by": "groq"
   },
@@ -125,6 +339,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260803000124.3.939dbba647e73ab4@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Latinos Are the Only True Swing Vote in the U.S. – But Can Dems Win Them Over in 2026?",
+   "date": "2026-08-02T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/latinos-are-the-only-true-swing-vote",
+   "bullets": [
+    "Latino voters who backed Trump in 2024 are now disillusioned, but their shift away from him is driven more by economic concerns like gas prices than immigration enforcement",
+    "Consultant Mike Madrid says Latinos are the nation’s largest, fastest‑growing swing bloc, least racially polarized and most likely to identify as independent, voting with their feet for any party",
+    "The Zeteo interview explores how both Democrats and Republicans are misreading Latino priorities, risking loss of this pivotal vote in the 2026 elections"
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260803000018.3.6de750c4052ee86c@mg2.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
    "pub": "thebulwark",
@@ -134,6 +362,43 @@
    "bullets": [
     "Democratic candidates from Ohio to Florida are running ads and proposals against data centers, blaming them for higher utility bills and demanding moratoriums or tighter regulations.",
     "Pollster Zac McCrary says data centers have become a convenient villain for voters angry about electricity costs, making them a new focal point in many competitive races."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260803000018.3.6de750c4052ee86c@mg2.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Data Centers Are Suddenly Everywhere in Democratic Campaigns",
+   "date": "2026-08-02T17:00-07:00",
+   "url": null,
+   "bullets": [
+    "Democratic candidates from Ohio to Florida are running ads and proposals against data centers, blaming them for higher utility bills and demanding moratoriums or tighter regulations.",
+    "Pollster Zac McCrary says data centers have become a convenient villain for voters angry about electricity costs, making them a new focal point in many competitive races."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260802200752.3.f974a5baf0bc6702@mg2.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "Always a Lie",
+   "date": "2026-08-02T13:07-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/always-a-lie",
+   "bullets": [
+    "Always a Lie"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260802191713.3.14b2c52504acd121@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why Losing Battles are Worth Fighting",
+   "date": "2026-08-02T12:17-07:00",
+   "url": null,
+   "bullets": [
+    "The free preview of the latest Triad Mailbag episode features JVL answering listener questions on DSA candidates, protecting the 2030 census, Ross Douthat’s ‘60 Minutes’ appearance, Republican authoritarianism, Tolkien’s ‘long defeat’, Ezra Klein, site redesign, and personal interests like World Cup jerseys and comics."
    ],
    "summary_by": "groq"
   },
@@ -152,7 +417,7 @@
   {
    "id": "20260802160312.3.dbe9b83fcf9f7b76@mg-d0.substack.com",
    "newsletter": "Zeteo",
-   "pub": "zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
    "subject": "🚨 LIVE Q&A: 'Settler Terrorism’ in the West Bank - MONDAY 1PM ET",
    "date": "2026-08-02T09:03-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/live-q-and-a-settler-terrorism-in",
@@ -160,6 +425,32 @@
     "UN reports West Bank settler violence at an all‑time high, with raids, mosque burnings and attacks on dozens of Palestinians while the Israeli military protects settlers and demolishes homes",
     "Even Israel’s staunchest defenders label these actions as ‘terrorism,’ yet mainstream media coverage remains minimal",
     "A live Q&A on Monday 1 PM ET will feature lawyer Diana Buttu, journalist Fadi Quran and reporter Jasper Nathaniel to discuss the current conditions and answer audience questions"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260802160312.3.dbe9b83fcf9f7b76@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
+   "subject": "🚨 LIVE Q&A: 'Settler Terrorism’ in the West Bank - MONDAY 1PM ET",
+   "date": "2026-08-02T09:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/live-q-and-a-settler-terrorism-in",
+   "bullets": [
+    "UN reports West Bank settler violence at an all‑time high, with raids, mosque burnings and attacks on dozens of Palestinians while the Israeli military protects settlers and demolishes homes",
+    "Even Israel’s staunchest defenders label these actions as ‘terrorism,’ yet mainstream media coverage remains minimal",
+    "A live Q&A on Monday 1 PM ET will feature lawyer Diana Buttu, journalist Fadi Quran and reporter Jasper Nathaniel to discuss the current conditions and answer audience questions"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260802150639.3.af9fd55147cb91aa.b2l1ypb3@mg1.substack.com",
+   "newsletter": "Substack",
+   "pub": "no-reply_at_substack_com_dfzcnd2br853yb_p6m22105",
+   "subject": "Live video with The Bulwark now: Trump’s Polls Are Collapsing. Is a Blue Tsunami Coming? (w/ Ron Brownstein) | Bulwark on Sunday",
+   "date": "2026-08-02T08:06-07:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark’s live video with Ron Brownstein analyzes collapsing Trump poll numbers and debates whether a massive Democratic surge, a “Blue Tsunami,” is imminent."
    ],
    "summary_by": "groq"
   },
@@ -192,6 +483,19 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260802120219.3.87a792f532ad161c@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The ‘Medicare for All’ Test for Michigan Democrats",
+   "date": "2026-08-02T05:02-07:00",
+   "url": null,
+   "bullets": [
+    "ABDUL EL-SAYED HAS BEEN RUNNING to become Michigan’s Democratic Senate nominee for more than fifteen months. And if there’s been one constant over that period it’s been his promotion of “Medicare for All” as a way to make sure all Michigand…",
+    "It’s a big focus of his stump speech, something he usually raises right at the beginning. It’s all over his campaign signage. And it’s the only specific policy promise in his three-part campaign slogan, which he and supporters invoke consta…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20260802103041.3.f0350c08ebc200c0@mg-d1.substack.com",
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
@@ -205,6 +509,32 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260802051136.3.b0be0d61fd7bc915@mg-d1.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "August 1, 2026",
+   "date": "2026-08-01T22:11-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/august-1-2026",
+   "bullets": [
+    "DOJ drops charges against David Hearn",
+    "Reflecting Pool damage was due to flawed installation",
+    "Trump still claims vandals caused the damage"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260802004808.3.07da90672c5f6d88@mg2.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "Trading Strategy for Ideology",
+   "date": "2026-08-01T17:48-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/trading-strategy-for-ideology",
+   "bullets": [
+    "Trading Strategy for Ideology"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20260801223115.3.1686a4329f396291@mg-d0.substack.com",
    "newsletter": "Bulwark Takes",
    "pub": "thebulwark",
@@ -215,6 +545,20 @@
     "Savanna Cannon's sexually explicit MAGA videos have sparked a split among conservative influencers, who debate the role of sex appeal and authenticity in right‑wing media.",
     "Will Sommer and Brendan Hartnett argue that creators are leveraging political content to amass huge audiences, with platforms like OnlyFans becoming intertwined with MAGA culture.",
     "The episode suggests the incentives of virality and monetization are reshaping online conservative discourse, making sensationalism a driving force."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260801214324.3.5252c5c4c6cf50b8.726kcozj@mg1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark_at_substack_com_dfz5na2cr457y1_p2m22105",
+   "subject": "🗓️ The Bulwark is going live on Aug 2 at 11:00 AM EDT: “Trump’s Polls Are Collapsing. Is a Blue Tsunami Coming? (w/ Ron Brownstein) | Bulwark on Sunday”",
+   "date": "2026-08-01T14:43-07:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark is going live on Aug 2 at 11:00 AM EDT",
+    "Trump's polls are collapsing",
+    "Ron Brownstein will discuss a potential Blue Tsunami"
    ],
    "summary_by": "groq"
   },
@@ -245,6 +589,34 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260801170303.3.c07053fa7823e187@mg-d0.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: Israeli Settlers Torch Mosques, Steal From Palestinian Homes, and Establish New Illegal Ou…",
+   "date": "2026-08-01T10:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israeli-settlers-c92",
+   "bullets": [
+    "Israeli settler violence in the West Bank surged, with attacks including mosque arson, cemetery vandalism, property theft, and a pregnant woman’s ambulance halted, leading to a miscarriage, while Israeli forces detained Palestinians instead of holding settlers accountable.",
+    "The week followed a deadly settler attack in Tal that killed four Palestinians and two Israelis, and ongoing Gaza strikes persisted despite Donald Trump’s claim of a “breakthrough” peace deal involving Hamas disarmament that hinges on Israel’s compliance.",
+    "A live town‑hall on Monday at 1 pm ET features Mehdi, Diana Buttu, activist Fadi Quran, and journalist Jasper Nathaniel to discuss the escalating settler aggression and answer audience questions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260801150223.3.86841099f017afa0@mg-d1.substack.com",
+   "newsletter": "It’s Happening Here Podcast",
+   "pub": "ofthebrave",
+   "subject": "“Intent Plus Power Goes a Long Way”",
+   "date": "2026-08-01T08:02-07:00",
+   "url": "https://open.substack.com/pub/ofthebrave/p/intent-plus-power-goes-a-long-way",
+   "bullets": [
+    "Bill Kristol explains how the Trump administration rebranded its political opponents as communists to delegitimize dissent and rally its base, citing specific messaging tactics and media campaigns.",
+    "Marco Rubio co‑hosted a conference on political violence with Stephen Miller, illustrating the shift of the Secretary of State from a pragmatic operator to a fervent ideological believer in hardline policies.",
+    "Trump’s administration militarized ICE and DHS, deploying military-style tactics and resources to enforce immigration enforcement and domestic security, raising concerns about civil liberties and overreach."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260801132725.3.438355388035f76d@mg-d1.substack.com",
    "newsletter": "Sarah Longwell - The Bulwark",
    "pub": "thebulwark",
@@ -255,6 +627,20 @@
     "After one of the costliest Democratic Senate primaries ever, Detroit mayoral hopeful Abdul El‑Sayed is pulling ahead of Rep. Haley Stevens, according to voter interviews.",
     "Jonathan Cohn joins Sarah Longwell to examine how old‑school race animus, Gov. Gretchen Whitmer’s endorsement, and Mallory McMorrow’s campaign collapse could reshape Michigan’s Senate race.",
     "The episode promotes upcoming live shows in NYC on September 8 and directs listeners to the ad‑supported Focus Group Podcast across platforms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260801132725.3.438355388035f76d@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Pure Michigan Chaos (with Jonathan Cohn)",
+   "date": "2026-08-01T06:27-07:00",
+   "url": null,
+   "bullets": [
+    "After one of the costliest Democratic Senate primaries in history, candidate Abdul El‑Sayed is emerging as the frontrunner over Rep. Haley Stevens according to voter interviews.",
+    "Jonathan Cohn joins Sarah Longwell to analyze how old‑school race animus and Governor Gretchen Whitmer’s endorsement could reshape the Michigan Senate race.",
+    "The episode also reviews why Mallory McMorrow’s campaign collapsed and promotes a live event in NYC on September 8."
    ],
    "summary_by": "groq"
   },
@@ -300,6 +686,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260801113048.3.a1bf97058ce18325@mg-d1.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "He's Making It Worse on Purpose",
+   "date": "2026-08-01T04:30-07:00",
+   "url": null,
+   "bullets": [
+    "JD Vance and Donald Trump spread a lie about Haitian immigrants in Springfield",
+    "Three charities help Haitians in Springfield: Haitian Community Help, St. Vincent de Paul, and Second Harvest Food Bank",
+    "Megyn Kelly spouts awful things about Haitians from her studio"
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260801104032.3.9b9a49da88a91625@mg-d1.substack.com",
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
@@ -314,9 +714,37 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260801045926.3.2fd5724b66d3b2c5@mg2.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "July 31, 2026",
+   "date": "2026-07-31T21:59-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/july-31-2026",
+   "bullets": [
+    "Trump is exasperated with the Iran war's duration",
+    "Trump plans to hit Iran with heavy strikes to force negotiations",
+    "US strikes have killed over 220 people with no evidence of 'narcoterrorism'"
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260801010021.3.557455962fe536aa@mg2.substack.com",
    "newsletter": "Zeteo",
-   "pub": "zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
+   "subject": "In Michigan, AIPAC Is Playing With Fire",
+   "date": "2026-07-31T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/in-michigan-aipac-is-playing-with",
+   "bullets": [
+    "AIPAC spent a record $46 million supporting Rep. Haley Stevens in the Michigan Democratic Senate primary, giving her a 12‑to‑1 advertising advantage over opponent Abdul El‑Sayed.",
+    "El‑Sayed, a vocal critic of Israel, condemned the spending as corrupt, while some Jewish leaders warned his candidacy threatens the national Jewish community and even considered backing the Republican.",
+    "Critics, including columnist Jonathan S. Tobin, accused El‑Sayed of antisemitic rhetoric, prompting Stevens to tweet that his attacks amount to blaming all problems on Jewish Americans."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260801010021.3.557455962fe536aa@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
    "subject": "In Michigan, AIPAC Is Playing With Fire",
    "date": "2026-07-31T18:00-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/in-michigan-aipac-is-playing-with",
@@ -342,6 +770,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260731220344.3.fa91bc9ae9b833ec@mg-d0.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "You Can See the Bush Line From Your House",
+   "date": "2026-07-31T15:03-07:00",
+   "url": null,
+   "bullets": [
+    "The Trump administration is reportedly using ChatGPT for all internal communications, sparking concerns about AI’s influence on policy decisions.",
+    "Senators Cornyn and Tillis are staging a symbolic protest against Todd Blanche, but the author questions its effectiveness and relevance.",
+    "Joe Biden’s campaign has raised $800 million since returning to office, a figure highlighted as a significant fundraising milestone."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260731214317.3.c17d0b5d7ce6d707@mg-d1.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
@@ -355,6 +797,32 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260731214317.3.c17d0b5d7ce6d707@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
+   "subject": "The Fake ‘Invasion’ of Spain: What You Need to Know",
+   "date": "2026-07-31T14:43-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-fake-invasion-of-spain-what-you",
+   "bullets": [
+    "Donald Trump used the Ceuta migrant surge as a midterm election talking point",
+    "At least 80% of migrants have returned to Morocco voluntarily",
+    "Ceuta is a Spanish enclave on Morocco's northern coast since 1580"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731200617.3.5ecf013d0dd96bad@mg-d1.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "60 Years of Medicare and Medicaid",
+   "date": "2026-07-31T13:06-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/60-years-of-medicare-and-medicaid",
+   "bullets": [
+    "60 Years of Medicare and Medicaid"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20260731195904.3.f74e0ebb20969268@mg-d1.substack.com",
    "newsletter": "Sonny Bunch - The Bulwark",
    "pub": "thebulwark",
@@ -364,6 +832,20 @@
    "bullets": [
     "The 70mm IMAX run of The Odyssey in Dallas has been extended for another month to meet high demand, with only 25 U.S. screens capable of showing the format and tickets selling out weeks in advance; extending the run is seen as a win‑win for theaters and audiences.",
     "The resurgence of noir in contemporary media—highlighted by Sam Catlin’s discussion of Sugar’s second season and Prime Video’s Spider‑Noir—reflects a cultural cycle where stories emphasize hidden corruption, political favors, and a sense of futility, echoing the genre’s post‑WWII origins and past revivals in the 1970s and 1990s."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731195904.3.f74e0ebb20969268@mg2.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why Are Noirs Making a Comeback?",
+   "date": "2026-07-31T12:59-07:00",
+   "url": null,
+   "bullets": [
+    "The limited 25 U.S. IMAX screens and high demand led theaters to extend the 70mm IMAP run of The Odyssey into September, adding showtimes and revenue without extra projectors.",
+    "Industry execs worry premium formats like IMAX and Dolby may make audiences think only large screens matter, but the author argues the theater’s value lies in focused, communal viewing.",
+    "Showrunner Sam Catlin notes a modest noir revival in shows like Apple TV’s Sugar and Prime’s Spider-Noir, reflecting today’s sense of hidden, uncontrollable power and systemic corruption."
    ],
    "summary_by": "groq"
   },
@@ -382,6 +864,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260731184126.3.05720c3a6a5f13e4@mg2.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 80: Musk Plans to Spend $100 Million to Help GOP in Midterms and ICE Ramps Up Airpor…",
+   "date": "2026-07-31T11:41-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-80-musk-midterms-trump",
+   "bullets": [
+    "Elon Musk’s super PAC is set to spend $100‑120 million on Republican Senate and House races in at least eight states ahead of the midterms, according to the New York Times.",
+    "ICE is expanding arrests and deportations of Haitians as the Supreme Court ends Temporary Protected Status for 300,000 Haitians, with plans to target overstayers and even spouses of U.S. citizens at airports.",
+    "The Trump administration filed an emergency appeal to the Supreme Court to enforce a March executive order restricting mail‑in voting for the November midterms, despite a federal appeals court warning it would cause confusion and disenfranchise voters."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260731181220.3.a3978be69e4d8668@mg2.substack.com",
    "newsletter": "The Bulwark",
    "pub": "thebulwark",
@@ -396,6 +892,33 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260731181220.3.a3978be69e4d8668@mg-d1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark_at_substack_com_dfz5na2cr457y1_p2m22105",
+   "subject": "Assume ICE Is Lying",
+   "date": "2026-07-31T11:12-07:00",
+   "url": null,
+   "bullets": [
+    "ICE agent David Brouillette had a history of violence",
+    "Lorenzo Salgado Araujo was shot by ICE, with false meth claims",
+    "ICE initially lied about both Johan Sebastián Durán Guerrero and Araujo's cases"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731154745.3.d8f1e520294a9169.9gd14cbg@mg-d0.substack.com",
+   "newsletter": "Substack",
+   "pub": "no-reply_at_substack_com_dfzcnd2br853yb_p6m22105",
+   "subject": "Jonathan V. Last, Sonny Bunch, and The Bulwark posted new notes",
+   "date": "2026-07-31T08:47-07:00",
+   "url": null,
+   "bullets": [
+    "͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏ …",
+    "Not only has our lousy commander-in-chief allowed the country's missile inventory to be dramatically depleted, Hegseth's politicized hiring and firing of officers has come home to roost and is doing real damage to the military as an institu…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20260731132738.3.4b8fd25463f8e589@mg-d0.substack.com",
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
    "pub": "thebulwark",
@@ -406,6 +929,19 @@
     "Trump’s White House is still a fundraising machine, with nightly calls to fundraiser Meredith O’Rourke to track donor cuts and inflows for his library, ballroom, and PACs, while his political agenda stalls and his popularity drops.",
     "Fauci’s diary shows he treated pregnant aide Katie Miller with personal concern—calling her daily, calming her during anxiety, and contacting her baby’s doctors—yet Miller now claims he weaponized her pregnancy to aggrandize himself, a claim she defends on X.",
     "Todd Blanche’s confirmation as Attorney General is stalled by Republican senators John Cornyn and Thom Tillis over concerns about his role in the Epstein cover‑up and a deal granting Trump’s family IRS immunity, highlighting a temporary setback for Trump’s DOJ agenda."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731132738.3.4b8fd25463f8e589@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A Portrait of MAGA Psychodrama",
+   "date": "2026-07-31T06:27-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s fundraising is now a nightly White House ritual, with donors pumping millions into his library, ballroom, and PACs while he keeps tabs on who’s cutting checks, treating him like a king rather than a president.",
+    "Fauci’s diary shows he personally advised and calmed pregnant aide Katie Miller during COVID, yet Miller now claims he weaponized her pregnancy for self‑aggrandizement and calls for his imprisonment, a claim she offers to justify her own political paranoia."
    ],
    "summary_by": "groq"
   },
@@ -424,6 +960,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260731111450.3.3d687c6783a16838@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "EXCLUSIVE: New Poll Shows Swing District Voters Prefer 'Outsiders' to Boring Centrists",
+   "date": "2026-07-31T04:14-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/exclusive-new-poll-shows-swing-district",
+   "bullets": [
+    "Voters in 18 toss-up districts prefer 'outsiders' over centrists",
+    "80% of respondents feel officials prioritize donors over people",
+    "Poll surveyed general election voters who voted Trump over Harris 48-45 in 2024"
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260731110103.3.76f00dea02aa955d@mg-d1.substack.com",
    "newsletter": "Sarah Longwell - The Bulwark",
    "pub": "thebulwark",
@@ -433,6 +983,20 @@
    "bullets": [
     "James Comey challenges the “8647” prosecution, while Donald Trump seeks to overturn E. Jean Carroll’s $83 million defamation judgment via a Supreme Court bid.",
     "The administration pushes new mail‑in voting restrictions, withdraws subpoenas targeting New York Times reporters, and delays the Paramount‑Warner Bros merger."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731110103.3.76f00dea02aa955d@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Showed Up to the Trial and Lost $83 Million",
+   "date": "2026-07-31T04:01-07:00",
+   "url": null,
+   "bullets": [
+    "James Comey’s challenge to the “8647” prosecution is examined, questioning the legality of the indictment against former President Trump.",
+    "Donald Trump’s Supreme Court bid to overturn E. Jean Carroll’s $83 million defamation judgment is dissected, highlighting the court’s potential impact on the case.",
+    "The administration’s push for new mail‑in voting restrictions, withdrawal of subpoenas targeting New York Times reporters, and the delayed Paramount‑Warner Bros merger are also covered."
    ],
    "summary_by": "groq"
   },
@@ -491,6 +1055,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260731054214.3.00c0aa4d3e55e900@mg-d1.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "July 30, 2026",
+   "date": "2026-07-30T22:42-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/july-30-2026",
+   "bullets": [
+    "Medicare and Medicaid began 60 years ago",
+    "LBJ signed the measure into law in 1965",
+    "Republicans cut $911 billion from Medicaid in 2025"
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260731010137.3.35799c6baf7f4d35@mg-d1.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
@@ -500,6 +1078,19 @@
    "bullets": [
     "Pete Hegseth announced a testosterone‑screening program for troops, echoing the hyper‑masculine caricature of Defense Secretary Lloyd Austin mocked by SNL’s Colin Jost.",
     "The New York Times reported Hegseth blocked promotions for five senior Navy officers—women and people of color—including the first woman to command a nuclear aircraft carrier, illustrating systemic misogyny in the MAGA movement."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260731010137.3.35799c6baf7f4d35@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "The Ugly Misogyny of Trump's Movement",
+   "date": "2026-07-30T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-ugly-misogyny-of-trumps-movement",
+   "bullets": [
+    "Pete Hegseth announced a testosterone screening program for U.S. troops, prompting a New York Times report that he blocked promotions for five senior Navy officers who are women or people of color, including the first American woman to command a nuclear aircraft carrier.",
+    "Colin Jost’s Saturday Night Live sketch lampooned the toxic masculinity he sees in Trump’s MAGA movement, highlighting how such misogyny extends beyond Hegseth to the broader political culture."
    ],
    "summary_by": "groq"
   },
@@ -516,6 +1107,32 @@
     "Federal debt now exceeds 100% of GDP and 30‑year Treasury yields are at two‑decade highs, underscoring the fiscal stakes of these unchecked reconciliation bills."
    ],
    "summary_by": "groq"
+  },
+  {
+   "id": "20260731003149.3.59a31a93a9ba652c@mg-d1.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "GOP Fiscal Responsibility Is Always a Bill Away",
+   "date": "2026-07-30T17:31-07:00",
+   "url": null,
+   "bullets": [
+    "Republicans have used the reconciliation process a record four times in this Congress, each time adding billions to deficits—$4 trillion in 2023, $70 billion in 2024, and no cuts in 2025—while promising future offsets that never materialized.",
+    "Majority Leader Steve Scalise announced a planned “reconciliation 4.0” to provide the promised spending cuts, but the Senate remains stalled as GOP senators demand the bill be paid for, citing deficit concerns.",
+    "The budget process is further undermined by OMB Director Russell Vought’s unilateral refusal to spend appropriated funds, cutting programs like the Smithsonian and USAID, while the federal debt has already exceeded 100% of GDP and Treasury yields hit two‑decade highs."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730232424.3.78bb72a5c2b05f01@mg-d1.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "Nothing to Stand On",
+   "date": "2026-07-30T16:24-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/nothing-to-stand-on",
+   "bullets": [
+    "Nothing to Stand On"
+   ],
+   "summary_by": "excerpt"
   },
   {
    "id": "20260730220658.3.1cade1adf74a6dc3@mg2.substack.com",
@@ -541,6 +1158,48 @@
    "bullets": [
     "Senators Ron Johnson and Rand Paul used a Senate COVID hearing to push false claims that vaccines are experimental gene therapy and that Fauci’s advice caused hundreds of thousands of deaths, despite data showing only about 6,400 nursing‑home deaths and no evidence vaccines are lethal.",
     "Johnson cited a bogus poll claiming 24% of Americans know someone who died from vaccines—an impossible 82 million deaths—while also promoting unsubstantiated theories about Fauci’s health and a hidden algorithm suppressing vaccine harms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730201224.3.025a2df4b1259df8@mg-d1.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Here Are the Republicans’ Biggest Lies From Their Fauci Show Trial",
+   "date": "2026-07-30T13:12-07:00",
+   "url": null,
+   "bullets": [
+    "Sen. Ron Johnson claimed COVID vaccines are experimental gene therapy",
+    "Sen. Rand Paul blamed Dr. Fauci for 6,400 nursing home deaths",
+    "Fauci had no role in the nursing-home policy"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730180312.3.af9fd55147cb91aa.eclc0al4@mg1.substack.com",
+   "newsletter": "Substack",
+   "pub": "no-reply_at_substack_com_9wbyqdt4h76183_fca9b868",
+   "subject": "Live video with John Harwood and Mike Madrid now: Can Democrats harvest \"de-aligned\" Hispanic voters who have turned away from Trump? Strategist Mike Madrid takes our questions",
+   "date": "2026-07-30T11:03-07:00",
+   "url": null,
+   "bullets": [
+    "John Harwood is live with Mike Madrid on Substack",
+    "Discussing Democrats harvesting de-aligned Hispanic voters",
+    "Strategist Mike Madrid takes questions"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730163343.3.b25a2a86f4e92ba7@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Marco Rubio and Stephen Miller, in the Original German",
+   "date": "2026-07-30T09:33-07:00",
+   "url": null,
+   "bullets": [
+    "The Trump administration hosted a “Resurgence of Political Terrorism” conference, framing it as a ministerial focused solely on left‑wing violence despite its own role in the Jan 6 coup and pardoning participants.",
+    "During the conference, Marco Rubio and Stephen Miller delivered remarks that the author characterizes as overtly extremist, echoing Nazi‑style rhetoric while condemning leftist political violence.",
+    "The piece highlights the contradiction of a government that both incited and pardoned political terrorism while publicly decrying violence from the opposite side."
    ],
    "summary_by": "groq"
   },
@@ -573,6 +1232,46 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260730162727.3.188fea566dda52ef@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
+   "subject": "Blame Elon Musk and Donald Trump for the Out-of-Control Ebola Crisis",
+   "date": "2026-07-30T09:27-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/ebola-congo-doge-usaid-cuts-musk-trump-deaths",
+   "bullets": [
+    "Elon Musk fired USAID's Ebola team during an outbreak in Uganda",
+    "Over 3,200 Ebola cases and 1,400 deaths are reported in Congo",
+    "USAID's destruction hindered detection and response to the outbreak"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730160611.3.af9fd55147cb91aa.q2j3fa7i@mg1.substack.com",
+   "newsletter": "Substack",
+   "pub": "no-reply_at_substack_com_dfzcnd2br853yb_p6m22105",
+   "subject": "Live video with Home of the Brave now: Todd Blanche’s Nomination in Chaos, ft. Aaron Parnas",
+   "date": "2026-07-30T09:06-07:00",
+   "url": null,
+   "bullets": [
+    "Live video “Todd Blanche’s Nomination in Chaos, ft. Aaron Parnas” is now available on Substack’s Home of the Brave channel."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730143904.3.9ee6cb944a4b73fb@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Right-Wing Media and OnlyFans Are in a Symbiotic Relationship",
+   "date": "2026-07-30T07:39-07:00",
+   "url": null,
+   "bullets": [
+    "Savanna Cannon, a new MAGA influencer with 285k political Instagram followers, uses provocative yoga‑pants poses and OnlyFans content to target straight‑male audiences, boosting her political reach and subscriber funnel.",
+    "OnlyFans models and right‑wing commentators increasingly collaborate—podcasts like Fresh and Fit and Whatever feature OnlyFans stars to draw “simps,” while politicians like James Fishback use the platform to gain media exposure.",
+    "The trend fuels a symbiotic cycle: conservative media gains sexualized attention, OnlyFans creators tap into political audiences, and figures such as Nick Fuentes and Sophie Rain benefit from cross‑platform visibility."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260730143904.3.9ee6cb944a4b73fb@mg2.substack.com",
    "newsletter": "Will Sommer - The Bulwark",
    "pub": "thebulwark",
@@ -600,6 +1299,45 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260730133544.3.85ed7b02214c1db8@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Civil Disobedience Is Coming to Springfield",
+   "date": "2026-07-30T06:35-07:00",
+   "url": null,
+   "bullets": [
+    "Commerce data shows U.S. annualized growth slowed to 1.5% in Q2 as the Iran war drags on, while Saudi Arabia struck Iran and Iran launched missiles at Jordan, Kuwait and Egypt, tightening the Strait of Hormuz and Red Sea shipping.",
+    "In Springfield, Ohio, the imminent expiration of TPS threatens over 10,000 Haitian residents, prompting local clergy and leaders to urge ICE to limit deportations to the “worst of the worst” and to prepare non‑violent civil disobedience if raids occur.",
+    "A House‑passed bill to extend Haitian TPS faces uncertain Senate approval, with Republican Sen. Moreno opposing and Sen. Husted silent, while local aid groups warn they need millions of dollars as funding runs out."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730130242.3.1d6e095bf3d02c2a@mg2.substack.com",
+   "newsletter": "Home of the Brave",
+   "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
+   "subject": "How Pete Hegseth is Dismantling Religious Freedom in the Military",
+   "date": "2026-07-30T06:02-07:00",
+   "url": "https://open.substack.com/pub/ofthebrave/p/how-pete-hegseth-is-dismantling-religious",
+   "bullets": [
+    "Pete Hegseth launched a monthly Christian prayer service in May 2025 at the Pentagon, broadcast on internal TV, with no chaplain sponsor and featuring only CREC‑affiliated evangelical speakers such as Brooks Potteiger, Chris Durkin, Doug Wilson and Franklin Graham, whose past statements include praise for slavery and war‑like rhetoric.",
+    "The services have sparked a surge in religious‑discrimination complaints—MRFF reports a three‑fold increase, about 200 cases focused on Christian nationalism—and prompted a lawsuit by Americans United for Separation of Church and State alleging Hegseth is coercively imposing his faith on federal workers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730124117.3.b3b73945fb862ff0.0o8928ws@mg1.substack.com",
+   "newsletter": "Home of the Brave",
+   "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
+   "subject": "🗓️ Home of the Brave is going live on Jul 30 at 12:00 PM EDT: “Todd Blanche’s Nomination in Chaos, ft. Aaron Parnas”",
+   "date": "2026-07-30T05:41-07:00",
+   "url": null,
+   "bullets": [
+    "Home of the Brave will stream live July 30 at 12:00 PM EDT featuring Todd Blanche’s “Nomination in Chaos” with guest Aaron Parnas."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260730105657.3.7934f602e857b528@mg-d0.substack.com",
    "newsletter": "First Draft | Zeteo",
    "pub": "zeteo",
@@ -609,6 +1347,20 @@
    "bullets": [
     "Trump advisers repeatedly called Fox News “retards,” blaming the network’s pro‑war propaganda for pushing Trump toward an escalatory “finish the job” Iran conflict that threatens global catastrophe and could hurt Republicans in the midterms.",
     "The piece notes that the Trump administration is ending key Medicare subsidies, affecting millions of seniors, while also highlighting Anthony Fauci’s refusal to answer over 100 questions from Republican senators."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730105657.3.7934f602e857b528@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "📺 Trump Advisers Trash Fox for Nearly Convincing Him to Blow Up the World",
+   "date": "2026-07-30T03:56-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-advisers-trash-fox-for-nearly",
+   "bullets": [
+    "Trump advisers repeatedly called Fox News “retards,” blaming the network’s pro‑war propaganda for pushing Trump toward an escalated, potentially catastrophic conflict with Iran, which has already spiked gas prices and threatens Republican midterm prospects.",
+    "Anthony Fauci invoked his Fifth Amendment right over 100 times during a hearing with Republican senators, highlighting the administration’s refusal to answer questions about the Iran war and related policies.",
+    "The Trump administration announced the termination of key Medicare subsidies, affecting millions of seniors, while recalling Lyndon Johnson’s 1965 Medicare signing as a stark contrast."
    ],
    "summary_by": "groq"
   },
@@ -641,6 +1393,18 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260730062325.3.64f6fcea97605f76@mg-d1.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "July 29, 2026",
+   "date": "2026-07-29T23:23-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/july-29-2026",
+   "bullets": [
+    "CNN/SSRS poll shows 70% disapprove of Trump’s economy handling, 75% disapprove of his inflation policy, 79% disapprove of gas price strategy, and 65% say his policies hurt the country\", \"Trump’s war on Iran faces internal dissent: Pentagon added 140 casualties to its database, 18 dead and 624 wounded, while U.S. officials cite low interceptor stocks and leaked warnings from Joint Chiefs chief Dan Caine\", \"Republican base remains loyal despite record low approval (34% overall, 15% strong support) as Trump attacks Dr. Fauci and blames Biden for munitions shortages, while oil prices rise and markets plunge after Fed holds rates"
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260730010037.3.213f0bde4099e377@mg-d1.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
@@ -651,6 +1415,20 @@
     "Iran’s surprise missile strike on U.S. bases in Jordan coincided with Zelensky’s and Netanyahu’s Washington visits, deliberately forcing U.S. officials to view it as a major escalation.",
     "The author argues that common explanations—hard‑liners, diplomatic sabotage, probing Trump’s resolve, or retaliation for U.S.-Saudi actions—only capture fragments of Tehran’s broader strategic calculus.",
     "Zeteo suggests the attack reflects a calculated move by Iran to reshape regional power dynamics and signal its willingness to confront U.S. influence, beyond the usual partisan narratives."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260730010037.3.213f0bde4099e377@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
+   "subject": "Why Did Iran Launch a Surprise Attack on U.S. Bases in Jordan?",
+   "date": "2026-07-29T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-iran-surprise-attack-us-bases-trump",
+   "bullets": [
+    "Iran’s surprise strike on U.S. bases in Jordan, timed during Zelensky and Netanyahu’s Washington visits, was designed to force a dramatic escalation and test U.S. resolve, rather than merely retaliate or overplay hardliners’ influence.",
+    "The attack’s strategic logic centers on Tehran’s calculation to pressure American decision‑makers, disrupt diplomatic momentum, and signal that Iran can strike high‑profile targets regardless of U.S. political leadership.",
+    "This move reflects a broader pattern of Iranian deterrence tactics, aiming to compel the U.S. to reconsider its regional policies and to showcase Iran’s operational reach amid shifting U.S. administrations."
    ],
    "summary_by": "groq"
   },
@@ -669,6 +1447,19 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260729234725.3.71216ab4bab7e3e1@mg-d0.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "EXCLUSIVE: Ken Martin Open to Bringing on Big Name to Help at DNC",
+   "date": "2026-07-29T16:47-07:00",
+   "url": null,
+   "bullets": [
+    "EMBATTLED DEMOCRATIC NATIONAL COMMITTEE Chair Ken Martin is “open” to the idea of bringing on additional help from an experienced party leader to address the committee’s ongoing fundraising problems, according to a DNC official.",
+    "What role that person would play—let alone if it will happen before the midterms—remains unclear. But the willingness to entertain such a change comes as operatives in the party have begun broaching the idea of bringing on a co-chair at the…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20260729220337.3.4d81535f63340cba@mg2.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
@@ -682,6 +1473,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260729220337.3.4d81535f63340cba@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
+   "subject": "Mamdani Derangement Syndrome: Murdoch Media Lets Its Islamophobic Flag Fly",
+   "date": "2026-07-29T15:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/mamdani-derangement-syndrome-murdoch",
+   "bullets": [
+    "Murdoch-owned outlets have intensified Islamophobic attacks on New York mayor Zohran Mamdani, labeling him an antisemitic communist and calling for his denaturalization and deportation.",
+    "The newsletter highlights a recent surge of overt anti‑Muslim rhetoric in Murdoch papers and cable news, presenting a supercut of the worst on‑air commentary as evidence.",
+    "CBS News staff reportedly distrust Bari Weiss’s recent ‘60 Minutes’ hires, noting that ratings have continued to decline under her leadership."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260729213431.3.0ddd84107a1f16ed@mg-d0.substack.com",
    "newsletter": "Tim Miller - The Bulwark",
    "pub": "thebulwark",
@@ -690,6 +1495,19 @@
    "url": "https://open.substack.com/pub/thebulwark/p/jonathan-v-last-and-robert-kagan",
    "bullets": [
     "The preview podcast features JVL and Robert Kagan critiquing Marco Rubio and Stephen Miller’s use of Nazi‑style dehumanizing rhetoric against the left, warning it targets Democrats broadly, including protestors of Trump’s election‑stealing claims."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729213431.3.0ddd84107a1f16ed@mg2.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "JVL and Robert Kagan: Marco and Miller Go Full Fascist",
+   "date": "2026-07-29T14:34-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/jonathan-v-last-and-robert-kagan",
+   "bullets": [
+    "Marco Rubio and Stephen Miller used dehumanizing language reminiscent of Soviet and Nazi propaganda to attack the left, implying Democrats broadly, including those protesting Trump’s election‑interference claims.",
+    "Robert Kagan and JVL discuss Trump’s best option on Iran, critiquing Iran’s behavior, Lindsey Graham’s role, and the Fauci controversy as examples of MAGA double standards."
    ],
    "summary_by": "groq"
   },
@@ -722,6 +1540,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260729150142.3.57901bac033ab3cf@mg-d1.substack.com",
+   "newsletter": "We're Not Kidding | Zeteo",
+   "pub": "zeteo",
+   "subject": "Meet the Comedian Who Was Raised Republican, Then Became One of Mamdani’s Earliest Supporters",
+   "date": "2026-07-29T08:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/mary-beth-barone-comedian",
+   "bullets": [
+    "Mary Beth Barone is a NYC comedian and socialist",
+    "She supports AOC for president in 2028",
+    "Barone thinks Democrats should retire and let new leaders take over"
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260729133012.3.d7d2f23165368cce@mg-d1.substack.com",
    "newsletter": "Here Be Dragons from Barbara F. Walter",
    "pub": "barbarafwalter",
@@ -746,6 +1578,48 @@
     "Acting Attorney General Todd Blanche insisted the Comey indictment rests on more than a threatening Instagram post, citing a secret FBI/Secret Service investigation that recent court filings reveal was a futile hunt for mob‑related testimony.",
     "The New York Times data‑viz shows Trump’s Iran war flipping between bombing threats and ceasefires from March to July, culminating in renewed missile strikes after Iran hit a U.S. base, highlighting the cumulative toll on oil reserves, missile stockpiles, and U.S. credibility.",
     "In Pennsylvania, GOP treasurer Stacy Garrity, backed by Trump despite his public snubs, faces a steep uphill battle against incumbent Gov. Josh Shapiro, with recent polls indicating a likely electoral defeat for the Trump‑endorsed candidate."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729132720.3.7fd71e7e5f5e9760@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "It’s Groundhog Day in Iran",
+   "date": "2026-07-29T06:27-07:00",
+   "url": null,
+   "bullets": [
+    "Trump's Iran strategy is cyclical, with threats and ceasefires repeating",
+    "Trump's popularity at home continues to decline",
+    "Pennsylvania Gov. Josh Shapiro is expected to win re-election against Republican Stacy Garrity"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729130736.3.fddde529872d8fa2@mg-d1.substack.com",
+   "newsletter": "Home of the Brave",
+   "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
+   "subject": "Aangad Singh Losing the Presidential 1776 Award Is F****d Up",
+   "date": "2026-07-29T06:07-07:00",
+   "url": "https://open.substack.com/pub/ofthebrave/p/aangad-singh-losing-the-presidential",
+   "bullets": [
+    "Aangad Singh, a 15-year-old, reached the national finals of the Presidential 1776 Award",
+    "He was denied the top prize despite knowing more than the winners",
+    "The judges' scorekeeping was not public, and Aangad's family claims he was robbed of the win"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729110716.3.24e9612d6f13c508@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "EXCLUSIVE: Dem Poll Finds Trump’s Iran War ‘Expanded the Senate Map’",
+   "date": "2026-07-29T04:07-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/exclusive-dem-poll-finds-trumps-iran",
+   "bullets": [
+    "A Senate Majority PAC poll shows Trump’s approval on gas prices fell from 46% on March 1 to 33% by July 14, with cost‑of‑living approval slipping to low 30s in battleground states like Maine (32%) and Michigan (34%).",
+    "The poll claims the Iran war has turned Ohio, Alaska and Iowa into toss‑up or highly competitive Senate races, a shift that didn’t exist a year ago.",
+    "Trump praised the late Lindsey Graham in a flamboyant eulogy while Kentucky’s governor demanded proof that Mitch McConnell is still alive."
    ],
    "summary_by": "groq"
   },
@@ -790,6 +1664,18 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260729044911.3.a1b42a1dd32c64dd@mg-d0.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "July 28, 2026",
+   "date": "2026-07-28T21:49-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/july-28-2026",
+   "bullets": [
+    "Heather Cox Richardson signs off, handing the newsletter to Buddy Poland for the next issue."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260729011506.3.38de4ee509577387@mg2.substack.com",
    "newsletter": "Tim, Sarah and JVL - The Bulwark",
    "pub": "thebulwark",
@@ -800,6 +1686,33 @@
     "McConnell’s recent “proof of life” photo is framed as a political comeback, but the hosts argue it masks deeper health and succession concerns within the GOP leadership.",
     "The White House Correspondents’ Dinner revival, featuring Trump’s jab at Kaitlan Collins, is portrayed as a platform that inadvertently amplifies Trump’s narrative rather than rebuking it.",
     "Inside the DNC, the hosts debate whether a strong national committee still matters, noting the new 2028 primary calendar proposal and the tight Michigan Senate primary race as key tests."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729011506.3.38de4ee509577387@mg-d1.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The WHCD Walked Straight Into Trump’s Trap",
+   "date": "2026-07-28T18:15-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/the-whcd-walked-straight-into-trumps",
+   "bullets": [
+    "McConnell’s recent “proof‑of‑life” photo is framed as a health reassurance but the hosts argue it masks deeper concerns about his political relevance and Senate leadership.",
+    "The White House Correspondents’ Dinner revival, including Trump’s jab at Kaitlan Collins, is portrayed as a platform that inadvertently benefits Trump by giving him media exposure and legitimizing his narrative."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260729000343.3.a588b2185a6a0d24@mg-d0.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How Old-School Race Animus Could Shake Up the Michigan Senate Race",
+   "date": "2026-07-28T17:03-07:00",
+   "url": null,
+   "bullets": [
+    "Doctor and former Detroit public‑health director Abdul El‑Sayed is campaigning as the Democratic Senate candidate, highlighting his work on free school eyeglasses, anti‑pollution measures, and lead‑pipe removal.",
+    "El‑Sayed faces a tight primary against four‑term House Democrat Haley Stevens ahead of the Aug. 4 Michigan Senate primary.",
+    "He held a “Knock Out the Vote” rally in Detroit’s Rouge Park, emphasizing his long‑term commitment to the city as he seeks a Senate seat."
    ],
    "summary_by": "groq"
   },
@@ -832,6 +1745,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260728230147.3.8061652b8e6d5240@mg-d0.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Are AIPAC and Haley Stevens... Working Together?",
+   "date": "2026-07-28T16:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/aipac-haley-stevens-redboxing",
+   "bullets": [
+    "AIPAC spent $30 million to help Haley Stevens",
+    "AIPAC's super PAC ran ads with Stevens' requested messages",
+    "AIPAC and Stevens may be evading campaign finance laws"
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260728194048.3.e7705ae617db2b8b@mg2.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
@@ -841,6 +1768,45 @@
    "bullets": [
     "Progressive outsiders backed by the Democratic Socialists of America, Justice Democrats, and labor groups have unseated moderates in 2026 primaries, with pro‑Israel stances becoming a decisive issue in many races",
     "A slate of guaranteed newcomers—including Adam Hamawy in New Jersey and other left‑leaning candidates in safe Democratic districts—are set to join Congress this fall, expanding the progressive coalition in Washington"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260728194048.3.e7705ae617db2b8b@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Meet All the New Progressives and Democratic Socialists Heading to Congress",
+   "date": "2026-07-28T12:40-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/progressives-leftists-heading-to-congress",
+   "bullets": [
+    "Progressive outsiders, backed by groups like the Democratic Socialists of America and Justice Democrats, have unseated moderates in 2026 primaries, reshaping the Democratic field for the midterms.",
+    "Key issues driving the surge include U.S. support for Israel amid Gaza’s humanitarian crisis, framing it as a central campaign theme across races.",
+    "Several newly elected progressives, such as Adam Hamawy of New Jersey, are poised to enter Congress from safe blue districts, forming a new left‑leaning coalition in Washington."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260728191152.3.805dc0964deec575@mg-d1.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "Trying to Rewrite History",
+   "date": "2026-07-28T12:11-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/trying-to-rewrite-history",
+   "bullets": [
+    "Trying to Rewrite History"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260728162945.3.911274615418214a@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How Trump Could Declare ‘Bankruptcy’ on Iran",
+   "date": "2026-07-28T09:29-07:00",
+   "url": null,
+   "bullets": [
+    "Nick Catoggio argues Trump’s “bankruptcy” on Iran—walking away from the conflict—would only work if Iran agreed to revert oil flows to pre‑war levels, which they refuse.",
+    "The author questions whether Trump can truly abdicate America’s stance on Iran, suggesting the only realistic option is to accept the loss and move on."
    ],
    "summary_by": "groq"
   },
@@ -871,6 +1837,19 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260728141815.3.cea43fc5d9baffd8@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
+   "subject": "Mehdi Debates GOP California Governor Nominee on Iran and Slams Musk’s Anti-Muslim Bigotry",
+   "date": "2026-07-28T07:18-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/mehdi-debates-gop-california-governor",
+   "bullets": [
+    "On ‘Piers Morgan Uncensored’ on Monday, Mehdi debated Steve Hilton, the Trump-endorsed Republican nominee for California governor who is trailing by 25 points [ https://substack.com/redirect/a2b1f6a9-c4a9-4157-8cd5-827231efc3a2?j=eyJ1IjoiNj…",
+    "“You can’t just blow-up power plants and bridges, civilian targets, because you don’t like the opponent’s strategy. That’s against all the laws of war,” Mehdi said, adding, “If you actually care about the Iranian people, why would you suppo…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20260728132040.3.b90ca11793d4df51@mg-d1.substack.com",
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
    "pub": "thebulwark",
@@ -885,6 +1864,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260728132040.3.b90ca11793d4df51@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "It’s Hard to Believe This Is the Situation We Face",
+   "date": "2026-07-28T06:20-07:00",
+   "url": null,
+   "bullets": [
+    "Trump asked Robert F. Kennedy Jr. to find a vaccine-autism link",
+    "Trump's team limited Kennedy's anti-vaccine comments",
+    "Ten years of Trumpism inflicted harm on US institutions"
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260728130233.3.46e8e1fb0ad4f8e9@mg-d1.substack.com",
    "newsletter": "Your Local Epidemiologist",
    "pub": "yourlocalepidemiologist",
@@ -893,6 +1886,20 @@
    "url": "https://yourlocalepidemiologist.substack.com/p/measles-record-and-hot-questions",
    "bullets": [
     "COVID‑19 is entering a summer wave despite low absolute numbers, especially in the West, while an FDA‑recommended 2026‑27 vaccine formulation may be available by mid‑August, so adults over 65 should get the current booster now"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260728112202.3.f8ed97cd674dbd07@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Why Is This Alleged Abuser Still in Congress?",
+   "date": "2026-07-28T04:22-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-is-this-alleged-abuser-still",
+   "bullets": [
+    "Republican Congressman Max Miller faces multiple abuse allegations, including throwing boiling water at his ex‑wife, threatening her father, and a daughter’s broken collarbone, yet House GOP members have taken no action.",
+    "Miller, a former Trump aide, is also being urged by the Trump administration to influence mail‑in voting rules before the midterms, despite the serious accusations.",
+    "The piece highlights broader GOP indifference, noting a 5‑4 Supreme Court that upholds the 14th Amendment and a looming racist crackdown in Springfield, Ohio."
    ],
    "summary_by": "groq"
   },
@@ -925,6 +1932,19 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260728052241.3.36c6072f64f186e6@mg-d1.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "July 27, 2026",
+   "date": "2026-07-27T22:22-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/july-27-2026",
+   "bullets": [
+    "A White House Domestic Policy Council report accused the Smithsonian’s National Museum of American History of portraying the U.S. as fundamentally defined by white supremacy and systemic oppression, demanding a rewrite that emphasizes white‑founding narratives and downplays slavery’s legacy.",
+    "The report targeted museum director Anthea Hartig, alleging “extreme political activism” and mischaracterizing exhibits, while Hartig and Democratic lawmakers defended the museum’s extensive Founders‑related displays and accused the report of selective quoting and straw‑man tactics."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260728000027.3.b332cbead3d69b86@mg-d0.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
@@ -935,6 +1955,20 @@
     "Keiko Fujimori, daughter of former president Alberto Fujimori—who ruled via a 1992 self‑coup, defeated the Shining Path but was convicted in 2009 for death‑squad massacres and forced sterilizations—has been elected Peru’s president, reviving the polarising Fujimorismo legacy.",
     "She entered politics as a teenager, becoming a congresswoman before age 20 and leading the right‑wing Popular Force party, promising a new “order” after three failed presidential bids since 2011.",
     "Critics warn her administration may repeat past abuses, citing her family’s corruption scandals, human‑rights violations, and the risk of authoritarian governance amid Peru’s fragile democracy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260728000027.3.b332cbead3d69b86@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
+   "subject": "7 Things You Should Know About Peru's New Right-Wing President",
+   "date": "2026-07-27T17:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/7-things-you-should-know-about-perus",
+   "bullets": [
+    "Keiko Fujimori, daughter of former president Alberto Fujimori—who ruled 1990‑2000, staged a 1992 self‑coup, was convicted in 2009 for human‑rights abuses and forced sterilizations—won the presidency on Tuesday, reviving the controversial Fujimorismo brand.",
+    "She entered politics before age 20, serving as first lady’s secretary and later leading the right‑wing Popular Force party, running unsuccessfully for president three times since 2011 before this victory.",
+    "Her election is contentious: supporters cite her father’s defeat of the Shining Path insurgency, while critics warn of a legacy of corruption, death‑squad massacres (Barrios Altos, La Cantuta) and authoritarian tactics."
    ],
    "summary_by": "groq"
   },
@@ -953,9 +1987,35 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260727234444.3.4ab4ce0c124aa2b0@mg-d0.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Laura Loomer’s About-Face on Ukraine Baffles Allies",
+   "date": "2026-07-27T16:44-07:00",
+   "url": null,
+   "bullets": [
+    "Laura Loomer, previously a staunch anti‑Ukraine MAGA figure, made a rapid shift by touring Ukraine, meeting soldiers, visiting bomb sites, and interviewing President Zelensky, earning a Trump‑approved repost.",
+    "Her sudden pro‑Ukraine stance has sparked confusion and accusations of hidden funding among right‑wing commentators like David Freiheit and Alex Jones, who mocked her pivot.",
+    "The author suggests multiple theories for Loomer’s 180‑degree turn and urges readers to subscribe to Bulwark+ for the full analysis."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260727233014.3.6f01152c4558ee90@mg-d1.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "Rejecting the Constitutional Order",
+   "date": "2026-07-27T16:30-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/rejecting-the-constitutional-order",
+   "bullets": [
+    "Rejecting the Constitutional Order"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20260727192558.3.e8eb53acab26d4e3@mg2.substack.com",
    "newsletter": "Zeteo",
-   "pub": "zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
    "subject": "‘Cockroach’ Protests Signal Young India’s Growing Impatience With Modi’s Ways",
    "date": "2026-07-27T12:25-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/cockroach-protests-india-modi-democracy-whats-next",
@@ -964,6 +2024,32 @@
     "The movement, composed largely of teenagers, forced a senior Modi cabinet minister to step down, highlighting growing impatience among young Indians with Modi’s governance."
    ],
    "summary_by": "groq"
+  },
+  {
+   "id": "20260727192558.3.e8eb53acab26d4e3@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
+   "subject": "‘Cockroach’ Protests Signal Young India’s Growing Impatience With Modi’s Ways",
+   "date": "2026-07-27T12:25-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/cockroach-protests-india-modi-democracy-whats-next",
+   "bullets": [
+    "A youth‑led “Cockroach Janta Party” staged a five‑week Delhi protest demanding reform of corruption in India’s public exam system, marking the first time in eight years a minister has resigned under public pressure.",
+    "The movement, composed largely of teenagers, forced a senior Modi cabinet minister to step down, highlighting growing impatience among young Indians with Modi’s governance."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260727174853.3.e487f827d4a8936d@mg-d0.substack.com",
+   "newsletter": "Home of the Brave",
+   "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
+   "subject": "The Party’s Over: Why the White House Correspondents’ Dinner Flopped",
+   "date": "2026-07-27T10:48-07:00",
+   "url": "https://open.substack.com/pub/ofthebrave/p/the-partys-over-why-the-white-house",
+   "bullets": [
+    "True confession: We have attended White House Correspondents’ Association (WHCA) Dinners in the past, and they can be inspiring and a lot of fun. The tradition, which began more than a century ago, started out with about 50 White House repo…",
+    "These days, more than 2,500 journalists, government officials, and even Hollywood stars cram into one huge hotel ballroom for an evening intended to celebrate freedom of the press and the First Amendment. Promising journalism students win c…"
+   ],
+   "summary_by": "excerpt"
   },
   {
    "id": "20260727170705.3.e93030bf8daa97f1@mg-d0.substack.com",
@@ -976,6 +2062,20 @@
     "The White House Correspondents’ Association’s annual dinner was portrayed as a weak, staged event where journalists pretended Trump was a normal political figure, highlighting media complicity.",
     "The author argues Trump understood America and its institutions better than many, suggesting his defeat stemmed from Iran’s influence rather than domestic factors.",
     "Trumpism, according to the piece, thrives because opponents consistently choose surrender over confronting discomfort, signaling a broader decline of American global influence."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260727170705.3.e93030bf8daa97f1@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Was Right About the Corporate Media",
+   "date": "2026-07-27T10:07-07:00",
+   "url": null,
+   "bullets": [
+    "The White House Correspondents’ Association’s annual dinner was portrayed as a sham, with journalists treating Donald Trump as a normal political figure despite his controversial legacy.",
+    "The author argues Trump understood America and its institutions better than most, claiming his defeat was ultimately caused by the Islamic Republic of Iran.",
+    "He defines Trumpism’s core as the opposing side’s tendency to surrender rather than face discomfort, suggesting this dynamic eroded U.S. global influence."
    ],
    "summary_by": "groq"
   },
@@ -994,6 +2094,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260727145203.3.9aa9e31a0260d484@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "This Congressman Went From Republican to Independent. But How “Independent” Is He?",
+   "date": "2026-07-27T07:52-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/kevin-kiley-independent-gerrymandering",
+   "bullets": [
+    "Rep. Kevin Kiley left the GOP to become the only independent in the House, citing Trump‑driven partisanship and a desire to break the party’s cult of personality.",
+    "Kiley accepted money from Speaker Mike Johnson’s Grow the Majority committee, yet opposes increased Pentagon funding for the Iran war and has criticized the 2020 election’s legitimacy.",
+    "He plans to ban mid‑decade redistricting, arguing he should have introduced the bill before Proposition 50 split his district, and he questions whether his party switch was driven by Newsom’s gerrymandered California district."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260727131726.3.11c7a3da9c880a3b@mg2.substack.com",
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
    "pub": "thebulwark",
@@ -1004,6 +2118,34 @@
     "The US halted its Iran bombing campaign after Gen. Dan Caine warned of dwindling munitions, creating a pause for potential peace talks.",
     "Trump’s rescheduled White House Correspondents Dinner turned into a rambling, joke‑less tirade that fell flat on a hostile press audience, highlighting his continued craving for elite validation.",
     "Paramount‑Skydance’s $111 billion bid for Warner Bros. Discovery is delayed until June 1 2027 or an antitrust ruling, as regulators fear the combined firm would control over 30% of the box‑office market."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260727131726.3.11c7a3da9c880a3b@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Wanted to Kill. Then He Bombed.",
+   "date": "2026-07-27T06:17-07:00",
+   "url": null,
+   "bullets": [
+    "US paused Iran strikes due to munitions stockpile concerns",
+    "Trump bombed at the White House Correspondents Dinner",
+    "Democrats have 38% approval rating ahead of 2026 election"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260727110801.3.5e08bb019d019ca0@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "First Draft: Wild Attack on Mamdani Shows Netanyahu Knows He’s Cornered",
+   "date": "2026-07-27T04:08-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/wild-attack-on-mamdani-shows-netanyahu",
+   "bullets": [
+    "Mayor Zohran Mamdani called Netanyahu a “war criminal” and urged federal authorities to arrest him on an ICC warrant when he visits the UN, while noting he lacks arrest power himself",
+    "After two stabbing attacks on New York’s Upper West Side, Mamdani said the assailant shouted “Allahu Akbar,” promised full prosecution, and condemned antisemitic and racist violence",
+    "Netanyahu responded on Fox with a hostile attack on Mamdani, claiming he endangers Jewish New Yorkers, highlighting his political cornered position"
    ],
    "summary_by": "groq"
   },
@@ -1036,6 +2178,32 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260727041715.3.62b257dc76a4db96@mg2.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "July 26, 2026",
+   "date": "2026-07-26T21:17-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/july-26-2026",
+   "bullets": [
+    "Trump acts as if the Constitution doesn't exist",
+    "Trump imposed tariffs on 99.4% of US trade",
+    "Trump claims power to tax and declare war, bypassing Congress"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260727005854.3.9c915fada3758e94@mg-d1.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "Whitewashing",
+   "date": "2026-07-26T17:58-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/whitewashing",
+   "bullets": [
+    "Whitewashing"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20260726211608.3.caa8af6220479854@mg-d1.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
@@ -1050,6 +2218,45 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260726211608.3.caa8af6220479854@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Why Trump Has ‘No F*cking Way Out’ of His Failed Iran War",
+   "date": "2026-07-26T14:16-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-iran-war-no-way-out",
+   "bullets": [
+    "Trump’s administration has no viable exit strategy for its illegal Iran war, with senior officials warning that the conflict could become a perpetual ‘forever war’ that would drag future administrations into armed conflict.",
+    "Despite a Pentagon‑drafted massive attack plan, Trump is unlikely to sign off on it, and officials fear the war will only end if the White House capitulates to Tehran—an outcome Trump refuses to accept."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260726163031.3.a959dace06822f36@mg-d1.substack.com",
+   "newsletter": "Heather Cox Richardson and 250 to 250 from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "Week Nine in 250 to 250",
+   "date": "2026-07-26T09:30-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/week-nine-in-250-to-250",
+   "bullets": [
+    "Heather Cox Richardson's 250 to 250 Project honors the Declaration of Independence",
+    "Senator Mark Kelly narrates Apollo 11's improbable quest",
+    "Senator Elizabeth Warren recounts Shays’ Rebellion"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260726160659.3.af9fd55147cb91aa.39ek1rw5@mg1.substack.com",
+   "newsletter": "Substack",
+   "pub": "no-reply_at_substack_com_dfzcnd2br853yb_p6m22105",
+   "subject": "Live video with The Bulwark now: Epstein Survivor Asks: Will Any GOP Senators Do the Right Thing? (w/ Dani Bensky)",
+   "date": "2026-07-26T09:06-07:00",
+   "url": null,
+   "bullets": [
+    "Live video on The Bulwark features an Epstein survivor questioning whether any GOP senators will take the right action, hosted with Dani Bensky."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260726160452.3.eb4d09af0bd03b01@mg2.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
    "pub": "thebulwark",
@@ -1060,6 +2267,47 @@
     "The DNC reported $2 million in debt to the RNC, which holds over $128 million cash, highlighting a stark fundraising gap with Republicans.",
     "Chair Ken Martin defended the DNC’s finances, claiming the party raises $8.6 million monthly and is investing in campaign infrastructure despite the debt.",
     "At a recent meeting in the Salamander Hotel, DNC members expressed skepticism about Martin’s assurances and debated the primary calendar for 2028."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260726160452.3.eb4d09af0bd03b01@mg-d0.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "It’s Gone from Bad to Worse to Perilous at the DNC",
+   "date": "2026-07-26T09:04-07:00",
+   "url": null,
+   "bullets": [
+    "DNC has $2 million debt",
+    "RNC has $128 million on hand",
+    "DNC raises $8.6 million per month"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260726140258.3.9831bf7247c28471@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "The GOP Is Now ‘An Extremist Movement,’ Says Ex-Republican Strategist",
+   "date": "2026-07-26T07:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-republican-party-is-an-extremist",
+   "bullets": [
+    "Former GOP strategist Stuart Stevens argues the Republican Party has become an extremist movement, driven by Trump and rooted in racial politics, rather than a traditional party.",
+    "Stevens and host John Harwood discuss why “race is the original sin of the modern Republican Party” and outline what it would take for Democrats to win the 2028 election."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260726140253.3.8dbe230a4067cf93@mg-d1.substack.com",
+   "newsletter": "Home of the Brave",
+   "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
+   "subject": "Trump’s Renovations are Tacky, Garish, and un-American",
+   "date": "2026-07-26T07:02-07:00",
+   "url": "https://open.substack.com/pub/ofthebrave/p/trumps-renovations-are-tacky-garish",
+   "bullets": [
+    "Trump's renovations added 90,000 sq ft ballroom",
+    "East Wing was demolished for the new ballroom",
+    "Trump also replaced Lincoln Bedroom's bathroom with statuary marble"
    ],
    "summary_by": "groq"
   },
@@ -1105,6 +2353,20 @@
    "summary_by": "groq"
   },
   {
+   "id": "20260726120301.3.9b3bcea8932b7cdc@mg-d1.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why Gretchen Whitmer’s Senate Endorsement Matters",
+   "date": "2026-07-26T05:03-07:00",
+   "url": null,
+   "bullets": [
+    "Gretchen Whitmer, Michigan’s two‑term governor, endorsed House Democrat Haley Stevens in the Senate primary, arguing Stevens is the best chance to keep the seat for Democrats amid rising Medicaid cuts, tariffs, and high costs.",
+    "Whitmer’s endorsement highlights a strategic choice: Stevens’ record in swing districts versus Abdul El‑Sayed’s left‑wing populism, with Stevens linked to wealthy outside groups and El‑Sayed appealing to some conservatives.",
+    "Despite Whitmer’s influence, her recent controversies—support for data‑center construction and vetoing budget amendments—have alienated progressives, environmentalists, labor, and some legislative allies, potentially dampening the endorsement’s impact."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260726103030.3.26988932e64b743b@mg-d0.substack.com",
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
@@ -1128,6 +2390,20 @@
    "bullets": [
     "Matthew Smith of Chronometer Partners predicts a US natural gas shortage starting in 2028, with working storage potentially exhausted by 2030 due to rapidly rising demand despite ample production.",
     "The Doomberg team notes that US shale gas output has repeatedly surged past 70‑100 bcf/d, questioning whether demand can outpace this growth and suggesting Smith’s crisis may be overstated."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260726054800.3.bcdb96629f5dbb86@mg2.substack.com",
+   "newsletter": "Heather Cox Richardson from Letters from an American",
+   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
+   "subject": "July 25, 2026",
+   "date": "2026-07-25T22:48-07:00",
+   "url": "https://heathercoxrichardson.substack.com/p/july-25-2026",
+   "bullets": [
+    "Trump’s White House Office of Administration is moving ahead with a plan to paint the historic Eisenhower Executive Office Building white, bypassing GSA’s historic preservation reviews and sparking lawsuits from over two dozen experts who warn the paint could damage the granite and create costly repairs.",
+    "The administration is pushing dramatic revisions to Section 106 of the National Historic Preservation Act, removing mandatory public and tribal consultation for federal projects, which could strip protections from over 100,000 listed historic sites, including Chaco Canyon’s 4,700 archaeological sites and a proposed triumphal arch near Arlington.",
+    "Opposing lawmakers, led by Senators Angus King and Martin Heinrich and several House members, warn the arch and other projects would violate multiple laws, could result in criminal fines, and represent a “stone‑cold illegal” erosion of America’s cultural heritage."
    ],
    "summary_by": "groq"
   },
@@ -4020,64 +5296,10 @@
     "Portugal’s 1974 revolution to democracy and U.S. low profile in Lisbon highlight 1976’s cautious optimism, absent in today’s polarized America."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260704000147.3.82d10be4ec5a0823@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Celebrating Nationalism Is ‘Very Dangerous,’ Warns UCLA Historian",
-   "date": "2026-07-03T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/celebrating-nationalism-is-very-dangerous",
-   "bullets": [
-    "Historian Robin D. G. Kelley warns that celebrating nationalism during the U.S. 250th anniversary is dangerous, arguing the Declaration’s promise of equality was never meant for all, especially African‑American and Indigenous peoples.",
-    "He links Trump’s assault on birthright citizenship to a broader vision of a white republic and ties the rise of U.S. fascism to the systemic oppression of Palestinian voices.",
-    "Kelley questions whether the Founding Fathers left Britain for liberty or to preserve slavery, suggesting the nation must become “post‑nationalist” to confront these contradictions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260703190230.3.a81068bfab1c807e@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "On 'Piers Uncensored,' Mehdi Debates Director of Elon Musk-Backed, Anti-Muslim Movie",
-   "date": "2026-07-03T12:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/on-piers-uncensored-mehdi-debates",
-   "bullets": [
-    "Mehdi Debates Uwe Boll on Piers Morgan’s ‘Uncensored’, accusing Boll’s film *Citizen Vigilante* of being a 90‑minute far‑right propaganda piece that is violent, incoherent and Islamophobic, and condemning Elon Musk for promoting it on Twitter.",
-    "Debate highlights Boll’s gaslighting of European crime rates, his self‑serving reversal on Donald Trump and MAGA, and the film’s refusal of classification in Germany, with Variety calling it a morally bankrupt exploitation movie."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260703183038.3.9189a9aa40b98e53@mg2.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The American Popularity Contest Turns 250",
-   "date": "2026-07-03T11:30-07:00",
-   "url": null,
-   "bullets": [
-    "The newsletter uses Robert Altman’s 1975 film *Nashville* to argue that America’s political scene is driven by celebrity culture, with characters chasing fame rather than policy, exemplified by the “Replacement” party’s gimmicky campaign.",
-    "It contrasts *Nashville* with Richard Linklater’s *Dazed and Confused*, suggesting both films show a persistent American desire for popularity and belonging, from 1976 bicentennial celebrations to high‑school cliques.",
-    "The author invites readers to share favorite American movies and promotes a Bulwark+ subscription discount for the Fourth of July weekend."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260703170206.3.e5d94e9498fa8126@mg-d0.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "It's 100x Worse Than Watergate—and Republicans Still Won't Quit",
-   "date": "2026-07-03T10:02-07:00",
-   "url": null,
-   "bullets": [
-    "Sarah Longwell and Bill Kristol argue that the GOP has slid from Reagan’s inclusive rhetoric to a hard‑line stance, citing 2,000 daily ICE arrests and a backlash over the birthright citizenship ruling.",
-    "They claim the “socialist takeover” scare misreads Democratic voters, pointing to a shift toward moderate policies and highlighting emerging 2028 candidates who could reshape the party’s future."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 69,
-  "total": 297
+  "shown": 139,
+  "total": 386
  }
 }
