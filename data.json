@@ -1,29 +1,18 @@
 {
- "updated": "2026-08-03T17:59-07:00",
+ "updated": "2026-08-04T09:26-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s polling collapse is sparking a debate over a possible “Blue Tsunami” that could reshape the 2026 midterms (The Bulwark, Zeteo).",
-   "The West Bank is experiencing a surge in settler violence, with UN reports calling it “terrorism” as Israeli forces protect settlers while Palestinians suffer attacks (Zeteo).",
-   "Michigan’s Democratic Senate primary is turning into a battle of ideals versus electability, with Abdul El‑Sayed’s Medicare‑for‑All platform challenging Haley Stevens’ incremental approach (The Bulwark).",
-   "The Trump administration’s use of no‑bid contracts and false accusations—such as the Reflecting Pool case—has led to legal fallout and questions about abuse of power (The Bulwark, Heather Cox Richardson).",
-   "China is exploiting the U.S. defeat in the Iran war to expand its military and economic influence, shifting global power dynamics (Paul Krugman).",
-   "Latino voters, once Trump’s base, are now pivoting away due to economic concerns, making them the nation’s most critical swing bloc for 2026 (Zeteo)."
+   "The US has nearly depleted its stock of long-range precision missiles in the Iran conflict, according to The Bulwark",
+   "Abdul El-Sayed is leading in the Michigan Democratic Senate primary, with a double-digit lead over Haley Stevens, as reported by The Bulwark and Zeteo",
+   "Billionaires have spent $1.6 billion on the November midterms, with many supporting Trump, as noted by Paul Krugman",
+   "The EU's sanctions on Russia are being hindered by national interests, particularly from Greece, as discussed in Doomberg",
+   "The West Bank is experiencing a surge in settler violence, with some labeling it 'terrorism', as covered by Zeteo",
+   "Todd Blanche's confirmation as attorney general is likely, despite his ties to the Epstein case, as mentioned in The Bulwark"
   ],
   "by": "groq",
   "ids": [
-   "20260801010021.3.557455962fe536aa@mg2.substack.com",
-   "20260801010021.3.557455962fe536aa@mg2.substack.com",
-   "20260801045926.3.2fd5724b66d3b2c5@mg2.substack.com",
-   "20260801104032.3.9b9a49da88a91625@mg-d1.substack.com",
-   "20260801113048.3.a1bf97058ce18325@mg-d0.substack.com",
-   "20260801113048.3.a1bf97058ce18325@mg-d1.substack.com",
-   "20260801122811.3.9676161973603b2e@mg2.substack.com",
-   "20260801130315.3.93a8405dfd23acc1@mg-d1.substack.com",
-   "20260801132725.3.438355388035f76d@mg-d0.substack.com",
-   "20260801132725.3.438355388035f76d@mg-d1.substack.com",
-   "20260801150223.3.86841099f017afa0@mg-d1.substack.com",
    "20260801170303.3.c07053fa7823e187@mg-d0.substack.com",
    "20260801170303.3.c07053fa7823e187@mg2.substack.com",
    "20260801213848.3.5252c5c4c6cf50b8.hu14v0yq@mg1.substack.com",
@@ -32,6 +21,7 @@
    "20260802051136.3.b0be0d61fd7bc915@mg-d1.substack.com",
    "20260802103041.3.f0350c08ebc200c0@mg-d1.substack.com",
    "20260802120219.3.87a792f532ad161c@mg-d0.substack.com",
+   "20260802120219.3.87a792f532ad161c@mg2.substack.com",
    "20260802120741.3.2cd38c90a0fafbdf@mg2.substack.com",
    "20260802150639.3.af9fd55147cb91aa.b2l1ypb3@mg1.substack.com",
    "20260802160312.3.dbe9b83fcf9f7b76@mg-d0.substack.com",
@@ -50,6 +40,7 @@
    "20260803121507.3.e61c273ae8a3d896@mg-d1.substack.com",
    "20260803130344.3.06139ed782eb530a@mg-d1.substack.com",
    "20260803141027.3.dc1411c611879ba6@mg-d1.substack.com",
+   "20260803141027.3.dc1411c611879ba6@mg-d1.substack.com",
    "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com",
    "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com",
    "20260803170153.3.0f508d27218097cc@mg2.substack.com",
@@ -59,12 +50,115 @@
    "20260803192008.3.b3b73945fb862ff0.snub30vl@mg1.substack.com",
    "20260803204739.3.de2d96b8b054ab4c@mg-d0.substack.com",
    "20260803204739.3.de2d96b8b054ab4c@mg2.substack.com",
-   "20260804000940.3.c0a3a566d72b539f@mg-d1.substack.com"
+   "20260804000940.3.c0a3a566d72b539f@mg-d1.substack.com",
+   "20260804090102.3.76503c74f1833da2@mg-d1.substack.com",
+   "20260804102904.3.c84a4e21f11cce92@mg2.substack.com",
+   "20260804103121.3.d0fae2048f1c23f8@mg-d0.substack.com",
+   "20260804103533.3.18b6ec17808de268@mg-d0.substack.com",
+   "20260804110443.3.e6af01d08bc29a46@mg-d0.substack.com",
+   "20260804135047.3.f5f040f874d8a8ee@mg-d0.substack.com"
   ],
-  "updated": "2026-08-03T17:59-07:00",
+  "updated": "2026-08-04T09:26-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260804135047.3.f5f040f874d8a8ee@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Ground Control to Major Don",
+   "date": "2026-08-04T06:50-07:00",
+   "url": null,
+   "bullets": [
+    "US used virtually all long-range precision missiles in Iran conflict",
+    "Trump claims Iran deal, but Iran says no talks are ongoing",
+    "Todd Blanche to be confirmed as attorney general despite Epstein coverup ties"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260804110443.3.e6af01d08bc29a46@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Michigan Braces for the Biggest Primary of the Year",
+   "date": "2026-08-04T04:04-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/michigan-braces-for-the-biggest-primary",
+   "bullets": [
+    "Abdul El-Sayed ends campaign in Detroit",
+    "GOP Senate holdouts support Todd Blanche",
+    "El-Sayed opposes Trump's racist policies"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260804103533.3.18b6ec17808de268@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Is Michigan a Reckoning for the Democratic Establishment?",
+   "date": "2026-08-04T03:35-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/is-michigan-a-reckoning-for-the-democratic",
+   "bullets": [
+    "Abdul El-Sayed leads Haley Stevens by 10 points in Michigan",
+    "The Democratic establishment spent over $60 million on Stevens' campaign",
+    "An El-Sayed win would be a blow to Chuck Schumer and AIPAC"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260804103121.3.d0fae2048f1c23f8@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Covid-19 summer wave, peak mosquito season, two Cyclospora deaths (and the outbreak calming down), and more",
+   "date": "2026-08-04T03:31-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/covid-19-summer-wave-peak-mosquito",
+   "bullets": [
+    "Covid-19 summer wave is brewing with low rates but climbing metrics",
+    "Cyclospora outbreak has over 17,000 cases and two deaths",
+    "West Nile virus cases are five times the historical average"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260804102904.3.c84a4e21f11cce92@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Oligarchs are Doubling Down on Republicans",
+   "date": "2026-08-04T03:29-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-oligarchs-are-doubling-down-on",
+   "bullets": [
+    "Billionaires have spent $1.6 billion on the November midterms",
+    "G. Elliott Morris's model gives Democrats an 85% chance of taking the House",
+    "Elon Musk and other billionaires are doubling down on supporting Trump despite his unpopularity"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260804090102.3.76503c74f1833da2@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Passing Gas",
+   "date": "2026-08-04T02:01-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/passing-gas",
+   "bullets": [
+    "The EU’s latest sanctions on Russia are stalling because member states, notably Greece, use vetoes to protect shipping tycoons, forcing Brussels to consider smaller, targeted sanctions to reduce national veto power.",
+    "Viktor Orbán’s defeat has exposed how national interests can derail EU cohesion, raising doubts that the EU can maintain its sovereignty‑preserving veto system amid growing disunity.",
+    "The ongoing stalemate threatens to worsen the EU’s winter gas crisis and may accelerate the EU’s dissolution, as national capitals prioritize domestic interests over collective action."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260804010019.3.658bf6b9d5528fa7@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "‘Doomsday Scenario’: How Trump and Republicans Could Steal Power – Even If They Lose",
+   "date": "2026-08-03T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/doomsday-scenario-trump-republicans-steal-election",
+   "bullets": [
+    "This week, we are launching our ‘Start The Steal’ series, at the critical three-month stretch left in the 2026 midterm elections. The president of the United States and his allies are conducting a scorched-earth campaign – on a gigantic, hi…",
+    "Democrats may win enough seats to take back the House, but Republicans can challenge those wins and attempt to steal control of Congress. The first path toward this doomsday scenario would be if Republicans replace the current House clerk. …"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20260804000940.3.c0a3a566d72b539f@mg-d1.substack.com",
    "newsletter": "Will Sommer - The Bulwark",
@@ -155,9 +249,9 @@
    "date": "2026-08-03T10:01-07:00",
    "url": null,
    "bullets": [
-    "Trump awarded a no‑bid contract to fix the Lincoln Memorial Reflecting Pool, which then failed and he blamed private citizen David Hearn, leading U.S. Attorney Jeanine Pirro to charge Hearn with a felony that could carry up to ten years in prison.",
-    "Pirro’s prosecution relied on false testimony claiming Hearn manually ripped out sealant, despite video evidence showing the pool’s failure pre‑dated his arrival; the case was withdrawn after the Justice Department admitted the charges were baseless.",
-    "The author argues that the scandal illustrates the need for accountability—potentially jail for a Department of the Interior official or disbarment of a Justice Department lawyer—to reform American politics."
+    "Trump blamed David Hearn for Reflecting Pool failure",
+    "Hearn faced up to 10 years in prison for baseless charges",
+    "Prosecutor Jeanine Pirro lied about Hearn's involvement"
    ],
    "summary_by": "groq"
   },
@@ -209,10 +303,11 @@
    "date": "2026-08-03T07:10-07:00",
    "url": null,
    "bullets": [
-    "How much of an eyesore will Donald Trump’s coveted Triumphal Arch be? A National Park Service assessment found that the planned 250-foot arch will intrude on the views from “dozens of historic sites around the capital,” per new reporting fr…",
-    "Start your week off right: Come irradiate your brain with MAGA Mondays! Will Sommer and Andrew Egger are live on Substack [ https://open.substack.com/live-stream/304625?utm_source=post-publish ] and YouTube [ https://substack.com/redirect/7…"
+    "Trump's 250-foot arch will intrude on historic sites' views",
+    "Todd Blanche's confirmation as attorney general is likely",
+    "Democrats can turn Blanche's confirmation into a liability for Republicans"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260803141027.3.dc1411c611879ba6@mg-d1.substack.com",
@@ -490,10 +585,11 @@
    "date": "2026-08-02T05:02-07:00",
    "url": null,
    "bullets": [
-    "ABDUL EL-SAYED HAS BEEN RUNNING to become Michigan’s Democratic Senate nominee for more than fifteen months. And if there’s been one constant over that period it’s been his promotion of “Medicare for All” as a way to make sure all Michigand…",
-    "It’s a big focus of his stump speech, something he usually raises right at the beginning. It’s all over his campaign signage. And it’s the only specific policy promise in his three-part campaign slogan, which he and supporters invoke consta…"
+    "Abdul El‑Sayed, Detroit’s former public‑health director, is running for Michigan Senate on a single‑payer Medicare‑for‑All platform, contrasting with Rep. Haley Stevens’ incremental, hybrid‑insurance approach.",
+    "The piece notes that while Medicare‑for‑All could expand coverage, it would disrupt a sector that accounts for one‑sixth of the U.S. economy and faces entrenched political and industry opposition.",
+    "El‑Sayed dismisses narrower reforms like free primary care, arguing only a full single‑payer system can achieve universal coverage despite historical precedents of compromise within the Democratic Party."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260802103041.3.f0350c08ebc200c0@mg-d1.substack.com",
@@ -913,10 +1009,11 @@
    "date": "2026-07-31T08:47-07:00",
    "url": null,
    "bullets": [
-    "͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏ …",
-    "Not only has our lousy commander-in-chief allowed the country's missile inventory to be dramatically depleted, Hegseth's politicized hiring and firing of officers has come home to roost and is doing real damage to the military as an institu…"
+    "Jonathan V. Last posted a new note teasing a likely detailed analysis, with the teaser line “Fwiw, you’ll probably learn a…”.",
+    "Sonny Bunch announced a new post titled “Oh hey, what’s this? (We’ve moved…)”.",
+    "The Bulwark published a note criticizing the president’s handling of the missile inventory, Hegseth’s politicized officer hires/fires, and citing Zelensky’s promise to show…"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260731132738.3.4b8fd25463f8e589@mg-d0.substack.com",
@@ -1454,10 +1551,11 @@
    "date": "2026-07-29T16:47-07:00",
    "url": null,
    "bullets": [
-    "EMBATTLED DEMOCRATIC NATIONAL COMMITTEE Chair Ken Martin is “open” to the idea of bringing on additional help from an experienced party leader to address the committee’s ongoing fundraising problems, according to a DNC official.",
-    "What role that person would play—let alone if it will happen before the midterms—remains unclear. But the willingness to entertain such a change comes as operatives in the party have begun broaching the idea of bringing on a co-chair at the…"
+    "DNC Chair Ken Martin, under pressure from operatives over $2 million debt and low morale, is reportedly open to adding a high‑profile co‑chair to handle fundraising and media duties, though his ego may block it.",
+    "Names floated for the role include Rahm Emanuel, Donna Brazile, Pete Buttigieg and others, but most are either pursuing presidential bids or retired, making a hire uncertain before the midterms.",
+    "Martin’s future hinges on the August DNC summer meeting in Austin, where a majority of the roughly 450 members could vote to remove him, though state chairs remain largely loyal due to recent funding boosts."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260729220337.3.4d81535f63340cba@mg2.substack.com",
@@ -1844,10 +1942,10 @@
    "date": "2026-07-28T07:18-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/mehdi-debates-gop-california-governor",
    "bullets": [
-    "On ‘Piers Morgan Uncensored’ on Monday, Mehdi debated Steve Hilton, the Trump-endorsed Republican nominee for California governor who is trailing by 25 points [ https://substack.com/redirect/a2b1f6a9-c4a9-4157-8cd5-827231efc3a2?j=eyJ1IjoiNj…",
-    "“You can’t just blow-up power plants and bridges, civilian targets, because you don’t like the opponent’s strategy. That’s against all the laws of war,” Mehdi said, adding, “If you actually care about the Iranian people, why would you suppo…"
+    "Mehdi Debates Steve Hilton on Piers Morgan Uncensored, condemning Trump‑backed California governor’s support for Iran war, calling civilian infrastructure attacks war crimes and citing Hilton’s refusal to discuss the conflict.",
+    "Mehdi accuses Elon Musk of anti‑Muslim bigotry, noting Musk’s recent comments to The Economist and tweet calling the editor‑in‑chief a “traitor to the West,” and highlights Musk’s role as a top Republican donor and Trump supporter."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260728132040.3.b90ca11793d4df51@mg-d1.substack.com",
@@ -2046,10 +2144,11 @@
    "date": "2026-07-27T10:48-07:00",
    "url": "https://open.substack.com/pub/ofthebrave/p/the-partys-over-why-the-white-house",
    "bullets": [
-    "True confession: We have attended White House Correspondents’ Association (WHCA) Dinners in the past, and they can be inspiring and a lot of fun. The tradition, which began more than a century ago, started out with about 50 White House repo…",
-    "These days, more than 2,500 journalists, government officials, and even Hollywood stars cram into one huge hotel ballroom for an evening intended to celebrate freedom of the press and the First Amendment. Promising journalism students win c…"
+    "The 2025 White House Correspondents’ Dinner, held after a gunman breached security, featured President Trump, who insulted journalists, called CNN’s Kaitlan Collins a “fake” and mocked her for not smiling, while the WHCA’s president, Jiang, failed to condemn his attacks on press freedom.",
+    "The WHCA’s decision to invite Trump—who has repeatedly attacked the First Amendment, sued media outlets, demanded cleared Pentagon reporting, and labeled dissenting news “fake”—was seen as a betrayal of its role as a bridge between reporters and the administration, prompting an open letter from former journalists demanding a public defense of press freedom.",
+    "The event highlighted the growing tension between the Oval Office and the media, echoing past administrations’ conflicts, and underscored the urgency for the WHCA to publicly stand against Trump’s assaults on journalism or risk eroding the First Amendment it purports to celebrate."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260727170705.3.e93030bf8daa97f1@mg-d0.substack.com",
@@ -5230,76 +5329,10 @@
     "The 250th anniversary of the U.S. founding coincides with Trump's reactionary policies, contrasting with the nation's radical egalitarian roots. 50 years of class-warfare by elites and neoliberal Democrats have eroded workers' rights, deepened inequality, and fueled authoritarianism. Progressives should seize the moment to reclaim the Democratic Party and revive the revolutionary promise of 'We the People.'"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260704130409.3.9ae692884c476df9@mg2.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine: 1,000 Days of Genocide, as Israel Continues to Kill Kids",
-   "date": "2026-07-04T06:04-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-1000-days",
-   "bullets": [
-    "The newsletter marks 1,000 days of Israel’s war on Gaza, citing daily bombings, forced displacement, starvation, and medical deprivation that have killed dozens of children, including infant Siwar, and caused widespread atrocities such as torture, rape, and burning alive.",
-    "It argues the ongoing genocide is sustained by U.S. and Western support for Israel, noting recent incidents like the killing of three children and a footballer, and calls for international accountability.",
-    "The piece highlights recent developments, including the arrest of far‑right minister Itamar Ben‑Gvir and a plea from the Hind Rajab Foundation urging the U.S. to act amid the escalating violence."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260704130214.3.5b8e90e73615dcab@mg-d1.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“As a writer, I often felt like I was trying to enter various clubs that didn’t want me”",
-   "date": "2026-07-04T06:02-07:00",
-   "url": "https://post.substack.com/p/as-a-writer-i-often-felt-like-i-was",
-   "bullets": [
-    "Maggie Rogers describes a post‑COVID creative renaissance, returning to her studio after six years, experimenting with song structures and embracing vulnerability to produce an evolving album with multiple titles.",
-    "William T. Vollmann, battling cancer and opioid‑induced fog, confirms he will not finish his long‑running Seven Dreams series, citing time constraints and publisher conflicts, and is instead focusing on two short non‑fiction works."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260704130151.3.af59b16fd92708b2@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Heather Cox Richardson: America's 250 Great (and Awful) Years",
-   "date": "2026-07-04T06:01-07:00",
-   "url": null,
-   "bullets": [
-    "Heather Cox Richardson argues that July 4th should be celebrated as a chance to reflect on America’s 250-year history, noting voters’ mixed feelings about patriotism amid post‑Trump rebuilding efforts.",
-    "She highlights the 250‑to‑250 project, which chronicles key people, places, and events that have shaped the U.S. toward a more perfect Union, offering lessons for contemporary politics."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260704113030.3.ab0df4c9a42c397b@mg-d1.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "America at 250: The Founding and the Uniform",
-   "date": "2026-07-04T04:30-07:00",
-   "url": null,
-   "bullets": [
-    "Jay Nordlinger argues America's global influence hinges on upholding its founding ideals of liberty and equality as it marks its 250th anniversary. Phil Edwards reports on The Villages, a Florida retirement community dubbed a 'baby boomer utopia.' Substack readers recommend Ken Burns documentaries like 'The American Revolution' and 'The Statue of Liberty' to reflect on U.S. history ahead of the 250th anniversary."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260704103132.3.122337368ac338c5@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Bicentennial Memories",
-   "date": "2026-07-04T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/bicentennial-memories",
-   "bullets": [
-    "Krugman recalls 1976 Lisbon bicentennial picnic, contrasting 1970s optimism with today’s grim 250th anniversary amid Trump-era corruption and political dysfunction.",
-    "1976’s hope stemmed from Vietnam’s end and Nixon’s Watergate downfall, which proved accountability; now, GOP enablers shield Trump despite unprecedented corruption.",
-    "Portugal’s 1974 revolution to democracy and U.S. low profile in Lisbon highlight 1976’s cautious optimism, absent in today’s polarized America."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 139,
-  "total": 386
+  "shown": 137,
+  "total": 388
  }
 }
