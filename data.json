@@ -1,26 +1,18 @@
 {
- "updated": "2026-08-04T17:53-07:00",
+ "updated": "2026-08-05T09:14-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Elon Musk’s trillion‑dollar wealth has turned him into a political kingmaker, funding far‑right causes abroad and a Trump‑aligned “Department of Government Efficiency” that has cut federal programs and regulators, illustrating America’s slide into oligarchy (Zeteo, Paul Krugman).",
-   "Billionaires have poured $1.6 billion into the November midterms, backing Trump‑aligned candidates and threatening a GOP “doomsday scenario” that could deny Democratic victories and keep Trump in power (Paul Krugman, The Bulwark).",
-   "In Michigan, the Democratic primary between Abdul El‑Sayed and Haley Stevens has become a national flashpoint, with the party scrambling to choose a candidate who can win a blue‑tsunami while avoiding a split that could hand the seat to Republicans (The Bulwark, Zeteo).",
-   "Israel’s settler violence in the West Bank has escalated to an all‑time high, with UN reports and Israeli military actions sparking a debate over whether the violence should be labeled terrorism, while U.S. funding of the settler movement is under scrutiny (Zeteo).",
-   "The U.S. health‑care debate is heating up as El‑Sayed pushes a Medicare‑for‑All platform that could upend a $1 trillion industry, while Democrats use data‑center attacks to tap voters’ anger over rising utility costs (The Bulwark).",
-   "A COVID‑19 summer wave is brewing, West Nile virus cases are five times historic averages, and a Cyclospora outbreak has already claimed two deaths, underscoring the need for renewed public‑health vigilance (Your Local Epidemiologist)."
+   "Abdul El-Sayed's victory in the Michigan Senate primary is being seen as a significant blow to the Democratic establishment and AIPAC, with many considering it a David-vs-Goliath win against heavy outside spending",
+   "Republicans are pursuing a multi-pronged campaign to rig and steal the midterm elections, including gerrymandering, voter suppression, and replacing the House clerk to challenge election results",
+   "Elon Musk and other billionaires are doubling down on supporting Trump despite his unpopularity, with some arguing that America is sliding into oligarchy",
+   "Trump's administration is being accused of plotting to condition federal aid on states adopting restrictive voter-ID rules and handing over voter rolls",
+   "The US is facing a potential constitutional crisis as Republicans may refuse to seat Democratic victors in the House, risking a doomsday scenario",
+   "Experts are warning that the West Bank is on the brink of settler terrorism, with some labeling the violence as 'terrorism' and prompting a live town hall discussion"
   ],
   "by": "groq",
   "ids": [
-   "20260802051136.3.b0be0d61fd7bc915@mg-d1.substack.com",
-   "20260802103041.3.f0350c08ebc200c0@mg-d1.substack.com",
-   "20260802120219.3.87a792f532ad161c@mg-d0.substack.com",
-   "20260802120219.3.87a792f532ad161c@mg2.substack.com",
-   "20260802120741.3.2cd38c90a0fafbdf@mg2.substack.com",
-   "20260802150639.3.af9fd55147cb91aa.b2l1ypb3@mg1.substack.com",
-   "20260802160312.3.dbe9b83fcf9f7b76@mg-d0.substack.com",
-   "20260802160312.3.dbe9b83fcf9f7b76@mg-d0.substack.com",
    "20260802191713.3.14b2c52504acd121@mg-d0.substack.com",
    "20260802191713.3.14b2c52504acd121@mg-d0.substack.com",
    "20260803000018.3.6de750c4052ee86c@mg2.substack.com",
@@ -56,12 +48,127 @@
    "20260804160034.3.629cad74afb9eb78@mg2.substack.com",
    "20260804164452.3.47bd9ce4bd5608b2@mg-d0.substack.com",
    "20260804182520.3.c995e79ab487d422@mg-d0.substack.com",
-   "20260804211448.3.b08f90430c75b2c9@mg-d1.substack.com"
+   "20260804211448.3.b08f90430c75b2c9@mg-d1.substack.com",
+   "20260804234528.3.542c4fc5b076f405@mg2.substack.com",
+   "20260805045049.3.8ebc3e3c87553eed@mg2.substack.com",
+   "20260805103050.3.6b9cffd83b58c17e@mg-d1.substack.com",
+   "20260805103110.3.738ab7b43e7c5bb3@mg-d1.substack.com",
+   "20260805112230.3.7911023f708bde73@mg2.substack.com",
+   "20260805130156.3.ace63fd15dc90251@mg2.substack.com",
+   "20260805133134.3.01c228a436f22622@mg-d1.substack.com"
   ],
-  "updated": "2026-08-04T17:53-07:00",
+  "updated": "2026-08-05T09:14-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260805150149.3.da526415a2aeae75@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "The Supreme Court Shredded America’s ‘Most Powerful’ Law",
+   "date": "2026-08-05T08:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-supreme-court-shredded-americas",
+   "bullets": [
+    "Thursday marks the 61st anniversary of the passage of the Voting Rights Act, the landmark law that prohibited racial discrimination in voting. The Act safeguarded the right to vote for Black Americans who had long been subjected to racist l…",
+    "The historic legislation was passed five months after the events of “Bloody Sunday [ https://substack.com/redirect/35dc0cd1-1564-4f40-b877-31eed504ab11?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ],” when civil rights …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260805134434.3.c5219c87d62d8b72@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "It’s Still a Blue Wave",
+   "date": "2026-08-05T06:44-07:00",
+   "url": null,
+   "bullets": [
+    "Now that Todd Blanche’s nomination for attorney general has made it out of committee, the race is on to figure out which Republican senators get to take a show vote against him without imperiling his nomination. It’s a tricky thing, given t…",
+    "It would be nice to be able to draw some novel, surprising, or dramatic conclusions from last night’s election results. But sometimes the truth is messy and prosaic. The fact is that the results were a mixed bag. And they don’t seem to me t…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260805133134.3.01c228a436f22622@mg-d1.substack.com",
+   "newsletter": "Here Be Dragons from Barbara F. Walter",
+   "pub": "barbarafwalter",
+   "subject": "Summertime in San Diego",
+   "date": "2026-08-05T06:31-07:00",
+   "url": "https://barbarafwalter.substack.com/p/summertime-in-san-diego",
+   "bullets": [
+    "Barbara Walter reports no new articles this week, focusing on completing an afterword for her book \"How Civil Wars Start.\"",
+    "She shares a photo of a San Diego sunset taken while enjoying wine with a friend, offering a brief visual respite."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260805130156.3.ace63fd15dc90251@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Here's Exactly How Abdul El-Sayed Beats Mike Rogers",
+   "date": "2026-08-05T06:01-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/heres-exactly-how-abdul-el-sayed",
+   "bullets": [
+    "Abdul El‑Sayed won Michigan’s Senate primary against Mike Rogers, surviving an 11‑to‑1 spending disadvantage from Super PACs tied to AIPAC, the DSCC, and other special interests, with $60 million spent against him.",
+    "El‑Sayed’s victory challenges traditional political rules, signaling a backlash against an establishment that relies on heavy outside spending and an outdated view of politics, though critics argue he lacks the strength of former Senator Stevens and may need to broaden his appeal for November."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260805112230.3.7911023f708bde73@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Will This Be AIPAC’s Biggest Defeat – Ever?",
+   "date": "2026-08-05T04:22-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/will-this-be-aipacs-biggest-defeat",
+   "bullets": [
+    "AIPAC spent $30 million and other pro‑Israel donors added $30 million to help Congresswoman Haley Stevens win Michigan’s Democratic Senate primary, but Abdul El‑Sayed ultimately prevailed, with NBC calling the race for him before 2 am ET.",
+    "El‑Sayed’s victory was framed as a David‑vs‑Goliath win against AIPAC and the establishment, with former candidate Mallory McMorrow endorsing him after dropping out.",
+    "The campaign’s close finish and the heavy spending highlight a significant setback for AIPAC, marking what the newsletter calls its most expensive and costly defeat yet."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260805103110.3.738ab7b43e7c5bb3@mg-d1.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "The system should be on trial too.",
+   "date": "2026-08-05T03:31-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/the-system-should-be-on-trial-too",
+   "bullets": [
+    "70% of U.S. women say they wanted more info on postpartum mental health before birth, yet only 6% of UK pregnant women receive any antenatal education on postpartum psychosis, a condition affecting as many families as Down syndrome annually.",
+    "Postpartum care lacks a clear owner: Lindsay Clancy accessed multiple providers and 13 psychiatric meds within weeks of her children’s deaths, but fragmented records prevented any clinician from seeing the full picture.",
+    "In FY2023 NIH allocated just $4.6 billion to women’s health—about one‑tenth of its $45 billion budget—leaving postpartum psychosis without a formal diagnosis, screening tool, or adequate research funding."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260805103050.3.6b9cffd83b58c17e@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "An Explosion of Misery",
+   "date": "2026-08-05T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/an-explosion-of-misery",
+   "bullets": [
+    "Trump’s administration imposed work‑verification requirements on SNAP, causing millions—especially children—to lose $187‑a‑month food aid, despite most recipients already working irregularly.",
+    "Republican refusal to extend the Biden‑era ACA subsidy fix eliminated the subsidy cliff, leaving middle‑income families (just above 400% of poverty) without aid and dropping enrollment by about three million, increasing under‑insurance.",
+    "Krugman argues these cuts create an \"explosion of misery\" that not only deepens poverty now but reduces long‑term economic growth, as evidence shows nutrition and health assistance yields high societal returns."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260805045049.3.8ebc3e3c87553eed@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "LIVE From Michigan: Mehdi and Prem on Abdul El-Sayed",
+   "date": "2026-08-04T21:50-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/live-from-michigan-mehdi-and-prem",
+   "bullets": [
+    "The Michigan Senate Democratic primary pits progressive Abdul El‑Sayed against AIPAC‑backed centrist Haley Stevens, who holds a roughly nine‑to‑one fundraising advantage.",
+    "Zeteo’s live two‑hour stream featured progressive figures like Rep. Ilhan Omar, newcomers Chris Rabb and Brad Lander, plus experts discussing AIPAC’s influence, Islamophobia, and the race’s stakes for establishment Democrats.",
+    "View the full coverage video to catch all interviews and analysis as Michigan continues tallying votes into the night."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260804234528.3.542c4fc5b076f405@mg2.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -70,10 +177,11 @@
    "date": "2026-08-04T16:45-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/19-ways-trump-and-republicans-are",
    "bullets": [
-    "This week, we are running our ‘Start The Steal’ series, with three months left in the 2026 midterm elections. The president and his allies are conducting a scorched-earth campaign to rig the coming elections, and we believe it’s the biggest…",
-    "Before he came back to power, Donald Trump’s legal and political advisers were already hard at work drafting legal memos and policy papers about how to blackmail blue states into giving in to his authoritarian, heads-I-win-tails-you-lose de…"
+    "Trump’s administration, led by Stephen Miller, has drafted legal memos and policy papers since early 2024 to condition federal aid—such as California wildfire relief—on states adopting restrictive voter‑ID rules and handing over voter rolls, effectively weaponizing aid to coerce Democratic states.",
+    "Republican allies are pursuing a multi‑pronged campaign—including gerrymandering, voter‑suppression bills, closing polling sites, voter purges, and threats of federal seizure of election records—to undermine registration, voting, tabulation, and certification ahead of the 2026 midterms.",
+    "Sources say senior Trump advisers planned these election‑rigging strategies months before his 2024 reelection, and the GOP now relies on a Supreme Court sympathetic to far‑right claims to secure legal advantages and enable potential federal takeovers of elections."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260804211448.3.b08f90430c75b2c9@mg-d1.substack.com",
@@ -5334,50 +5442,10 @@
     "The offer emphasizes patriotism as defending democracy and a free press, urging readers to ‘ride together’ against politicized symbols."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260705130314.3.375a2608377e4242@mg-d0.substack.com",
-   "newsletter": "Zeteo | Dark Side of the World Cup",
-   "pub": "zeteo",
-   "subject": "How Shameful Can the World Cup Get? We Take a Look at Two Previous Tournaments",
-   "date": "2026-07-05T06:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/how-shameful-can-the-world-cup-get",
-   "bullets": [
-    "The episode examines FIFA’s history of supporting authoritarian regimes, from Mussolini’s Italy in 1934 and Argentina’s 1978 military junta to recent scandals in Russia 2018 and Qatar 2022.",
-    "It highlights recent U.S. actions that undermined inclusivity, such as the unfair treatment of Iran’s team and the visa denial for a prominent Congolese fan, exposing ongoing hypocrisy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260705120433.3.4cada759cc1f09a2@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "European vs. U.S. Economic Performance: An Update",
-   "date": "2026-07-05T05:04-07:00",
-   "url": "https://paulkrugman.substack.com/p/european-vs-us-economic-performance",
-   "bullets": [
-    "European GDP per capita and productivity gaps with the U.S. have not widened over 25 years, contradicting claims of relative decline.",
-    "The 'US-EU paradox' arises from conflicting growth vs. purchasing power metrics, with industrial mix (U.S. tech concentration) and measurement challenges skewing comparisons.",
-    "Europe’s economic security, lower inequality, and social policies offset its tech-sector weaknesses, maintaining its global democratic and economic influence."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260705120359.3.f1593a2bcf5b7a48@mg-d1.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Donald Trump Is Bringing Back ‘Death Panels’",
-   "date": "2026-07-05T05:03-07:00",
-   "url": null,
-   "bullets": [
-    "In 2009 the ACA included a bipartisan provision allowing doctors to bill Medicare for end‑of‑life planning talks, which conservatives like Elizabeth McCaughey falsely portrayed as mandatory “death panels,” a claim that persisted with 40% of Americans believing it in 2010.",
-    "Trump’s administration is now reviving the “death panel” narrative by proposing new regulations that echo the earlier false accusations, positioning the policy as a threat to patient autonomy."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 133,
-  "total": 391
+  "shown": 128,
+  "total": 396
  }
 }
