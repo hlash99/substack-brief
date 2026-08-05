@@ -1,23 +1,18 @@
 {
- "updated": "2026-08-04T09:26-07:00",
+ "updated": "2026-08-04T17:53-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The US has nearly depleted its stock of long-range precision missiles in the Iran conflict, according to The Bulwark",
-   "Abdul El-Sayed is leading in the Michigan Democratic Senate primary, with a double-digit lead over Haley Stevens, as reported by The Bulwark and Zeteo",
-   "Billionaires have spent $1.6 billion on the November midterms, with many supporting Trump, as noted by Paul Krugman",
-   "The EU's sanctions on Russia are being hindered by national interests, particularly from Greece, as discussed in Doomberg",
-   "The West Bank is experiencing a surge in settler violence, with some labeling it 'terrorism', as covered by Zeteo",
-   "Todd Blanche's confirmation as attorney general is likely, despite his ties to the Epstein case, as mentioned in The Bulwark"
+   "Elon Musk’s trillion‑dollar wealth has turned him into a political kingmaker, funding far‑right causes abroad and a Trump‑aligned “Department of Government Efficiency” that has cut federal programs and regulators, illustrating America’s slide into oligarchy (Zeteo, Paul Krugman).",
+   "Billionaires have poured $1.6 billion into the November midterms, backing Trump‑aligned candidates and threatening a GOP “doomsday scenario” that could deny Democratic victories and keep Trump in power (Paul Krugman, The Bulwark).",
+   "In Michigan, the Democratic primary between Abdul El‑Sayed and Haley Stevens has become a national flashpoint, with the party scrambling to choose a candidate who can win a blue‑tsunami while avoiding a split that could hand the seat to Republicans (The Bulwark, Zeteo).",
+   "Israel’s settler violence in the West Bank has escalated to an all‑time high, with UN reports and Israeli military actions sparking a debate over whether the violence should be labeled terrorism, while U.S. funding of the settler movement is under scrutiny (Zeteo).",
+   "The U.S. health‑care debate is heating up as El‑Sayed pushes a Medicare‑for‑All platform that could upend a $1 trillion industry, while Democrats use data‑center attacks to tap voters’ anger over rising utility costs (The Bulwark).",
+   "A COVID‑19 summer wave is brewing, West Nile virus cases are five times historic averages, and a Cyclospora outbreak has already claimed two deaths, underscoring the need for renewed public‑health vigilance (Your Local Epidemiologist)."
   ],
   "by": "groq",
   "ids": [
-   "20260801170303.3.c07053fa7823e187@mg-d0.substack.com",
-   "20260801170303.3.c07053fa7823e187@mg2.substack.com",
-   "20260801213848.3.5252c5c4c6cf50b8.hu14v0yq@mg1.substack.com",
-   "20260801214324.3.5252c5c4c6cf50b8.726kcozj@mg1.substack.com",
-   "20260801223115.3.1686a4329f396291@mg-d0.substack.com",
    "20260802051136.3.b0be0d61fd7bc915@mg-d1.substack.com",
    "20260802103041.3.f0350c08ebc200c0@mg-d1.substack.com",
    "20260802120219.3.87a792f532ad161c@mg-d0.substack.com",
@@ -51,17 +46,91 @@
    "20260803204739.3.de2d96b8b054ab4c@mg-d0.substack.com",
    "20260803204739.3.de2d96b8b054ab4c@mg2.substack.com",
    "20260804000940.3.c0a3a566d72b539f@mg-d1.substack.com",
+   "20260804010019.3.658bf6b9d5528fa7@mg2.substack.com",
    "20260804090102.3.76503c74f1833da2@mg-d1.substack.com",
    "20260804102904.3.c84a4e21f11cce92@mg2.substack.com",
    "20260804103121.3.d0fae2048f1c23f8@mg-d0.substack.com",
    "20260804103533.3.18b6ec17808de268@mg-d0.substack.com",
    "20260804110443.3.e6af01d08bc29a46@mg-d0.substack.com",
-   "20260804135047.3.f5f040f874d8a8ee@mg-d0.substack.com"
+   "20260804135047.3.f5f040f874d8a8ee@mg-d0.substack.com",
+   "20260804160034.3.629cad74afb9eb78@mg2.substack.com",
+   "20260804164452.3.47bd9ce4bd5608b2@mg-d0.substack.com",
+   "20260804182520.3.c995e79ab487d422@mg-d0.substack.com",
+   "20260804211448.3.b08f90430c75b2c9@mg-d1.substack.com"
   ],
-  "updated": "2026-08-04T09:26-07:00",
+  "updated": "2026-08-04T17:53-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260804234528.3.542c4fc5b076f405@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Here Are 19 - Yes, 19! - Ways Trump and Republicans Are Plotting to Rig and Steal the Midterm Elections",
+   "date": "2026-08-04T16:45-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/19-ways-trump-and-republicans-are",
+   "bullets": [
+    "This week, we are running our ‘Start The Steal’ series, with three months left in the 2026 midterm elections. The president and his allies are conducting a scorched-earth campaign to rig the coming elections, and we believe it’s the biggest…",
+    "Before he came back to power, Donald Trump’s legal and political advisers were already hard at work drafting legal memos and policy papers about how to blackmail blue states into giving in to his authoritarian, heads-I-win-tails-you-lose de…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260804211448.3.b08f90430c75b2c9@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Americans Live in the 'United States of Oligarchy' With Elon Musk at the Top",
+   "date": "2026-08-04T14:14-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/americans-live-in-the-united-states",
+   "bullets": [
+    "In June 2024 Elon Musk briefly became a trillionaire, a milestone the author argues proves America’s slide into oligarchy as Musk used his wealth to influence the 2024 Trump election and fund far‑right movements in the UK, Germany and elsewhere.",
+    "Musk’s post‑Trump ties birthed a self‑styled ‘Department of Government Efficiency’ that slashed federal programs, dismantled regulators like the FDA and FAA, and effectively let Musk regulate his own companies while securing lucrative contracts such as the $10 billion ‘Golden Dome’ missile‑shield project for SpaceX.",
+    "The piece contends Musk’s support for China’s regime—including praising its dictatorship and helping whitewash Uyghur genocide—shows how his wealth is built on aiding autocrats, reinforcing the claim that the United States now functions as an oligarchy dominated by a handful of billionaires."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260804182520.3.c995e79ab487d422@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Israel Has Imprisoned a 16-Year-Old Palestinian-American Boy for Two Weeks",
+   "date": "2026-08-04T11:25-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/israel-has-imprisoned-a-16-year-old",
+   "bullets": [
+    "16‑year‑old U.S. citizen Adam Wajeh Abdelfattah Karakrah was re‑detained by Israeli forces in the West Bank after his bail was paid, now held on a new rioting charge with detention extended past the planned release date",
+    "His family paid roughly $1,700 bail plus additional fees, reported threats and searches during a raid, and received only a vague embassy response that officials cannot intervene in legal matters",
+    "He joins at least 300 Palestinian minors and other Americans, such as 20‑year‑old Sama Safi, currently held in Israeli prisons amid broader accusations of rights abuses"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260804164452.3.47bd9ce4bd5608b2@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How to Solve the Democratic-Socialist Problem",
+   "date": "2026-08-04T09:44-07:00",
+   "url": null,
+   "bullets": [
+    "The author warns that while Wisconsin Democrats can experiment with candidates like Francesca Hong, they risk losing to a Republican election denier who could influence certification and voting in 2028 if Hong is defeated.",
+    "He argues the Democratic Party should test diverse approaches—including centrist, Christian libertarian, populist, technocratic, and even full‑DSA candidates—but stresses these are not cost‑free experiments.",
+    "A solution is proposed to integrate fresh ideas into the Democratic Party while blocking those intent on its destruction, addressing the ongoing DSA‑Democrat split."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260804160034.3.629cad74afb9eb78@mg2.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“The old-media era of journalists really wanted to be powerful. And I think now it’s about being interesting.”",
+   "date": "2026-08-04T09:00-07:00",
+   "url": "https://post.substack.com/p/the-old-media-era-of-journalists",
+   "bullets": [
+    "Richard Rushfield, veteran entertainment journalist and founder of The Ankler, reflects on Hollywood’s shift from old‑media power plays to today’s focus on being interesting amid streaming, studio consolidation, and AI threats.",
+    "In his office and during a live Rushfield Lunch episode, he discusses his career, the SAG‑AFTRA strikes, and offers a realistic tour of historic L.A. theaters, assessing the current state of show business.",
+    "The newsletter marks the final episode of the Someone on Film, Los Angeles series and invites readers to suggest future locations."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260804135047.3.f5f040f874d8a8ee@mg-d0.substack.com",
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
@@ -154,10 +223,11 @@
    "date": "2026-08-03T18:00-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/doomsday-scenario-trump-republicans-steal-election",
    "bullets": [
-    "This week, we are launching our ‘Start The Steal’ series, at the critical three-month stretch left in the 2026 midterm elections. The president of the United States and his allies are conducting a scorched-earth campaign – on a gigantic, hi…",
-    "Democrats may win enough seats to take back the House, but Republicans can challenge those wins and attempt to steal control of Congress. The first path toward this doomsday scenario would be if Republicans replace the current House clerk. …"
+    "Republicans may replace the House clerk and coordinate challenges to election results, creating a “doomsday scenario” where GOP lawmakers refuse to seat Democratic victors, risking a constitutional crisis.",
+    "Democratic activists and lawyers warn that Trump’s campaign to rig the 2026 midterms—including a potential “Jan. 3 ploy”—aims to preserve GOP control of the House and shield Trump from accountability.",
+    "The newsletter argues the GOP’s “scorched‑earth” strategy represents an unprecedented, large‑scale effort to subvert American elections and could trigger a rupture of democratic norms."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260804000940.3.c0a3a566d72b539f@mg-d1.substack.com",
@@ -2407,19 +2477,6 @@
     "Trump's renovations added 90,000 sq ft ballroom",
     "East Wing was demolished for the new ballroom",
     "Trump also replaced Lincoln Bedroom's bathroom with statuary marble"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726140258.3.9831bf7247c28471@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "The GOP Is Now ‘An Extremist Movement,’ Says Ex-Republican Strategist",
-   "date": "2026-07-26T07:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-republican-party-is-an-extremist",
-   "bullets": [
-    "Former GOP strategist Stuart Stevens argues the Republican Party has become an extremist movement, driven by Trump and rooted in racial politics, rather than a traditional party.",
-    "Stevens and host John Harwood discuss why “race is the original sin of the modern Republican Party” and outline what it would take for Democrats to win the 2028 election."
    ],
    "summary_by": "groq"
   },
@@ -5317,22 +5374,10 @@
     "Trump’s administration is now reviving the “death panel” narrative by proposing new regulations that echo the earlier false accusations, positioning the policy as a threat to patient autonomy."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260704170221.3.c553dc0d6b9986c5@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Let Us Celebrate a 250-Year History of American Radicalism",
-   "date": "2026-07-04T10:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/let-us-celebrate-a-250-year-history",
-   "bullets": [
-    "The 250th anniversary of the U.S. founding coincides with Trump's reactionary policies, contrasting with the nation's radical egalitarian roots. 50 years of class-warfare by elites and neoliberal Democrats have eroded workers' rights, deepened inequality, and fueled authoritarianism. Progressives should seize the moment to reclaim the Democratic Party and revive the revolutionary promise of 'We the People.'"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 137,
-  "total": 388
+  "shown": 133,
+  "total": 391
  }
 }
