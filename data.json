@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T09:14-07:00",
+ "updated": "2026-08-05T17:16-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -62,6 +62,59 @@
  },
  "items": [
   {
+   "id": "20260805233034.3.7816983ef75ae21f@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Capital One Just Dropped an Atomic Bomb on Trump (w/ Andrew Weissmann)",
+   "date": "2026-08-05T16:30-07:00",
+   "url": null,
+   "bullets": [
+    "Sam Stein and Andrew Weissmann discuss the Justice Department’s dismissal of charges over damage to the Lincoln Memorial Reflecting Pool, potential recourse for Olympian David Hearn, and Trump’s response. They also examine Todd Blanche’s Se…",
+    "Andrew Weissmann's new book, Liar’s Kingdom [ https://substack.com/redirect/a8a7c8d8-a064-44a6-922f-b5a999491f47?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ],  is out now."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260805211024.3.43d4394bb5348771@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Why Bari Weiss's Boss Is Full of ‘Horseshit’",
+   "date": "2026-08-05T14:10-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-bari-weisss-boss-is-full-of-horseshit",
+   "bullets": [
+    "Paramount CEO David Ellison’s New York Times op‑ed defending his politics and suitability to run CNN is being dismissed by CBS and CNN insiders as a desperate PR stunt to salvage the faltering $111 billion WarnerMount merger.",
+    "Sources say the piece reads like lawyer‑crafted copy, likely orchestrated by investment banker Blair Effron, and portrays Ellison as a misunderstood victim despite evidence he’s a right‑wing partisan."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260805210714.3.b9a334d80f6041f0@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Brutal Path Ahead for El-Sayed",
+   "date": "2026-08-05T14:07-07:00",
+   "url": null,
+   "bullets": [
+    "Abdul El‑Sayed delivered a tentative victory speech after a razor‑thin primary win over Rep. Haley Stevens, urging unity to block GOP nominee Mike Rogers and Donald Trump in the Senate race.",
+    "He highlighted his immigrant background, pledged to unite Democratic voters, and warned he has only 91 days to win over skeptical constituents before the general election."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260805165114.3.45959d0189c9a12c@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Case Against El-Sayed Doomerism",
+   "date": "2026-08-05T09:51-07:00",
+   "url": null,
+   "bullets": [
+    "El‑Sayed won the Michigan Democratic Senate primary but his lead has collapsed from +13 in polls to about +1% after an 11‑to‑1 spending disadvantage, raising concerns about his appeal to Black voters in Wayne and Oakland counties and his margin in Macomb.",
+    "Despite Michigan’s long Democratic Senate streak and a favorable environment, Republican Mike Rogers—who earned 48.3% in 2024 and has a solid 2.7 million‑voter base—could force a tight race decided by fewer than 50,000 votes.",
+    "A recent civilian medevac crash in New Mexico, caused by GPS jamming from a military exercise, marks the first U.S. plane loss linked to drone‑warfare‑related interference, highlighting emerging aviation risks."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260805150149.3.da526415a2aeae75@mg-d0.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
@@ -69,10 +122,10 @@
    "date": "2026-08-05T08:01-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/the-supreme-court-shredded-americas",
    "bullets": [
-    "Thursday marks the 61st anniversary of the passage of the Voting Rights Act, the landmark law that prohibited racial discrimination in voting. The Act safeguarded the right to vote for Black Americans who had long been subjected to racist l…",
-    "The historic legislation was passed five months after the events of “Bloody Sunday [ https://substack.com/redirect/35dc0cd1-1564-4f40-b877-31eed504ab11?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ],” when civil rights …"
+    "The Supreme Court this year gutted key provisions of the Voting Rights Act, putting over a dozen Black‑led House districts at risk of elimination.",
+    "Republicans are pushing the SAVE America Act, which would further restrict voting access for Black and brown voters, intensifying concerns about voter suppression."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260805134434.3.c5219c87d62d8b72@mg-d0.substack.com",
@@ -82,10 +135,11 @@
    "date": "2026-08-05T06:44-07:00",
    "url": null,
    "bullets": [
-    "Now that Todd Blanche’s nomination for attorney general has made it out of committee, the race is on to figure out which Republican senators get to take a show vote against him without imperiling his nomination. It’s a tricky thing, given t…",
-    "It would be nice to be able to draw some novel, surprising, or dramatic conclusions from last night’s election results. But sometimes the truth is messy and prosaic. The fact is that the results were a mixed bag. And they don’t seem to me t…"
+    "Republican senators must abstain from voting on Todd Blanche’s attorney‑general nomination; Susan Collins already opposes him and only one other senator—likely Murkowski, Cassidy, or another—can also abstain without endangering the nomination",
+    "Michigan Democratic Senate primary appears tighter than polls predicted, with left‑wing Abdul El‑Sayed likely winning by only 1‑2 points, improving Republican Mike Rogers’ chances in the general but not guaranteeing a pickup",
+    "Democrats have a slightly better than 50‑50 chance of retaining Senate control, aided by Max Miller’s scandal in Ohio, potential pickups in North Carolina, Maine, Alaska, Iowa, Texas, and vulnerable GOP incumbents in Kansas, South Dakota, Idaho, and possibly Montana"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260805133134.3.01c228a436f22622@mg-d1.substack.com",
@@ -2302,19 +2356,6 @@
    "summary_by": "groq"
   },
   {
-   "id": "20260727192558.3.e8eb53acab26d4e3@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
-   "subject": "‘Cockroach’ Protests Signal Young India’s Growing Impatience With Modi’s Ways",
-   "date": "2026-07-27T12:25-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/cockroach-protests-india-modi-democracy-whats-next",
-   "bullets": [
-    "A youth‑led “Cockroach Janta Party” staged a five‑week Delhi protest demanding reform of corruption in India’s public exam system, marking the first time in eight years a minister has resigned under public pressure.",
-    "The movement, composed largely of teenagers, forced a senior Modi cabinet minister to step down, highlighting growing impatience among young Indians with Modi’s governance."
-   ],
-   "summary_by": "groq"
-  },
-  {
    "id": "20260727174853.3.e487f827d4a8936d@mg-d0.substack.com",
    "newsletter": "Home of the Brave",
    "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
@@ -2409,20 +2450,6 @@
     "US paused Iran strikes due to munitions stockpile concerns",
     "Trump bombed at the White House Correspondents Dinner",
     "Democrats have 38% approval rating ahead of 2026 election"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260727110801.3.5e08bb019d019ca0@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "First Draft: Wild Attack on Mamdani Shows Netanyahu Knows He’s Cornered",
-   "date": "2026-07-27T04:08-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/wild-attack-on-mamdani-shows-netanyahu",
-   "bullets": [
-    "Mayor Zohran Mamdani called Netanyahu a “war criminal” and urged federal authorities to arrest him on an ICC warrant when he visits the UN, while noting he lacks arrest power himself",
-    "After two stabbing attacks on New York’s Upper West Side, Mamdani said the assailant shouted “Allahu Akbar,” promised full prosecution, and condemned antisemitic and racist violence",
-    "Netanyahu responded on Fox with a hostile attack on Mamdani, claiming he endangers Jewish New Yorkers, highlighting his political cornered position"
    ],
    "summary_by": "groq"
   },
@@ -5414,38 +5441,10 @@
     "Trump’s administration’s pro‑crypto rhetoric pushed the market cap from ~$2 trillion to >$4 trillion after the 2024 election, only to see Bitcoin prices halve and the crypto market lose roughly $2 trillion in value, a modern pump‑and‑dump on unprecedented scale."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260705230043.3.516fb21aa441ab0d@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Voters are Sounding More and More Like Trump on Birthright Citizenship",
-   "date": "2026-07-05T16:00-07:00",
-   "url": null,
-   "bullets": [
-    "The Supreme Court upheld birthright citizenship in a 5‑4 ruling, rejecting Trump’s executive order as unconstitutional, despite justices appearing divided on the issue.",
-    "A focus group of Trump‑voting Florida women revealed strong skepticism of the 160‑year‑old precedent, framing immigration as a zero‑sum threat while still supporting “legal” pathways for newcomers.",
-    "The author argues that Trump’s failed legal push has shifted Republican rank‑and‑file rhetoric to mirror his hard‑line immigration stance, making it a litmus test for future GOP candidates."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260705204303.3.cbd5fb55a2f6eb8d@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Our flash sale ends tonight at midnight.",
-   "date": "2026-07-05T13:43-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark’s July Fourth flash sale ends at midnight, offering a $86 annual membership for unlimited access to articles, newsletters, ad‑free shows, and community features.",
-    "The promotion frames the membership as a way to support independent journalism that tracks Trump‑era chaos and upcoming midterm elections.",
-    "The offer emphasizes patriotism as defending democracy and a free press, urging readers to ‘ride together’ against politicized symbols."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 128,
+  "shown": 125,
   "total": 396
  }
 }
