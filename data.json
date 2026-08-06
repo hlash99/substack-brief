@@ -1,42 +1,18 @@
 {
- "updated": "2026-08-05T17:16-07:00",
+ "updated": "2026-08-06T16:53-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Abdul El-Sayed's victory in the Michigan Senate primary is being seen as a significant blow to the Democratic establishment and AIPAC, with many considering it a David-vs-Goliath win against heavy outside spending",
-   "Republicans are pursuing a multi-pronged campaign to rig and steal the midterm elections, including gerrymandering, voter suppression, and replacing the House clerk to challenge election results",
-   "Elon Musk and other billionaires are doubling down on supporting Trump despite his unpopularity, with some arguing that America is sliding into oligarchy",
-   "Trump's administration is being accused of plotting to condition federal aid on states adopting restrictive voter-ID rules and handing over voter rolls",
-   "The US is facing a potential constitutional crisis as Republicans may refuse to seat Democratic victors in the House, risking a doomsday scenario",
-   "Experts are warning that the West Bank is on the brink of settler terrorism, with some labeling the violence as 'terrorism' and prompting a live town hall discussion"
+   "Abdul El-Sayed's victory in the Michigan Democratic Senate primary despite being outspent 11-to-1 by AIPAC-backed Haley Stevens is seen as a significant blow to the Democratic establishment and AIPAC's influence",
+   "Trump's administration is being accused of plotting to rig and steal the midterm elections through various means, including voter suppression and gerrymandering",
+   "The Supreme Court's gutting of key provisions of the Voting Rights Act has put over a dozen Black-led House districts at risk of elimination",
+   "Elon Musk's wealth and influence have led to concerns about America's slide into oligarchy, with Musk using his wealth to influence the 2024 Trump election and fund far-right movements",
+   "Paul Krugman argues that the decline in US murder rates, which have fallen to near 1960s lows in major cities, is a positive trend that Trump is not acknowledging",
+   "Democratic officials are preparing for potential election interference by Trump, including the use of armed federal agents or troops at polling places"
   ],
   "by": "groq",
   "ids": [
-   "20260802191713.3.14b2c52504acd121@mg-d0.substack.com",
-   "20260802191713.3.14b2c52504acd121@mg-d0.substack.com",
-   "20260803000018.3.6de750c4052ee86c@mg2.substack.com",
-   "20260803000018.3.6de750c4052ee86c@mg2.substack.com",
-   "20260803000124.3.939dbba647e73ab4@mg-d0.substack.com",
-   "20260803000124.3.939dbba647e73ab4@mg2.substack.com",
-   "20260803014520.3.e7b07808a473c5b2@mg-d0.substack.com",
-   "20260803033812.3.7336a31f473a5b63@mg2.substack.com",
-   "20260803102753.3.5dc91d274229c081@mg-d1.substack.com",
-   "20260803110842.3.39eb616a6c006601@mg-d1.substack.com",
-   "20260803110842.3.39eb616a6c006601@mg2.substack.com",
-   "20260803121507.3.e61c273ae8a3d896@mg-d1.substack.com",
-   "20260803130344.3.06139ed782eb530a@mg-d1.substack.com",
-   "20260803141027.3.dc1411c611879ba6@mg-d1.substack.com",
-   "20260803141027.3.dc1411c611879ba6@mg-d1.substack.com",
-   "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com",
-   "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com",
-   "20260803170153.3.0f508d27218097cc@mg2.substack.com",
-   "20260803170153.3.0f508d27218097cc@mg2.substack.com",
-   "20260803183633.3.2d7c0e78708b7f1c@mg-d0.substack.com",
-   "20260803183633.3.2d7c0e78708b7f1c@mg-d1.substack.com",
-   "20260803192008.3.b3b73945fb862ff0.snub30vl@mg1.substack.com",
-   "20260803204739.3.de2d96b8b054ab4c@mg-d0.substack.com",
-   "20260803204739.3.de2d96b8b054ab4c@mg2.substack.com",
    "20260804000940.3.c0a3a566d72b539f@mg-d1.substack.com",
    "20260804010019.3.658bf6b9d5528fa7@mg2.substack.com",
    "20260804090102.3.76503c74f1833da2@mg-d1.substack.com",
@@ -55,12 +31,181 @@
    "20260805103110.3.738ab7b43e7c5bb3@mg-d1.substack.com",
    "20260805112230.3.7911023f708bde73@mg2.substack.com",
    "20260805130156.3.ace63fd15dc90251@mg2.substack.com",
-   "20260805133134.3.01c228a436f22622@mg-d1.substack.com"
+   "20260805133134.3.01c228a436f22622@mg-d1.substack.com",
+   "20260805134434.3.c5219c87d62d8b72@mg-d0.substack.com",
+   "20260805150149.3.da526415a2aeae75@mg-d0.substack.com",
+   "20260805165114.3.45959d0189c9a12c@mg-d1.substack.com",
+   "20260805210714.3.b9a334d80f6041f0@mg2.substack.com",
+   "20260805211024.3.43d4394bb5348771@mg-d1.substack.com",
+   "20260805233034.3.7816983ef75ae21f@mg-d0.substack.com",
+   "20260806010059.3.21c14ea1cd017323@mg2.substack.com",
+   "20260806103048.3.19c6efe3f4eef305@mg-d1.substack.com",
+   "20260806111441.3.5164eeab36930f1c@mg-d1.substack.com",
+   "20260806134127.3.4c2918a6f23f03d2@mg-d1.substack.com",
+   "20260806161514.3.ae88a5c11e284a62@mg-d1.substack.com",
+   "20260806164209.3.8137efcb27592c97@mg2.substack.com",
+   "20260806190101.3.f70a693185ac62fe@mg-d1.substack.com",
+   "20260806200034.3.8cd2051646799263@mg-d0.substack.com",
+   "20260806210104.3.01e83388a99ddcf7@mg-d0.substack.com",
+   "20260806223133.3.08e8f56963dff9ca@mg-d0.substack.com"
   ],
-  "updated": "2026-08-05T09:14-07:00",
+  "updated": "2026-08-06T16:53-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260806223133.3.08e8f56963dff9ca@mg-d0.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "We’re not backing down",
+   "date": "2026-08-06T15:31-07:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark has over 140,000 paid subscribers",
+    "The company grew from a Never Trump passion project",
+    "Bulwark+ members get premium content and ad-free experience"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260806210104.3.01e83388a99ddcf7@mg-d0.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "An author’s $2 million book deal was pulled over suspected AI use. Where does publishing go from here?",
+   "date": "2026-08-06T14:01-07:00",
+   "url": "https://post.substack.com/p/an-authors-2-million-book-deal-was",
+   "bullets": [
+    "Jerry Falade's $2 million book deal was pulled over suspected AI use",
+    "Falade denies allegations, citing racial bias in scrutiny of Black authors",
+    "Publishing industry experts discuss need for AI detection training and robust literary culture"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260806200034.3.8cd2051646799263@mg-d0.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "DEBUNKED: Why This Pro-Israel NYT Columnist Is WRONG About Gaza",
+   "date": "2026-08-06T13:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/gaza-genocide-bret-stephens",
+   "bullets": [
+    "Mehdi debunks Bret Stephens' claim that calling Gaza a genocide is farcical",
+    "Bret Stephens is a pro-Israel New York Times columnist",
+    "Mehdi's video brings evidence to counter Stephens' argument"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260806190101.3.f70a693185ac62fe@mg-d1.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Did MAGA Infiltrate the Green Party in Michigan?",
+   "date": "2026-08-06T12:01-07:00",
+   "url": null,
+   "bullets": [
+    "Michigan's 7th district is a hotly contested congressional seat.",
+    "William Lawrence won the Democratic primary with secret conservative group support.",
+    "Shane Dedrick is the Green Party candidate with a unclear background."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260806164209.3.8137efcb27592c97@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The HULK SMASH Plan for Fixing America",
+   "date": "2026-08-06T09:42-07:00",
+   "url": null,
+   "bullets": [
+    "A minority of Americans want a post-liberal order",
+    "The US system enforces minority rule, not protects minority rights",
+    "Reform aims to rebalance power afforded to the minority"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260806161514.3.ae88a5c11e284a62@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "The Dem Establishment Kicked Me Out. Now They're Losing",
+   "date": "2026-08-06T09:15-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-dem-establishment-kicked-me-out",
+   "bullets": [
+    "Abdul El-Sayed beat $60 million in outside spending in Michigan's primary",
+    "Leaders We Deserve has an 18-1 record in state legislative races",
+    "The DNC is over $2 million in debt, with the RNC having eight times as much cash on hand"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260806150734.3.248e3ef4953f1a70@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Tucker 2028?",
+   "date": "2026-08-06T08:07-07:00",
+   "url": null,
+   "bullets": [
+    "TUCKER CARLSON SPENT THE SUMMER in a fugue, talking [ https://substack.com/redirect/3f73f19f-92a2-4f42-a015-4f46ed9da4bf?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] with an alleged Russian spy and accusing [ https://…",
+    "But in a much-hyped [ https://substack.com/redirect/77cde7a7-b1e5-4904-9bdb-65dfe88b4a4b?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] monologue [ https://substack.com/redirect/6c07b1cb-b393-4582-99be-9c0442eb8880?j=ey…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260806134127.3.4c2918a6f23f03d2@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Our Chaos Agent President Has Another Big Card to Play",
+   "date": "2026-08-06T06:41-07:00",
+   "url": null,
+   "bullets": [
+    "Michigan GOP primary shock: Trump‑endorsed Amir Hassan lost 33% to Tom Smith, who had dropped out months earlier, winning 50% in a surprise upset that highlighted Trump’s endorsement power limits.",
+    "Trump’s 2024 election strategy hinges on a contested executive order to restrict mail‑in voting; the Supreme Court may lift a stay, giving the administration broad discretion to alter ballot delivery before November, risking chaotic midterm elections.",
+    "A Russian‑backed strike on a Moscow restaurant during a birthday for Aerospace Forces commander Alexander Chaiko killed five, injured nineteen, and may implicate Ukraine, which has targeted Chaiko for his role in the 2022 Kyiv offensive and Bucha occupation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260806111441.3.5164eeab36930f1c@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Even Wolf Blitzer Is Baffled by John Fetterman's Pro-Israel Obsession",
+   "date": "2026-08-06T04:14-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/even-wolf-blitzer-is-baffled-by-john",
+   "bullets": [
+    "Senator John Fetterman told CNN’s Wolf Blitzer he would consider leaving the Democratic Party if its platform adopted anti‑Israel positions, framing Israel support as a personal “red line.”",
+    "Blitzer highlighted AIPAC’s $30 million spend backing Rep. Haley Stevens and potential multi‑million support for GOP Mike Rogers, questioning why Fetterman makes a foreign issue his defining litmus test.",
+    "New Maine polls show progressive Troy Jackson overtaking GOP Sen. Susan Collins, while Donald Trump’s fluctuating stance on Iran continues to dominate headlines."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260806103048.3.19c6efe3f4eef305@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Good News Trump Won’t Mention",
+   "date": "2026-08-06T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-good-news-trump-wont-mention",
+   "bullets": [
+    "U.S. murder rates, which spiked after Covid, have been falling and are now near 1960s lows in major cities like New York, a trend credited by many to Biden‑era social programs such as the American Rescue Plan.",
+    "Krugman argues Trump stays silent on declining crime because he despises cities, clings to an outdated 1980s view of urban violence, and uses punitive rhetoric as a political end, not a means to improve safety.",
+    "He notes Trump’s false claims routinely ignore positive developments, preferring to blame “radical left” pollsters while promoting a narrative of cruelty and punishment."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260806010059.3.21c14ea1cd017323@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Trump Wants To Steal the Midterms – But the Dems Actually Have A Plan To Fight Back",
+   "date": "2026-08-05T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/inside-dems-plans-to-fight-back-trump-ice-polls",
+   "bullets": [
+    "Democratic officials nationwide are conducting “wargames” to prepare for scenarios where Trump could deploy armed federal agents or troops to polling places, treating the president as a primary election threat.",
+    "The administration’s alleged tactics include voter intimidation, illegal ballot‑seizing attempts, and threats to use the Insurrection Act, prompting a massive, coordinated defensive effort by Democrats, legal nonprofits, and election officials.",
+    "Sources say the preparation mirrors defenses against foreign adversaries, emphasizing the need for overwhelming voter turnout to counter Trump’s authoritarian strategy."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260805233034.3.7816983ef75ae21f@mg-d0.substack.com",
    "newsletter": "Sarah Longwell - The Bulwark",
@@ -69,10 +214,11 @@
    "date": "2026-08-05T16:30-07:00",
    "url": null,
    "bullets": [
-    "Sam Stein and Andrew Weissmann discuss the Justice Department’s dismissal of charges over damage to the Lincoln Memorial Reflecting Pool, potential recourse for Olympian David Hearn, and Trump’s response. They also examine Todd Blanche’s Se…",
-    "Andrew Weissmann's new book, Liar’s Kingdom [ https://substack.com/redirect/a8a7c8d8-a064-44a6-922f-b5a999491f47?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ],  is out now."
+    "Sam Stein and Andrew Weissmann say the Justice Department’s dismissal of Lincoln Memorial reflecting‑pool damage charges leaves Olympian David Hearn with limited recourse and prompts a sharp Trump response.",
+    "They flag Todd Blanche’s uncertain Senate confirmation, a proposed “anti‑weaponization” fund with tax‑immunity provisions, and Capital One’s claim that Trump Organization accounts violated anti‑money‑laundering rules.",
+    "They note Anthony Fauci invoked the Fifth Amendment before Congress, and promote Weissmann’s new book Liar’s Kingdom and the Illegal News podcast."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260805211024.3.43d4394bb5348771@mg-d1.substack.com",
@@ -5319,132 +5465,10 @@
     "He argues Israel and its allies routinely label accusations of war crimes, ethnic cleansing, and genocide as lies and antisemitism, urging readers to scrutinize who is speaking."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260706232010.3.f6a5d6404b777374@mg-d0.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Graham Platner Crossed the Voters’ Red Line",
-   "date": "2026-07-06T16:20-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/graham-platner-crossed-the-voters-red-line-sexual-assault-allegation-maine-senate-election-midterms",
-   "bullets": [
-    "Graham Platner, the Democratic nominee for Maine’s Senate seat, faced a sexual assault allegation from his ex‑girlfriend claiming he forced her to have sex nearly five years ago, as reported by POLITICO and the New York Times.",
-    "Platner released a video denying the allegations but did not clarify whether he would withdraw from the race, despite focus groups showing Maine voters, especially women who supported Kamala Harris, would likely abandon him over such a scandal.",
-    "Prior to the allegations, Platner’s conduct—including a Nazi tattoo and reports of toxic behavior—had already sparked controversy, yet many voters in a June 3 focus group remained willing to support him until the accusations surfaced."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260706202344.3.8d01363d267605ce@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "BREAKING: Graham Platner Accused of Sexual Assault",
-   "date": "2026-07-06T13:23-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/graham-platner-accused-sexual-assault",
-   "bullets": [
-    "Graham Platner, Maine’s Democratic Senate nominee, is accused by Jenny Racicot of forcibly assaulting her in 2021 after arriving drunk at her home, a claim he denies and has led to event cancellations and calls for his withdrawal before the July 13 deadline.",
-    "Platner’s campaign, already tainted by past scandals—including a Nazi‑style tattoo, misogynist Reddit posts, sexting after marriage, and a 2013‑15 intimidation allegation—has seen support from high‑profile progressives but limited Democratic fundraising, leaving Republican incumbent Susan Collins in a strong position."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260706171447.3.0b421711b74fee5e@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Ode to JVL",
-   "date": "2026-07-06T10:14-07:00",
-   "url": null,
-   "bullets": [
-    "JVL’s mother‑in‑law died, prompting him to pause The Triad and devote time to his family, revealing his deep, often surprising devotion to loved ones; his wife and friends note his rare, intense care for her.",
-    "JVL’s close friendship with the newsletter’s author and co‑hosts—Tim and Bill—has evolved from a professional partnership into a tight personal bond, with constant text chats blending work and life.",
-    "The author urges readers to support the late mother‑in‑law’s favorite charity, highlighting JVL’s ongoing commitment to his community and the emotional impact of his generosity."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260706160347.3.0ed3abc39c71b1c7@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "LAST CHANCE TO SAVE 25% OFF! Zeteo Sale Ends Tomorrow",
-   "date": "2026-07-06T09:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/last-chance-to-save-25-off-sale-ends",
-   "bullets": [
-    "Zeteo’s annual subscription is discounted 25% to $5.25/month, ending tomorrow at midnight (July 7).",
-    "Paid subscribers gain full access to exclusive interviews, podcasts, documentaries, live Q&As, and events.",
-    "The offer emphasizes supporting independent journalism against billionaire‑owned media."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260706132519.3.4f301d8a20974fa7@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "America’s 250th Survived Trump’s Sabotage",
-   "date": "2026-07-06T06:25-07:00",
-   "url": null,
-   "bullets": [
-    "Trump tried to hijack the 250th anniversary with a Mt. Rushmore video and a Fourth of July spectacle, but his efforts were eclipsed by historic symbols, the World Cup, and Pope Francis’s Liberty Medal speech praising America’s liberty legacy.",
-    "The author argues that the true spirit of the anniversary is embodied by figures like Pope Francis, Ukraine’s Zelensky and Hungary’s new PM Péter Magyar, who uphold liberal democracy over Trump’s self‑aggrandizement",
-    "Trump’s post‑holiday barrage of 100+ Truth Social posts and his upcoming NATO summit trip underscore his frantic attempts to stay relevant, while critics warn his actions could further damage U.S. standing in the alliance"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260706130032.3.17bb544857c5db09@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Kidnapped Gaza Doctor Faces ‘Life-Threatening Condition’ in Israeli Captivity",
-   "date": "2026-07-06T06:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/kidnapped-gaza-doctor-hussam-abu-safiya-life-threatening-condition",
-   "bullets": [
-    "Dr. Hussam Abu Safiya, a prominent Gaza pediatrician abducted in Dec 2024, is in a life‑threatening condition after daily beatings, including a hammer attack, while held in Israeli administrative detention for 18 months without charge",
-    "His lawyer reports severe bruising, breathing difficulties and loss of consciousness, and the Israeli Supreme Court has been ordered to respond to a petition demanding his release and an independent prison inspection",
-    "The WHO, UN rapporteurs, Amnesty International and several UK MPs have called for his immediate release, while US leaders have remained silent"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260706110540.3.cc7adbb8e44d1058@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "First Draft: In Michigan, the War for the Democratic Party Is On",
-   "date": "2026-07-06T04:05-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/in-michigan-the-war-for-the-democratic",
-   "bullets": [
-    "Mallory McMorrow dropped out of Michigan’s Democratic Senate primary without endorsing, prompting progressive leaders like Adam Green to hail Abdul El‑Sayed as the most important primary candidate in America\",\"El‑Sayed, a pro‑Palestine progressive, leads polls over establishment‑backed Haley Stevens, who enjoys strong AIPAC support and ties to former Obama adviser David Axelrod\",\"The race mirrors recent left‑wing primary victories in New York and Colorado, centering on Medicare for All and opposition to pro‑Israel lobby influence"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260706105608.3.2ec4027f89f9fd5c@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Michigan and the Fight for the Future of the Party",
-   "date": "2026-07-06T03:56-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/michigan-and-the-fight-for-the-future",
-   "bullets": [
-    "The Michigan Senate primary, crucial for Democrats’ Senate majority, narrowed to a two‑way race after Mallory McMorrow dropped out, leaving El‑Sayed and Haley Stevens to compete.",
-    "Mike Rogers, who lost to Elissa Slotkin by under 20,000 votes, is now the unopposed Republican nominee for the open Michigan seat, making the Democratic contest decisive.",
-    "The primary has become a proxy battle over party divisions—establishment anger, ideological splits, and the Israel‑Gaza stance—highlighting the stakes for the party’s future."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260706103103.3.a9102bf3af45c4d1@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Pump and Dump and Trump",
-   "date": "2026-07-06T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/pump-and-dump-and-trump",
-   "bullets": [
-    "Donald Trump’s Trumpcoin lost 97% of its value, wiping out $3.8 billion for nearly one million retail investors, while insiders profited from early sales before the crash.",
-    "Trump’s administration’s pro‑crypto rhetoric pushed the market cap from ~$2 trillion to >$4 trillion after the 2024 election, only to see Bitcoin prices halve and the crypto market lose roughly $2 trillion in value, a modern pump‑and‑dump on unprecedented scale."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 125,
-  "total": 396
+  "shown": 113,
+  "total": 398
  }
 }
