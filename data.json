@@ -1,23 +1,18 @@
 {
- "updated": "2026-08-07T08:14-07:00",
+ "updated": "2026-08-07T16:54-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Donald Trump and his allies are actively attempting to rig the 2024 midterm elections through voter suppression tactics and legal challenges, according to Zeteo's 'Start the Steal' series (Zeteo)",
-   "Trump is also turning the US intel community into an election-rigging machine, with coordination between the administration and local election officials, as reported by Zeteo (Zeteo)",
-   "The Supreme Court has gutted key provisions of the Voting Rights Act, putting over a dozen Black-led House districts at risk of elimination and intensifying concerns about voter suppression (Zeteo, The Bulwark)",
-   "Abdul El-Sayed's victory in the Michigan Democratic Senate primary is seen as a David-vs-Goliath win against AIPAC and the establishment, despite being outspent 11-to-1 (Zeteo, The Bulwark)",
-   "Trump's administration has imposed work-verification requirements on SNAP, causing millions to lose food aid, and Republican refusal to extend the Biden-era ACA subsidy fix has left middle-income families without aid (Paul Krugman)",
-   "Elon Musk's wealth and influence have contributed to America's slide into oligarchy, with his ties to Trump and far-right movements sparking concerns about the impact on democracy (Zeteo)"
+   "Trump's administration is being accused of attempting to rig the 2024 midterm elections through voter suppression tactics and legal challenges, according to Zeteo and Mehdi Unfiltered",
+   "Abdul El-Sayed's win in the Michigan Senate primary despite being outspent 11-to-1 by AIPAC-backed opponents is seen as a significant upset, as discussed in The Bulwark and Zeteo",
+   "Trump's endorsement power was limited in the Michigan GOP primary, where his endorsed candidate lost to a dropped-out opponent, as reported by The Bulwark",
+   "The US labor market showed a loss of 23,000 jobs in the latest report, with revisions revealing weaker employment growth during Trump's term, according to Paul Krugman",
+   "The Supreme Court's gutting of the Voting Rights Act has put over a dozen Black-led House districts at risk of elimination, with Republicans pushing for further voting restrictions, as noted in Zeteo",
+   "Democratic officials are conducting 'wargames' to prepare for potential election interference by Trump, including voter intimidation and illegal ballot-seizing attempts, as reported in Zeteo and The Bulwark"
   ],
   "by": "groq",
   "ids": [
-   "20260804160034.3.629cad74afb9eb78@mg2.substack.com",
-   "20260804164452.3.47bd9ce4bd5608b2@mg-d0.substack.com",
-   "20260804182520.3.c995e79ab487d422@mg-d0.substack.com",
-   "20260804211448.3.b08f90430c75b2c9@mg-d1.substack.com",
-   "20260804234528.3.542c4fc5b076f405@mg2.substack.com",
    "20260805045049.3.8ebc3e3c87553eed@mg2.substack.com",
    "20260805103050.3.6b9cffd83b58c17e@mg-d1.substack.com",
    "20260805103110.3.738ab7b43e7c5bb3@mg-d1.substack.com",
@@ -42,15 +37,89 @@
    "20260806210104.3.01e83388a99ddcf7@mg-d0.substack.com",
    "20260806223133.3.08e8f56963dff9ca@mg-d0.substack.com",
    "20260807010035.3.a043a32715869a56@mg2.substack.com",
+   "20260807103205.3.67d4b4d85f31bb41@mg-d1.substack.com",
    "20260807110409.3.fa93125f24f4efae@mg-d1.substack.com",
    "20260807111419.3.655939b8ca7eb8f2@mg-d1.substack.com",
+   "20260807124750.3.a23476f990c452b6@mg2.substack.com",
    "20260807130319.3.bb3473394921d68f@mg-d1.substack.com",
-   "20260807134140.3.a457eda159845adb@mg-d1.substack.com"
+   "20260807134140.3.a457eda159845adb@mg-d1.substack.com",
+   "20260807164438.3.43e1b936ca62e3ba@mg-d1.substack.com",
+   "20260807174510.3.4e269b76877fc976@mg-d0.substack.com",
+   "20260807195316.3.370fb3270022774d@mg2.substack.com",
+   "20260807203257.3.c63c7298a79ffd53@mg2.substack.com",
+   "20260807211527.3.8beed0bb80a8dd0f@mg-d1.substack.com"
   ],
-  "updated": "2026-08-07T08:14-07:00",
+  "updated": "2026-08-07T16:54-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260807211527.3.8beed0bb80a8dd0f@mg-d1.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 81: Trump’s Corruption Is Off the Charts",
+   "date": "2026-08-07T14:15-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-81-trumps",
+   "bullets": [
+    "Abdul El‑Sayed won the Michigan Senate primary against a $60 million AIPAC‑backed field, showing voters can defeat well‑funded opponents; Trump’s Justice Department is pushing to dismiss Jan. 6 charges against Oath Keepers while ICE collected DNA from ~920,000 immigrants in 2025, many never convicted.",
+    "Trump launched a $100,000‑per‑month premium Truth Social API that could let traders profit from his posts; he also signed executive orders to restrict birthright citizenship and to limit foreign births, despite a Supreme Court ruling upholding the right.",
+    "ICE’s 2025 DNA collection became the largest new source for the FBI’s criminal database, and the Trump administration is again attempting to remove Fed Governor Lisa Cook after a Supreme Court decision allowed her to stay in office."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260807203257.3.c63c7298a79ffd53@mg2.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The GOAT Episode",
+   "date": "2026-08-07T13:32-07:00",
+   "url": null,
+   "bullets": [
+    "JVL and Tim hosted a large show featuring Callista Gingrich’s uncanny performance, Thom Tillis’s new “burn book,” Tucker Carlson’s presidential run, and a discussion on burrito discourse, all highlighted as a classic episode."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260807195316.3.370fb3270022774d@mg2.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Government Shouldn’t Pick Winners and Losers in Media",
+   "date": "2026-08-07T12:53-07:00",
+   "url": null,
+   "bullets": [
+    "The FCC voted to eliminate the 39% national ownership cap, allowing media giants like Sinclair to consolidate local stations, a move defended by FCC Chair Brendan Carr as a case‑by‑case review of localism, viewpoint diversity, and competition.",
+    "Free Press argues the FCC lacks authority to lift the cap without congressional action, warning that the change will enable a few dominant broadcasters to dominate markets, cut journalist jobs, and flood local news with low‑quality content."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260807174510.3.4e269b76877fc976@mg-d0.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Pakistanis 'Massively Disappointed' in Trump and the U.S., Says Top Imran Khan Adviser",
+   "date": "2026-08-07T10:45-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/pakistanis-massively-disappointed-over-imran-khan-donald-trump-response",
+   "bullets": [
+    "Zulfi Bukhari, top adviser to imprisoned ex‑PM Imran Khan, says Khan has been in solitary confinement for seven months with no medical bail granted.",
+    "Bukhari criticises former President Trump, saying Pakistanis feel \"massively disappointed\" that the U.S. has not advocated for Khan despite promises.",
+    "He denies any current negotiations to free Khan, contradicting an Observer report about a behind‑the‑scenes deal."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260807164438.3.43e1b936ca62e3ba@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "News of the Weak (Labor Market)",
+   "date": "2026-08-07T09:44-07:00",
+   "url": "https://paulkrugman.substack.com/p/news-of-the-weak-labor-market",
+   "bullets": [
+    "The latest jobs report showed a loss of 23,000 jobs versus a forecast of 80,000 gains, and revisions to earlier months reveal much weaker overall employment growth during Trump’s term than previously thought.",
+    "Krugman argues that anti‑immigration policies have cut the labor‑force pool, so low job creation (about 26,000 per month) no longer translates into higher unemployment, but also fails to free jobs for native‑born workers, as immigrant losses are matched by a drop in total employment.",
+    "Wage growth is slowing and the Conference Board’s labor‑market differential has fallen sharply, indicating weaker bargaining power and a less optimistic perception of job availability despite Trump’s claims of a booming economy."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260807134140.3.a457eda159845adb@mg-d1.substack.com",
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
@@ -87,10 +156,11 @@
    "date": "2026-08-07T05:47-07:00",
    "url": "https://open.substack.com/pub/citrini/p/protection-matters",
    "bullets": [
-    "Nuance has not been an especially strong suit of the AI Trade to date. Ask anyone over the past two months about what the rise of agentic coding agents means for cybersecurity and they’ll likely tell you it’s going to result in an explosion…",
-    "That was distinctly not the case just six short months ago. In Q1, we watched the market punish cybersecurity stocks so aggressively that we were left searching for adjectives to describe the phenomenon."
+    "Agentic AI coding agents have sparked a surge in cyberattacks, prompting a sharp rally in cybersecurity stocks that outperformed AI infrastructure and semiconductor sectors since Q1 2024.",
+    "The newsletter argues AI will fuel a near‑term cybersecurity boom, but only firms with hard enforcement points—hardware, telemetry, data or distribution—will retain durable market share, while vulnerability‑management vendors face commoditization risk.",
+    "Recent incidents, like OpenAI’s rogue agent breaching Hugging Face and Iranian attacks on US water systems, illustrate the escalating threat landscape and the growing budgets shifting toward AI‑driven security solutions."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260807111419.3.655939b8ca7eb8f2@mg-d1.substack.com",
@@ -127,10 +197,11 @@
    "date": "2026-08-07T03:32-07:00",
    "url": "https://paulkrugman.substack.com/p/lying-liars-lie-to-each-other-too",
    "bullets": [
-    "There is no longer a presumption of regularity Lately Donald Trump has been raging against several of his own appointees. He has publicly raged against his attorney general Jeannine Pirro [ https://substack.com/redirect/55531bcf-7707-45eb-9…",
-    "These may sound like unrelated stories, linked only by the fact they all involve presidential tantrums. In a larger sense, however, they are part of the same story — what happens when a government operates entirely in bad faith, never telli…"
+    "Trump has publicly berated his own officials—AG Jeannine Pirro, RFK Jr., and Defense Secretary Pete Hegseth—over contractor failures, vaccine misinformation claims, and false munitions reports, highlighting internal lies.",
+    "Legal scholars note the collapse of the ‘presumption of regularity’: courts now demand evidence of government truthfulness in grand‑jury cases, dismissing charges seen as vindictive prosecutions under Trump II.",
+    "The administration’s bad‑faith policies—re‑imposing tariffs on 60 nations, cutting food‑stamp benefits, and denying FEMA aid to blue states—combined with Pentagon misinformation have depleted precision munitions in the Iran war, creating self‑inflicted national‑security disasters."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260807010035.3.a043a32715869a56@mg2.substack.com",
@@ -5412,50 +5483,10 @@
     "Her collapse is attributed to establishment pressure from figures like retiring Sen. Gary Peters to cede her base to Stevens, internal polling suggesting El‑Sayed could capture her supporters, and her criticism of Democratic leadership that alienated party insiders."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260707234349.3.e722d6b023b2b0e8@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "World’s Worst Person Is Also World’s First Trillionaire. What Does That Mean for the Rest of Us?",
-   "date": "2026-07-07T16:43-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/elon-musk-trillionaire-klein",
-   "bullets": [
-    "Elon Musk’s recent trillionaire status is attributed to a mix of government subsidies, unrealistic IPO promises, and political corruption, raising concerns about wealth-driven impunity and democratic erosion.",
-    "The interview critiques Musk’s SpaceX IPO goals—space tourism and AI data centers in space—as wildly unrealistic, and highlights his feud with Rep. Ro Khanna over deaths linked to DOGE’s USAID cuts.",
-    "Peter Thiel’s claim that democracy and freedom are incompatible is discussed, alongside protests in Albania over a Trump-linked resort plan on a protected nature reserve."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260707191649.3.216eda8c72acf4bd@mg-d1.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "MAGA Loves Trump’s World Cup Meddling—Until We Lose",
-   "date": "2026-07-07T12:16-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/maga-loves-trumps-world-cup-meddlinguntil",
-   "bullets": [
-    "Trump called FIFA president Gianni Infantino to lift a one‑game suspension on American‑born striker Folari Balogun, who had received a red card in a prior match, sparking a brief surge of pro‑Trump soccer enthusiasm that ended when the U.S. lost 4‑1 to Belgium and the movement quickly abandoned the sport",
-    "MAGA figures such as Benny Johnson, Dave Portnoy, and Laura Loomer celebrated Trump’s intervention, posted paid ads, and later mocked the U.S. defeat, while conservative commentators like Alex Marlow and Tyler Bowyer framed the incident as a victory for American citizenship and presidential power"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260707152156.3.a9b04b1c1a5417c3@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "BREAKING: Nigel Farage 'Resigns' From UK Parliament Amid Investigations Into His Finances",
-   "date": "2026-07-07T08:21-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/breaking-nigel-farage-resigns-from",
-   "bullets": [
-    "Nigel Farage resigned as MP for Clacton to trigger a by‑election, citing a need for a fresh mandate while two parliamentary standards investigations probe his undeclared £5 million gift from a billionaire donor and alleged support from convicted fraudster George Cottrell.",
-    "The investigations will pause during the campaign but resume if Farage is re‑elected; the move will cost taxpayers a by‑election less than two years after his election, drawing criticism from political rivals who label him a “grifter” and accuse him of using the election to distract from financial misconduct."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 105,
-  "total": 397
+  "shown": 98,
+  "total": 399
  }
 }
