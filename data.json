@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T16:53-07:00",
+ "updated": "2026-08-06T18:46-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -53,6 +53,19 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260807010035.3.a043a32715869a56@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "How Trump Is Turning the U.S. Intel Community Into an Election-Rigging Machine",
+   "date": "2026-08-06T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/how-trump-is-turning-the-us-intel",
+   "bullets": [
+    "This week, we’ve been publishing our ‘Start The Steal’ series, documenting the president’s scorched-earth campaign to rig the coming elections. This remains the biggest story in America right now, and to keep reporting this story the way it…",
+    "High on the list of Trump’s unprecedented moves is his ongoing push to subsume the U.S. intelligence community into his personality cult – and use it to directly aid his campaign to corrupt and rig elections domestically."
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20260806223133.3.08e8f56963dff9ca@mg-d0.substack.com",
    "newsletter": "Tim Miller - The Bulwark",
@@ -145,10 +158,10 @@
    "date": "2026-08-06T08:07-07:00",
    "url": null,
    "bullets": [
-    "TUCKER CARLSON SPENT THE SUMMER in a fugue, talking [ https://substack.com/redirect/3f73f19f-92a2-4f42-a015-4f46ed9da4bf?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] with an alleged Russian spy and accusing [ https://…",
-    "But in a much-hyped [ https://substack.com/redirect/77cde7a7-b1e5-4904-9bdb-65dfe88b4a4b?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] monologue [ https://substack.com/redirect/6c07b1cb-b393-4582-99be-9c0442eb8880?j=ey…"
+    "Tucker Carlson delivered a 90‑minute monologue outlining ten populist planks—fairness, sovereignty, optimism, etc.—and hinted at a possible third‑party presidential run in 2028 without explicitly declaring candidacy",
+    "He convened with former allies like Marjorie Taylor Greene, Thomas Massie, and Joe Kent, who now criticize Trump and promote a non‑Trump 2028 option, while critics argue Carlson is a Putin‑influenced dupe with radical party ambitions"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260806134127.3.4c2918a6f23f03d2@mg-d1.substack.com",
@@ -2287,19 +2300,6 @@
    "summary_by": "groq"
   },
   {
-   "id": "20260728162945.3.911274615418214a@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "How Trump Could Declare ‘Bankruptcy’ on Iran",
-   "date": "2026-07-28T09:29-07:00",
-   "url": null,
-   "bullets": [
-    "Nick Catoggio argues Trump’s “bankruptcy” on Iran—walking away from the conflict—would only work if Iran agreed to revert oil flows to pre‑war levels, which they refuse.",
-    "The author questions whether Trump can truly abdicate America’s stance on Iran, suggesting the only realistic option is to accept the loss and move on."
-   ],
-   "summary_by": "groq"
-  },
-  {
    "id": "20260728141815.3.cea43fc5d9baffd8@mg2.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
@@ -2362,20 +2362,6 @@
    "url": "https://yourlocalepidemiologist.substack.com/p/measles-record-and-hot-questions",
    "bullets": [
     "COVID‑19 is entering a summer wave despite low absolute numbers, especially in the West, while an FDA‑recommended 2026‑27 vaccine formulation may be available by mid‑August, so adults over 65 should get the current booster now"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260728112202.3.f8ed97cd674dbd07@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Why Is This Alleged Abuser Still in Congress?",
-   "date": "2026-07-28T04:22-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/why-is-this-alleged-abuser-still",
-   "bullets": [
-    "Republican Congressman Max Miller faces multiple abuse allegations, including throwing boiling water at his ex‑wife, threatening her father, and a daughter’s broken collarbone, yet House GOP members have taken no action.",
-    "Miller, a former Trump aide, is also being urged by the Trump administration to influence mail‑in voting rules before the midterms, despite the serious accusations.",
-    "The piece highlights broader GOP indifference, noting a 5‑4 Supreme Court that upholds the 14th Amendment and a looming racist crackdown in Springfield, Ohio."
    ],
    "summary_by": "groq"
   },
@@ -5452,23 +5438,10 @@
     "Regulators have slowed off‑grid projects and Permian gas prices stayed negative in 2026, but Project Kilby—twice the size of Project Stargate—appears near final investment decision and could shift Permian oil‑gas dynamics."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260707010116.3.184440e1f1f9fc4d@mg2.substack.com",
-   "newsletter": "Mehdi from Zeteo",
-   "pub": "zeteo",
-   "subject": "Who Should You Believe About the Genocide in Gaza? Mehdi Names Them All in 60 Seconds",
-   "date": "2026-07-06T18:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/who-should-you-believe-gaza",
-   "bullets": [
-    "Mehdi’s 60‑second rant lists the sources to trust on Gaza, contrasting the UN report that says Israel deliberately targeted children with Israel’s Foreign Ministry calling the report propaganda and a political blood libel.",
-    "He argues Israel and its allies routinely label accusations of war crimes, ethnic cleansing, and genocide as lies and antisemitism, urging readers to scrutinize who is speaking."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 113,
-  "total": 398
+  "shown": 110,
+  "total": 396
  }
 }
