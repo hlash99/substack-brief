@@ -1,26 +1,18 @@
 {
- "updated": "2026-08-06T18:46-07:00",
+ "updated": "2026-08-07T08:14-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Abdul El-Sayed's victory in the Michigan Democratic Senate primary despite being outspent 11-to-1 by AIPAC-backed Haley Stevens is seen as a significant blow to the Democratic establishment and AIPAC's influence",
-   "Trump's administration is being accused of plotting to rig and steal the midterm elections through various means, including voter suppression and gerrymandering",
-   "The Supreme Court's gutting of key provisions of the Voting Rights Act has put over a dozen Black-led House districts at risk of elimination",
-   "Elon Musk's wealth and influence have led to concerns about America's slide into oligarchy, with Musk using his wealth to influence the 2024 Trump election and fund far-right movements",
-   "Paul Krugman argues that the decline in US murder rates, which have fallen to near 1960s lows in major cities, is a positive trend that Trump is not acknowledging",
-   "Democratic officials are preparing for potential election interference by Trump, including the use of armed federal agents or troops at polling places"
+   "Donald Trump and his allies are actively attempting to rig the 2024 midterm elections through voter suppression tactics and legal challenges, according to Zeteo's 'Start the Steal' series (Zeteo)",
+   "Trump is also turning the US intel community into an election-rigging machine, with coordination between the administration and local election officials, as reported by Zeteo (Zeteo)",
+   "The Supreme Court has gutted key provisions of the Voting Rights Act, putting over a dozen Black-led House districts at risk of elimination and intensifying concerns about voter suppression (Zeteo, The Bulwark)",
+   "Abdul El-Sayed's victory in the Michigan Democratic Senate primary is seen as a David-vs-Goliath win against AIPAC and the establishment, despite being outspent 11-to-1 (Zeteo, The Bulwark)",
+   "Trump's administration has imposed work-verification requirements on SNAP, causing millions to lose food aid, and Republican refusal to extend the Biden-era ACA subsidy fix has left middle-income families without aid (Paul Krugman)",
+   "Elon Musk's wealth and influence have contributed to America's slide into oligarchy, with his ties to Trump and far-right movements sparking concerns about the impact on democracy (Zeteo)"
   ],
   "by": "groq",
   "ids": [
-   "20260804000940.3.c0a3a566d72b539f@mg-d1.substack.com",
-   "20260804010019.3.658bf6b9d5528fa7@mg2.substack.com",
-   "20260804090102.3.76503c74f1833da2@mg-d1.substack.com",
-   "20260804102904.3.c84a4e21f11cce92@mg2.substack.com",
-   "20260804103121.3.d0fae2048f1c23f8@mg-d0.substack.com",
-   "20260804103533.3.18b6ec17808de268@mg-d0.substack.com",
-   "20260804110443.3.e6af01d08bc29a46@mg-d0.substack.com",
-   "20260804135047.3.f5f040f874d8a8ee@mg-d0.substack.com",
    "20260804160034.3.629cad74afb9eb78@mg2.substack.com",
    "20260804164452.3.47bd9ce4bd5608b2@mg-d0.substack.com",
    "20260804182520.3.c995e79ab487d422@mg-d0.substack.com",
@@ -42,17 +34,104 @@
    "20260806103048.3.19c6efe3f4eef305@mg-d1.substack.com",
    "20260806111441.3.5164eeab36930f1c@mg-d1.substack.com",
    "20260806134127.3.4c2918a6f23f03d2@mg-d1.substack.com",
+   "20260806150734.3.248e3ef4953f1a70@mg2.substack.com",
    "20260806161514.3.ae88a5c11e284a62@mg-d1.substack.com",
    "20260806164209.3.8137efcb27592c97@mg2.substack.com",
    "20260806190101.3.f70a693185ac62fe@mg-d1.substack.com",
    "20260806200034.3.8cd2051646799263@mg-d0.substack.com",
    "20260806210104.3.01e83388a99ddcf7@mg-d0.substack.com",
-   "20260806223133.3.08e8f56963dff9ca@mg-d0.substack.com"
+   "20260806223133.3.08e8f56963dff9ca@mg-d0.substack.com",
+   "20260807010035.3.a043a32715869a56@mg2.substack.com",
+   "20260807110409.3.fa93125f24f4efae@mg-d1.substack.com",
+   "20260807111419.3.655939b8ca7eb8f2@mg-d1.substack.com",
+   "20260807130319.3.bb3473394921d68f@mg-d1.substack.com",
+   "20260807134140.3.a457eda159845adb@mg-d1.substack.com"
   ],
-  "updated": "2026-08-06T16:53-07:00",
+  "updated": "2026-08-07T08:14-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260807134140.3.a457eda159845adb@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Blanche on the Bubble",
+   "date": "2026-08-07T06:41-07:00",
+   "url": null,
+   "bullets": [
+    "Putin may test NATO with a limited assault on a member country, per U.S. intelligence cited by the WSJ, amid U.S. munitions stockpiles falling dangerously low.",
+    "July’s job loss hit 23,000, with May and June revised down 103,000, while the unemployment rate fell to 4.1% as 260,000 people exited the labor force, leaving 30% of the unemployed job‑hungry for over six months.",
+    "Sen. Bill Cassidy, after voting to convict Trump and confirming RFK Jr., faces pressure from Murkowski and could oppose Todd Blanche’s DOJ nomination, reflecting his uneasy stance toward Trump‑aligned Republicans like Thom Tillis."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260807130319.3.bb3473394921d68f@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "🚨TODAY, 2pm ET, Live Q&A: 'Start the Steal,' Discussion with Mehdi and Swin",
+   "date": "2026-08-07T06:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/today-2pm-et-mehdi-discusses-our",
+   "bullets": [
+    "Donald Trump and allies are actively attempting to rig the 2024 midterm elections, as detailed in Zeteo’s four-part ‘Start the Steal’ series, citing legal challenges and voter suppression tactics.",
+    "Democratic officials and nonprofits, including Democracy Forward’s president Skye Perryman, are countering these efforts through court battles and public advocacy.",
+    "A live Q&A with Mehdi, Swin (co-author of the series), and Perryman will air Friday at 2pm ET to discuss the series and answer audience questions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260807124750.3.a23476f990c452b6@mg2.substack.com",
+   "newsletter": "Citrini",
+   "pub": "citrini",
+   "subject": "Protection Matters",
+   "date": "2026-08-07T05:47-07:00",
+   "url": "https://open.substack.com/pub/citrini/p/protection-matters",
+   "bullets": [
+    "Nuance has not been an especially strong suit of the AI Trade to date. Ask anyone over the past two months about what the rise of agentic coding agents means for cybersecurity and they’ll likely tell you it’s going to result in an explosion…",
+    "That was distinctly not the case just six short months ago. In Q1, we watched the market punish cybersecurity stocks so aggressively that we were left searching for adjectives to describe the phenomenon."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260807111419.3.655939b8ca7eb8f2@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Here Come the Super-Islamophobic Midterms",
+   "date": "2026-08-07T04:14-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/here-come-the-super-islamophobic",
+   "bullets": [
+    "Abdul El‑Sayed, a Muslim former Detroit health official, secured the Democratic Senate nomination in Michigan, prompting a wave of Republican outrage that the author frames as a new wave of overt Islamophobia.",
+    "The piece cites Muslim‑American scholar Dalia Mogahed, noting that spikes in Islamophobia historically align more with political events than terrorist attacks, challenging common narratives.",
+    "It also warns of escalating tensions: Israeli troops allegedly assaulted Palestinian‑American citizens, and Donald Trump is furious over a Washington Post story claiming he’s at odds with Pete Hegseth over the Iran war fallout."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260807110409.3.fa93125f24f4efae@mg-d1.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Senate Voting to Give Trump a Tariff Nuke",
+   "date": "2026-08-07T04:04-07:00",
+   "url": null,
+   "bullets": [
+    "A bipartisan bill, the Lindsey O. Graham Sanctioning Russia Act, is moving through Congress with 62 Senate cosponsors (including 21 Democrats) and could clear the Senate soon.",
+    "If passed, the bill would let the president impose 100% tariffs on any country indefinitely, granting near‑absolute tariff authority that even the Supreme Court couldn’t overturn."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260807103205.3.67d4b4d85f31bb41@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Lying Liars Lie to Each Other Too",
+   "date": "2026-08-07T03:32-07:00",
+   "url": "https://paulkrugman.substack.com/p/lying-liars-lie-to-each-other-too",
+   "bullets": [
+    "There is no longer a presumption of regularity Lately Donald Trump has been raging against several of his own appointees. He has publicly raged against his attorney general Jeannine Pirro [ https://substack.com/redirect/55531bcf-7707-45eb-9…",
+    "These may sound like unrelated stories, linked only by the fact they all involve presidential tantrums. In a larger sense, however, they are part of the same story — what happens when a government operates entirely in bad faith, never telli…"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20260807010035.3.a043a32715869a56@mg2.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -61,10 +140,11 @@
    "date": "2026-08-06T18:00-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/how-trump-is-turning-the-us-intel",
    "bullets": [
-    "This week, we’ve been publishing our ‘Start The Steal’ series, documenting the president’s scorched-earth campaign to rig the coming elections. This remains the biggest story in America right now, and to keep reporting this story the way it…",
-    "High on the list of Trump’s unprecedented moves is his ongoing push to subsume the U.S. intelligence community into his personality cult – and use it to directly aid his campaign to corrupt and rig elections domestically."
+    "Ian Bassin, former Obama White House lawyer, says Trump is turning U.S. intelligence agencies into tools for personal power, a tactic he likens to dictators’ playbooks.",
+    "Trump‑backed Georgia election officials have been in contact with a White House election‑security official, showing coordination between the administration and the election‑denial movement at the local level.",
+    "Two senior U.S. officials told Zeteo that no classified evidence exists of foreign interference in the 2020 election, yet aides repeatedly fed Trump false assurances to sustain his false claim of a stolen election."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260806223133.3.08e8f56963dff9ca@mg-d0.substack.com",
@@ -5372,76 +5452,10 @@
     "The investigations will pause during the campaign but resume if Farage is re‑elected; the move will cost taxpayers a by‑election less than two years after his election, drawing criticism from political rivals who label him a “grifter” and accuse him of using the election to distract from financial misconduct."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260707131927.3.5b16cdb5f51159ef@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A Case Study in Recklessly Endangering the Senate",
-   "date": "2026-07-07T06:19-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/a-case-study-in-recklessly-endangering-senate-graham-platner-sexual-assault-allegation-midterms-maine-susan-collins-democrats",
-   "bullets": [
-    "A former Maine Democratic Senate candidate, Graham Platner, was accused by a former girlfriend of a 2019 sexual assault, with Facebook messages and a second ex‑boyfriend corroborating her claim, prompting his likely withdrawal before the July 13 deadline.",
-    "Democrats fear Platner’s scandal could jeopardize Senate control and damage party credibility, as insiders warn replacing him mid‑race is difficult and may fuel conspiracy narratives among voters.",
-    "Bill Kristol and Ben Parker will discuss the fallout and broader implications on their Morning Shots Live show at 10:30 a.m. EDT today."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260707110811.3.68d14a00cd7571eb@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Will Platner Drop Out?",
-   "date": "2026-07-07T04:08-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/will-platner-drop-out",
-   "bullets": [
-    "Maine Democratic Party can replace him on the ballot if he exits by July 13, with a new candidate selected by July 27, otherwise the race remains unchanged"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260707104307.3.a7143cb1e646f191@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Thoughts on Graham Platner's Imploding Campaign",
-   "date": "2026-07-07T03:43-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/thoughts-on-graham-platners-imploding",
-   "bullets": [
-    "Jenny Racicot accused Democratic Senate nominee Graham Platner of 2021 sexual assault, with Politico detailing her account of non-consensual encounter.",
-    "Dan Pfeiffer admits supporting Platner was a mistake, urging him to drop out to allow a Democratic replacement in Maine against Susan Collins.",
-    "Allegations include Platner entering Racicot's home uninvited, intoxicated, and using force during the assault, per Politico's reporting."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260707103039.3.ff59796b05424f54@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Day Off",
-   "date": "2026-07-07T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/day-off-906",
-   "bullets": [
-    "Paul Krugman took a day off due to a crashing headache, attributing it to EU-KLEMS data analysis.",
-    "He anticipates returning to his usual schedule tomorrow."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260707090139.3.4ad740d323e9fb02@mg2.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Blue Chips",
-   "date": "2026-07-07T02:01-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/blue-chips",
-   "bullets": [
-    "Doomberg predicted AI data centers would need massive behind‑meter power, favoring natural‑gas turbines over nuclear due to speed and baseload reliability, and warned gas turbine supply would tighten.",
-    "Regulators have slowed off‑grid projects and Permian gas prices stayed negative in 2026, but Project Kilby—twice the size of Project Stargate—appears near final investment decision and could shift Permian oil‑gas dynamics."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 110,
-  "total": 396
+  "shown": 105,
+  "total": 397
  }
 }
