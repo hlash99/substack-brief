@@ -1,25 +1,18 @@
 {
- "updated": "2026-08-07T16:54-07:00",
+ "updated": "2026-08-08T07:55-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's administration is being accused of attempting to rig the 2024 midterm elections through voter suppression tactics and legal challenges, according to Zeteo and Mehdi Unfiltered",
-   "Abdul El-Sayed's win in the Michigan Senate primary despite being outspent 11-to-1 by AIPAC-backed opponents is seen as a significant upset, as discussed in The Bulwark and Zeteo",
-   "Trump's endorsement power was limited in the Michigan GOP primary, where his endorsed candidate lost to a dropped-out opponent, as reported by The Bulwark",
-   "The US labor market showed a loss of 23,000 jobs in the latest report, with revisions revealing weaker employment growth during Trump's term, according to Paul Krugman",
-   "The Supreme Court's gutting of the Voting Rights Act has put over a dozen Black-led House districts at risk of elimination, with Republicans pushing for further voting restrictions, as noted in Zeteo",
-   "Democratic officials are conducting 'wargames' to prepare for potential election interference by Trump, including voter intimidation and illegal ballot-seizing attempts, as reported in Zeteo and The Bulwark"
+   "Trump's administration is allegedly attempting to rig the 2024 midterm elections through voter suppression and legal challenges, prompting Democratic officials and nonprofits to counter these efforts",
+   "China is rapidly progressing in semiconductors and AI, with firms like DeepSeek and Moonshot releasing competitive models, despite US sanctions",
+   "Abdul El-Sayed won the Michigan Senate primary despite being outspent 11-to-1, but faces a tough general election against Republican Mike Rogers",
+   "The US labor market showed a loss of 23,000 jobs in the latest report, with revisions revealing weaker employment growth during Trump's term",
+   "Israel's destruction of medical supply warehouses in Gaza has further crippled healthcare access amid ongoing attacks on civilians and settlements",
+   "Trump's endorsement power was limited in the Michigan GOP primary, where Tom Smith won despite dropping out months earlier"
   ],
   "by": "groq",
   "ids": [
-   "20260805045049.3.8ebc3e3c87553eed@mg2.substack.com",
-   "20260805103050.3.6b9cffd83b58c17e@mg-d1.substack.com",
-   "20260805103110.3.738ab7b43e7c5bb3@mg-d1.substack.com",
-   "20260805112230.3.7911023f708bde73@mg2.substack.com",
-   "20260805130156.3.ace63fd15dc90251@mg2.substack.com",
-   "20260805133134.3.01c228a436f22622@mg-d1.substack.com",
-   "20260805134434.3.c5219c87d62d8b72@mg-d0.substack.com",
    "20260805150149.3.da526415a2aeae75@mg-d0.substack.com",
    "20260805165114.3.45959d0189c9a12c@mg-d1.substack.com",
    "20260805210714.3.b9a334d80f6041f0@mg2.substack.com",
@@ -47,12 +40,143 @@
    "20260807174510.3.4e269b76877fc976@mg-d0.substack.com",
    "20260807195316.3.370fb3270022774d@mg2.substack.com",
    "20260807203257.3.c63c7298a79ffd53@mg2.substack.com",
-   "20260807211527.3.8beed0bb80a8dd0f@mg-d1.substack.com"
+   "20260807211527.3.8beed0bb80a8dd0f@mg-d1.substack.com",
+   "20260808010028.3.fc75b9748f43b581@mg-d1.substack.com",
+   "20260808103106.3.3668f0bbccf7612c@mg2.substack.com",
+   "20260808110407.3.b0b2cd3d8c07ebf9@mg-d0.substack.com",
+   "20260808113043.3.02cafca44a467b9c@mg2.substack.com",
+   "20260808122136.3.5f3ab17fd0d13daf@mg-d0.substack.com",
+   "20260808123433.3.43dec10ec921e201@mg-d1.substack.com",
+   "20260808130105.3.a966d74449f81bb7@mg-d1.substack.com",
+   "20260808130107.3.8c784e6956f28eae@mg-d1.substack.com"
   ],
-  "updated": "2026-08-07T16:54-07:00",
+  "updated": "2026-08-08T07:55-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260808140614.3.218adfd06e34394d@mg2.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "Trump Gave Democrats an Opening on Immigration. They’re Afraid to Take It.",
+   "date": "2026-08-08T07:06-07:00",
+   "url": null,
+   "bullets": [
+    "YOU MIGHT THINK DEMOCRATS would be up in arms over the violence perpetrated by the Trump administration and its agencies in implementing its deportation agenda. And on its official social media channels, the Democratic party has issued powe…",
+    "But a closer look reveals that that social media energy has not translated into actual midterm messaging. On July 26, less than two weeks after Johan Sebastián Durán Guerrero’s death in Maine, House Democratic leader Hakeem Jeffries unveile…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260808130105.3.a966d74449f81bb7@mg-d1.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: UNICEF Reports 300 Palestinian Children Killed in 300 Days, as Israel Destroys Gaza Medici…",
+   "date": "2026-08-08T06:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-unicef-reports",
+   "bullets": [
+    "UNICEF reports 300 Palestinian children killed in 300 days, averaging one child per day, since the October ceasefire claim, highlighting ongoing Israeli violence in Gaza.",
+    "Israel destroyed medical supply warehouses in Gaza on August 1, further crippling healthcare access amid continued attacks on civilians and settlements.",
+    "The newsletter notes over 30 Palestinians killed in the days after U.S. President Trump announced a breakthrough in ceasefire talks, underscoring the lack of a genuine truce."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260808130107.3.8c784e6956f28eae@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“It was 5 hours into the trip when I realized my hostess might be annoyed. 33 hours when I thought she hated me. 5…",
+   "date": "2026-08-08T06:01-07:00",
+   "url": "https://post.substack.com/p/it-was-5-hours-into-the-trip-when",
+   "bullets": [
+    "Ariel Ehrlich stayed with a friend in Nantucket despite being a high-maintenance guest",
+    "Mitchell Jackson recounts his time at Vice magazine",
+    "Vice was a cult-like company with a range of side hustles and sponsorships"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260808123433.3.43dec10ec921e201@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "South Carolina’s Surprise Election (with Meg Kinnard)",
+   "date": "2026-08-08T05:34-07:00",
+   "url": null,
+   "bullets": [
+    "South Carolina’s special Republican primary to replace late Sen. Lindsey Graham features his sister, Sen. Darline Graham, backed by President Trump, but polls and focus groups show she faces strong intra‑party challengers.",
+    "The episode examines Lindsey Graham’s legacy among South Carolina Republicans and the rapid, unexpected nature of the special election, with insights from AP reporter Meg Kinnard."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260808122136.3.5f3ab17fd0d13daf@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Why the Michigan Polls Blew It — And What It Means for November",
+   "date": "2026-08-08T05:21-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/why-the-michigan-polls-blew-it-and",
+   "bullets": [
+    "Michigan polls were wildly inaccurate, turning an expected El‑Sayed victory into a close race that wasn’t called until the next morning, highlighting severe polling errors in the state.",
+    "The author questions whether this polling failure is limited to the Democratic primary or will persist into the general election, suggesting a risk of continued polling panic before November.",
+    "He also asks why no exit polls were conducted in Michigan, speculating on legal or funding issues, and notes the absence of this critical data as a significant concern."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260808113043.3.02cafca44a467b9c@mg2.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "As Goes Ohio...",
+   "date": "2026-08-08T04:30-07:00",
+   "url": null,
+   "bullets": [
+    "The author contrasts Ohio GOP hopeful Vivek Ramaswamy’s “conservativemaxxing” platform with former health official Amy Acton’s nostalgic appeal to Ohio’s past politics.",
+    "Ramaswamy promises tax‑cut schemes like free electricity for data centers, while voters, recalling Missouri’s defeat of an income‑tax repeal, remain skeptical about eliminating state and property taxes.",
+    "With 88 days to the election, the author will continue on‑the‑ground reporting from Ohio’s Buckeye state and invites readers to discuss which aspects of “politics of yesteryear” might be revived."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260808110407.3.b0b2cd3d8c07ebf9@mg-d0.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Feigning Surprise",
+   "date": "2026-08-08T04:04-07:00",
+   "url": null,
+   "bullets": [
+    "US sanctions have failed to halt China’s rapid progress in semiconductors and AI, with firms like DeepSeek and Moonshot releasing competitive models and China mass‑producing deep‑ultraviolet chip tools and an extreme‑ultraviolet prototype, a capability long deemed Western‑only.",
+    "Doomberg has repeatedly warned that sanctions actually accelerate China’s chip dominance, publishing forecasts in April 2024, May 2025, May 2024 and July 2024 that predicted the very breakthroughs now reported by The Information."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260808103106.3.3668f0bbccf7612c@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Talking With G. Elliott Morris About the Midterms",
+   "date": "2026-08-08T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/talking-with-g-elliott-morris-about",
+   "bullets": [
+    "G. Elliott Morris’s Strength in Numbers model gives Democrats an 87% chance to win the House, estimating they’ll secure about 231 seats, though gerrymandering likely costs them 5‑6 seats versus a 95‑96% chance without it",
+    "The Senate forecast shows Democrats at a 54% chance to capture control, needing four pickups; they’re favored in North Carolina (≈85% chance) and see toss‑up prospects in Maine, Texas, Alaska and Ohio, while defending a vulnerable Michigan seat",
+    "Morris argues polling shows Abdul El‑Sayed’s odds in Michigan are statistically indistinguishable from a more moderate Democrat, contradicting pundit claims that his progressive stance makes a Democratic Senate win unlikely"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260808010028.3.fc75b9748f43b581@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "We May Need ‘Massive Boycotts’ to Stop Trump, Says Democracy Expert",
+   "date": "2026-08-07T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/we-may-need-massive-boycotts",
+   "bullets": [
+    "Democracy Forward’s Skye Perryman warned that massive boycotts and work stoppages may become necessary to counter the Trump‑Vance administration’s alleged election‑rigging ahead of the 2026 midterms.",
+    "Zeteo’s four‑part ‘Start the Steal’ series details how the Trump‑Vance team is using authoritarian tactics to rig elections and how nonprofits, activists, and Democrats are fighting back.",
+    "A recent town hall with Zeteo host Mehdi, Asawin “Swin” Suebsaeng, and Perryman discussed voter threats, potential coups, and the impact of collective action forcing the administration to back down."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260807211527.3.8beed0bb80a8dd0f@mg-d1.substack.com",
    "newsletter": "This Week in Democracy",
@@ -2264,20 +2388,6 @@
    "summary_by": "groq"
   },
   {
-   "id": "20260729110716.3.24e9612d6f13c508@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "EXCLUSIVE: Dem Poll Finds Trump’s Iran War ‘Expanded the Senate Map’",
-   "date": "2026-07-29T04:07-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/exclusive-dem-poll-finds-trumps-iran",
-   "bullets": [
-    "A Senate Majority PAC poll shows Trump’s approval on gas prices fell from 46% on March 1 to 33% by July 14, with cost‑of‑living approval slipping to low 30s in battleground states like Maine (32%) and Michigan (34%).",
-    "The poll claims the Iran war has turned Ohio, Alaska and Iowa into toss‑up or highly competitive Senate races, a shift that didn’t exist a year ago.",
-    "Trump praised the late Lindsey Graham in a flamboyant eulogy while Kentucky’s governor demanded proof that Mitch McConnell is still alive."
-   ],
-   "summary_by": "groq"
-  },
-  {
    "id": "20260729110344.3.7a5bf53dc93250d0@mg2.substack.com",
    "newsletter": "Paul Krugman",
    "pub": "paulkrugman",
@@ -2339,20 +2449,6 @@
    "bullets": [
     "McConnell’s recent “proof‑of‑life” photo is framed as a health reassurance but the hosts argue it masks deeper concerns about his political relevance and Senate leadership.",
     "The White House Correspondents’ Dinner revival, including Trump’s jab at Kaitlan Collins, is portrayed as a platform that inadvertently benefits Trump by giving him media exposure and legitimizing his narrative."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729000343.3.a588b2185a6a0d24@mg-d0.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "How Old-School Race Animus Could Shake Up the Michigan Senate Race",
-   "date": "2026-07-28T17:03-07:00",
-   "url": null,
-   "bullets": [
-    "Doctor and former Detroit public‑health director Abdul El‑Sayed is campaigning as the Democratic Senate candidate, highlighting his work on free school eyeglasses, anti‑pollution measures, and lead‑pipe removal.",
-    "El‑Sayed faces a tight primary against four‑term House Democrat Haley Stevens ahead of the Aug. 4 Michigan Senate primary.",
-    "He held a “Knock Out the Vote” rally in Detroit’s Rouge Park, emphasizing his long‑term commitment to the city as he seeks a Senate seat."
    ],
    "summary_by": "groq"
   },
@@ -5372,121 +5468,10 @@
     "The U.S. aims to assert escalation dominance, but rescinding the Iranian oil license may undermine its leverage if buyers view access as politically unstable."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260708140244.3.923aab332d45c778@mg2.substack.com",
-   "newsletter": "We're Not Kidding | Zeteo",
-   "pub": "zeteo",
-   "subject": "‘We’re Gonna Be Killed By the Dumbest Fascists on Earth’: Mehdi & Wajahat Ali Laugh and Lament Over the Future of …",
-   "date": "2026-07-08T07:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/wajahat-ali-dumb-fascists-america-250",
-   "bullets": [
-    "Mehdi and Wajahat Ali argue immigrants are vital to America, with Waj’s memoir “Go Back to Where You Came From” warning of backlash against immigrants in their homeland and sharing personal stories of Pakistani and Pakistani‑American heritage.",
-    "They critique current U.S. politics, contrasting Zohran Mamdani’s hopeful 4th‑of‑July speech with Donald Trump’s negative one, and recount MAGA crowds dismissing weather reports as “liberal” conspiracies during a storm‑hit event.",
-    "The conversation also covers Waj’s parents’ imprisonment, Trump’s interference in the World Cup, U.S. versus UK extremism, rising Islamophobia, and a brief mention of the Epstein Files."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260708133119.3.623d73a60eb33b9a@mg-d0.substack.com",
-   "newsletter": "Here Be Dragons from Barbara F. Walter",
-   "pub": "barbarafwalter",
-   "subject": "Call Your Friend",
-   "date": "2026-07-08T06:31-07:00",
-   "url": "https://barbarafwalter.substack.com/p/call-your-friend",
-   "bullets": [
-    "Studies of thousands of people show that strong relationships boost health, longevity, and life satisfaction, yet Americans spend less time with friends than a generation ago, driving a national loneliness epidemic.",
-    "Cross‑cultural observations—from the Huaorani chief in Ecuador to laborers in Laos—demonstrate that people in precarious environments invest deeply in relationships because life’s fragility makes each bond feel high stakes.",
-    "The author urges readers to seize the slower summer months to intentionally nurture friendships—calling a friend, inviting over, or simply chatting with a stranger—before life’s demands erode those connections."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260708131757.3.d77827f7f17a328e@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "ICE Is Shooting People Again",
-   "date": "2026-07-08T06:17-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/ice-is-shooting-people-again-afghan-houston-detention-centers-iran-war-trump",
-   "bullets": [
-    "U.S. Central Command announced new strikes on Iran after alleged attacks on commercial shipping, with Trump saying the cease‑fire is over while still urging negotiations for a new one.",
-    "ICE faced scrutiny after two deaths: Afghan veteran Mohammad Nazeer Paktiawal died in custody from an alleged drug reaction despite his wife’s pleas for his inhaler, and Mexican construction worker Lorenzo Salgado Araujo was killed during a disputed vehicle stop, with DHS providing no evidence of a “weaponized” vehicle.",
-    "The newsletter links these incidents to Trump’s aggressive mass‑deportation agenda, noting 21 ICE deaths recorded in 2026 and accusing the administration of institutionalized cruelty."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260708112947.3.ca6495106342940f@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "‘Not AIPAC’s Guy’",
-   "date": "2026-07-08T04:29-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/not-aipac-guy-el-sayed-stevens-michigan",
-   "bullets": [
-    "President Trump publicly doubted the interim Iran nuclear agreement, called the ceasefire “over,” and labeled talks with Tehran a waste, yet said he’d still permit negotiations after U.S. strikes in the Strait of Hormuz",
-    "The Michigan Democratic Senate primary has narrowed to Abdul El‑Sayed versus Rep. Haley Stevens, with Stevens portrayed as backed by AIPAC and Senate leader Chuck Schumer and criticized for accepting big‑tech and corporate donations",
-    "During the debate, the candidates clashed over U.S. policy toward Israel, with El‑Sayed accusing Stevens of being beholden to pro‑Israel interests while she defended her record and dismissed his critiques"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260708103206.3.e96d91ebf3379e1e@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Can a Democrat Really Win Texas?",
-   "date": "2026-07-08T03:32-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/can-a-democrat-really-win-texas",
-   "bullets": [
-    "Democrats see a tighter Texas race this year, with a NYT poll showing Rep. James Talarico and Gov. Greg Abbott dead‑locked at 47% each, despite the GOP planning roughly $500 million in negative ads against Talarico.",
-    "Pfeiffer argues Democrats have a better chance than in 2018 because of three factors he outlines, though the email cuts off before naming them.",
-    "He notes the emotional toll of past Texas losses, citing Beto O’Rourke’s 2018 campaign as a high point that raised hopes but ultimately fell short."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260708103038.3.5d301e7ac5fa89f1@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Pathetic in Ankara",
-   "date": "2026-07-08T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/pathetic-in-ankara",
-   "bullets": [
-    "European leaders, frustrated by Trump’s renewed Greenland demand, are accelerating a “de‑Americanization” push, dropping US tech like Microsoft and investing hundreds of billions in homegrown AI, space and data infrastructure.",
-    "Trump’s failures in Iran, the near‑total cut of US aid to Ukraine (99%) and the ineffective tariff war have shown the limits of US military, financial and economic power, prompting allies to seek alternatives such as crypto, Chinese yuan and independent pipelines.",
-    "Consequently, NATO’s Ankara summit is expected to produce little, as allies now treat Trump as a senile blusterer and focus on building a world less dependent on US influence."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260708010905.3.c9a6087c87dd038b@mg2.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Even Marjorie Taylor Greene Doesn’t Buy the McConnell Story",
-   "date": "2026-07-07T18:09-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/even-marjorie-taylor-greene-doesnt",
-   "bullets": [
-    "Mitch McConnell is reportedly alive and taking calls, contradicting Laura Loomer’s claims, while the Bulwark notes the political fallout from the Platner candidacy and its impact on the movement and Maine’s future.",
-    "Kevin McCarthy and other Trump defenders are portrayed as losing moral footing after the Platner debacle, illustrating the broader crisis among Trump loyalists.",
-    "Mallory McMorrow’s Michigan Senate loss highlights the Democratic Party’s struggle to balance moderate and progressive factions, underscoring intra-party tensions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260708001323.3.063f92112484c4ea@mg-d0.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why Mallory McMorrow’s Campaign Didn’t Survive",
-   "date": "2026-07-07T17:13-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/why-mallory-mcmorrows-campaign-didnt",
-   "bullets": [
-    "Mallory McMorrow, a 38‑year‑old state senator who launched a high‑profile Senate bid in April 2025 with viral LGBTQ‑rights speech and a video touting wins in red districts, fell to double‑digit poll deficits behind Abdul El‑Sayed and Haley Stevens by early July and suspended her campaign before the Aug. 4 primary.",
-    "Her collapse is attributed to establishment pressure from figures like retiring Sen. Gary Peters to cede her base to Stevens, internal polling suggesting El‑Sayed could capture her supporters, and her criticism of Democratic leadership that alienated party insiders."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 98,
-  "total": 399
+  "shown": 97,
+  "total": 398
  }
 }
