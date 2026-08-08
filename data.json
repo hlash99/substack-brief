@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T07:55-07:00",
+ "updated": "2026-08-08T16:50-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -55,6 +55,20 @@
  },
  "items": [
   {
+   "id": "20260808170037.3.3269dc7cfcfd1384@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Meet the Former Trump White House Lawyer Who Says Our Democracy Could Be ‘Screwed’ in 2026",
+   "date": "2026-08-08T10:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/ty-cobb-mueller-trump",
+   "bullets": [
+    "Former Trump White House lawyer Ty Cobb warns that American democracy could be effectively “screwed” by 2026, doubting its survival under Trump’s influence.",
+    "Cobb bluntly claims the new Attorney General Todd Blanche may try to discredit midterm results and suggests Trump’s corruption exceeds even Vladimir Putin’s.",
+    "The interview, recorded before Blanche’s Senate confirmation, includes Cobb’s answers about the Mueller report’s ten alleged obstruction episodes and his regrets working for Trump."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260808140614.3.218adfd06e34394d@mg2.substack.com",
    "newsletter": "Adrian Carrasquillo",
    "pub": "thebulwark",
@@ -62,10 +76,11 @@
    "date": "2026-08-08T07:06-07:00",
    "url": null,
    "bullets": [
-    "YOU MIGHT THINK DEMOCRATS would be up in arms over the violence perpetrated by the Trump administration and its agencies in implementing its deportation agenda. And on its official social media channels, the Democratic party has issued powe…",
-    "But a closer look reveals that that social media energy has not translated into actual midterm messaging. On July 26, less than two weeks after Johan Sebastián Durán Guerrero’s death in Maine, House Democratic leader Hakeem Jeffries unveile…"
+    "Democrats publicly condemn Trump’s deportation violence but have omitted ICE reform from their midterm agenda, despite internal briefings highlighting a $270 billion ICE budget lasting to 2033 and low ICE approval ratings.",
+    "Immigration advocacy groups urged House Democrats to seize the issue with stories, hearings, and field visits, noting a Fox poll shows voters now trust Democrats on immigration more than Republicans.",
+    "Nevertheless, many Democratic campaigns consider anti‑ICE messaging too risky so close to the November election, leaving the party largely paralyzed on the issue."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260808130105.3.a966d74449f81bb7@mg-d1.substack.com",
@@ -5401,77 +5416,10 @@
     "Krugman: focusing on average warming misleads — a few degrees means a huge jump in extreme-event frequency, and the social and economic bill is arriving now."
    ],
    "summary_by": "claude"
-  },
-  {
-   "id": "20260708230530.3.f563284039807d28@mg2.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Birthright Citizenship Is Not Just for Immigrants",
-   "date": "2026-07-08T16:05-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/birthright-citizenship-is-not-just",
-   "bullets": [
-    "The Supreme Court’s recent decision in Trump v. Barbara reaffirmed birthright citizenship, citing the Fourteenth Amendment’s original intent and the 1898 Wong Kim Ark precedent, reinforcing equality for nearly all children born on U.S. soil.",
-    "The author argues that congressional legislation cannot overturn this constitutional ruling, warning that attempts by figures like Speaker Mike Johnson to reverse it ignore the finality of Supreme Court interpretations.",
-    "By upholding birthright citizenship, the Court preserves a core democratic principle, countering anti‑immigrant rhetoric and preventing a shift toward citizenship based on race, ancestry, or wealth."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260708210105.3.f4d25cde2c0ec71c@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Meet Fox's Latest Favorite Primetime Guest: A Democratic Senator",
-   "date": "2026-07-08T14:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/fox-fetterman-democrats-hannity",
-   "bullets": [
-    "Fox’s primetime lineup repeatedly attacked Pennsylvania Democrat John Fetterman during the 2022 midterms, calling him a “giant walking vegetable,” an “incompetent husk” after his stroke, and falsely labeling his policies as “pro‑murderer” and drug‑legalization.",
-    "Despite that earlier smear campaign, Fox now regularly invites Fetterman as a guest, turning him into a favored voice on the network’s MAGA‑aligned shows."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260708195046.3.9a2bda1a5f71c1d1@mg2.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "He Lived Here for 35 Years. Put Three Kids in College. ICE Killed Him.",
-   "date": "2026-07-08T12:50-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/he-lived-here-for-35-years-put-three-kids-in-college-ice-killed-jim-lorenzo-salgado-araujo",
-   "bullets": [
-    "Araujo’s son, teacher Ronaldo Salgado, highlighted his father’s work ethic, three U.S.-born sons’ college education, and the family’s grief, while Rep. Sylvia Garcia and Rep. Christian Menefee condemned the killing and urged accountability"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260708194931.3.8930fd1b253b7e03@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Pain in Spain is Mainly in Trump's Brain",
-   "date": "2026-07-08T12:49-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-pain-in-spain-is-mainly-in-trumps",
-   "bullets": [
-    "Trump ordered Treasury Secretary Scott Bessent to cut off all trade with Spain, but this is legally and practically impossible due to EU membership and U.S. trade dependencies.",
-    "Krugman calls Trump's actions irrational, arguing no functioning political system would tolerate a leader making unilateral, nonsensical trade demands.",
-    "The crisis reflects a deeper failure in U.S. governance, as institutions enable a 'personality cult' around an unstable figure rather than challenging his authority."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260708180208.3.2d08ce325b802194@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "How the U.S.-Iran Fight in the Strait of Hormuz Can Be Resolved Before It Blows Up the MOU",
-   "date": "2026-07-08T11:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/iran-us-ceasefire-hormuz-strikes",
-   "bullets": [
-    "The U.S. struck 80 Iranian targets and reimposed oil sanctions after Iran fired on ships in the Strait of Hormuz, while the IRGC claimed attacks on 85 U.S. sites, escalating the dispute over MOU interpretation.",
-    "Washington and Tehran disagree on whether the MOU requires vessels to coordinate with Iran; a proposed compromise would have ships notify both Iran and a GCC maritime authority, but talks stalled after Khamenei’s funeral.",
-    "The U.S. aims to assert escalation dominance, but rescinding the Iranian oil license may undermine its leverage if buyers view access as politically unstable."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 97,
-  "total": 398
+  "shown": 92,
+  "total": 394
  }
 }
