@@ -1,25 +1,18 @@
 {
- "updated": "2026-08-09T07:58-07:00",
+ "updated": "2026-08-09T16:54-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterm race is being hijacked by Trump‑aligned election‑rigging tactics, prompting Democrats to call for massive boycotts and court challenges (Zeteo, Doomberg, The Substack Post).",
-   "Democratic strategists warn that gerrymandering and voter suppression will cost them 5‑6 seats in the House, yet polling models still give them a high chance of a majority (Paul Krugman, Dan Pfeiffer).",
-   "The Biden administration’s new ICE budget and Trump‑era deportation violence have left Democrats scrambling to add immigration reform to their platform, risking a missed opportunity (Adrian Carrasquillo).",
-   "China’s semiconductor and AI advances are outpacing U.S. sanctions, accelerating its chip dominance and threatening national security (Doomberg).",
-   "The labor market remains weak, with AI investment shifting income toward capital and widening inequality, calling for a reversal of tax policy favoring capital (Paul Krugman).",
-   "The FCC’s removal of the national ownership cap could consolidate media power in a few giants, eroding localism and viewpoint diversity (Sonny Bunch)."
+   "Trump’s grip on the GOP is visibly eroding as primary defeats of his endorsed candidates signal a shift away from his authoritarian playbook (The Message Box, The Bulwark).",
+   "A wave of election‑rigging accusations and calls for massive boycotts highlight growing democratic back‑lash to Trump‑Vance’s alleged authoritarian tactics (Zeteo, This Week in Democracy).",
+   "The labor share’s decline and rising capital dominance, driven by AI and tax policy, underscore deepening inequality and the need for progressive tax reforms (Paul Krugman).",
+   "Childcare policy remains stuck in a 50‑year stalemate, but new bipartisan proposals aim to break the deadlock with universal options or cash assistance (The Bulwark).",
+   "U.S. sanctions have failed to curb China’s rapid AI and semiconductor advances, warning that punitive measures may accelerate rival tech dominance (Doomberg).",
+   "The humanitarian crisis in Gaza continues unabated, with UNICEF reporting a child killed each day for 300 days, intensifying calls for international action (Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20260806150734.3.248e3ef4953f1a70@mg2.substack.com",
-   "20260806161514.3.ae88a5c11e284a62@mg-d1.substack.com",
-   "20260806164209.3.8137efcb27592c97@mg2.substack.com",
-   "20260806190101.3.f70a693185ac62fe@mg-d1.substack.com",
-   "20260806200034.3.8cd2051646799263@mg-d0.substack.com",
-   "20260806210104.3.01e83388a99ddcf7@mg-d0.substack.com",
-   "20260806223133.3.08e8f56963dff9ca@mg-d0.substack.com",
    "20260807010035.3.a043a32715869a56@mg2.substack.com",
    "20260807103205.3.67d4b4d85f31bb41@mg-d1.substack.com",
    "20260807110409.3.fa93125f24f4efae@mg-d1.substack.com",
@@ -46,12 +39,27 @@
    "20260809110629.3.ef50fb224a5d7da5@mg2.substack.com",
    "20260809120212.3.47681317aa3f1872@mg-d1.substack.com",
    "20260809130032.3.11cfdc9cc5349e28@mg-d1.substack.com",
-   "20260809144207.3.39fc2b330ec9f753@mg-d1.substack.com"
+   "20260809130209.3.216efeb7d5624835@mg-d0.substack.com",
+   "20260809144207.3.39fc2b330ec9f753@mg-d1.substack.com",
+   "20260809170044.3.f81da7facb893e66@mg2.substack.com"
   ],
-  "updated": "2026-08-09T07:58-07:00",
+  "updated": "2026-08-09T16:54-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260809170044.3.f81da7facb893e66@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "8 Unanswered Questions About Jeffrey Epstein’s Death",
+   "date": "2026-08-09T10:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/8-unanswered-questions-about-jeffrey",
+   "bullets": [
+    "Congress passed a law forcing the Justice Department to release Epstein’s files, but the Trump administration allegedly stalled and blocked meetings with victims.",
+    "The article lists eight unresolved issues, starting with why required inmate checks were skipped, highlighting procedural failures that fuel suicide doubts."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260809144207.3.39fc2b330ec9f753@mg-d1.substack.com",
    "newsletter": "JVL - The Bulwark",
@@ -72,10 +80,11 @@
    "date": "2026-08-09T06:02-07:00",
    "url": "https://open.substack.com/pub/messagebox/p/how-trumps-grip-on-the-gop-is-slipping",
    "bullets": [
-    "Earlier this year, Donald Trump went on a highly publicized vengeance tour, using his political influence and spending millions of dollars to take out Republican politicians who wronged him. The Indiana state legislators who resisted Trump’…",
-    "The narrative was written in stone: despite his sinking poll numbers, Trump retained an iron grip on the GOP, and Republicans had two choices — stick with Trump or lose their jobs. But that’s not the full story. There are several recent exa…"
+    "Trump's 2023 vengeance campaign knocked out several GOP incumbents, but recent primary defeats of his endorsed candidates—like in Indiana and against Thomas Massie—show his influence is waning.",
+    "In 2022 Trump’s kingmaker push backfired, elevating weak candidates such as Herschel Walker and Dr. Oz who lost, prompting him to defer to party professionals and even withdraw support for less electable MAGA hopefuls.",
+    "The notable exception was his backing of Ken Paxton in the Texas GOP runoff, defying operatives who deemed John Cornyn more viable, highlighting Trump’s selective and increasingly contested endorsements."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260809130032.3.11cfdc9cc5349e28@mg-d1.substack.com",
@@ -5349,75 +5358,10 @@
     "Rampell: companies are learning that letting Trump take credit is the price of staying on his good side — free marketing for them, corroded markets for everyone else."
    ],
    "summary_by": "claude"
-  },
-  {
-   "id": "20260709230159.3.2c6c5b5d1a2b93a1@mg-d1.substack.com",
-   "newsletter": "Zeteo | Dark Side of the World Cup",
-   "pub": "zeteo",
-   "subject": "The Dark Side of the World Cup: Balogun and Egypt VAR Decisions Fuel Allegations of Corruption",
-   "date": "2026-07-09T16:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/world-cup-balogun-var-fifa",
-   "bullets": [
-    "Final 'Dark Side of the World Cup' episode ties Trump pressuring Infantino to reverse Balogun's red card, and VAR calls against Egypt and Iran, to FIFA's long corruption history.",
-    "Jules Boykoff: the World Cup is where 'a privileged sliver of the global 1%... cut deals with each other' in the luxury boxes."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260709190417.3.c0700195a7577abe@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "‘A First-of-Its-Kind’ Poll About Medicare for All",
-   "date": "2026-07-09T12:04-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/medicare-for-all-poll-searchlight-institute",
-   "bullets": [
-    "Zeteo partnered with centrist Searchlight Institute on a first-of-its-kind Medicare for All poll: single-payer draws majority or plurality support depending on wording.",
-    "Strong support for government covering healthcare costs sits alongside deep skepticism that government can run a national program."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260709185813.3.69bab5abecb3237b@mg-d1.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Drinking Culture on Capitol Hill is Worse Than You Might Think",
-   "date": "2026-07-09T11:58-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/drinking-culture-capitol-hill-worse-you-might-think-sexual-harrassment-assault-swalwell-gallego-patel-mccaul-franken",
-   "bullets": [
-    "Guest author Jake Lahut maps Capitol Hill's drinking ecosystem: female staffers keep whisper networks of which bars — and which booze-drenched lawmakers — to avoid.",
-    "The culture underpins abuse scandals like Platner's and Swalwell's; Twain complained about DC booze in 1889 and it's only gotten worse."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260709163119.3.51c54cc5013eafc3@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Progressives Are Mad at the Wrong People",
-   "date": "2026-07-09T09:31-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/progressives-are-mad-at-the-wrong-people-graham-platner",
-   "bullets": [
-    "JVL: progressives raging at the Democratic establishment (or Israel, or oligarchs) over Platner's implosion are misreading it — an imperfect establishment is still the only vehicle against Trumpism.",
-    "Conflating the fight for Medicare for All with the fight against authoritarianism is 'a grievous mistake.'"
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260709150110.3.f52417d1777f6550@mg2.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "‘Death’ and ‘Mass Murder’: Abby Martin on U.S. Policy Toward Cuba",
-   "date": "2026-07-09T08:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/death-and-mass-murder-are-us-policy-towards-cuba",
-   "bullets": [
-    "Abby Martin — first U.S. journalist to interview Cuban president Díaz-Canel — tells Mehdi U.S. sanctions are collapsing Cuba's grid: 'mass murder is the policy.'",
-    "Her documentary 'Cuba After Castro' connects Cuba to Gaza, which she calls the 'connective tissue' of U.S. foreign-policy harm."
-   ],
-   "summary_by": "claude"
   }
  ],
  "counts": {
-  "shown": 92,
-  "total": 394
+  "shown": 87,
+  "total": 390
  }
 }
