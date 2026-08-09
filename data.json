@@ -1,27 +1,18 @@
 {
- "updated": "2026-08-08T16:50-07:00",
+ "updated": "2026-08-09T07:58-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's administration is allegedly attempting to rig the 2024 midterm elections through voter suppression and legal challenges, prompting Democratic officials and nonprofits to counter these efforts",
-   "China is rapidly progressing in semiconductors and AI, with firms like DeepSeek and Moonshot releasing competitive models, despite US sanctions",
-   "Abdul El-Sayed won the Michigan Senate primary despite being outspent 11-to-1, but faces a tough general election against Republican Mike Rogers",
-   "The US labor market showed a loss of 23,000 jobs in the latest report, with revisions revealing weaker employment growth during Trump's term",
-   "Israel's destruction of medical supply warehouses in Gaza has further crippled healthcare access amid ongoing attacks on civilians and settlements",
-   "Trump's endorsement power was limited in the Michigan GOP primary, where Tom Smith won despite dropping out months earlier"
+   "The 2026 midterm race is being hijacked by Trump‑aligned election‑rigging tactics, prompting Democrats to call for massive boycotts and court challenges (Zeteo, Doomberg, The Substack Post).",
+   "Democratic strategists warn that gerrymandering and voter suppression will cost them 5‑6 seats in the House, yet polling models still give them a high chance of a majority (Paul Krugman, Dan Pfeiffer).",
+   "The Biden administration’s new ICE budget and Trump‑era deportation violence have left Democrats scrambling to add immigration reform to their platform, risking a missed opportunity (Adrian Carrasquillo).",
+   "China’s semiconductor and AI advances are outpacing U.S. sanctions, accelerating its chip dominance and threatening national security (Doomberg).",
+   "The labor market remains weak, with AI investment shifting income toward capital and widening inequality, calling for a reversal of tax policy favoring capital (Paul Krugman).",
+   "The FCC’s removal of the national ownership cap could consolidate media power in a few giants, eroding localism and viewpoint diversity (Sonny Bunch)."
   ],
   "by": "groq",
   "ids": [
-   "20260805150149.3.da526415a2aeae75@mg-d0.substack.com",
-   "20260805165114.3.45959d0189c9a12c@mg-d1.substack.com",
-   "20260805210714.3.b9a334d80f6041f0@mg2.substack.com",
-   "20260805211024.3.43d4394bb5348771@mg-d1.substack.com",
-   "20260805233034.3.7816983ef75ae21f@mg-d0.substack.com",
-   "20260806010059.3.21c14ea1cd017323@mg2.substack.com",
-   "20260806103048.3.19c6efe3f4eef305@mg-d1.substack.com",
-   "20260806111441.3.5164eeab36930f1c@mg-d1.substack.com",
-   "20260806134127.3.4c2918a6f23f03d2@mg-d1.substack.com",
    "20260806150734.3.248e3ef4953f1a70@mg2.substack.com",
    "20260806161514.3.ae88a5c11e284a62@mg-d1.substack.com",
    "20260806164209.3.8137efcb27592c97@mg2.substack.com",
@@ -48,12 +39,99 @@
    "20260808122136.3.5f3ab17fd0d13daf@mg-d0.substack.com",
    "20260808123433.3.43dec10ec921e201@mg-d1.substack.com",
    "20260808130105.3.a966d74449f81bb7@mg-d1.substack.com",
-   "20260808130107.3.8c784e6956f28eae@mg-d1.substack.com"
+   "20260808130107.3.8c784e6956f28eae@mg-d1.substack.com",
+   "20260808140614.3.218adfd06e34394d@mg2.substack.com",
+   "20260808170037.3.3269dc7cfcfd1384@mg2.substack.com",
+   "20260809090214.3.b88b07a82259ca03@mg2.substack.com",
+   "20260809110629.3.ef50fb224a5d7da5@mg2.substack.com",
+   "20260809120212.3.47681317aa3f1872@mg-d1.substack.com",
+   "20260809130032.3.11cfdc9cc5349e28@mg-d1.substack.com",
+   "20260809144207.3.39fc2b330ec9f753@mg-d1.substack.com"
   ],
-  "updated": "2026-08-08T07:55-07:00",
+  "updated": "2026-08-09T07:58-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260809144207.3.39fc2b330ec9f753@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why Losing Battles are Worth Fighting",
+   "date": "2026-08-09T07:42-07:00",
+   "url": null,
+   "bullets": [
+    "The preview of the latest Triad Mailbag episode features JVL answering listener questions on DSA candidates, census protection, Ross Douthat on “60 Minutes,” Republican authoritarianism, Tolkien’s “long defeat,” Ezra Klein, site redesign, fan shout‑outs, World Cup jerseys, future books, music, comics, and cultural pet‑peeves."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260809130209.3.216efeb7d5624835@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "How Trump's Grip on the GOP Is Slipping — One Primary at a Time",
+   "date": "2026-08-09T06:02-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/how-trumps-grip-on-the-gop-is-slipping",
+   "bullets": [
+    "Earlier this year, Donald Trump went on a highly publicized vengeance tour, using his political influence and spending millions of dollars to take out Republican politicians who wronged him. The Indiana state legislators who resisted Trump’…",
+    "The narrative was written in stone: despite his sinking poll numbers, Trump retained an iron grip on the GOP, and Republicans had two choices — stick with Trump or lose their jobs. But that’s not the full story. There are several recent exa…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260809130032.3.11cfdc9cc5349e28@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "‘Republicans Are Trying To Distract You’: Former Wisconsin Democratic Leader Lays Out How to Win in November",
+   "date": "2026-08-09T06:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/republicans-are-trying-to-distract",
+   "bullets": [
+    "Former Wisconsin Democratic Party chair Ben Wikler outlines a strategy to counter GOP gerrymandering, power grabs and voter suppression, detailed in his new book “This Is the Plan.”",
+    "Wikler warns that Republican gubernatorial candidate Tom Tiffany is part of a broader effort to distract voters from economic hardships while Democratic socialist Francesca Hong runs against him.",
+    "The Substack Live featured a Q&A where Wikler discussed his plan to reclaim Wisconsin democracy and urged Democrats to mobilize for the November elections."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260809120212.3.47681317aa3f1872@mg-d1.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How to Break the Fifty-Year Stalemate on Childcare Policy",
+   "date": "2026-08-09T05:02-07:00",
+   "url": null,
+   "bullets": [
+    "In 1971 Nixon vetoed a bipartisan childcare bill after adviser Pat Buchanan warned it would be “family‑weakening,” starting a half‑century stalemate over federal childcare policy.",
+    "Project 2029, a Democratic‑aligned think tank, proposes a massive childcare package that lets families choose between federally funded universal care or direct cash assistance, aiming to win Republican support.",
+    "Elliot Haspel says the plan reflects an evolution in Democratic thinking, recognizing diverse family needs and offering a simple, choice‑based system to finally break the longstanding impasse."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260809110629.3.ef50fb224a5d7da5@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Against Oligarchy, Part III: Taxing Capital vs. Taxing Labor",
+   "date": "2026-08-09T04:06-07:00",
+   "url": "https://paulkrugman.substack.com/p/against-oligarchy-part-iii-taxing",
+   "bullets": [
+    "Since 2000 the labor share of U.S. income has fallen sharply while the capital share has surged, a trend Krugman links to rising AI investment that favors capital over workers.",
+    "He argues that tax policy shifts since the 1970s have increasingly favored capital—lower rates on dividends, capital gains, and corporate profits—amplifying both income and wealth inequality.",
+    "Krugman calls for reversing the pro‑capital tax bias, warning that without it the AI‑driven economy will further concentrate wealth in the hands of a billionaire oligarchy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260809090214.3.b88b07a82259ca03@mg2.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Endangered Specious",
+   "date": "2026-08-09T02:02-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/endangered-specious",
+   "bullets": [
+    "Energy Secretary Chris Wright, appointed by Trump, has overseen a rapid revival of Venezuela’s oil output, pushing exports above 1 million barrels per day for three consecutive months after a December low of half that level.",
+    "In response to the Iran‑war‑induced oil shock, Wright launched a scaled‑up SPR oil‑exchange program that loans barrels to companies with a premium of up to 24%, returning 35‑40 million barrels of extra oil by next year without congressional approval or taxpayer cost."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260808170037.3.3269dc7cfcfd1384@mg2.substack.com",
    "newsletter": "Mehdi Unfiltered",
@@ -1982,20 +2060,6 @@
    "summary_by": "groq"
   },
   {
-   "id": "20260730163343.3.b25a2a86f4e92ba7@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Marco Rubio and Stephen Miller, in the Original German",
-   "date": "2026-07-30T09:33-07:00",
-   "url": null,
-   "bullets": [
-    "The Trump administration hosted a “Resurgence of Political Terrorism” conference, framing it as a ministerial focused solely on left‑wing violence despite its own role in the Jan 6 coup and pardoning participants.",
-    "During the conference, Marco Rubio and Stephen Miller delivered remarks that the author characterizes as overtly extremist, echoing Nazi‑style rhetoric while condemning leftist political violence.",
-    "The piece highlights the contradiction of a government that both incited and pardoned political terrorism while publicly decrying violence from the opposite side."
-   ],
-   "summary_by": "groq"
-  },
-  {
    "id": "20260730162727.3.188fea566dda52ef@mg-d0.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
@@ -2032,20 +2096,6 @@
    "url": null,
    "bullets": [
     "Live video “Todd Blanche’s Nomination in Chaos, ft. Aaron Parnas” is now available on Substack’s Home of the Brave channel."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730143904.3.9ee6cb944a4b73fb@mg2.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Right-Wing Media and OnlyFans Are in a Symbiotic Relationship",
-   "date": "2026-07-30T07:39-07:00",
-   "url": null,
-   "bullets": [
-    "Savanna Cannon, a new MAGA influencer with 285k political Instagram followers, uses provocative yoga‑pants poses and OnlyFans content to target straight‑male audiences, boosting her political reach and subscriber funnel.",
-    "OnlyFans models and right‑wing commentators increasingly collaborate—podcasts like Fresh and Fit and Whatever feature OnlyFans stars to draw “simps,” while politicians like James Fishback use the platform to gain media exposure.",
-    "The trend fuels a symbiotic cycle: conservative media gains sexualized attention, OnlyFans creators tap into political audiences, and figures such as Nick Fuentes and Sophie Rain benefit from cross‑platform visibility."
    ],
    "summary_by": "groq"
   },
@@ -5362,58 +5412,6 @@
    "bullets": [
     "Abby Martin — first U.S. journalist to interview Cuban president Díaz-Canel — tells Mehdi U.S. sanctions are collapsing Cuba's grid: 'mass murder is the policy.'",
     "Her documentary 'Cuba After Castro' connects Cuba to Gaza, which she calls the 'connective tissue' of U.S. foreign-policy harm."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260709145038.3.43356b2bbbb057d0@mg2.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Meet the Man Who Could Cost Candace Owens Millions",
-   "date": "2026-07-09T07:50-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/meet-the-man-who-could-cost-candace-owens-millions-mitch-snow",
-   "bullets": [
-    "Students for Trump founder Ryan Fournier was arraigned on six new counts — his first felony — for obstruction, assault and threats, atop cocaine and gun cases.",
-    "Main story: the self-proclaimed son of the Zodiac killer whose defamation case could cost Candace Owens millions."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260709130431.3.9a9f319598f9c3b2@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "An American Life Cut Short",
-   "date": "2026-07-09T06:04-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/an-american-life-cut-short-salgado-araujo-ice-shooting-killing-houston-deportation-trump-miller-mullin",
-   "bullets": [
-    "Kristol on Lorenzo Salgado Araujo, killed by ICE agents while driving to work in Houston — immigrants as keepers of the work-and-family American creed.",
-    "Platner suspended his campaign in a long, apology-free video; Maine Democrats plan a ~600-delegate convention to pick his replacement."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260709110651.3.10c4af07c6ca181e@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "💣 Iran Humiliates Trump Again as His Imperial Bloodlust Surges",
-   "date": "2026-07-09T04:06-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/iran-humiliates-trump-again-as-his",
-   "bullets": [
-    "The U.S. and Iran are exchanging strikes again as a 'ceasefire that never really began' collapses; a senior U.S. official on Trump: 'Nobody's afraid of him right now.'",
-    "After two chaotic NATO summit days in Ankara, Trump flew home to a government and adversaries that increasingly tune out his threats."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260709103113.3.de1873f655489ca7@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Heat Is On",
-   "date": "2026-07-09T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-heat-is-on",
-   "bullets": [
-    "Extreme heat forced early closure of Trump's Great American State Fair — 44 people treated, 11 hospitalized — after 'virtually impossible without climate change' heat waves in the US and Europe.",
-    "Krugman: focusing on average warming misleads — a few degrees means a huge jump in extreme-event frequency, and the social and economic bill is arriving now."
    ],
    "summary_by": "claude"
   }
