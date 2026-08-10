@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T16:54-07:00",
+ "updated": "2026-08-10T08:28-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -47,6 +47,75 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260810151629.3.686115263b2596e4@mg2.substack.com",
+   "newsletter": "We're Not Kidding | Zeteo",
+   "pub": "zeteo",
+   "subject": "Will Tucker Carlson Run For President? Sam Seder Thinks ‘It’s Bullsh*t’",
+   "date": "2026-08-10T08:16-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/sam-seder-majority-report-jubilee-tucker-carlson",
+   "bullets": [
+    "Sam Seder argues the Democratic establishment is out of touch, likening its insurgency to a Tea Party‑style movement and highlighting progressive wins across the country.",
+    "Seder and Mehdi dissect the 2025 Jubilee debate, claiming it exposed the core motivations of young MAGA conservatives and the stakes of their movement.",
+    "They preview the upcoming “Great Tucker Carlson Debate,” questioning whether Carlson should run for president, his trustworthiness on Israel and foreign wars, and the value of appearing on his platform."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260810132632.3.e0f678ce860c7b56@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The GOP’s Ceremony of Impotence",
+   "date": "2026-08-10T06:26-07:00",
+   "url": null,
+   "bullets": [
+    "Hunter Biden revealed Joe Biden’s metastatic prostate cancer has spread to his bones, causing severe pain yet he remains active, prompting condolences from the author.",
+    "Ohio Rep. Max Miller faces abuse allegations; GOP leaders Trump and Speaker Johnson back him, while most House Republicans refuse to discuss or oppose his re‑election despite calls from Sen. Bernie Moreno.",
+    "Sen. Bill Cassidy and Sen. John Cornyn voted to confirm Todd Blanche as Attorney General, ignoring Epstein survivors’ concerns, citing DOJ progress on human trafficking as justification, highlighting GOP tolerance of sexual‑assault cover‑ups."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260810111118.3.ebd6d55e81b19c52@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "At Last, a Real Fighter to Punch Back at Trump",
+   "date": "2026-08-10T04:11-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/at-last-a-real-fighter-to-punch-back",
+   "bullets": [
+    "Abdul El‑Sayed’s Senate campaign in Michigan opened with aggressive, Trump‑style counter‑punches to hostile anchors, positioning him as a rare Democratic “fighter” in the Trump era.",
+    "El‑Sayed sharply rebuked Trump’s Islamophobic post comparing their wives, delivering a brutal response that Republicans fear could become a new Democratic counter‑punch model."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260810103040.3.54809c0184654677@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "What Malta Tells Us About Oligarchy",
+   "date": "2026-08-10T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/what-malta-tells-us-about-oligarchy",
+   "bullets": [
+    "Malta, with 500,000 residents, hosts over $500 billion in foreign direct investment and an equal amount of outbound investment, largely through shell companies that shift profits to its near‑zero corporate tax rate, costing the U.S. an estimated $100 billion annually in lost tax revenue.",
+    "Krugman argues this profit‑shifting exemplifies a broader oligarchic trend: tax avoidance/evasion enriches the wealthy, reinforcing their political power, while the EU’s weak enforcement and the U.S. under Trump have stalled global minimum‑15% corporate tax efforts.",
+    "He warns that without a major political shift, the cumulative effect of such tax shelters will continue to erode public programs, calling Malta a vivid illustration of the systemic problem."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260810000314.3.0e24b4bee2a15ff3@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "What Happens When an Election Denier Runs a Crucial Swing State?",
+   "date": "2026-08-09T17:03-07:00",
+   "url": null,
+   "bullets": [
+    "Democratic leaders warn that GOP nominee Tom Tiffany, a former House Republican who voted to overturn the 2020 results and backs election‑lie lawsuits, could jeopardize certification of Wisconsin’s 2028 presidential and Senate elections if elected governor.",
+    "The race also determines control of Wisconsin’s redistricting; a Democratic win would let the party redraw maps for 2028, potentially adding safe Democratic House seats, while a Republican trifecta could erase them.",
+    "Parallel gubernatorial contests in Arizona and Pennsylvania feature other election‑denying Republicans, but Wisconsin’s open governor’s seat makes the stakes uniquely acute for national election integrity."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260809170044.3.f81da7facb893e66@mg2.substack.com",
    "newsletter": "Zeteo",
@@ -5257,111 +5326,10 @@
     "JVL: the 'red menace' is Republican — a state-adjacent enterprise with zero transparency; no one can say who owns it or how it sells gas at a loss."
    ],
    "summary_by": "claude"
-  },
-  {
-   "id": "20260710141656.3.b98210345e2539b5@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A Season of Death and Fear",
-   "date": "2026-07-10T07:16-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/a-season-of-death-and-fear-immigration-mass-deportation-springfield-haitians-texas-ice",
-   "bullets": [
-    "Jim Swift reports from Springfield, Ohio: Haitian TPS work authorization expired today after Mullin v. Doe — employers must now fire longtime workers or violate federal law.",
-    "Navigator poll: nearly half of Americans have watched a 2026 World Cup game, with identical enthusiasm among Democrats and Republicans."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260710140203.3.fea138a0a2604616@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Does Trump Compare To Hitler? Mehdi Asks This Fascism Expert",
-   "date": "2026-07-10T07:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/does-trump-compare-to-hitler",
-   "bullets": [
-    "Mehdi interviews Omer Aziz ('Shadows of the Republic'): 'the much more dangerous part of fascism is the fascists in suits' — constitutional machinery turned against citizens.",
-    "They cover whether Trump compares to Hitler, Musk's role in the global fascist project, and Aziz's three-point antifascist playbook."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260710121522.3.0f53178351032947@mg-d1.substack.com",
-   "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
-   "pub": "macgregorwarrior",
-   "subject": "A ‘Golden Spike’ to Transform America from Coast to Coast",
-   "date": "2026-07-10T05:15-07:00",
-   "url": "https://macgregorwarrior.substack.com/p/a-golden-spike-to-transform-america",
-   "bullets": [
-    "Macgregor republishes his 2018 op-ed pitching a 'golden spike' energy-maritime-infrastructure program as the strategic alternative to Obama-era piecemeal spending (paywalled past the intro)."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260710112920.3.92e628c1a9ac39a7@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "🆘 Trump’s Violent Crackdowns on U.S. Cities Are Still Happening. Don't Look Away",
-   "date": "2026-07-10T04:29-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trumps-violent-crackdowns-on-us-cities",
-   "bullets": [
-    "Swin: Trump's violent crackdowns on immigrants and blue cities are still escalating after the Minneapolis horror forced a PR 'reset' — the strategy is to wear the public out.",
-    "Graham Platner's campaign confirms he'll formally withdraw from the Maine Senate race on Monday."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260710104525.3.cefe65c84fe717ac@mg2.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump's Own Judge Torched DOJ's Insane Election Subpoena (w/ Andrew Weissmann)",
-   "date": "2026-07-10T03:45-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/trumps-own-judge-torched-dojs-insane",
-   "bullets": [
-    "Sarah Longwell and Andrew Weissmann on the Trump-appointed judge who torched DOJ's subpoena demanding names of every 2020 Fulton County election worker.",
-    "Also: DOJ's stunning concession in a reporter's Epstein-files lawsuit, what senators must ask Todd Blanche, and a surprising SCOTUS ruling on phone location data."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260710103041.3.f7ec3861ab483c80@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "An Encouraging Encounter With Real Americans",
-   "date": "2026-07-10T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/an-encouraging-encounter-with-real",
-   "bullets": [
-    "Krugman reports for jury selection in Mercer County, NJ, and finds the mundane civic machinery — 78 people patiently waiting to state conflicts — quietly encouraging about Americans."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260710090120.3.d3ff276a1e206718@mg-d1.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Sources and Methods",
-   "date": "2026-07-10T02:01-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/sources-and-methods",
-   "bullets": [
-    "Doomberg: energy-war analysis is now propaganda discernment — the FT's 'apocalyptic' footage of Ukraine's June 18 strike on Moscow's biggest refinery says little about real damage to Russian output."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260710004207.3.37a730cb87b61c44@mg-d1.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Price of Staying on Trump’s Good Side",
-   "date": "2026-07-09T17:42-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/the-price-of-staying-on-trumps-good-side-walmart",
-   "bullets": [
-    "Trump claimed Walmart cut ground-beef prices ~15% 'at his administration's request' — it was a routine July Rollback promotion already underway.",
-    "Rampell: companies are learning that letting Trump take credit is the price of staying on his good side — free marketing for them, corroded markets for everyone else."
-   ],
-   "summary_by": "claude"
   }
  ],
  "counts": {
-  "shown": 87,
-  "total": 390
+  "shown": 77,
+  "total": 387
  }
 }
