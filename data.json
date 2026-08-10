@@ -1,30 +1,17 @@
 {
- "updated": "2026-08-10T08:28-07:00",
+ "updated": "2026-08-10T16:56-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s grip on the GOP is visibly eroding as primary defeats of his endorsed candidates signal a shift away from his authoritarian playbook (The Message Box, The Bulwark).",
-   "A wave of election‑rigging accusations and calls for massive boycotts highlight growing democratic back‑lash to Trump‑Vance’s alleged authoritarian tactics (Zeteo, This Week in Democracy).",
-   "The labor share’s decline and rising capital dominance, driven by AI and tax policy, underscore deepening inequality and the need for progressive tax reforms (Paul Krugman).",
-   "Childcare policy remains stuck in a 50‑year stalemate, but new bipartisan proposals aim to break the deadlock with universal options or cash assistance (The Bulwark).",
-   "U.S. sanctions have failed to curb China’s rapid AI and semiconductor advances, warning that punitive measures may accelerate rival tech dominance (Doomberg).",
-   "The humanitarian crisis in Gaza continues unabated, with UNICEF reporting a child killed each day for 300 days, intensifying calls for international action (Zeteo)."
+   "Trump's lingering grip on the GOP is eroding as primary defeats and waning voter enthusiasm expose internal fractures (The Bulwark, The Message Box).",
+   "Democratic strategists are racing to counter GOP gerrymandering, voter suppression, and election‑denier candidates in key swing states like Wisconsin and Michigan (The Bulwark, Zeteo).",
+   "A wave of investigative pieces highlights systemic opacity and possible misconduct, from mysterious deaths linked to Jeffrey Epstein to unanswered questions about his own demise (Zeteo).",
+   "Economic inequality is being amplified by offshore tax havens and a tax system that favors capital over labor, costing the U.S. billions (Paul Krugman).",
+   "U.S. sanctions are failing to curb China's rapid advances in AI and semiconductor technology, raising concerns about future tech dominance (Doomberg)."
   ],
   "by": "groq",
   "ids": [
-   "20260807010035.3.a043a32715869a56@mg2.substack.com",
-   "20260807103205.3.67d4b4d85f31bb41@mg-d1.substack.com",
-   "20260807110409.3.fa93125f24f4efae@mg-d1.substack.com",
-   "20260807111419.3.655939b8ca7eb8f2@mg-d1.substack.com",
-   "20260807124750.3.a23476f990c452b6@mg2.substack.com",
-   "20260807130319.3.bb3473394921d68f@mg-d1.substack.com",
-   "20260807134140.3.a457eda159845adb@mg-d1.substack.com",
-   "20260807164438.3.43e1b936ca62e3ba@mg-d1.substack.com",
-   "20260807174510.3.4e269b76877fc976@mg-d0.substack.com",
-   "20260807195316.3.370fb3270022774d@mg2.substack.com",
-   "20260807203257.3.c63c7298a79ffd53@mg2.substack.com",
-   "20260807211527.3.8beed0bb80a8dd0f@mg-d1.substack.com",
    "20260808010028.3.fc75b9748f43b581@mg-d1.substack.com",
    "20260808103106.3.3668f0bbccf7612c@mg2.substack.com",
    "20260808110407.3.b0b2cd3d8c07ebf9@mg-d0.substack.com",
@@ -41,12 +28,44 @@
    "20260809130032.3.11cfdc9cc5349e28@mg-d1.substack.com",
    "20260809130209.3.216efeb7d5624835@mg-d0.substack.com",
    "20260809144207.3.39fc2b330ec9f753@mg-d1.substack.com",
-   "20260809170044.3.f81da7facb893e66@mg2.substack.com"
+   "20260809170044.3.f81da7facb893e66@mg2.substack.com",
+   "20260810000314.3.0e24b4bee2a15ff3@mg-d1.substack.com",
+   "20260810103040.3.54809c0184654677@mg2.substack.com",
+   "20260810111118.3.ebd6d55e81b19c52@mg2.substack.com",
+   "20260810132632.3.e0f678ce860c7b56@mg-d1.substack.com",
+   "20260810151629.3.686115263b2596e4@mg2.substack.com",
+   "20260810163556.3.348c13615a0cab72@mg-d0.substack.com",
+   "20260810201909.3.ac39aa4b87ed0538@mg2.substack.com"
   ],
-  "updated": "2026-08-09T16:54-07:00",
+  "updated": "2026-08-10T16:56-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260810201909.3.ac39aa4b87ed0538@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Why Do People Linked to Jeffrey Epstein Keep Mysteriously Dying?",
+   "date": "2026-08-10T13:19-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-do-people-linked-to-jeffrey-epstein",
+   "bullets": [
+    "In the past decade, nine people linked to Epstein—including former partners, employees and alleged associates—have died from causes ranging from cancer and overdose to suicide, often under mysterious circumstances"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260810163556.3.348c13615a0cab72@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "“The People” Are Lying Liars",
+   "date": "2026-08-10T09:35-07:00",
+   "url": null,
+   "bullets": [
+    "A focus group with three-time Trump‑voting Republicans in South Carolina discussed Lindsey Graham, Donald Trump and other topics, providing data that supports the author’s claim that “everybody lies.”",
+    "The author argues that people are inherently messy, contradictory, and do not reason deductively, suggesting a deeper, darker view of human behavior than the usual “people lie” shorthand."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260810151629.3.686115263b2596e4@mg2.substack.com",
    "newsletter": "We're Not Kidding | Zeteo",
@@ -5262,74 +5281,10 @@
     "Kelleher's case: financial-crisis risk lands on everyone, not just the investor class that owns most assets."
    ],
    "summary_by": "claude"
-  },
-  {
-   "id": "20260710225305.3.6b8832766767bfbb@mg-d1.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 77: ICE Kills Again, White Supremacists Descend on DC, and Trump Wants Birthright Ci…",
-   "date": "2026-07-10T15:53-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-77-ice",
-   "bullets": [
-    "Week 77 roundup: Trump fired the remaining Democratic election commissioners (post-Slaughter), ordered more Iran strikes mid-NATO-summit, and pardoned 11 including a $4M GOP donor tied to Abramoff.",
-    "Also this week: Patriot Front white supremacists marched through DC on July 4, and the administration is pushing to have the birthright-citizenship case reheard."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260710210735.3.35b3d7d95975bb8a@mg-d0.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Did What? (Evergreen Tweet.)",
-   "date": "2026-07-10T14:07-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/trump-did-what-evergreen-tweet",
-   "bullets": [
-    "Sarah and JVL on Trump's NATO disgrace, whether McConnell is really working the phones on policy, and the Democratic factional fight — is strategist Morris Katz just the left's Steve Bannon?"
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260710191032.3.55afc18e186f4652@mg2.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "R.I.P. Attention Spans",
-   "date": "2026-07-10T12:10-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/rip-attention-spans",
-   "bullets": [
-    "Bulwark Goes to Hollywood interviews critic David Thomson on his new book 'A Sudden Flicker of Light' — film's amoral artistry has 'begun to diminish our nature.'",
-    "Thomson calls Citizen Kane a 'shallow masterpiece' and traces the attention-span rot from packed 1930 movie palaces to TV to the phone in your pocket."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260710180042.3.a558864dfb1d00a4@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Trump Could Move U.S. Bases to Israel. Here’s Why They’d Become Netanyahu’s Newest Human Shields",
-   "date": "2026-07-10T11:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-us-military-bases-israel-what-to-know",
-   "bullets": [
-    "Former defense intel analyst Harrison Mann: the Pentagon, after evacuating damaged HQs in Kuwait, Bahrain and Qatar, is exploring big permanent U.S. bases inside Israel.",
-    "He argues they'd become Netanyahu's 'human shields' — empowering Israeli aggression and permanently entangling the U.S. — while Congress advances a bill merging U.S.-Israeli military R&D."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260710175132.3.140713c9a2c01f61@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Red Menace Is Here!",
-   "date": "2026-07-10T10:51-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/the-red-menace-is-here",
-   "bullets": [
-    "The White House is promoting 'Freedom Fuel,' a mystery chain selling below-market gas whose trademark was filed the same day Trump first posted about it.",
-    "JVL: the 'red menace' is Republican — a state-adjacent enterprise with zero transparency; no one can say who owns it or how it sells gas at a loss."
-   ],
-   "summary_by": "claude"
   }
  ],
  "counts": {
-  "shown": 77,
-  "total": 387
+  "shown": 72,
+  "total": 384
  }
 }
