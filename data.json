@@ -1,26 +1,18 @@
 {
- "updated": "2026-08-10T16:56-07:00",
+ "updated": "2026-08-11T08:27-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's lingering grip on the GOP is eroding as primary defeats and waning voter enthusiasm expose internal fractures (The Bulwark, The Message Box).",
-   "Democratic strategists are racing to counter GOP gerrymandering, voter suppression, and election‑denier candidates in key swing states like Wisconsin and Michigan (The Bulwark, Zeteo).",
-   "A wave of investigative pieces highlights systemic opacity and possible misconduct, from mysterious deaths linked to Jeffrey Epstein to unanswered questions about his own demise (Zeteo).",
-   "Economic inequality is being amplified by offshore tax havens and a tax system that favors capital over labor, costing the U.S. billions (Paul Krugman).",
-   "U.S. sanctions are failing to curb China's rapid advances in AI and semiconductor technology, raising concerns about future tech dominance (Doomberg)."
+   "Former Trump White House lawyer Ty Cobb warns that American democracy could be effectively screwed by 2026 due to Trump's influence",
+   "The US is losing an estimated $100 billion annually in tax revenue due to oligarchic trends and tax avoidance schemes, according to Paul Krugman",
+   "AIPAC-backed candidates are struggling to win despite massive war chests, with Pro-Israel super PACs expected to raise and spend $250 million this election cycle",
+   "Trump's grip on the GOP is slipping, with recent primary defeats of his endorsed candidates showing his influence is waning",
+   "Energy Secretary Chris Wright has overseen a rapid revival of Venezuela's oil output, pushing exports above 1 million barrels per day",
+   "Democratic leaders warn that GOP nominee Tom Tiffany, a former House Republican who voted to overturn the 2020 results, could jeopardize certification of Wisconsin's 2028 presidential and Senate elections if elected governor"
   ],
   "by": "groq",
   "ids": [
-   "20260808010028.3.fc75b9748f43b581@mg-d1.substack.com",
-   "20260808103106.3.3668f0bbccf7612c@mg2.substack.com",
-   "20260808110407.3.b0b2cd3d8c07ebf9@mg-d0.substack.com",
-   "20260808113043.3.02cafca44a467b9c@mg2.substack.com",
-   "20260808122136.3.5f3ab17fd0d13daf@mg-d0.substack.com",
-   "20260808123433.3.43dec10ec921e201@mg-d1.substack.com",
-   "20260808130105.3.a966d74449f81bb7@mg-d1.substack.com",
-   "20260808130107.3.8c784e6956f28eae@mg-d1.substack.com",
-   "20260808140614.3.218adfd06e34394d@mg2.substack.com",
    "20260808170037.3.3269dc7cfcfd1384@mg2.substack.com",
    "20260809090214.3.b88b07a82259ca03@mg2.substack.com",
    "20260809110629.3.ef50fb224a5d7da5@mg2.substack.com",
@@ -35,12 +27,124 @@
    "20260810132632.3.e0f678ce860c7b56@mg-d1.substack.com",
    "20260810151629.3.686115263b2596e4@mg2.substack.com",
    "20260810163556.3.348c13615a0cab72@mg-d0.substack.com",
-   "20260810201909.3.ac39aa4b87ed0538@mg2.substack.com"
+   "20260810201909.3.ac39aa4b87ed0538@mg2.substack.com",
+   "20260811000146.3.320cbd209660948a@mg-d1.substack.com",
+   "20260811101845.3.661c362046813e0c@mg-d1.substack.com",
+   "20260811132043.3.1863199520b13e77@mg-d0.substack.com",
+   "20260811150157.3.9df998df5666d874@mg-d1.substack.com"
   ],
-  "updated": "2026-08-10T16:56-07:00",
+  "updated": "2026-08-11T08:27-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260811150157.3.9df998df5666d874@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "AIPAC Exposed: Mehdi Speaks to Authors of New Book on the Israel Lobby",
+   "date": "2026-08-11T08:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/aipac-exposed-mehdi-speaks-to-authors",
+   "bullets": [
+    "AIPAC-backed candidates are struggling to win despite massive war chests",
+    "Pro-Israel super PACs may raise and spend $250 million this election cycle",
+    "Ian Lustick calls Israel an 'extreme right-wing rogue state'"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260811132043.3.1863199520b13e77@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "There’s No Vaccine for Stupid",
+   "date": "2026-08-11T06:20-07:00",
+   "url": null,
+   "bullets": [
+    "Trump signed an executive order to change America's pediatric-vaccine schedule",
+    "Sens. Ron Johnson and Rand Paul accused Fauci of hiding COVID vaccine miscarriage risks",
+    "Fauci's caution was based on early data gaps, not a cover-up"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260811105813.3.05909eebc71662ef@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "🙅 Can Dems Stop Trump From ‘Epically’ Stonewalling Them Next Year?",
+   "date": "2026-08-11T03:58-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/can-dems-stop-trump-from-epically",
+   "bullets": [
+    "On this day in 2022, FBI agents searched Donald Trump’s Mar-a-Lago home for classified documents improperly retained after leaving the White House. Trump faced 40 criminal counts in the matter but avoided trial before returning to power.",
+    "Happy Tuesday! It’s Swin again. The Trump White House is acting like it’s a foregone conclusion that Democrats take back the U.S. House next year… to the point that President Donald Trump is preemptively, and rather hilariously [ https://su…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260811103052.3.914120a3174d3d50@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The U.S. Healthcare System is Already Mostly Socialized",
+   "date": "2026-08-11T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-us-healthcare-system-is-already",
+   "bullets": [
+    "Now that Abdul El-Sayed is the Democratic nominee for Michigan’s open Senate seat, the outcome of this crucial race will depend mainly on two things: Whether Republicans succeed in demonizing El-Sayed because he’s brown and a Muslim, and wh…",
+    "I will defer for the now the question of whether bigotry will be effective this year, although I will address it another day. What I want to address instead is El-Sayed’s signature issue — healthcare. Yes, El-Sayed advocates Medicare for Al…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260811103048.3.bd80e43917a15505@mg-d1.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "EO for routine childhood vaccines, Covid-19, fire, heat, and more",
+   "date": "2026-08-11T03:30-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/eo-for-routine-childhood-vaccines",
+   "bullets": [
+    "This week started off with a bang with an executive order on routine childhood vaccinations. So much for this administration not touching childhood vaccines before the midterms. I try to break down the signal from the noise for you below (t…",
+    "Plus: Michigan health officials say iceberg lettuce is now all clear, but we have a new produce item making us sick in 27 states: jalapeños. Covid-19, fire smoke, and heat risk continue to march forward. And we end with some good news."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260811101845.3.661c362046813e0c@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Can Francesca Hong Win? Yes. Is She the Most Electable? Probably Not.",
+   "date": "2026-08-11T03:18-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/can-francesca-hong-win-yes-is-she",
+   "bullets": [
+    "Francesca Hong can win Wisconsin’s governor race because the state is a 50‑50 swing and the Republican opponent, Tom Tiffany, is a weak MAGA candidate, but her DSA label and leftward stance make her less electable than establishment favorite David Crowley, who aligns with Governor Evers and avoids controversial socialist branding",
+    "A July Marquette poll showed Hong trailing Tiffany by 3 points among registered voters and tied among likely voters, while Crowley wasn’t tested; independent voters (52%) view the DSA unfavorably, and about half of national voters say they’re less likely to support a democratic socialist candidate",
+    "Pfeiffer argues that while electability is uncertain, data‑center policy (76% of voters favor a moratorium) and Hong’s bold change message contrast with Crowley’s continuity‑plus approach, leading him to conclude Crowley has the better chance of winning in November"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260811000742.3.5c0178aabe15faee@mg-d1.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "James Fishback Wanted a Scandal. He Got One.",
+   "date": "2026-08-10T17:07-07:00",
+   "url": null,
+   "bullets": [
+    "Florida’s seemingly never-ending Republican primary race for governor will finally be settled next Tuesday. With Trump pick Rep. Byron Donalds far ahead in the polls [ https://substack.com/redirect/2fd050f2-74e2-43b4-b4ce-41028afaeefe?j=eyJ…",
+    "In a desperate attempt to inject some life into his campaign last week, Fishback gave a much-teased press conference [ https://substack.com/redirect/2ce4982d-f76f-4648-b6b7-35bbaf3e4768?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260811000146.3.320cbd209660948a@mg-d1.substack.com",
+   "newsletter": "Mehdi from Zeteo",
+   "pub": "zeteo",
+   "subject": "Why Ben Shapiro Is Wrong About Me, Islamophobia, and His Dumb New Movie",
+   "date": "2026-08-10T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/watch-mehdi-respond-to-ben-shapiro",
+   "bullets": [
+    "Mehdi argues Ben Shapiro’s 13‑minute video defending the Daily Wire’s new film is itself Islamophobic, claiming the movie perpetuates negative Muslim stereotypes and miscounts Muslim villains in Hollywood.",
+    "He contends the Daily Wire’s focus on ISIS‑themed films is a deliberate distraction from Israel’s actions in Gaza, labeling it a propaganda tactic.",
+    "Mehdi offers a 7‑minute rebuttal video with “receipts” to support his critique and invites viewers to subscribe for uncensored content."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260810201909.3.ac39aa4b87ed0538@mg2.substack.com",
    "newsletter": "Zeteo",
@@ -1676,20 +1780,6 @@
     "Trump is exasperated with the Iran war's duration",
     "Trump plans to hit Iran with heavy strikes to force negotiations",
     "US strikes have killed over 220 people with no evidence of 'narcoterrorism'"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260801010021.3.557455962fe536aa@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
-   "subject": "In Michigan, AIPAC Is Playing With Fire",
-   "date": "2026-07-31T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/in-michigan-aipac-is-playing-with",
-   "bullets": [
-    "AIPAC spent a record $46 million supporting Rep. Haley Stevens in the Michigan Democratic Senate primary, giving her a 12‑to‑1 advertising advantage over opponent Abdul El‑Sayed.",
-    "El‑Sayed, a vocal critic of Israel, condemned the spending as corrupt, while some Jewish leaders warned his candidacy threatens the national Jewish community and even considered backing the Republican.",
-    "Critics, including columnist Jonathan S. Tobin, accused El‑Sayed of antisemitic rhetoric, prompting Stevens to tweet that his attacks amount to blaming all problems on Jewish Americans."
    ],
    "summary_by": "groq"
   },
@@ -5190,95 +5280,6 @@
    "bullets": [
     "Weekly roundup: Israel escalated Gaza attacks, killing at least two dozen including children and two aid workers; West Bank settler violence is up 560% since 2019 with 6.6% of cases indicted.",
     "One bright spot: an emotional reunion after Israel released a Palestinian captive his family believed was dead."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260711143120.3.87692ee2bc10af23@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Socialist Arizona Candidate Says Israel Is Interfering in His Election",
-   "date": "2026-07-11T07:31-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/socialist-arizona-candidate-says",
-   "bullets": [
-    "Democratic socialist Kai Newkirk, challenging Rep. Greg Stanton in Arizona, tells Zeteo Israel is interfering in his primary — extending the Mamdani-style insurgent wave to a new state.",
-    "He calls Stanton's record enabling the Gaza war 'morally disqualifying.'"
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260711140227.3.488d9117a595525f@mg-d0.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "Exclusive: The Next Frontier of the Deportation Wars: College Campuses",
-   "date": "2026-07-11T07:02-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/exclusive-next-frontier-deportation-wars-college-campus-flock-cameras",
-   "bullets": [
-    "Exclusive: activists are opening a new front against Flock license-plate cameras on college campuses, whose data feeds ICE target-hunting — an ambient dragnet catching immigrants on daily commutes.",
-    "Follow-up: the GoFundMe for Lorenzo Salgado Araujo's family jumped from $58,000 to $425,000 after last week's newsletter on his killing by ICE."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260711131116.3.e2885a001430b1c3@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Tommy Vietor: Democrats’ Way Forward on Israel",
-   "date": "2026-07-11T06:11-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/tommy-vietor-democrats-way-forward",
-   "bullets": [
-    "Tommy Vietor joins the Focus Group: Democratic voters' opinion of Israel has nosedived over three years, and Israel politics is now shaping 2026 primaries and the next presidential field."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260711130159.3.e2d1f7474565c1aa@mg-d0.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“I had become haunted by the simplest question: What did I care about?”",
-   "date": "2026-07-11T06:01-07:00",
-   "url": "https://post.substack.com/p/i-had-become-haunted-by-the-simplest",
-   "bullets": [
-    "Substack's Weekender: an essay on quitting and staying in New York ('What did I care about?'), writers debating AI's merits, and a dispatch from NBA summer league."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260711122915.3.0736b65e1ccb68f4@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "How Democrats Can Still Beat Susan Collins",
-   "date": "2026-07-11T05:29-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/how-democrats-can-still-beat-susan",
-   "bullets": [
-    "Pfeiffer's mailbag: Platner's exit actually leaves Maine winnable — Collins' campaign built its whole strategy around him, and a vetted progressive replacement scrambles it.",
-    "He owns what he missed on Platner and points to his Pod Save America conversation with Alex Wagner for the postmortem."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260711113206.3.db4bb47ff69ff1c3@mg2.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Policy in Search of a Problem",
-   "date": "2026-07-11T04:32-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/policy-in-search-of-a-problem",
-   "bullets": [
-    "Overtime digest: Mark Hertling argues withdrawing U.S. troops from Europe is 'a policy in search of a problem' as DOD reviews force posture during the Ankara NATO summit.",
-    "Also: evangelicals confronting Christian nationalism in their own churches, and Eric Edelman on the one word Trump won't say in Turkey."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260711103026.3.9ef35d587174683f@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Dennis Kelleher of Better Markets",
-   "date": "2026-07-11T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/dennis-kelleher-of-better-markets",
-   "bullets": [
-    "Krugman interviews Better Markets' Dennis Kelleher on the quiet demolition of financial regulation — 'termites' eating stability while attention is elsewhere.",
-    "Kelleher's case: financial-crisis risk lands on everyone, not just the investor class that owns most assets."
    ],
    "summary_by": "claude"
   }
