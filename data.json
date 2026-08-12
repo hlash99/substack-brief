@@ -1,19 +1,18 @@
 {
- "updated": "2026-08-11T08:27-07:00",
+ "updated": "2026-08-11T17:05-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Former Trump White House lawyer Ty Cobb warns that American democracy could be effectively screwed by 2026 due to Trump's influence",
-   "The US is losing an estimated $100 billion annually in tax revenue due to oligarchic trends and tax avoidance schemes, according to Paul Krugman",
-   "AIPAC-backed candidates are struggling to win despite massive war chests, with Pro-Israel super PACs expected to raise and spend $250 million this election cycle",
-   "Trump's grip on the GOP is slipping, with recent primary defeats of his endorsed candidates showing his influence is waning",
-   "Energy Secretary Chris Wright has overseen a rapid revival of Venezuela's oil output, pushing exports above 1 million barrels per day",
-   "Democratic leaders warn that GOP nominee Tom Tiffany, a former House Republican who voted to overturn the 2020 results, could jeopardize certification of Wisconsin's 2028 presidential and Senate elections if elected governor"
+   "Trump's pardon power is being questioned by Amanda Carpenter, who argues it can't shield those profiting from shady contracts, citing forfeiture and seizure laws",
+   "Israel's actions in Gaza are being criticized by Mehdi, who claims they amount to genocide and are being enabled by AIPAC-backed candidates",
+   "Democrats are planning a 'death by a thousand cuts' strategy to slow Trump's administration if they win the 2026 House majority, targeting corruption and other issues",
+   "Paul Krugman argues that the US healthcare system is already largely socialized, with government programs covering over two-thirds of insurance spending",
+   "James Fishback's attempt to revive his Florida governor campaign by accusing Rep. Byron Donalds of a DOJ probe has backfired, with the DOJ publicly clearing Donalds",
+   "Abdul El-Sayed's Senate campaign in Michigan is being seen as a rare Democratic 'fighter' in the Trump era, with a aggressive counter-punching style"
   ],
   "by": "groq",
   "ids": [
-   "20260808170037.3.3269dc7cfcfd1384@mg2.substack.com",
    "20260809090214.3.b88b07a82259ca03@mg2.substack.com",
    "20260809110629.3.ef50fb224a5d7da5@mg2.substack.com",
    "20260809120212.3.47681317aa3f1872@mg-d1.substack.com",
@@ -29,14 +28,61 @@
    "20260810163556.3.348c13615a0cab72@mg-d0.substack.com",
    "20260810201909.3.ac39aa4b87ed0538@mg2.substack.com",
    "20260811000146.3.320cbd209660948a@mg-d1.substack.com",
+   "20260811000742.3.5c0178aabe15faee@mg-d1.substack.com",
    "20260811101845.3.661c362046813e0c@mg-d1.substack.com",
+   "20260811103048.3.bd80e43917a15505@mg-d1.substack.com",
+   "20260811103052.3.914120a3174d3d50@mg-d1.substack.com",
+   "20260811105813.3.05909eebc71662ef@mg-d1.substack.com",
    "20260811132043.3.1863199520b13e77@mg-d0.substack.com",
-   "20260811150157.3.9df998df5666d874@mg-d1.substack.com"
+   "20260811150157.3.9df998df5666d874@mg-d1.substack.com",
+   "20260811210245.3.672bee6699c587e5@mg-d0.substack.com",
+   "20260811213304.3.60fd0151463ba1d4@mg-d1.substack.com"
   ],
-  "updated": "2026-08-11T08:27-07:00",
+  "updated": "2026-08-11T17:05-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260811213304.3.60fd0151463ba1d4@mg-d1.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Amanda Carpenter: Audit the White House",
+   "date": "2026-08-11T14:33-07:00",
+   "url": null,
+   "bullets": [
+    "Amanda Carpenter argues that Trump’s pardon power can’t shield those profiting from shady contracts, citing forfeiture and seizure laws that could strip them of money and restore taxpayer funds.",
+    "She links China’s $100 million donation to Trump’s cryptocurrency firm to his soft‑on‑China stance, suggesting a bribery motive behind his policies.",
+    "Carpenter notes Trump’s use of a catering cart to exit Turkey, claims the White House is engaging in socialist‑style company takeovers, and warns the National Guard will remain in DC until 2029."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260811210245.3.672bee6699c587e5@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "'I've Been Handed a Death Sentence, and My Crime Is Being a Cancer Patient From Gaza'",
+   "date": "2026-08-11T14:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/ive-been-handed-a-death-sentence",
+   "bullets": [
+    "Um Mahmoud, a Gaza-born cancer patient diagnosed in 2020, was receiving treatment in Ramallah when Israel’s 2023 war on Gaza began, leaving her trapped in the West Bank without care.",
+    "The Palestinian Authority can no longer fund her treatment because Israel has withheld tax revenues, forcing Um Mahmoud to wait while her cancer worsens.",
+    "Her case illustrates how Israel’s genocide in Gaza extends beyond the conflict zone, crippling healthcare access for Palestinians in the occupied West Bank."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260811165006.3.d304e0d5f45f37da@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s America Is Really Hulk Hogan’s America",
+   "date": "2026-08-11T09:50-07:00",
+   "url": null,
+   "bullets": [
+    "You cannot understand Donald Trump without professional wrestling. The key text of the Trump era is not a tome of political reporting, but Josie Riesman’s book Ringmaster, which is both a biography of Vince McMahon and an autopsy of America…",
+    "Wrestling is the Rosetta Stone for Trumpism. Some readers rebel against this idea, but I want you to hear me out. Because today we’re going to look at a new book about Hulk Hogan and the parallels between Terry Bollea, Hulkamania, Trump, an…"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20260811150157.3.9df998df5666d874@mg-d1.substack.com",
    "newsletter": "Mehdi Unfiltered",
@@ -73,10 +119,10 @@
    "date": "2026-08-11T03:58-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/can-dems-stop-trump-from-epically",
    "bullets": [
-    "On this day in 2022, FBI agents searched Donald Trump’s Mar-a-Lago home for classified documents improperly retained after leaving the White House. Trump faced 40 criminal counts in the matter but avoided trial before returning to power.",
-    "Happy Tuesday! It’s Swin again. The Trump White House is acting like it’s a foregone conclusion that Democrats take back the U.S. House next year… to the point that President Donald Trump is preemptively, and rather hilariously [ https://su…"
+    "Democrats plan a “death by a thousand cuts” strategy of subpoenas, hearings, and criminal referrals to slow Trump’s administration if they win the 2026 House majority, targeting corruption, ICE killings, and Iran war missteps.",
+    "Trump’s White House is preparing for a Democratic takeover with defiance of Congress, while Trump signs an executive order on vaccines and Bill Cassidy publicly rejects anti‑vaccine conspiracy theories."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260811103052.3.914120a3174d3d50@mg-d1.substack.com",
@@ -86,10 +132,11 @@
    "date": "2026-08-11T03:30-07:00",
    "url": "https://paulkrugman.substack.com/p/the-us-healthcare-system-is-already",
    "bullets": [
-    "Now that Abdul El-Sayed is the Democratic nominee for Michigan’s open Senate seat, the outcome of this crucial race will depend mainly on two things: Whether Republicans succeed in demonizing El-Sayed because he’s brown and a Muslim, and wh…",
-    "I will defer for the now the question of whether bigotry will be effective this year, although I will address it another day. What I want to address instead is El-Sayed’s signature issue — healthcare. Yes, El-Sayed advocates Medicare for Al…"
+    "Krugman argues that U.S. healthcare is already largely socialized, noting that government programs (Medicare, Medicaid, ACA subsidies, and tax‑free employer premiums) cover over two‑thirds of insurance spending, amounting to roughly $400 billion in subsidies annually.",
+    "He cites Medicare’s 82% favorable rating and Medicaid’s 73% rating versus widespread dislike of private insurers, and points out that private plans like Medicare Advantage overpaid by $84 billion due to upcoding, suggesting insurers act as costly parasites.",
+    "Consequently, Krugman frames Abdul El‑Sayed’s Medicare‑for‑All proposal not as radical socialism but as a logical step to eliminate the inefficient, partially privatized system and fund care progressively through taxes."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260811103048.3.bd80e43917a15505@mg-d1.substack.com",
@@ -99,10 +146,10 @@
    "date": "2026-08-11T03:30-07:00",
    "url": "https://yourlocalepidemiologist.substack.com/p/eo-for-routine-childhood-vaccines",
    "bullets": [
-    "This week started off with a bang with an executive order on routine childhood vaccinations. So much for this administration not touching childhood vaccines before the midterms. I try to break down the signal from the noise for you below (t…",
-    "Plus: Michigan health officials say iceberg lettuce is now all clear, but we have a new produce item making us sick in 27 states: jalapeños. Covid-19, fire smoke, and heat risk continue to march forward. And we end with some good news."
+    "The FDA enforcement report revealed 236,192 lettuce cases recalled, mostly from Walmart, not Taco Bell, and Michigan’s cyclosporiasis outbreak is nearly over with zero new infections, so leafy greens are safe again.",
+    "A Salmonella outbreak linked to Sinaloa jalapeños has sickened 345 people in 27 states, 36 hospitalized, with 2 antibiotic‑resistant cases; avoid jalapeños and foods from retailers like Walmart, Target, and Whole Foods until the recall clears."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260811101845.3.661c362046813e0c@mg-d1.substack.com",
@@ -126,10 +173,11 @@
    "date": "2026-08-10T17:07-07:00",
    "url": null,
    "bullets": [
-    "Florida’s seemingly never-ending Republican primary race for governor will finally be settled next Tuesday. With Trump pick Rep. Byron Donalds far ahead in the polls [ https://substack.com/redirect/2fd050f2-74e2-43b4-b4ce-41028afaeefe?j=eyJ…",
-    "In a desperate attempt to inject some life into his campaign last week, Fishback gave a much-teased press conference [ https://substack.com/redirect/2ce4982d-f76f-4648-b6b7-35bbaf3e4768?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3…"
+    "James Fishback’s attempt to revive his Florida governor campaign by accusing Rep. Byron Donalds of a DOJ probe backfired, as the DOJ publicly cleared Donalds and warned against false accusations.",
+    "Fishback now faces a $11,000 scholarship lawsuit from former debater Briana Whatley, plus a $1.5 million debt to former employer Greenlight Capital, which has seized his assets.",
+    "Former staffer Gianna Tagliarini reported Fishback to state law enforcement over his anti‑woke debate operation, potentially prompting a new investigation."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260811000146.3.320cbd209660948a@mg-d1.substack.com",
@@ -1454,32 +1502,6 @@
    "url": null,
    "bullets": [
     "The free preview of the latest Triad Mailbag episode features JVL answering listener questions on DSA candidates, protecting the 2030 census, Ross Douthat’s ‘60 Minutes’ appearance, Republican authoritarianism, Tolkien’s ‘long defeat’, Ezra Klein, site redesign, and personal interests like World Cup jerseys and comics."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260802191713.3.14b2c52504acd121@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why Losing Battles are Worth Fighting",
-   "date": "2026-08-02T12:17-07:00",
-   "url": null,
-   "bullets": [
-    "The free preview of the latest Triad Mailbag episode features JVL answering listener questions on DSA candidates, protecting the 2030 census, Ross Douthat’s ‘60 Minutes’ appearance, Republican authoritarianism, Tolkien’s ‘long defeat’, Ezra Klein, site redesign, and personal interests like World Cup jerseys and comics."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260802160312.3.dbe9b83fcf9f7b76@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
-   "subject": "🚨 LIVE Q&A: 'Settler Terrorism’ in the West Bank - MONDAY 1PM ET",
-   "date": "2026-08-02T09:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/live-q-and-a-settler-terrorism-in",
-   "bullets": [
-    "UN reports West Bank settler violence at an all‑time high, with raids, mosque burnings and attacks on dozens of Palestinians while the Israeli military protects settlers and demolishes homes",
-    "Even Israel’s staunchest defenders label these actions as ‘terrorism,’ yet mainstream media coverage remains minimal",
-    "A live Q&A on Monday 1 PM ET will feature lawyer Diana Buttu, journalist Fadi Quran and reporter Jasper Nathaniel to discuss the current conditions and answer audience questions"
    ],
    "summary_by": "groq"
   },
@@ -5256,36 +5278,10 @@
     "The oligarchic context — weak worker protections, captured policy — will magnify AI's social and economic downsides rather than spreading its gains."
    ],
    "summary_by": "claude"
-  },
-  {
-   "id": "20260711190255.3.38eced649aa75f8f@mg-d1.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Explosive foodborne outbreak",
-   "date": "2026-07-11T12:02-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/explosive-foodborne-outbreak",
-   "bullets": [
-    "Katelyn Jetelina on the largest cyclosporiasis outbreak in U.S. history: 3,000+ cases (a normal YEAR's total) and climbing, spread via a rinse-resistant parasite on produce.",
-    "State counts are running ahead of the CDC's website — she blames a gutted federal public-health apparatus with no transparency or centralized communication for the confusing guidance."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260711183034.3.6bac8bd37eba1ce4@mg-d0.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine: An Emotional Reunion After Israel Releases Palestinian Captive Believed to Be Dead",
-   "date": "2026-07-11T11:30-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/palestine-week-gaza-strikes-israel-settlers",
-   "bullets": [
-    "Weekly roundup: Israel escalated Gaza attacks, killing at least two dozen including children and two aid workers; West Bank settler violence is up 560% since 2019 with 6.6% of cases indicted.",
-    "One bright spot: an emotional reunion after Israel released a Palestinian captive his family believed was dead."
-   ],
-   "summary_by": "claude"
   }
  ],
  "counts": {
-  "shown": 72,
-  "total": 384
+  "shown": 70,
+  "total": 383
  }
 }
