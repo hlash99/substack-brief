@@ -1,24 +1,18 @@
 {
- "updated": "2026-08-11T17:05-07:00",
+ "updated": "2026-08-12T08:26-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's pardon power is being questioned by Amanda Carpenter, who argues it can't shield those profiting from shady contracts, citing forfeiture and seizure laws",
-   "Israel's actions in Gaza are being criticized by Mehdi, who claims they amount to genocide and are being enabled by AIPAC-backed candidates",
-   "Democrats are planning a 'death by a thousand cuts' strategy to slow Trump's administration if they win the 2026 House majority, targeting corruption and other issues",
-   "Paul Krugman argues that the US healthcare system is already largely socialized, with government programs covering over two-thirds of insurance spending",
-   "James Fishback's attempt to revive his Florida governor campaign by accusing Rep. Byron Donalds of a DOJ probe has backfired, with the DOJ publicly clearing Donalds",
-   "Abdul El-Sayed's Senate campaign in Michigan is being seen as a rare Democratic 'fighter' in the Trump era, with a aggressive counter-punching style"
+   "Trump's executive order to cut the US childhood vaccine schedule has sparked widespread criticism and concern about the potential impact on public health",
+   "Democrats are planning a strategy of subpoenas, hearings, and criminal referrals to slow Trump's administration if they win the 2026 House majority",
+   "Trump's potential sabotage of his own party and successors is a growing concern, with some predicting he will aim his anger at Republicans like Vance or Rubio",
+   "The Wisconsin Democratic gubernatorial primary has highlighted the divide between moderate and progressive Democrats, with David Crowley's win over Francesca Hong",
+   "Israel's actions in Gaza have been widely condemned, with many arguing that they constitute a form of genocide, and the Palestinian Authority is struggling to fund medical treatment for patients like Um Mahmoud",
+   "The US healthcare system is already largely socialized, with government programs covering over two-thirds of insurance spending, according to Paul Krugman"
   ],
   "by": "groq",
   "ids": [
-   "20260809090214.3.b88b07a82259ca03@mg2.substack.com",
-   "20260809110629.3.ef50fb224a5d7da5@mg2.substack.com",
-   "20260809120212.3.47681317aa3f1872@mg-d1.substack.com",
-   "20260809130032.3.11cfdc9cc5349e28@mg-d1.substack.com",
-   "20260809130209.3.216efeb7d5624835@mg-d0.substack.com",
-   "20260809144207.3.39fc2b330ec9f753@mg-d1.substack.com",
    "20260809170044.3.f81da7facb893e66@mg2.substack.com",
    "20260810000314.3.0e24b4bee2a15ff3@mg-d1.substack.com",
    "20260810103040.3.54809c0184654677@mg2.substack.com",
@@ -35,13 +29,162 @@
    "20260811105813.3.05909eebc71662ef@mg-d1.substack.com",
    "20260811132043.3.1863199520b13e77@mg-d0.substack.com",
    "20260811150157.3.9df998df5666d874@mg-d1.substack.com",
+   "20260811165006.3.d304e0d5f45f37da@mg2.substack.com",
    "20260811210245.3.672bee6699c587e5@mg-d0.substack.com",
-   "20260811213304.3.60fd0151463ba1d4@mg-d1.substack.com"
+   "20260811213304.3.60fd0151463ba1d4@mg-d1.substack.com",
+   "20260812001554.3.afa296d880a30364@mg2.substack.com",
+   "20260812103053.3.9a22da19c32da41d@mg-d1.substack.com",
+   "20260812103111.3.ae28a0ea1ebad1e5@mg-d1.substack.com",
+   "20260812110054.3.10f8a7976b816000@mg2.substack.com",
+   "20260812123817.3.c75e090a37e2f84a@mg-d0.substack.com",
+   "20260812132341.3.e68cb285459a6f20@mg-d0.substack.com",
+   "20260812133034.3.676f31b750d5bc2d@mg-d0.substack.com",
+   "20260812144123.3.8c27dcf50e34221c@mg-d1.substack.com",
+   "20260812150419.3.4888fdd51259eadb@mg-d1.substack.com"
   ],
-  "updated": "2026-08-11T17:05-07:00",
+  "updated": "2026-08-12T08:26-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260812150419.3.4888fdd51259eadb@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Mehdi Meets Count Binface",
+   "date": "2026-08-12T08:04-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/mehdi-meets-count-binface",
+   "bullets": [
+    "Count Binface runs against Nigel Farage in Clacton-on-Sea",
+    "Binface proposes capping Flake ice cream at 99p",
+    "He criticizes Farage's false equivalence on democratic mandate"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260812144123.3.8c27dcf50e34221c@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "What the Hell Just Happened in Wisconsin?",
+   "date": "2026-08-12T07:41-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/what-the-hell-happened-in-wisconsin",
+   "bullets": [
+    "Francesca Hong lost Democratic nomination for governor in Wisconsin",
+    "David Crowley won with electability as a central issue",
+    "Governor Evers claimed Hong would lose to Tom Tiffany"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260812133034.3.676f31b750d5bc2d@mg-d0.substack.com",
+   "newsletter": "Here Be Dragons from Barbara F. Walter",
+   "pub": "barbarafwalter",
+   "subject": "Trump is Going to Eat His Own.",
+   "date": "2026-08-12T06:30-07:00",
+   "url": "https://barbarafwalter.substack.com/p/trump-is-going-to-eat-his-own",
+   "bullets": [
+    "Trump will face a hostile Democratic majority in the House and Senate after the midterms",
+    "Trump will aim his anger at his own party and potential successors",
+    "Trump may sabotage potential successors like Vance or Rubio to prevent them from inheriting his movement"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260812132341.3.e68cb285459a6f20@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Night Thanksgiving Was Saved",
+   "date": "2026-08-12T06:23-07:00",
+   "url": null,
+   "bullets": [
+    "David Crowley won Wisconsin's Democratic gubernatorial primary",
+    "Luke Bronin defeated Rep. John Larson in Connecticut's 1st Congressional District primary",
+    "William Kristol predicts a Democratic blue wave in November"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260812130149.3.c425620189a80d5f@mg2.substack.com",
+   "newsletter": "James Horton, PhD. from Moonshots",
+   "pub": "jimhorton",
+   "subject": "The Writer and the Sea",
+   "date": "2026-08-12T06:01-07:00",
+   "url": "https://jimhorton.substack.com/p/the-writer-and-the-sea",
+   "bullets": [
+    "Author’s Note: This piece first featured on Medium. I’m republishing it as-is, mostly without change or comment, except to note here that the religious tone at the beginning can be misleading if you skim too fast. Ultimately this is a piece…",
+    "In the creation myth, in the book of Genesis, the first of God’s creations was water. This surprises most people I know; as a culture we are far more familiar with the part of the Abrahamic creation narrative where God creates light: And Go…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260812123817.3.c75e090a37e2f84a@mg-d0.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "MAGA Has Found Its New Favorite Culture War",
+   "date": "2026-08-12T05:38-07:00",
+   "url": null,
+   "bullets": [
+    "Bill Cassidy’s emotional floor speech failed to sway the Senate vote that confirmed Todd Blanche as Attorney General, highlighting the GOP’s internal divisions on judicial appointments.",
+    "Tucker Carlson’s recent interviews with Hunter Biden and his monologue echoing presidential rhetoric suggest a pivot toward a campaign‑style media strategy, raising questions about his influence on the 2024 race.",
+    "The DSA‑aligned Wisconsin gubernatorial candidate Francesca Hong’s candidacy is portrayed as a high‑stakes experiment in a swing state, underscoring the Democrats’ willingness to test progressive platforms in key battlegrounds."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260812110054.3.10f8a7976b816000@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Trump Is Now Openly Flirting With Attacking the Midterms",
+   "date": "2026-08-12T04:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-is-now-openly-flirting-with",
+   "bullets": [
+    "Trump told far‑right host Wayne Allyn Root that declaring a national emergency over the midterms could be a viable alternative to the stalled SAVE Act, hinting at a potential coup against U.S. democracy.",
+    "Francesca Hong, the democratic socialist once seen as the Democratic nominee for Wisconsin governor, lost a tight primary to moderate David Crowley, while Minnesota’s Peggy Flanagan won the Senate primary, boosting the left’s prospects.",
+    "Exclusive polling shows the Kansas Senate race is nearly tied, a rare scenario as the state has not elected a Democrat to the upper chamber in 96 years, underscoring the high electoral stakes nationwide."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260812103111.3.ae28a0ea1ebad1e5@mg-d1.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Why you can’t find a primary care doctor",
+   "date": "2026-08-12T03:31-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/why-you-cant-find-a-primary-care",
+   "bullets": [
+    "Over 100 million Americans lack primary care, driven by a fee‑for‑service system that pays $259 per visit versus $1,092 for a gastroenterology visit, leading to an 87,000‑doctor shortfall by 2037.",
+    "Primary care doctors face 15‑minute visits, 45 % burnout, and 39 % plan to stop seeing patients, deepening shortages; solutions include value‑based payment, expanded residency slots, and AI‑driven admin reduction.",
+    "Patients can mitigate the gap by seeking community health centers, skilled NPs/​PAs, telehealth, and becoming proactive advocates—preparing concise concerns, a one‑page health summary, and asking targeted questions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260812103053.3.9a22da19c32da41d@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Rise of the Measles-Industrial Complex",
+   "date": "2026-08-12T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-rise-of-the-measles-industrial",
+   "bullets": [
+    "Trump’s executive order threatens to cut U.S. child vaccination rates, coinciding with a measles surge that has already surpassed last year’s worst season since 1991; scientific studies find no vaccine‑autism link, but air‑pollution exposure does correlate with higher autism rates.",
+    "Vaccination skepticism is now a predominantly Republican stance, with Gallup polls showing a decade‑long decline in belief in vaccine importance and a rise in perceived danger, though it remains a minority view within the party.",
+    "Anti‑vax sentiment is tied to a lucrative right‑wing “snake‑oil” industry and a broader anti‑intellectual culture war, amplified by figures like Dr. Mehmet Oz and COVID‑era conspiracy narratives, ensuring the political momentum persists beyond Trump’s tenure."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260812001554.3.afa296d880a30364@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Vaccine Lies, Direct from the Oval Office",
+   "date": "2026-08-11T17:15-07:00",
+   "url": null,
+   "bullets": [
+    "Donald Trump signed an executive order to cut the U.S. childhood vaccine schedule from 17 to 11 shots and split the combined MMR vaccine into three separate injections, despite likely legal challenges similar to a blocked HHS rule by Robert F. Kennedy Jr.",
+    "The order could pressure states to relax school vaccine mandates and, combined with presidential rhetoric, may boost parental vaccine hesitancy as measles cases rise to 2,465 this year—already surpassing last year’s record high since 1991—and pertussis cases also climb.",
+    "Kennedy, a longtime anti‑vaccine activist, has driven the schedule change push from HHS, and Trump has publicly supported his efforts, even expressing frustration that Kennedy isn’t moving faster on the agenda."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260811213304.3.60fd0151463ba1d4@mg-d1.substack.com",
    "newsletter": "Tim Miller - The Bulwark",
@@ -78,10 +221,11 @@
    "date": "2026-08-11T09:50-07:00",
    "url": null,
    "bullets": [
-    "You cannot understand Donald Trump without professional wrestling. The key text of the Trump era is not a tome of political reporting, but Josie Riesman’s book Ringmaster, which is both a biography of Vince McMahon and an autopsy of America…",
-    "Wrestling is the Rosetta Stone for Trumpism. Some readers rebel against this idea, but I want you to hear me out. Because today we’re going to look at a new book about Hulk Hogan and the parallels between Terry Bollea, Hulkamania, Trump, an…"
+    "The newsletter argues that professional wrestling, especially Vince McMahon’s story in Josie Riesman’s Ringmaster, serves as a Rosetta Stone for understanding Trumpism and MAGA.",
+    "It promotes a new book linking Hulk Hogan’s career and persona to Donald Trump’s authoritarian style, claiming the comparison will fundamentally reshape readers’ view of Trump.",
+    "The piece is offered as a free teaser for Bulwark+, urging readers to try the subscription to access the full analysis."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260811150157.3.9df998df5666d874@mg-d1.substack.com",
@@ -5238,50 +5382,10 @@
     "He advocated extreme policies, including 'leveling Gaza,' assassinating Putin, and defending Trump's 2020 election lies, while praising genocidal Israeli ministers posthumously."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260712140249.3.44b894168f472195@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Republicans Slam Platner, but Stay Silent About Trump’s Assault Allegations",
-   "date": "2026-07-12T07:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/republicans-slam-platner-but-stay",
-   "bullets": [
-    "Republicans publicly condemned Maine Senate candidate Graham Platner after a sexual assault allegation, yet remain silent on similar accusations against former President Trump.",
-    "Francesca Fiorentini highlights the double standard, noting that GOP figures like Kevin McCarthy and Sen. John Kennedy criticize attacks on women while defending a known alleged predator.",
-    "In a three‑minute video, the most empathetic Republican toward Platner is identified, underscoring the party’s inconsistent stance on sexual misconduct."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260712124657.3.567bf49e3ca1eb78@mg-d0.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Supreme Court Broke Independent Agencies. Here’s a Way to Slow the Damage.",
-   "date": "2026-07-12T05:46-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/supreme-court-independent-agencies-commissions-humphreys-executor-slaughter",
-   "bullets": [
-    "Guest author Todd Phillips: the Court's Trump v. Slaughter ruling overturned 91-year-old Humphrey's Executor, letting presidents fire FTC/NLRB/CPSC/EEOC commissioners over policy disagreements.",
-    "His fix: a crypto market-structure bill already before Congress could carry provisions keeping independent commissions from becoming one-party instruments."
-   ],
-   "summary_by": "claude"
-  },
-  {
-   "id": "20260712103026.3.f6fb28dc8acfd342@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "AI in an Age of Oligarchy",
-   "date": "2026-07-12T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/ai-in-an-age-of-oligarchy",
-   "bullets": [
-    "Krugman: AI is arriving into wealth concentration worse than the Gilded Age — unlike the 1950s-60s, when progressive taxes and antitrust could have contained the damage.",
-    "The oligarchic context — weak worker protections, captured policy — will magnify AI's social and economic downsides rather than spreading its gains."
-   ],
-   "summary_by": "claude"
   }
  ],
  "counts": {
-  "shown": 70,
-  "total": 383
+  "shown": 72,
+  "total": 390
  }
 }
