@@ -1,20 +1,18 @@
 {
- "updated": "2026-08-12T08:26-07:00",
+ "updated": "2026-08-12T17:03-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
    "Trump's executive order to cut the US childhood vaccine schedule has sparked widespread criticism and concern about the potential impact on public health",
-   "Democrats are planning a strategy of subpoenas, hearings, and criminal referrals to slow Trump's administration if they win the 2026 House majority",
-   "Trump's potential sabotage of his own party and successors is a growing concern, with some predicting he will aim his anger at Republicans like Vance or Rubio",
-   "The Wisconsin Democratic gubernatorial primary has highlighted the divide between moderate and progressive Democrats, with David Crowley's win over Francesca Hong",
-   "Israel's actions in Gaza have been widely condemned, with many arguing that they constitute a form of genocide, and the Palestinian Authority is struggling to fund medical treatment for patients like Um Mahmoud",
-   "The US healthcare system is already largely socialized, with government programs covering over two-thirds of insurance spending, according to Paul Krugman"
+   "Democratic primary success now hinges on African-American voters, who remain the party's backbone despite underperforming poll numbers for some candidates",
+   "Trump is preparing for a potential Democratic takeover of the House by planning to stonewall Congress and defy subpoenas",
+   "The US healthcare system is already largely socialized, with government programs covering over two-thirds of insurance spending",
+   "Trump's pardon power may not shield those profiting from shady contracts, with forfeiture and seizure laws potentially being used to strip them of money",
+   "Israel's withholding of tax revenues from the Palestinian Authority is having a devastating impact on cancer patients in Gaza, including one woman who has been left without treatment"
   ],
   "by": "groq",
   "ids": [
-   "20260809170044.3.f81da7facb893e66@mg2.substack.com",
-   "20260810000314.3.0e24b4bee2a15ff3@mg-d1.substack.com",
    "20260810103040.3.54809c0184654677@mg2.substack.com",
    "20260810111118.3.ebd6d55e81b19c52@mg2.substack.com",
    "20260810132632.3.e0f678ce860c7b56@mg-d1.substack.com",
@@ -37,15 +35,73 @@
    "20260812103111.3.ae28a0ea1ebad1e5@mg-d1.substack.com",
    "20260812110054.3.10f8a7976b816000@mg2.substack.com",
    "20260812123817.3.c75e090a37e2f84a@mg-d0.substack.com",
+   "20260812130149.3.c425620189a80d5f@mg2.substack.com",
    "20260812132341.3.e68cb285459a6f20@mg-d0.substack.com",
    "20260812133034.3.676f31b750d5bc2d@mg-d0.substack.com",
    "20260812144123.3.8c27dcf50e34221c@mg-d1.substack.com",
-   "20260812150419.3.4888fdd51259eadb@mg-d1.substack.com"
+   "20260812150419.3.4888fdd51259eadb@mg-d1.substack.com",
+   "20260812160026.3.daf89d25f5aacf6b@mg-d1.substack.com",
+   "20260812163252.3.1cf23ceefaf485b4@mg-d0.substack.com",
+   "20260812230005.3.53b49a90056eed94@mg2.substack.com"
   ],
-  "updated": "2026-08-12T08:26-07:00",
+  "updated": "2026-08-12T17:03-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260812230005.3.53b49a90056eed94@mg2.substack.com",
+   "newsletter": "Ragebait | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Dem Uses Fox as a Platform for Hate",
+   "date": "2026-08-12T16:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-dem-uses-fox-as-a-platform-for",
+   "bullets": [
+    "Michael LaRosa, former Jill Biden spokesperson, endorsed Michigan GOP Senate candidate Mike Rogers on Fox’s Laura Ingraham show, accusing Democrat Abdul El‑Sayed of “cowardly” 9/11 remarks and linking him to a 2016 comment by leftist streamer Hasan Piker.",
+    "LaRosa urged El‑Sayed to publicly denounce 9/11 and even called for New York Mayor Zohran Mamdani to be barred from the 9/11 commemoration, while Rogers falsely claimed El‑Sayed believed America deserved 9/11 after his Democratic nomination."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260812194804.3.ac770bb203b5d6a6@mg-d1.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How to Survive a Republican Scandal: Imitate Trump",
+   "date": "2026-08-12T12:48-07:00",
+   "url": null,
+   "bullets": [
+    "AFTER THREE WOMEN ACCUSED Rep. Max Miller (R-Ohio) of physically abusing them, Donald Trump placed a phone call to the congressman last week. The president warned [ https://substack.com/redirect/b54f6a2b-c14d-446a-a803-ee12ad8858ea?j=eyJ1Ij…",
+    "Instead, Miller told Trump he would stay in. Then he went on TV and hailed Trump as his model. He boasted that Trump had survived similar allegations in 2016 and that he, Miller, would now do the same."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260812163252.3.1cf23ceefaf485b4@mg-d0.substack.com",
+   "newsletter": "Citrini",
+   "pub": "citrini",
+   "subject": "Missile Restocking",
+   "date": "2026-08-12T09:32-07:00",
+   "url": "https://open.substack.com/pub/citrini/p/missile-restocking",
+   "bullets": [
+    "The U.S. has fired more missiles and interceptors in the first five months of 2026 than in any year since Desert Storm, driven by Russian and Iranian advances in autonomous drones and ballistic missiles, and the FY2027 DoW budget proposes a nearly 5‑fold increase in missile spending.",
+    "Patriot and THAAD stockpiles have been depleted by ~66% and ~44% respectively, with CSIS noting no viable alternatives, exposing a critical vulnerability in U.S. and allied missile defense that the administration is addressing through expanded production capacity and increased competition among prime contractors.",
+    "The defense industrial base faces systemic constraints—limited production capacity, fragile supply chains, and long lead times—leading to a shift from a 20‑year consolidation of prime contractors to a new strategy of capacity expansion and anti‑competitive oligopoly mitigation to meet urgent demand signals."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260812160026.3.daf89d25f5aacf6b@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "It’s Black Voters, Stupid. And Thank God for That.",
+   "date": "2026-08-12T09:00-07:00",
+   "url": null,
+   "bullets": [
+    "The author argues Democratic primary success now hinges on African‑American voters, noting they remain the party’s backbone while DSA‑aligned candidates like Abdul El‑Sayed underperform with Black voters despite strong poll numbers.",
+    "Wisconsin polls lagged behind rapid voter shifts, missing David Crowley’s surge from 22% to 39.8% after Mandela Barnes dropped out, illustrating real‑time polling latency rather than inaccuracy.",
+    "Mike Lindell’s Trump‑endorsed bid for Minnesota governor collapsed, failing to break 50% even in the state’s most pro‑Trump counties, underscoring the limits of MAGA brand appeal."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260812150419.3.4888fdd51259eadb@mg-d1.substack.com",
    "newsletter": "Zeteo",
@@ -110,10 +166,10 @@
    "date": "2026-08-12T06:01-07:00",
    "url": "https://jimhorton.substack.com/p/the-writer-and-the-sea",
    "bullets": [
-    "Author’s Note: This piece first featured on Medium. I’m republishing it as-is, mostly without change or comment, except to note here that the religious tone at the beginning can be misleading if you skim too fast. Ultimately this is a piece…",
-    "In the creation myth, in the book of Genesis, the first of God’s creations was water. This surprises most people I know; as a culture we are far more familiar with the part of the Abrahamic creation narrative where God creates light: And Go…"
+    "The essay uses Genesis’s primordial water and firmament myth to argue that ancient creation stories are symbolic narratives about separating chaos into ordered worlds, not scientific accounts.",
+    "It links writers’ fascination with the sea—citing Hemingway’s Cuban voyages and Borges’s comparison of the ocean to Dostoevsky—to illustrate how the sea serves as a metaphor for discovery and new worlds for storytellers."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260812123817.3.c75e090a37e2f84a@mg-d0.substack.com",
@@ -1408,20 +1464,6 @@
    "summary_by": "groq"
   },
   {
-   "id": "20260803170153.3.0f508d27218097cc@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Behold the TRUMP Act: I Know How to Fix American Politics",
-   "date": "2026-08-03T10:01-07:00",
-   "url": null,
-   "bullets": [
-    "Trump blamed David Hearn for Reflecting Pool failure",
-    "Hearn faced up to 10 years in prison for baseless charges",
-    "Prosecutor Jeanine Pirro lied about Hearn's involvement"
-   ],
-   "summary_by": "groq"
-  },
-  {
    "id": "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
@@ -1431,33 +1473,6 @@
    "bullets": [
     "UN warns West Bank settler violence is at an all‑time high as Netanyahu orders a wide‑scale military operation, with settlers and soldiers storming towns and attacking dozens of Palestinians.",
     "Some of Israel’s most ardent defenders now label the violence as ‘terrorism,’ prompting a live town hall with lawyer Diana Buttu, Palestinian campaigner Fadi Quran, and reporter Jasper Nathaniel to discuss on‑ground realities and answer audience questions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260803142136.3.9f5577e1fca61aa4@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
-   "subject": "🚨TODAY, 1pm ET: ‘Settler Terrorism’ in West Bank – LIVE Q&A",
-   "date": "2026-08-03T07:21-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/today-1pm-et-settler-terrorism-in",
-   "bullets": [
-    "UN warns West Bank settler violence is at an all‑time high as Netanyahu orders a wide‑scale military operation, with settlers and soldiers storming towns and attacking dozens of Palestinians.",
-    "Some of Israel’s most ardent defenders now label the violence as ‘terrorism,’ prompting a live town hall with lawyer Diana Buttu, Palestinian campaigner Fadi Quran, and reporter Jasper Nathaniel to discuss on‑ground realities and answer audience questions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260803141027.3.dc1411c611879ba6@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "GOP Sheep to the Midterm Slaughter",
-   "date": "2026-08-03T07:10-07:00",
-   "url": null,
-   "bullets": [
-    "Trump's 250-foot arch will intrude on historic sites' views",
-    "Todd Blanche's confirmation as attorney general is likely",
-    "Democrats can turn Blanche's confirmation into a liability for Republicans"
    ],
    "summary_by": "groq"
   },
@@ -1596,19 +1611,6 @@
     "Latino voters who backed Trump in 2024 are now disillusioned, but their shift away from him is driven more by economic concerns like gas prices than immigration enforcement",
     "Consultant Mike Madrid says Latinos are the nation’s largest, fastest‑growing swing bloc, least racially polarized and most likely to identify as independent, voting with their feet for any party",
     "The Zeteo interview explores how both Democrats and Republicans are misreading Latino priorities, risking loss of this pivotal vote in the 2026 elections"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260803000018.3.6de750c4052ee86c@mg2.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Data Centers Are Suddenly Everywhere in Democratic Campaigns",
-   "date": "2026-08-02T17:00-07:00",
-   "url": null,
-   "bullets": [
-    "Democratic candidates from Ohio to Florida are running ads and proposals against data centers, blaming them for higher utility bills and demanding moratoriums or tighter regulations.",
-    "Pollster Zac McCrary says data centers have become a convenient villain for voters angry about electricity costs, making them a new focal point in many competitive races."
    ],
    "summary_by": "groq"
   },
@@ -5328,64 +5330,10 @@
     "The 2017 Trump corporate tax cut produced no significant increase in U.S. investment, reinforcing the view that such cuts do not trickle down and instead serve as indirect tax cuts for the rich, underscoring the need for Democratic policies to raise taxes on the wealthy."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260712230421.3.91e196052e9d6e7b@mg-d1.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "One Weird Trick for Torpedoing Todd Blanche’s Hearing",
-   "date": "2026-07-12T16:04-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/one-weird-trick-for-torpedoing-todd",
-   "bullets": [
-    "Democratic senators have a litany of accusations to use against Attorney General‑designate Todd Blanche, including conflicts of interest, DOJ purges, a slush fund, Jan. 6 pardons, attempted self‑pardons, politically‑charged prosecutions, a “war” on judges, and obstruction of oversight.",
-    "The author argues that while all these issues merit scrutiny, focusing on a single, especially damaging point could be the most effective strategy to undermine Blanche’s confirmation.",
-    "Specific evidence links Blanche to controversial actions such as the Jan. 6 pardons and attempts to self‑pardon, suggesting a pattern of politicized legal maneuvering."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260712210221.3.233c348d117be7b9@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Trump’s Illegal Boat Bombings Are Just ‘Murder for Murder’s Sake,’ U.S. Official Says",
-   "date": "2026-07-12T14:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trumps-illegal-boat-bombings-not-working",
-   "bullets": [
-    "U.S. officials say Trump’s administration continues a lethal bombing campaign against alleged “narcoterrorist” drug boats, despite lacking evidence of targets and facing accusations of illegality.",
-    "Intelligence and government data cited by the newsletter indicate the strikes have not reduced drug trafficking or saved lives, and the White House is aware of their ineffectiveness.",
-    "President Trump has reportedly discussed expanding the operations, claiming they make the U.S. safer and prevent tens of thousands of deaths, though no verification of casualties exists."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260712195159.3.f5715ddef8bd52d3@mg2.substack.com",
-   "newsletter": "Bulwark+Takes",
-   "pub": "thebulwark",
-   "subject": "We Found Decades of Video of Trump Defending Accused Sex Predators",
-   "date": "2026-07-12T12:51-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/you-will-not-believe-how-often-trump",
-   "bullets": [
-    "Sarah Longwell and Tim Miller detail how Donald Trump repeatedly defended men accused of sexual assault—from Roy Moore and Roger Ailes to Mike Tyson and Ghislaine Maxwell—showing a pattern of GOP hypocrisy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260712162657.3.0cb72e2742718193@mg2.substack.com",
-   "newsletter": "Mehdi from Zeteo",
-   "pub": "zeteo",
-   "subject": "Lindsey Graham, Proud War Hawk, Has Died. Here He Is in His Own Words",
-   "date": "2026-07-12T09:26-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/lindsey-graham-dies-quotes-war-hawk",
-   "bullets": [
-    "Lindsey Graham, a Republican senator and prominent war hawk, died suddenly at 71 from cardiac arrest, days before his expected re-election bid.",
-    "Graham's career was marked by shifting stances, from harshly criticizing Trump in 2015-2021 to calling him 'the greatest president' by 2026.",
-    "He advocated extreme policies, including 'leveling Gaza,' assassinating Putin, and defending Trump's 2020 election lies, while praising genocidal Israeli ministers posthumously."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 72,
-  "total": 390
+  "total": 386
  }
 }
