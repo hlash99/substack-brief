@@ -1,22 +1,18 @@
 {
- "updated": "2026-08-12T17:03-07:00",
+ "updated": "2026-08-13T08:28-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's executive order to cut the US childhood vaccine schedule has sparked widespread criticism and concern about the potential impact on public health",
-   "Democratic primary success now hinges on African-American voters, who remain the party's backbone despite underperforming poll numbers for some candidates",
-   "Trump is preparing for a potential Democratic takeover of the House by planning to stonewall Congress and defy subpoenas",
-   "The US healthcare system is already largely socialized, with government programs covering over two-thirds of insurance spending",
-   "Trump's pardon power may not shield those profiting from shady contracts, with forfeiture and seizure laws potentially being used to strip them of money",
-   "Israel's withholding of tax revenues from the Palestinian Authority is having a devastating impact on cancer patients in Gaza, including one woman who has been left without treatment"
+   "Trump's administration is in crisis with the resignation of Press Secretary Karoline Leavitt and a stalled domestic agenda",
+   "The US healthcare system is already largely socialized with government programs covering over two-thirds of insurance spending",
+   "Trump has signed an executive order to change America's pediatric-vaccine schedule despite likely legal challenges",
+   "Democratic primary voters in Wisconsin prioritized electability over progressive candidates",
+   "The US has fired more missiles and interceptors in the first five months of 2026 than in any year since Desert Storm",
+   "Trump is facing a hostile Democratic majority in the House and Senate after the midterms and may sabotage potential successors"
   ],
   "by": "groq",
   "ids": [
-   "20260810103040.3.54809c0184654677@mg2.substack.com",
-   "20260810111118.3.ebd6d55e81b19c52@mg2.substack.com",
-   "20260810132632.3.e0f678ce860c7b56@mg-d1.substack.com",
-   "20260810151629.3.686115263b2596e4@mg2.substack.com",
    "20260810163556.3.348c13615a0cab72@mg-d0.substack.com",
    "20260810201909.3.ac39aa4b87ed0538@mg2.substack.com",
    "20260811000146.3.320cbd209660948a@mg-d1.substack.com",
@@ -42,12 +38,99 @@
    "20260812150419.3.4888fdd51259eadb@mg-d1.substack.com",
    "20260812160026.3.daf89d25f5aacf6b@mg-d1.substack.com",
    "20260812163252.3.1cf23ceefaf485b4@mg-d0.substack.com",
-   "20260812230005.3.53b49a90056eed94@mg2.substack.com"
+   "20260812194804.3.ac770bb203b5d6a6@mg-d1.substack.com",
+   "20260812230005.3.53b49a90056eed94@mg2.substack.com",
+   "20260813000011.3.2cdc7b977d097856@mg-d0.substack.com",
+   "20260813090137.3.935fd4623718ad59@mg2.substack.com",
+   "20260813103106.3.7197e0b541bc2b50@mg2.substack.com",
+   "20260813113322.3.3351e2652e38ec6f@mg2.substack.com",
+   "20260813132242.3.fc8731d5b0f7612c@mg-d0.substack.com"
   ],
-  "updated": "2026-08-12T17:03-07:00",
+  "updated": "2026-08-13T08:28-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260813132242.3.fc8731d5b0f7612c@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Summer of Lost Causes",
+   "date": "2026-08-13T06:22-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s White House is in crisis as Press Secretary Karoline Leavitt quits, citing maternity‑work balance, while the administration struggles to replace her unique blend of spin and dishonesty.",
+    "Trump’s domestic agenda has stalled; he is fixated on reviving weak cases like the Reflecting Pool vandalism, forcing U.S. Attorney Jeanine Pirro to admit the Justice Department lacks evidence and sparking a special grand jury.",
+    "The newsletter contrasts Trump’s failed pivot strategy with past bold moves, noting his current “summer of lost causes” and the broader decline of his political momentum."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260813113322.3.3351e2652e38ec6f@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "✈️ 🚚 Moronic Trump Thinks It’s Funny He Left Toadies and the Media on Death Force One",
+   "date": "2026-08-13T04:33-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/moronic-trump-thinks-its-funny-he",
+   "bullets": [
+    "Trump’s alleged Air Force One decoy operation, amid claims of Iranian-backed threats, was downplayed by the CIA’s low confidence and the White House’s heightened security for his family.",
+    "The newsletter criticizes Trump’s use of body doubles and “human shields,” likening him to a cartoon villain and questioning the ethics of his presidential security tactics.",
+    "Progressive defeats in Wisconsin and wins in Minnesota are framed as a call for unity to wrest Congress from the GOP, suggesting Democrats are learning from recent electoral setbacks."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260813103106.3.7197e0b541bc2b50@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Why Isn’t the Price of Oil Even Higher?",
+   "date": "2026-08-13T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/why-isnt-the-price-of-oil-even-higher",
+   "bullets": [
+    "Oil prices appear low because crude is only $25 above pre‑war levels, but the crack spread—difference between crude and refined products—has risen $35, pushing gasoline and diesel prices to $4+ and $5+ per gallon.",
+    "The widening crack spread is driven by reduced refining capacity in the Strait of Hormuz and Ukraine’s drone attacks, limiting crude processing and keeping crude prices down while refined product prices surge."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260813090137.3.935fd4623718ad59@mg2.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "A Minor Detail",
+   "date": "2026-08-13T02:01-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/a-minor-detail",
+   "bullets": [
+    "In mid‑July, pro‑Ukrainian sources reported a drone campaign that hit dozens of commercial ships in the Sea of Azov, including vessels carrying Russian grain, prompting Russia to launch a massive retaliation that effectively sealed off Ukraine’s Black Sea ports, threatening a 50% drop in its agricultural exports.",
+    "Russia’s swift, disproportionate response coincided with a U.S.‑Turkey weapons deal delivering 70 ATACMS missiles, 12 MLRS launchers, over 2,000 cluster munitions and 47,000 howitzer rounds to Ukraine, raising fears of heightened Russia‑Turkey tensions.",
+    "The author warns that this escalation could further weaken Europe’s energy and food security ahead of a harsh winter, as Putin could leverage control of Black Sea routes and potential Turkish cooperation to pressure the EU."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260813010100.3.3f216c9f0b8a0d0e@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Bernie Sanders Joins Mehdi to Talk Dems, Abdul El-Sayed, AIPAC, and Netanyahu",
+   "date": "2026-08-12T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/bernie-sanders-joins-mehdi",
+   "bullets": [
+    "After a night of progressive wins, Senator Bernie Sanders joins ‘Mehdi Unfiltered’ for the first time to share his reactions to the major primary victories of multiple Democratic socialists this election cycle, including Abdul El-Sayed’s “h…",
+    "“The Democratic leadership is, in many respects, way, way out of touch with where ordinary people are,” Sanders tells Mehdi, adding that the country’s “corrupt campaign finance system” might be starting to backfire on the Super PACs pouring…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260813000011.3.2cdc7b977d097856@mg-d0.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Dem Voters Have One Weird Obsession: Winning",
+   "date": "2026-08-12T17:00-07:00",
+   "url": null,
+   "bullets": [
+    "Democratic primary voters in Wisconsin prioritized electability, fearing a GOP governor Tom Tiffany in 2028, and chose David Crowley over Francesca Hong despite polls suggesting a 20‑point lead for Hong.",
+    "Pat Dennis of American Bridge predicted Hong’s loss, arguing that Democratic voters now judge candidates on perceived ability to win the general election, a shift distinct from Republican primary motivations."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260812230005.3.53b49a90056eed94@mg2.substack.com",
    "newsletter": "Ragebait | Zeteo",
@@ -69,10 +152,11 @@
    "date": "2026-08-12T12:48-07:00",
    "url": null,
    "bullets": [
-    "AFTER THREE WOMEN ACCUSED Rep. Max Miller (R-Ohio) of physically abusing them, Donald Trump placed a phone call to the congressman last week. The president warned [ https://substack.com/redirect/b54f6a2b-c14d-446a-a803-ee12ad8858ea?j=eyJ1Ij…",
-    "Instead, Miller told Trump he would stay in. Then he went on TV and hailed Trump as his model. He boasted that Trump had survived similar allegations in 2016 and that he, Miller, would now do the same."
+    "After three women accused Rep. Max Miller (R‑Ohio) of abuse, Trump called him, warned his re‑election could be in trouble, but Miller vowed to stay and praised Trump as his model for surviving scandal.",
+    "The piece cites a pattern where GOP lawmakers like Rep. Duncan Hunter, Rep. Matt Gaetz, and Rep. George Santos invoked Trump during legal crises, receiving favors such as a pardon for Santos and a failed AG nomination for Gaetz, illustrating the party’s reliance on Trump’s “felon‑in‑chief” narrative.",
+    "Rep. Cory Mills (R‑Fla.) recently blamed Democratic “lawfare” for his ethics investigation, echoing Trump’s claim that accusations are political attacks, reinforcing the newsletter’s argument that today’s GOP sees scandal survival as emulating Trump."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260812163252.3.1cf23ceefaf485b4@mg-d0.substack.com",
@@ -5275,65 +5359,10 @@
     "The author acknowledges the heartfelt tributes but warns that Graham’s death should also prompt harsher, more rigorous political analysis."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260713144415.3.c32f3356c7e9647b@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "💥6pm ET TODAY! What’s Next for Iran, Palestine, and Lebanon Q&A",
-   "date": "2026-07-13T07:44-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/6pm-et-today-whats-next-for-iran",
-   "bullets": [
-    "A live Town Hall Q&A on July 13 at 6 pm ET will examine the recent U.S. strikes on Iran, Iran’s retaliation across Gulf allies, and the collapse of the cease‑fire.",
-    "Panelists—including Trita Parsi, Rami Khouri, and Rula Jebreal—will discuss escalating conflicts in Iran, Lebanon’s fragile peace with Israel, and the worsening humanitarian crisis and settler violence in Gaza and the West Bank.",
-    "House member Ro Khanna reported being detained by Israeli settlers armed with U.S.-made M4 rifles during a recent West Bank visit."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260713132816.3.1e099ab794549359@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Jeffrey Epstein Takes Center Stage",
-   "date": "2026-07-13T06:28-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/jeffrey-epstein-takes-center-stage-todd-blanche-trump-justice-department-democrats-senate-lindsey-graham-republicans-gop",
-   "bullets": [
-    "Deputy Attorney General Todd Blanche is accused of orchestrating a cover‑up of the Jeffrey Epstein case, meeting Ghislaine Maxwell, overseeing botched redactions, and now faces a Senate Judiciary hearing for AG confirmation.",
-    "A poll shows 75% of Americans, including 66% of Republicans, believe the government is still hiding Epstein information, and Democrats are urged to spotlight Blanche’s role to sway voters ahead of the hearing."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260713105801.3.2aed25d8837db964@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Trump Makes Lindsey Graham’s Death All About... Himself",
-   "date": "2026-07-13T03:58-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-makes-lindsey-grahams-death",
-   "bullets": [
-    "Trump framed Senator Lindsey Graham’s death as a personal victory, recalling Graham’s 2016 primary challenge and praising his later support for Trump’s agenda, especially the SAVE Act.",
-    "The newsletter notes Graham’s 2024 death from a heart attack and contrasts his early criticism of Trump—calling him a “nutjob” and “demagogue”—with his later alignment on issues like the 2018 Kavanaugh defense.",
-    "It also highlights that the SAVE Act, Trump’s voter‑suppression proposal, is set to dominate congressional discussion when Congress reconvenes on Monday."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260713105031.3.36b2494df770f066@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Oligarchy in Action: The Case of Corporate Tax Cuts",
-   "date": "2026-07-13T03:50-07:00",
-   "url": "https://paulkrugman.substack.com/p/oligarchy-in-action-the-case-of-corporate",
-   "bullets": [
-    "Corporate tax rates fell from about 35% in the 1960s to roughly 12% today, a decline that primarily benefits wealthy shareholders and coincides with a sharp rise in top‑0.01% wealth concentration.",
-    "Gallup polls show a persistent majority of Americans think corporations pay too little in taxes, yet corporate tax cuts have continued, driven by campaign finance influence, corruption, and a media ecosystem that normalizes billionaire‑friendly policies.",
-    "The 2017 Trump corporate tax cut produced no significant increase in U.S. investment, reinforcing the view that such cuts do not trickle down and instead serve as indirect tax cuts for the rich, underscoring the need for Democratic policies to raise taxes on the wealthy."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 72,
-  "total": 386
+  "shown": 73,
+  "total": 388
  }
 }
