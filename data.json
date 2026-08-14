@@ -1,28 +1,18 @@
 {
- "updated": "2026-08-13T17:03-07:00",
+ "updated": "2026-08-14T08:12-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's administration is in crisis with the resignation of Press Secretary Karoline Leavitt and a stalled domestic agenda",
-   "The US healthcare system is already largely socialized with government programs covering over two-thirds of insurance spending",
-   "Trump has signed an executive order to change America's pediatric-vaccine schedule despite likely legal challenges",
-   "Democratic primary voters in Wisconsin prioritized electability over progressive candidates",
-   "The US has fired more missiles and interceptors in the first five months of 2026 than in any year since Desert Storm",
-   "Trump is facing a hostile Democratic majority in the House and Senate after the midterms and may sabotage potential successors"
+   "Trump's administration is facing criticism for its handling of various issues, including its anti-corruption policies and its approach to healthcare, with some arguing that the president's actions are eroding trust in institutions (The Bulwark, Zeteo)",
+   "Concerns about Trump's mental fitness and his tendency to spread misinformation are ongoing, with some pointing to his recent claims about his golf game and his handling of security threats as evidence of his instability (Zeteo, The Bulwark)",
+   "The US is experiencing a shortage of primary care doctors, with over 100 million Americans lacking access to primary care, and the situation is expected to worsen due to a fee-for-service system that prioritizes specialty care (Your Local Epidemiologist)",
+   "Trump's executive order to cut the US childhood vaccine schedule has sparked controversy, with many arguing that it will lead to a decline in vaccination rates and an increase in preventable diseases (Paul Krugman, Jonathan Cohn - The Bulwark)",
+   "The situation in Gaza continues to deteriorate, with patients like Um Mahmoud facing significant challenges in accessing medical care due to Israel's withholding of tax revenues and its restrictions on movement (Zeteo)",
+   "Democratic primary voters are prioritizing electability, with some arguing that this approach is necessary to defeat Republican candidates, while others argue that it may lead to the nomination of more moderate candidates (The Bulwark, Zeteo)"
   ],
   "by": "groq",
   "ids": [
-   "20260810163556.3.348c13615a0cab72@mg-d0.substack.com",
-   "20260810201909.3.ac39aa4b87ed0538@mg2.substack.com",
-   "20260811000146.3.320cbd209660948a@mg-d1.substack.com",
-   "20260811000742.3.5c0178aabe15faee@mg-d1.substack.com",
-   "20260811101845.3.661c362046813e0c@mg-d1.substack.com",
-   "20260811103048.3.bd80e43917a15505@mg-d1.substack.com",
-   "20260811103052.3.914120a3174d3d50@mg-d1.substack.com",
-   "20260811105813.3.05909eebc71662ef@mg-d1.substack.com",
-   "20260811132043.3.1863199520b13e77@mg-d0.substack.com",
-   "20260811150157.3.9df998df5666d874@mg-d1.substack.com",
    "20260811165006.3.d304e0d5f45f37da@mg2.substack.com",
    "20260811210245.3.672bee6699c587e5@mg-d0.substack.com",
    "20260811213304.3.60fd0151463ba1d4@mg-d1.substack.com",
@@ -41,15 +31,138 @@
    "20260812194804.3.ac770bb203b5d6a6@mg-d1.substack.com",
    "20260812230005.3.53b49a90056eed94@mg2.substack.com",
    "20260813000011.3.2cdc7b977d097856@mg-d0.substack.com",
+   "20260813010100.3.3f216c9f0b8a0d0e@mg-d1.substack.com",
    "20260813090137.3.935fd4623718ad59@mg2.substack.com",
    "20260813103106.3.7197e0b541bc2b50@mg2.substack.com",
    "20260813113322.3.3351e2652e38ec6f@mg2.substack.com",
-   "20260813132242.3.fc8731d5b0f7612c@mg-d0.substack.com"
+   "20260813132242.3.fc8731d5b0f7612c@mg-d0.substack.com",
+   "20260813164708.3.17e6989bd9e8676b@mg-d1.substack.com",
+   "20260813170606.3.3c1a8cb9294e6743@mg-d0.substack.com",
+   "20260813185047.3.4c78e7fa5099c895@mg2.substack.com",
+   "20260813212543.3.4a14a0207f42ab67@mg-d0.substack.com",
+   "20260814002736.3.87a616cc3e86d27f@mg-d0.substack.com",
+   "20260814010105.3.f6c0c0848dab4231@mg-d1.substack.com",
+   "20260814103052.3.4997b2229d499694@mg-d0.substack.com",
+   "20260814110548.3.d039ba59d87e79e4@mg-d0.substack.com",
+   "20260814121457.3.c31def08b876512b@mg-d1.substack.com",
+   "20260814133304.3.1b914c834e1b9f88@mg-d1.substack.com",
+   "20260814135938.3.24024353fc08453c.unr5hai7@mg1.substack.com",
+   "20260814145231.3.12562eb395ed82f7@mg2.substack.com"
   ],
-  "updated": "2026-08-13T08:28-07:00",
+  "updated": "2026-08-14T08:12-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260814145231.3.12562eb395ed82f7@mg2.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "‘A Slaughter in Our Industry’: Home Builders Say ICE is Destroying Their Business",
+   "date": "2026-08-14T07:52-07:00",
+   "url": null,
+   "bullets": [
+    "Vice President Dan Vance blamed an alleged 20 million undocumented immigrants for housing unaffordability, citing a fabricated Federal Reserve “study” that linked immigration to higher home prices.",
+    "Contrary to Vance’s claim, ICE enforcement during the first year of Trump’s second term drove new‑home prices up in the Northeast and West—regions where immigrant construction workers make up 23 % and 25 % of the labor force—by reducing available labor.",
+    "FWD.us estimates show that immigrants constitute a significant share of the U.S. construction workforce, indicating that mass deportations threaten to raise construction costs and, in turn, home prices rather than lower them."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260814135938.3.24024353fc08453c.unr5hai7@mg1.substack.com",
+   "newsletter": "Citrini",
+   "pub": "citrini",
+   "subject": "💬 New thread from Citrini Analyst Team",
+   "date": "2026-08-14T06:59-07:00",
+   "url": null,
+   "bullets": [
+    "The Trump administration imposed a 100% tariff on U.S. drones over 25 kg and a 25% tariff on smaller drones and components under Section 232, aiming to boost domestic drone production.",
+    "Allied imports receive lower rates (10‑15%) from the EU, Korea, and Japan, but the component tariffs favor UMAC’s NDAA‑compliant motors, batteries, and airframes.",
+    "Citrini’s “Drones” and “Missile Restocking” baskets are gaining traction as the tariffs shift supply chains toward U.S. manufacturers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260814133304.3.1b914c834e1b9f88@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Troops Deserve Better than Hegseth",
+   "date": "2026-08-14T06:33-07:00",
+   "url": null,
+   "bullets": [
+    "The USS Abraham Lincoln’s deployment to the Middle East in January 2026 exposed severe living‑condition complaints from sailors and families, yet Navy leadership, including CNO Adm. Daryl Caudle and Secretary Pete Hegseth, dismissed reports as “fake news” and failed to act, prompting a family town‑hall that highlighted morale, safety, and multiple overboard incidents, including a sailor who spent an hour in the water before rescue and whose wife was not informed until days later.",
+    "Hegseth’s defense of the carrier’s conditions—claiming every ship has “everything we can provide” while the Navy’s $300 billion budget could support adequate resupply—has been criticized as a cover for neglect, with calls for Hegseth, Caudle, and acting Secretary Hung Cao to visit the Lincoln and address the crew’s grievances."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260814121457.3.c31def08b876512b@mg-d1.substack.com",
+   "newsletter": "Sarah, Tim and JVL—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Good Fight Tour Is Coming",
+   "date": "2026-08-14T05:14-07:00",
+   "url": null,
+   "bullets": [
+    "The Good Fight Tour will tour Columbia, SC (Oct 16), Charlotte, NC (Oct 18), and Atlanta, GA (Oct 20) featuring Sarah, Tim, JVL, Sam, and surprise guests, with tickets selling Aug 21 and Bulwark+ members getting a presale on Aug 18.",
+    "Bulwark+ members receive early access to Bulwark LIVE events and a pre‑sale code via email on Tuesday, while Founders and Best Friends can attend a pre‑show meet‑and‑greet with the gang.",
+    "In September, Sarah and friends will hold a “How to Eat an Elephant” book tour in Washington, D.C., New York, Boston, Los Angeles, San Francisco, Chicago, and Kenyon College, with tickets already on sale."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260814110548.3.d039ba59d87e79e4@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "First Draft: Did Israel Fake the Iran Threats Against Trump’s Life?",
+   "date": "2026-08-14T04:05-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/did-israel-fake-the-iran-threats",
+   "bullets": [
+    "Reuters and the Washington Post reported that U.S. officials consider recent Iranian assassination threats against Trump, which originated from Israeli intelligence, to be low‑confidence and unverified.",
+    "The alleged threat prompted Trump to secretly abandon Air Force One in Ankara, hide in a catering truck with Natalie Harp, and board an alternate plane to London, according to the Washington Post."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260814103052.3.4997b2229d499694@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Case for a Medicare Buy-In Option",
+   "date": "2026-08-14T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-case-for-a-medicare-buy-in-option",
+   "bullets": [
+    "Krugman argues that while the U.S. already funds about two‑thirds of health care through government, private insurers add net negative costs via administration and fraud, making a Medicare buy‑in a pragmatic step toward universal coverage.",
+    "He notes Medicare enjoys an 82% approval rating, suggesting a public‑option framed as a Medicare expansion could overcome voter distrust of both insurers and big government, despite the political power of insurers and drug companies.",
+    "A Medicare buy‑in would let individuals and employers purchase actuarially fair Medicare coverage, reducing administrative costs and creating a “rump” private market that could later transition to full single‑payer."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260814010105.3.f6c0c0848dab4231@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Karoline Leavitt at Her Worst: Lies and Abuse From the Podium",
+   "date": "2026-08-13T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/karoline-leavitt-at-her-worst-lies",
+   "bullets": [
+    "Karoline Leavitt, former White House Press Secretary, is accused of repeatedly spreading falsehoods and verbally attacking journalists, including claims about Gaza condoms and DEI‑caused plane crashes.",
+    "The newsletter cites specific alleged lies: her alleged friendliness with Jeffrey Epstein, the deportation of Maryland father Kilmar Abrego Garcia, and other unfounded statements.",
+    "Leavitt has announced her departure from the White House, and the piece links to a short video summarizing her most controversial remarks."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260814002736.3.87a616cc3e86d27f@mg-d0.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Gift to the Money Launderers",
+   "date": "2026-08-13T17:27-07:00",
+   "url": null,
+   "bullets": [
+    "The Treasury announced it will destroy the government’s anti‑corruption shell‑company registry and all data collected under the Corporate Transparency Act, effectively erasing ownership records for law‑enforcement use.",
+    "Former Rep. Tom Malinowski warned the move is akin to deleting the FBI’s fingerprint database, leaving sex traffickers, drug cartels and money‑launderers free to operate unchecked.",
+    "Since Trump’s return, his administration has paused the Foreign Corrupt Practices Act, exempted 99% of companies from ownership disclosure, and made the data‑destruction rule permanent, despite bipartisan support for the original law."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260813212543.3.4a14a0207f42ab67@mg-d0.substack.com",
    "newsletter": "Mehdi Unfiltered",
@@ -5236,134 +5349,10 @@
     "The author argues the plan was never realistic because no major powers—China, Europe, Indo‑Pacific allies—reacted, indicating the proposal was detached from maritime law and international feasibility"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260714150052.3.d0696d45337a83e3@mg2.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Pete Buttigieg: Time for Radical Change",
-   "date": "2026-07-14T08:00-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/pete-buttigieg-time-for-radical-change",
-   "bullets": [
-    "Pete Buttigieg wants radical institutional changes",
-    "He proposes expanding SCOTUS and the House",
-    "Buttigieg is stumping for candidates in Fox News areas"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260714140509.3.31df5e63b06d9746@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "‘Major U.S. Escalation’ Against Iran Soon, Experts Tell Zeteo",
-   "date": "2026-07-14T07:05-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/major-us-escalation-against-iran",
-   "bullets": [
-    "Trita Parsi expects a major US escalation against Iran soon",
-    "Iranian Foreign Minister Abbas Araghchi mocked Trump's 20% toll demand",
-    "Rami Khouri calls the Lebanon-Israel peace deal a neo-colonial affirmation"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260714133228.3.7f1d21e2e770399d@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Keeps Bombing, Nothing Keeps Changing.",
-   "date": "2026-07-14T06:32-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/trump-keeps-bombing-nothing-keeps-changing-iran-hormuz-strait-oil-ukraine-russia",
-   "bullets": [
-    "Trump’s “participation trophy” at the National Mall is a 10‑foot monument to his Iran war, installed by an anonymous protest‑art group near the MLK Memorial.",
-    "Mark Hertling argues that U.S. military superiority over Iran is offset by Iran’s ability to disrupt shipping, energy markets, and U.S. bases, creating a mission‑creep scenario where punishment does not equal coercion.",
-    "William Kristol uses Burke’s idea of a “lovely” country to critique ICE killings and the failure of Todd Blanche to seek justice for Epstein survivors, calling for congressional action."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260714111834.3.e343ea9f3e736dfd@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Trump's Stunning Admission About CNN",
-   "date": "2026-07-14T04:18-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/trumps-stunning-admission-about-cnn",
-   "bullets": [
-    "Trump admitted on live TV that the FCC’s approval of Paramount Skydance’s acquisition of CNN was part of a corrupt plan to make the network more MAGA‑friendly, citing pro‑Trump billionaire David Ellison’s promises to change CNN’s coverage and lineup, including hiring Bari Weiss to overhaul the network’s news programs.",
-    "The author argues that Democrats are outgunned in today’s information war because pro‑Trump billionaires own major media outlets and social platforms, and urges Democrats to invest in independent, pro‑democracy media infrastructure rather than traditional TV to compete effectively."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260714110933.3.9dbcc28345f1ae4e@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "‘You Took Her Dad’: ICE Kills Maine Man in Front of Daughter in Bluey Pajamas",
-   "date": "2026-07-14T04:09-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/you-took-her-dad-ice-kills-maine",
-   "bullets": [
-    "ICE agents in Biddeford, Maine, shot and killed 26‑year‑old Colombian immigrant Joan Sebastian Guerrero, who had work authorization and a Social Security number, after a chaotic confrontation that the agency later described as a “fleeing” attempt and a “weaponized” vehicle claim.",
-    "Maine Senator Angus King revealed that DHS Secretary Markwayne Mullin admitted Guerrero was not the target of a warrant, and the department subsequently altered its narrative to justify the shooting as a response to a perceived threat to public safety.",
-    "The incident underscores ongoing controversies over ICE enforcement tactics under the Trump administration, amid broader criticism of the agency’s use of force and the administration’s handling of immigration policy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260714103011.3.a873d8a229903709@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Suddenly, Hormuz is Less Crucial Than It Was",
-   "date": "2026-07-14T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than",
-   "bullets": [
-    "Trump’s brinkmanship over the Strait of Hormuz has limited impact on oil markets because global refining capacity, not crude supply, is the bottleneck, driven by a 10% loss from Russian refinery attacks linked to the Ukraine war.",
-    "Even though crude prices fell near pre‑war levels, consumer‑facing gasoline and diesel prices remain about $75 per barrel due to refinery shortages, keeping demand low and inflation sticky.",
-    "The brief Hormuz crisis illustrates how U.S. policy driven by Trump’s vanity adds geopolitical risk without altering the underlying supply‑demand dynamics shaped by the Russia‑Ukraine conflict."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260714090156.3.0f88bc6705f4e5d1@mg-d1.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Artificial Bloom",
-   "date": "2026-07-14T02:01-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/artificial-bloom",
-   "bullets": [
-    "Bloom Energy’s solid‑oxide fuel cells promise cheap, clean power from US natural gas, but their growth hinges on scarce scandium, a rare‑earth largely supplied by China.",
-    "Short‑seller Hunterbrook traced four China‑linked scandium supply routes, arguing Bloom’s plan for 25 GW of cells would require multiples of global scandium output, making its expansion unrealistic.",
-    "Bloom rebutted in an SEC 8‑K, claiming sufficient non‑Chinese scandium supply and visibility to meet current and future demand, though skeptics note the claim’s credibility remains unproven."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260714090153.3.d674e97d2a07e435@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "LIVE IN LONDON! Get Tickets for Zeteo UK’s Launch Event with Mehdi and Zack Polanski",
-   "date": "2026-07-14T02:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/live-in-london-get-tickets-for-zeteo",
-   "bullets": [
-    "Zeteo UK, the fastest‑growing new Substack in its first 30 days, will host a live launch on 14 September at the Barbican Centre featuring an interview with Green Party leader Zack Polanski and a Q&A on Labour’s prospects, Green influence, Reform UK, Middle‑East politics and Donald Trump",
-    "Subscribers receive early ticket access before the public release on 20 June, with paid subscribers and Founding Members getting a 20% discount and a bundle subscription option for future UK events"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260714083024.3.bd5b63a336dfff4d@mg-d1.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Cyclospora keeps climbing, a bad West Nile season, truck spraying, and good news",
-   "date": "2026-07-14T01:30-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/cyclospora-keeps-climbing-a-bad-west",
-   "bullets": [
-    "Cyclospora cases are surging, with Michigan reporting 2,640 cases—31 times the usual level—and investigators suspect lettuce or packaged salads, so avoid bagged greens until more data emerge",
-    "The CDC has flagged an unusually early West Nile virus spike—48 cases across 23 states, over five times the historical average for this time—prompting mosquito‑control trucks to spray, which studies show poses minimal health risk",
-    "Over 341,000 public comments were submitted on the OMB’s proposed rule that could undermine U.S. science, marking an unprecedented response before the comment period closed"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 71,
-  "total": 388
+  "shown": 72,
+  "total": 387
  }
 }
