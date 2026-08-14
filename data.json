@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T08:28-07:00",
+ "updated": "2026-08-13T17:03-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -50,6 +50,60 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260813212543.3.4a14a0207f42ab67@mg-d0.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Did COVID-19 Actually Come From a Lab? Two Top Scientists Debate Its Origins",
+   "date": "2026-08-13T14:25-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/lab-leak-covid-jha-rasmussen",
+   "bullets": [
+    "Dr. Angela Rasmussen argues the virus most likely originated zoonotically, citing her own research that supports natural spillover over a lab accident.",
+    "Dr. Ashish Jha, former Biden COVID‑19 response coordinator, now backs the lab‑leak hypothesis, explaining why his view shifted after reviewing new evidence.",
+    "The segment also critiques Republican exaggeration of the lab‑leak claim and assesses U.S. pandemic preparedness, with a 46‑minute full debate available to subscribers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260813185047.3.4c78e7fa5099c895@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Charlie Kirk Murder Business Gets Its Crassest Spectacle Yet",
+   "date": "2026-08-13T11:50-07:00",
+   "url": null,
+   "bullets": [
+    "Candace Owens and Andrew Wilson are set to debate the Charlie Kirk assassination on Friday, with Owens poised to earn $300,000 if the event proceeds, despite pending smoking‑policy negotiations",
+    "The Kirk murder has sparked a MAGA civil war and unrest within Turning Point USA, fueling a lucrative “Super Bowl of Charlie murder content” that media figures are exploiting for profit"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260813170606.3.3c1a8cb9294e6743@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Cheating Is All Trump Knows",
+   "date": "2026-08-13T10:06-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/cheating-is-all-trump-knows",
+   "bullets": [
+    "Trump claimed a two‑under‑par 70 at his Bedminster club, calling it a “40 Club Championship,” but senior golfers and writer Rick Reilly say an 80‑year‑old with his swing can’t plausibly shoot ten shots under his age, implying cheating.",
+    "Conservative journalist Scott McConnell, a Trump club member, publicly called the win “cheating,” suggesting Trump’s false golf bragging reflects a broader pattern of dishonesty in his political and business claims.",
+    "The newsletter uses the golf scandal to argue that Trump’s penchant for fabricating achievements on the course mirrors his overall compulsion to cheat in politics, the economy, and deal‑making."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260813164708.3.17e6989bd9e8676b@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Great Burrito Discourse Isn’t Actually About Burritos",
+   "date": "2026-08-13T09:47-07:00",
+   "url": null,
+   "bullets": [
+    "Republican influencers’ outrage over a $20 burrito split into three camps—America First blame Biden/neocons, pro‑Trump conservatives mock ‘snowflake’ complaints, and anti‑anti‑Trumpers argue the price is inflated by delivery fees—but the debate masks deeper concerns about housing affordability.",
+    "The author argues that today’s young adults face unaffordable home prices far beyond past generations, forcing them into a consumerist trap of cheap tech and food while the traditional wealth‑building path of homeownership collapses."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260813132242.3.fc8731d5b0f7612c@mg-d0.substack.com",
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
@@ -113,10 +167,11 @@
    "date": "2026-08-12T18:01-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/bernie-sanders-joins-mehdi",
    "bullets": [
-    "After a night of progressive wins, Senator Bernie Sanders joins ‘Mehdi Unfiltered’ for the first time to share his reactions to the major primary victories of multiple Democratic socialists this election cycle, including Abdul El-Sayed’s “h…",
-    "“The Democratic leadership is, in many respects, way, way out of touch with where ordinary people are,” Sanders tells Mehdi, adding that the country’s “corrupt campaign finance system” might be starting to backfire on the Super PACs pouring…"
+    "Bernie Sanders praises recent primary wins of Democratic socialists like Abdul El‑Sayed in Michigan, criticizes Democratic leadership and the corrupt campaign‑finance system that fuels Super PACs",
+    "He says aid‑to‑Israel should be a litmus test for Democratic presidential candidates and rebuffs criticism for focusing on Netanyahu over Israel’s broader occupation",
+    "Sanders attacks John Fetterman’s Fox appearances that disparage him, while the interview is available as a 2‑minute preview for free and full video for paid subscribers"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260813000011.3.2cdc7b977d097856@mg-d0.substack.com",
@@ -5305,64 +5360,10 @@
     "Over 341,000 public comments were submitted on the OMB’s proposed rule that could undermine U.S. science, marking an unprecedented response before the comment period closed"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260714000107.3.05493f46eced48bf@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "'No More Wars?' Mehdi Challenges Top Trump Ally Over the 'Erratic' President's Betrayal on Iran",
-   "date": "2026-07-13T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/no-more-wars-mehdi-challenges-top",
-   "bullets": [
-    "Mehdi accuses Trump of breaking his 2024 campaign promise of “no more wars,” citing Trump’s own words and arguing the president’s recent Iran rhetoric is a dangerous, illegal war revival.",
-    "He confronts Piers Morgan on Trump’s alleged “exit ramp” strategy, claiming escalating conflict is unwise, and criticizes mainstream media for hagiography of deceased figures while ignoring Senator Lindsey Graham’s alleged bloodshed."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260713233119.3.0695bec7e6fd4202@mg-d0.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Lindsey Graham Conspiracy Theories Are Already Running Wild",
-   "date": "2026-07-13T16:31-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/the-lindsey-graham-conspiracy-theories-are-already-running-wild",
-   "bullets": [
-    "Right‑wing activists Laura Loomer, Matt Van Swol, and columnist Marc Thiessen spun Senator Lindsey Graham’s aortic‑dissection death into conspiracies about Russian or Iranian assassinations, despite his long‑standing blood‑pressure issues.",
-    "Billionaire Bill Ackman and former CBS reporter Lara Logan joined the speculation, with Ackman deleting a tweet questioning the death’s plausibility and Logan hunting numerological clues in Trump’s posts.",
-    "The episode illustrates how, in 2026’s MAGA‑driven online sphere, any unexpected event—like a 71‑year‑old senator’s natural death—is immediately reframed as evidence of hidden plots, echoing academic Michael Barkun’s claim that conspiracists reject coincidence."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260713183016.3.65d28bd581af9474@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "When Will Democrats Learn the Importance of a Good Fight, Not Just a Good Policy?",
-   "date": "2026-07-13T11:30-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/when-will-democrats-learn-the-importance",
-   "bullets": [
-    "Democrats have repeatedly failed to win elections by focusing on good policy and compromise, assuming voters reward virtue; Obama’s own admissions show a lack of effective messaging and storytelling.",
-    "The Biden administration’s risk‑averse, incremental approach—seen in weak labor enforcement, cautious green‑energy funding, and delayed Jan. 6 investigations—illustrates a broader Democratic fear of taking bold, confrontational actions.",
-    "Citing a study of 48 former officials, the author argues that Democrats’ reluctance to “pick the fights worth having” stems from a misplaced belief that the political center will reward centrism, a mindset that has cost them political power."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260713163507.3.cd969cbdde8bb875@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Lindsey Graham: The Good, the Bad, and the Banality of Evil",
-   "date": "2026-07-13T09:35-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/lindsey-graham-the-good-the-bad-and",
-   "bullets": [
-    "Democratic figures, including Amy Klobuchar, praised Lindsey Graham as a devoted, energetic senator who embraced tough issues and remained loyal to friends and causes.",
-    "The author acknowledges the heartfelt tributes but warns that Graham’s death should also prompt harsher, more rigorous political analysis."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 73,
+  "shown": 71,
   "total": 388
  }
 }
