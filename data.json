@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T08:12-07:00",
+ "updated": "2026-08-14T16:43-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -53,6 +53,46 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260814210207.3.e7c06cf6c5d6f130@mg-d0.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 82: A Decoy Plane, ICE’s Electric Gloves, and Government Fascists Investigate the Le…",
+   "date": "2026-08-14T14:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-82-a",
+   "bullets": [
+    "The Washington Post revealed Trump used a decoy Air Force One flight, leaving officials like Marco Rubio and Stephen Miller as human shields while he escaped an alleged Iranian assassination threat that U.S. officials could not verify.",
+    "ICE plans to spend up to $20 million on electric‑shock gloves for agents, despite manufacturer warnings they not be used on children, pregnant people, or the elderly/disabled.",
+    "The Department of Homeland Security launched a sweeping investigation into unrelated left‑wing groups after the killing of Alex Pretti, infiltrating Signal chats and obtaining financial records."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260814191234.3.6b0ea58b91b9eb94@mg-d0.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "‘The End of Oak Street’ Is the Weirdest Big Movie of the Year",
+   "date": "2026-08-14T12:12-07:00",
+   "url": null,
+   "bullets": [
+    "The End of Oak Street is a movie from another time. I mean this both literally and figuratively. In the literal sense, The End of Oak Street is about a street that is transported back in time. We open on an unhappy family at a block party s…",
+    "Their kids, Audrey (Maisy Stella) and Brian (Christian Convery) are like the kids of so many 1980s movies: not nearly as oblivious as their parents seem, but hopeful life can revert to normal. Though everyone’s confusion may be amplified by…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260814152118.3.71e29c59af4cce3f@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "The U.S. Owes Afghanistan a Reckoning – But It Refuses to Have One",
+   "date": "2026-08-14T08:21-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-us-owes-afghanistan-a-reckoning",
+   "bullets": [
+    "The author argues that Western media has ignored rural Afghanistan, focusing on Kabul’s elite while U.S. drone strikes and death squads devastated villages, fueling radicalization.",
+    "He contends the post‑withdrawal narrative paints the U.S. as a benevolent patron betrayed by the Taliban, obscuring the American‑backed violence that enabled the Taliban’s return."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260814145231.3.12562eb395ed82f7@mg2.substack.com",
    "newsletter": "Adrian Carrasquillo",
@@ -5308,51 +5348,10 @@
     "Tim references his interview with Pete Buttigieg and welcomes Josh Shapiro’s decision to avoid intra‑Democratic conflicts."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260714213220.3.19d844fab7a51214@mg2.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "ICE’s New Permanent Family Separation: Killing Latino Fathers",
-   "date": "2026-07-14T14:32-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/unimaginable-horror-facing-latino-fathers-johan-guerrero",
-   "bullets": [
-    "ICE agents shot 26‑year‑old Johan Sebastián Durán Guerrero in Biddeford, Maine, claiming public‑safety concerns despite his legal work status and presence of his 3‑year‑old daughter at the scene.",
-    "The shooting mirrors the recent killing of Lorenzo Salgado Araujo; both victims were fathers, agents lacked body‑cameras despite a $20 million congressional allocation, and a new recruit fired the shots.",
-    "Latino leaders and activists, including Rep. Joaquin Castro and influencer Carlos Espina, condemn the killings as state‑sanctioned violence targeting community providers and demand accountability."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260714191241.3.825248d85a543e85@mg-d0.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "\"I Saw Terrorization of the Palestinians\": U.S. Congressman Detained by Settlers",
-   "date": "2026-07-14T12:12-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/i-saw-terrorization-of-the-palestinians-says-ro-khanna-detained-settlers",
-   "bullets": [
-    "California Congressman Ro Khanna was detained by Israeli settlers and soldiers during a Palestinian‑led West Bank visit, describing the experience as “terrorization of the Palestinians.”",
-    "Khanna says the detention sparked bipartisan attacks and criticism, accusing U.S. ambassador Mike Huckabee of failing to protect American citizens and fearing his trip will set a precedent for others.",
-    "He explains his shift from pro‑Israel views, refuses to endorse a full arms embargo on Israel, and notes Elon Musk threatened to sue him over related legislation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260714165611.3.459d7adfa990d073@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Emperor’s Tollbooth",
-   "date": "2026-07-14T09:56-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/the-emperors-tollbooth-strait-hormuz-toll-trump-iran",
-   "bullets": [
-    "Trump announced a 20% toll on all cargo through the Strait of Hormuz, then retracted it hours later, proposing vague “investments” from Gulf states instead, a move the author calls an act of war and evidence of presidential madness",
-    "The author argues the plan was never realistic because no major powers—China, Europe, Indo‑Pacific allies—reacted, indicating the proposal was detached from maritime law and international feasibility"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 72,
+  "shown": 70,
   "total": 387
  }
 }
