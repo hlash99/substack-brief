@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T07:43-07:00",
+ "updated": "2026-08-15T16:40-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -49,6 +49,34 @@
  },
  "items": [
   {
+   "id": "20260815204120.3.1d98a5826c42f927@mg2.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "American Stasi",
+   "date": "2026-08-15T13:41-07:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark is promoting a live comedy show in NYC on Sept 8 with remaining balcony seats and promising a “nuts” surprise if it sells out; Bulwark LIVE tour tickets for SC, NC, and Atlanta go on sale Aug 21 with an exclusive presale for members on Aug 18.",
+    "Trump is seeking to have his name placed on the Kennedy Center again, while former DHS agent Karoline Leavitt is moving to the private sector, raising concerns about her misinformation role; JVL highlights a DHS‑linked murder of Alex Pretti that spurred extensive investigations into liberal activist groups in Minnesota.",
+    "Sarah’s earlier prediction about the Wisconsin Democratic primary proved correct, and the newsletter teases upcoming commentary on Bernie, AOC, and a members‑only Secret Podcast episode with JVL and Sarah."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260815170134.3.938b31acb1058fba@mg-d0.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: Israel Shoots 13-Year-Old as She ‘Memorized the Quran’ and Settlers Besiege Palestinian Fa…",
+   "date": "2026-08-15T10:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israel-shoots",
+   "bullets": [
+    "U.S. Ambassador Mike Huckabee condemned settlers besieging a Palestinian‑American home as “Israeli terrorists” but simultaneously called them “illegal trespassers” and defended most settlers, raising questions about the weight of his rebuke.",
+    "This week Israel killed a 13‑year‑old girl allegedly while she was memorizing the Quran, and an Israeli official suggested using Palestinian bodies as bargaining chips, while Netanyahu rejected Donald Trump’s Gaza plan.",
+    "The newsletter links multiple recent incidents of settler violence, including attacks in Taybeh and the beating‑to‑death of Palestinian American Sayfollah Musallet, noting a lack of accountability."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260815130303.3.a8c76dc13f9edc26@mg-d1.substack.com",
    "newsletter": "The Substack Post",
    "pub": "post",
@@ -70,10 +98,11 @@
    "date": "2026-08-15T05:30-07:00",
    "url": null,
    "bullets": [
-    "A NEW MAGA ATTACK on Abdul El-Sayed is making the rounds. This one is about his tenure as public health director in Detroit, and how he supposedly oversaw an animal control unit that was rife with abuse and cruelty. The unit was a “slaughte…",
-    "Not spin. Not shading of the truth. Total, utter nonsense—the kind that tells the very opposite of the actual story. As it happens, that actual story is politically relevant. There really were big problems with animal control in Detroit. Bu…"
+    "During Abdul El‑Sayed’s 16‑month tenure as Detroit public health director, the animal‑control “save” rate rose from about 26% in 2015 to roughly 60% in 2016 and approached 70% by 2017, according to animal‑rights expert Melissa Miller.",
+    "El‑Sayed inherited a dilapidated, euthanasia‑heavy shelter, appointed Miller as director, and quickly instituted adoption programs and infrastructure fixes that cut euthanasia rates and improved conditions, earning praise from Mayor Mike Duggan.",
+    "Right‑wing outlets like the Daily Mail and Fox News spread a false smear claiming El‑Sayed ran a “slaughterhouse,” but the underlying data and interviews show he transformed a dysfunctional department rather than created it."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260815122221.3.e9ca5cc82bc750a9@mg-d0.substack.com",
@@ -95,10 +124,11 @@
    "date": "2026-08-15T05:02-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/7-things-about-afghanistan-the-us",
    "bullets": [
-    "Five years ago today, as the U.S. hurried to bring an end to its longest war and Afghanistan’s government collapsed, Taliban fighters swept [ https://substack.com/redirect/2ac6c765-6c32-4ddf-a1c3-4769c6cd054d?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwai…",
-    "But for Afghans, Aug. 15, 2021 was far from the end of the story. In the five years since the Taliban recaptured power, hundreds of thousands promised pathways to the U.S. have remained stranded; the Taliban has systematically pushed women …"
+    "The U.S. evacuated over 120,000 Afghans in August 2021, but hundreds of thousands of promised resettlement cases remain in limbo five years later.",
+    "Since the Taliban takeover, women and girls have been systematically excluded from public life, international aid has collapsed, and hunger rates have surged dramatically.",
+    "Millions of Afghan refugees have been forced to return, and the country has re‑emerged as a flashpoint for regional conflict despite global attention moving on."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260815113118.3.35855cba8ff467c0@mg-d1.substack.com",
@@ -5269,66 +5299,10 @@
     "Civil‑rights lawyer Maya Wiley argues Congress must enact stronger oversight and accountability measures for ICE, questioning whether the civil‑rights movement can still advance under the current administration."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260715233058.3.2a0a874802bb4cee@mg-d1.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "EXCLUSIVE: Senate Dems’ Top Strategist Outlines His Path to the Majority",
-   "date": "2026-07-15T16:30-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/exclusive-senate-dems-top-strategist-midterms-schumer-platner-michigan-iowa-south-carolina-graham",
-   "bullets": [
-    "JB Poersch, former DCCC executive director and current Senate Majority PAC head, argues Democrats should focus on four Trump‑won toss‑ups—Alaska, Iowa, Ohio, Texas—because strong Democratic candidates exist there.",
-    "He notes Republicans are shifting money to these states, while Democrats see opportunities in high‑profile races like Florida’s Alex Vindman ($16 M raised) and Mississippi’s Scott Colom, plus independent campaigns in Nebraska and Montana.",
-    "Poersch stresses that South Carolina’s seat, opened by Lindsey Graham’s death, could become competitive if a bruising GOP primary weakens the Republican incumbent, making it a key target for the party’s 2024 Senate strategy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260715185028.3.8896627e3cb92a4b@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "‘Explosive Diarrhea’ Outbreak: What You Need to Know",
-   "date": "2026-07-15T11:50-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/explosive-diarrhea-outbreak-what",
-   "bullets": [
-    "A cyclosporiasis outbreak causing severe diarrhea has infected thousands across more than half of U.S. states, with cases still rising and the parasite’s source still unidentified.",
-    "The disease spreads via contaminated food or water—common culprits include raspberries, basil, salad mixes, cilantro, berry mixes, lettuce and snap peas—and is unlikely to be person‑to‑person.",
-    "Officials cite the Trump administration’s cuts to federal health agency funding as a factor hampering tracking and response to the fast‑moving outbreak."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260715183032.3.7995dd0daf59bb66@mg2.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "When You’re Sliding Into First and You Feel You’re Gonna Burst, Read This Story",
-   "date": "2026-07-15T11:30-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/cyclospora-outbreak-interview",
-   "bullets": [
-    "Cyclospora, a single‑celled parasite spread via human fecal contamination of produce, has sickened thousands across 30+ states, with Michigan reporting the most cases.",
-    "Symptoms include weeks‑long watery diarrhea, cramping and dehydration; high‑risk groups (pregnant, children, elderly, immunocompromised) may need antibiotics, while healthy adults can often wait it out.",
-    "Because the source is still unknown, experts advise avoiding pre‑packaged salads and raspberries, washing produce isn’t enough, and cooking to at least 158 °F is the only reliable way to kill the parasite."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260715162204.3.c70fe3a77181139e@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "America’s Death Squads Are Real",
-   "date": "2026-07-15T09:22-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/americas-death-squads-are-real",
-   "bullets": [
-    "Federal agents killed two unarmed men this week—illegal immigrant Lorenzo Salgado Araujo and legal resident Johan Sebastián Guerrero—prompting the author to label the actions as a targeted “death squad” campaign against presumed immigrants.",
-    "The piece argues this marks the first U.S. instance since Jim Crow of state‑sanctioned killings, contrasting it with routine police brutality and warning that insiders often underestimate such crimes against humanity.",
-    "It then recounts a fictional rise of a populist politician who weaponized anti‑drug rhetoric, promising to unleash police and civilian militias to “slaughter” drug users, illustrating how draconian policies can gain mass support."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 67,
-  "total": 386
+  "shown": 68,
+  "total": 384
  }
 }
