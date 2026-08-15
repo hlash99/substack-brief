@@ -1,30 +1,18 @@
 {
- "updated": "2026-08-14T16:43-07:00",
+ "updated": "2026-08-15T07:43-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's administration is facing criticism for its handling of various issues, including its anti-corruption policies and its approach to healthcare, with some arguing that the president's actions are eroding trust in institutions (The Bulwark, Zeteo)",
-   "Concerns about Trump's mental fitness and his tendency to spread misinformation are ongoing, with some pointing to his recent claims about his golf game and his handling of security threats as evidence of his instability (Zeteo, The Bulwark)",
-   "The US is experiencing a shortage of primary care doctors, with over 100 million Americans lacking access to primary care, and the situation is expected to worsen due to a fee-for-service system that prioritizes specialty care (Your Local Epidemiologist)",
-   "Trump's executive order to cut the US childhood vaccine schedule has sparked controversy, with many arguing that it will lead to a decline in vaccination rates and an increase in preventable diseases (Paul Krugman, Jonathan Cohn - The Bulwark)",
-   "The situation in Gaza continues to deteriorate, with patients like Um Mahmoud facing significant challenges in accessing medical care due to Israel's withholding of tax revenues and its restrictions on movement (Zeteo)",
-   "Democratic primary voters are prioritizing electability, with some arguing that this approach is necessary to defeat Republican candidates, while others argue that it may lead to the nomination of more moderate candidates (The Bulwark, Zeteo)"
+   "Trump's administration is facing multiple crises, including a stalled domestic agenda and criticism over its handling of security and corruption concerns (The Bulwark, Zeteo)",
+   "The US is experiencing a surge in missile spending due to Russian and Iranian advances in autonomous drones and ballistic missiles (Citrini, Doomberg)",
+   "Democratic primary voters are prioritizing electability, with a focus on winning the general election (The Bulwark, Zeteo)",
+   "The Trump administration's decision to destroy the government's anti-corruption shell-company registry has been criticized as a gift to money launderers (The Bulwark)",
+   "The US is struggling with housing affordability, with young adults facing unaffordable home prices and a lack of affordable options (The Bulwark, Zeteo)",
+   "The origins of COVID-19 are still debated, with some scientists arguing for a lab-leak hypothesis and others supporting a natural origin (Mehdi Unfiltered)"
   ],
   "by": "groq",
   "ids": [
-   "20260811165006.3.d304e0d5f45f37da@mg2.substack.com",
-   "20260811210245.3.672bee6699c587e5@mg-d0.substack.com",
-   "20260811213304.3.60fd0151463ba1d4@mg-d1.substack.com",
-   "20260812001554.3.afa296d880a30364@mg2.substack.com",
-   "20260812103053.3.9a22da19c32da41d@mg-d1.substack.com",
-   "20260812103111.3.ae28a0ea1ebad1e5@mg-d1.substack.com",
-   "20260812110054.3.10f8a7976b816000@mg2.substack.com",
-   "20260812123817.3.c75e090a37e2f84a@mg-d0.substack.com",
-   "20260812130149.3.c425620189a80d5f@mg2.substack.com",
-   "20260812132341.3.e68cb285459a6f20@mg-d0.substack.com",
-   "20260812133034.3.676f31b750d5bc2d@mg-d0.substack.com",
-   "20260812144123.3.8c27dcf50e34221c@mg-d1.substack.com",
    "20260812150419.3.4888fdd51259eadb@mg-d1.substack.com",
    "20260812160026.3.daf89d25f5aacf6b@mg-d1.substack.com",
    "20260812163252.3.1cf23ceefaf485b4@mg-d0.substack.com",
@@ -47,12 +35,98 @@
    "20260814121457.3.c31def08b876512b@mg-d1.substack.com",
    "20260814133304.3.1b914c834e1b9f88@mg-d1.substack.com",
    "20260814135938.3.24024353fc08453c.unr5hai7@mg1.substack.com",
-   "20260814145231.3.12562eb395ed82f7@mg2.substack.com"
+   "20260814145231.3.12562eb395ed82f7@mg2.substack.com",
+   "20260814152118.3.71e29c59af4cce3f@mg2.substack.com",
+   "20260814191234.3.6b0ea58b91b9eb94@mg-d0.substack.com",
+   "20260814210207.3.e7c06cf6c5d6f130@mg-d0.substack.com",
+   "20260815103119.3.a9900a52bb16184d@mg2.substack.com",
+   "20260815113118.3.35855cba8ff467c0@mg-d1.substack.com",
+   "20260815122221.3.e9ca5cc82bc750a9@mg-d0.substack.com",
+   "20260815130303.3.a8c76dc13f9edc26@mg-d1.substack.com"
   ],
-  "updated": "2026-08-14T08:12-07:00",
+  "updated": "2026-08-15T07:43-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260815130303.3.a8c76dc13f9edc26@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“At some point in the future, something that is currently considered a high-level skill will be the baseline for e…",
+   "date": "2026-08-15T06:03-07:00",
+   "url": "https://post.substack.com/p/at-some-point-in-the-future-something",
+   "bullets": [
+    "The newsletter argues that high‑level skills (e.g., graphic design, culinary expertise) are becoming baseline expectations, driven by AI tools like ChatGPT and template‑based social media content that erode originality.",
+    "It critiques the homogenization of online feeds, noting that Instagram and TikTok reward carousel text‑on‑image formats and unedited, template‑derived videos, leading to a lack of lasting creative impact.",
+    "It includes a cultural piece debunking a journalist’s claim that Japanese curry is the worst, tracing seaweed’s 8,000‑year British history and the 1872 Japanese curry adoption to combat vitamin B1 deficiency, and highlighting seaweed’s potential to supply 100 million tonnes of food by the 2040s."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260815123047.3.90f1831a893192bf@mg-d1.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Debunking MAGA’s Puppy-Killer Smear Against Abdul El-Sayed",
+   "date": "2026-08-15T05:30-07:00",
+   "url": null,
+   "bullets": [
+    "A NEW MAGA ATTACK on Abdul El-Sayed is making the rounds. This one is about his tenure as public health director in Detroit, and how he supposedly oversaw an animal control unit that was rife with abuse and cruelty. The unit was a “slaughte…",
+    "Not spin. Not shading of the truth. Total, utter nonsense—the kind that tells the very opposite of the actual story. As it happens, that actual story is politically relevant. There really were big problems with animal control in Detroit. Bu…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260815122221.3.e9ca5cc82bc750a9@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "How Big Will the Blue Wave Be?",
+   "date": "2026-08-15T05:22-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/how-big-will-the-blue-wave-be",
+   "bullets": [
+    "Dan Pfeiffer questions how many Senate seats Democrats could win in 2024, suggesting a 5‑6 seat gain (e.g., NC, ME, OH, IA, AK, TX) while possibly losing MI; he frames this as a measure of the Blue Wave’s size."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260815120234.3.03d865035292c1f7@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "7 Things About Afghanistan the U.S. Wants You to Forget, Five Years After Kabul Fell",
+   "date": "2026-08-15T05:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/7-things-about-afghanistan-the-us",
+   "bullets": [
+    "Five years ago today, as the U.S. hurried to bring an end to its longest war and Afghanistan’s government collapsed, Taliban fighters swept [ https://substack.com/redirect/2ac6c765-6c32-4ddf-a1c3-4769c6cd054d?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwai…",
+    "But for Afghans, Aug. 15, 2021 was far from the end of the story. In the five years since the Taliban recaptured power, hundreds of thousands promised pathways to the U.S. have remained stranded; the Taliban has systematically pushed women …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260815113118.3.35855cba8ff467c0@mg-d1.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump to SCOTUS: Make Me",
+   "date": "2026-08-15T04:31-07:00",
+   "url": "https://open.substack.com/pub/thebulwark/p/bulwark-book-club-for-september-the",
+   "bullets": [
+    "The newsletter urges readers to volunteer as poll workers, citing Swift’s 2023 article on the nonprofit “Power to the Polls” that recruits volunteers to staff elections amid ongoing shortages.",
+    "It highlights a Jay Nordlinger piece questioning whether Donald Trump truly shot a 70‑stroke round of golf, juxtaposing Trump’s self‑promotion with his legal battles over presidential immunity."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260815103119.3.a9900a52bb16184d@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Vanessa Williamson on Taxes and Democracy",
+   "date": "2026-08-15T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/vanessa-williamson-on-taxes-and-democracy",
+   "bullets": [
+    "Williamson argues taxation is the price of democracy because without sufficient revenue governments cannot act on voters’ preferences, a link traced back to Magna Carta’s consent requirement for extraordinary taxes.",
+    "She notes that high‑tax, high‑freedom societies (e.g., Nordic countries) contradict anti‑tax myths, while authoritarian regimes keep taxes low by relying on non‑tax revenues like resource rents or fines.",
+    "U.S. history shows a shift from a “class tax” on the wealthy and tariff reliance to broad‑based income taxes during WWII, fostering public support for social programs such as Social Security and Medicare."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260814210207.3.e7c06cf6c5d6f130@mg-d0.substack.com",
    "newsletter": "This Week in Democracy",
@@ -75,10 +149,11 @@
    "date": "2026-08-14T12:12-07:00",
    "url": null,
    "bullets": [
-    "The End of Oak Street is a movie from another time. I mean this both literally and figuratively. In the literal sense, The End of Oak Street is about a street that is transported back in time. We open on an unhappy family at a block party s…",
-    "Their kids, Audrey (Maisy Stella) and Brian (Christian Convery) are like the kids of so many 1980s movies: not nearly as oblivious as their parents seem, but hopeful life can revert to normal. Though everyone’s confusion may be amplified by…"
+    "The End of Oak Street, a $70‑million original starring Anne Hathaway and Ewan McGregor, thrusts an 1980s suburban family into a Mesozoic nightmare of dinosaurs, delivering a Spielberg‑style, PG‑13 dinosaur chase that critics compare to Jurassic Park and Mitchell’s suspense work in It Follows.",
+    "The film’s success highlights a shift toward pricey original movies—like Obsession and Backrooms—amid a domestic box‑office boom, arguing such one‑offs are needed to break the superhero franchise dominance.",
+    "In a related industry note, the $50 million theatrical rescue of Coyote vs. Acme after Warner Bros. shelved it illustrates studios’ current strategy of writing off streaming‑first films for tax benefits, prompting indie distributor Ketchup Entertainment to step in."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260814152118.3.71e29c59af4cce3f@mg2.substack.com",
@@ -5250,108 +5325,10 @@
     "It then recounts a fictional rise of a populist politician who weaponized anti‑drug rhetoric, promising to unleash police and civilian militias to “slaughter” drug users, illustrating how draconian policies can gain mass support."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260715141824.3.631b60d3c20f6387@mg2.substack.com",
-   "newsletter": "We're Not Kidding | Zeteo",
-   "pub": "zeteo",
-   "subject": "Mehdi and the ‘Millennial Jon Stewart’ Talk Genocide, Messi, and ‘Bald Fascist’ Stephen Miller",
-   "date": "2026-07-15T07:18-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/adam-friedland-world-cup-israel-stephen-miller",
-   "bullets": [
-    "Mehdi and Adam Friedland discuss a wide range of topics—from Messi’s retirement and Stephen Miller’s rise to fascism, to Adam’s viral interview with Congressman Ritchie Torres and his South African family history—while reflecting on their experiences interviewing defensive politicians.",
-    "The episode includes Adam’s anecdotes about working in an Israeli ambulance service, Trump’s influence on the World Cup, and a contentious moment where Scott Jennings admits he’s a “performer,” plus speculation on whether Adam should run for president.",
-    "Free subscribers can watch a 5‑minute preview of the video, while paid subscribers get full access; the show is also available on Spotify and Apple Podcasts."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260715133023.3.4056dc5d3eca4906@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "They Don’t Care If ICE Kills People",
-   "date": "2026-07-15T06:30-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/they-dont-care-if-ice-kills-people-dhs-immigration-traffic-stop-shootings-trump-triumphal-arch",
-   "bullets": [
-    "ICE has ramped up arrests to ~2,000 a day, killed two civilians (Lorenzo Salgado Araujo and Joan Sebastian Guerrero) without evidence, and agents are unarmed, untrained, and not wearing body cameras, per DHS and local prosecutors.",
-    "The Trump administration fired key ICE officials but secured multi‑year funding and higher arrest quotas, allowing ICE to continue a mass‑deportation regime with no new accountability or transparency measures.",
-    "ICE briefly suspended vehicle stops after the killings, but officials said it was a short‑term review, and President Biden defended ICE as a “great” crime‑fighting tool, indicating no substantive policy change."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260715111132.3.c4b88f0559fdcfb3@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Are Trump and the GOP About to Confirm the Worst Attorney General Ever?",
-   "date": "2026-07-15T04:11-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/are-trump-and-the-gop-about-to-confirm",
-   "bullets": [
-    "Todd Blanche, Trump’s acting attorney general and nominee, faces a Senate Judiciary hearing where Democrats will attack his role in the $10 billion IRS lawsuit, the $1.776 billion “Anti‑Weaponization Fund” for Jan 6 supporters, and his involvement in covering up Jeffrey Epstein files, while Republicans hope to keep the vote alive despite the loss of Lindsey Graham.",
-    "The New York Times obtained emails showing Blanche’s participation in Trump’s “Retribution Campaign,” and a Florida judge rebuked him over the IRS suit, prompting possible ethics complaints and raising concerns among GOP senators like John Cornyn.",
-    "Epstein survivors, including Danielle Bensky, plan to testify, accusing Blanche of betraying victims by blocking investigations and redacting files, intensifying pressure on his confirmation amid a narrow Senate margin."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260715105206.3.67ff308c9168bc64@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Message Box Pro for Your Team",
-   "date": "2026-07-15T03:52-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/bring-your-team-onto-message-box",
-   "bullets": [
-    "Dan Pfeiffer offers a group subscription to Message Box Pro at $45 per person per month (30% off the $65 individual rate) with a two‑seat minimum, targeting political communications teams.",
-    "Pro members receive weekly strategy memos, polling analysis, messaging guidance, and access to a Discord community of congressional staff, campaign operatives, and organizers.",
-    "The service is pitched to communications firms, think tanks, advocacy groups, and campaign teams as a valuable asset for Capitol Hill and state‑level political work."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260715103122.3.8fe1cf896848ccf6@mg-d1.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Top 10 Cyclospora questions",
-   "date": "2026-07-15T03:31-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/top-10-cyclospora-questions",
-   "bullets": [
-    "Avoid bagged, kit, and boxed salads and peel or cook produce; whole lettuce heads are safe if outer 2‑3 layers are removed, and high‑risk groups should also skip raspberries, fresh herbs, onions and snap peas.",
-    "Cooking to an internal 158°F (e.g., sauté spinach 1.5 min) is the only proven way to kill Cyclospora; home freezers aren’t cold enough and microwaving is unreliable.",
-    "The outbreak’s source is still unknown, with Michigan issuing an unusual public warning; states are actively investigating, but federal guidance lagged and public‑health resources are strained."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260715103037.3.8c285e797b2779fc@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Forever War Gets Scary",
-   "date": "2026-07-15T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-forever-war-gets-scary",
-   "bullets": [
-    "Trump’s erratic policy—first proposing a 20% toll on Strait of Hormuz shipping, then demanding foreign investment—has collapsed, leaving only punitive strikes against Iran with no clear strategy.",
-    "Krugman warns the shift from trying to spin a ‘victory’ into outright bombing signals Trump abandoning any electoral advantage, instead preparing disinformation and possible election interference for the November midterms.",
-    "The real danger, Krugman argues, is not the Iranian conflict itself but the president’s willingness to use illegal, destabilizing actions that threaten U.S. democratic institutions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260715004910.3.fc17d5a3ad769dc5@mg-d1.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Sarah's Latest Focus Group Almost Broke JVL's Brain",
-   "date": "2026-07-14T17:49-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/sarahs-latest-focus-group-almost",
-   "bullets": [
-    "JVL notes two recent ICE officer killings, questioning desensitization while the hosts assert they remain outraged.",
-    "They label Trump's aborted plan to toll the Strait of Hormuz as a potential act of war and criticize Todd Blanche and Republican senators.",
-    "Tim references his interview with Pete Buttigieg and welcomes Josh Shapiro’s decision to avoid intra‑Democratic conflicts."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 70,
-  "total": 387
+  "shown": 67,
+  "total": 386
  }
 }
