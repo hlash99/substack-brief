@@ -1,29 +1,18 @@
 {
- "updated": "2026-08-15T16:40-07:00",
+ "updated": "2026-08-16T07:45-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's administration is facing multiple crises, including a stalled domestic agenda and criticism over its handling of security and corruption concerns (The Bulwark, Zeteo)",
-   "The US is experiencing a surge in missile spending due to Russian and Iranian advances in autonomous drones and ballistic missiles (Citrini, Doomberg)",
-   "Democratic primary voters are prioritizing electability, with a focus on winning the general election (The Bulwark, Zeteo)",
-   "The Trump administration's decision to destroy the government's anti-corruption shell-company registry has been criticized as a gift to money launderers (The Bulwark)",
-   "The US is struggling with housing affordability, with young adults facing unaffordable home prices and a lack of affordable options (The Bulwark, Zeteo)",
-   "The origins of COVID-19 are still debated, with some scientists arguing for a lab-leak hypothesis and others supporting a natural origin (Mehdi Unfiltered)"
+   "The GOP is fracturing as Trump‑centric cult politics alienate traditional conservatives and threaten Republican prospects in 2028, with Florida’s primary exposing the rise of extremist factions (The Bulwark, Zeteo).",
+   "A lingering “Trump stall” in the labor market, driven by an aging workforce and reduced immigrant labor, is deepening the U.S. economic slowdown (Paul Krugman).",
+   "U.S. foreign policy blunders are resurfacing, from the ignored humanitarian fallout in Afghanistan to escalating violence and diplomatic contradictions in Israel‑Palestine (Zeteo).",
+   "Democrats are cautiously optimistic about a modest “blue wave” in the 2024 Senate, but structural challenges and potential losses temper expectations (The Message Box).",
+   "AI‑driven content creation is flattening cultural originality, turning once‑high‑skill outputs into generic baselines across social media (The Substack Post).",
+   "The Treasury’s decision to destroy the Corporate Transparency Act database threatens anti‑money‑laundering efforts and could embolden illicit finance networks (The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20260812150419.3.4888fdd51259eadb@mg-d1.substack.com",
-   "20260812160026.3.daf89d25f5aacf6b@mg-d1.substack.com",
-   "20260812163252.3.1cf23ceefaf485b4@mg-d0.substack.com",
-   "20260812194804.3.ac770bb203b5d6a6@mg-d1.substack.com",
-   "20260812230005.3.53b49a90056eed94@mg2.substack.com",
-   "20260813000011.3.2cdc7b977d097856@mg-d0.substack.com",
-   "20260813010100.3.3f216c9f0b8a0d0e@mg-d1.substack.com",
-   "20260813090137.3.935fd4623718ad59@mg2.substack.com",
-   "20260813103106.3.7197e0b541bc2b50@mg2.substack.com",
-   "20260813113322.3.3351e2652e38ec6f@mg2.substack.com",
-   "20260813132242.3.fc8731d5b0f7612c@mg-d0.substack.com",
    "20260813164708.3.17e6989bd9e8676b@mg-d1.substack.com",
    "20260813170606.3.3c1a8cb9294e6743@mg-d0.substack.com",
    "20260813185047.3.4c78e7fa5099c895@mg2.substack.com",
@@ -41,13 +30,61 @@
    "20260814210207.3.e7c06cf6c5d6f130@mg-d0.substack.com",
    "20260815103119.3.a9900a52bb16184d@mg2.substack.com",
    "20260815113118.3.35855cba8ff467c0@mg-d1.substack.com",
+   "20260815120234.3.03d865035292c1f7@mg2.substack.com",
    "20260815122221.3.e9ca5cc82bc750a9@mg-d0.substack.com",
-   "20260815130303.3.a8c76dc13f9edc26@mg-d1.substack.com"
+   "20260815123047.3.90f1831a893192bf@mg-d1.substack.com",
+   "20260815130303.3.a8c76dc13f9edc26@mg-d1.substack.com",
+   "20260815170134.3.938b31acb1058fba@mg-d0.substack.com",
+   "20260815204120.3.1d98a5826c42f927@mg2.substack.com",
+   "20260816102817.3.7ff10215c9279a55@mg-d0.substack.com",
+   "20260816105431.3.20c8a47c5c5a7c9b@mg-d0.substack.com",
+   "20260816130415.3.841371c1514ff94f@mg-d1.substack.com"
   ],
-  "updated": "2026-08-15T07:43-07:00",
+  "updated": "2026-08-16T07:45-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260816130415.3.841371c1514ff94f@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "How ‘Psychopath’ Trump’s Mayhem Will Backfire in 2028 for Republicans",
+   "date": "2026-08-16T06:04-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/how-psychopath-trumps-mayhem-will",
+   "bullets": [
+    "Norm Ornstein argues that despite a law barring Trump from the 2028 ballot, GOP figures like Rubio, Cruz, Vance and Burgum stay silent because the party has become a Trump‑centric cult.",
+    "He warns that soaring inflation and unaffordable healthcare make any alliance with the failing president politically toxic for Republicans.",
+    "Ornstein also blames Newt Gingrich and Mitch McConnell for enabling Trump’s dominance, suggesting they share responsibility for the party’s current crisis."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260816105431.3.20c8a47c5c5a7c9b@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "MAGA’s Future Is in Florida (with Will Sommer)",
+   "date": "2026-08-16T03:54-07:00",
+   "url": null,
+   "bullets": [
+    "Will Sommer and Sarah Longwell analyze Florida’s GOP governor primary, noting a Trump‑endorsed ‘MAGA establishment’ candidate, a flamboyantly racist groyper, and a DeSantis‑aligned contender struggling for traction.",
+    "They discuss how the race reflects the future of Tucker Carlson’s America First faction and growing dissatisfaction among rank‑and‑file Trump voters."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260816102817.3.7ff10215c9279a55@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Demography, Deportations and the Trump Stall",
+   "date": "2026-08-16T03:28-07:00",
+   "url": "https://paulkrugman.substack.com/p/demography-deportations-and-the-trump",
+   "bullets": [
+    "July’s BLS report showed employment fell and earlier months were revised down, confirming economists’ view that the Trump-era job slowdown is a persistent “Trump Stall” rather than a temporary blip.",
+    "Krugman attributes the slowdown to two long‑run forces—aging Baby Boomers exiting the labor force and Trump’s harsh crackdown on immigrant workers, which together cut labor‑supply growth.",
+    "Fewer workers, especially foreign‑born labor that fills low‑skill jobs, mean lower tax revenues and reduced capacity to fund national security, infrastructure, healthcare, and retirees, harming both short‑ and long‑run American welfare."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260815204120.3.1d98a5826c42f927@mg2.substack.com",
    "newsletter": "Sarah and JVL - The Bulwark",
@@ -5232,77 +5269,10 @@
     "It also critiques California Attorney General’s criticism of Bari Weiss’s impact on CBS, suggesting that her presence has harmed the network’s credibility and editorial standards."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260716133950.3.02998e207fefb530@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "All the Dictator’s Men",
-   "date": "2026-07-16T06:39-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/all-the-dictators-men-trump-blanche-clayton-democracy-midterms-elections-2020",
-   "bullets": [
-    "Trump’s approval rating has fallen to 37%, the lowest in 17 years, according to a Times/Siena poll, a new political low for any president in recent history.",
-    "Todd Blanche, Trump’s former personal attorney, testified before the Senate Judiciary Committee that the president’s pardon power is absolute and that the DOJ must comply, reflecting an authoritarian mindset and raising concerns about DOJ independence."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260716131607.3.436de1341b1689d7@mg-d1.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "A personal request",
-   "date": "2026-07-16T06:16-07:00",
-   "url": "https://ossoff.substack.com/p/a-personal-request",
-   "bullets": [
-    "Jon Ossoff urges $26 donations to counter $11 million spent against him, $44 million pledged by GOP Super PAC, and $269 million spent by Republicans in 2020‑21 to defeat him in Georgia.",
-    "He cites a 1.2% margin of victory in 2021 and claims that small contributions like $26 were crucial to that win, urging supporters to replicate that success for a decisive midterm victory."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260716112552.3.51d69af21a6020db@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Democracy in an Age of Powermaxxing",
-   "date": "2026-07-16T04:25-07:00",
-   "url": "https://paulkrugman.substack.com/p/democracy-in-an-age-of-powermaxxing",
-   "bullets": [
-    "Andrew Hall’s email‑fundraising data shows a sharp rise in politicians’ negative mentions of billionaires after the 2025 Trump inauguration, coining the trend “billionaire bashing.”",
-    "The wealth of the 400 richest Americans grew from $92 billion in 1982 to $6.6 trillion in 2025, while workers’ share of national income hit an 80‑year low, linking elite wealth to declining living standards.",
-    "Billionaires now fund roughly 20% of 2024 campaign spending, leveraging Citizens United‑enabled rules to push low‑tax, deregulation, and pro‑billionaire policies that threaten U.S. democracy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260716111850.3.b09b9489b870cf6a@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "🛑 Trump Can’t Quit His Failing Campaign of Terror and Murder",
-   "date": "2026-07-16T04:18-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-cant-quit-his-failing-campaign",
-   "bullets": [
-    "Trump’s administration has resumed aggressive deportations, resulting in at least three deaths this week—including Colombian Joan Sebastián Durán Guerrero in Maine and a 28‑year‑old in Florida—while Republicans claim they’ll curb anti‑immigrant brutality after the midterms but fail to act.",
-    "A coalition of Democrats, including Nancy Pelosi, voted to cut military aid to Israel, marking a rare bipartisan move amid ongoing criticism of U.S. foreign policy.",
-    "The newsletter urges listeners to tune into a 9 p.m. ET primetime address and a follow‑up Zeteo analysis to dissect the president’s anticipated falsehoods."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260716011952.3.7010b855dd06d000@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "ICE Keeps Killing People. Can They Be Held to Account? Legal Expert Weighs In",
-   "date": "2026-07-15T18:19-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/ice-keeps-killing-people-can-they",
-   "bullets": [
-    "ICE officers shot and killed a man in Maine and another in Texas, each time claiming self‑defense, raising concerns about civilian deaths with apparent impunity.",
-    "Civil‑rights lawyer Maya Wiley argues Congress must enact stronger oversight and accountability measures for ICE, questioning whether the civil‑rights movement can still advance under the current administration."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 68,
-  "total": 384
+  "shown": 65,
+  "total": 382
  }
 }
