@@ -1,22 +1,17 @@
 {
- "updated": "2026-08-16T07:45-07:00",
+ "updated": "2026-08-16T16:39-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The GOP is fracturing as Trump‑centric cult politics alienate traditional conservatives and threaten Republican prospects in 2028, with Florida’s primary exposing the rise of extremist factions (The Bulwark, Zeteo).",
-   "A lingering “Trump stall” in the labor market, driven by an aging workforce and reduced immigrant labor, is deepening the U.S. economic slowdown (Paul Krugman).",
-   "U.S. foreign policy blunders are resurfacing, from the ignored humanitarian fallout in Afghanistan to escalating violence and diplomatic contradictions in Israel‑Palestine (Zeteo).",
-   "Democrats are cautiously optimistic about a modest “blue wave” in the 2024 Senate, but structural challenges and potential losses temper expectations (The Message Box).",
-   "AI‑driven content creation is flattening cultural originality, turning once‑high‑skill outputs into generic baselines across social media (The Substack Post).",
-   "The Treasury’s decision to destroy the Corporate Transparency Act database threatens anti‑money‑laundering efforts and could embolden illicit finance networks (The Bulwark)."
+   "Trump’s authoritarian grip is reshaping both U.S. politics and foreign policy, from GOP election subversion efforts (Zeteo) to dubious security maneuvers like a fake Iran threat and a decoy Air Force One flight (Zeteo, This Week in Democracy).",
+   "The Republican Party’s future looks increasingly tied to Trump‑centric cult dynamics, with internal power struggles in Florida’s governor race (The Bulwark) and a looming electoral backlash in 2028 (Zeteo).",
+   "Economic stagnation is being blamed on Trump‑era policies, as labor‑force shrinkage and immigrant worker crackdowns deepen the “Trump Stall” (Paul Krugman) while Democrats eye a modest Senate gain in the 2024 “Blue Wave” (The Message Box).",
+   "U.S. foreign interventions remain controversial, highlighted by forgotten Afghan humanitarian fallout (Zeteo) and ongoing Israeli‑Palestinian violence with mixed U.S. diplomatic responses (Zeteo).",
+   "The Bulwark is mobilizing its audience through live events, comedy shows, and political tours to counteract MAGA narratives and boost civic engagement (The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20260813164708.3.17e6989bd9e8676b@mg-d1.substack.com",
-   "20260813170606.3.3c1a8cb9294e6743@mg-d0.substack.com",
-   "20260813185047.3.4c78e7fa5099c895@mg2.substack.com",
-   "20260813212543.3.4a14a0207f42ab67@mg-d0.substack.com",
    "20260814002736.3.87a616cc3e86d27f@mg-d0.substack.com",
    "20260814010105.3.f6c0c0848dab4231@mg-d1.substack.com",
    "20260814103052.3.4997b2229d499694@mg-d0.substack.com",
@@ -38,12 +33,27 @@
    "20260815204120.3.1d98a5826c42f927@mg2.substack.com",
    "20260816102817.3.7ff10215c9279a55@mg-d0.substack.com",
    "20260816105431.3.20c8a47c5c5a7c9b@mg-d0.substack.com",
-   "20260816130415.3.841371c1514ff94f@mg-d1.substack.com"
+   "20260816130415.3.841371c1514ff94f@mg-d1.substack.com",
+   "20260816210216.3.25d836bba05e4a36@mg2.substack.com"
   ],
-  "updated": "2026-08-16T07:45-07:00",
+  "updated": "2026-08-16T16:39-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260816210216.3.25d836bba05e4a36@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Help Zeteo Defend Democracy From Trump",
+   "date": "2026-08-16T14:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/help-zeteo-defend-democracy-from",
+   "bullets": [
+    "Zeteo’s recent ‘Start The Steal’ series exposed multiple Trump and GOP efforts to subvert the 2024 midterm elections, framing them as a defining moment of American authoritarianism.",
+    "A live town hall and an interview with former Trump lawyer Ty Cobb, who warned democracy may not survive Trump’s attacks, garnered coverage in several major news outlets.",
+    "Zeteo urges readers to become paid subscribers to fund continued investigative reporting on these election‑subversion activities."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260816130415.3.841371c1514ff94f@mg-d1.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -5187,92 +5197,10 @@
     "Recent research shows the Act hurt Western economic growth and job quality, contradicting the administration’s claim that it was merely a neutral economic response."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260716230059.3.58f14c005a8ac535@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "‘My Neighbor Was Murdered by White Supremacists’: Zeteo Reports From Maine on Yet Another ICE Killing",
-   "date": "2026-07-16T16:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/ice-killing-joan-sebastian-guerrero-biddeford-maine",
-   "bullets": [
-    "A memorial in Biddeford, Maine, marks the killing of immigrant Joan Sebastián Guerrero by ICE agents, with locals protesting and demanding accountability.",
-    "The newsletter claims ICE has become an unaccountable paramilitary force under Trump, citing kidnappings, killings on video, and increased federal funding defended by Republicans like Sen. Susan Collins.",
-    "Listeners are invited to a post‑Trump address discussion with Mehdi, Swin, and Rep. Jamie Raskin on Zeteo’s site and YouTube channel."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260716190210.3.3157511fdd8c5d31@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "A Pro-Trump Private Investigator Is Investigating Elections in Georgia",
-   "date": "2026-07-16T12:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/pro-trump-private-investigator-elections-georgia",
-   "bullets": [
-    "The Republican‑led Georgia State Election Board has hired two self‑identified election deniers as taxpayer‑funded investigators, giving them subpoena power to probe alleged 2020 fraud despite no evidence.",
-    "Trump’s false claims that the 2020 election was stolen have convinced most Georgia Republicans, prompting a campaign to sow distrust ahead of the 2024 midterms, especially in Black‑majority Fulton County.",
-    "The newsletter urges listeners to tune in to a Zeteo podcast where Mehdi and Swin dissect Trump’s upcoming primetime address and the ongoing election‑denial strategy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260716190211.3.4278d684ae88b464@mg-d1.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Can This Pseudo-Journalist Destroy American Democracy?",
-   "date": "2026-07-16T12:02-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/can-this-pseudo-journalist-destroy-american-democracy-john-solomon-just-the-news-trump",
-   "bullets": [
-    "Trump’s Thursday primetime address is expected to push false claims—labeling Senators Ossoff and Warnock as fake, declaring a voter‑fraud emergency, and blaming China for the 2020 election—aimed at boosting GOP midterm chances.",
-    "John Solomon, a former Washington Post reporter now a short‑term White House staffer, has long engineered MAGA conspiracy narratives, from the Russia probe to Ukraine and 2020 fraud, using his mainstream‑journalist façade to legitimize them.",
-    "Solomon’s close ties to Trump led to his appointment as a personal representative at the National Archives, enabling him to obtain and later publish declassified FBI files, illustrating his privileged access and role in shaping right‑wing disinformation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260716163833.3.4f1b6cee6ec09f0a@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A Modest Request: Don’t Grow Numb to This",
-   "date": "2026-07-16T09:38-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/a-modest-request-dont-grow-numb-to-this",
-   "bullets": [
-    "The author links three recent incidents—Rep. Ro Khanna and Cameron Kasky’s detention by Israeli settlers, a swatting‑style attack on Pete Buttigieg’s family, and the ICE killings of Lorenzo Araujo in Houston and Joan Sebastian Guerrero in Maine—as evidence of a growing normalization of state‑sanctioned violence."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260716160211.3.8d43f2dace683881@mg2.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "Regret, superstition, and trauma-bonding: two champions on what it’s really like to play in the World Cup",
-   "date": "2026-07-16T09:02-07:00",
-   "url": "https://post.substack.com/p/regret-superstition-and-trauma-bonding",
-   "bullets": [
-    "The 2026 World Cup has been streamed nearly 12 billion times, and former US women’s stars Julie Foudy and Abby Wambach say tournament schedules leave virtually no downtime, forcing them to “shut down” and watch other games or movies to conserve energy.",
-    "Both athletes describe intense external pressure: Wambach tied her performance to livelihood and endorsement deals, while Foudy recalled the 1999 host‑nation pressure and adopted the mantra “pressure is a privilege,” which helped the US win that World Cup.",
-    "They note a distinct post‑tournament “blues” or trauma‑bonding effect, where years of focused training leave athletes feeling lost once the event ends, a reality they now discuss with younger competitors."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260716151331.3.47c27bb11618b007@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Lindsey Graham’s Death Reminded Us What’s Wrong With Mainstream Media",
-   "date": "2026-07-16T08:13-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/lindsey-grahams-death-reminded-us",
-   "bullets": [
-    "Lindsey Graham’s death highlighted the ineffectiveness of Sunday shows, with CNN’s State of the Union and NBC’s Meet the Press offering shallow, self‑serving coverage that merely showcased their hosts’ access to the president.",
-    "The newsletter questions whether broadcast networks will comply with Donald Trump’s demands to air his election‑denial address, implying a potential shift toward partisan propaganda.",
-    "It also critiques California Attorney General’s criticism of Bari Weiss’s impact on CBS, suggesting that her presence has harmed the network’s credibility and editorial standards."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 65,
-  "total": 382
+  "total": 377
  }
 }
