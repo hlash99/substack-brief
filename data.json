@@ -1,22 +1,17 @@
 {
- "updated": "2026-08-17T07:49-07:00",
+ "updated": "2026-08-17T16:42-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s continued political and financial maneuvering—ranging from a bank shutting down his accounts to an OCC‑approved crypto charter—underscores a broader pattern of self‑dealing that fuels both partisan distrust and regulatory scrutiny (Zeteo, The Bulwark).",
-   "The Democratic Party’s internal divisions are tightening, with DNC leaders pushing a new primary calendar while critics warn that fundraising and voter‑protection efforts may fall short, a tension mirrored in Florida’s GOP governor primary where MAGA factions clash (The Bulwark).",
-   "Military readiness is slipping as logistics failures expose a Trump‑era culture of aesthetic priorities over practical supply chains, threatening U.S. naval operations and national security (Paul Krugman).",
-   "Election forecasts for 2024 suggest a modest Blue Wave—potentially 5–6 Senate gains—yet Michigan’s Senate race remains a flashpoint, highlighting the volatility of voter sentiment amid misleading polls (The Message Box).",
-   "The U.S. remains entangled in Afghanistan’s unresolved humanitarian crisis, with lingering resettlement gaps and a narrative that downplays American‑backed violence, complicating post‑withdrawal accountability (Zeteo).",
-   "Across the political spectrum, the rise of AI and template‑driven content is eroding originality, prompting concerns that high‑skill expectations are becoming the new baseline for public discourse (The Substack Post)."
+   "The U.S. military’s dire logistics crisis, from depleted long‑range missiles to failing ship systems, is being blamed on Trump’s erratic directives and is now a top national security concern (Zeteo, Paul Krugman).",
+   "Trump’s authoritarian push is escalating, with aggressive attacks on the press, a bank charter for his crypto firm, and attempts to subvert elections, prompting urgent calls for democratic defense (Zeteo, First Draft, The Bulwark).",
+   "Democratic strategists are warning of a looming blue‑wave shortfall, highlighting tight Senate races in Michigan and the need for volunteer poll workers as the party battles a resurgent GOP (Dan Pfeiffer, The Message Box, Jim Swift).",
+   "Progressive forces are gaining momentum, as Justice Democrats back a new “Squad” of House candidates while internal DSA debates suggest possible Republican manipulation (Mehdi Unfiltered, The Bulwark).",
+   "The future of the Republican Party appears fractured, with Trump‑centric cult dynamics, Florida’s MAGA primary battles, and concerns that his influence will poison the 2028 ticket (Zeteo, Sarah Longwell, The Bulwark)"
   ],
   "by": "groq",
   "ids": [
-   "20260814145231.3.12562eb395ed82f7@mg2.substack.com",
-   "20260814152118.3.71e29c59af4cce3f@mg2.substack.com",
-   "20260814191234.3.6b0ea58b91b9eb94@mg-d0.substack.com",
-   "20260814210207.3.e7c06cf6c5d6f130@mg-d0.substack.com",
    "20260815103119.3.a9900a52bb16184d@mg2.substack.com",
    "20260815113118.3.35855cba8ff467c0@mg-d1.substack.com",
    "20260815120234.3.03d865035292c1f7@mg2.substack.com",
@@ -33,13 +28,57 @@
    "20260817102826.3.d12d6666a9d13a1f@mg2.substack.com",
    "20260817110430.3.f487b6d81d70eead@mg2.substack.com",
    "20260817111151.3.afc08e9ce8c61962@mg-d1.substack.com",
+   "20260817130820.3.285d4ece92c1b899@mg2.substack.com",
    "20260817132718.3.1a591008007e4846@mg-d1.substack.com",
-   "20260817140532.3.d3336faa3859d5c2@mg-d1.substack.com"
+   "20260817140532.3.d3336faa3859d5c2@mg-d1.substack.com",
+   "20260817164611.3.8e199bdb6c07abfb@mg-d1.substack.com",
+   "20260817180651.3.73a660423f809bff@mg2.substack.com",
+   "20260817204943.3.e355e6edfcffaec2@mg-d0.substack.com"
   ],
-  "updated": "2026-08-17T07:49-07:00",
+  "updated": "2026-08-17T16:42-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260817204943.3.e355e6edfcffaec2@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "SCOOP: Trump’s Iran War Has Burned Through Well Over 90% of Key Long-Range Missiles",
+   "date": "2026-08-17T13:49-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/scoop-trumps-iran-war-has-burned",
+   "bullets": [
+    "Zeteo reports that the U.S. war in Iran has exhausted well over 90% of its crucial long‑range missile stockpiles since February.",
+    "President Trump has labeled journalists exposing the depletion as “treason” and has directed the Justice Department to aggressively investigate and hunt down leakers.",
+    "The newsletter argues the weapons shortage and press‑crackdown illustrate how disastrous the Iran conflict has become for the United States."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260817180651.3.73a660423f809bff@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "An update on the ground",
+   "date": "2026-08-17T11:06-07:00",
+   "url": "https://roycoopernc.substack.com/p/an-update-on-the-ground",
+   "bullets": [
+    "The campaign reports that volunteers have knocked on 215,000 doors, called 440,000 voters, and recruited over 16,000 volunteers as the North Carolina Senate race approaches its two‑month deadline.",
+    "Roy Cooper highlights his record expanding Medicaid to hundreds of thousands, protecting families as Attorney General, and now seeks a U.S. Senate seat, urging donations and voter registration ahead of the upcoming vote."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260817164611.3.8e199bdb6c07abfb@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Is the DSA a Republican Psy-Op?",
+   "date": "2026-08-17T09:46-07:00",
+   "url": null,
+   "bullets": [
+    "Hakeem Jeffries told reporters he does not support the Democratic Socialists of America’s agenda, emphasizing he is a Democrat, not a DSA member.",
+    "The author argues the DSA’s national organization is a “false‑flag” operation allegedly run by the Heritage Foundation to sabotage the Democratic Party, suggesting its leaders may be covert moderates like Mamdani."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260817140532.3.d3336faa3859d5c2@mg-d1.substack.com",
    "newsletter": "Pete Buttigieg",
@@ -75,10 +114,11 @@
    "date": "2026-08-17T06:08-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/unbought-and-unbossed-justice-dems",
    "bullets": [
-    "Darializa Avila Chevalier. Claire Valdez. Dr. Adam Hamawy. Donavan McKinney. Chris Rabb. These progressive House candidates all won their Democratic primaries, but they also have something else in common – they were all endorsed by Justice …",
-    "With the midterm elections less than three months away, Justice Democrats’ communications director Usamah Andrabi joins Mehdi to break down what has, so far, been a big year for progressives, and what these victories mean for the future of …"
+    "Justice Democrats endorsed four progressive House primary winners—Darializa Avila Chevalier, Claire Valdez, Dr. Adam Hamawy, Donavan McKinney, and Chris Rabb—signaling a potential new progressive bloc for 2027.",
+    "Usamah Andrabi argues Democratic voters reject endless wars and want unbought leaders, noting AIPAC’s multi‑million‑dollar spending against pro‑Palestinian candidates influences primaries.",
+    "The interview is available in full to paid subscribers, with a three‑minute preview for free readers."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260817111151.3.afc08e9ce8c61962@mg-d1.substack.com",
@@ -5100,106 +5140,10 @@
     "China, responsible for 56% of global coal use and 31% of emissions, is portrayed positively in the report despite flat coal demand and massive solar expansion that likely peaked in 2025."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260717220216.3.d2f82d70d14aaf7d@mg2.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Silver Lining of Trump’s Reheated Election Denialism",
-   "date": "2026-07-17T15:02-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/the-silver-lining-of-trumps-reheated",
-   "bullets": [
-    "Trump claimed China accessed 200 million voter files",
-    "Trump's DOJ is 0-16 in court suits for voter rolls",
-    "Trump may declare national emergency over foreign election interference"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260717220056.3.a69ed119aba3d28a@mg-d0.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 78: Trump Lays the Groundwork to Steal Future Elections",
-   "date": "2026-07-17T15:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-78-trump",
-   "bullets": [
-    "Trump subpoenaed NYT journalists",
-    "A federal judge voided Trump's $1.8 billion IRS settlement",
-    "Trump called for ICE traffic stops to continue despite recent deaths"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260717204015.3.44efc6ae869cab35@mg-d1.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Voters Say JD Vance Gives Them the Willies",
-   "date": "2026-07-17T13:40-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/trump-voters-say-jd-vance-gives-them",
-   "bullets": [
-    "Trump’s latest speech is described as tedious and frightening, with the authors noting that new documents continue to undermine his election claims and expose inconsistencies in his narrative.",
-    "JD Vance’s appearance on Joe Rogan is labeled cringe-worthy, provoking harsh backlash from Trump voters who feel betrayed and angry at his perceived lack of authenticity.",
-    "Democrats missed key opportunities during the Todd Blanche hearing, failing to capitalize on evidence that could have weakened Trump’s influence and credibility."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260717190127.3.bd9024b1ba6b2a28@mg-d0.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why the Paramount-WB Merger Will Be Terrible for Theaters",
-   "date": "2026-07-17T12:01-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/why-the-paramount-wb-merger-will-be-terrible-for-theaters-christopher-nolan-odyssey",
-   "bullets": [
-    "The $110 billion Paramount‑Warner Bros. Discovery merger threatens to close movie theaters by eliminating competition that drives favorable terms and creative output, as warned by California AG Rob Bonta and Cinema United’s Michael O’Leary.",
-    "Regulators rely on a behavioral remedy promising 30 releases per year, but past mergers (e.g., Disney‑Fox, Ticketmaster‑Live Nation) show such promises are often unenforced, risking reduced film supply and higher costs for theaters.",
-    "Sonny Bunch notes Christopher Nolan’s new film The Odyssey, released in 70 mm and IMAX, as part of a “Death Drive Trilogy” that reflects his obsession with self‑destruction, while also highlighting the film’s varied formats and thematic links to his earlier work."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260717174214.3.51e7cb7e2d32d9ec@mg-d0.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Bad air, bad lettuce",
-   "date": "2026-07-17T10:42-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/bad-air-bad-lettuce",
-   "bullets": [
-    "Wildfire smoke has pushed PM2.5 levels in Chicago, Detroit, New York, DC and parts of the West Coast to the world’s worst, raising heart‑attack risk by about 40% at current AQI 160 and making an hour in “purple” air equivalent to smoking half a pack of cigarettes; N95 masks cut related hospitalizations by roughly 30% and HEPA/MERV‑13 filtration is recommended for indoor protection.",
-    "Epidemiologists trace the ongoing Midwest cyclosporiasis outbreak to shredded iceberg lettuce supplied by Taylor Farms, with 90% of Michigan cases reporting recent Taco Bell visits, prompting a precaution to avoid such lettuce (and possibly other produce) in affected states, especially for high‑risk groups."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260717172207.3.71f1c1bc4def3110@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Trump Has Given Us a ‘Golden Age’ – Of Corruption and Cruelty",
-   "date": "2026-07-17T10:22-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/donald-trump-golden-age-corruption-cruelty",
-   "bullets": [
-    "Commerce Secretary Howard Lutnick, Treasury Secretary Scott Bessent and Pentagon’s Pete Hegseth all praised Trump’s administration as a “Golden Age” of prosperity, defense and national greatness, despite evidence to the contrary.",
-    "The author argues Trump’s policies have driven inflation higher, stalled the Iran conflict, resulted in lethal ICE actions against immigrants, and produced costly vanity projects, all while approval ratings sit below 40%.",
-    "Thus, the so‑called Golden Age is actually a period of heightened corruption, cruelty and policy failures, according to the newsletter’s critique."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260717160538.3.dbcdcbfcc45394ef@mg-d0.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "Shoot First, Smear Later",
-   "date": "2026-07-17T09:05-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/shoot-first-smear-later-lorenzo-salgado-araujo",
-   "bullets": [
-    "The FBI, leading the investigation into ICE agent‑shot Lorenzo Salgado Araujo, reported finding eight plastic bags of a white crystal‑like substance in his van, allegedly consistent with methamphetamine, and the warrant application was unsealed unusually quickly.",
-    "The author argues this rapid disclosure mirrors a Trump‑era pattern of smearing victims of immigration enforcement killings by highlighting alleged criminal ties, suggesting the drug find is being used to portray Araujo as a drug dealer rather than an innocent immigrant father."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 68,
-  "total": 377
+  "total": 373
  }
 }
