@@ -1,24 +1,18 @@
 {
- "updated": "2026-08-16T16:39-07:00",
+ "updated": "2026-08-17T07:49-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s authoritarian grip is reshaping both U.S. politics and foreign policy, from GOP election subversion efforts (Zeteo) to dubious security maneuvers like a fake Iran threat and a decoy Air Force One flight (Zeteo, This Week in Democracy).",
-   "The Republican Party’s future looks increasingly tied to Trump‑centric cult dynamics, with internal power struggles in Florida’s governor race (The Bulwark) and a looming electoral backlash in 2028 (Zeteo).",
-   "Economic stagnation is being blamed on Trump‑era policies, as labor‑force shrinkage and immigrant worker crackdowns deepen the “Trump Stall” (Paul Krugman) while Democrats eye a modest Senate gain in the 2024 “Blue Wave” (The Message Box).",
-   "U.S. foreign interventions remain controversial, highlighted by forgotten Afghan humanitarian fallout (Zeteo) and ongoing Israeli‑Palestinian violence with mixed U.S. diplomatic responses (Zeteo).",
-   "The Bulwark is mobilizing its audience through live events, comedy shows, and political tours to counteract MAGA narratives and boost civic engagement (The Bulwark)."
+   "Trump’s continued political and financial maneuvering—ranging from a bank shutting down his accounts to an OCC‑approved crypto charter—underscores a broader pattern of self‑dealing that fuels both partisan distrust and regulatory scrutiny (Zeteo, The Bulwark).",
+   "The Democratic Party’s internal divisions are tightening, with DNC leaders pushing a new primary calendar while critics warn that fundraising and voter‑protection efforts may fall short, a tension mirrored in Florida’s GOP governor primary where MAGA factions clash (The Bulwark).",
+   "Military readiness is slipping as logistics failures expose a Trump‑era culture of aesthetic priorities over practical supply chains, threatening U.S. naval operations and national security (Paul Krugman).",
+   "Election forecasts for 2024 suggest a modest Blue Wave—potentially 5–6 Senate gains—yet Michigan’s Senate race remains a flashpoint, highlighting the volatility of voter sentiment amid misleading polls (The Message Box).",
+   "The U.S. remains entangled in Afghanistan’s unresolved humanitarian crisis, with lingering resettlement gaps and a narrative that downplays American‑backed violence, complicating post‑withdrawal accountability (Zeteo).",
+   "Across the political spectrum, the rise of AI and template‑driven content is eroding originality, prompting concerns that high‑skill expectations are becoming the new baseline for public discourse (The Substack Post)."
   ],
   "by": "groq",
   "ids": [
-   "20260814002736.3.87a616cc3e86d27f@mg-d0.substack.com",
-   "20260814010105.3.f6c0c0848dab4231@mg-d1.substack.com",
-   "20260814103052.3.4997b2229d499694@mg-d0.substack.com",
-   "20260814110548.3.d039ba59d87e79e4@mg-d0.substack.com",
-   "20260814121457.3.c31def08b876512b@mg-d1.substack.com",
-   "20260814133304.3.1b914c834e1b9f88@mg-d1.substack.com",
-   "20260814135938.3.24024353fc08453c.unr5hai7@mg1.substack.com",
    "20260814145231.3.12562eb395ed82f7@mg2.substack.com",
    "20260814152118.3.71e29c59af4cce3f@mg2.substack.com",
    "20260814191234.3.6b0ea58b91b9eb94@mg-d0.substack.com",
@@ -34,12 +28,113 @@
    "20260816102817.3.7ff10215c9279a55@mg-d0.substack.com",
    "20260816105431.3.20c8a47c5c5a7c9b@mg-d0.substack.com",
    "20260816130415.3.841371c1514ff94f@mg-d1.substack.com",
-   "20260816210216.3.25d836bba05e4a36@mg2.substack.com"
+   "20260816210216.3.25d836bba05e4a36@mg2.substack.com",
+   "20260816235237.3.17120f7b95b79fc6@mg-d0.substack.com",
+   "20260817102826.3.d12d6666a9d13a1f@mg2.substack.com",
+   "20260817110430.3.f487b6d81d70eead@mg2.substack.com",
+   "20260817111151.3.afc08e9ce8c61962@mg-d1.substack.com",
+   "20260817132718.3.1a591008007e4846@mg-d1.substack.com",
+   "20260817140532.3.d3336faa3859d5c2@mg-d1.substack.com"
   ],
-  "updated": "2026-08-16T16:39-07:00",
+  "updated": "2026-08-17T07:49-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260817140532.3.d3336faa3859d5c2@mg-d1.substack.com",
+   "newsletter": "Pete Buttigieg",
+   "pub": "petebuttigieg",
+   "subject": "Don’t Let Them Fool You: You are Not Alone",
+   "date": "2026-08-17T07:05-07:00",
+   "url": "https://petebuttigieg.substack.com/p/dont-let-them-fool-you-you-are-not",
+   "bullets": [
+    "Pete Buttigieg argues that labels like “red” oversimplify communities, citing Indiana’s 2008 Obama win and 2023 bipartisan resistance to Trump‑Vance gerrymandering as proof of dynamic political change.",
+    "He claims a growing American majority is ready for reform, urging viewers to join a coalition that could win in the next 80 days, and invites comments on his new video."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260817132718.3.1a591008007e4846@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump ‘Won’ on Tariffs? Lol.",
+   "date": "2026-08-17T06:27-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s tariffs, though widely criticized for harming growth, prices, and manufacturing, have not triggered a global economic collapse, with markets largely shrugging off their impact amid AI‑driven growth and a stalled Iran war.",
+    "Politico’s claim that Trump “won” on tariffs rests on the fact that the most extreme tariffs were abandoned after bond‑market panic and that tech firms importing AI infrastructure largely escaped tariffs, masking broader economic damage.",
+    "The newsletter argues that praising Trump for avoiding catastrophic tariffs is misleading, as the remaining tariffs still hurt the economy while the AI boom and Iran conflict divert attention from these blunders."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260817130820.3.285d4ece92c1b899@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Is a New, Expanded Progressive 'Squad' Coming to Congress in 2027?",
+   "date": "2026-08-17T06:08-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/unbought-and-unbossed-justice-dems",
+   "bullets": [
+    "Darializa Avila Chevalier. Claire Valdez. Dr. Adam Hamawy. Donavan McKinney. Chris Rabb. These progressive House candidates all won their Democratic primaries, but they also have something else in common – they were all endorsed by Justice …",
+    "With the midterm elections less than three months away, Justice Democrats’ communications director Usamah Andrabi joins Mehdi to break down what has, so far, been a big year for progressives, and what these victories mean for the future of …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260817111151.3.afc08e9ce8c61962@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "💰 A Bank Closed Trump Accounts for ‘Anti-Money Laundering Reasons.’ So Now He's Giving Himself… a Bank?",
+   "date": "2026-08-17T04:11-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/a-bank-closed-trump-accounts-for",
+   "bullets": [
+    "Capital One closed over 300 Trump Organization accounts in early August, citing anti‑money‑laundering concerns, while two weeks later the OCC, led by Trump‑appointed Jonathan Gould, gave conditional preliminary approval for a bank charter to Trump’s crypto firm World Liberty Trust.",
+    "Senator Elizabeth Warren called the OCC’s charter approval the “most brazen act of self‑dealing” in U.S. financial history and announced legislation to block such conflicts of interest."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260817110430.3.f487b6d81d70eead@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Thoughts on the Michigan Poll Freaking Out Democrats",
+   "date": "2026-08-17T04:04-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/thoughts-on-the-michigan-poll-freaking",
+   "bullets": [
+    "A new Fox News poll shows Republican Mike Rogers leading Democrat Abdul El‑Sayed by four points in the Michigan Senate race, sparking panic among Democrats who once felt confident about the seat.",
+    "Pfeiffer argues the poll’s crosstabs and El‑Sayed’s historical performance suggest the lead may be misleading and that the Democrat remains competitive despite concerns about his electability.",
+    "He contends that losing Michigan would narrow the Senate path for Democrats, but emphasizes that the poll’s methodology and past trends could still favor El‑Sayed."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260817102826.3.d12d6666a9d13a1f@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Misery Will Continue Until Morale Improves",
+   "date": "2026-08-17T03:28-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-misery-will-continue-until-morale",
+   "bullets": [
+    "Krugman warns that the U.S. military is facing critical shortages, citing depleted precision missiles and dire ship conditions like flooding toilets on the USS Lincoln and lack of basic supplies on the USS Boxer.",
+    "He blames Trump’s erratic, aesthetic‑driven directives—such as demanding new “Trump‑class” battleships and retro‑style carrier modifications—for undermining professional logistics and exacerbating the crisis.",
+    "Krugman argues the broader problem is an emerging authoritarian dynamic where party officials and the Pentagon ignore bad news, allowing incompetence and ego to dominate policy until press coverage forces action."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260816235237.3.17120f7b95b79fc6@mg-d0.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The DNC’s Summer Pep Rally",
+   "date": "2026-08-16T16:52-07:00",
+   "url": null,
+   "bullets": [
+    "DNC chair Ken Martin used the Austin summer meeting to dismiss criticism and project confidence, while senior Democrats like Donna Brazile and Terry McAuliffe urged unity and warned against internal complaining.",
+    "The meeting approved a new 2028 primary calendar—South Carolina first on Jan 22—yet many DNC insiders remain skeptical of Martin’s fundraising, voter‑protection, and primary‑organizing abilities.",
+    "Kamala Harris’s PAC mistakenly backed Alaska Senate candidate Mary Peltola, prompting the campaign to distance itself, highlighting Harris’s limited appeal outside core Democratic states."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260816210216.3.25d836bba05e4a36@mg2.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -5101,106 +5196,10 @@
     "The author argues this rapid disclosure mirrors a Trump‑era pattern of smearing victims of immigration enforcement killings by highlighting alleged criminal ties, suggesting the drug find is being used to portray Araujo as a drug dealer rather than an innocent immigrant father."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260717142708.3.4421681b02b7da10@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "*Tickets!* Join Comedian Mo Amer and Mehdi LIVE in Houston",
-   "date": "2026-07-17T07:27-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/tickets-join-comedian-mo-amer-and-4a3",
-   "bullets": [
-    "Mo Amer and Mehdi will host a live taping of Zeteo’s podcast ‘We’re Not Kidding’ on Friday, Oct. 16 at Houston’s Cullen Performance Hall, covering Mo’s Netflix series, stand‑up, and Israel‑Palestine politics.",
-    "Subscribers get early ticket access before the public sale on July 21, with seats priced $50‑$100 plus taxes and fees.",
-    "The event is sponsored by the Risala Foundation and will include live audience Q&A."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260717132949.3.2ccd749f5b01eee8@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Real Threat to Our Elections Is Donald Trump",
-   "date": "2026-07-17T06:29-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/the-real-threat-to-our-elections-trump-speech-foreign-interference-influence",
-   "bullets": [
-    "Truth Social’s new premium service lets paying users view Donald Trump’s posts milliseconds before the public, a move that could deepen the influence of wealthy donors on the president’s messaging.",
-    "The 2021 National Intelligence Council report found no evidence of foreign actors altering U.S. voting mechanics, but highlighted that Russia and Iran spread false claims to erode public confidence—an approach mirrored by Trump’s own rhetoric.",
-    "Recent polls show only about 38‑39% of likely voters approve of Trump’s performance, with roughly 61% disapproving, and a sharp decline in the percentage who feel better off under his administration, signaling a potential mid‑term backlash."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260717112647.3.11d3343acf0def8f@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Trump Can’t Get No Respect",
-   "date": "2026-07-17T04:26-07:00",
-   "url": "https://paulkrugman.substack.com/p/trump-cant-get-no-respect",
-   "bullets": [
-    "Trump’s speech was a string of false claims, including that America had become the most respected country, despite Pew data showing a sharp decline in global respect for the U.S. and allies reducing dependence on American economic and military support.",
-    "Krugman argues Trump’s boastful rhetoric is a tactic to justify undermining midterm election results and to build a narrative that he is uniquely capable of leading, thereby attempting to erode democratic norms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260717111415.3.ef04779abf9bd020@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Stephen Miller Expands His Apocalyptic War on the Left",
-   "date": "2026-07-17T04:14-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/stephen-miller-expands-his-apocalyptic",
-   "bullets": [
-    "Stephen Miller, deputy White House deputy chief of staff, declared left-wing activism a form of political terrorism, framing it as a national security threat and justifying an all‑out federal crackdown on liberals.",
-    "The newsletter links Miller’s expanded authority to Trump’s broader authoritarian agenda, noting Miller’s role in the harsh immigration deportation campaign that hurt Trump’s poll numbers but kept him in power as the administration’s ‘fascism strategist.’",
-    "It also mentions concurrent issues: Trump’s ongoing election‑fraud falsehoods, rising tensions over Iran and the Strait of Hormuz, and Attorney General Todd Blanche’s meeting with Epstein victims."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260717101411.3.e77c791b7b68b9b3@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Trump's Speech Was Political Malpractice of the Highest Order",
-   "date": "2026-07-17T03:14-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/trumps-speech-was-political-malpractice",
-   "bullets": [
-    "Pfeiffer condemns Trump’s recent speech as incoherent, poorly delivered, and dangerous, calling it the highest order of political malpractice.",
-    "He argues the speech’s aim to frighten Democrats about election subversion actually threatens Republican candidates nationwide."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260717041230.3.47fea70163e937cb@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Trump's Big Speech Was 'Gibberish,' 'Drivel,' 'Horseshit'",
-   "date": "2026-07-16T21:12-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trumps-big-speech-was-gibberish-drivel",
-   "bullets": [
-    "Trump’s White House speech repeated false 2020 election fraud claims and added an unsubstantiated allegation that China flipped votes for Biden, despite briefings that no evidence exists",
-    "Zeteo’s Swin Suebsaeng disclosed upcoming reporting confirming senior staff were told there was no “smoking gun” of Chinese interference, and Congressman Jamie Raskin called the speech gibberish and a self‑debunking attack on the electoral system",
-    "The livestream featured a Q&A on Democratic strategies, including holding Republicans accountable, positions on Israel aid cuts, and ties to AIPAC, with subscriber questions also addressed"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260717001528.3.5b290d57f173b4e0@mg2.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Racist Law From 1882 Is Not That Racist, Trump Says",
-   "date": "2026-07-16T17:15-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/racist-law-from-1882-is-not-that-racist-chinese-exclusion-act-smithsonian",
-   "bullets": [
-    "The White House’s 162‑page Domestic Policy Council report attacks Smithsonian exhibits for acknowledging slave‑holding founders and for a slide showing a butterfly, which officials claim symbolizes illegal‑alien activism.",
-    "The report absurdly defends the 1882 Chinese Exclusion Act, denying its racial motive despite historical evidence that it was explicitly racist and upheld by the Supreme Court as a security measure.",
-    "Recent research shows the Act hurt Western economic growth and job quality, contradicting the administration’s claim that it was merely a neutral economic response."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 65,
+  "shown": 68,
   "total": 377
  }
 }
