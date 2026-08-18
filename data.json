@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T07:57-07:00",
+ "updated": "2026-08-18T16:42-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -40,6 +40,58 @@
  },
  "items": [
   {
+   "id": "20260818231824.3.783f14a79f5db413@mg-d0.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Melania May Be Behind MAGA’s Natalie Harp Freakout",
+   "date": "2026-08-18T16:18-07:00",
+   "url": null,
+   "bullets": [
+    "Former Trump voter recounts seeing a loved one affected by immigration policies he supported, highlighting the personal cost of his political choices.",
+    "Sen. Jon Ossoff’s claim that Trump and Natalie Harp frequently travel together sparks a faux outrage in MAGA circles, exposing intra‑party tensions.",
+    "Florida’s primary is poised to become competitive in the fall, while Pete Hegseth’s Iowa trip raises questions about his candidacy and the state’s influence on the GOP race."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260818180110.3.e71c75799c8357e4@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "The Death of Mainstream Media? Ex-CNN and CBS Journalists Weigh In",
+   "date": "2026-08-18T11:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-death-of-mainstream-media-ex",
+   "bullets": [
+    "He warns that the Washington Post’s financial instability poses a greater threat to democratic discourse than owner Jeff Bezos’s right‑wing politics"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260818165945.3.59dfdf78e469643c@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Between stops: A few of the books I’ve enjoyed",
+   "date": "2026-08-18T09:59-07:00",
+   "url": "https://roycoopernc.substack.com/p/between-stops-a-few-of-the-books",
+   "bullets": [
+    "Cooper notes North Carolina voters are feeling high grocery, gas, and health‑care costs, and he frames his Senate bid as a fight for affordable health care and working‑family protections"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260818162301.3.db9f1cbcb6088a9b@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Cruelty Was Fine Until It Became Personal",
+   "date": "2026-08-18T09:23-07:00",
+   "url": null,
+   "bullets": [
+    "Brent Jindra, a three‑time Trump voter and tech salesman, married Russian immigrant Galina Bobreneva, who was detained after a domestic flight and placed in a Mojave desert internment camp despite not crossing a border.",
+    "The author uses the case to illustrate the hypocrisy of anti‑immigrant rhetoric, highlighting how policies that target “bad” immigrants can turn personal and brutal when applied to ordinary families.",
+    "The piece serves as a warning that cruelty justified by ideology becomes starkly visible when it affects individuals like Brent and Galina."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260818131651.3.c4604c4dcc50fb1e@mg-d1.substack.com",
    "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
    "pub": "thebulwark",
@@ -47,10 +99,11 @@
    "date": "2026-08-18T06:16-07:00",
    "url": null,
    "bullets": [
-    "It’s a tough year to run for governor of a swing state as a Republican. The folks elected this year will supervise their state’s elections in 2028, and many voters reasonably wonder: What did you do last time Donald Trump tried to steal an …",
-    "At least some candidates are plainly feeling the pressure. In 2020, Wisconsin Rep. Tom Tiffany, now Republican nominee for governor, strongly supported Trump’s efforts, backing a lawsuit to overturn the election results and voting against c…"
+    "Wisconsin GOP Gov. candidate Tom Tiffany, who backed Trump’s 2020 election‑overturn efforts, now publicly concedes Biden won and pledges to certify future Wisconsin results, illustrating GOP pivot for electability.",
+    "Former President Trump threatened to bomb Oman after it engaged with Iran over the Strait of Hormuz, despite a 40‑year U.S. partnership that provides strategic ports and diplomatic channels.",
+    "The author warns that such erratic moves—threatening allies, cutting joint exercises, praising adversaries—erode trust, risk alienating partners like South Korea, Japan and Gulf states, and could leave America isolated."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260818112250.3.a0c443121b85e058@mg2.substack.com",
@@ -87,10 +140,11 @@
    "date": "2026-08-18T03:30-07:00",
    "url": "https://yourlocalepidemiologist.substack.com/p/covid-19-and-dengue-creeping-up-vaccinations",
    "bullets": [
-    "As summer winds down, several diseases are winding up, like Covid-19 infections and rare mosquito-borne illnesses. Unfortunately, we can expect the same for vaccine-preventable diseases, according to new CDC data.",
-    "We also have some good news: the approval of a new mRNA flu vaccine. If you’re deciding whether to get it, there is some important nuance for you to consider. Here’s your disease “weather report” and what it may mean for you and your family…"
+    "Covid-19 cases are rising nationwide, with the South and West leading; the CDC expects 10‑15% of the population to be infected this wave and urges high‑risk groups to get vaccinated now",
+    "The first US locally transmitted dengue case was identified in Virginia, signaling that warmer seasons and infected travelers may make such mosquito‑borne illnesses increasingly common, though outbreaks remain unlikely",
+    "Moderna’s mRNA flu shot (mFlusiva) showed 27% higher efficacy than standard flu vaccines in adults 50+, but causes more injection‑site pain, fatigue and headaches; it should be available to those 65+ on Medicare this fall, while broader rollout for 50‑64 remains uncertain"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260818101701.3.fece45aad9f77b8b@mg2.substack.com",
@@ -5136,24 +5190,10 @@
     "He will examine the US progressive tax history, who actually pays high‑end taxes, optimal rates, and proposals for taxing the hyper‑wealthy in upcoming posts."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260718180030.3.72b7242d32376c27@mg-d1.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine – Israel Attacks Funeral as It Escalates Strikes on Gaza",
-   "date": "2026-07-18T11:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israel-attacks-funeral-gaza",
-   "bullets": [
-    "Israeli forces escalated attacks this week, striking a Gaza funeral, demolishing a family home within a 30‑minute window, and killing additional children amid ongoing hospital and police raids",
-    "A U.S. politician witnessed a fragment of the daily Palestinian violence and faced backlash from the pro‑Israel propaganda machine",
-    "Settlers continued assaults on Palestinians on their own land, highlighting the relentless cycle of violence"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 69,
-  "total": 374
+  "total": 377
  }
 }
