@@ -47,10 +47,14 @@ a.subj:hover{color:var(--teal);border-color:var(--teal)}
 .foot{color:#5c7392;font-size:12px;margin-top:34px;line-height:1.7}
 .foot a{color:#7fa3c9}
 @media(max-width:540px){.when{margin-left:0;width:100%}}
+  .crumb{font-size:13px;color:var(--muted,#6b7280);margin-bottom:8px}
+  .crumb a{color:inherit;text-decoration:none}
+  .crumb a:hover{text-decoration:underline}
 </style>
 </head>
 <body>
 <div class="wrap">
+  <div class="crumb"><a href="https://hlash99.github.io/">&larr; hlash99 dashboard</a></div>
 <h1>📬 Substack Brief</h1>
 <p class="sub" id="sub">loading…</p>
 
@@ -66,7 +70,7 @@ a.subj:hover{color:var(--teal);border-color:var(--teal)}
 server-side twice a day (morning &amp; afternoon Pacific) by
 <a href="https://github.com/hlash99/substack-brief">hlash99/substack-brief</a>.
 Items marked <i>excerpt</i> are raw snippets awaiting AI summarization.
-Part of the <a href="https://hlash99.github.io/">hlash99 dashboard</a>.</p>
+</p>
 </div>
 
 <script>
