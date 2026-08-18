@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T16:42-07:00",
+ "updated": "2026-08-18T07:57-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -39,6 +39,114 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260818131651.3.c4604c4dcc50fb1e@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How America Ends Up Alone",
+   "date": "2026-08-18T06:16-07:00",
+   "url": null,
+   "bullets": [
+    "It’s a tough year to run for governor of a swing state as a Republican. The folks elected this year will supervise their state’s elections in 2028, and many voters reasonably wonder: What did you do last time Donald Trump tried to steal an …",
+    "At least some candidates are plainly feeling the pressure. In 2020, Wisconsin Rep. Tom Tiffany, now Republican nominee for governor, strongly supported Trump’s efforts, backing a lawsuit to overturn the election results and voting against c…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260818112250.3.a0c443121b85e058@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "EXCLUSIVE: Voters Oppose Netanyahu-Led Scheme to Integrate U.S. and Israeli Militaries",
+   "date": "2026-08-18T04:22-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/exclusive-voters-oppose-netanyahu",
+   "bullets": [
+    "A new Demand Progress/IMEU/DFP poll shows a majority of U.S. voters oppose Section 219, a bipartisan proposal to merge U.S. and Israeli militaries, and believe Israel gains more from the current aid regime.",
+    "The poll, released by Zeteo, indicates voters support lawmakers who voted to cut U.S. aid to Israel in a recent House vote, reflecting widespread skepticism of deepening U.S. military integration with Israel."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260818112059.3.9ebbb5c9cd60c23e@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "A New Level of Trumpian Evil",
+   "date": "2026-08-18T04:20-07:00",
+   "url": "https://paulkrugman.substack.com/p/a-new-level-of-trumpian-evil",
+   "bullets": [
+    "Trump’s shift toward a “very good relationship with Kim Jong Un” betrays South Korea, a democratic success story that rose from war poverty to a Western‑level standard of living and a major semiconductor supplier.",
+    "South Korea’s robust military budget, comparable to Ukraine’s, and its status as a key U.S. ally underscore the strategic loss when Trump undermines a nation that defended American interests during the Korean War.",
+    "Krugman argues that Trump’s preference for a totalitarian regime over a functioning democracy signals a fundamental rejection of the values that underpin U.S. foreign policy and national identity."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260818103045.3.9bd70caf83b2305f@mg2.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Covid-19 and dengue creeping up, vaccinations creeping down, a new mRNA flu vaccine, and more",
+   "date": "2026-08-18T03:30-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/covid-19-and-dengue-creeping-up-vaccinations",
+   "bullets": [
+    "As summer winds down, several diseases are winding up, like Covid-19 infections and rare mosquito-borne illnesses. Unfortunately, we can expect the same for vaccine-preventable diseases, according to new CDC data.",
+    "We also have some good news: the approval of a new mRNA flu vaccine. If you’re deciding whether to get it, there is some important nuance for you to consider. Here’s your disease “weather report” and what it may mean for you and your family…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260818101701.3.fece45aad9f77b8b@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Trump Is Giving Your Money to His Corporate Backers",
+   "date": "2026-08-18T03:17-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/trump-is-giving-your-money-to-his",
+   "bullets": [
+    "Trump's tariffs cost the average American family $1,100 annually, were deemed unconstitutional and later struck down by the Supreme Court, yet the $166 billion collected was refunded to corporations like Apple ($2 bn), Amazon ($600 m) and potentially Walmart ($10 bn).",
+    "Polls show strong voter backlash: about 60% disapprove of the tariffs, 72% believe they raised prices, and 78% think any refunds should go to consumers rather than corporations.",
+    "The newsletter urges Democrats to spotlight this issue as a clear example of Trump harming consumers while rewarding corporate donors, framing it as a winning election talking point."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260818090123.3.afcb4697fbc1a67c@mg-d0.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Over Target",
+   "date": "2026-08-18T02:01-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/over-target",
+   "bullets": [
+    "Chevron secured a lucrative joint‑venture in Kazakhstan’s Tengiz‑Korolev field in April 1993, helping double Kazakh oil output to 2 million bpd by 2025.",
+    "The Caspian Pipeline Consortium, carrying ~1.4 million bpd of Kazakh crude to Russia’s Black Sea port Novorossiysk, was halted after Ukrainian drone attacks damaged a mooring on Nov 29, prompting a rare U.S. State Department protest to Kyiv.",
+    "The author warns that these attacks signal a broader threat to Western energy interests and suggest the Ukraine war cannot be contained, foreshadowing deeper conflict over Black Sea supply routes."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260818023528.3.ab315d3daa493349@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "A 7-Year-Old Trapped in Hell Is Begging Senator Katie Britt for Help",
+   "date": "2026-08-17T19:35-07:00",
+   "url": null,
+   "bullets": [
+    "A Venezuelan family—pregnant mother, father, and their 7‑year‑old daughter—who complied with every immigration requirement, including asylum application, ICE check‑ins, and self‑deportation, have been held for weeks at Texas’s Dilley detention center instead of being returned to Venezuela.",
+    "The author urges readers to call Senator Katie Britt at 202‑224‑5744 to intervene on the family’s behalf, highlighting the case as an example of the Trump‑era immigration system’s failures."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260818000212.3.d333a7bd6ec4d87c@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Who is Natalie Harp? The Trump Aide Dominating the Headlines Right Now",
+   "date": "2026-08-17T17:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/who-is-natalie-harp-the-trump-aide",
+   "bullets": [
+    "Senator Jon Ossoff mocked Trump’s alleged plan to travel with aide Natalie Harp on a Qatar‑gifted “flying palace,” sparking widespread curiosity about her role.",
+    "Natalie Harp, dubbed Trump’s “human binkie” by NYT’s Maggie Haberman, was reportedly on a catering truck that helped Trump switch planes in Turkey amid a claimed Iranian assassination threat.",
+    "The newsletter lists seven key facts about Harp, highlighting her close access to Trump, including her presence on the decoy flight and her rapid rise within the inner circle."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260817204943.3.e355e6edfcffaec2@mg-d0.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -5042,108 +5150,10 @@
     "Settlers continued assaults on Palestinians on their own land, highlighting the relentless cycle of violence"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260718135600.3.aeb3a35cd4578020@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "David French: Character Counts For Less",
-   "date": "2026-07-18T06:56-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/david-french-character-counts-for",
-   "bullets": [
-    "David French discusses low-character politicians",
-    "Voters have lowered expectations for politicians",
-    "French joins to talk Nixon, Clinton, and Trump"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260718130228.3.8fc84f4e32615414@mg-d1.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“Could I really claim these hallmarks of adulthood if the only thing making them possible is my father’s generosit…",
-   "date": "2026-07-18T06:02-07:00",
-   "url": "https://post.substack.com/p/could-i-really-claim-these-hallmarks",
-   "bullets": [
-    "Nick Cave says music is essentially good",
-    "Phia claimed commissions on unearned purchases",
-    "Allison Raskin questions if financial independence defines adulthood"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260718130102.3.b330c595a72ef428@mg-d1.substack.com",
-   "newsletter": "Zeteo | Dark Side of the World Cup",
-   "pub": "zeteo",
-   "subject": "The Real Winner of the World Cup? FIFA",
-   "date": "2026-07-18T06:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/fifa-world-cup-trump-final",
-   "bullets": [
-    "Donald Trump will attend a World Cup match",
-    "Argentine President Javier Milei was expected to attend with Trump",
-    "FIFA allows authoritarian leaders to use the World Cup for benefit"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260718122308.3.894ee9aae811bcb6@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "How to Make Your Donation Matter",
-   "date": "2026-07-18T05:23-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/how-to-make-your-donation-matter",
-   "bullets": [
-    "SCOTUS’s ruling allowing unlimited direct donations to the DNC and RNC gives Democrats a financial advantage, leaving Republican candidates at a disadvantage in fundraising and campaign reach.",
-    "The author advises donors to prioritize contributions that support congressional gains and to focus on Wisconsin’s relatively less gerrymandered districts to maximize impact.",
-    "He notes that long‑time Democratic donors often receive frequent, desperate solicitation calls from candidates seeking funds, highlighting the urgency of strategic giving."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260718114333.3.2fb23a8b0192d945@mg2.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Susan Collins, Lindsey Graham, and a Changed Senate",
-   "date": "2026-07-18T04:43-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/susan-collins-lindsey-graham-and",
-   "bullets": [
-    "Lindsey Graham’s sudden death marks the end of an era; the author laments his decline and lack of leadership, citing Adam Kinzinger’s and Charles Krauthammer’s critiques and a free link to Will Saletan’s exposé on Graham’s corruption.",
-    "Pete Buttigieg urges Democrats to overhaul institutions—expand SCOTUS, the House, grant D.C. statehood, and adopt a popular‑vote presidential election—while highlighting family tragedy, Iowa’s pivotal role, and his campaign work in Fox‑News‑heavy states.",
-    "The author reflects on a Hawaii vacation, reading Ted Koppel’s book, and notes ongoing coverage of Trump’s cruelty toward Haitians, Cuban political prisoners, and other political stories, urging continued attention."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260718103032.3.51caa67696c6e5d2@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Lina Khan on AI and More",
-   "date": "2026-07-18T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/lina-khan-on-ai-and-more",
-   "bullets": [
-    "Lina Khan explains New York City’s new “Click to Cancel” rule, requiring subscription cancellations to be as easy as sign‑ups, aiming to curb $160 million annual consumer losses and prevent frictional cancellation practices.",
-    "Khan highlights a forthcoming junk‑fee rule that will prohibit hidden end‑of‑transaction fees, protecting consumers from deceptive pricing that gives unfair competitive advantage to firms that hide costs.",
-    "She discusses the city’s public‑interest technology initiative, creating an in‑house tech team to improve digital service delivery, arguing that building internal capacity reduces reliance on costly external consultants and safeguards long‑term government functionality."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260718090018.3.4b7e0fbd9e34d7df@mg-d1.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Land of the Waning Sun",
-   "date": "2026-07-18T02:00-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/land-of-the-waning-sun",
-   "bullets": [
-    "The 2026 Statistical Review shows hydrocarbons still supplied 86.24% of global primary energy in 2025, a negligible drop from 86.65% despite record‑setting fossil fuel consumption.",
-    "The Institute’s report inflates renewables’ impact by counting electricity, including wood burning, and highlighting that renewables contributed only a third of a 1% rise in total energy growth.",
-    "China, responsible for 56% of global coal use and 31% of emissions, is portrayed positively in the report despite flat coal demand and massive solar expansion that likely peaked in 2025."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 68,
-  "total": 373
+  "shown": 69,
+  "total": 374
  }
 }
