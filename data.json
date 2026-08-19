@@ -1,29 +1,18 @@
 {
- "updated": "2026-08-19T07:58-07:00",
+ "updated": "2026-08-19T16:42-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The U.S. military’s dire logistics crisis, from depleted long‑range missiles to failing ship systems, is being blamed on Trump’s erratic directives and is now a top national security concern (Zeteo, Paul Krugman).",
-   "Trump’s authoritarian push is escalating, with aggressive attacks on the press, a bank charter for his crypto firm, and attempts to subvert elections, prompting urgent calls for democratic defense (Zeteo, First Draft, The Bulwark).",
-   "Democratic strategists are warning of a looming blue‑wave shortfall, highlighting tight Senate races in Michigan and the need for volunteer poll workers as the party battles a resurgent GOP (Dan Pfeiffer, The Message Box, Jim Swift).",
-   "Progressive forces are gaining momentum, as Justice Democrats back a new “Squad” of House candidates while internal DSA debates suggest possible Republican manipulation (Mehdi Unfiltered, The Bulwark).",
-   "The future of the Republican Party appears fractured, with Trump‑centric cult dynamics, Florida’s MAGA primary battles, and concerns that his influence will poison the 2028 ticket (Zeteo, Sarah Longwell, The Bulwark)"
+   "Trump’s escalating war on Iran has drained U.S. missile stockpiles and triggered a federal crackdown on leaks, raising fears of a strategic vacuum in the Middle East (Zeteo, The Bulwark).",
+   "The GOP’s focus on a “human printer” and a million‑dollar sex‑toy scandal illustrates how Trump’s inner circle is being weaponized for political theater, while the fallout fuels intra‑party tensions (The Bulwark, Zeteo).",
+   "Wildfire smoke and rising dengue cases are turning climate change into a public health crisis, with N95 masks underused despite proven efficacy, and COVID‑19 resurging in the South (Your Local Epidemiologist).",
+   "A grassroots upset in Florida’s Democratic primary shows under‑funded candidates can defeat establishment figures, signaling a shift toward outsider politics ahead of 2028 (The Message Box).",
+   "U.S. voters largely reject deepening military integration with Israel and are skeptical of Trump‑backed financial moves, reflecting broader wariness of foreign policy and corporate influence (Zeteo, The Message Box).",
+   "Inflation‑breakeven rates and credit‑default spreads remain flat, suggesting no imminent U.S. debt crisis despite soaring bond yields driven by AI investment and post‑tax‑cut deficits (Paul Krugman)."
   ],
   "by": "groq",
   "ids": [
-   "20260815103119.3.a9900a52bb16184d@mg2.substack.com",
-   "20260815113118.3.35855cba8ff467c0@mg-d1.substack.com",
-   "20260815120234.3.03d865035292c1f7@mg2.substack.com",
-   "20260815122221.3.e9ca5cc82bc750a9@mg-d0.substack.com",
-   "20260815123047.3.90f1831a893192bf@mg-d1.substack.com",
-   "20260815130303.3.a8c76dc13f9edc26@mg-d1.substack.com",
-   "20260815170134.3.938b31acb1058fba@mg-d0.substack.com",
-   "20260815204120.3.1d98a5826c42f927@mg2.substack.com",
-   "20260816102817.3.7ff10215c9279a55@mg-d0.substack.com",
-   "20260816105431.3.20c8a47c5c5a7c9b@mg-d0.substack.com",
-   "20260816130415.3.841371c1514ff94f@mg-d1.substack.com",
-   "20260816210216.3.25d836bba05e4a36@mg2.substack.com",
    "20260816235237.3.17120f7b95b79fc6@mg-d0.substack.com",
    "20260817102826.3.d12d6666a9d13a1f@mg2.substack.com",
    "20260817110430.3.f487b6d81d70eead@mg2.substack.com",
@@ -33,12 +22,90 @@
    "20260817140532.3.d3336faa3859d5c2@mg-d1.substack.com",
    "20260817164611.3.8e199bdb6c07abfb@mg-d1.substack.com",
    "20260817180651.3.73a660423f809bff@mg2.substack.com",
-   "20260817204943.3.e355e6edfcffaec2@mg-d0.substack.com"
+   "20260817204943.3.e355e6edfcffaec2@mg-d0.substack.com",
+   "20260818000212.3.d333a7bd6ec4d87c@mg2.substack.com",
+   "20260818023528.3.ab315d3daa493349@mg2.substack.com",
+   "20260818090123.3.afcb4697fbc1a67c@mg-d0.substack.com",
+   "20260818101701.3.fece45aad9f77b8b@mg2.substack.com",
+   "20260818103045.3.9bd70caf83b2305f@mg2.substack.com",
+   "20260818112059.3.9ebbb5c9cd60c23e@mg2.substack.com",
+   "20260818112250.3.a0c443121b85e058@mg2.substack.com",
+   "20260818131651.3.c4604c4dcc50fb1e@mg-d1.substack.com",
+   "20260818162301.3.db9f1cbcb6088a9b@mg2.substack.com",
+   "20260818165945.3.59dfdf78e469643c@mg-d0.substack.com",
+   "20260818180110.3.e71c75799c8357e4@mg-d1.substack.com",
+   "20260818231824.3.783f14a79f5db413@mg-d0.substack.com",
+   "20260819004156.3.13c315d34524bdcd@mg-d1.substack.com",
+   "20260819010049.3.8482a58a7276a811@mg2.substack.com",
+   "20260819102645.3.d47f8cf7a2b7a145@mg2.substack.com",
+   "20260819112622.3.35e852ad7288f5cd@mg-d1.substack.com",
+   "20260819131447.3.92a61c0452e37fb8@mg2.substack.com",
+   "20260819132741.3.6b3b785322243788@mg-d0.substack.com",
+   "20260819133135.3.b540fce230d11a53@mg2.substack.com",
+   "20260819135150.3.c86449c685a83f2e@mg2.substack.com",
+   "20260819154536.3.6a3f2b2b281cb7cb@mg2.substack.com",
+   "20260819163720.3.7e4a8ecef1cd2fa0@mg-d1.substack.com",
+   "20260819180221.3.5f46a165c345ba78@mg-d0.substack.com",
+   "20260819220105.3.fb0bce32c068efa4@mg-d0.substack.com"
   ],
-  "updated": "2026-08-17T16:42-07:00",
+  "updated": "2026-08-19T16:42-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260819220105.3.fb0bce32c068efa4@mg-d0.substack.com",
+   "newsletter": "Brendan Hartnett - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "GOP Iowa Nominee’s Million-Dollar Sex-Toy Problem",
+   "date": "2026-08-19T15:01-07:00",
+   "url": null,
+   "bullets": [
+    "Zach Lahn, Iowa GOP gubernatorial candidate, invested $1 million in FirmTech in 2021, becoming its second‑largest shareholder with a 28.2 % stake and later retained 25 % ownership through an LLC.",
+    "FirmTech, marketed as a medical device company, sold “erection rings” and a clitoral vibrator that were described as sex toys, contradicting Lahn’s claim that he only supported therapeutic products.",
+    "Lahn resigned from FirmTech’s board in September 2023 before any pleasure products were released, yet SEC filings show he owned shares and signed documents promoting those very products during his tenure."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260819180221.3.5f46a165c345ba78@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "The Silence of Western Feminists Over Gaza Exposes Their Fraud",
+   "date": "2026-08-19T11:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-silence-of-western-feminists",
+   "bullets": [
+    "Miscarriages in Gaza have tripled in the first half of the year, rising to nearly 4,000 cases, a figure that has not sparked global feminist activism despite similar reactions to other women's rights issues."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260819163720.3.7e4a8ecef1cd2fa0@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Human Printer Is Cray-Cray",
+   "date": "2026-08-19T09:37-07:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark’s upcoming Good Fight Tour hits the Southeast in October, with tickets on sale Aug 21 and early presale for Bulwark+ members.",
+    "Trump’s 32‑year‑old aide Natalie Harp serves as his “human printer,” lugging a portable printer, paper and batteries to feed the president printed briefs.",
+    "The newsletter notes the story was first reported by Marc Caputo in May 2024, highlighting the bizarre nature of Trump’s reliance on printed memos."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260819154536.3.6a3f2b2b281cb7cb@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Why Every 2028 Campaign Should Study Angie Nixon's Win",
+   "date": "2026-08-19T08:45-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/why-every-2028-campaign-should-study",
+   "bullets": [
+    "Angie Nixon, a Florida state rep, defeated heavily funded national security official Alex Vindman in the Democratic primary by over 11 points, despite a spending gap of more than 10‑to‑1.",
+    "The upset signals a shift away from establishment-backed candidates, showing grassroots, under‑funded contenders can win against well‑known, financially advantaged opponents.",
+    "Pfeiffer argues 2028 Democratic campaigns should study Nixon’s strategy—leveraging local credibility and voter dissatisfaction—to replicate her outsider victory."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260819140103.3.55c8bc23e149469f@mg-d0.substack.com",
    "newsletter": "Zeteo",
@@ -60,10 +127,11 @@
    "date": "2026-08-19T06:51-07:00",
    "url": "https://yourlocalepidemiologist.substack.com/p/when-wildfire-smoke-hits-home",
    "bullets": [
-    "Wildfires have been all over the news, not just in the U.S. but in Europe as well, where I (Katelyn) have been. For Matt Willis, the author of YLE California edition [ https://substack.com/redirect/2fb63d43-d937-46c1-b462-17cba28c9bef?j=eyJ…",
-    "The text came on July 27: Made it to Bend. Heading to the fire line tomorrow. My son just finished his wildland firefighting certification. He’s spent the summer working as an EMT and was sent to the fires burning in Oregon. He’s 22, and th…"
+    "Wildfire smoke exposure is rising nationwide, with climate models predicting larger, more frequent fires and smoke reaching far‑away states like Florida; indoor AQI can be 60% of outdoor levels without filtration.",
+    "A 2025 review of 33 studies found N95 masks filter up to 94% of PM2.5, yet were underused; firefighters only got voluntary N95 permission in 2025, despite 8‑43% higher lung‑cancer risk and 16‑30% higher cardiovascular death risk.",
+    "To protect health, wear a fitted N95 when AQI hits 150 (or 100 for sensitive groups) and upgrade home filtration to MERV‑13 or HEPA with continuous operation, aiming for indoor/outdoor ratios below 20% and a clean‑air refuge room."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260819133135.3.b540fce230d11a53@mg2.substack.com",
@@ -87,10 +155,11 @@
    "date": "2026-08-19T06:27-07:00",
    "url": "https://roycoopernc.substack.com/p/polling-war-harvey-lee-west",
    "bullets": [
-    "I sat down with Ben Meiselas on the MeidasTouch podcast to discuss recent polling, the effects of Trump’s war in Iran and Harvey Lee West: a convicted child sex offender who my opponent, Michael Whatley, appointed to powerful leadership pos…",
-    "We are facing a crucial election this November and I’m going to need your help to ensure we can leave a better country to our children, grandchildren and future generations. You can listen to our full conversation below."
+    "Cooper says Trump’s war in Iran is draining gas, grocery and utility costs and lacks any clear strategy, fueling voter frustration in North Carolina.",
+    "He warns that Republican opponent Michael Whatley, former NC GOP chair, appointed convicted child molester Harvey Lee West to a leadership role to raise money, prompting a party resolution to bar such appointments.",
+    "Cooper claims he leads in polls, faces $100 million in Republican ads, and urges donations and volunteer support to win the open Senate seat and address cost‑of‑living, health care, and democratic checks."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260819131447.3.92a61c0452e37fb8@mg2.substack.com",
@@ -5216,52 +5285,10 @@
     "Both camps doubt the party can unite behind the eventual nominee, fearing the acrimony will echo the 2016 Sanders‑Clinton split and jeopardize the 2028 presidential primary, with some Stevens supporters even threatening to withhold votes in the general if El‑Sayed wins."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260719220108.3.d6c24724291980d5@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "'Zeteo Is a Pathetic Fake News Blog,' Says an Angry Trump White House",
-   "date": "2026-07-19T15:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-white-house-smears",
-   "bullets": [
-    "Zeteo reported that former President Donald Trump is planning to steal classified U.S. documents after leaving office a second time, prompting a White House email calling the outlet a “pathetic fake news blog.”",
-    "White House officials escalated the attack, labeling Zeteo “terrorist sympathizers,” calling founder Mehdi Hasan a “nutjob” and “dummy,” and accusing the site of left‑wing hacks after Zeteo exposed Trump’s plans to spy on U.S. allies and alleged election‑stealing plots.",
-    "The newsletter uses the White House’s denunciations to rally readers to become paid subscribers or donors, framing financial support as a way to resist what it describes as an authoritarian, warmongering Trump administration."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260719191717.3.a759c84afb84e7db@mg2.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump's Speech Totally Screws His Supporters (w/ Nicole Wallace)",
-   "date": "2026-07-19T12:17-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/trumps-speech-totally-screws-his",
-   "bullets": [
-    "Trump is now claiming the 2016 and 2024 elections run by Democrats were legitimate while insisting the 2020 election he oversaw was fraudulent, a reversal that risks inflaming his base ahead of the midterms.",
-    "Jack Smith has charged Trump with fraud for knowingly lying about his loss to Biden, while former prosecutor TDS continues to push the stolen‑2020‑election narrative and Senator Lindsey Graham’s actions are portrayed as damaging democracy.",
-    "Merrick Garland has remained silent amid ongoing DOJ and FBI purges, a point highlighted in the episode with Nicole Wallace on The Bulwark’s weekend podcast."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260719180055.3.09cd74e675bb0817@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Russiagate Was Real, Trump Admits",
-   "date": "2026-07-19T11:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-russia-interference-real",
-   "bullets": [
-    "A declassified National Intelligence Council report released by the Trump administration now acknowledges that Russia attempted to meddle in the 2020 election to benefit Trump, contradicting his prior “hoax” claims.",
-    "The document says President Vladimir Putin and senior Russian officials are coordinating proxies to spread false claims about Joe Biden, Ukrainian politicians, and alleged Ukrainian influence in the 2016 election.",
-    "The White House issued the report alongside Trump’s primetime address on election integrity, marking an official admission of Russian interference aimed at boosting Trump’s campaign."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 69,
-  "total": 382
+  "shown": 68,
+  "total": 383
  }
 }
