@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T08:00-07:00",
+ "updated": "2026-08-20T16:45-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,47 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260820194546.3.5614bae1c78227c1@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Is Finally Losing Ground Among Republicans",
+   "date": "2026-08-20T12:45-07:00",
+   "url": null,
+   "bullets": [
+    "Recent focus groups of straight‑ticket Republicans show a noticeable shift, with many now grading Trump a C or D rather than the usual A‑B ratings.",
+    "The author notes that while earlier supporters praised Trump’s promises and personal finance impact, current sentiment reflects disappointment and deflation among voters who previously backed him three times.",
+    "These findings suggest a growing willingness among some GOP voters to sit out the midterms or even consider non‑Trump options."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260820164119.3.1c3d628206a944cc@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Dollar, the Dopamine, and JD Vance",
+   "date": "2026-08-20T09:41-07:00",
+   "url": null,
+   "bullets": [
+    "JD Vance, once a MAGA think‑tank speaker, blamed Silicon Valley Bank’s failure on “woke idiots” and argued that zero‑interest policy created a subsidy for finance and tech, while also claiming the dollar’s reserve status is a “resource curse” that cheapens US debt, a stance the author says aligns with his support for the Iran war and de‑dollarization efforts",
+    "The newsletter highlights a Venezuelan family legally in the US who were arrested during a self‑deportation attempt and now sit in a Texas ICE facility, urging readers to contact Senator Katie Britt for assistance",
+    "It introduces “limbic capitalism,” a concept from David Courtwright’s *Age of Addiction* linking brain‑reward systems to market practices that exploit addictive behaviors across industries like gambling, alcohol, and tech"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260820160139.3.75b78db59f99f09f@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Israel Finally Admits to Killing Hind Rajab. 933 Days Later",
+   "date": "2026-08-20T09:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/israel-finally-admits-to-killing",
+   "bullets": [
+    "Israel officially acknowledged, 933 days after the incident, that its soldiers fired on Hind Rajab’s vehicle, killing the 5‑year‑old and her relatives, after years of denial backed by the U.S. State Department.",
+    "Prem Thakker’s video critiques U.S. officials for feigning concern while deferring to Israel’s self‑investigation, and notes the killing occurred alongside the deaths of medics and is part of over 73,000 Palestinian deaths, including 20,000 children."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260820143514.3.8f192967b625fb7f@mg-d1.substack.com",
    "newsletter": "Joe Perticone - The Bulwark",
@@ -5202,65 +5243,10 @@
     "He highlights the rise of pro‑BJP ‘Godi media’, anti‑Muslim propaganda, Bollywood figures coerced by the far‑right, and advises U.S. journalists to emulate India’s independent outlets like Newslaundry."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260720233629.3.02f7cab2e8de7a39@mg2.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "QAnon Conspiracy Theorists Have Taken Over a Prison",
-   "date": "2026-07-20T16:36-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/qanon-conspiracy-theorists-have-taken-over-prison-child-trafficking-california-david-bryan",
-   "bullets": [
-    "QAnon promoter Pastor David Bryan is raising $1.6 million to convert the decommissioned Leo Chesney women’s prison in Live Oak, California, into a ‘Peace of Heaven’ children’s sanctuary for alleged trafficking victims.",
-    "The Rev17 2.0 conference, billed as an apocalyptic‑themed fundraiser, will run Aug 28‑30 and feature figures like former CBS reporter Lara Logan, QAnon activist Ann Vandersteel, and ex‑Colorado clerk Tina Peters, with tickets $99‑$299 funding the prison overhaul."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260720220312.3.24024353fc08453c.3a7azh6a@mg1.substack.com",
-   "newsletter": "Citrini",
-   "pub": "citrini",
-   "subject": "💬 New thread from Citrini",
-   "date": "2026-07-20T15:03-07:00",
-   "url": null,
-   "bullets": [
-    "Momentum‑driven baskets suffered roughly 20%+ losses over the past month, yet many remain up two‑ to three‑fold year‑to‑date.",
-    "The worst‑performing baskets included EU semis and a few outliers whose mean‑reversion was halted by a sudden market shock.",
-    "Top performers featured Earned Wage Access (led by DAVE), the Iran Conflict Beta, Elder Care, Rate‑Sensitive Regionals, and Agentic Utilities, all posting solid gains despite prior outperformance."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260720215411.3.39b3adbb2becbd61@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "7 Things You Need to Know About the Bab al-Mandeb Strait - That Trump Probably Doesn't",
-   "date": "2026-07-20T14:54-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/7-things-you-need-to-know-about-the-bde",
-   "bullets": [
-    "Iran’s allies in Yemen’s Houthi movement announced an immediate maritime embargo, effectively closing the Bab al‑Mandeb Strait to Saudi shipping, adding a second front to the US‑Iran conflict.",
-    "If the Bab al‑Mandeb and the Strait of Hormuz are both blocked, oil prices could spike dramatically, potentially reaching record highs.",
-    "Trump has expanded strikes on Iranian civilian infrastructure and Iran has exited the US‑Iran MOU, while the Houthis claim control of the strait’s northern coast."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260720164238.3.32c26a399e6f7e4d@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Truth Social Legalizes Insider Trading",
-   "date": "2026-07-20T09:42-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/truth-social-legalizes-insider-trading",
-   "bullets": [
-    "Trump Media’s Truth API will let paying subscribers see posts before the public, priced at $100,000 a month or $60,000 with a three‑year lock‑in, effectively creating a paid insider‑trading channel for market‑moving information.",
-    "The author argues this service legalizes insider trading by turning Trump’s social feed into a Bloomberg‑style terminal, exposing a new vulnerability in U.S. economic and social systems.",
-    "The piece suggests the move showcases Donald Trump’s “animal cunning” and could boost Don Jr.’s presidential prospects."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 68,
-  "total": 381
+  "shown": 67,
+  "total": 380
  }
 }
