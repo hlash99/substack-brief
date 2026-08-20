@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T16:42-07:00",
+ "updated": "2026-08-20T08:00-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,89 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260820143514.3.8f192967b625fb7f@mg-d1.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Iran War Is Eating the GOP’s Midterm Message Alive",
+   "date": "2026-08-20T07:35-07:00",
+   "url": null,
+   "bullets": [
+    "House Republicans are scrambling to explain rising gas and grocery prices caused by the Iran war, with Speaker Mike Johnson blaming the conflict while claiming tax cuts had boosted the economy in Q1 2024.",
+    "Republican leaders, including Johnson, Tom Emmer, and Steve Scalise, repeatedly justify the war as necessary to stop Iran’s nuclear progress, yet President Trump has publicly downplayed the threat, calling the war gratuitous.",
+    "The GOP struggles to reconcile their narrative of American energy dominance and control of the Strait of Hormuz with evidence that Iranian drones and missiles continue to disrupt tanker traffic, undermining their messaging to swing‑district voters."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260820140852.3.e6f3ac2179e9195d@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Affordable housing should be within reach",
+   "date": "2026-08-20T07:08-07:00",
+   "url": "https://roycoopernc.substack.com/p/affordable-housing-should-be-within",
+   "bullets": [
+    "North Carolina’s housing crisis is driven by soaring rents, high gas costs, and corporate landlords; Gov. Cooper pledges to cut red tape, ban algorithm‑driven rent hikes, and restrict large‑portfolio buyers to lower prices.",
+    "Cooper highlights past successes—hundreds of millions in mortgage relief, $355 million in community grants, and vetoing bills that hurt low‑income renters—while urging federal action to roll back Trump tariffs on lumber, steel, and aluminum.",
+    "He calls for faster, smarter construction (multi‑family and modular homes) and modernized permitting to increase supply, aiming to make home ownership and renting affordable for working families across the state."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260820134148.3.7de0ceffb4ff7e1f@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Politicians Suddenly Notice Everybody Hates Data Centers",
+   "date": "2026-08-20T06:41-07:00",
+   "url": null,
+   "bullets": [
+    "Texas Gov. Greg Abbott halted up to 1,800 data‑center projects and signed a moratorium pending an energy‑use audit, while Pennsylvania Gov. Josh Shapiro added red‑tape to new data‑center proposals.",
+    "In Ohio, the National Republican Senatorial Committee warned that Sen. Jon Husted’s support for AI data centers could cost him the seat, with Democratic challenger Sherrod Brown using the issue as a campaign centerpiece.",
+    "Michigan’s Green Party nominated 25‑year‑old Shane Dedrick via a Zoom convention, but he has no campaign presence, has not registered with the FEC, and the party has since stopped promoting him on social media."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260820112538.3.9c54c4695f0b98f8@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "🦅 🇮🇷 Yep, Iran’s Definitely ‘Cartering’ Trump",
+   "date": "2026-08-20T04:25-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/yep-irans-definitely-cartering-trump",
+   "bullets": [
+    "Mike Lindell, a top Trump‑backed election‑fraud donor, refuses to concede his Minnesota GOP primary loss and is pushing a private recount plan to replace electronic voting machines, echoing the GOP’s broader anti‑vote‑machine stance.",
+    "U.S. intelligence officials warned that Iran’s war strategy is deliberately dragging on to “Carter” Trump—using prolonged conflict to erode his popularity and hurt Republicans in the 2024 election, a view now confirmed as the war shows no end in sight.",
+    "The article links the ongoing, unpopular war, rising gas prices, and a looming global economic downturn to the Trump‑Vance administration’s inability to admit defeat, warning of severe political and economic fallout."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260820103053.3.5df0e7176e47a96d@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Case Against Bond Market Panic",
+   "date": "2026-08-20T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-case-against-bond-market-panic",
+   "bullets": [
+    "Krugman argues that despite the U.S. debt reaching $40 trillion, borrowing in its own currency makes a Greek‑style crisis implausible, and market data show little fear of default.",
+    "He warns Democrats not to repeat Obama‑era scaremongering by “Very Serious People” who use debt panic to force austerity, urging progressive tax reforms instead.",
+    "While acknowledging fiscal irresponsibility under Trump, Krugman says debt panic is unwarranted and would hinder future Democratic policy goals."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260820001628.3.556eeec2b2d520f2@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Is the Media Afraid of Covering the Natalie Harp-Donald Trump Dynamic?",
+   "date": "2026-08-19T17:16-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/is-the-media-afraid-of-covering-the",
+   "bullets": [
+    "Journalism ethics scholars Eric Deggans and Subbu Vincent debate whether probing aide Natalie Harp’s personal letters to Donald Trump—described as “all that matters to” him and alarming the Secret Service—is fair game after Sen. Jon Ossoff highlighted her in a campaign speech.",
+    "The piece notes that MS NOW’s Katy Tur abruptly shifted away from the Harp story, underscoring media hesitation, while Disney is praised for opposing Trump despite earlier actions that helped fuel his anti‑media stance."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260819220105.3.fb0bce32c068efa4@mg-d0.substack.com",
    "newsletter": "Brendan Hartnett - The Bulwark",
@@ -5174,121 +5257,10 @@
     "The piece suggests the move showcases Donald Trump’s “animal cunning” and could boost Don Jr.’s presidential prospects."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260720131439.3.1be7593c5d7d285c@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Spain Wins. Trump Is Losing.",
-   "date": "2026-07-20T06:14-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/spain-wins-trump-is-losing-iran-hormuz-missile-drone-attack-casualties-war",
-   "bullets": [
-    "Trump's war with Iran has killed 17 US service members",
-    "The war has cost an estimated $113 billion",
-    "US gas prices have risen from $3 to $4 per gallon since the war began"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260720121727.3.c9953efd47c0ae9e@mg-d0.substack.com",
-   "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
-   "pub": "macgregorwarrior",
-   "subject": "Trump’s War to the last Missile",
-   "date": "2026-07-20T05:17-07:00",
-   "url": "https://macgregorwarrior.substack.com/p/trumps-war-to-the-last-missile",
-   "bullets": [
-    "Trump’s administration is stuck in a costly air‑only campaign against Iran, with the Strait of Hormuz closed and Iran’s nuclear program still a threat, while Netanyahu demands nuclear disarmament under US oversight.",
-    "Retired Marine General Frank McKenzie proposes using ground forces to seize Kharg Island, Iran’s main oil terminal capable of loading 10 supertankers or 7 million barrels per day, arguing possession of Iranian soil would strengthen U.S. negotiating leverage."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260720110355.3.619d0b569797b99b@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "The Arrested Tate Brothers Are Tied to the Trumps: Why Won’t Dems Exploit This?",
-   "date": "2026-07-20T04:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-arrested-tate-brothers-are-tied",
-   "bullets": [
-    "Andrew and Tristan Tate were arrested in Florida on Saturday, facing 59 UK charges including rape, sexual assault, trafficking, and child pornography, after a long extradition campaign by British victims’ lawyers.",
-    "The newsletter argues that senior Democrats missed a political opportunity to expose the Tate brothers’ ties to the Trump family and the Republican Party, despite evidence of American political support for the Tates amid the Epstein‑Trump scandal.",
-    "It also notes Donald Trump’s escalating illegal war with Iran and highlights Maine Senator Troy Jackson’s controversial campaign, framing these as key political stories of the week."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260720103916.3.23f2a52f5b41811d@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Trump's Most Corrupt Act Yet (Seriously!)",
-   "date": "2026-07-20T03:39-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/trumps-most-corrupt-act-yet-seriously",
-   "bullets": [
-    "Trump’s Truth Social will charge Wall Street firms for millisecond‑early access to his posts, creating a pay‑to‑play insider‑trading scheme that lets banks profit before the public sees the news.",
-    "Presidential conflict‑of‑interest rules exempt Trump, allowing the scheme despite its clear illegality, while past presidents used blind trusts to avoid such loopholes.",
-    "Echelon Insights polls show voter concern over political corruption rising from 8% in Dec 2024 to 17% now, making the issue the second‑most‑cited national problem after cost of living."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260720103015.3.b89dff21ac622c9d@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Trump’s War on the Future, Monetary Edition",
-   "date": "2026-07-20T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/trumps-war-on-the-future-monetary",
-   "bullets": [
-    "Brazil’s free, instant Pix digital payment system, praised as a model for central‑bank digital currencies, has sparked a Trump administration move to impose Section 301 tariffs on Brazilian exports, ostensibly over “unfair trade” but really to protect U.S. Visa/Mastercard interests and the dollar’s dominance.",
-    "A House Republican bill now bans any study of a U.S. digital dollar, reflecting special‑interest opposition from crypto and fossil‑fuel lobbyists who fear a superior public payment option, while Brazil’s success contrasts with El Salvador’s failed Bitcoin experiment.",
-    "Economist Monica de Bolle notes the tariffs will likely backfire, strengthening Brazil’s export position—especially in soybeans—while Trump’s policy merely declares war on technological progress without achieving its aims."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260720025039.3.c4e6bb88d0e343be@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "EXCLUSIVE: Javier Bardem Joins Mehdi to Talk Spain's World Cup Win, Palestine, Trump, and More",
-   "date": "2026-07-19T19:50-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/exclusive-javier-bardem-joins-mehdi",
-   "bullets": [
-    "Javier Bardem joined host Mehdi after Spain’s 1‑0 World Cup win over Argentina to critique Argentina’s play, Trump’s awkward trophy speech, and the match’s symbolic Palestine‑Israel overtones.",
-    "Bardem condemned the Gaza “genocide” and called Netanyahu a war criminal, insisting criticism of Israel shouldn’t be labeled antisemitic, while also denouncing Israel’s impunity and high 2026 World Cup ticket prices.",
-    "He previewed upcoming theater projects and a new film with Penélope Cruz, and the full, paywall‑free conversation is available on YouTube and Substack."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260720023223.3.90818014c82d0b89@mg-d0.substack.com",
-   "newsletter": "Citrini",
-   "pub": "citrini",
-   "subject": "All Along the AI Watchtower",
-   "date": "2026-07-19T19:32-07:00",
-   "url": "https://open.substack.com/pub/citrini/p/all-along-the-ai-watchtower",
-   "bullets": [
-    "The AI market’s recent sell‑off isn’t explained by open‑source models, cost competition, or geopolitical shocks, but by the fragility of heavily leveraged, crowded AI thematic trades unwinding after a rapid rise",
-    "Despite growing aggregate token spend, the value of the AI “pie” and its distribution remain uncertain, prompting investors to look beyond obvious winners to mis‑categorized stocks like a mobile‑chip designer and tools with fewer seats",
-    "The current correction may clear the deck, allowing durable growth for true AI leaders while exposing firms that were wrongly labeled, such as those benefiting from IBM’s earnings miss and other overlooked opportunities"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260720001316.3.f51b97ddd709be3c@mg-d0.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Michigan Democratic Primary Has Grown Absolutely Toxic",
-   "date": "2026-07-19T17:13-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/the-michigan-democratic-primary-has-grown-absolutely-toxic",
-   "bullets": [
-    "The Michigan Senate Democratic primary pits moderate Rep. Haley Stevens against progressive Abdul El‑Sayed, with both sides launching personal attacks—Stevens mocked for voice and looks, El‑Sayed accused of being the GOP’s preferred nominee.",
-    "Democratic operatives are openly fighting over which candidate can win the swing seat, fearing a loss in the general; progressives see the race as a last chance to curb centrist momentum after socialist wins in Colorado and New York, while centrists argue the left is risking Senate control to prove an ideological point.",
-    "Both camps doubt the party can unite behind the eventual nominee, fearing the acrimony will echo the 2016 Sanders‑Clinton split and jeopardize the 2028 presidential primary, with some Stevens supporters even threatening to withhold votes in the general if El‑Sayed wins."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 68,
-  "total": 383
+  "total": 381
  }
 }
