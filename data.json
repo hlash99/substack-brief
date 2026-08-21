@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T16:45-07:00",
+ "updated": "2026-08-21T07:58-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,103 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260821144548.3.3582baacfd0a1c76@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "We’re in for a long race",
+   "date": "2026-08-21T07:45-07:00",
+   "url": "https://roycoopernc.substack.com/p/were-in-for-a-long-race",
+   "bullets": [
+    "Vice President and President Trump have targeted Gov. Roy Cooper in North Carolina, warning that a Republican win in the state could secure GOP Senate control until 2029.",
+    "Cooper’s campaign faces heavy attacks from Trump’s allies, including Stephen Miller, and stresses the need for fundraising to fund ads and counter the GOP’s messaging."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260821132811.3.29b79730606f59fc@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Your New Senator Is a Total Lightweight. She’s Perfect.",
+   "date": "2026-08-21T06:28-07:00",
+   "url": null,
+   "bullets": [
+    "Darline Graham, South Carolina senator and Lindsey Graham’s sister, stumbled over a Taiwan question in a debate, claiming foreign policy isn’t her expertise while her brother has long championed U.S. support for Taiwan.",
+    "The author notes that none of eleven GOP Senate China hawks—Jim Risch, Tom Cotton, Josh Hawley, Pete Ricketts, Dan Sullivan, Todd Young, Bill Hagerty, Marsha Blackburn, Rick Scott, John Cornyn, and Ted Cruz—responded to a request for comments on Trump’s abrupt cut of joint U.S.–South Korea exercises, highlighting a perceived lack of engagement on China policy.",
+    "The piece argues that many GOP senators prioritize culture‑war issues over substantive foreign‑policy debate, suggesting that voters may be more concerned with domestic partisan battles than with strategic challenges like the South China Sea and U.S. alliances."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260821111927.3.428263bfa58911fa@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "⬇️ Trump Advisers Worry He Could ‘Sink to the High 20s’",
+   "date": "2026-08-21T04:19-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-advisers-worry-he-could-sink",
+   "bullets": [
+    "Reuters/Ipsos and Fox News polls show Trump’s approval has fallen to a historic low of 33% ahead of the midterms, with private GOP‑commissioned polls hovering around 30%‑35%.",
+    "A Financial Times survey finds nearly 25% of 2024 Trump voters say they are financially worse off since his return to office, while Republican strategists fear his war on Iran will further depress GOP turnout in crucial midterms.",
+    "Michael Cohen, once a Trump critic, returned to interview the president on his radio show, highlighting internal GOP anxiety about Trump potentially sinking into the low‑20% approval range."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260821111941.3.8b394607c46e2541@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Just Ordered the Government to Delete the Receipts (w/ Andrew Weissmann)",
+   "date": "2026-08-21T04:19-07:00",
+   "url": null,
+   "bullets": [
+    "Trump ordered the federal government to delete corporate ownership records, a move that could obscure financial ties and raise legal questions about record‑keeping transparency.",
+    "Weissmann explains the latest Fauci investigation, noting new evidence that could impact the probe’s scope and potential charges.",
+    "An Alaska election controversy involving a disputed absentee ballot led to a DOJ investigation, highlighting vulnerabilities in election security and the administration’s handling of contested results."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260821104425.3.82108e33c183c2dc@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Scott Bessent Fails to Gaslight the Market",
+   "date": "2026-08-21T03:44-07:00",
+   "url": "https://paulkrugman.substack.com/p/scott-bessent-fails-to-gaslight-the",
+   "bullets": [
+    "Treasury Secretary Scott Bessent, a Trump loyalist, pushed a controversial plan to put Trump’s signature on U.S. currency and denied a K‑shaped economy despite data showing widening inequality, eroding market credibility.",
+    "Nearly half of Trump‑appointed top Treasury officials have quit, many citing illegal demands such as a $1.8 billion “anti‑weaponization” fund and misuse of taxpayer data, highlighting internal turmoil.",
+    "Bessent’s recent 30‑year Treasury bond buyback, funded by short‑term debt, mirrors quantitative easing in an inflationary environment, briefly lowered yields but quickly rebounded, underscoring the futility of his politically‑driven market intervention."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260821012404.3.998c2451f7d6d667@mg2.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s War on Reality Comes for the Census",
+   "date": "2026-08-20T18:24-07:00",
+   "url": null,
+   "bullets": [
+    "The author now warns that the Trump administration has infiltrated the U.S. Census Bureau, compromising its traditionally nonpartisan data collection.",
+    "Because of this interference, the author can no longer trust any federal statistical releases, including unemployment and inflation figures.",
+    "The detailed story explaining the infiltration is behind a paywall, accessible with a Bulwark+ membership."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260821000049.3.15d2ce174c3d02b4@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "He Co-Founded Airbnb. Now He’s a Red-Pilled Billionaire Helping Trump",
+   "date": "2026-08-20T17:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/airbnb-joe-gebbia-red-pill-trump-doge",
+   "bullets": [
+    "Joe Gebbia, Airbnb co‑founder, donated $200k to both Hillary Clinton’s 2016 campaign and Joe Biden’s 2020 campaign before abandoning the Democrats in 2024 and now publicly backs Trump, RFK Jr, and Elon Musk while sharing extremist, COVID‑denial, and election‑fraud content on X.",
+    "Recent X activity shows Gebbia amplifying far‑right narratives, including a John Birch Society post blaming illegal immigration for housing prices, a claim that NGOs manipulate migrants, and a false headline that Los Angeles would let non‑citizens vote.",
+    "Gebbia, now the U.S. government’s first chief design officer, uses his platform to spread white‑supremacist rhetoric and conspiracy theories, linking Democratic policies to alleged election fraud and praising radical right‑wing financiers like Bill Ackman."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260820194546.3.5614bae1c78227c1@mg-d1.substack.com",
    "newsletter": "Sarah Longwell - The Bulwark",
@@ -5174,79 +5271,10 @@
     "Israeli authorities initially denied the abduction, later admitted holding him, but have not disclosed his location for over a month, moving him between prisons while providing no information."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260721132433.3.16018f839d785c96@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Cyclosporiasis, DOGE, and You",
-   "date": "2026-07-21T06:24-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/cyclosporiasis-doge-and-you-outbreak-lettuce-wildfire-smoke-canada-tariffs",
-   "bullets": [
-    "FBI Director Kash Patel plans a visit to Russia, raising concerns that it could signal a shift on Ukraine policy or fuel Trump‑Russia probe rumors, though the author suggests it may be a casual trip.",
-    "The cyclosporiasis outbreak, affecting thousands, is politicized as a result of Trump‑era budget cuts that reduced CDC staff from eleven to three and eliminated $30 million in funding, prompting Sen. Jon Ossoff to criticize the shutdown of surveillance programs.",
-    "Trump announced 50‑percent tariffs on roughly 5 % of Canadian exports—about $10 billion in new costs—using Section 338 of the Tariff Act to retaliate for wildfire smoke, targeting diverse goods like mezcal, fishing rods, honey, whey protein and hockey sticks."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260721111953.3.66aa137de151ca92@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Oy, Canada Tariffs",
-   "date": "2026-07-21T04:19-07:00",
-   "url": "https://paulkrugman.substack.com/p/oy-canada-tariffs",
-   "bullets": [
-    "The Trump administration invoked the unused Smoot‑Hawley Section 338 to slap 50% tariffs on a broad swath of Canadian goods, citing alleged Canadian discrimination and even wildfire smoke, though the real motive appears political retaliation.",
-    "Krugman argues the tariffs violate the US‑Mexico‑Canada Agreement, were never justified, and will hurt U.S. consumers without extracting concessions, underscoring Trump’s pattern of breaking trade deals on a whim."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260721103049.3.4071da96aa8b8f15@mg-d1.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Covid-19 waking up, Cyclospora marches on, and measles is close to hitting a milestone",
-   "date": "2026-07-21T03:30-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/covid-19-waking-up-cyclospora-marches",
-   "bullets": [
-    "Covid-19 is showing early summer resurgence, especially in the West where ER visits, test positivity and wastewater signals rise, so adults over 65 who missed the spring booster should get vaccinated now",
-    "U.S. measles cases have hit 2,278 by July 19, 2026—on track to break a 33‑year record—with 96% of cases among the unvaccinated, prompting advice to protect infants and stay up‑to‑date on shots",
-    "Cyclospora infections have surged past 11,000 cases across 46 states, driven by a massive Michigan outbreak and a nationwide shredded iceberg lettuce recall linked to Taylor Farms, so residents in the 27 recall states should avoid that lettuce, especially if pregnant, over 65, or immunocompromised"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260721095855.3.16cc9ce41fd848bc@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Bumbling Warmonger Picks Worst Possible Time to Escalate His Iran War",
-   "date": "2026-07-21T02:58-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/bumbling-warmonger-picks-worst-possible",
-   "bullets": [
-    "Trump has reignited the Iran war despite a recent ceasefire collapse, while U.S. oil reserves hit their lowest level since 1983, tightening global supply.",
-    "Houthis are moving to block the Bab‑al‑Mandeb Strait, threatening an extra 7% of world oil flow and nearly doubling the loss from the Hormuz blockade.",
-    "Ukraine’s dismantling of Russian refinery capacity further spikes the risk of global oil shortages as the economy teeters on the brink."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260721013016.3.a32948d6904b826f@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "This Famous Indian Journalist Has a Warning for the U.S. Media Under Trump",
-   "date": "2026-07-20T18:30-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/a-warning-for-the-us-from-an-indian-journalist",
-   "bullets": [
-    "Former NDTV anchor Sreenivasan Jain left after billionaire Gautam Adani bought a majority stake in 2022, turning the channel into a pro‑Modi outlet and prompting a wave of resignations.",
-    "Jain warns that without financially powerful owners willing to defend editorial independence, newsrooms in both India and the U.S. are vulnerable to capture, citing jailed, assaulted and killed journalists in India’s ‘world’s biggest democracy’.",
-    "He highlights the rise of pro‑BJP ‘Godi media’, anti‑Muslim propaganda, Bollywood figures coerced by the far‑right, and advises U.S. journalists to emulate India’s independent outlets like Newslaundry."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 67,
-  "total": 380
+  "shown": 66,
+  "total": 382
  }
 }
