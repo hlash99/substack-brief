@@ -1,57 +1,80 @@
 {
- "updated": "2026-08-22T07:44-07:00",
+ "updated": "2026-08-22T16:41-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s escalating war on Iran has drained U.S. missile stockpiles and triggered a federal crackdown on leaks, raising fears of a strategic vacuum in the Middle East (Zeteo, The Bulwark).",
-   "The GOP’s focus on a “human printer” and a million‑dollar sex‑toy scandal illustrates how Trump’s inner circle is being weaponized for political theater, while the fallout fuels intra‑party tensions (The Bulwark, Zeteo).",
-   "Wildfire smoke and rising dengue cases are turning climate change into a public health crisis, with N95 masks underused despite proven efficacy, and COVID‑19 resurging in the South (Your Local Epidemiologist).",
-   "A grassroots upset in Florida’s Democratic primary shows under‑funded candidates can defeat establishment figures, signaling a shift toward outsider politics ahead of 2028 (The Message Box).",
-   "U.S. voters largely reject deepening military integration with Israel and are skeptical of Trump‑backed financial moves, reflecting broader wariness of foreign policy and corporate influence (Zeteo, The Message Box).",
-   "Inflation‑breakeven rates and credit‑default spreads remain flat, suggesting no imminent U.S. debt crisis despite soaring bond yields driven by AI investment and post‑tax‑cut deficits (Paul Krugman)."
+   "The 2028 Democratic electability debate is being hijacked by a myth of swing‑voter bias that limits candidate choices and lowers the party’s ceiling (The Message Box, The Bulwark).",
+   "North Carolina Governor Roy Cooper is fighting a $100 million attack campaign from Trump allies that could secure GOP Senate control until 2029 (The Bulwark, Zeteo).",
+   "Israel’s continued “targeted” strikes in Gaza, even after Jared Kushner’s failed ceasefire talks, have escalated civilian casualties and drawn international condemnation (Zeteo).",
+   "The Trump administration’s interference in the Census Bureau and its push to delete corporate ownership records are eroding trust in federal data and raising legal questions (The Bulwark).",
+   "U.S. debt is now growing at a pace that matches or exceeds interest rates, driven largely by permanent tax cuts, and could become a fiscal crisis if Democrats fail to act (Paul Krugman).",
+   "The Iran war is draining GOP midterm messaging and inflating gas and grocery prices, forcing Republican leaders to justify the conflict while Trump’s approval plummets (The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20260816235237.3.17120f7b95b79fc6@mg-d0.substack.com",
-   "20260817102826.3.d12d6666a9d13a1f@mg2.substack.com",
-   "20260817110430.3.f487b6d81d70eead@mg2.substack.com",
-   "20260817111151.3.afc08e9ce8c61962@mg-d1.substack.com",
-   "20260817130820.3.285d4ece92c1b899@mg2.substack.com",
-   "20260817132718.3.1a591008007e4846@mg-d1.substack.com",
-   "20260817140532.3.d3336faa3859d5c2@mg-d1.substack.com",
-   "20260817164611.3.8e199bdb6c07abfb@mg-d1.substack.com",
-   "20260817180651.3.73a660423f809bff@mg2.substack.com",
-   "20260817204943.3.e355e6edfcffaec2@mg-d0.substack.com",
-   "20260818000212.3.d333a7bd6ec4d87c@mg2.substack.com",
-   "20260818023528.3.ab315d3daa493349@mg2.substack.com",
-   "20260818090123.3.afcb4697fbc1a67c@mg-d0.substack.com",
-   "20260818101701.3.fece45aad9f77b8b@mg2.substack.com",
-   "20260818103045.3.9bd70caf83b2305f@mg2.substack.com",
-   "20260818112059.3.9ebbb5c9cd60c23e@mg2.substack.com",
-   "20260818112250.3.a0c443121b85e058@mg2.substack.com",
-   "20260818131651.3.c4604c4dcc50fb1e@mg-d1.substack.com",
-   "20260818162301.3.db9f1cbcb6088a9b@mg2.substack.com",
-   "20260818165945.3.59dfdf78e469643c@mg-d0.substack.com",
-   "20260818180110.3.e71c75799c8357e4@mg-d1.substack.com",
-   "20260818231824.3.783f14a79f5db413@mg-d0.substack.com",
-   "20260819004156.3.13c315d34524bdcd@mg-d1.substack.com",
-   "20260819010049.3.8482a58a7276a811@mg2.substack.com",
-   "20260819102645.3.d47f8cf7a2b7a145@mg2.substack.com",
-   "20260819112622.3.35e852ad7288f5cd@mg-d1.substack.com",
-   "20260819131447.3.92a61c0452e37fb8@mg2.substack.com",
-   "20260819132741.3.6b3b785322243788@mg-d0.substack.com",
-   "20260819133135.3.b540fce230d11a53@mg2.substack.com",
-   "20260819135150.3.c86449c685a83f2e@mg2.substack.com",
-   "20260819154536.3.6a3f2b2b281cb7cb@mg2.substack.com",
-   "20260819163720.3.7e4a8ecef1cd2fa0@mg-d1.substack.com",
-   "20260819180221.3.5f46a165c345ba78@mg-d0.substack.com",
-   "20260819220105.3.fb0bce32c068efa4@mg-d0.substack.com"
+   "20260820001628.3.556eeec2b2d520f2@mg-d0.substack.com",
+   "20260820103053.3.5df0e7176e47a96d@mg-d1.substack.com",
+   "20260820112538.3.9c54c4695f0b98f8@mg-d0.substack.com",
+   "20260820134148.3.7de0ceffb4ff7e1f@mg2.substack.com",
+   "20260820140852.3.e6f3ac2179e9195d@mg2.substack.com",
+   "20260820143514.3.8f192967b625fb7f@mg-d1.substack.com",
+   "20260820160139.3.75b78db59f99f09f@mg-d0.substack.com",
+   "20260820164119.3.1c3d628206a944cc@mg-d0.substack.com",
+   "20260820194546.3.5614bae1c78227c1@mg-d1.substack.com",
+   "20260821000049.3.15d2ce174c3d02b4@mg-d0.substack.com",
+   "20260821012404.3.998c2451f7d6d667@mg2.substack.com",
+   "20260821104425.3.82108e33c183c2dc@mg-d0.substack.com",
+   "20260821111927.3.428263bfa58911fa@mg2.substack.com",
+   "20260821111941.3.8b394607c46e2541@mg-d0.substack.com",
+   "20260821132811.3.29b79730606f59fc@mg-d1.substack.com",
+   "20260821144548.3.3582baacfd0a1c76@mg-d1.substack.com",
+   "20260821190130.3.1bcd5720d7e0f61d@mg-d0.substack.com",
+   "20260821191851.3.b42fa1af14853942@mg-d0.substack.com",
+   "20260821210417.3.d9bc8f81f8956b5f@mg-d1.substack.com",
+   "20260821233239.3.9639cc5ab562a518@mg2.substack.com",
+   "20260822000115.3.1fe8a22a50b02ff2@mg2.substack.com",
+   "20260822100139.3.d63699ae7d957cbd@mg-d1.substack.com",
+   "20260822114404.3.8f7cfd80bd39cd5a@mg-d0.substack.com",
+   "20260822123115.3.cf5836e3e7ffe0ba@mg-d1.substack.com",
+   "20260822124945.3.a32fbb29cc3e04d6@mg-d0.substack.com",
+   "20260822130217.3.0ed08774915a773e@mg-d1.substack.com",
+   "20260822130306.3.13ecc82828f93105@mg-d0.substack.com",
+   "20260822170109.3.77d608ea32976404@mg-d1.substack.com",
+   "20260822170820.3.160a1df70826be04@mg-d1.substack.com"
   ],
-  "updated": "2026-08-19T16:42-07:00",
+  "updated": "2026-08-22T16:41-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260822170820.3.160a1df70826be04@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "This isn’t my first rodeo",
+   "date": "2026-08-22T10:08-07:00",
+   "url": "https://roycoopernc.substack.com/p/this-isnt-my-first-rodeo",
+   "bullets": [
+    "Roy Cooper claims he has never lost an election, citing six statewide victories in North Carolina and framing the current Senate race as a pivotal fight for Democratic control of the Senate.",
+    "He accuses the GOP, President Trump, JD Vance, and far‑right groups of launching a $100 million attack campaign, citing a new poll that ties the race and alleging the attacks are designed to prevent Democrats from regaining the Senate.",
+    "Cooper urges supporters to donate $5 to counter the GOP attacks and flip North Carolina blue, linking to a fundraising page for the campaign."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260822170109.3.77d608ea32976404@mg-d1.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: Israel Kills At Least 17 Palestinians in Gaza in Days After Kushner Meeting",
+   "date": "2026-08-22T10:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israel-kills-gaza-kushner-settlers",
+   "bullets": [
+    "An Israeli strike on a Gaza City seaside cafe killed at least six people, including a child, left bodies mangled and forced survivors into the sea, according to eyewitnesses.",
+    "The attack occurred a day after Jared Kushner left the region without securing a ceasefire, and Israeli officials reportedly agreed they could continue ‘targeted’ strikes despite the failed negotiations.",
+    "In the West Bank, Israeli settlers intensified a siege of Qusra, pledged to return to Gaza, and a Palestinian teen was killed in a settler raid in Khirbet Hamroush."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260822143100.3.ed4a6c1c1cacfd14@mg-d1.substack.com",
    "newsletter": "Adrian Carrasquillo",
@@ -73,10 +96,11 @@
    "date": "2026-08-22T06:03-07:00",
    "url": "https://post.substack.com/p/slowing-down-sounds-admirable-until",
    "bullets": [
-    "This week, we’re reading buzzy novels for free, turning cakes into canines, and squeezing our lemons while we still can. Katie Lowe ditched some of the comforts, and distractions, of the modern world two years ago. Was it worth it?",
-    "Do you really want a “slow life”? [ https://substack.com/redirect/ab3a2045-2053-4ca3-bd63-4aa67bc4c9c5?j=eyJ1IjoiNWJ2anRsIn0.dvJG6tliYeGynhwMZWxeGfDYkCv6sNTbe4jHfFG5Nf8 ] —katie lowe  in Rayon [ https://substack.com/redirect/844e95d1-c80e-4…"
+    "Katie Lowe marks two years of an analog, phone‑free experiment, describing evenings of quiet gardening, chores and long phone‑free conversations as a new normal that feels both soothing and anxiety‑provoking.",
+    "Natasha Stagg argues that contemporary writers are pressured to become influencers, noting how literary success is now measured by algorithms, cash prizes with demanding promotional duties, and the uneasy need for agents to shield them from relentless marketing tasks.",
+    "The newsletter links to longer pieces on Lowe’s slow‑life experiment and Stagg’s critique of the literary market, inviting readers to explore the full arguments behind these personal and industry reflections."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260822130217.3.0ed08774915a773e@mg-d1.substack.com",
@@ -5240,33 +5264,6 @@
     "Bari Weiss hired former Slate host Mike Pesca, who was suspended in 2021 for arguing white people should sometimes use the n‑word, as CBS News editorial director of podcasts.",
     "Critics, including a former colleague, view the hire as evidence Weiss is building a staff tolerant of controversial speech about race.",
     "The piece also claims the White House Correspondents’ Association threatens press freedom and notes CNN’s cautious optimism after the WarnerMount merger."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260722162550.3.778be2cf3d99bab3@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "How to Unlock the Authenticity Trap",
-   "date": "2026-07-22T09:25-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/how-to-unlock-the-authenticity-trap",
-   "bullets": [
-    "The author argues that the political industry’s push for ‘authentic’ candidates—those who ‘talk like a normal person’—is a reaction to Trump’s perceived authenticity, which voters equate with realness and a willingness to overturn elections, while dismissing more qualified but seemingly polished Democrats as phony.",
-    "He cites the example of Maine candidate Graham Platner, whose rugged oysterman persona and controversial online history were seen by voters as evidence of authenticity, yet his personal flaws ultimately led to his political failure, illustrating that authenticity can be a double‑edged sword."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260722150115.3.69a6bc64429a708e@mg-d1.substack.com",
-   "newsletter": "We're Not Kidding | Zeteo",
-   "pub": "zeteo",
-   "subject": "When Hasan Piker Met Mehdi Hasan",
-   "date": "2026-07-22T08:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/hasan-piker-michigan-democrats-tucker-carlson",
-   "bullets": [
-    "Hasan Piker is a target of the Democratic party establishment",
-    "Haley Stevens has a 12-1 spending advantage over Abdul El-Sayed",
-    "Tucker Carlson may be setting up JD Vance for 2028"
    ],
    "summary_by": "groq"
   }
