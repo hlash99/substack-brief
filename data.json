@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T16:43-07:00",
+ "updated": "2026-08-22T07:44-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,116 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260822143100.3.ed4a6c1c1cacfd14@mg-d1.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "ICE Wants a Weapon That Leaves No Mark",
+   "date": "2026-08-22T07:31-07:00",
+   "url": null,
+   "bullets": [
+    "ICE’S NEW INVESTMENT—a purchase of thousands of electric-shock gloves—sounds like something out of a dystopian movie. And it turns out that the likely logic behind the purchase is disturbing.",
+    "According to an acquisition-planning form [ https://substack.com/redirect/3beaee7e-eda1-4460-af2f-c46afae62af0?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] published by the Department of Homeland Security last week, I…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260822130306.3.13ecc82828f93105@mg-d0.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“Slowing down sounds admirable until you realize that most of slowness is just being bored and alone in your thoug…",
+   "date": "2026-08-22T06:03-07:00",
+   "url": "https://post.substack.com/p/slowing-down-sounds-admirable-until",
+   "bullets": [
+    "This week, we’re reading buzzy novels for free, turning cakes into canines, and squeezing our lemons while we still can. Katie Lowe ditched some of the comforts, and distractions, of the modern world two years ago. Was it worth it?",
+    "Do you really want a “slow life”? [ https://substack.com/redirect/ab3a2045-2053-4ca3-bd63-4aa67bc4c9c5?j=eyJ1IjoiNWJ2anRsIn0.dvJG6tliYeGynhwMZWxeGfDYkCv6sNTbe4jHfFG5Nf8 ] —katie lowe  in Rayon [ https://substack.com/redirect/844e95d1-c80e-4…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260822130217.3.0ed08774915a773e@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "A Federal Judge Is Promoting His Pro-Israel Book Live From His Judicial Chambers",
+   "date": "2026-08-22T06:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/judge-roy-altman-trump-israel",
+   "bullets": [
+    "Judge Roy Altman, a Trump‑appointed Southern District of Florida judge, has livestreamed from his chambers on pro‑Israel shows, labeling the Palestinian keffiyeh a “terrorism scarf” and promoting his book denying genocide.",
+    "Altman has joined right‑wing groups claiming to fight “lawful Islamism,” bragged about taking 10% of the federal judiciary on trips to Israel, and allegedly used judicial trips to shape other judges’ views on Israel and Gaza.",
+    "A Florida attorney has filed a complaint with the U.S. Court of Appeals alleging Altman violated judicial ethics for his public political activities and use of judicial resources."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260822124945.3.a32fbb29cc3e04d6@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "The 2028 Electability Trap Roiling Democrats",
+   "date": "2026-08-22T05:49-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/the-2028-electability-trap-roiling",
+   "bullets": [
+    "Dan Pfeiffer argues that the 2028 Democratic electability debate is driven by a myth of swing‑voter bias, limiting candidate choices and lowering the party’s ceiling.",
+    "He cites Kamala Harris’s 2024 loss in swing states and the Georgia governor race, where Keisha Lance Bottoms won most counties, to show that perceived electability often misjudges real voter behavior.",
+    "Pfeiffer warns that this discourse can trap Democrats in a cycle of self‑imposed constraints, preventing diverse and potentially winning candidates from emerging."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260822123115.3.cf5836e3e7ffe0ba@mg-d1.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A Wild Week: Human Printers, Ossoff, Todd Blanche, Baseball and so much more",
+   "date": "2026-08-22T05:31-07:00",
+   "url": null,
+   "bullets": [
+    "ICE arrested Haitian pastor Carl Ruby in Springfield, targeting 30 people in a Cincinnati ICE jail, prompting calls to support Haitian Community Help & Support Center, St. Vincent de Paul, and Second Harvest Food Bank.",
+    "The Bulwark plans a fall tour with live shows in Columbia, Charlotte, Atlanta, and a book tour for Sarah’s new book “How to Eat an Elephant,” encouraging subscribers to join events and chat groups.",
+    "A new game, YEA or NAY, lets players test historical Senate voting patterns, highlighting how rare perfect party‑line votes are and offering a trivia‑style challenge for political enthusiasts."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260822114404.3.8f7cfd80bd39cd5a@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Jared Bernstein on Debt",
+   "date": "2026-08-22T04:44-07:00",
+   "url": "https://paulkrugman.substack.com/p/jared-bernstein-on-debt",
+   "bullets": [
+    "Bernstein warns that the U.S. debt trajectory has turned risky as the growth rate (≈2% real) now roughly matches or falls below interest rates, while the deficit runs about 6% of GDP, double the sustainable level he argues for.",
+    "He attributes the worsening fiscal outlook primarily to the permanent Bush and Trump tax cuts, which he and Bobby Kogan estimate would have kept the debt‑to‑GDP ratio stable if omitted, and notes that Democrats helped cement these cuts.",
+    "Bernstein says CBO’s optimistic debt forecasts rely on continued tariff revenues and fading Trump cuts—assumptions that appear unrealistic, making the current budget math far less comfortable."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260822100139.3.d63699ae7d957cbd@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Jon Ossoff is Winning the Voters Democrats Need Most (with Amy Walter)",
+   "date": "2026-08-22T03:01-07:00",
+   "url": null,
+   "bullets": [
+    "Sen. Jon Ossoff is gaining traction among Georgia swing voters, according to a recent focus group that highlighted his appeal over his opponent; Amy Walter and Sarah Longwell analyze why Ossoff resonates with undecided voters.",
+    "The podcast examines the massive polling errors in Wisconsin and Michigan primaries, featuring a Wisconsin focus group that explains how David Crowley’s last‑minute surge was possible despite earlier misreadings.",
+    "They discuss AOC’s “Woke 1 was crazy” remarks and explore whether swing voters’ complaints about both parties stem from politicians’ actions or broader cultural influences."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260822000115.3.1fe8a22a50b02ff2@mg2.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Vot…",
+   "date": "2026-08-21T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-83-supreme",
+   "bullets": [
+    "Attorney General Todd Blanche refused to pledge DOJ independence and hinted the department may ask the Supreme Court to overturn dozens of lost lawsuits seeking voter‑roll data.",
+    "The DOJ announced plans to deploy roughly 1,000 election monitors for the November midterms, despite evidence that voter fraud is virtually nonexistent.",
+    "The Supreme Court temporarily blocked a lower‑court order, allowing construction of the White House ballroom to continue, with the project now two‑thirds complete and a 250‑person crew working around the clock."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260821233239.3.9639cc5ab562a518@mg2.substack.com",
    "newsletter": "Tim Miller - The Bulwark",
@@ -5159,121 +5269,10 @@
     "Tucker Carlson may be setting up JD Vance for 2028"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260722133051.3.a8d8962189c61c98@mg2.substack.com",
-   "newsletter": "Here Be Dragons from Barbara F. Walter",
-   "pub": "barbarafwalter",
-   "subject": "Can You Admit Trump Was Right About One Thing?",
-   "date": "2026-07-22T06:30-07:00",
-   "url": "https://barbarafwalter.substack.com/p/can-you-admit-trump-was-right-about",
-   "bullets": [
-    "Walter argues that most people, even Trump opponents, can identify at least one Trump policy they consider good, but silence due to preference falsification and the spiral of silence prevents public acknowledgment.",
-    "She explains that this self‑censorship distorts perceptions of public opinion, deepens polarization, and harms democratic deliberation by hiding common ground.",
-    "Walter urges readers to comment with a single Trump policy they think was right, hoping the exercise will restore intellectual honesty and magnanimity in American politics."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260722131609.3.1e8ac7afaefee3eb@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Cabinet of Contempt",
-   "date": "2026-07-22T06:16-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/trumps-cabinet-of-contempt-senate-iran-war-pentagon-defense-funding-hegseth-questions-blanche-justice-doj-attorney-general-epstein-maxwell",
-   "bullets": [
-    "Trump warned on Truth Social that any Iranian attack on a Strait of Hormuz ship will trigger a U.S. strike on a bridge or power plant in Tehran, reviving a hard‑line Iran policy.",
-    "Senator Ossoff and Gary Peters pressed Defense Secretary Pete Hegseth on his claims that Iran’s Revolutionary Guard is “broken,” noting the ongoing costly campaign and a $90 billion funding request reveal a gap between rhetoric and reality, echoing past U.S. overconfidence in Iraq, Afghanistan and against ISIS.",
-    "Former Deputy Attorney General Todd Blanche’s Senate Judiciary testimony claimed he learned of Ghislaine Maxwell’s prison transfer from public reports and was uninvolved in the decision, a narrative many find implausible given his prior personal meeting with Maxwell and his central role in the Epstein investigation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260722103122.3.a5033dc783788d44@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Platner May Be Out But the Media Insists on Punishing Democrats in Maine",
-   "date": "2026-07-22T03:31-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/platner-may-be-out-but-the-media",
-   "bullets": [
-    "Maine’s Democratic Senate primary saw outsider Graham Platner win the gubernatorial primary before being removed over rape accusations, leading to a rapid replacement by former state Senate president Troy Jackson, who secured overwhelming support from 17,000 Democratic primary voters and faced no serious opposition.",
-    "National media, according to the author, framed the Maine Senate race as a failure for Democrats, focusing on internal chaos rather than policy or the broader impact of Trump’s actions, and criticized the progressive candidate despite his strong grassroots backing.",
-    "The piece also notes a new development in the Trump administration’s effort to silence and deport student protester Mohsen Mahdawi, linking it to broader concerns about political repression."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260722103147.3.4b4ff2ba0335fa78@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Oligarchy and the Media",
-   "date": "2026-07-22T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/oligarchy-and-the-media",
-   "bullets": [
-    "A NYT analysis finds 20% of 2024 campaign contributions came from just 300 billionaires, showing outsized political influence from a tiny elite.",
-    "Krugman argues that billionaire owners—Ellison, Musk, Zuckerberg, Bezos—are reshaping major media outlets (CBS, CNN, X, Facebook, Washington Post) to favor right‑wing, pro‑rich narratives.",
-    "Legal challenges to Paramount’s attempted Warner/CNN takeover could block further media consolidation, but broader billionaire control of information remains a systemic threat."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260722103154.3.e4b5415c069eb9eb@mg2.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Ending clock changes. But which direction should we reset the clock?",
-   "date": "2026-07-22T03:31-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/ending-clock-changes-but-which-direction",
-   "bullets": [
-    "The House passed the Sunshine Protection Act (308‑117) to make daylight saving time permanent, but most sleep‑medicine and circadian‑biology groups recommend permanent standard time because it aligns better with natural morning light cues.",
-    "Spring‑forward costs Americans ~40 minutes of sleep, raises fatal car crashes and workplace injuries by ~6 % in the first week, while permanent DST would shift winter sunrise to after 8:15 a.m for 200 million people, worsening circadian misalignment linked to obesity, metabolic disease and cancer risk.",
-    "Congress now faces two bills—permanent DST versus permanent standard time (H.R.9638)—and public input is still possible; meanwhile, individuals can mitigate clock‑change effects by getting morning sunlight, dimming evenings, and keeping consistent sleep schedules."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260722090146.3.56819f86fbce713f@mg-d0.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Old Tapes",
-   "date": "2026-07-22T02:01-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/old-tapes",
-   "bullets": [
-    "China’s car exports topped 1 million units in June, a 27% rise, outpacing U.S. production capacity and pushing the country toward a $1 trillion trade surplus despite reduced tariffs.",
-    "Domestic subsidies for Chinese car buyers are being withdrawn, causing a slump in home sales and forcing manufacturers like BYD and Chery to rely on aggressive overseas expansion amid trade tensions.",
-    "The newsletter argues this export‑driven model—heavy early subsidies then rapid global market flooding—is now being replicated in AI, threatening Western tech firms and reshaping investment risks."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260722012308.3.621a447b4de6b3a2@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Everything You Need to Know About the U.S. Criminal Case Against Nicolás Maduro",
-   "date": "2026-07-21T18:23-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/maduro-criminal-case-hearing-trump-what-to-know",
-   "bullets": [
-    "Maduro and his wife Cilia Flores face U.S. federal charges of conspiring to import and distribute cocaine, allegedly overseeing a drug network that moved hundreds of kilograms of cocaine into the U.S. since at least 2015",
-    "Their 2023 capture in Venezuela was part of a Trump‑era “regime‑change” operation, raising legal questions about the legitimacy of the arrest and extradition process",
-    "The case proceeds in U.S. court because prosecutors argue the drug conspiracy violated U.S. drug‑trafficking statutes and involved U.S. financial institutions, giving federal jurisdiction"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260722002238.3.1e5abe0ab0623542@mg2.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "This Deranged New Campaign Ad Creeped Us Out!",
-   "date": "2026-07-21T17:22-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/this-deranged-new-campaign-ad-creeped",
-   "bullets": [
-    "Will Sommer critiques a bizarre AI-generated political ad run by a Ted Cruz‑aligned group in Florida, mocking its whacky candidate lineup and absurd messaging.",
-    "He assesses the ongoing Iran war, the South Carolina Republican Senate primary, and the Michigan Senate race, contrasting online narratives with on‑the‑ground realities."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 68,
+  "shown": 70,
   "total": 382
  }
 }
