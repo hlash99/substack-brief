@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T07:45-07:00",
+ "updated": "2026-08-23T16:41-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -47,6 +47,48 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260823230149.3.d1ecd4e2c4473fa9@mg2.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Roy Cooper’s Radical Strategy: Act Normal",
+   "date": "2026-08-23T16:01-07:00",
+   "url": null,
+   "bullets": [
+    "Polls show former governor Roy Cooper leading Republican Michael Whatley by nine points in the NC Senate race, despite his low‑key, “Make Stuff Cost Less” campaign focused on utility and grocery costs.",
+    "Democratic pollster John Anzalone argues Cooper’s authentic, folksy appeal resonates with independents and frustrated voters, a strategy that helped him win tight statewide races like the 2016 governor’s race.",
+    "North Carolina’s narrow presidential margins (Trump +1.3‑3.7 points, Romney +2.0) suggest the state remains competitive, but Democrats must still win unaffiliated voters and a slice of rural Trump support to flip the Senate seat."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260823162622.3.f3a50e6c29819dd7@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Answering your most burning questions",
+   "date": "2026-08-23T09:26-07:00",
+   "url": "https://roycoopernc.substack.com/p/answering-your-most-burning-questions",
+   "bullets": [
+    "The author recounts growing up on a farm, describing rural childhood experiences and how they shaped his perspective.",
+    "He addresses readers' curiosity about his personal habits, including his stance on diet soda consumption.",
+    "He invites further questions from the audience, encouraging comments for additional insight."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260823160243.3.425030ce018c0397@mg-d0.substack.com",
+   "newsletter": "We're Not Kidding | Zeteo",
+   "pub": "zeteo",
+   "subject": "Trump’s Crypto Corruption Is Off The Charts — Mehdi and Ben McKenzie Explore Why",
+   "date": "2026-08-23T09:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-crypto-corruption-ben-mckenzie",
+   "bullets": [
+    "Ben McKenzie’s documentary “Everyone Is Lying to You For Money” streams online from Aug 22 to Sept 6, exposing fraud in the crypto industry and featuring his interview with convicted grifter Sam Bankman‑Fried.",
+    "The film traces crypto money flows from Miami to El Salvador to London and argues the industry has deep ties to both Republican and Democratic parties, using the Trump family as a prime fraud target.",
+    "Ben bluntly tells disillusioned Democrats to quit the party, warning that corporate crypto interests now dominate its agenda."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260823120341.3.5873c7dd4d36e787@mg2.substack.com",
    "newsletter": "Zeteo",
@@ -5170,65 +5212,10 @@
     "The piece warns that the Trump administration’s smear campaign against Fauci threatens scientific integrity, public‑health preparedness, national security, and democratic norms."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260723213604.3.4f8572f1499af5df@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "‘Explosive Diarrhea’: Company Tied to Outbreak Donated to Trump as He Delayed Food Safety Rule",
-   "date": "2026-07-23T14:36-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/taylor-farms-trump-donations-explosive-diarrhea",
-   "bullets": [
-    "Taylor Farms and industry groups lobbied to defund a foodborne illness testing program that handled about 80% of U.S. public testing, weakening disease detection.",
-    "During Trump's second term, the same lobbying network pushed to delay a tracing rule that could have quickly identified cyclosporiasis sources, and the delay was codified in a funding bill after Taylor Farms donated $1 million to a pro‑Trump super PAC and another $1 million to a House Republicans' super PAC.",
-    "Legal complaints and employee testimonies describe unsanitary conditions and long hours at Taylor Farms facilities, which experts say can exacerbate the spread of foodborne illnesses like the current \"explosive diarrhea\" outbreak."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260723170135.3.3843683757b35877@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The AI Layoff Trap",
-   "date": "2026-07-23T10:01-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/the-ai-artificial-intelligence-layoff-trap",
-   "bullets": [
-    "A Trump‑era civics quiz for high‑schoolers was allegedly rigged so a Sikh Connecticut student was eliminated in favor of three white contestants, illustrating perceived bias toward Heritage and MAGA supporters.",
-    "A new Wharton paper warns that rapid AI‑driven worker replacement could trigger mass unemployment, depress consumer demand, and create a Prisoner’s Dilemma where firms that adopt AI fastest hurt the overall economy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260723153159.3.2775e2e1d294b2c2@mg-d0.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "MAGA Rallies Around Andrew Tate",
-   "date": "2026-07-23T08:31-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/maga-rallies-around-andrew-tristan-tate-brothers",
-   "bullets": [
-    "Andrew Tate was arrested in Miami on sex trafficking charges.",
-    "Rep. Abe Hamadeh claims the Tates are victims of politicized lawfare.",
-    "MAGA supporters are urging the Trump administration to block the Tates' extradition to the UK."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260723150047.3.251cd339e1ba84ee@mg2.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "‘Five-Alarm Fire’: Top Senate Democrat on ‘Corrupt’ Elections, AIPAC Funding, and Ending the Iran War",
-   "date": "2026-07-23T08:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/mark-warner-elections-iran-israel-aipac-trump",
-   "bullets": [
-    "Sen. Mark Warner says Trump’s claim to end the Iran war in two weeks is false, citing no imminent threat and labeling the conflict a 'war of choice' while criticizing Trump’s lack of congressional transparency and a $70 billion funding request from Defense Secretary Pete Hegseth.",
-    "Warner defends his vote for Marco Rubio as Secretary of State, supports arms sales to Israel but opposes bulldozer sales, and denies that Israel is committing genocide in Gaza, contrasting it with other genocides such as Sudan, Rohingya, and Uyghur.",
-    "He admits to receiving AIPAC money, disputes Trump’s election interference allegations, calls the ‘five‑alarm fire’ about corrupt elections exaggerated, and outlines his stance on ICE and future U.S. foreign policy."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 71,
-  "total": 379
+  "shown": 73,
+  "total": 378
  }
 }
