@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T16:41-07:00",
+ "updated": "2026-08-23T07:45-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -48,6 +48,61 @@
  },
  "items": [
   {
+   "id": "20260823120341.3.5873c7dd4d36e787@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Exclusive Offer: 50% Off The Lever!",
+   "date": "2026-08-23T05:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/exclusive-offer-50-off-the-lever",
+   "bullets": [
+    "The Lever, an award‑winning investigative newsroom, reports that oligarch‑funded party insiders are spending millions to protect their preferred candidates in the upcoming midterms, targeting newcomers like Zohran Mamdani, Abdul El‑Sayed, and Melat Kiros.",
+    "Zeteo subscribers can get a forever 50% discount on Lever membership—under $1 a week—for full access to investigative reports, newsletters, podcasts, live events, and bonus content such as the ‘Master Plan’ podcast series and a discounted e‑book on legalizing corruption.",
+    "The new season of Lever’s ‘Master Plan’ podcast examines the decades‑long effort to create an all‑powerful presidency, culminating in the Trump administration, with early access and extra materials for paid subscribers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260823113037.3.cf92ac8937fea9fa@mg-d1.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Little-Known Episode Offers a Big Clue to El-Sayed’s Politics",
+   "date": "2026-08-23T04:30-07:00",
+   "url": null,
+   "bullets": [
+    "Abdul El‑Sayed publicly backs “Medicare for All” but says he’ll support incremental steps, a public option, and permits employers and unions to keep private plans, though details are vague.",
+    "His lack of legislative record as a former city and county health director makes his future Senate stance uncertain, but a little‑known past episode may reveal how he balances reducing corporate power with expanding public coverage."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260823103101.3.a0189d27dc1e4c60@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Debt and Tax Cuts",
+   "date": "2026-08-23T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/debt-and-tax-cuts",
+   "bullets": [
+    "Krugman argues that the headline $40 trillion debt figure is misleading; measured properly the debt is about $32 trillion and not an immediate crisis despite higher rates.",
+    "He blames Republican tax cuts—under George W. Bush and Donald Trump—for inflating the debt-to-GDP ratio, noting that without those cuts the debt would be far lower.",
+    "The upcoming installment will propose Democratic policy solutions and examine historical spending, the loss of the Clinton surplus, aging entitlements, and tax‑cut impacts."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260823090154.3.8f64266ca140a42e@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Marginal Rations",
+   "date": "2026-08-23T02:01-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/marginal-rations",
+   "bullets": [
+    "The diesel crack spread in the US hit a record $102 per barrel, reflecting unprecedented tightness caused by the Ukraine and Iran wars disrupting supply.",
+    "Diesel shortages threaten global supply chains because diesel engines power food harvesting and long‑distance freight, risking product shortages and inflation amid Western fiscal crises.",
+    "The author warns that hype obscures root causes, urging data‑driven analysis to anticipate government and market responses to the diesel shock."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260822170820.3.160a1df70826be04@mg-d1.substack.com",
    "newsletter": "Roy Cooper",
    "pub": "roycoopernc",
@@ -83,10 +138,11 @@
    "date": "2026-08-22T07:31-07:00",
    "url": null,
    "bullets": [
-    "ICE’S NEW INVESTMENT—a purchase of thousands of electric-shock gloves—sounds like something out of a dystopian movie. And it turns out that the likely logic behind the purchase is disturbing.",
-    "According to an acquisition-planning form [ https://substack.com/redirect/3beaee7e-eda1-4460-af2f-c46afae62af0?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] published by the Department of Homeland Security last week, I…"
+    "ICE plans to spend $10‑$20 million on 12,000+ “G.L.O.V.E.” electric‑shock gloves from Compliant Technologies, marketing them as non‑lethal de‑escalation tools but critics say they’re meant to avoid video evidence and lawsuits",
+    "The gloves are classified as “hard techniques” in ICE’s force continuum, allowed only when empty‑handed methods fail, yet the manufacturer warns they must not be used on vulnerable groups and limits shocks to 15 seconds, a rule ICE’s training may ignore",
+    "A Kentucky lawsuit alleges a detainee was shocked dozens of times, with some shocks lasting up to 99 seconds, highlighting the risk of misuse despite required certification that ICE has yet to fully adopt"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260822130306.3.13ecc82828f93105@mg-d0.substack.com",
@@ -537,10 +593,11 @@
    "date": "2026-08-19T07:01-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/today-4pm-et-francesca-albanese-joins",
    "bullets": [
-    "Settler violence has hit an “all-time high [ https://substack.com/redirect/49451550-743b-4b00-b3e9-9d2f3aee48ef?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]” in the occupied West Bank, and in Qusra, extremist settlers…",
-    "Meanwhile, the genocide in Gaza continues as Israel’s national security minister openly calls [ https://substack.com/redirect/ea6ce776-1f5d-4bd3-97a7-c3e52822fbaf?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] for the “…"
+    "Settler violence in the occupied West Bank has reached an all‑time high, with extremist settlers besieging homes in Qusra, cutting off electricity and water, and attacking municipal workers.",
+    "Israel’s national security minister has publicly called for nightly “targeted assassinations” of 30‑40 people in Gaza, amid the ongoing genocide.",
+    "UN special rapporteur Francesca Albanese, a vocal critic of Netanyahu, will join Mehdi for a live Zeteo town‑hall at 4 PM ET to discuss the West Bank “pogroms” and Gaza crisis."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260819135150.3.c86449c685a83f2e@mg2.substack.com",
@@ -5168,108 +5225,10 @@
     "He admits to receiving AIPAC money, disputes Trump’s election interference allegations, calls the ‘five‑alarm fire’ about corrupt elections exaggerated, and outlines his stance on ICE and future U.S. foreign policy."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260723132116.3.71f66490b93510c6@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "What’s More Unpopular Than Starting a War?",
-   "date": "2026-07-23T06:21-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/whats-more-unpopular-than-starting-war-iran-hormuz-bombing-energy-oil-crude-prices-trump-houthis-poll-midterms-democrats-congress-gop",
-   "bullets": [
-    "Trump’s administration just approved a $73 billion budget resolution to fund a war in Iran that has cost the U.S. 18 service members, hundreds of wounded, and tens of billions, while public approval of the war sits at 34 % and 52 % of voters want it ended immediately.",
-    "A University of Maryland poll shows 58 % of Americans believe the Iran war harms U.S. interests, with 76 % of Democrats, 65 % of independents, and 23 % of Republicans calling for an end, yet Republicans are trailing Democrats by 6–11 points in generic ballot polls.",
-    "Trump’s own base has fallen from 50 % to roughly 33 % in favor of the war, and the president’s rhetoric has shifted to “bomb the bridges and power plants,” while the Strait of Hormuz remains closed and Iranian-backed Houthi attacks are disrupting Red Sea shipping, worsening the U.S. energy crisis."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260723110129.3.3426387502809e3a@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Trump Is Dangerously Unwell. So Why Are These Dems Helping Him?",
-   "date": "2026-07-23T04:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-is-dangerously-unwell-so-why",
-   "bullets": [
-    "The newsletter claims Donald Trump is mentally unfit, citing his threats to raise taxes over Canada’s fires, re‑escalate war in Iran, and pursue an unconstitutional third term, which they say endangers the global economy.",
-    "It accuses some Democrats of aiding Trump by supporting his policies and fundraising, despite his alleged dangerous actions such as spiking drug prices and threatening war crimes.",
-    "The authors reference a 2020 Portland federal judge ruling that barred Trump’s agents from targeting journalists, drawing a parallel to current authoritarian tendencies."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260723103142.3.38898e34d759f95c@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Elon Musk, the New Hero of Populism",
-   "date": "2026-07-23T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/elon-musk-the-new-hero-of-populism",
-   "bullets": [
-    "A Harris survey shows 73% of Americans now view wealth inequality as a serious issue, up from 66% in 2022, and a UMass poll finds 58% see billionaires as a threat to democracy.",
-    "Top donor data reveal that by 2024 the richest 100 contributors spent three times more on Republicans than Democrats, with Elon Musk leading a new wave of flamboyant, public billionaire political influence.",
-    "Krugman argues Musk’s overt, narcissistic activism—mirroring Trump’s style—has unintentionally mobilized public backlash against oligarchic power, turning a billionaire into an unlikely populist rallying point."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260723101912.3.4429c9a0e818637b@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "What Everyone Gets Wrong About the Politics of Israel",
-   "date": "2026-07-23T03:19-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/what-everyone-gets-wrong-about-the",
-   "bullets": [
-    "The Michigan Senate primary pits progressive Abdul El‑Sayed, who calls Israel an apartheid state and wants to cut aid, against moderate Haley Stevens, who supports unconditional aid and is backed by AIPAC and the Democratic establishment.",
-    "Stevens is positioned as a mainstream Democrat who votes with Biden almost 100%, but on Israel she diverges from the party’s leftward shift, highlighting that moderation must target issues where voters see the party as extreme.",
-    "A NYT/Siena poll shows 53% of voters think Democrats are too far left versus 47% for Republicans, suggesting Democrats need moderate‑appearing candidates in swing states, yet using Israel as a moderating issue risks alienating the base without gaining centrist voters."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260723010603.3.48a48819d769de00@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "George Conway Is Back—and Trump Gave Him PLENTY to Work With",
-   "date": "2026-07-22T18:06-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/george-conway-is-backand-trump-gave",
-   "bullets": [
-    "Trump Media plans to sell Wall Street firms early access to market‑moving Truth Social posts, a scheme George Conway says gives Trump ample material to work with.",
-    "The DOJ has issued subpoenas targeting New York Times reporters and their families, while Trump’s Qatar‑based jet and the newly activated Alien Terrorist Removal Court are also discussed.",
-    "The episode also touches on the Paramount‑Warner merger and how these issues intersect with ongoing legal and political battles."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260723000553.3.bb541e97ef2de5f4@mg-d0.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Dems’ Populism Paradox",
-   "date": "2026-07-22T17:05-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/democrats-populism-paradox",
-   "bullets": [
-    "Polling shows Republican Susan Collins leads non‑college voters by 21 points while progressive candidate Graham Platner led college‑educated voters by 34 points, and Rep. Haley Stevens leads non‑college voters by 22 points over progressive Abdul El‑Sayed in Michigan.",
-    "Progressive strategists argue the Democratic struggle with non‑college voters is a party‑wide branding issue, not a left‑wing problem, citing Bernie Sanders aide Mark Longabaugh and Justice Democrats spokesperson Usamah Andrabi.",
-    "Progressives downplay Stevens' poll advantage, attributing it to $50 million in super‑PAC spending, while acknowledging that Democratic candidates of all stripes have failed to win back working‑class voters since 2024."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260723000152.3.aa028aed95c6255b@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Bari Weiss’s Latest Hire Has an N-Word Problem",
-   "date": "2026-07-22T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/bari-weisss-latest-hire-n-word-problem",
-   "bullets": [
-    "Bari Weiss hired former Slate host Mike Pesca, who was suspended in 2021 for arguing white people should sometimes use the n‑word, as CBS News editorial director of podcasts.",
-    "Critics, including a former colleague, view the hire as evidence Weiss is building a staff tolerant of controversial speech about race.",
-    "The piece also claims the White House Correspondents’ Association threatens press freedom and notes CNN’s cautious optimism after the WarnerMount merger."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 70,
-  "total": 382
+  "shown": 71,
+  "total": 379
  }
 }
