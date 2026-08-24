@@ -1,38 +1,18 @@
 {
- "updated": "2026-08-24T08:06-07:00",
+ "updated": "2026-08-24T16:42-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2028 Democratic electability debate is being hijacked by a myth of swing‑voter bias that limits candidate choices and lowers the party’s ceiling (The Message Box, The Bulwark).",
-   "North Carolina Governor Roy Cooper is fighting a $100 million attack campaign from Trump allies that could secure GOP Senate control until 2029 (The Bulwark, Zeteo).",
-   "Israel’s continued “targeted” strikes in Gaza, even after Jared Kushner’s failed ceasefire talks, have escalated civilian casualties and drawn international condemnation (Zeteo).",
-   "The Trump administration’s interference in the Census Bureau and its push to delete corporate ownership records are eroding trust in federal data and raising legal questions (The Bulwark).",
-   "U.S. debt is now growing at a pace that matches or exceeds interest rates, driven largely by permanent tax cuts, and could become a fiscal crisis if Democrats fail to act (Paul Krugman).",
-   "The Iran war is draining GOP midterm messaging and inflating gas and grocery prices, forcing Republican leaders to justify the conflict while Trump’s approval plummets (The Bulwark)."
+   "Trump’s renewed tariff war with Canada is spiraling into a full‑blown economic conflict that threatens both U.S. supply chains and Canadian political stability, with analysts warning the U.S. will suffer more (The Bulwark, Zeteo, Paul Krugman).",
+   "Republican tax‑cut legacies are inflating the national debt to dangerous levels, a point underscored by Krugman’s debt analysis and the broader fiscal warnings from the Message Box (Paul Krugman, The Message Box).",
+   "Democrats are scrambling to redefine electability and counter aggressive GOP messaging, as highlighted by Dan Pfeiffer’s electability trap piece and the Jeffries‑Kushner meeting coverage (The Message Box, The Bulwark).",
+   "ICE’s push for “non‑lethal” electric‑shock gloves raises fresh civil‑rights alarms amid a broader trend of aggressive enforcement tactics (Adrian Carrasquillo).",
+   "Escalating violence in the Israel‑Palestine theater, linked to the fallout from Jared Kushner’s regional diplomacy, is intensifying humanitarian concerns (Zeteo).",
+   "The political‑media ecosystem is increasingly saturated with sensationalist narratives, from Trump‑centric scandals to crypto corruption exposés, shaping public discourse across multiple newsletters (Zeteo, Doomberg)."
   ],
   "by": "groq",
   "ids": [
-   "20260820001628.3.556eeec2b2d520f2@mg-d0.substack.com",
-   "20260820103053.3.5df0e7176e47a96d@mg-d1.substack.com",
-   "20260820112538.3.9c54c4695f0b98f8@mg-d0.substack.com",
-   "20260820134148.3.7de0ceffb4ff7e1f@mg2.substack.com",
-   "20260820140852.3.e6f3ac2179e9195d@mg2.substack.com",
-   "20260820143514.3.8f192967b625fb7f@mg-d1.substack.com",
-   "20260820160139.3.75b78db59f99f09f@mg-d0.substack.com",
-   "20260820164119.3.1c3d628206a944cc@mg-d0.substack.com",
-   "20260820194546.3.5614bae1c78227c1@mg-d1.substack.com",
-   "20260821000049.3.15d2ce174c3d02b4@mg-d0.substack.com",
-   "20260821012404.3.998c2451f7d6d667@mg2.substack.com",
-   "20260821104425.3.82108e33c183c2dc@mg-d0.substack.com",
-   "20260821111927.3.428263bfa58911fa@mg2.substack.com",
-   "20260821111941.3.8b394607c46e2541@mg-d0.substack.com",
-   "20260821132811.3.29b79730606f59fc@mg-d1.substack.com",
-   "20260821144548.3.3582baacfd0a1c76@mg-d1.substack.com",
-   "20260821190130.3.1bcd5720d7e0f61d@mg-d0.substack.com",
-   "20260821191851.3.b42fa1af14853942@mg-d0.substack.com",
-   "20260821210417.3.d9bc8f81f8956b5f@mg-d1.substack.com",
-   "20260821233239.3.9639cc5ab562a518@mg2.substack.com",
    "20260822000115.3.1fe8a22a50b02ff2@mg2.substack.com",
    "20260822100139.3.d63699ae7d957cbd@mg-d1.substack.com",
    "20260822114404.3.8f7cfd80bd39cd5a@mg-d0.substack.com",
@@ -40,13 +20,85 @@
    "20260822124945.3.a32fbb29cc3e04d6@mg-d0.substack.com",
    "20260822130217.3.0ed08774915a773e@mg-d1.substack.com",
    "20260822130306.3.13ecc82828f93105@mg-d0.substack.com",
+   "20260822143100.3.ed4a6c1c1cacfd14@mg-d1.substack.com",
    "20260822170109.3.77d608ea32976404@mg-d1.substack.com",
-   "20260822170820.3.160a1df70826be04@mg-d1.substack.com"
+   "20260822170820.3.160a1df70826be04@mg-d1.substack.com",
+   "20260823090154.3.8f64266ca140a42e@mg-d1.substack.com",
+   "20260823103101.3.a0189d27dc1e4c60@mg-d0.substack.com",
+   "20260823113037.3.cf92ac8937fea9fa@mg-d1.substack.com",
+   "20260823120341.3.5873c7dd4d36e787@mg2.substack.com",
+   "20260823160243.3.425030ce018c0397@mg-d0.substack.com",
+   "20260823162622.3.f3a50e6c29819dd7@mg-d1.substack.com",
+   "20260823230149.3.d1ecd4e2c4473fa9@mg2.substack.com",
+   "20260824000112.3.80de990285a19f1d@mg-d1.substack.com",
+   "20260824011542.3.064d2c8e80059ad2@mg2.substack.com",
+   "20260824103114.3.8a048c35f96577ed@mg-d1.substack.com",
+   "20260824111236.3.470542d2455a7ce6@mg-d0.substack.com",
+   "20260824133207.3.0194fb99731b4e1e@mg-d1.substack.com",
+   "20260824142828.3.450502ac8a3c113f@mg2.substack.com",
+   "20260824160637.3.f9736ceaab0fb91d@mg-d1.substack.com",
+   "20260824162943.3.e157ca3ca1204974@mg-d0.substack.com",
+   "20260824171546.3.6f4bc7deac0a3713@mg-d1.substack.com",
+   "20260824220614.3.203a2b0a18beb03f@mg-d1.substack.com"
   ],
-  "updated": "2026-08-22T16:41-07:00",
+  "updated": "2026-08-24T16:42-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260824220614.3.203a2b0a18beb03f@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Canada’s Message to Trump: Kiss My Ass",
+   "date": "2026-08-24T15:06-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s claim of a U.S.-Canada trade deficit is mathematically flawed, as Canada runs a surplus with the U.S. and the two economies are tightly integrated, especially in autos.",
+    "Ontario Premier Doug Ford retorted to Trump’s trade attacks with a profane “kiss my ass” message, while Prime Minister Mark Carney pivots toward deeper EU economic ties to offset U.S. pressure.",
+    "Analysts warn the escalating tariff war could backfire on American workers and consumers by disrupting the cross‑border auto supply chain and raising prices."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260824171546.3.6f4bc7deac0a3713@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump and Natalie: A F*cked-Up Love Story",
+   "date": "2026-08-24T10:15-07:00",
+   "url": null,
+   "bullets": [
+    "The Daily Beast uncovered a 2017 96‑second video by Natalie J. Harp, in which she claims a 2015 sterile‑water infusion caused hemorrhagic shock, cancer and chronic pain, and credits Donald Trump’s 2016 campaign rhetoric with saving her life.",
+    "Harp later expanded this narrative in a 2019 LinkedIn essay, further dramatizing her alleged medical tragedy and positioning Trump as a heroic figure for “the forgotten,” suggesting a fabricated, self‑promotional mythos."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260824162943.3.e157ca3ca1204974@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "The Jeffries-Kushner Meeting: What It Actually Means",
+   "date": "2026-08-24T09:29-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/the-jeffries-kushner-meeting-what",
+   "bullets": [
+    "House Minority Leader Hakeem Jeffries met privately with Trump’s son‑in‑law Jared Kushner in New York, a secretive discussion arranged by a mutual friend, according to five sources.",
+    "The meeting, described as a broad conversation on various topics, was timed as Republicans anticipate a Democratic‑led House and seek to build a working relationship before any power shift.",
+    "Democrats, including figures like Mehdi Hasan, reacted with intense anger, accusing Jeffries of legitimizing a corrupt figure, while only a few party members defended the engagement."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260824160637.3.f9736ceaab0fb91d@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Mehdi Debates Pete Hegseth’s Christian Nationalist Pastor Ally",
+   "date": "2026-08-24T09:06-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/christian-nationalism-doug-wilson-hegseth",
+   "bullets": [
+    "Mehdi confronts Pastor Douglas Wilson, a self‑described Christian nationalist linked to Secretary of Defense Pete Hegseth, over his vision to repeal the 19th Amendment, ban gay marriage and bar non‑Christians from office, arguing the Constitution contains no Christian references.",
+    "Wilson defends a book calling slavery a “mutual affection” relationship, claims states keeping gay marriage should be expelled, and asserts the U.S. was founded as a Christian nation, all of which Mehdi fact‑checks with historical evidence."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260824142828.3.450502ac8a3c113f@mg2.substack.com",
    "newsletter": "Roy Cooper",
@@ -55,10 +107,10 @@
    "date": "2026-08-24T07:28-07:00",
    "url": "https://roycoopernc.substack.com/p/my-advice-for-students-heading-back",
    "bullets": [
-    "Back-to-school season was always so important to my family. And I’ll have to confess in grade school, I loved it. Getting new notebooks, pencils and maybe a new lunch box was exciting.",
-    "My mom, Beverly, spent decades teaching in Nash County public schools, where I grew up and I went to school as well. Every fall, our house had that electric energy as we got ready for the start of the year. When my mom taught, she was up be…"
+    "Senator Roy Cooper, son of a longtime public‑school teacher, emphasizes his lifelong support for public education and promises to continue advocating for schools in the U.S. Senate.",
+    "He offers back‑to‑school advice: accept nervousness, get involved in activities, eat a good breakfast, be kind, and, if able, help supply drives since teachers often fund classroom needs themselves."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260824133207.3.0194fb99731b4e1e@mg-d1.substack.com",
@@ -5141,78 +5193,10 @@
     "Part 2 of the series contends that disinformation about a lab leak is being used to target scientists like Fauci, undermining science and democratic norms, while the factual record points to natural origins."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260724223647.3.84f8b54426357ffb@mg-d0.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 79: GOP Targets Former Special Counsel Jack Smith as Trump DOJ Awakens 'Zombie' Immi…",
-   "date": "2026-07-24T15:36-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-79-gop",
-   "bullets": [
-    "The DOJ filed its first-ever application to the dormant 1996 Alien Terrorist Removal Court, a “zombie” tribunal that can deport non‑citizens labeled “alien terrorists” using secret evidence.",
-    "House Judiciary Chair Jim Jordan urged Acting AG Todd Blanche to prosecute former special counsel Jack Smith, accusing him of false statements, while Smith’s lawyers say the move weaponizes the justice system.",
-    "Federal judges approved a new Tennessee congressional map that splits the majority‑Black Memphis district, eliminating the state’s only Democratic seat and paving the way for an additional GOP seat in the midterms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260724220207.3.bbb087f6287c563e@mg-d0.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Second Iran War?",
-   "date": "2026-07-24T15:02-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/the-second-iran-war",
-   "bullets": [
-    "The DoD removed four soldiers’ names from the Iran war casualty list, saying they died after Trump’s April cease‑fire, implying a second, legally distinct Iran war.",
-    "The newsletter teases a secret Bulwark+ podcast with JVL and Sarah covering this topic plus interviews with Tom Homan on Jan. 6 shooters, Haley Stevens’ authenticity, a Mitch McConnell conspiracy, and a discussion on raising good men."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260724190152.3.77b23ea1bda14318@mg-d0.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "‘The Odyssey’ Was Never Going to Bomb, Despite Grifter Angst",
-   "date": "2026-07-24T12:01-07:00",
-   "url": null,
-   "bullets": [
-    "Conservative Twitter outrage over casting in Christopher Nolan’s The Odyssey proved misplaced, as the film earned nearly $200 million domestically in six days, outpacing Oppenheimer and on track for $500‑$600 million US and $1.2‑$1.4 billion worldwide, easily covering its $375 million budget.",
-    "The author argues the backlash stemmed from a flawed belief that social‑media fury can sink movies—a pattern misread from the failures of Lightyear, Snow White and Supergirl, which actually flopped due to weak audience appeal, not online protests."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260724183543.3.bf4f05ea361999c3@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "BREAKING: ICC Member States Dismiss Chief Prosecutor",
-   "date": "2026-07-24T11:35-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/breaking-icc-member-states-dismiss-karim-khan",
-   "bullets": [
-    "82 of 110 ICC member states voted to remove Chief Prosecutor Karim Khan after a junior lawyer alleged non‑consensual sexual contact beginning in March 2023, with a second intern accusing similar misconduct in August 2025.",
-    "The allegations surfaced as Khan prepared arrest warrants for Israeli leaders and Hamas officials, prompting an external investigation, a March panel finding insufficient evidence, and ultimately disciplinary proceedings leading to his suspension and dismissal.",
-    "Human Rights Watch and a coalition of 180+ Palestinian and international groups warned the process politicized the ICC, while the African Bar Association cautioned that political bodies lacking legal expertise could undermine the Court’s credibility."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260724155801.3.1658bebf984e7dbf@mg-d1.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Inside Trump’s Stealth Trick to Rig the Census—and Congress",
-   "date": "2026-07-24T08:58-07:00",
-   "url": null,
-   "bullets": [
-    "A late‑June filing shows the Trump administration drafted rules to recategorize millions of both unauthorized and legal immigrants as not residing in the U.S., effectively erasing them from the census count",
-    "By excluding these immigrants, the rule would shrink state populations, reshaping congressional seats, electoral‑college votes and the allocation of trillions in federal funding tied to census data",
-    "The move, driven by anti‑immigrant sentiment and a desire to shift political power, has gone largely unnoticed despite its potentially massive impact on representation and resources"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 72,
-  "total": 378
+  "shown": 73,
+  "total": 377
  }
 }
