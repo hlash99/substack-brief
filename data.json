@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T16:41-07:00",
+ "updated": "2026-08-24T08:06-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -47,6 +47,86 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260824142828.3.450502ac8a3c113f@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "My advice for students heading back to school",
+   "date": "2026-08-24T07:28-07:00",
+   "url": "https://roycoopernc.substack.com/p/my-advice-for-students-heading-back",
+   "bullets": [
+    "Back-to-school season was always so important to my family. And I’ll have to confess in grade school, I loved it. Getting new notebooks, pencils and maybe a new lunch box was exciting.",
+    "My mom, Beverly, spent decades teaching in Nash County public schools, where I grew up and I went to school as well. Every fall, our house had that electric energy as we got ready for the start of the year. When my mom taught, she was up be…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260824133207.3.0194fb99731b4e1e@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Reality TV Cabinet Secretary Has No Grasp of Reality",
+   "date": "2026-08-24T06:32-07:00",
+   "url": null,
+   "bullets": [
+    "The New York Times reports a Russian autonomous drone killed three civilians in Zaporizhzhia, marking possibly the first fatalities from an AI‑controlled weapon system.",
+    "Transportation Secretary Sean Duffy defended Trump’s renewed tariff war with Canada, falsely claiming Canada lacks a military and attacking its euthanasia policy, despite Canada’s historic wartime contributions and lower suicide rate.",
+    "The Wall Street Journal editorial called Trump’s escalation of the Canada tariff dispute “the dumbest trade war,” saying it makes no economic or political sense."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260824111236.3.470542d2455a7ce6@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "🍁 It’s a Huge Scandal That Trump Is Plunging Us Into ‘War’ With Canada",
+   "date": "2026-08-24T04:12-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/its-a-huge-scandal-that-trump-is",
+   "bullets": [
+    "Trump’s administration has escalated an economic war with Canada, re‑imposing tariffs and derailing trade talks, prompting Canadian leaders to question the U.S.–led global order.",
+    "The newsletter links Trump’s “Economic D‑Day” with Iran and criticizes Hakeem Jeffries for a secret meeting with Jared Kushner, framing both as part of the broader conflict."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260824103114.3.8a048c35f96577ed@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Moose That Roared",
+   "date": "2026-08-24T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-moose-that-roared",
+   "bullets": [
+    "Trump imposed steep tariffs on Canadian goods, prompting Canada to ban U.S. alcohol sales and walk out of renegotiations, escalating a trade war despite Canada’s smaller economy.",
+    "Krugman argues the U.S. depends heavily on Canadian imports—lumber, heavy crude, hydropower, and auto parts—so a full trade war would hurt America more than Canada.",
+    "He predicts Trump will lose the trade war, as Canadians are willing to bear the pain while American public opinion turns against his economic policies."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260824011542.3.064d2c8e80059ad2@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Tim and Will Tour Where MAGA Goes to Party, Fight & Get Arrested",
+   "date": "2026-08-23T18:15-07:00",
+   "url": null,
+   "bullets": [
+    "Tim Miller returns to DC for a chaotic tour of MAGA hotspots, including a $500,000 membership club co‑founded by Donald Trump Jr. and a bar where Rand Paul’s son was seen with Rep. Mike Lawler.",
+    "Will Sommer’s scavenger‑hunt guide also visits a strip‑mall club where Bessent allegedly threatened Bill Pulte and even checks out Mitch McConnell’s house, though it’s unclear who’s inside."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260824000112.3.80de990285a19f1d@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Trump Needs to Channel His Inner George Constanza to End His Disastrous Iran War",
+   "date": "2026-08-23T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-iran-george-constanza-opposite-seinfeld",
+   "bullets": [
+    "Six months into the U.S. war with Iran, the author argues President Trump appears clueless, making decisions that consistently backfire and reveal flawed assumptions about the conflict.",
+    "The piece likens Trump’s missteps to George Constanza’s self‑deprecating quote, suggesting every strategic choice on Iran has produced unintended, disastrous outcomes."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260823230149.3.d1ecd4e2c4473fa9@mg2.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
@@ -5129,93 +5209,10 @@
     "The move, driven by anti‑immigrant sentiment and a desire to shift political power, has gone largely unnoticed despite its potentially massive impact on representation and resources"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260724133718.3.9190469f5e420f21@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Tries to Erase the Casualties of His War",
-   "date": "2026-07-24T06:37-07:00",
-   "url": null,
-   "bullets": [
-    "The Trump administration removed four U.S. soldiers—Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad, and Sgt. Michael Emmanuel Swinton—from the Pentagon’s Iran‑war casualty list, citing “temporary data disruptions” while the deaths actually occurred after a cease‑fire declaration, a move seen as an attempt to avoid congressional war‑powers accountability.",
-    "President Trump abruptly added a condition to a signed Saudi nuclear‑program deal, demanding Saudi recognition of Israel via the Abraham Accords, effectively nullifying the agreement after signing and prompting Saudi officials to warn that tweets cannot overturn signed contracts.",
-    "The newsletter criticizes Trump’s pattern of reneging on agreements—such as the Iran memorandum of understanding and the Saudi nuclear deal—highlighting his view of contracts as leverage tools rather than binding commitments, and warns that this undermines U.S. credibility worldwide."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260724121522.3.7c30460a8270b7d9@mg2.substack.com",
-   "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
-   "pub": "macgregorwarrior",
-   "subject": "Why is America’s Army Falling Apart?",
-   "date": "2026-07-24T05:15-07:00",
-   "url": "https://macgregorwarrior.substack.com/p/why-is-americas-army-falling-apart",
-   "bullets": [
-    "Senator John McCain warned that the U.S. Army faces a crisis, citing a multibillion‑dollar acquisition graveyard that includes the $20 billion Future Combat System and the $6 billion Warfighter Information Network‑Tactical program.",
-    "Macgregor argues the Army urgently needs fresh, qualified general officers and a Secretary of the Army who will hold senior leaders accountable, rather than appointing defense‑industry executives or hedge‑fund managers.",
-    "He warns that without such reforms the Army will lose the first battle of the next war, and America may never get a second chance to fight."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260724110320.3.cf432f0185f9bb20@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Elon Musk, Islamophobe",
-   "date": "2026-07-24T04:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/elon-musk-islamophobe",
-   "bullets": [
-    "Elon Musk, the world’s first trillionaire and major Trump donor, has repeatedly amplified anti‑Muslim voices like Tommy Robinson on X, posting nearly 200 anti‑Muslim messages about UK grooming gangs in early 2025 and promoting the extremist film “Citizen Vigilante.”",
-    "Despite this record, mainstream media has largely ignored Musk’s Islamophobia; the Economist’s editor Zanny Minton Beddoes finally confronted him in an interview, asking directly if he is anti‑Muslim and criticizing his platforming of the film that glorifies violence against a Muslim immigrant family."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260724103117.3.0bf006347c9e758b@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Quagmire of the Vanities",
-   "date": "2026-07-24T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/quagmire-of-the-vanities",
-   "bullets": [
-    "Trump’s vanity keeps a losing war on Iran alive, driving oil to $100 a barrel and inflating the effective price to about $140 due to a cracked $65 spread between crude and refined products.",
-    "Refining capacity shortages—exacerbated by the Iran conflict and Ukraine’s attacks on Russian energy—push diesel and gasoline prices far above pre‑war levels, threatening a resurgence of inflation.",
-    "Escalating U.S. military presence and new tariffs on forced‑labor accusations could spur higher interest rates and deepen economic strain on families and businesses."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260724103014.3.a6dd87406de709b7@mg-d1.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Why is gauging health risk so hard?",
-   "date": "2026-07-24T03:30-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/why-is-gauging-health-risk-so-hard",
-   "bullets": [
-    "The US faces a surge of emerging health threats—Hantavirus, measles, Ebola, etc.—exacerbated by underfunded public health, climate change, and a skeptical, media‑driven public.",
-    "Frequent, sensationalized alerts risk causing panic fatigue; if warnings repeatedly overstate danger, people will ignore future threats, worsening preventable disease outcomes and economic costs.",
-    "The author argues that individuals struggle to assess risk and scientists to convey it because of four intertwined factors: infrastructure cuts, climate impacts, low institutional trust, and click‑bait media dynamics."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260724005959.3.48654cbd5305607f@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Tulsi, Trump, and the War on Fauci – Part 1: The Smear Campaign",
-   "date": "2026-07-23T17:59-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/tulsi-trump-and-the-war-on-fauci",
-   "bullets": [
-    "Tulsi Gabbard claimed declassified documents prove a U.S. Department of Defense‑run network of foreign biolabs led by Fauci caused a COVID‑19 lab leak and that Fauci lied to Congress, but the author finds no evidence of a leak or wrongdoing in the papers.",
-    "The author cites virologist Dr. Angela Rasmussen to argue the pandemic’s origin is consistent with zoonotic spillover from Wuhan’s Huanan Seafood Market, aligning with Fauci’s testimony that NIAID‑funded work did not start the outbreak.",
-    "The piece warns that the Trump administration’s smear campaign against Fauci threatens scientific integrity, public‑health preparedness, national security, and democratic norms."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 73,
+  "shown": 72,
   "total": 378
  }
 }
