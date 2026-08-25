@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T08:10-07:00",
+ "updated": "2026-08-25T16:44-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -45,6 +45,73 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260825232034.3.4c942a3ab59ada33@mg-d0.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "I Worked for Trump. The Natalie Harp Saga Isn’t Surprising.",
+   "date": "2026-08-25T16:20-07:00",
+   "url": null,
+   "bullets": [
+    "The newsletter claims that Natalie Harp’s close proximity to President Trump and her role in relaying messages from senators reveal a pattern of unusual power dynamics and obsequious behavior, including her sending overly flattering letters to the president.",
+    "The author, who has personal experience working in Trump’s environment, argues that Harp’s situation is not unique but part of a broader trend of Trump’s staff being expected to perform extreme, often humiliating tasks—such as steaming his pants while he was still wearing them—to gain favor and access."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260825220054.3.771fa6d200c09d10@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "‘Nerd Reich’ Author Exposes What Far-Right Tech Bosses Actually Want",
+   "date": "2026-08-25T15:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/nerd-reich-author-gil-duran",
+   "bullets": [
+    "Peter Thiel’s 2010 talk framed technology as a way to bypass elections, suggesting Silicon Valley’s elite view democracy as a barrier to their power and aim for a tech‑run future.",
+    "Journalist Gil Durán argues that Silicon Valley’s “Nerd Reich” believes the U.S. will collapse and that tech moguls are actively trying to trigger that collapse, a claim explored in his book and interview."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260825192733.3.3dcc76c962b78bd1@mg-d0.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Atheist Congressman Taking On MAGA’s Nationalist Crusaders",
+   "date": "2026-08-25T12:27-07:00",
+   "url": null,
+   "bullets": [
+    "Five-and-a-half years removed from the day, it’s hard to find many politicians who want to relitigate the chaos of January 6, 2021. Donald Trump pardoned the rioters, which is a private embarrassment to many Republicans. And Democrats, as t…",
+    "But not every Democrat feels such reluctance. In fact, one House member has a new book out exploring how militant groups banded together to storm the U.S. Capitol, why politicians excused and even celebrated their behavior, and what it all …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260825170105.3.209e08dce6349361@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Why ‘We Need To Tax Billionaires’",
+   "date": "2026-08-25T10:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-we-need-to-tax-billionaires-zucman-excerpt",
+   "bullets": [
+    "Zucman’s research shows U.S. and European billionaires often pay near‑zero income tax by routing earnings through offshore holding companies, with French billionaires taxed at only 1.25% on €3 billion dividends versus 30% for ordinary shareholders.",
+    "New data from tax‑return collaborations reveal that even iconic figures like Elon Musk and Jeff Bezos sometimes receive tax credits despite massive wealth, highlighting a systemic loophole where the ultra‑rich effectively make income tax optional.",
+    "A wealth tax on ultra‑high‑net‑worth individuals is proposed as the next democratic step, since billionaire tax contributions currently represent a negligible share of national revenue (e.g., 0.03% loss if French billionaires fled offshore)."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260825162841.3.994d24e9d3e9c6bb@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump vs. The Leaders of the Free World",
+   "date": "2026-08-25T09:28-07:00",
+   "url": null,
+   "bullets": [
+    "The author argues that the United States has effectively lost its status as the “leader of the free world,” with Trump’s America actively opposing the liberal order it once championed.",
+    "Citing a Bulwark Daily podcast where Tim called former Bank of England governor Mark Carney a ‘leader of the free world’ for confronting the U.S. president, the piece suggests that new leadership is emerging outside America.",
+    "According to the author, a ‘triumvirate’ of non‑U.S. figures now guides the free world’s future as liberal democracies organize to defend themselves from Trump’s policies."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260825140250.3.2005b69a6da18b64@mg-d0.substack.com",
    "newsletter": "Roy Cooper",
@@ -5178,24 +5245,10 @@
     "Opposing lawmakers, led by Senators Angus King and Martin Heinrich and several House members, warn the arch and other projects would violate multiple laws, could result in criminal fines, and represent a “stone‑cold illegal” erosion of America’s cultural heritage."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260725170032.3.dd09780783defa66@mg-d1.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine: Francesca Albanese Calls Escalating Israeli Attacks in West Bank 'Pogroms' After Deadly We…",
-   "date": "2026-07-25T10:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-settler-violence-west-bank-gaza",
-   "bullets": [
-    "UN special rapporteur Francesca Albanese labeled recent settler attacks in the West Bank as “pogroms” and urged an arms embargo on Israel amid four Palestinian and two Israeli soldier deaths.",
-    "Settlers carried out some of the deadliest violence this year, facing little prosecution while Israel imposed collective punishments like curfews, roadblocks and mass raids on Palestinians.",
-    "The week also saw continued Israeli strikes on Gaza, including the killing of a family of six, further violating the declared ceasefire."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 72,
-  "total": 377
+  "shown": 73,
+  "total": 381
  }
 }
