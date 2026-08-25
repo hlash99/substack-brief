@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T16:42-07:00",
+ "updated": "2026-08-25T08:10-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -45,6 +45,102 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260825140250.3.2005b69a6da18b64@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "A tough update",
+   "date": "2026-08-25T07:02-07:00",
+   "url": "https://roycoopernc.substack.com/p/a-tough-update",
+   "bullets": [
+    "JD Vance visited North Carolina, Trump attacked Cooper on Truth Social, and Stephen Miller criticized him on Fox News, fueling negative coverage.",
+    "Republicans have spent nearly $100 million in the race and the GOP super PAC launched false attack ads, while a recent poll shows the contest is statistically tied."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260825133409.3.ac6b5b34d2097447@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Everyone, Take a Deep Breath About That SCOTUS Decision",
+   "date": "2026-08-25T06:34-07:00",
+   "url": null,
+   "bullets": [
+    "Tales from the world’s stupidest trade war, per the president [ https://substack.com/redirect/0475c5e8-9064-4997-9f3b-10a6aa73684f?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] this morning: “The United States is givin…",
+    "Trump might not have delivered his base lower prices, or an end to foreign wars, or even a Reflecting Pool that works. But at least he hasn’t gone back on his most central promise: A constant parade of countries to bully for their amusement…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260825110205.3.da83da24cf1fdce0@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "🐂 Abdul El-Sayed Went on Fox and Cut Through Jesse Watters's Bullshit",
+   "date": "2026-08-25T04:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/abdul-el-sayed-went-on-fox-and-cut",
+   "bullets": [
+    "Abdul El‑Sayed, the Democratic Senate candidate in Michigan, held a 26‑minute Fox interview with Jesse Watters, managing to shut down the host and score points by mocking Republican opponent Mike Rogers as a “beta” and highlighting his 11‑to‑1 spending disadvantage against Rep. Haley Stevens backed by AIPAC.",
+    "El‑Sayed deflected Watters’ culture‑war attacks, turning the conversation toward substantive issues like healthcare, inequality and cost‑of‑living, while also dismissing accusations about sharia law by likening it to canon law.",
+    "The newsletter notes that while Trump’s trade war with Canada continues and Treasury Secretary Scott Bessent announced new Iran sanctions, the administration remains reluctant to confront China or Russia over their trade with Tehran."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260825103125.3.cf1152829723c007@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Losing the Iran War: The Economic Front",
+   "date": "2026-08-25T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/losing-the-iran-war-the-economic",
+   "bullets": [
+    "Trump’s claim that Iran is defeated and a deal imminent is false; the U.S. is trying to reopen the Strait of Hormuz, but estimates of 8 million barrels per day are unreliable and the strategic impact is limited.",
+    "U.S. military setbacks in the Gulf have left it unable to protect allies, so Iran can likely expand attacks on regional oil infrastructure, while refined‑product price spikes persist due to global refining shortages, not crude prices.",
+    "China can easily offset U.S. sanctions—its economy dwarfs Iran’s ($45 billion export revenue is 0.2% of China’s GDP)—making any U.S. attempt to economically isolate Iran implausible."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260825103122.3.6dab032628d28395@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Foodborne illness increase? Common cold, Covid-19 summer wave, and more.",
+   "date": "2026-08-25T03:31-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/foodborne-illness-increase-common",
+   "bullets": [
+    "Common colds are rising as schools reopen, with peak runny noses expected by mid‑September, while Covid‑19 wastewater levels are low nationally but sharply increasing in the West and South, especially affecting children under five and adults over 65.",
+    "Food recall counts this year (483) are average, but recall volume jumped 2,432% to 37.18 million lbs—driven by a massive Cyclospora outbreak—suggesting possible under‑detection of foodborne illness despite stable recall numbers.",
+    "A personalized mRNA melanoma therapy showed markedly lower recurrence and death risk in early trials, and the U.S. age‑adjusted death rate fell 4.6% in 2025 versus 2024, though declines lag for American Indians and Alaska Natives."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260825002338.3.9e85353788e1a05b@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A MAGA Propaganda Circular Firing Squad",
+   "date": "2026-08-24T17:23-07:00",
+   "url": null,
+   "bullets": [
+    "Jennica Pounds, known as “Data Republican,” claimed a State Department undersecretary, Sarah B. Rogers, tried to trap her into leaking Cuba documents, risking treason charges.",
+    "The allegation is odd because Pounds is a Trump‑administration favorite who rose to fame for dubious data claims about Elon Musk’s cuts to USAID during the DOGE era.",
+    "The piece suggests Rogers, praised by MAGA for defending far‑right speech in Europe, may be embroiled in a bizarre internal conspiracy, prompting a Bulwark+ subscription pitch."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260825000105.3.ec83fceba22da7f7@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "A Tale of Two Genocides: The West’s Hypocrisy in Gaza Desecrates Remembrance in Myanmar",
+   "date": "2026-08-24T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/two-genocide-rohingya-gaza-west-hypocrisy",
+   "bullets": [
+    "Rohingya Genocide Remembrance Day marks the 2017 Myanmar “clearance operations” that displaced 1.2 million Rohingya to Bangladesh and killed an estimated 30,000 people.",
+    "The U.S. formally declared the attacks genocide on March 21 2022 after interviewing refugees and reviewing soldier whistleblowers, finding orders to shoot indiscriminately, burn villages, rape women and use racial slurs.",
+    "The newsletter argues Western condemnation of Myanmar’s atrocities starkly contrasts with its muted response to Israel’s actions in Gaza, highlighting a double standard in applying the Genocide Convention."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260824220614.3.203a2b0a18beb03f@mg-d1.substack.com",
    "newsletter": "Bulwark Takes",
@@ -5096,107 +5192,10 @@
     "The week also saw continued Israeli strikes on Gaza, including the killing of a family of six, further violating the declared ceasefire."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260725131826.3.c49c5216c3c22450@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Amy Walter: Pennsylvania's Trump-Shapiro Voters",
-   "date": "2026-07-25T06:18-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/amy-walter-pennsylvanias-trump-shapiro",
-   "bullets": [
-    "Gov. Josh Shapiro is poised for a large win in Pennsylvania, relying on former Trump voters who, in a focus group, showed openness to his candidacy and concern over the Trump administration.",
-    "Cook Political Report’s Amy Walter discusses the focus group’s views on Shapiro, Sen. John Fetterman’s potential party switch, and the implications of current generic ballot polling for Democrats."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260725130322.3.4c7c1fe20d3e4c7b@mg2.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“My husband had wrangled the cat into his crate before the firefighters chopped their way up to our floor”",
-   "date": "2026-07-25T06:03-07:00",
-   "url": "https://post.substack.com/p/my-husband-had-wrangled-the-cat-into",
-   "bullets": [
-    "Ella Gray Hickman recounts losing her home in a fire",
-    "Filmmaker Penny Lane documents Flaco the owl's escape from Central Park Zoo",
-    "E.K. Carlisle reviews Christopher Nolan's The Odyssey, finding it similar to his past work"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260725130219.3.cc997fc8fe177092@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "‘Logical’ That Iran Might Now Want Nukes, Says Biden’s Former Envoy to Iran",
-   "date": "2026-07-25T06:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/iran-war-guerilla-warfare-robert-malley-",
-   "bullets": [
-    "Robert Malley, former Obama Iran deal negotiator and Biden’s special envoy, warns that with the 2015 deal collapsed, Iranian leaders are likely to seriously consider developing nuclear weapons.",
-    "Malley calls U.S. strikes on Iran “violating the laws of war” and argues the resulting conflict would be worse than a respected 2015 agreement.",
-    "He also criticizes the U.S.’s Middle East policy, predicts Lebanon’s peace deal with Israel will fail, and demands accountability for Biden officials involved in Gaza’s genocide."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260725122807.3.275a4dd371282db6@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Did the DNC Just Hand Kamala Harris the 2028 Nomination?",
-   "date": "2026-07-25T05:28-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/did-the-dnc-just-hand-kamala-harris",
-   "bullets": [
-    "The DNC’s Rules and Bylaws Committee has re‑ordered the 2028 primary calendar, placing South Carolina first on January 22, followed by Nevada, New Hampshire, New Mexico, Michigan, Virginia, and Super Tuesday on March 7.",
-    "The new order gives South Carolina an outsized influence, as the first state’s outcome carries disproportionate weight, effectively granting a significant advantage to Kamala Harris.",
-    "New Hampshire’s February 8 date is contingent on its governor’s approval or a fully party‑funded primary; otherwise Delaware may take that slot, but the DNC’s decision still reshapes the early primary landscape."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260725113129.3.27e02404f8068b1a@mg-d0.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Undoing the Golden Age of Corruption, Demanding Accountability",
-   "date": "2026-07-25T04:31-07:00",
-   "url": null,
-   "bullets": [
-    "Bulwark has launched a fully redesigned website with a reorganized navigation bar, improved account page, and a new Read‑to‑Me feature now available on the web.",
-    "The redesign includes updated logos and smoother user experience, with the team crediting staff for the successful overhaul and noting minor kinks remain.",
-    "The newsletter also promotes Bulwark+ subscriptions and announces a World Cup winner prize, but contains no political or economic analysis."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260725103014.3.681a624f42985e95@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Talking Again With Gabriel Zucman",
-   "date": "2026-07-25T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/talking-again-with-gabriel-zucman",
-   "bullets": [
-    "Zucman says US household wealth has risen from about 200‑250% of GDP in 1980 to over 500% today, meaning total wealth now equals more than five years of annual production.",
-    "The top 0.1% of Americans now own roughly 7% of US wealth (up from 1% in 1980), and the 20 wealthiest families hold about 2‑2.2% of wealth, equivalent to 12‑13% of GDP.",
-    "Policy shifts since the 1980s—such as corporate tax cuts, deregulation, and the decline of rent controls—have boosted capital’s share of income, driving faster wealth growth and enabling billionaires to fund 19% of political spending in the 2024 election cycle."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260725012514.3.da44a9c995e04dd7@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Tulsi, Trump, and the War on Fauci – Part 2: The 'Lab Leak' Obsession",
-   "date": "2026-07-24T18:25-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/tulsi-trump-war-on-fauci-lab-leak",
-   "bullets": [
-    "Tulsi Gabbard and Senator Rand Paul released documents claiming Fauci lied about a lab‑origin for SARS‑CoV‑2, but the papers mainly show informal jokes and political banter, offering no hard evidence of a leak.",
-    "The author argues the only basis for the lab‑leak theory is the virus’s emergence in Wuhan, which also hosts a live‑animal market, and that intelligence investigations have found no concrete proof of a lab accident.",
-    "Part 2 of the series contends that disinformation about a lab leak is being used to target scientists like Fauci, undermining science and democratic norms, while the factual record points to natural origins."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 73,
+  "shown": 72,
   "total": 377
  }
 }
