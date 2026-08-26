@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T16:44-07:00",
+ "updated": "2026-08-26T08:56-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -46,6 +46,128 @@
  },
  "items": [
   {
+   "id": "20260826150839.3.dbb0ca620b4da644@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Let’s talk about this chaotic trade war and voting rights",
+   "date": "2026-08-26T08:08-07:00",
+   "url": "https://roycoopernc.substack.com/p/lets-talk-about-this-chaotic-trade",
+   "bullets": [
+    "Too many North Carolinians are already feeling the burdens of rising prices. This chaotic trade war with Canada will only continue to hurt small businesses, farmers and hardworking people across the state.",
+    "I sat down with Jen Psaki to discuss how Canada’s retaliatory tariffs will impact North Carolina and how North Carolina Republicans are trying to make it harder for people to vote. You can watch the full interview here:"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260826145059.3.045bfa46bdffee93@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "This Cancer Breakthrough Has Scientists Cheering—and Crying",
+   "date": "2026-08-26T07:50-07:00",
+   "url": null,
+   "bullets": [
+    "Catherine Wu’s 2009 hypothesis at Dana‑Farber was that tumor‑specific mutations could be used to train the immune system to recognize and kill cancer cells, potentially enabling personalized vaccines.",
+    "The NIH funded Wu’s $363,000 grant in 2009, one of 5,300 that year, betting on this long‑shot idea; fifteen years later, breakthroughs in tumor‑specific immunotherapy suggest the investment paid off."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260826134006.3.9bdb715ff6173fd5@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Is Weaker Than Ever",
+   "date": "2026-08-26T06:40-07:00",
+   "url": null,
+   "bullets": [
+    "If you’ve come for deep reflections on Dolly Parton’s musical career, may we politely suggest reading Jill Lawrence’s remembrance [ https://substack.com/redirect/67744729-842f-481c-8b69-3e83f42e22ff?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4…",
+    "The Bulwark is home to a number of parents of young (and not so young) kids. Like so many others, we benefited from Dolly Parton’s imagination library—a book gifting program that sent hundreds of millions of books to kids across the country…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260826133038.3.5a067175be53ed81@mg2.substack.com",
+   "newsletter": "Here Be Dragons from Barbara F. Walter",
+   "pub": "barbarafwalter",
+   "subject": "Why Is Trump Wrecking the Economy Before the Midterms?",
+   "date": "2026-08-26T06:30-07:00",
+   "url": "https://barbarafwalter.substack.com/p/why-is-trump-wrecking-the-economy",
+   "bullets": [
+    "Trump’s recent 50% tariffs on Canadian goods, aggressive immigration restrictions, and support for the Iran‑Israel war have pushed inflation and gas prices up, causing 64% of voters to disapprove of his handling of inflation and giving Democrats an eight‑point lead on cost‑of‑living plans ahead of the midterms.",
+    "The Congressional Budget Office estimates Trump’s immigration policies will add $500 billion to deficits over ten years, while the GOP’s 2023 tax‑and‑spending bill is projected to increase the federal deficit by $4.7 trillion over the next decade, contradicting his pledge to slash spending.",
+    "Walter argues Trump is accelerating these unpopular policies now because his Republican‑controlled Congress and Senate give him a narrow window to lock in his preferred agenda before Democrats regain power, even if it harms Republican electoral prospects."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260826110955.3.a022f1b739b1a3d6@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Dems Obsess Over Hasan Piker, Give Trump and Rogers a Pass",
+   "date": "2026-08-26T04:09-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/dems-obsess-over-hasan-piker-give",
+   "bullets": [
+    "Democratic leaders are spending weeks attacking left‑wing podcaster Hasan Piker for remarks that Jews aren’t monolithic in supporting Israel, using the controversy to pressure Michigan Senate candidate Abdul El‑Sayed despite his anti‑genocide stance and $32 million AIPAC opposition.",
+    "The piece argues Democrats are prioritising pro‑Israel signaling over confronting Trump’s “deeply corrupt, fascist” administration, even as Trump’s trade war with Canada escalates and Republican Darline Graham wins a South Carolina Senate runoff.",
+    "It suggests the focus on Piker serves to marginalise anti‑Israel voices and distract from broader electoral threats, implying Democrats care less about defeating Trump than about appeasing Israel’s unpopular policies."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260826103201.3.6871c3e16b012c55@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Your guide to fall 2026 vaccines",
+   "date": "2026-08-26T03:32-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/your-guide-to-fall-2026-vaccines",
+   "bullets": [
+    "Fall 2026 respiratory vaccines—flu, RSV, and Covid‑19—will be free; flu vaccine covers three updated strains, offered by five manufacturers, and reduces doctor visits by 30‑60%",
+    "RSV vaccines for adults 50+ (GSK, Pfizer, Moderna) and for pregnancy (Pfizer’s ABRYSVO) are available; infants under 8 months should receive monoclonal antibodies (nirsevimab or clesrovimab) unless mother had a pregnancy RSV vaccine",
+    "Co‑administration of flu and Covid‑19 vaccines is safe and convenient; all fall vaccines are free and can be given together, with no major safety concerns reported"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260826103149.3.77da79fd0ac4656c@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Der Untergang",
+   "date": "2026-08-26T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/der-untergang",
+   "bullets": [
+    "Krugman warns that Trump’s ego, disconnection from reality, and unprecedented deference from federal machinery threaten U.S. global standing, eroding trust, weakening military credibility, and inviting ridicule by smaller states.",
+    "He likens Trump’s impending loss of power to Hitler’s final days, suggesting Trump may retaliate by damaging national symbols and infrastructure—e.g., the White House’s South Lawn and gilded statues—mirroring Hitler’s Nero Decree.",
+    "Krugman argues that even after Trump leaves, the world will remember America’s willingness to elect such a leader, undermining its reputation and leaving the nation vulnerable to future political instability."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260826010050.3.a5bcaab9e6eeccb8@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Dolly Parton Dies at 80. Here Are 9 Ways She Changed America and the World for the Better",
+   "date": "2026-08-25T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/dolly-parton-dies-at-80-here-are",
+   "bullets": [
+    "Dolly Parton’s Imagination Library, launched in 1995, has distributed over 325 million free books to children under five across the U.S., Canada, U.K., Ireland and Australia, boosting early literacy while facing state‑funding battles in Missouri, Indiana, Kentucky and Maine.",
+    "Her Dollywood Foundation’s Buddy Program, begun in the early 1990s, cut Sevier County high‑school dropout rates from 35 % to 6 % by guaranteeing $500 scholarships to 7th‑ and 8th‑graders who graduated, and the foundation continues to fund scholarships and educational initiatives."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260826003324.3.64491d4e56e6c184@mg-d0.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "All MAGA Media Can Talk About Now is Trans Sports",
+   "date": "2026-08-25T17:33-07:00",
+   "url": null,
+   "bullets": [
+    "The hosts mourn Dolly Parton’s death, assess America’s ongoing trade war with Canada and argue the US can’t be relied on internationally even if Democrats win in 2028.",
+    "They analyze the South Carolina Senate runoff, questioning whether Donald Trump’s endorsement alone can lift a political novice, and note Pennsylvania’s first measles death of the year.",
+    "They critique MAGA media’s obsession with trans issues in the WNBA, debate a rumored Trump administration plan to demolish the Kennedy Center, and discuss JVL’s triad on Trump’s bizarre relationship with Natalie Harp."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260825232034.3.4c942a3ab59ada33@mg-d0.substack.com",
    "newsletter": "The Bulwark",
    "pub": "thebulwark",
@@ -79,10 +201,11 @@
    "date": "2026-08-25T12:27-07:00",
    "url": null,
    "bullets": [
-    "Five-and-a-half years removed from the day, it’s hard to find many politicians who want to relitigate the chaos of January 6, 2021. Donald Trump pardoned the rioters, which is a private embarrassment to many Republicans. And Democrats, as t…",
-    "But not every Democrat feels such reluctance. In fact, one House member has a new book out exploring how militant groups banded together to storm the U.S. Capitol, why politicians excused and even celebrated their behavior, and what it all …"
+    "Rep. Jared Huffman (D‑Calif.) released *No Prophets*, a book exposing how radical Christian nationalist groups like Rad Trads and Theo Bros helped fuel the Jan 6 insurrection and how many GOP officials, including Defense Secretary Pete Hegseth, are linked to such sects",
+    "Huffman, a self‑identified humanist, argues Congress has created a permissive environment for Christian‑based extremist activism and urges figures like Sen. Raphael Warnock to champion church‑state separation despite political risks",
+    "Texas Senate candidate Ken Paxton, facing weak polling and donor fatigue, pivoted to an anti‑AI data‑center platform—banning Chinese tech, criminal liability for child harm, and rural bans—while receiving sizable contributions from data‑center interests such as Valero, CRH Americas, Sago Energy, and Tyler Winklevoss"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260825170105.3.209e08dce6349361@mg-d1.substack.com",
@@ -133,10 +256,9 @@
    "date": "2026-08-25T06:34-07:00",
    "url": null,
    "bullets": [
-    "Tales from the world’s stupidest trade war, per the president [ https://substack.com/redirect/0475c5e8-9064-4997-9f3b-10a6aa73684f?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] this morning: “The United States is givin…",
-    "Trump might not have delivered his base lower prices, or an end to foreign wars, or even a Reflecting Pool that works. But at least he hasn’t gone back on his most central promise: A constant parade of countries to bully for their amusement…"
+    "ICE deported Cristy Maryori Villafranca‑Trejo, a Honduran immigrant and wife of an Army sergeant, after a targeted enforcement operation, highlighting the Trump administration’s aggressive deportation policy that has removed over fifty military spouses with no criminal records"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260825110205.3.da83da24cf1fdce0@mg2.substack.com",
@@ -5135,120 +5257,10 @@
     "DNC raises $8.6 million per month"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260726140258.3.9831bf7247c28471@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "The GOP Is Now ‘An Extremist Movement,’ Says Ex-Republican Strategist",
-   "date": "2026-07-26T07:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-republican-party-is-an-extremist",
-   "bullets": [
-    "Former GOP strategist Stuart Stevens argues the Republican Party has become an extremist movement, driven by Trump and rooted in racial politics, rather than a traditional party.",
-    "Stevens and host John Harwood discuss why “race is the original sin of the modern Republican Party” and outline what it would take for Democrats to win the 2028 election."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726140253.3.8dbe230a4067cf93@mg-d1.substack.com",
-   "newsletter": "Home of the Brave",
-   "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
-   "subject": "Trump’s Renovations are Tacky, Garish, and un-American",
-   "date": "2026-07-26T07:02-07:00",
-   "url": "https://open.substack.com/pub/ofthebrave/p/trumps-renovations-are-tacky-garish",
-   "bullets": [
-    "Trump's renovations added 90,000 sq ft ballroom",
-    "East Wing was demolished for the new ballroom",
-    "Trump also replaced Lincoln Bedroom's bathroom with statuary marble"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726122510.3.0a2efd7e3d2911b0@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "What the Hell Is Happening in Wisconsin?",
-   "date": "2026-07-26T05:25-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/what-the-hell-is-happening-in-wisconsin",
-   "bullets": [
-    "The Wisconsin governor’s race has turned into a chaotic “shitshow,” with the GOP poised to clinch the governorship amid internal turmoil and weak Democratic organization.",
-    "Democratic challenger Ben Wikler remains absent from the race, leaving the party scrambling for a viable candidate as primary season winds down.",
-    "Pfeiffer warns the outcome will have massive consequences for the state’s political landscape and national elections."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726120301.3.9b3bcea8932b7cdc@mg2.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why Gretchen Whitmer’s Senate Endorsement Matters",
-   "date": "2026-07-26T05:03-07:00",
-   "url": null,
-   "bullets": [
-    "Governor Gretchen Whitmer endorsed House Democrat Haley Stevens in the Michigan Senate primary, arguing the seat is crucial for Democrats to block Medicaid cuts, tariffs and rising gas and grocery prices.",
-    "Whitmer’s endorsement leverages her statewide popularity, but its impact is uncertain as past endorsements (e.g., Detroit Free Press for Mallory McMorrow) have proved ineffective and Whitmer faces criticism over data‑center support and budget vetoes.",
-    "With over 690,000 mail/absentee ballots already cast, the race is tight, and supporters claim Stevens’ swing‑district record makes her more electable than Abdul El‑Sayed’s left‑wing platform."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726120301.3.9b3bcea8932b7cdc@mg-d1.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why Gretchen Whitmer’s Senate Endorsement Matters",
-   "date": "2026-07-26T05:03-07:00",
-   "url": null,
-   "bullets": [
-    "Gretchen Whitmer, Michigan’s two‑term governor, endorsed House Democrat Haley Stevens in the Senate primary, arguing Stevens is the best chance to keep the seat for Democrats amid rising Medicaid cuts, tariffs, and high costs.",
-    "Whitmer’s endorsement highlights a strategic choice: Stevens’ record in swing districts versus Abdul El‑Sayed’s left‑wing populism, with Stevens linked to wealthy outside groups and El‑Sayed appealing to some conservatives.",
-    "Despite Whitmer’s influence, her recent controversies—support for data‑center construction and vetoing budget amendments—have alienated progressives, environmentalists, labor, and some legislative allies, potentially dampening the endorsement’s impact."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726103030.3.26988932e64b743b@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Against Oligarchy, Part II: Wealth Taxes",
-   "date": "2026-07-26T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/against-oligarchy-part-ii-wealth",
-   "bullets": [
-    "Forbes’ 400 richest Americans grew from $92 billion (0.8% of U.S. wealth) in 1982 to $6.6 trillion (3.7% of wealth, 26% of income) by 2025, illustrating massive wealth concentration.",
-    "The New York Times found billionaires and families contributed 19% of political money in the 2024 election, while owners like Elon Musk, Larry Ellison and Jeff Bezos have shifted major media outlets rightward, amplifying oligarchic power.",
-    "Krugman argues that restoring highly progressive taxation, especially a modern wealth tax, is needed to curb this inequality, noting past tax cuts in the 1970s revived extreme wealth and that critiques of wealth taxes will be addressed later."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726090240.3.0c53574192810bac@mg2.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Demand Push",
-   "date": "2026-07-26T02:02-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/demand-push",
-   "bullets": [
-    "Matthew Smith of Chronometer Partners predicts a US natural gas shortage starting in 2028, with working storage potentially exhausted by 2030 due to rapidly rising demand despite ample production.",
-    "The Doomberg team notes that US shale gas output has repeatedly surged past 70‑100 bcf/d, questioning whether demand can outpace this growth and suggesting Smith’s crisis may be overstated."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726054800.3.bcdb96629f5dbb86@mg2.substack.com",
-   "newsletter": "Heather Cox Richardson from Letters from an American",
-   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
-   "subject": "July 25, 2026",
-   "date": "2026-07-25T22:48-07:00",
-   "url": "https://heathercoxrichardson.substack.com/p/july-25-2026",
-   "bullets": [
-    "Trump’s White House Office of Administration is moving ahead with a plan to paint the historic Eisenhower Executive Office Building white, bypassing GSA’s historic preservation reviews and sparking lawsuits from over two dozen experts who warn the paint could damage the granite and create costly repairs.",
-    "The administration is pushing dramatic revisions to Section 106 of the National Historic Preservation Act, removing mandatory public and tribal consultation for federal projects, which could strip protections from over 100,000 listed historic sites, including Chaco Canyon’s 4,700 archaeological sites and a proposed triumphal arch near Arlington.",
-    "Opposing lawmakers, led by Senators Angus King and Martin Heinrich and several House members, warn the arch and other projects would violate multiple laws, could result in criminal fines, and represent a “stone‑cold illegal” erosion of America’s cultural heritage."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 73,
-  "total": 381
+  "shown": 72,
+  "total": 382
  }
 }
