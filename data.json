@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T08:56-07:00",
+ "updated": "2026-08-26T21:34-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -46,6 +46,101 @@
  },
  "items": [
   {
+   "id": "20260827020128.3.30e5617e5970e377@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "How Can CNN’s Dana Bash Pretend to Be an Objective Journalist Anymore?",
+   "date": "2026-08-26T19:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/how-can-cnns-dana-bash-pretend-to",
+   "bullets": [
+    "CNN anchor Dana Bash appeared on Bill Maher’s show, nodding to his harsh criticism of Democrats for supporting pro‑Palestinian causes and labeling them as bigoted, while dismissing Gaza as not a genocide.",
+    "Bash’s comments echoed a pattern of partisan bias, aligning with Maher’s pro‑Israel stance and questioning Democratic motives, despite the network’s claim of objective journalism.",
+    "The episode highlights growing accusations that Bash’s reporting on Israel‑Gaza is heavily slanted, undermining her credibility as an impartial journalist."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260827004009.3.4d4c7fb712eda35d@mg2.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Is Racing to Build His Ballroom Before the Courts Stop Him (Andrew Weissmann)",
+   "date": "2026-08-26T17:40-07:00",
+   "url": null,
+   "bullets": [
+    "Sarah Longwell and Andrew Weissmann discuss a pair of Supreme Court moves benefiting Trump, including John Roberts allowing construction on the White House ballroom to continue and a ruling affecting Trump’s plans for mail-in voting. They a…",
+    "Bulwark LIVE: GOOD FIGHT TOUR with Tim, Sarah, Sam and JVL is coming to the Southeast in October. Tickets go on sale August 21 at 10am in the East.  Head to TheBulwark.com/Events [ https://substack.com/redirect/1d89562a-43e9-4f75-b41c-9f2c2…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260826232558.3.0bb89dbb8b3246a9@mg2.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Prepare for Trump to Try to Steal the Midterms",
+   "date": "2026-08-26T16:25-07:00",
+   "url": null,
+   "bullets": [
+    "THE SUPREME COURT GAVE US A START this week with what looked, at first glance, like a win for Donald Trump’s efforts to suppress mail-in ballots. But, as Andrew Egger explained [ https://substack.com/redirect/fa48d98b-09be-432a-88d1-d9e044b…",
+    "Not yet, anyway. After the 2024 immunity ruling [ https://substack.com/redirect/ed6c4996-32dd-42aa-8231-3e2bd9f2f756?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ], you’d be ill advised to assume anything about this Cou…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260826230940.3.7183028cded469c4@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "EXCLUSIVE: The Right’s ‘War on Woke’ Is a Cash Grab on State Treasuries",
+   "date": "2026-08-26T16:09-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/kreifels-war-on-woke-cash-grab-alaska",
+   "bullets": [
+    "The State Financial Officers Foundation (SFOF) is a nonprofit that brings Republican state treasurers, auditors, right‑wing activists, and Christian finance executives together to steer state treasury money toward faith‑aligned firms and fossil‑fuel interests, while publicly opposing climate‑mitigation efforts.",
+    "Derek Kreifels, former CEO of SFOF, now lobbies treasurers to invest public retirees’ savings in his firm Prospr Aligned and its affiliates; his company has already secured contracts with the Kentucky auditor’s office and is targeting Alaska’s Permanent Fund through connections with former Revenue Commissioner Adam Crum and Chair Jason Brune.",
+    "SFOF has funded travel for state officials to Prospr’s New York Stock Exchange launch party and arranged for Trump‑SEC chairman Paul Atkins to speak, illustrating the organization’s role in promoting Kreifels’s private business ventures at the expense of public funds."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260826163837.3.3cc8f89d7751815d@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "True Confessions of a Sports Dad",
+   "date": "2026-08-26T09:38-07:00",
+   "url": null,
+   "bullets": [
+    "The author argues youth sports should be pursued only for fun or potential money, warning against using them as college résumé boosters, and stresses early talent is obvious, citing a 5th‑grader cross‑country prodigy who later ranked top‑50 nationally.",
+    "He claims elite ability appears at a very young age—examples include a 16‑year‑old who could bat like a future first‑round MLB draft pick and a 12‑year‑old club champion who later reached the PGA Tour—so if a child isn’t clearly exceptional, they should prioritize enjoyment."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260826163637.3.30dd6b3ffb364298@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Did Trump Just Put South Carolina in Play?",
+   "date": "2026-08-26T09:36-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/did-trump-just-put-south-carolina",
+   "bullets": [
+    "Trump backed Darline Graham, a political novice appointed by the governor, spending nearly $1 million via his Super PAC, leading to her narrow primary win in South Carolina.",
+    "Pfeiffer admits he hoped Graham would lose, expecting it to signal Trump’s waning influence, but her victory may make her a vulnerable incumbent in the general election.",
+    "He warns that Trump’s aggressive support for Graham could inadvertently open a path for Democrats to capture the Senate seat for the first time in 28 years."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260826160339.3.d85f673f3cab56ca@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Is Trump’s War Handing Democrats Their Next Win?",
+   "date": "2026-08-26T09:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/is-trumps-war-handing-democrats-their",
+   "bullets": [
+    "Favreau argues that the unpopular war in Ukraine under Trump mirrors the 2003 Iraq war, creating a political opening for Democrats similar to the 2006 midterms that led to Obama’s election",
+    "He cites polling showing a majority of Americans view the war as a mistake and that Democratic candidates who position themselves against it could gain significant swing‑state support",
+    "Favreau warns that Democrats must seize the moment quickly, framing the conflict as a moral and fiscal failure of the GOP to turn public discontent into electoral gains"
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260826150839.3.dbb0ca620b4da644@mg-d0.substack.com",
    "newsletter": "Roy Cooper",
    "pub": "roycoopernc",
@@ -53,10 +148,11 @@
    "date": "2026-08-26T08:08-07:00",
    "url": "https://roycoopernc.substack.com/p/lets-talk-about-this-chaotic-trade",
    "bullets": [
-    "Too many North Carolinians are already feeling the burdens of rising prices. This chaotic trade war with Canada will only continue to hurt small businesses, farmers and hardworking people across the state.",
-    "I sat down with Jen Psaki to discuss how Canada’s retaliatory tariffs will impact North Carolina and how North Carolina Republicans are trying to make it harder for people to vote. You can watch the full interview here:"
+    "Cooper warns that renewed U.S. tariffs on Canada—North Carolina’s top export market—are squeezing small farms and businesses, raising consumer prices and hurting profit margins.",
+    "He claims North Carolina Republicans, backed by a new Supreme Court‑enabled unlimited‑spending tool, are restricting early voting, removing ballot boxes from campuses, and curbing Sunday voting to suppress turnout.",
+    "Cooper urges grassroots donations and volunteer efforts to counter the tariffs and voting restrictions ahead of the midterm election."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260826145059.3.045bfa46bdffee93@mg2.substack.com",
@@ -5150,117 +5246,10 @@
     "He links this anti‑intellectual stance to broader oligarchic power, noting that mega‑billionaires and officials such as Pete Hegseth prioritize short‑term tax cuts and macho rhetoric over evidence‑based solutions."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260727041715.3.62b257dc76a4db96@mg2.substack.com",
-   "newsletter": "Heather Cox Richardson from Letters from an American",
-   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
-   "subject": "July 26, 2026",
-   "date": "2026-07-26T21:17-07:00",
-   "url": "https://heathercoxrichardson.substack.com/p/july-26-2026",
-   "bullets": [
-    "Trump acts as if the Constitution doesn't exist",
-    "Trump imposed tariffs on 99.4% of US trade",
-    "Trump claims power to tax and declare war, bypassing Congress"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260727005854.3.9c915fada3758e94@mg-d1.substack.com",
-   "newsletter": "Heather Cox Richardson from Letters from an American",
-   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
-   "subject": "Whitewashing",
-   "date": "2026-07-26T17:58-07:00",
-   "url": "https://heathercoxrichardson.substack.com/p/whitewashing",
-   "bullets": [
-    "Whitewashing"
-   ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260726211608.3.caa8af6220479854@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Why Trump Has ‘No F*cking Way Out’ of His Failed Iran War",
-   "date": "2026-07-26T14:16-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-iran-war-no-way-out",
-   "bullets": [
-    "A senior administration official says Trump has “no fucking way out” of the illegal Iran war he launched, which has been losing within days and risks becoming a permanent conflict.",
-    "Despite hesitating to sign a “massive attack” plan, sources believe Trump may still expand the war, and any end would likely require a humiliating capitulation to Tehran, which his ego rejects.",
-    "Top federal officials are reportedly refusing to tell Trump the war is “FUBAR,” leaving him trapped in a quagmire with few viable exit options."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726211608.3.caa8af6220479854@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Why Trump Has ‘No F*cking Way Out’ of His Failed Iran War",
-   "date": "2026-07-26T14:16-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-iran-war-no-way-out",
-   "bullets": [
-    "Trump’s administration has no viable exit strategy for its illegal Iran war, with senior officials warning that the conflict could become a perpetual ‘forever war’ that would drag future administrations into armed conflict.",
-    "Despite a Pentagon‑drafted massive attack plan, Trump is unlikely to sign off on it, and officials fear the war will only end if the White House capitulates to Tehran—an outcome Trump refuses to accept."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726163031.3.a959dace06822f36@mg-d1.substack.com",
-   "newsletter": "Heather Cox Richardson and 250 to 250 from Letters from an American",
-   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
-   "subject": "Week Nine in 250 to 250",
-   "date": "2026-07-26T09:30-07:00",
-   "url": "https://heathercoxrichardson.substack.com/p/week-nine-in-250-to-250",
-   "bullets": [
-    "Heather Cox Richardson's 250 to 250 Project honors the Declaration of Independence",
-    "Senator Mark Kelly narrates Apollo 11's improbable quest",
-    "Senator Elizabeth Warren recounts Shays’ Rebellion"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726160659.3.af9fd55147cb91aa.39ek1rw5@mg1.substack.com",
-   "newsletter": "Substack",
-   "pub": "no-reply_at_substack_com_dfzcnd2br853yb_p6m22105",
-   "subject": "Live video with The Bulwark now: Epstein Survivor Asks: Will Any GOP Senators Do the Right Thing? (w/ Dani Bensky)",
-   "date": "2026-07-26T09:06-07:00",
-   "url": null,
-   "bullets": [
-    "Live video on The Bulwark features an Epstein survivor questioning whether any GOP senators will take the right action, hosted with Dani Bensky."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726160452.3.eb4d09af0bd03b01@mg2.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "It’s Gone from Bad to Worse to Perilous at the DNC",
-   "date": "2026-07-26T09:04-07:00",
-   "url": null,
-   "bullets": [
-    "The DNC reported $2 million in debt to the RNC, which holds over $128 million cash, highlighting a stark fundraising gap with Republicans.",
-    "Chair Ken Martin defended the DNC’s finances, claiming the party raises $8.6 million monthly and is investing in campaign infrastructure despite the debt.",
-    "At a recent meeting in the Salamander Hotel, DNC members expressed skepticism about Martin’s assurances and debated the primary calendar for 2028."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260726160452.3.eb4d09af0bd03b01@mg-d0.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "It’s Gone from Bad to Worse to Perilous at the DNC",
-   "date": "2026-07-26T09:04-07:00",
-   "url": null,
-   "bullets": [
-    "DNC has $2 million debt",
-    "RNC has $128 million on hand",
-    "DNC raises $8.6 million per month"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 72,
-  "total": 382
+  "shown": 75,
+  "total": 381
  }
 }
