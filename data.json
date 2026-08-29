@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T16:36-07:00",
+ "updated": "2026-08-29T10:46-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -46,6 +46,138 @@
  },
  "items": [
   {
+   "id": "20260829170131.3.4c89fe629287c8c7@mg-d1.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: Israel Kills 4 Children as It Warns Palestinian Kids Not to Fly Kites",
+   "date": "2026-08-29T10:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israel-kills-children-kites",
+   "bullets": [
+    "Israel’s airstrikes on Aug. 22 killed four Gaza children—4‑year‑olds Hassan al‑Hafi and Muhammad Abdel Salam Taha, 10‑year‑old Amal Nash’at Abu Khater, and 14‑year‑old Islam Ahmed Ajouri—while also targeting the West Bank.",
+    "Israeli settlers intensified their siege of Qusra, continuing attacks on Palestinian villages and escalating violence in the West Bank, including a severe assault on a 15‑year‑old Palestinian.",
+    "The Israeli military’s use of quadcopters and missiles, coupled with ongoing displacement, imprisonment, and starvation, has stripped Gaza’s children of basic childhood activities like kite‑flying, underscoring the regime’s systematic cruelty."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260829152131.3.ddf0582c80b56665@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Every step of the way",
+   "date": "2026-08-29T08:21-07:00",
+   "url": "https://roycoopernc.substack.com/p/every-step-of-the-way",
+   "bullets": [
+    "Governor Roy Cooper urges early voting in 47 days, recalling his eight-year tenure and bipartisan Medicaid expansion that added coverage for hundreds of thousands of North Carolinians.",
+    "He highlights personal campaign memories—yard sign sleds, family at inaugural events, and community chats at the State Fair—to emphasize his commitment to working families and trusted leadership."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260829134545.3.bfb2ec7d2ddb084e@mg2.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "House GOPer in Private Meeting: Trump’s Exhausting Our Voters",
+   "date": "2026-08-29T06:45-07:00",
+   "url": null,
+   "bullets": [
+    "Rep. Stephanie Bice (R‑OK) warned that Trump’s unpopularity and executive actions are eroding GOP support, threatening safe seats and risking voter turnout or split-ticket voting in the midterms.",
+    "Bice’s remarks, recorded at an Oklahoma State University event, reveal growing GOP anxiety that Trump’s brand may drive voters to Democrats or cause them to abstain.",
+    "The conversation highlights a broader concern among Republican lawmakers that Trump’s leadership is damaging the party’s electoral prospects in traditionally red states."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260829131231.3.3285b36074f4dc06@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "How Republicans Came to Dominate the Internet",
+   "date": "2026-08-29T06:12-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/how-republicans-came-to-dominate",
+   "bullets": [
+    "Welcome to this week’s mailbag. You can tell summer is coming to an end (my kids have been in school for three weeks) and the election is nearing, because the volume of questions for these mailbags has gone way up.",
+    "This week I dive into some of my favorite topics, including how campaigns should be getting their message out in the digital era (I’m a big nerd, I know). As a reminder, these mailbags are for paid subscribers. If you want to get your quest…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260829130212.3.2d89652b939a0f19@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Elected Democrats Are Busy Condemning Hasan Piker While Giving Right-Wing Extremists and Islamophobes a Pass. We H…",
+   "date": "2026-08-29T06:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/elected-democrats-are-busy-condemning",
+   "bullets": [
+    "Democratic lawmakers are aggressively condemning leftist Twitch streamer Hasan Piker, falsely labeling him an antisemite for warning against monolithic Zionist narratives, while largely ignoring right‑wing hate figures like Laura Loomer, Jan. 6 rioter Jake Lang, and anti‑Muslim pastor Lorenzo Sewell.",
+    "Illinois Rep. Brad Schneider warned that Democrats risk losing credibility by targeting left‑wing figures but failing to denounce right‑wing bigotry, citing the lack of condemnation for Muslim‑targeting rhetoric from candidates such as Abdul El‑Sayed and Mike Rogers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260829130221.3.4265bf9900c728a9@mg-d0.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“Nice people are wonderful, but you can’t build a life on being liked”",
+   "date": "2026-08-29T06:02-07:00",
+   "url": "https://post.substack.com/p/nice-people-are-wonderful-but-you",
+   "bullets": [
+    "This week, we’re picking fish scales off our clothes, asking seemingly simple questions, and eating Bell Jar–inspired confections. “There is a season to sparkle and a season to dim”",
+    "Taylor Tomlinson remembers her 20s as effervescent and shiny. But was that actually such a good thing? I’ve lost my spark and I’m not sure I want it back [ https://substack.com/redirect/354cbbf9-3231-4cdd-8e5f-0e65998f6404?j=eyJ1IjoiNWJ2anR…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260829113057.3.6be32b2b0ce533e9@mg2.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "MAGA Is Already Fighting Over 2028. Trump Is Fighting Everyone Else.",
+   "date": "2026-08-29T04:30-07:00",
+   "url": null,
+   "bullets": [
+    "Happy Saturday! In case you missed it this week: MAGA’s 2028 civil war is already underway, Trump’s war with Iran blew up his “America First” promise, a former Trump staffer explains why the Natalie Harp saga shouldn’t surprise anyone, we s…",
+    "Come hang with gang—Sarah, Tim, JVL, Sam, and friends—during our Good Fight Tour. October 16–20 we’re bringing Bulwark LIVE to Columbia, S.C.; Charlotte, N.C.; and Atlanta, Ga. Tickets are on sale now at TheBulwark.com/Events [ https://subs…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260829103106.3.36cd742324ea2797@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Talking Interest Rates with Ricardo Caballero",
+   "date": "2026-08-29T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/talking-interest-rates-with-ricardo",
+   "bullets": [
+    "I’m spending a lot of time thinking about high interest rates, both for obvious reasons and because I’m reconsidering some of my own long-held views. So I thought I’d have a long talk with someone who has really studied these issues and now…",
+    "Paul Krugman in Conversation with Ricardo Caballero Paul Krugman:   I’m talking today with a very, very serious economist, Ricardo Caballero [ https://substack.com/redirect/60e96650-90c3-4792-a75f-9895481b87ca?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwa…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260829100217.3.fd167ac60ec9033f@mg2.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why Ed Markey May Survive a Revolt Against Old Candidates (with Adam Reilly)",
+   "date": "2026-08-29T03:02-07:00",
+   "url": null,
+   "bullets": [
+    "Massachusetts voters say Ed Markey’s record and seniority outweigh Rep. Seth Moulton’s “new generation” critique, keeping Markey viable despite a Democratic age revolt.",
+    "Moulton’s attacks—including controversial remarks about trans athletes and a contentious AI debate exchange—failed to resonate with focus‑group participants, revealing Democratic voters prioritize policy over generational messaging."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260829010100.3.652c5c33cf961b15@mg-d1.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 84: Trump Admin Plans Largest Visa Revocations in History as ICE Arrests Reach Recor…",
+   "date": "2026-08-28T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-84-trump",
+   "bullets": [
+    "We’re less than 10 weeks out from the midterm elections, and Americans witnessed a whipsaw of news about mail-in voting this week that some experts fear [ https://substack.com/redirect/831754a8-4995-45b0-8a0e-46e60bfefb7a?j=eyJ1IjoiMnVxMXlx…",
+    "On Monday, the Supreme Court sided with Donald Trump, issuing an emergency order [ https://substack.com/redirect/e532ad77-7b17-4598-9a1d-8ffc7841b980?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] allowing his administr…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20260828205525.3.bf91aaf2098a644a@mg-d0.substack.com",
    "newsletter": "Sarah and JVL - The Bulwark",
    "pub": "thebulwark",
@@ -53,10 +185,11 @@
    "date": "2026-08-28T13:55-07:00",
    "url": null,
    "bullets": [
-    "JVL is out this week, so Tim and Sarah discuss Mark Cuban’s comments that he could run for president as a Republican (and why Tim isn’t buying it), and Sarah’s conversation with the New York Times discussing her book, and what Democratic vo…",
-    "Read Sarah’s conversation with the [ https://substack.com/redirect/d29ef713-50a9-4a9e-86cc-4cb816c0b7ac?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] New York Times [ https://substack.com/redirect/d29ef713-50a9-4a9e-86…"
+    "Mark Cuban claims he could run for president as a Republican, but Tim argues the GOP lacks the infrastructure and base to support a billionaire outsider, citing his past political missteps and low name recognition.",
+    "Sarah discusses her book with the New York Times, revealing her focus on how Democratic voters are shifting toward pragmatic, anti-establishment policies, and she highlights specific policy areas that resonate with them.",
+    "Rob Sand’s gubernatorial race in Iowa is examined, noting his moderate stance and the strategic importance of the state’s swing voters for the 2024 election cycle."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260828203601.3.5c84dca2a3da887c@mg-d0.substack.com",
@@ -106,10 +239,10 @@
    "date": "2026-08-28T08:05-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/i-am-an-american-citizen-under-siege",
    "bullets": [
-    "An American man from Ohio is currently trapped in his home, surrounded by extremist Israeli settlers – while Israeli soldiers simply watch it all happen. In early August, Loui Ridi was at home in Ohio, watching [ https://substack.com/redire…",
-    "It took levers upon levers of coordination with the Israeli government to even get access to his own home. Upon finally entering, he planted [ https://substack.com/redirect/99566e23-3921-4282-9a06-179c4db1c533?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwa…"
+    "American Ohio resident Loui Ridi was trapped in his Qusra home for nearly three weeks as Israeli settlers encircled the house, while U.S.‑funded Israeli soldiers and the Israeli military declared the area a closed zone, preventing residents from leaving or meeting neighbors.",
+    "Ridi planted an American flag on his rooftop to deter settlers, who would raise a yellow flag if they took over; U.S. Ambassador Mike Huckabee condemned the siege but no substantive action was taken to stop the settlers."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260828140049.3.5b16890de3157969@mg-d0.substack.com",
@@ -133,10 +266,11 @@
    "date": "2026-08-28T06:35-07:00",
    "url": null,
    "bullets": [
-    "Happy six-month anniversary of the Iran war to all who celebrate. Happy Thursday. Join Catherine Rampell and Sam Stein for Receipts Live at 12:30 p.m. EDT today on Substack [ https://open.substack.com/live-stream/339357?utm_source=post-publ…",
-    "The news can get you down these days. We have a demagogue and megalomaniac in the Oval Office and grifters and fanatics in high office, supported by a movement for whom cruelty is the point and a political party complicit in that cruelty."
+    "Bill Kristol recounts a moving scene at Reagan National Airport where WWII, Korean, and Vietnam veterans were honored by spontaneous standing ovations, symbolizing a hopeful unity between veterans of democracy and civil rights.",
+    "He contrasts this moment of national solidarity with the current administration’s perceived regression of civil rights, arguing that the president’s policies threaten the promises of the Constitution and the American dream.",
+    "Kristol urges readers to remember Martin Luther King Jr.’s 1963 speech and to believe that, despite recent setbacks, the nation can once again achieve the freedom and equality promised by the founding documents."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260828111423.3.a08d21086a822480@mg-d0.substack.com",
@@ -159,10 +293,11 @@
    "date": "2026-08-28T04:07-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/how-stephen-miller-uses-natalie-harp",
    "bullets": [
-    "On this day six months ago, Donald Trump started his war with Iran, saying it would be over in four weeks. Happy Friday! It’s Swin again. Despite the best efforts of  [ https://substack.com/redirect/ed514d11-0c78-4c52-bb75-3e914cb98e0c?j=ey…",
-    "But before we leave behind this month’s round of Harp [ https://substack.com/redirect/1d5f73b5-4d1a-4395-92cb-28de00d4d315?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] coverage [ https://substack.com/redirect/1d5f73b5…"
+    "Natalie Harp, a 35‑year‑old aide, now controls Trump’s Truth Social feed, feeding him agitprop and acting as the de‑facto replacement for longtime social‑media chief Dan Scavino.",
+    "Senator Jon Ossoff highlighted Harp’s unusual influence, prompting a White House backlash and underscoring how senior officials now route social‑media requests through her instead of texting the president directly.",
+    "Six months after Trump’s promised four‑week war with Iran, he appears disengaged, while Harp’s role in amplifying MAGA messaging grows amid ongoing ethnic‑cleansing reports in places like Springfield, Ohio."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260828103023.3.96bc4e676b5381ac@mg-d1.substack.com",
@@ -198,10 +333,11 @@
    "date": "2026-08-28T02:02-07:00",
    "url": "https://open.substack.com/pub/doomberg/p/maitres-chez-nous",
    "bullets": [
-    "“For what were all these country patriots born? To hunt, and vote, and raise the price of corn?” – Lord Byron In the hotly contested Québec provincial election of 1962, incumbent Liberal Premier Jean Lesage’s central campaign issue centered…",
-    "The cultural, linguistic, and ancestral differences between Québec and the rest of Canada define one of the most pressing internal fault lines undercutting Canadian unity, which makes Prime Minister Mark Carney’s decision to invoke the phra…"
+    "Prime Minister Mark Carney invoked Quebec’s 1962 “Maîtres Chez Nous” slogan during a press conference to frame the US‑Canada trade collapse as an existential, nationalist fight, echoing historic anti‑anglophone sentiment.",
+    "Carney’s move signals a hard‑line stance to protect politically sensitive domestic industries amid Trump‑driven trade tensions, betting on upcoming US midterms to pressure a favorable deal.",
+    "The author warns that Carney’s recent shift from climate advocate to hydrocarbon ally foreshadows a pipeline construction boom in Canada, reshaping global energy flows."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260828003437.3.1ea3f3d3579ed16a@mg-d1.substack.com",
@@ -225,10 +361,11 @@
    "date": "2026-08-27T17:00-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/how-trump-lost-iran-war-six-months",
    "bullets": [
-    "Donald Trump is far from the only U.S. president to lose a pointless war in the Middle East. But because of his insistence on continuously redefining the terms of victory, he may be the first president to lose the same war three times – and…",
-    "But for most of the past six months, Trump has been fighting to force open the Strait of Hormuz. This is the war to lower gas prices, the war to undo the consequences of the war, or, to be more precise about the president’s objectives, the …"
+    "Trump’s “40‑day war” against Iran failed to stop Tehran’s attacks on regional shipping, and after four months of half‑hearted bombings and two U.S. blockades, Iran now controls roughly a third of Strait of Hormuz traffic and shoots at “unauthorized” vessels with impunity.",
+    "The administration shifted from impossible regime‑change goals to a more realistic, yet horrifying, aim of regime collapse, a strategy embraced by Netanyahu but abandoned by Trump after Kurdish uprisings faltered, culminating in an April ceasefire that tacitly admitted bombing could not destroy the Iranian state.",
+    "Former DNI Tulsi Gabbard warned regime change was unrealistic and that Iran would close the Strait, while Joint Chiefs Chairman Dan Caine cautioned limited air‑defense munitions and U.S. casualty risks, yet Trump persisted in a war to reopen the strait and lower gas prices, ultimately losing on all fronts within six months."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260827213311.3.d7451a862693ebfe@mg-d1.substack.com",
@@ -265,10 +402,11 @@
    "date": "2026-08-27T10:44-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/conflating-jews-with-israel-is-dangerous",
    "bullets": [
-    "Last week, a federal judge weighed [ https://substack.com/redirect/95e04d01-6dd6-4936-bb22-b547f9cbbd83?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] in on whether an alleged assault involving an Israeli flag was antis…",
-    "The six-pointed star, called the “Star of David” (Magen David in Hebrew, literally “shield of David”), has been a Jewish symbol since long before the establishment of the State of Israel. It first became widely used as a distinctive Jewish …"
+    "U.S. District Judge Trevor McFadden ruled that the Star of David on Israel’s flag symbolizes the Jewish race, rejecting the claim that the flag represents only the state and not Judaism.",
+    "The author argues that conflating the Israeli flag with Jewish identity fuels antisemitism, noting surveys where 61% of American Jews see Israel committing war crimes and only 36% tie support for Israel to their Jewish identity.",
+    "He likens the misuse of religious symbols on national flags to blaming all Jews for Israel’s actions, just as all Muslims are unfairly blamed for extremist groups."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260827152826.3.24024353fc08453c.3pfstbcw@mg1.substack.com",
@@ -5011,187 +5149,10 @@
     "The central plea is to stop targeting Fauci and redirect public anger into constructive reforms of public‑health systems and decision‑making processes."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260729150142.3.57901bac033ab3cf@mg2.substack.com",
-   "newsletter": "We're Not Kidding | Zeteo",
-   "pub": "zeteo",
-   "subject": "Meet the Comedian Who Was Raised Republican, Then Became One of Mamdani’s Earliest Supporters",
-   "date": "2026-07-29T08:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/mary-beth-barone-comedian",
-   "bullets": [
-    "Mary Beth Barone, a NYC comedian and socialist who grew up Republican, supports Zohran Mamdani’s mayoral run and critiques Democratic establishment as self‑serving elites who should retire from politics.",
-    "She uses her ‘Politics for Hot People’ series and new Netflix special ‘Galaxy Brain’ to push progressive policies, mock figures like Eric Adams, billionaires, and even Gwyneth Paltrow’s Israel ad.",
-    "The episode also covers NYC’s socialist surge, why Kamala Harris lost to Trump, and debates whether a future president could sport a red lip, with a 5‑minute preview free and full 35‑minute show for paid subscribers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729150142.3.57901bac033ab3cf@mg-d1.substack.com",
-   "newsletter": "We're Not Kidding | Zeteo",
-   "pub": "zeteo",
-   "subject": "Meet the Comedian Who Was Raised Republican, Then Became One of Mamdani’s Earliest Supporters",
-   "date": "2026-07-29T08:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/mary-beth-barone-comedian",
-   "bullets": [
-    "Mary Beth Barone is a NYC comedian and socialist",
-    "She supports AOC for president in 2028",
-    "Barone thinks Democrats should retire and let new leaders take over"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729133012.3.d7d2f23165368cce@mg-d1.substack.com",
-   "newsletter": "Here Be Dragons from Barbara F. Walter",
-   "pub": "barbarafwalter",
-   "subject": "When Did Decency Become Weakness?",
-   "date": "2026-07-29T06:30-07:00",
-   "url": "https://barbarafwalter.substack.com/p/when-did-decency-become-weakness",
-   "bullets": [
-    "The NYT’s “sucker or jerk” framing reflects a cultural shift where decency is seen as weakness because incentives and enforcement have eroded, turning cooperation into a prisoner's dilemma.",
-    "Social media’s three‑hour‑daily exposure to cheating and the impunity of Trump‑era politicians and oligarchs reinforce the belief that rule‑breakers are rewarded, discouraging ordinary people from acting fairly.",
-    "Restoring fair, independent institutions—courts, ethics laws, watchdogs—makes good behavior rational again, allowing a third game‑theoretic option where decent people can thrive."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729132720.3.7fd71e7e5f5e9760@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "It’s Groundhog Day in Iran",
-   "date": "2026-07-29T06:27-07:00",
-   "url": null,
-   "bullets": [
-    "Acting Attorney General Todd Blanche insisted the Comey indictment rests on more than a threatening Instagram post, citing a secret FBI/Secret Service investigation that recent court filings reveal was a futile hunt for mob‑related testimony.",
-    "The New York Times data‑viz shows Trump’s Iran war flipping between bombing threats and ceasefires from March to July, culminating in renewed missile strikes after Iran hit a U.S. base, highlighting the cumulative toll on oil reserves, missile stockpiles, and U.S. credibility.",
-    "In Pennsylvania, GOP treasurer Stacy Garrity, backed by Trump despite his public snubs, faces a steep uphill battle against incumbent Gov. Josh Shapiro, with recent polls indicating a likely electoral defeat for the Trump‑endorsed candidate."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729132720.3.7fd71e7e5f5e9760@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "It’s Groundhog Day in Iran",
-   "date": "2026-07-29T06:27-07:00",
-   "url": null,
-   "bullets": [
-    "Trump's Iran strategy is cyclical, with threats and ceasefires repeating",
-    "Trump's popularity at home continues to decline",
-    "Pennsylvania Gov. Josh Shapiro is expected to win re-election against Republican Stacy Garrity"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729130736.3.fddde529872d8fa2@mg-d1.substack.com",
-   "newsletter": "Home of the Brave",
-   "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
-   "subject": "Aangad Singh Losing the Presidential 1776 Award Is F****d Up",
-   "date": "2026-07-29T06:07-07:00",
-   "url": "https://open.substack.com/pub/ofthebrave/p/aangad-singh-losing-the-presidential",
-   "bullets": [
-    "Aangad Singh, a 15-year-old, reached the national finals of the Presidential 1776 Award",
-    "He was denied the top prize despite knowing more than the winners",
-    "The judges' scorekeeping was not public, and Aangad's family claims he was robbed of the win"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729110716.3.24e9612d6f13c508@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "EXCLUSIVE: Dem Poll Finds Trump’s Iran War ‘Expanded the Senate Map’",
-   "date": "2026-07-29T04:07-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/exclusive-dem-poll-finds-trumps-iran",
-   "bullets": [
-    "A Senate Majority PAC poll shows Trump’s approval on gas prices fell from 46% on March 1 to 33% by July 14, with cost‑of‑living approval slipping to low 30s in battleground states like Maine (32%) and Michigan (34%).",
-    "The poll claims the Iran war has turned Ohio, Alaska and Iowa into toss‑up or highly competitive Senate races, a shift that didn’t exist a year ago.",
-    "Trump praised the late Lindsey Graham in a flamboyant eulogy while Kentucky’s governor demanded proof that Mitch McConnell is still alive."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729110344.3.7a5bf53dc93250d0@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "When the Chips Are Down",
-   "date": "2026-07-29T04:03-07:00",
-   "url": "https://paulkrugman.substack.com/p/when-the-chips-are-down",
-   "bullets": [
-    "Krugman marvels at AI’s ability to identify a blurry cat image, crediting massive repetitive arithmetic on huge data sets as the breakthrough.",
-    "He warns that huge AI capital spending is justified only if the technology yields large economic returns and first‑movers can lock in profits, which Chinese firms may undercut with cheaper, lighter models.",
-    "The Korean KOSPI, heavily tied to semiconductor output, has fallen, signaling waning AI hype but not an imminent U.S. recession."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729101114.3.065300f38f63cadb@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "The Complicated Politics of Medicare for All",
-   "date": "2026-07-29T03:11-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/the-complicated-politics-of-medicare",
-   "bullets": [
-    "A 2025 Pew poll shows 90% of Democrats favor universal health insurance, making Medicare for All the most popular Democratic policy brand, but only 29% trust the federal government to run it, a stark drop from 77% during LBJ’s Medicare rollout\",\"A Kaiser Family Foundation poll finds Medicare for All has a net favorability of +14 points (56% favor, 42% oppose), rising to +45 when framed as guaranteeing health insurance as a right, yet 70% of voters—58% of Democrats—prefer keeping their current coverage over switching to a government plan\",\"Recent joint Searchlight Institute/Zeteo polling reveals support hinges on description: automatic enrollment in a Medicare‑like plan boosts backing, while mentioning replacement of private insurance sharply reduces it, highlighting messaging challenges for advocates"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729044911.3.a1b42a1dd32c64dd@mg-d0.substack.com",
-   "newsletter": "Heather Cox Richardson from Letters from an American",
-   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
-   "subject": "July 28, 2026",
-   "date": "2026-07-28T21:49-07:00",
-   "url": "https://heathercoxrichardson.substack.com/p/july-28-2026",
-   "bullets": [
-    "Heather Cox Richardson signs off, handing the newsletter to Buddy Poland for the next issue."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729011506.3.38de4ee509577387@mg2.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The WHCD Walked Straight Into Trump’s Trap",
-   "date": "2026-07-28T18:15-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/the-whcd-walked-straight-into-trumps",
-   "bullets": [
-    "McConnell’s recent “proof of life” photo is framed as a political comeback, but the hosts argue it masks deeper health and succession concerns within the GOP leadership.",
-    "The White House Correspondents’ Dinner revival, featuring Trump’s jab at Kaitlan Collins, is portrayed as a platform that inadvertently amplifies Trump’s narrative rather than rebuking it.",
-    "Inside the DNC, the hosts debate whether a strong national committee still matters, noting the new 2028 primary calendar proposal and the tight Michigan Senate primary race as key tests."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729011506.3.38de4ee509577387@mg-d1.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The WHCD Walked Straight Into Trump’s Trap",
-   "date": "2026-07-28T18:15-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/the-whcd-walked-straight-into-trumps",
-   "bullets": [
-    "McConnell’s recent “proof‑of‑life” photo is framed as a health reassurance but the hosts argue it masks deeper concerns about his political relevance and Senate leadership.",
-    "The White House Correspondents’ Dinner revival, including Trump’s jab at Kaitlan Collins, is portrayed as a platform that inadvertently benefits Trump by giving him media exposure and legitimizing his narrative."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729000343.3.a588b2185a6a0d24@mg-d0.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "How Old-School Race Animus Could Shake Up the Michigan Senate Race",
-   "date": "2026-07-28T17:03-07:00",
-   "url": null,
-   "bullets": [
-    "Doctor and former Detroit public‑health director Abdul El‑Sayed is campaigning as the Democratic Senate candidate, highlighting his work on free school eyeglasses, anti‑pollution measures, and lead‑pipe removal.",
-    "El‑Sayed faces a tight primary against four‑term House Democrat Haley Stevens ahead of the Aug. 4 Michigan Senate primary.",
-    "He held a “Knock Out the Vote” rally in Detroit’s Rouge Park, emphasizing his long‑term commitment to the city as he seeks a Senate seat."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 80,
-  "total": 377
+  "total": 374
  }
 }
