@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T10:46-07:00",
+ "updated": "2026-08-29T18:20-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -45,6 +45,19 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260829205118.3.37de2eb682adf90b@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Karoline Leavitt Is Getting Out. Why Would Anyone Want Her Job? (w/ George Conway)",
+   "date": "2026-08-29T13:51-07:00",
+   "url": null,
+   "bullets": [
+    "Karoline Leavitt is leaving the White House and George Conway has a few thoughts about her tenure as Donald Trump’s press secretary. Andrew Egger and George give their takes on Leavitt’s talent for lying, deflecting, insulting reporters, an…",
+    "Ad-free and member-only editions of Bulwark Takes are exclusively available for Bulwark+ members..."
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20260829170131.3.4c89fe629287c8c7@mg-d1.substack.com",
    "newsletter": "This Week in Palestine | Zeteo",
@@ -94,10 +107,11 @@
    "date": "2026-08-29T06:12-07:00",
    "url": "https://open.substack.com/pub/messagebox/p/how-republicans-came-to-dominate",
    "bullets": [
-    "Welcome to this week’s mailbag. You can tell summer is coming to an end (my kids have been in school for three weeks) and the election is nearing, because the volume of questions for these mailbags has gone way up.",
-    "This week I dive into some of my favorite topics, including how campaigns should be getting their message out in the digital era (I’m a big nerd, I know). As a reminder, these mailbags are for paid subscribers. If you want to get your quest…"
+    "In 2008 Obama’s campaign pioneered digital strategy, using data and social media to win; by 2012 Democrats outperformed Republicans with new tech and analytics.",
+    "By 2016 the advantage vanished as Trump’s team leveraged Facebook and a growing army of digital media warriors to defeat Clinton, shifting the digital playing field.",
+    "Since then Democrats have not regained the lead, falling behind Republicans in effectively navigating and dominating the internet environment."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260829130212.3.2d89652b939a0f19@mg2.substack.com",
@@ -133,10 +147,11 @@
    "date": "2026-08-29T04:30-07:00",
    "url": null,
    "bullets": [
-    "Happy Saturday! In case you missed it this week: MAGA’s 2028 civil war is already underway, Trump’s war with Iran blew up his “America First” promise, a former Trump staffer explains why the Natalie Harp saga shouldn’t surprise anyone, we s…",
-    "Come hang with gang—Sarah, Tim, JVL, Sam, and friends—during our Good Fight Tour. October 16–20 we’re bringing Bulwark LIVE to Columbia, S.C.; Charlotte, N.C.; and Atlanta, Ga. Tickets are on sale now at TheBulwark.com/Events [ https://subs…"
+    "MAGA factions are already battling over the 2028 presidential race, signaling an internal civil war within the movement.",
+    "Trump’s confrontation with Iran has undermined his ‘America First’ narrative, exposing contradictions in his foreign policy.",
+    "A former Trump aide argues the Natalie Harp controversy was predictable, while warning that Trump may attempt to rig the upcoming midterm elections."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260829103106.3.36cd742324ea2797@mg-d0.substack.com",
@@ -146,10 +161,11 @@
    "date": "2026-08-29T03:31-07:00",
    "url": "https://paulkrugman.substack.com/p/talking-interest-rates-with-ricardo",
    "bullets": [
-    "I’m spending a lot of time thinking about high interest rates, both for obvious reasons and because I’m reconsidering some of my own long-held views. So I thought I’d have a long talk with someone who has really studied these issues and now…",
-    "Paul Krugman in Conversation with Ricardo Caballero Paul Krugman:   I’m talking today with a very, very serious economist, Ricardo Caballero [ https://substack.com/redirect/60e96650-90c3-4792-a75f-9895481b87ca?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwa…"
+    "Ricardo Caballero argues that the sharp drop in U.S. Treasury yields since 2000 reflects a shortage of safe assets, not a collapse in returns to capital, which have remained relatively stable while the equity risk premium widened.",
+    "Caballero contends that the 2008 crisis stemmed from financial engineering that created synthetic safe assets to meet real demand for safety, leading to a post‑crisis surge in Treasury demand and ultra‑low rates.",
+    "He disputes the secular stagnation narrative that low rates signal a lack of investment opportunities, pointing out that corporate profit rates and returns on capital did not fall as sharply as safe‑asset yields, undermining the claim of a fundamental productivity slowdown."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260829100217.3.fd167ac60ec9033f@mg2.substack.com",
@@ -213,10 +229,11 @@
    "date": "2026-08-28T12:01-07:00",
    "url": null,
    "bullets": [
-    "Before we get to Dolly (RIP, Queen), I just want to highlight this week’s Bulwark Goes to Hollywood. I talked to Eriq Gardner from Puck about a pretty crazy story involving companies using spurious copyright claims to try and squelch speech…",
-    "IF YOU HAVE NOT READ Jill Lawrence’s remembrance of Dolly Parton [ https://substack.com/redirect/b7f78be4-dd02-4c07-bd66-389ecd55195f?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ], you really should: It’s the best kind…"
+    "Dolly Parton’s Imagination Library has delivered over 332 million books to nearly 3.2 million children, but recent state budget cuts in Indiana, Kentucky, Maine, and Missouri threaten its funding.",
+    "The program relies heavily on government grants; Indiana eliminated its match, Kentucky proposed halving support before restoring it after backlash, Maine lost funding entirely, and Missouri cut $4 million for 2027.",
+    "The author urges politicians to champion increased public funding for the Imagination Library and invites readers to donate via local partner organizations."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260828153019.3.26b586653c91631b@mg-d0.substack.com",
@@ -226,10 +243,9 @@
    "date": "2026-08-28T08:30-07:00",
    "url": null,
    "bullets": [
-    "IMMIGRATION WASN’T JUST ONE of the issues that secured a second term for Donald Trump—it was virtually the issue that launched his electoral career back in 2016. He said that Mexican immigrants were criminals and rapists, and he never looke…",
-    "As Republicans prepare to dust off their rickety anti-immigration talking points ahead of the midterms, a memo from the Democratic-aligned group Winning Jobs Narrative Action, obtained exclusively by The Bulwark, argues that Democrats can m…"
+    "A Reuters/Ipsos poll shows only 37% approve of Trump’s immigration handling, opening a 19‑point gap Democrats could exploit by framing immigration as pro‑worker and economically beneficial\",\"Winning Jobs Narrative research found two top messages boost Democratic support by ~2 points: highlighting immigrant tax contributions versus billionaire gains, and contrasting ICE spending with cuts to food/health benefits\",\"The memo warns Democrats to avoid four traps—silence, pure compassion without economics, harm‑only narratives, and over‑emphasizing enforcement—and instead use faith‑leader‑style, economic‑interdependence messaging to win working‑class voters."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260828150554.3.648eb39d727e4b4d@mg2.substack.com",
@@ -5027,132 +5043,10 @@
     "CNN/SSRS poll shows 70% disapprove of Trump’s economy handling, 75% disapprove of his inflation policy, 79% disapprove of gas price strategy, and 65% say his policies hurt the country\", \"Trump’s war on Iran faces internal dissent: Pentagon added 140 casualties to its database, 18 dead and 624 wounded, while U.S. officials cite low interceptor stocks and leaked warnings from Joint Chiefs chief Dan Caine\", \"Republican base remains loyal despite record low approval (34% overall, 15% strong support) as Trump attacks Dr. Fauci and blames Biden for munitions shortages, while oil prices rise and markets plunge after Fed holds rates"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260730010037.3.213f0bde4099e377@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Why Did Iran Launch a Surprise Attack on U.S. Bases in Jordan?",
-   "date": "2026-07-29T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/why-iran-surprise-attack-us-bases-trump",
-   "bullets": [
-    "Iran’s surprise missile strike on U.S. bases in Jordan coincided with Zelensky’s and Netanyahu’s Washington visits, deliberately forcing U.S. officials to view it as a major escalation.",
-    "The author argues that common explanations—hard‑liners, diplomatic sabotage, probing Trump’s resolve, or retaliation for U.S.-Saudi actions—only capture fragments of Tehran’s broader strategic calculus.",
-    "Zeteo suggests the attack reflects a calculated move by Iran to reshape regional power dynamics and signal its willingness to confront U.S. influence, beyond the usual partisan narratives."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730010037.3.213f0bde4099e377@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
-   "subject": "Why Did Iran Launch a Surprise Attack on U.S. Bases in Jordan?",
-   "date": "2026-07-29T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/why-iran-surprise-attack-us-bases-trump",
-   "bullets": [
-    "Iran’s surprise strike on U.S. bases in Jordan, timed during Zelensky and Netanyahu’s Washington visits, was designed to force a dramatic escalation and test U.S. resolve, rather than merely retaliate or overplay hardliners’ influence.",
-    "The attack’s strategic logic centers on Tehran’s calculation to pressure American decision‑makers, disrupt diplomatic momentum, and signal that Iran can strike high‑profile targets regardless of U.S. political leadership.",
-    "This move reflects a broader pattern of Iranian deterrence tactics, aiming to compel the U.S. to reconsider its regional policies and to showcase Iran’s operational reach amid shifting U.S. administrations."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729234725.3.71216ab4bab7e3e1@mg2.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "EXCLUSIVE: Ken Martin Open to Bringing on Big Name to Help at DNC",
-   "date": "2026-07-29T16:47-07:00",
-   "url": null,
-   "bullets": [
-    "Ken Martin, DNC chair, is reportedly open to hiring a high‑profile co‑chair to tackle fundraising woes and media duties, with names like Rahm Emanuel, Donna Brazile, and Pete Buttigieg floated, though Emanuel is unlikely to step down from a presidential run.",
-    "Martin’s tenure has been marred by a $2 million debt, low staff morale, and a lack of donor outreach; operatives note his reluctance to accept help, citing his ego and failure to engage key donors such as Shannon Watts.",
-    "The DNC’s future hinges on the upcoming summer meeting in Austin, where a majority vote could oust Martin or he might resign, while state party chairs’ loyalty—bolstered by recent funding—has kept pressure low until the midterms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729234725.3.71216ab4bab7e3e1@mg-d0.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "EXCLUSIVE: Ken Martin Open to Bringing on Big Name to Help at DNC",
-   "date": "2026-07-29T16:47-07:00",
-   "url": null,
-   "bullets": [
-    "DNC Chair Ken Martin, under pressure from operatives over $2 million debt and low morale, is reportedly open to adding a high‑profile co‑chair to handle fundraising and media duties, though his ego may block it.",
-    "Names floated for the role include Rahm Emanuel, Donna Brazile, Pete Buttigieg and others, but most are either pursuing presidential bids or retired, making a hire uncertain before the midterms.",
-    "Martin’s future hinges on the August DNC summer meeting in Austin, where a majority of the roughly 450 members could vote to remove him, though state chairs remain largely loyal due to recent funding boosts."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729220337.3.4d81535f63340cba@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Mamdani Derangement Syndrome: Murdoch Media Lets Its Islamophobic Flag Fly",
-   "date": "2026-07-29T15:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/mamdani-derangement-syndrome-murdoch",
-   "bullets": [
-    "Murdoch‑owned outlets have intensified attacks on New York mayoral candidate Zohran Mamdani, labeling him an antisemitic, communist threat and calling for his denaturalization and deportation.",
-    "The coverage includes repeated Islamophobic rhetoric, portraying Mamdani as a danger to the city and featuring anti‑Muslim hate on front pages and cable news screens."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729220337.3.4d81535f63340cba@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
-   "subject": "Mamdani Derangement Syndrome: Murdoch Media Lets Its Islamophobic Flag Fly",
-   "date": "2026-07-29T15:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/mamdani-derangement-syndrome-murdoch",
-   "bullets": [
-    "Murdoch-owned outlets have intensified Islamophobic attacks on New York mayor Zohran Mamdani, labeling him an antisemitic communist and calling for his denaturalization and deportation.",
-    "The newsletter highlights a recent surge of overt anti‑Muslim rhetoric in Murdoch papers and cable news, presenting a supercut of the worst on‑air commentary as evidence.",
-    "CBS News staff reportedly distrust Bari Weiss’s recent ‘60 Minutes’ hires, noting that ratings have continued to decline under her leadership."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729213431.3.0ddd84107a1f16ed@mg-d0.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "JVL and Robert Kagan: Marco and Miller Go Full Fascist",
-   "date": "2026-07-29T14:34-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/jonathan-v-last-and-robert-kagan",
-   "bullets": [
-    "The preview podcast features JVL and Robert Kagan critiquing Marco Rubio and Stephen Miller’s use of Nazi‑style dehumanizing rhetoric against the left, warning it targets Democrats broadly, including protestors of Trump’s election‑stealing claims."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729213431.3.0ddd84107a1f16ed@mg2.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "JVL and Robert Kagan: Marco and Miller Go Full Fascist",
-   "date": "2026-07-29T14:34-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/jonathan-v-last-and-robert-kagan",
-   "bullets": [
-    "Marco Rubio and Stephen Miller used dehumanizing language reminiscent of Soviet and Nazi propaganda to attack the left, implying Democrats broadly, including those protesting Trump’s election‑interference claims.",
-    "Robert Kagan and JVL discuss Trump’s best option on Iran, critiquing Iran’s behavior, Lindsey Graham’s role, and the Fauci controversy as examples of MAGA double standards."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260729203840.3.35f2156926b85bd0@mg-d0.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "It's time to leave the man alone.",
-   "date": "2026-07-29T13:38-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/its-time-to-leave-the-man-alone",
-   "bullets": [
-    "The author recounts personal harassment tied to the WHO logo and argues that Dr. Fauci has unfairly become the scapegoat for pandemic missteps, despite his limited policy role.",
-    "While acknowledging Fauci’s communication failures and lack of admission of mistakes, the piece calls for a 9/11‑style commission to investigate systemic pandemic errors rather than pursuing vitriolic attacks.",
-    "The central plea is to stop targeting Fauci and redirect public anger into constructive reforms of public‑health systems and decision‑making processes."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 80,
-  "total": 374
+  "shown": 81,
+  "total": 366
  }
 }
