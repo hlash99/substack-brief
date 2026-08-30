@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T18:20-07:00",
+ "updated": "2026-08-30T11:06-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -46,6 +46,73 @@
  },
  "items": [
   {
+   "id": "20260830155822.3.cf94c86d1e3c9732@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "What’s on my mind",
+   "date": "2026-08-30T08:58-07:00",
+   "url": "https://roycoopernc.substack.com/p/whats-on-my-mind",
+   "bullets": [
+    "Republican super PACs have poured nearly $100 million into the North Carolina Senate race, targeting Roy Cooper with personal attacks and baseless ads as the seat could shift U.S. Senate control.",
+    "Cooper argues that if elected he will hold the Trump administration accountable, prioritize working families, and oppose GOP policies, positioning himself as a key threat to Republican dominance.",
+    "He urges supporters to donate before the end‑of‑month deadline to reach a $2 million fundraising goal needed to flip North Carolina blue and regain the Senate for Democrats."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260830130335.3.1a5acb8ed25c95a9@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Mehdi Challenges Hunter Biden on Gaza, the 2024 Election, Democrats, and His Own Regrets",
+   "date": "2026-08-30T06:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/mehdi-challenges-hunter-biden-on-gaza-2024-election-democrats-regrets",
+   "bullets": [
+    "Hunter Biden claims his father helped enable Israel’s Gaza genocide, citing a friendship with Netanyahu and admitting his own role in fueling the “Biden crime family” narrative and right‑wing attacks on the family.",
+    "He admits battling addiction, discusses his involvement with Hallie Biden and his appearances on Candace Owens and Tucker Carlson, and says he pushed Joe Biden to run for reelection in 2024 while criticizing the Democratic Party’s loyalty and calling Hakeem Jeffries’ secret meeting with Jared Kushner “insanity.”",
+    "He hints at a 2028 Democratic nominee pick and says he feels “always disappointed” in the party, while noting his own cancer diagnosis and the ongoing Biden family controversies."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260830130303.3.0ed688a1aabb58e5@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "Dolly Parton knew there was room for fun in brilliance",
+   "date": "2026-08-30T06:03-07:00",
+   "url": "https://post.substack.com/p/dolly-parton-knew-there-was-room",
+   "bullets": [
+    "Dolly Parton used self‑aware humor—jokes about her red lips, blonde hair, and “great ass”—to deflect sexist criticism and keep focus on her songwriting, which earned her bestseller status and enduring streams after her death.",
+    "Her unapologetic embrace of camp glamour, including playing guitar with long acrylic nails, broke the male‑dominated country music boys’ club and empowered women to write and perform, blending artistry and presentation into a single, influential package."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260830123120.3.96ba231ac33f7bd1@mg-d1.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Mike Rogers Wants $50 Copays for Routine Screenings",
+   "date": "2026-08-30T05:31-07:00",
+   "url": null,
+   "bullets": [
+    "Mike Rogers, Michigan Senate candidate, proposes $50 copays for routine screenings and other preventive care, violating current ACA rules that require zero-cost preventive services.",
+    "Rogers’ stance reflects a broader GOP push to roll back ACA subsidies and free preventive care, a move that has already driven up premiums for hundreds of thousands of Michiganders and is likely to increase uninsured rates nationwide."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260830113105.3.7e8a9568ad293da0@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Oligarchy and the Great Evasion",
+   "date": "2026-08-30T04:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/oligarchy-and-the-great-evasion",
+   "bullets": [
+    "Krugman argues that the U.S. has deliberately dismantled progressive taxation since the 1970s, cutting top individual rates from 90% to 37% and corporate rates from 52% to 21%, while the IRS has been stripped of enforcement resources by Republican congresses.",
+    "He estimates the tax gap at $600 billion+ annually—about 40% of the federal deficit—largely driven by high‑income evasion, and claims this unchecked evasion fuels the rise of an oligarchy of the wealthiest 0.01% who now control 19% of all federal political donations."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260829205118.3.37de2eb682adf90b@mg-d1.substack.com",
    "newsletter": "Bulwark Takes",
    "pub": "thebulwark",
@@ -53,10 +120,10 @@
    "date": "2026-08-29T13:51-07:00",
    "url": null,
    "bullets": [
-    "Karoline Leavitt is leaving the White House and George Conway has a few thoughts about her tenure as Donald Trump’s press secretary. Andrew Egger and George give their takes on Leavitt’s talent for lying, deflecting, insulting reporters, an…",
-    "Ad-free and member-only editions of Bulwark Takes are exclusively available for Bulwark+ members..."
+    "George Conway critiques Karoline Leavitt’s tenure, accusing her of habitual lying, deflecting, and insulting reporters while defending Trump’s indefensible actions without losing composure.",
+    "They discuss potential successors, highlighting CNN’s Scott Jennings as a candidate and questioning whether he could serve as Trump’s next professional gaslighter."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260829170131.3.4c89fe629287c8c7@mg-d1.substack.com",
@@ -134,10 +201,11 @@
    "date": "2026-08-29T06:02-07:00",
    "url": "https://post.substack.com/p/nice-people-are-wonderful-but-you",
    "bullets": [
-    "This week, we’re picking fish scales off our clothes, asking seemingly simple questions, and eating Bell Jar–inspired confections. “There is a season to sparkle and a season to dim”",
-    "Taylor Tomlinson remembers her 20s as effervescent and shiny. But was that actually such a good thing? I’ve lost my spark and I’m not sure I want it back [ https://substack.com/redirect/354cbbf9-3231-4cdd-8e5f-0e65998f6404?j=eyJ1IjoiNWJ2anR…"
+    "Taylor Tomlinson reflects that the youthful “spark” of hypomanic confidence was unsustainable, and now in her thirties she values comfort, safety and genuine connection over fame or constant ambition.",
+    "Steve Way argues that true accessibility under the ADA depends on concrete design decisions—not on the fluctuating goodwill of staff—so relying on being liked is an unreliable foundation for basic rights.",
+    "Will Cooper describes filleting a wild sea trout in rural England, emphasizing meticulous technique to remove scales and fat for a crisp, dry grill finish."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260829113057.3.6be32b2b0ce533e9@mg2.substack.com",
@@ -188,10 +256,11 @@
    "date": "2026-08-28T18:01-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-84-trump",
    "bullets": [
-    "We’re less than 10 weeks out from the midterm elections, and Americans witnessed a whipsaw of news about mail-in voting this week that some experts fear [ https://substack.com/redirect/831754a8-4995-45b0-8a0e-46e60bfefb7a?j=eyJ1IjoiMnVxMXlx…",
-    "On Monday, the Supreme Court sided with Donald Trump, issuing an emergency order [ https://substack.com/redirect/e532ad77-7b17-4598-9a1d-8ffc7841b980?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] allowing his administr…"
+    "The Trump administration plans to revoke up to 200,000 business and tourist visas for asylum seekers from 2016‑2026, the largest mass visa revocation in U.S. history.",
+    "ICE arrested nearly 50,000 people in July—a 15% rise from June and the highest monthly total since Trump returned to office, with 20,000 arrests in Texas and Florida.",
+    "The Supreme Court temporarily allowed Trump’s executive order restricting mail‑in voting, but a lower court quickly blocked it again, leaving the case poised for another Supreme Court review as the 2024 midterms approach."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260828205525.3.bf91aaf2098a644a@mg-d0.substack.com",
@@ -4842,211 +4911,10 @@
     "Fauci had no role in the nursing-home policy"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260730180312.3.af9fd55147cb91aa.eclc0al4@mg1.substack.com",
-   "newsletter": "Substack",
-   "pub": "no-reply_at_substack_com_9wbyqdt4h76183_fca9b868",
-   "subject": "Live video with John Harwood and Mike Madrid now: Can Democrats harvest \"de-aligned\" Hispanic voters who have turned away from Trump? Strategist Mike Madrid takes our questions",
-   "date": "2026-07-30T11:03-07:00",
-   "url": null,
-   "bullets": [
-    "John Harwood is live with Mike Madrid on Substack",
-    "Discussing Democrats harvesting de-aligned Hispanic voters",
-    "Strategist Mike Madrid takes questions"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730163343.3.b25a2a86f4e92ba7@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Marco Rubio and Stephen Miller, in the Original German",
-   "date": "2026-07-30T09:33-07:00",
-   "url": null,
-   "bullets": [
-    "The Trump administration hosted a “Resurgence of Political Terrorism” conference, framing it as a ministerial focused solely on left‑wing violence despite its own role in the Jan 6 coup and pardoning participants.",
-    "During the conference, Marco Rubio and Stephen Miller delivered remarks that the author characterizes as overtly extremist, echoing Nazi‑style rhetoric while condemning leftist political violence.",
-    "The piece highlights the contradiction of a government that both incited and pardoned political terrorism while publicly decrying violence from the opposite side."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730162727.3.188fea566dda52ef@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Blame Elon Musk and Donald Trump for the Out-of-Control Ebola Crisis",
-   "date": "2026-07-30T09:27-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/ebola-congo-doge-usaid-cuts-musk-trump-deaths",
-   "bullets": [
-    "The new Ebola outbreak in eastern Congo, declared in May, has already produced over 3,200 reported cases and 1,400 deaths, with WHO estimating actual numbers could be two‑to‑four times higher.",
-    "The author argues that Elon Musk’s 2022 dismantling of USAID’s Ebola team and broader cuts left Congo without critical surveillance and response infrastructure, causing delayed detection and a sluggish international response.",
-    "Without USAID’s outbreak‑preparedness officers, lab transport support, and NGO coordination, the virus spread unchecked for months, illustrating how the agency’s removal directly worsened the crisis."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730162727.3.188fea566dda52ef@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
-   "subject": "Blame Elon Musk and Donald Trump for the Out-of-Control Ebola Crisis",
-   "date": "2026-07-30T09:27-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/ebola-congo-doge-usaid-cuts-musk-trump-deaths",
-   "bullets": [
-    "Elon Musk fired USAID's Ebola team during an outbreak in Uganda",
-    "Over 3,200 Ebola cases and 1,400 deaths are reported in Congo",
-    "USAID's destruction hindered detection and response to the outbreak"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730160611.3.af9fd55147cb91aa.q2j3fa7i@mg1.substack.com",
-   "newsletter": "Substack",
-   "pub": "no-reply_at_substack_com_dfzcnd2br853yb_p6m22105",
-   "subject": "Live video with Home of the Brave now: Todd Blanche’s Nomination in Chaos, ft. Aaron Parnas",
-   "date": "2026-07-30T09:06-07:00",
-   "url": null,
-   "bullets": [
-    "Live video “Todd Blanche’s Nomination in Chaos, ft. Aaron Parnas” is now available on Substack’s Home of the Brave channel."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730143904.3.9ee6cb944a4b73fb@mg2.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Right-Wing Media and OnlyFans Are in a Symbiotic Relationship",
-   "date": "2026-07-30T07:39-07:00",
-   "url": null,
-   "bullets": [
-    "Savanna Cannon, a new MAGA influencer with 285k political Instagram followers, uses provocative yoga‑pants poses and OnlyFans content to target straight‑male audiences, boosting her political reach and subscriber funnel.",
-    "OnlyFans models and right‑wing commentators increasingly collaborate—podcasts like Fresh and Fit and Whatever feature OnlyFans stars to draw “simps,” while politicians like James Fishback use the platform to gain media exposure.",
-    "The trend fuels a symbiotic cycle: conservative media gains sexualized attention, OnlyFans creators tap into political audiences, and figures such as Nick Fuentes and Sophie Rain benefit from cross‑platform visibility."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730133544.3.85ed7b02214c1db8@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Civil Disobedience Is Coming to Springfield",
-   "date": "2026-07-30T06:35-07:00",
-   "url": null,
-   "bullets": [
-    "Commerce Department data shows U.S. GDP growth slowed to 1.5% in Q2 as the Iran war strains the economy, while Saudi Arabia joined the strike and Iran launched missile and drone attacks on Jordan, Kuwait, and Egypt, keeping the Strait of Hormuz largely closed and Red Sea shipping threatened by Houthi attacks.",
-    "In Springfield, Ohio, Haitian immigrants face TPS expiration, leading to job loss, lack of unemployment benefits, and emotional distress; local churches and nonprofits are mobilizing to provide food, rent, and legal support, while pastors call for peaceful civil disobedience and urge Republican senators to support TPS extension."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730133544.3.85ed7b02214c1db8@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Civil Disobedience Is Coming to Springfield",
-   "date": "2026-07-30T06:35-07:00",
-   "url": null,
-   "bullets": [
-    "Commerce data shows U.S. annualized growth slowed to 1.5% in Q2 as the Iran war drags on, while Saudi Arabia struck Iran and Iran launched missiles at Jordan, Kuwait and Egypt, tightening the Strait of Hormuz and Red Sea shipping.",
-    "In Springfield, Ohio, the imminent expiration of TPS threatens over 10,000 Haitian residents, prompting local clergy and leaders to urge ICE to limit deportations to the “worst of the worst” and to prepare non‑violent civil disobedience if raids occur.",
-    "A House‑passed bill to extend Haitian TPS faces uncertain Senate approval, with Republican Sen. Moreno opposing and Sen. Husted silent, while local aid groups warn they need millions of dollars as funding runs out."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730130242.3.1d6e095bf3d02c2a@mg2.substack.com",
-   "newsletter": "Home of the Brave",
-   "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
-   "subject": "How Pete Hegseth is Dismantling Religious Freedom in the Military",
-   "date": "2026-07-30T06:02-07:00",
-   "url": "https://open.substack.com/pub/ofthebrave/p/how-pete-hegseth-is-dismantling-religious",
-   "bullets": [
-    "Pete Hegseth launched a monthly Christian prayer service in May 2025 at the Pentagon, broadcast on internal TV, with no chaplain sponsor and featuring only CREC‑affiliated evangelical speakers such as Brooks Potteiger, Chris Durkin, Doug Wilson and Franklin Graham, whose past statements include praise for slavery and war‑like rhetoric.",
-    "The services have sparked a surge in religious‑discrimination complaints—MRFF reports a three‑fold increase, about 200 cases focused on Christian nationalism—and prompted a lawsuit by Americans United for Separation of Church and State alleging Hegseth is coercively imposing his faith on federal workers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730124117.3.b3b73945fb862ff0.0o8928ws@mg1.substack.com",
-   "newsletter": "Home of the Brave",
-   "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
-   "subject": "🗓️ Home of the Brave is going live on Jul 30 at 12:00 PM EDT: “Todd Blanche’s Nomination in Chaos, ft. Aaron Parnas”",
-   "date": "2026-07-30T05:41-07:00",
-   "url": null,
-   "bullets": [
-    "Home of the Brave will stream live July 30 at 12:00 PM EDT featuring Todd Blanche’s “Nomination in Chaos” with guest Aaron Parnas."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730105657.3.7934f602e857b528@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "📺 Trump Advisers Trash Fox for Nearly Convincing Him to Blow Up the World",
-   "date": "2026-07-30T03:56-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-advisers-trash-fox-for-nearly",
-   "bullets": [
-    "Trump advisers repeatedly called Fox News “retards,” blaming the network’s pro‑war propaganda for pushing Trump toward an escalatory “finish the job” Iran conflict that threatens global catastrophe and could hurt Republicans in the midterms.",
-    "The piece notes that the Trump administration is ending key Medicare subsidies, affecting millions of seniors, while also highlighting Anthony Fauci’s refusal to answer over 100 questions from Republican senators."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730105657.3.7934f602e857b528@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "📺 Trump Advisers Trash Fox for Nearly Convincing Him to Blow Up the World",
-   "date": "2026-07-30T03:56-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-advisers-trash-fox-for-nearly",
-   "bullets": [
-    "Trump advisers repeatedly called Fox News “retards,” blaming the network’s pro‑war propaganda for pushing Trump toward an escalated, potentially catastrophic conflict with Iran, which has already spiked gas prices and threatens Republican midterm prospects.",
-    "Anthony Fauci invoked his Fifth Amendment right over 100 times during a hearing with Republican senators, highlighting the administration’s refusal to answer questions about the Iran war and related policies.",
-    "The Trump administration announced the termination of key Medicare subsidies, affecting millions of seniors, while recalling Lyndon Johnson’s 1965 Medicare signing as a stark contrast."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730103042.3.39a5108d09e69038@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Six Years Later, This Only Works Because of You",
-   "date": "2026-07-30T03:30-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/six-years-later-this-only-works-because",
-   "bullets": [
-    "Dan Pfeiffer celebrates six years of The Message Box, now serving nearly 170,000 readers and launching Message Box Pro for political operatives.",
-    "He promises data‑driven, contextual coverage of the upcoming midterms, highlighting truly winnable races and resource needs.",
-    "He urges free readers to upgrade with a 20% discount, funding continued coverage through the 2028 Democratic primary."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730103026.3.7640430c3a864323@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Reality is a Communist Plot",
-   "date": "2026-07-30T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/reality-is-a-communist-plot",
-   "bullets": [
-    "Krugman argues that MAGA supporters deny objective facts, embracing conspiracy claims about Covid vaccines, hydroxychloroquine, climate change, and election outcomes, reflecting a totalitarian mindset akin to Orwell’s description.",
-    "He links this reality‑denial to concrete harms: 1.2 million Covid deaths, rising measles cases, and a weakened U.S. position in the Iran war, while also warning that climate denial will increase pollution and economic decline.",
-    "Krugman frames the “war on reality” as a Communist‑labelled attack, suggesting that the GOP’s embrace of misinformation stems from big‑money corruption, crony capitalism, and extremist ideologies."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730062325.3.64f6fcea97605f76@mg-d1.substack.com",
-   "newsletter": "Heather Cox Richardson from Letters from an American",
-   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
-   "subject": "July 29, 2026",
-   "date": "2026-07-29T23:23-07:00",
-   "url": "https://heathercoxrichardson.substack.com/p/july-29-2026",
-   "bullets": [
-    "CNN/SSRS poll shows 70% disapprove of Trump’s economy handling, 75% disapprove of his inflation policy, 79% disapprove of gas price strategy, and 65% say his policies hurt the country\", \"Trump’s war on Iran faces internal dissent: Pentagon added 140 casualties to its database, 18 dead and 624 wounded, while U.S. officials cite low interceptor stocks and leaked warnings from Joint Chiefs chief Dan Caine\", \"Republican base remains loyal despite record low approval (34% overall, 15% strong support) as Trump attacks Dr. Fauci and blames Biden for munitions shortages, while oil prices rise and markets plunge after Fed holds rates"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 81,
-  "total": 366
+  "shown": 80,
+  "total": 356
  }
 }
