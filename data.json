@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T18:25-07:00",
+ "updated": "2026-08-31T13:13-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -50,6 +50,60 @@
  },
  "items": [
   {
+   "id": "20260831163916.3.8cb05d0236b040ac@mg-d1.substack.com",
+   "newsletter": "Sam Stein—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "You Won’t Believe What Marjorie Taylor Greene Did | The Trio",
+   "date": "2026-08-31T09:39-07:00",
+   "url": null,
+   "bullets": [
+    "Milo Yiannopoulos was detained by ICE, with Laura Loomer claiming credit, sparking a chaotic reaction within the MAGA community; the trio highlights the bizarre fallout and internal disputes.",
+    "A KKK/Nazi-linked staffer was uncovered in the orbit of Georgia Senate candidate Mike Collins, raising concerns about extremist influence in state politics.",
+    "Marjorie Taylor Greene delivered a shocking message to JVL, and Colorado gubernatorial nominee Victor Marx is entangled in a new, perplexing saga, both detailed in the commentary."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260831132904.3.7955e7c5174ede60@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Cruelty Comes to Springfield",
+   "date": "2026-08-31T06:29-07:00",
+   "url": null,
+   "bullets": [
+    "Six months in, the war in Iran is suddenly hot again. The U.S. military said Sunday it had bombarded Iranian troops on Larak Island who were trying to launch mines into the Strait of Hormuz, killing several people. Iran responded by firing …",
+    "Join Will Sommer and Sam Stein for MAGA Mondays today at 10:00 a.m. EDT on Substack [ https://open.substack.com/live-stream/342943?utm_source=post-publish ] and YouTube [ https://substack.com/redirect/a370ae5e-f752-4e73-a3ce-2bb7ae2b166d?j=…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260831111840.3.95d87aa72ccbd629@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Laura Loomer Gets a Pass For Her Racism as the Media Continues to Bash Hasan Piker Instead",
+   "date": "2026-08-31T04:18-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/laura-loomer-gets-a-pass-for-her",
+   "bullets": [
+    "Laura Loomer, a Trump‑aligned activist, called five prominent Black Democratic women—including Ilhan Omar and Ketanji Brown Jackson—‘ghetto Black bitches,’ sparking outrage from Marjorie Taylor Greene but virtually no mainstream media coverage, which the author criticizes for focusing on streamer Hasan Piker instead.",
+    "The piece notes Loomer’s deep ties to Trump, citing her role in the 2023 firing of six National Security Council members and her access to the West Wing, while highlighting her recent attacks on a transgender CIA officer and credit for Milo Yiannopoulos’s deportation.",
+    "Meanwhile, the author contrasts Loomer’s overt racism with the comparatively muted scrutiny of leftist streamer Hasan Piker’s controversial statements, arguing the media’s double standard reflects a broader bias toward attacking progressive figures."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260831103038.3.a4c23460fa66af2c@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "From Kakistocracy to Cheatistocracy",
+   "date": "2026-08-31T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/from-kakistocracy-to-cheatistocracy",
+   "bullets": [
+    "At this point, it’s almost a commonplace to say that under DonaldTrump, America has become a kakistocracy, ruled by the worst. But I don’tthink it’s fully appreciated the extent to which we’ve also become a cheatistocracy, ruled by the most…",
+    "Today’s commentary is a follow-upon yesterday’s primer, which was about the role of tax evasion both in leading to or contributing to our downward spiral into oligarchy and also as a surprisingly large factor in the budget deficit and there…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20260831010229.3.7cbfbc8f12352ce7@mg-d1.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
@@ -57,10 +111,11 @@
    "date": "2026-08-30T18:02-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/when-mccarthyism-hit-my-family",
    "bullets": [
-    "Here’s a frightening thought experiment: How much more damage could the infamous 1950s demagogue Joseph McCarthy have done if he’d sat in the Oval Office? Donald Trump’s deadly crusade against immigrants, “hardcore, godless Communists” and …",
-    "In January, his deportation goons in Minnesota killed anti-ICE protesters Renee Good [ https://substack.com/redirect/2f7cb106-7f09-4ea5-809e-a384239ae318?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] and Alex Pretti [ …"
+    "The author links Trump’s recent anti‑immigrant actions—including the January killings of anti‑ICE protesters Renee Good and Alex Pretti in Minnesota—to the historic terror of Senator Joseph McCarthy’s anti‑communist crusade.",
+    "New York Times‑documented investigations show the Justice Department is probing whether protest‑support groups financed ‘domestic terrorist’ agitators, while instead charging 15 alleged antifa members in Minneapolis, illustrating Trump’s use of federal prosecutors to intimidate Republicans.",
+    "The piece reveals the author’s personal family connection to McCarthy‑era repression, drawing a parallel between past anti‑communist witch‑hunts and today’s political violence under Trump."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260830233432.3.07bd92614e72f713@mg-d1.substack.com",
@@ -4602,269 +4657,10 @@
     "Ceuta is a Spanish enclave on Morocco's northern coast since 1580"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260731200617.3.5ecf013d0dd96bad@mg-d1.substack.com",
-   "newsletter": "Heather Cox Richardson from Letters from an American",
-   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
-   "subject": "60 Years of Medicare and Medicaid",
-   "date": "2026-07-31T13:06-07:00",
-   "url": "https://heathercoxrichardson.substack.com/p/60-years-of-medicare-and-medicaid",
-   "bullets": [
-    "60 Years of Medicare and Medicaid"
-   ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260731195904.3.f74e0ebb20969268@mg-d1.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why Are Noirs Making a Comeback?",
-   "date": "2026-07-31T12:59-07:00",
-   "url": null,
-   "bullets": [
-    "The 70mm IMAX run of The Odyssey in Dallas has been extended for another month to meet high demand, with only 25 U.S. screens capable of showing the format and tickets selling out weeks in advance; extending the run is seen as a win‑win for theaters and audiences.",
-    "The resurgence of noir in contemporary media—highlighted by Sam Catlin’s discussion of Sugar’s second season and Prime Video’s Spider‑Noir—reflects a cultural cycle where stories emphasize hidden corruption, political favors, and a sense of futility, echoing the genre’s post‑WWII origins and past revivals in the 1970s and 1990s."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731195904.3.f74e0ebb20969268@mg2.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why Are Noirs Making a Comeback?",
-   "date": "2026-07-31T12:59-07:00",
-   "url": null,
-   "bullets": [
-    "The limited 25 U.S. IMAX screens and high demand led theaters to extend the 70mm IMAP run of The Odyssey into September, adding showtimes and revenue without extra projectors.",
-    "Industry execs worry premium formats like IMAX and Dolby may make audiences think only large screens matter, but the author argues the theater’s value lies in focused, communal viewing.",
-    "Showrunner Sam Catlin notes a modest noir revival in shows like Apple TV’s Sugar and Prime’s Spider-Noir, reflecting today’s sense of hidden, uncontrollable power and systemic corruption."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731184126.3.05720c3a6a5f13e4@mg-d0.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 80: Musk Plans to Spend $100 Million to Help GOP in Midterms and ICE Ramps Up Airpor…",
-   "date": "2026-07-31T11:41-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-80-musk-midterms-trump",
-   "bullets": [
-    "Elon Musk’s super PAC is set to spend $100‑$120 million on Republican Senate and House races in at least eight states, including Alaska, Iowa, Maine, Michigan, Ohio, California, Wisconsin and Washington.",
-    "ICE is expanding arrests and deportations of Haitians as Temporary Protected Status ends for 300,000 people, and is also detaining visa‑overstayers at airports, including spouses of U.S. citizens with pending applications.",
-    "The Trump administration filed an emergency Supreme Court appeal to enforce a March executive order restricting mail‑in voting for the November midterms, despite a federal appeals court warning it would cause confusion and disenfranchise voters."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731184126.3.05720c3a6a5f13e4@mg2.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 80: Musk Plans to Spend $100 Million to Help GOP in Midterms and ICE Ramps Up Airpor…",
-   "date": "2026-07-31T11:41-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-80-musk-midterms-trump",
-   "bullets": [
-    "Elon Musk’s super PAC is set to spend $100‑120 million on Republican Senate and House races in at least eight states ahead of the midterms, according to the New York Times.",
-    "ICE is expanding arrests and deportations of Haitians as the Supreme Court ends Temporary Protected Status for 300,000 Haitians, with plans to target overstayers and even spouses of U.S. citizens at airports.",
-    "The Trump administration filed an emergency appeal to the Supreme Court to enforce a March executive order restricting mail‑in voting for the November midterms, despite a federal appeals court warning it would cause confusion and disenfranchise voters."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731181220.3.a3978be69e4d8668@mg2.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Assume ICE Is Lying",
-   "date": "2026-07-31T11:12-07:00",
-   "url": null,
-   "bullets": [
-    "ICE agent David Brouillette, who had documented violent behavior including a 2022 incident throwing his daughter through a glass table and multiple protection orders, shot dead immigrant Johan Sebastián Durán Guerrero in Maine, contradicting the agency’s claim he was evading arrest and exposing failures in ICE’s rushed vetting of new agents.",
-    "In the July 7 shooting of Houston immigrant Lorenzo Salgado Araujo, ICE and Fox News falsely alleged methamphetamine was found in his van; later lab results identified the substance as harmless electrolyte salts, yet right‑wing outlets have not issued corrections.",
-    "White House border czar Tom Homan admitted Brouillette likely should not have passed ICE’s vetting, highlighting systemic issues as the agency hired 10,000 agents quickly, often skipping the six‑to‑nine‑month background checks required."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731181220.3.a3978be69e4d8668@mg-d1.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark_at_substack_com_dfz5na2cr457y1_p2m22105",
-   "subject": "Assume ICE Is Lying",
-   "date": "2026-07-31T11:12-07:00",
-   "url": null,
-   "bullets": [
-    "ICE agent David Brouillette had a history of violence",
-    "Lorenzo Salgado Araujo was shot by ICE, with false meth claims",
-    "ICE initially lied about both Johan Sebastián Durán Guerrero and Araujo's cases"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731154745.3.d8f1e520294a9169.9gd14cbg@mg-d0.substack.com",
-   "newsletter": "Substack",
-   "pub": "no-reply_at_substack_com_dfzcnd2br853yb_p6m22105",
-   "subject": "Jonathan V. Last, Sonny Bunch, and The Bulwark posted new notes",
-   "date": "2026-07-31T08:47-07:00",
-   "url": null,
-   "bullets": [
-    "Jonathan V. Last posted a new note teasing a likely detailed analysis, with the teaser line “Fwiw, you’ll probably learn a…”.",
-    "Sonny Bunch announced a new post titled “Oh hey, what’s this? (We’ve moved…)”.",
-    "The Bulwark published a note criticizing the president’s handling of the missile inventory, Hegseth’s politicized officer hires/fires, and citing Zelensky’s promise to show…"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731132738.3.4b8fd25463f8e589@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A Portrait of MAGA Psychodrama",
-   "date": "2026-07-31T06:27-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s White House is still a fundraising machine, with nightly calls to fundraiser Meredith O’Rourke to track donor cuts and inflows for his library, ballroom, and PACs, while his political agenda stalls and his popularity drops.",
-    "Fauci’s diary shows he treated pregnant aide Katie Miller with personal concern—calling her daily, calming her during anxiety, and contacting her baby’s doctors—yet Miller now claims he weaponized her pregnancy to aggrandize himself, a claim she defends on X.",
-    "Todd Blanche’s confirmation as Attorney General is stalled by Republican senators John Cornyn and Thom Tillis over concerns about his role in the Epstein cover‑up and a deal granting Trump’s family IRS immunity, highlighting a temporary setback for Trump’s DOJ agenda."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731132738.3.4b8fd25463f8e589@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A Portrait of MAGA Psychodrama",
-   "date": "2026-07-31T06:27-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s fundraising is now a nightly White House ritual, with donors pumping millions into his library, ballroom, and PACs while he keeps tabs on who’s cutting checks, treating him like a king rather than a president.",
-    "Fauci’s diary shows he personally advised and calmed pregnant aide Katie Miller during COVID, yet Miller now claims he weaponized her pregnancy for self‑aggrandizement and calls for his imprisonment, a claim she offers to justify her own political paranoia."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731111450.3.3d687c6783a16838@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "EXCLUSIVE: New Poll Shows Swing District Voters Prefer 'Outsiders' to Boring Centrists",
-   "date": "2026-07-31T04:14-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/exclusive-new-poll-shows-swing-district",
-   "bullets": [
-    "A new Working Families Party poll of 18 swing U.S. House districts shows 80% of voters feel elected officials favor wealthy donors over ordinary people, and they prefer outsider candidates who promise major policy shifts.",
-    "The survey, shared exclusively with Zeteo, found that independent and moderate voters are not seeking typical “moderate” candidates and are largely indifferent to labels of being too far left.",
-    "In the 2024 sample, 48% of respondents in these districts voted for Donald Trump over Kamala Harris, indicating a strong preference for outsider candidates over establishment figures."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731111450.3.3d687c6783a16838@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "EXCLUSIVE: New Poll Shows Swing District Voters Prefer 'Outsiders' to Boring Centrists",
-   "date": "2026-07-31T04:14-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/exclusive-new-poll-shows-swing-district",
-   "bullets": [
-    "Voters in 18 toss-up districts prefer 'outsiders' over centrists",
-    "80% of respondents feel officials prioritize donors over people",
-    "Poll surveyed general election voters who voted Trump over Harris 48-45 in 2024"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731110103.3.76f00dea02aa955d@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Showed Up to the Trial and Lost $83 Million",
-   "date": "2026-07-31T04:01-07:00",
-   "url": null,
-   "bullets": [
-    "James Comey challenges the “8647” prosecution, while Donald Trump seeks to overturn E. Jean Carroll’s $83 million defamation judgment via a Supreme Court bid.",
-    "The administration pushes new mail‑in voting restrictions, withdraws subpoenas targeting New York Times reporters, and delays the Paramount‑Warner Bros merger."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731110103.3.76f00dea02aa955d@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Showed Up to the Trial and Lost $83 Million",
-   "date": "2026-07-31T04:01-07:00",
-   "url": null,
-   "bullets": [
-    "James Comey’s challenge to the “8647” prosecution is examined, questioning the legality of the indictment against former President Trump.",
-    "Donald Trump’s Supreme Court bid to overturn E. Jean Carroll’s $83 million defamation judgment is dissected, highlighting the court’s potential impact on the case.",
-    "The administration’s push for new mail‑in voting restrictions, withdrawal of subpoenas targeting New York Times reporters, and the delayed Paramount‑Warner Bros merger are also covered."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731105644.3.072fbcd004426e52@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Come Hang Out at Crooked Con Nov 5-7",
-   "date": "2026-07-31T03:56-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/come-hang-out-at-crooked-con-nov",
-   "bullets": [
-    "Crooked Con returns Nov. 5‑7 in Washington, DC, with 2,500 attendees last year, featuring Barack Obama, Pod Save America live taping, Senator Chris Murphy interview, and a polling panel.",
-    "The event offers main‑stage talks, strategy panels, grassroots networking, and parties, targeting political workers and activists to connect with progressive creators and new‑media personalities.",
-    "Tickets are on sale at crookedcon.com; Friends of the Pod subscribers can still secure discounted seats before they sell out."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731103024.3.575609973d74f7e5@mg-d1.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Does public health *need* MAHA?",
-   "date": "2026-07-31T03:30-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/does-public-health-need-maha",
-   "bullets": [
-    "About 40% of Americans back the MAHA movement, but only 4% cite vaccines or medical choice as their motivation, showing a broader frustration with health system failures.",
-    "MAHA excels at amplifying system‑failure narratives, using modern storytelling, podcasts and rallies to mobilize diverse supporters, something public‑health institutions have struggled to match.",
-    "The newsletter warns that MAHA’s leadership, especially RFK Jr., undermines science—promoting anti‑vaccine agendas and superficial food reforms—so public health must offer evidence‑based, empathetic alternatives focused on cost, communication and savvy politics."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731103044.3.0812416b1cfe0e5c@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Bond Market Doesn’t Like Bullshit",
-   "date": "2026-07-31T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-bond-market-doesnt-like-bullshit",
-   "bullets": [
-    "The Fed’s June 2024 FOMC meeting left rates unchanged amid 3.7% inflation, but Treasury yields spiked and the dollar fell as traders doubted Chair Kevin Warsh’s commitment to fighting inflation, citing his evasive press‑conference remarks and three dissenting votes—an unprecedented level of opposition since 1970.",
-    "Warsh’s performance, criticized as a “bullshitter” and politically driven, eroded market confidence; bond traders now expect the Fed will keep rates too low for too long, forcing higher future hikes to curb inflation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731090128.3.bb88e9b48fc612c1@mg-d1.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Geopolitical Checkers",
-   "date": "2026-07-31T02:01-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/geopolitical-checkers",
-   "bullets": [
-    "EU added 14 Chinese firms to its Russia sanctions, prompting Beijing to instantly blacklist the same 14 EU defense and tech companies, citing its Export Control and Anti‑Foreign Sanctions laws.",
-    "China’s rapid retaliation signals a broader strategy: any EU firm in dual‑use or defense sectors can face reciprocal bans, warning that similar counter‑measures could spread to critical energy commodities."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731054214.3.00c0aa4d3e55e900@mg-d1.substack.com",
-   "newsletter": "Heather Cox Richardson from Letters from an American",
-   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
-   "subject": "July 30, 2026",
-   "date": "2026-07-30T22:42-07:00",
-   "url": "https://heathercoxrichardson.substack.com/p/july-30-2026",
-   "bullets": [
-    "Medicare and Medicaid began 60 years ago",
-    "LBJ signed the measure into law in 1965",
-    "Republicans cut $911 billion from Medicaid in 2025"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 81,
-  "total": 352
+  "shown": 78,
+  "total": 337
  }
 }
