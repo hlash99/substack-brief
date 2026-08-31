@@ -1,50 +1,107 @@
 {
- "updated": "2026-08-30T11:06-07:00",
+ "updated": "2026-08-30T18:25-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s renewed tariff war with Canada is spiraling into a full‑blown economic conflict that threatens both U.S. supply chains and Canadian political stability, with analysts warning the U.S. will suffer more (The Bulwark, Zeteo, Paul Krugman).",
-   "Republican tax‑cut legacies are inflating the national debt to dangerous levels, a point underscored by Krugman’s debt analysis and the broader fiscal warnings from the Message Box (Paul Krugman, The Message Box).",
-   "Democrats are scrambling to redefine electability and counter aggressive GOP messaging, as highlighted by Dan Pfeiffer’s electability trap piece and the Jeffries‑Kushner meeting coverage (The Message Box, The Bulwark).",
-   "ICE’s push for “non‑lethal” electric‑shock gloves raises fresh civil‑rights alarms amid a broader trend of aggressive enforcement tactics (Adrian Carrasquillo).",
-   "Escalating violence in the Israel‑Palestine theater, linked to the fallout from Jared Kushner’s regional diplomacy, is intensifying humanitarian concerns (Zeteo).",
-   "The political‑media ecosystem is increasingly saturated with sensationalist narratives, from Trump‑centric scandals to crypto corruption exposés, shaping public discourse across multiple newsletters (Zeteo, Doomberg)."
+   "The looming 2028 election cycle is already reshaping party strategies, with Democrats scrambling for staff and headquarters while Republicans fracture into competing MAGA factions (The Bulwark, Zeteo).",
+   "Trump’s administration is intensifying its authoritarian tactics, from massive visa revocations to weaponizing social media aides and inflaming foreign conflicts, prompting internal GOP alarm (This Week in Democracy, First Draft | Zeteo, Jim Swift).",
+   "Progressive tax policy is eroding, creating a $600 billion tax gap that fuels the federal deficit and deepens inequality (Paul Krugman).",
+   "Key Senate races in Georgia and North Carolina have become flashpoints for national power struggles, drawing unprecedented super‑PAC spending and framing control of the Senate as a decisive battleground (Jon Ossoff, Roy Cooper).",
+   "The humanitarian crisis in Palestine escalates amid Israeli military actions and settler violence, highlighting the U.S. role and domestic political fallout (Zeteo).",
+   "Cultural and social issues—from Dolly Parton’s legacy to the threat to literacy programs and measles outbreaks—underscore how policy cuts and partisan narratives impact everyday Americans (The Substack Post, Sonny Bunch, Your Local Epidemiologist)."
   ],
   "by": "groq",
   "ids": [
-   "20260822000115.3.1fe8a22a50b02ff2@mg2.substack.com",
-   "20260822100139.3.d63699ae7d957cbd@mg-d1.substack.com",
-   "20260822114404.3.8f7cfd80bd39cd5a@mg-d0.substack.com",
-   "20260822123115.3.cf5836e3e7ffe0ba@mg-d1.substack.com",
-   "20260822124945.3.a32fbb29cc3e04d6@mg-d0.substack.com",
-   "20260822130217.3.0ed08774915a773e@mg-d1.substack.com",
-   "20260822130306.3.13ecc82828f93105@mg-d0.substack.com",
-   "20260822143100.3.ed4a6c1c1cacfd14@mg-d1.substack.com",
-   "20260822170109.3.77d608ea32976404@mg-d1.substack.com",
-   "20260822170820.3.160a1df70826be04@mg-d1.substack.com",
-   "20260823090154.3.8f64266ca140a42e@mg-d1.substack.com",
-   "20260823103101.3.a0189d27dc1e4c60@mg-d0.substack.com",
-   "20260823113037.3.cf92ac8937fea9fa@mg-d1.substack.com",
-   "20260823120341.3.5873c7dd4d36e787@mg2.substack.com",
-   "20260823160243.3.425030ce018c0397@mg-d0.substack.com",
-   "20260823162622.3.f3a50e6c29819dd7@mg-d1.substack.com",
-   "20260823230149.3.d1ecd4e2c4473fa9@mg2.substack.com",
-   "20260824000112.3.80de990285a19f1d@mg-d1.substack.com",
-   "20260824011542.3.064d2c8e80059ad2@mg2.substack.com",
-   "20260824103114.3.8a048c35f96577ed@mg-d1.substack.com",
-   "20260824111236.3.470542d2455a7ce6@mg-d0.substack.com",
-   "20260824133207.3.0194fb99731b4e1e@mg-d1.substack.com",
-   "20260824142828.3.450502ac8a3c113f@mg2.substack.com",
-   "20260824160637.3.f9736ceaab0fb91d@mg-d1.substack.com",
-   "20260824162943.3.e157ca3ca1204974@mg-d0.substack.com",
-   "20260824171546.3.6f4bc7deac0a3713@mg-d1.substack.com",
-   "20260824220614.3.203a2b0a18beb03f@mg-d1.substack.com"
+   "20260828090218.3.c27e32b1bae269c7@mg-d1.substack.com",
+   "20260828100412.3.314b9d3dd9bb115f@mg-d0.substack.com",
+   "20260828103023.3.96bc4e676b5381ac@mg-d1.substack.com",
+   "20260828110701.3.f17d0e5fe440f9ce@mg-d0.substack.com",
+   "20260828111423.3.a08d21086a822480@mg-d0.substack.com",
+   "20260828133531.3.37d6c619ac27de7f@mg-d1.substack.com",
+   "20260828140049.3.5b16890de3157969@mg-d0.substack.com",
+   "20260828150554.3.648eb39d727e4b4d@mg2.substack.com",
+   "20260828153019.3.26b586653c91631b@mg-d0.substack.com",
+   "20260828190109.3.0d340cd52339f750@mg2.substack.com",
+   "20260828203601.3.5c84dca2a3da887c@mg-d0.substack.com",
+   "20260828205525.3.bf91aaf2098a644a@mg-d0.substack.com",
+   "20260829010100.3.652c5c33cf961b15@mg-d1.substack.com",
+   "20260829100217.3.fd167ac60ec9033f@mg2.substack.com",
+   "20260829103106.3.36cd742324ea2797@mg-d0.substack.com",
+   "20260829113057.3.6be32b2b0ce533e9@mg2.substack.com",
+   "20260829130212.3.2d89652b939a0f19@mg2.substack.com",
+   "20260829130221.3.4265bf9900c728a9@mg-d0.substack.com",
+   "20260829131231.3.3285b36074f4dc06@mg-d0.substack.com",
+   "20260829134545.3.bfb2ec7d2ddb084e@mg2.substack.com",
+   "20260829152131.3.ddf0582c80b56665@mg-d1.substack.com",
+   "20260829170131.3.4c89fe629287c8c7@mg-d1.substack.com",
+   "20260829205118.3.37de2eb682adf90b@mg-d1.substack.com",
+   "20260830113105.3.7e8a9568ad293da0@mg-d0.substack.com",
+   "20260830123120.3.96ba231ac33f7bd1@mg-d1.substack.com",
+   "20260830130303.3.0ed688a1aabb58e5@mg-d1.substack.com",
+   "20260830130335.3.1a5acb8ed25c95a9@mg-d1.substack.com",
+   "20260830155822.3.cf94c86d1e3c9732@mg2.substack.com",
+   "20260830185159.3.0f147ffee035c58a@mg2.substack.com",
+   "20260830230140.3.aa5ef0f65cb074f0@mg-d1.substack.com",
+   "20260830233432.3.07bd92614e72f713@mg-d1.substack.com"
   ],
-  "updated": "2026-08-24T16:42-07:00",
+  "updated": "2026-08-30T18:25-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260831010229.3.7cbfbc8f12352ce7@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "When McCarthyism Hit My Family",
+   "date": "2026-08-30T18:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/when-mccarthyism-hit-my-family",
+   "bullets": [
+    "Here’s a frightening thought experiment: How much more damage could the infamous 1950s demagogue Joseph McCarthy have done if he’d sat in the Oval Office? Donald Trump’s deadly crusade against immigrants, “hardcore, godless Communists” and …",
+    "In January, his deportation goons in Minnesota killed anti-ICE protesters Renee Good [ https://substack.com/redirect/2f7cb106-7f09-4ea5-809e-a384239ae318?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] and Alex Pretti [ …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260830233432.3.07bd92614e72f713@mg-d1.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "Humbly asking for your support in the toughest reelection campaign in the entire country",
+   "date": "2026-08-30T16:34-07:00",
+   "url": "https://ossoff.substack.com/p/humbly-asking-for-your-support-in",
+   "bullets": [
+    "Sen. Jon Ossoff frames his 2026 Georgia Senate race as the GOP’s top target, warning that national Republicans and Super PACs will spend hundreds of millions against him.",
+    "He emphasizes that his campaign rejects corporate PAC and lobbyist money, relying on small donor contributions of $10‑$50 to fund voter mobilization, ads, and staff.",
+    "Ossoff urges immediate donations via ActBlue, arguing each dollar will directly strengthen the campaign in the highly competitive battleground state."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260830230140.3.aa5ef0f65cb074f0@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The 2028 Democratic Primary Is Quietly Raging",
+   "date": "2026-08-30T16:01-07:00",
+   "url": null,
+   "bullets": [
+    "Advisors to potential 2028 Democratic candidates are already scouting headquarters locations, with logistical challenges noted for those from Pacific states or places like Louisville, Kentucky.",
+    "Strategist Jesse Lehrich warns a fierce scramble for campaign staff, predicting over thirty candidates will compete for top operatives as an early viability signal."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260830185159.3.0f147ffee035c58a@mg2.substack.com",
+   "newsletter": "Mona Charen - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Inside Trump’s National Security Dumpster Fire (w/ Julie Curlee)",
+   "date": "2026-08-30T11:51-07:00",
+   "url": null,
+   "bullets": [
+    "Former CIA officer Julie Curlee says Trump’s administration politicized intelligence, removing experienced analysts and eroding nonpartisan expertise, especially on Iran and Venezuela.",
+    "Curlee warns that the loss of seasoned public servants could take a generation to repair, as the national security apparatus becomes a “dumpster fire” of politicization."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260830155822.3.cf94c86d1e3c9732@mg2.substack.com",
    "newsletter": "Roy Cooper",
@@ -4804,117 +4861,10 @@
     "Republicans cut $911 billion from Medicaid in 2025"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260731010137.3.35799c6baf7f4d35@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "The Ugly Misogyny of Trump's Movement",
-   "date": "2026-07-30T18:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-ugly-misogyny-of-trumps-movement",
-   "bullets": [
-    "Pete Hegseth announced a testosterone‑screening program for troops, echoing the hyper‑masculine caricature of Defense Secretary Lloyd Austin mocked by SNL’s Colin Jost.",
-    "The New York Times reported Hegseth blocked promotions for five senior Navy officers—women and people of color—including the first woman to command a nuclear aircraft carrier, illustrating systemic misogyny in the MAGA movement."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731010137.3.35799c6baf7f4d35@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "The Ugly Misogyny of Trump's Movement",
-   "date": "2026-07-30T18:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-ugly-misogyny-of-trumps-movement",
-   "bullets": [
-    "Pete Hegseth announced a testosterone screening program for U.S. troops, prompting a New York Times report that he blocked promotions for five senior Navy officers who are women or people of color, including the first American woman to command a nuclear aircraft carrier.",
-    "Colin Jost’s Saturday Night Live sketch lampooned the toxic masculinity he sees in Trump’s MAGA movement, highlighting how such misogyny extends beyond Hegseth to the broader political culture."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731003149.3.59a31a93a9ba652c@mg-d0.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "GOP Fiscal Responsibility Is Always a Bill Away",
-   "date": "2026-07-30T17:31-07:00",
-   "url": null,
-   "bullets": [
-    "Republicans have used reconciliation four times this Congress—record‑high—to pass budget bills without spending cuts, despite fiscal hawks’ promises of future offsets.",
-    "Reconciliation 3.0 added $70 billion for deportations and still lacks deficit reductions; leadership now promises a fourth reconciliation to finally cut spending.",
-    "Federal debt now exceeds 100% of GDP and 30‑year Treasury yields are at two‑decade highs, underscoring the fiscal stakes of these unchecked reconciliation bills."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731003149.3.59a31a93a9ba652c@mg-d1.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "GOP Fiscal Responsibility Is Always a Bill Away",
-   "date": "2026-07-30T17:31-07:00",
-   "url": null,
-   "bullets": [
-    "Republicans have used the reconciliation process a record four times in this Congress, each time adding billions to deficits—$4 trillion in 2023, $70 billion in 2024, and no cuts in 2025—while promising future offsets that never materialized.",
-    "Majority Leader Steve Scalise announced a planned “reconciliation 4.0” to provide the promised spending cuts, but the Senate remains stalled as GOP senators demand the bill be paid for, citing deficit concerns.",
-    "The budget process is further undermined by OMB Director Russell Vought’s unilateral refusal to spend appropriated funds, cutting programs like the Smithsonian and USAID, while the federal debt has already exceeded 100% of GDP and Treasury yields hit two‑decade highs."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730232424.3.78bb72a5c2b05f01@mg-d1.substack.com",
-   "newsletter": "Heather Cox Richardson from Letters from an American",
-   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
-   "subject": "Nothing to Stand On",
-   "date": "2026-07-30T16:24-07:00",
-   "url": "https://heathercoxrichardson.substack.com/p/nothing-to-stand-on",
-   "bullets": [
-    "Nothing to Stand On"
-   ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260730220658.3.1cade1adf74a6dc3@mg2.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "Unmistakable message",
-   "date": "2026-07-30T15:06-07:00",
-   "url": "https://ossoff.substack.com/p/i-cant-win-without-your-support",
-   "bullets": [
-    "Ossoff warns the Georgia Senate race will be the nation’s most expensive and competitive, saying its outcome will shape state, national, and global futures.",
-    "He frames his opponent, MAGA‑aligned Mike Collins, as a Trump‑backed extremist whose victory would enable pro‑war, pro‑tariff, and health‑care cuts.",
-    "Ossoff urges donors to contribute $10 or more to secure a decisive win that he says will send an unmistakable anti‑MAGA message for centuries."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730201224.3.025a2df4b1259df8@mg2.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Here Are the Republicans’ Biggest Lies From Their Fauci Show Trial",
-   "date": "2026-07-30T13:12-07:00",
-   "url": null,
-   "bullets": [
-    "Senators Ron Johnson and Rand Paul used a Senate COVID hearing to push false claims that vaccines are experimental gene therapy and that Fauci’s advice caused hundreds of thousands of deaths, despite data showing only about 6,400 nursing‑home deaths and no evidence vaccines are lethal.",
-    "Johnson cited a bogus poll claiming 24% of Americans know someone who died from vaccines—an impossible 82 million deaths—while also promoting unsubstantiated theories about Fauci’s health and a hidden algorithm suppressing vaccine harms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260730201224.3.025a2df4b1259df8@mg-d1.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Here Are the Republicans’ Biggest Lies From Their Fauci Show Trial",
-   "date": "2026-07-30T13:12-07:00",
-   "url": null,
-   "bullets": [
-    "Sen. Ron Johnson claimed COVID vaccines are experimental gene therapy",
-    "Sen. Rand Paul blamed Dr. Fauci for 6,400 nursing home deaths",
-    "Fauci had no role in the nursing-home policy"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 80,
-  "total": 356
+  "shown": 81,
+  "total": 352
  }
 }
