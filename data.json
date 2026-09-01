@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T13:13-07:00",
+ "updated": "2026-08-31T18:53-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -50,6 +50,60 @@
  },
  "items": [
   {
+   "id": "20260901000021.3.ed8b6256e7dd378d@mg-d1.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why MAGA Is Celebrating Milo’s Deportation",
+   "date": "2026-08-31T17:00-07:00",
+   "url": null,
+   "bullets": [
+    "Milo Yiannopoulos was detained by ICE on an expired visa, deported to the UK, and his mugshot was posted by DHS, ending his decade as a right‑wing provocateur; MAGA allies celebrated his removal while liberals mocked his past calls for ICE checkpoints and executions.",
+    "Yiannopoulos’s fall was precipitated by a long‑standing feud with Laura Loomer, who reported him to Homeland Security; their split over alliances with Marjorie Taylor Greene and mutual accusations of sexual misconduct fueled the ICE action.",
+    "Post‑deportation speculation about Yiannopoulos’s “vault” of damaging material remains unsubstantiated, as he has denied it was a real archive and has not released any evidence, leaving his influence in the alt‑right diminished for now."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260831234348.3.dee5a7e69f36a55c@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "We could come up short",
+   "date": "2026-08-31T16:43-07:00",
+   "url": "https://roycoopernc.substack.com/p/we-could-come-up-short",
+   "bullets": [
+    "Roy Cooper urges donors to give $7 to help his North Carolina Senate campaign reach a $2 million goal and counter GOP attack ads totaling nearly $100 million.",
+    "He warns that falling short would jeopardize flipping the seat and allow GOP candidate Michael Whatley, a former Big Oil lobbyist, to win with Trump’s backing."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260831211957.3.c2f2672f3f1a6876@mg-d0.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Took the Bait and Walked Straight Into the Data Center Backlash (with Bill Kristol)",
+   "date": "2026-08-31T14:19-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s war is far from over, top military leaders are warning Hegseth that prolonged ops in the region are unsustainable, and Americans have been financing Pentagon propagandists who’ve been secretly collecting taxpayer money to try to con…",
+    "Plus: The Venezuelan oil deal is a socialist PR stunt, vile Laura Loomer is trying to bring back the normalization of Islamaphobia, Massachusetts voters should recall the risks of sending an 80-year-old back to the Senate, and Marco really …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260831210242.3.1cfb433286e6d694@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "‘We Aren’t Winning’: Don’t Believe Team Trump’s Iran War Propaganda",
+   "date": "2026-08-31T14:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/we-arent-winning-trump-iran",
+   "bullets": [
+    "A senior U.S. official told Zeteo the administration’s claim that the Iran war is going well is false, saying ‘we aren’t winning’.",
+    "Four officials and a Trump adviser say the Pentagon and broader government believe the war is being lost, and the White House’s propaganda is aimed at boosting Trump’s party before the midterms.",
+    "The officials said they are speaking out because they are appalled by what they call ‘nothing but lies and distortions’ in the administration’s public narrative."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260831163916.3.8cb05d0236b040ac@mg-d1.substack.com",
    "newsletter": "Sam Stein—The Bulwark",
    "pub": "thebulwark",
@@ -71,10 +125,11 @@
    "date": "2026-08-31T06:29-07:00",
    "url": null,
    "bullets": [
-    "Six months in, the war in Iran is suddenly hot again. The U.S. military said Sunday it had bombarded Iranian troops on Larak Island who were trying to launch mines into the Strait of Hormuz, killing several people. Iran responded by firing …",
-    "Join Will Sommer and Sam Stein for MAGA Mondays today at 10:00 a.m. EDT on Substack [ https://open.substack.com/live-stream/342943?utm_source=post-publish ] and YouTube [ https://substack.com/redirect/a370ae5e-f752-4e73-a3ce-2bb7ae2b166d?j=…"
+    "The U.S. bombed Iranian troops on Larak Island attempting to mine the Strait of Hormuz, killing several, prompting Iranian fire at U.S. bases in Jordan and UAE and nudging oil prices up, while senior military leaders warn Defense Secretary Pete Hegseth that large‑scale attacks on Iran are becoming unsustainable.",
+    "In Springfield, Ohio, ICE arrested 34 Haitians—including two pastors—over a month, shackling them with ankle monitors despite pending asylum claims, spurring a grassroots mobilization at Greater Grace Temple that organized food, legal aid, and a “Unshackle Springfield” protest.",
+    "Activists raised funds for the Haitian Support Center, called Republican officials, and highlighted the historical trauma of ankle monitors, while local clergy and the NAACP condemned the raids as anti‑Black containment and urged community support."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260831111840.3.95d87aa72ccbd629@mg-d1.substack.com",
@@ -98,10 +153,11 @@
    "date": "2026-08-31T03:30-07:00",
    "url": "https://paulkrugman.substack.com/p/from-kakistocracy-to-cheatistocracy",
    "bullets": [
-    "At this point, it’s almost a commonplace to say that under DonaldTrump, America has become a kakistocracy, ruled by the worst. But I don’tthink it’s fully appreciated the extent to which we’ve also become a cheatistocracy, ruled by the most…",
-    "Today’s commentary is a follow-upon yesterday’s primer, which was about the role of tax evasion both in leading to or contributing to our downward spiral into oligarchy and also as a surprisingly large factor in the budget deficit and there…"
+    "Krugman argues that U.S. tax policy since the 1950s has eliminated progressive taxes, enabling massive wealth concentration and turning America into a “cheatistocracy” where tax evasion fuels the deficit by over $600 billion annually, about 40% of the federal shortfall.",
+    "He cites IRS data showing high‑income audit rates fell from 7.2% in 2011 to 0.7% by 2019 due to a 30‑40% cut in enforcement staff, allowing the ultra‑wealthy to evade taxes at a scale comparable to the entire Medicaid budget.",
+    "Krugman notes that while Biden attempted to boost IRS enforcement, Trump’s tax‑cut legislation reversed those gains, further entrenching a system that benefits dishonest billionaires and undermines honest wealth holders."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260831010229.3.7cbfbc8f12352ce7@mg-d1.substack.com",
@@ -4588,79 +4644,10 @@
     "US strikes have killed over 220 people with no evidence of 'narcoterrorism'"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260801010021.3.557455962fe536aa@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
-   "subject": "In Michigan, AIPAC Is Playing With Fire",
-   "date": "2026-07-31T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/in-michigan-aipac-is-playing-with",
-   "bullets": [
-    "AIPAC spent a record $46 million supporting Rep. Haley Stevens in the Michigan Democratic Senate primary, giving her a 12‑to‑1 advertising advantage over opponent Abdul El‑Sayed.",
-    "El‑Sayed, a vocal critic of Israel, condemned the spending as corrupt, while some Jewish leaders warned his candidacy threatens the national Jewish community and even considered backing the Republican.",
-    "Critics, including columnist Jonathan S. Tobin, accused El‑Sayed of antisemitic rhetoric, prompting Stevens to tweet that his attacks amount to blaming all problems on Jewish Americans."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731220344.3.fa91bc9ae9b833ec@mg-d1.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "You Can See the Bush Line From Your House",
-   "date": "2026-07-31T15:03-07:00",
-   "url": null,
-   "bullets": [
-    "The Trump administration is reportedly deploying ChatGPT for a wide range of tasks, from drafting communications to policy analysis, raising concerns about AI reliance in governance.",
-    "Senators Cornyn and Tillis are staging a symbolic protest against Todd Blanche, but the piece questions the effectiveness of their actions amid ongoing political tensions.",
-    "Trump has amassed $800 million in campaign contributions since returning to office, highlighting a significant fundraising surge that could influence upcoming electoral dynamics."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731220344.3.fa91bc9ae9b833ec@mg-d0.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "You Can See the Bush Line From Your House",
-   "date": "2026-07-31T15:03-07:00",
-   "url": null,
-   "bullets": [
-    "The Trump administration is reportedly using ChatGPT for all internal communications, sparking concerns about AI’s influence on policy decisions.",
-    "Senators Cornyn and Tillis are staging a symbolic protest against Todd Blanche, but the author questions its effectiveness and relevance.",
-    "Joe Biden’s campaign has raised $800 million since returning to office, a figure highlighted as a significant fundraising milestone."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731214317.3.c17d0b5d7ce6d707@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "The Fake ‘Invasion’ of Spain: What You Need to Know",
-   "date": "2026-07-31T14:43-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-fake-invasion-of-spain-what-you",
-   "bullets": [
-    "Around 60,000 migrants crossed into the Spanish enclave Ceuta in May, but over 48,000 (about 80%) have voluntarily returned to Morocco, contradicting far‑right claims of a mass “invasion.”",
-    "Ceuta, a Spanish EU territory on Morocco’s coast, operates under special Schengen rules that limit entry to mainland Spain, and the incident has been weaponized by Donald Trump and Nigel Farage to rally anti‑immigrant sentiment ahead of US midterms and UK elections."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260731214317.3.c17d0b5d7ce6d707@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
-   "subject": "The Fake ‘Invasion’ of Spain: What You Need to Know",
-   "date": "2026-07-31T14:43-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-fake-invasion-of-spain-what-you",
-   "bullets": [
-    "Donald Trump used the Ceuta migrant surge as a midterm election talking point",
-    "At least 80% of migrants have returned to Morocco voluntarily",
-    "Ceuta is a Spanish enclave on Morocco's northern coast since 1580"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 78,
-  "total": 337
+  "shown": 79,
+  "total": 336
  }
 }
