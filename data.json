@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T10:54-07:00",
+ "updated": "2026-09-01T18:07-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -49,6 +49,59 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260902001619.3.67005af4bb787cd4@mg-d1.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "El-Sayed Asks Michigan’s Jewish Dems for Forgiveness",
+   "date": "2026-09-01T17:16-07:00",
+   "url": null,
+   "bullets": [
+    "Abdul El‑Sayed, Michigan’s Democratic Senate nominee, met with Jewish Democratic leaders in Birmingham, apologizing for past remarks that many view as questioning Israel’s right to exist and for his ties to controversial streamer Hasan Piker.",
+    "He defended a video statement that condemned a recent synagogue attack but added that U.S. support for Israel’s actions creates a ‘hurt people hurt people’ cycle, sparking further backlash from Jewish voters."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260901232100.3.574ea29abdaf7c28@mg2.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Ken Paxton Is Running One of the Worst Campaigns in America",
+   "date": "2026-09-01T16:21-07:00",
+   "url": null,
+   "bullets": [
+    "Tim, Sarah, and JVL discuss the U.S. Supreme Court letting Trump’s ballroom go ahead (for now), why JVL thinks John Roberts is the Susan Collins of the Supreme Court, and whether Sarah is warming up to tearing down the ballroom in 2029. Plu…",
+    "If you want more of Tim, Sarah, and JVL doing what they do here—looking past the daily Trump spectacle to figure out what survives him, where Democrats have openings, and what the next political era might actually look like—become a Bulwark…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260901220414.3.55473ed9867615b8@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Israeli Raid Forces Gaza Kindergarten to Frantically Evacuate 200 Children",
+   "date": "2026-09-01T15:04-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/israeli-bombing-raid-gaza-city-kindergarten",
+   "bullets": [
+    "Israeli forces raided a Gaza City kindergarten, forcing the Red Cross to evacuate 200 children aged 4‑5 amid gunfire and airstrikes near the American Hospital.",
+    "Head of the school, Doaa Qadeeh, livestreamed the chaos, pleading for safety as explosions echoed and parents scrambled to rescue their children.",
+    "The incident highlights how even supposedly safer Gaza areas are now subject to sudden military operations, endangering young civilians."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260901191040.3.39caf799f0ceedb3@mg-d0.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Sorry, Mr. President. I Have a Thing.",
+   "date": "2026-09-01T12:10-07:00",
+   "url": null,
+   "bullets": [
+    "I’ve come up with an easy way to determine how concerned [ https://substack.com/redirect/438e4bd3-7201-42a3-b304-9cf3ab5bd4fa?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] House Republicans are about Trump dragging the…",
+    "Chances are, they’re not going to be there. Trump’s cratering [ https://substack.com/redirect/ed42e420-fadb-4663-9de3-2f73a44d0833?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] approval ratings appear to have spooked v…"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20260901163051.3.2327d555dd1580e7@mg-d0.substack.com",
    "newsletter": "JVL - The Bulwark",
@@ -112,10 +165,10 @@
    "date": "2026-09-01T05:32-07:00",
    "url": "https://open.substack.com/pub/messagebox/p/trump-thankfully-cant-get-out-of",
    "bullets": [
-    "Donald Trump has many political problems. The Iran War, persistent inflation, sinking approval ratings, and scant legislative accomplishments. But his biggest problem might be his commitment to doing stupid shit all of the time. Trump seems…",
-    "In politics, so much is out of your control. Even presidents have incredibly limited influence over the larger political environment. The public has a long history of turning on presidents soon after they win. Oftentimes, the economy is tot…"
+    "Trump’s political woes—war with Iran, high inflation, low approval, and few legislative wins—are worsened by his own reckless actions that repeatedly sabotage Republican prospects.",
+    "His recent blunders, like the absurd attempt to rename Lake Ontario, exemplify how his constant missteps undermine any limited control he has over the political environment."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260901111439.3.52390dd4c935c2b5@mg-d1.substack.com",
@@ -138,10 +191,10 @@
    "date": "2026-09-01T04:02-07:00",
    "url": "https://paulkrugman.substack.com/p/the-plot-to-steal-venezuelas-oil",
    "bullets": [
-    "The United States has an ugly reputation in Latin America -- a reputation that, I’m sorry to say, is mostly well deserved. Our government has a long track record of supporting dictators, assisting in the overthrow of democratic governments,…",
-    "Excluding the Trump II presidency, we have, I think, behaved better in the recent past. And this was largely due to the role of enlightened self-interest. The fact is that old-fashioned, extractive imperialism doesn’t pay. In fact, it hasn’…"
+    "Trump’s secret deal to let U.S. oil firms extract up to 65 billion barrels of Venezuelan oil hinges on massive infrastructure investment and yields at most $1.3 trillion—tiny versus the U.S.’s $167 trillion wealth—so it adds essentially nothing to the economy or gas prices.",
+    "The arrangement, born from a covert kidnapping of Maduro, is a classic 19th‑century resource grab that reinforces U.S. imperialist reputation and faces near‑universal opposition in Venezuela, making its long‑term viability doubtful."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260901103102.3.41b7d3b4ba04f9e1@mg-d1.substack.com",
@@ -220,10 +273,11 @@
    "date": "2026-08-31T14:19-07:00",
    "url": null,
    "bullets": [
-    "Trump’s war is far from over, top military leaders are warning Hegseth that prolonged ops in the region are unsustainable, and Americans have been financing Pentagon propagandists who’ve been secretly collecting taxpayer money to try to con…",
-    "Plus: The Venezuelan oil deal is a socialist PR stunt, vile Laura Loomer is trying to bring back the normalization of Islamaphobia, Massachusetts voters should recall the risks of sending an 80-year-old back to the Senate, and Marco really …"
+    "Top military leaders warned the Hegseth think‑tank that prolonged U.S. operations in Iran are unsustainable, citing strain on resources and regional stability.",
+    "Will Sommer exposed a Pentagon‑funded “troll army” of propagandists secretly collecting taxpayer money to spin a positive narrative about the Iran situation.",
+    "Bill Kristol joins Tim Miller to argue that Trump’s praise of data centers and gifts to Democrats serve tech oligarchs, while Democrats should not let Republicans pass a spending bill that merely keeps the government open."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260831210242.3.1cfb433286e6d694@mg2.substack.com",
@@ -4575,62 +4629,10 @@
     "Trump still claims vandals caused the damage"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260802004808.3.07da90672c5f6d88@mg2.substack.com",
-   "newsletter": "Heather Cox Richardson from Letters from an American",
-   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
-   "subject": "Trading Strategy for Ideology",
-   "date": "2026-08-01T17:48-07:00",
-   "url": "https://heathercoxrichardson.substack.com/p/trading-strategy-for-ideology",
-   "bullets": [
-    "Trading Strategy for Ideology"
-   ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260801223115.3.1686a4329f396291@mg-d0.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "The Horny Economy Fueling MAGA Media",
-   "date": "2026-08-01T15:31-07:00",
-   "url": null,
-   "bullets": [
-    "Savanna Cannon's sexually explicit MAGA videos have sparked a split among conservative influencers, who debate the role of sex appeal and authenticity in right‑wing media.",
-    "Will Sommer and Brendan Hartnett argue that creators are leveraging political content to amass huge audiences, with platforms like OnlyFans becoming intertwined with MAGA culture.",
-    "The episode suggests the incentives of virality and monetization are reshaping online conservative discourse, making sensationalism a driving force."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260801214324.3.5252c5c4c6cf50b8.726kcozj@mg1.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark_at_substack_com_dfz5na2cr457y1_p2m22105",
-   "subject": "🗓️ The Bulwark is going live on Aug 2 at 11:00 AM EDT: “Trump’s Polls Are Collapsing. Is a Blue Tsunami Coming? (w/ Ron Brownstein) | Bulwark on Sunday”",
-   "date": "2026-08-01T14:43-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark is going live on Aug 2 at 11:00 AM EDT",
-    "Trump's polls are collapsing",
-    "Ron Brownstein will discuss a potential Blue Tsunami"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260801213848.3.5252c5c4c6cf50b8.hu14v0yq@mg1.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "🗓️ The Bulwark is going live on Aug 2 at 8:00 AM PDT: “Trump’s Polls Are Collapsing. Is a Blue Tsunami Coming? (w/ Ron Brownstein) | Bulwark on Sunday”",
-   "date": "2026-08-01T14:38-07:00",
-   "url": null,
-   "bullets": [
-    "The upcoming Bulwark live show on Aug 2 at 8 AM PDT will examine collapsing Trump poll numbers and whether a Democratic “blue tsunami” is emerging, featuring Ron Brownstein."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 82,
+  "shown": 81,
   "total": 335
  }
 }
