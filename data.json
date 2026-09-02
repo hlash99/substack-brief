@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T18:07-07:00",
+ "updated": "2026-09-02T10:57-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -50,6 +50,114 @@
  },
  "items": [
   {
+   "id": "20260902163931.3.b06310ff0637d0d2@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Just Did an IBGYBG",
+   "date": "2026-09-02T09:39-07:00",
+   "url": null,
+   "bullets": [
+    "Hey fam: Sarah and I are doing a show in the Big Room at the 92nd Street Y next Tuesday. There are like ninety tickets left and I desperately want to sell out the space. I’m trying to think of something fun I can do for you if we reach that…",
+    "If you’re in the NYC area on September 8, grab a ticket and come hang out! This is the only time anyone is ever going to put me on stage at this amazing venue. I’ll never get the chance to sell out this room again. So it’s a pride thing for…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260902160206.3.d55349b78fc9942c@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Meet the Populist Democrat Who Could Help Flip The Senate",
+   "date": "2026-09-02T09:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/meet-the-populist-democrat-who-could",
+   "bullets": [
+    "Former Senator Sherrod Brown is challenging GOP incumbent Jon Husted in Ohio’s high‑stakes Senate race, criticizing Husted’s support for data‑center expansion and pledging to champion working‑class voters.",
+    "In a Zeteo Substack Live, John Harwood and Brown discuss strategies for Democrats to win back working‑class trust and counter Trump’s “wrecking ball” policies.",
+    "The full 14‑minute conversation is available to paid subscribers, with a 1‑minute preview for free readers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260902140255.3.4d8d54d356f8bdf4@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "How Ed Markey Survived the Age War",
+   "date": "2026-09-02T07:02-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/how-ed-markey-survived-the-age-war",
+   "bullets": [
+    "The 2024 primary season has seen a generational revolt against the Democratic establishment, with seven long‑time incumbents losing seats to younger, often more progressive challengers across the country.",
+    "Massachusetts Senator Ed Markey, an 80‑year‑old progressive with 50 years in Congress, defeated 47‑year‑old centrist Congressman Seth Moulton by 30 points, reversing the usual age‑ideology trend seen elsewhere.",
+    "Markey’s victory suggests that in some districts, voters prioritize ideological alignment over age, indicating a potential shift in the Democratic Party’s future direction toward more progressive leadership."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260902133204.3.649047da8c2c8652@mg-d0.substack.com",
+   "newsletter": "Here Be Dragons from Barbara F. Walter",
+   "pub": "barbarafwalter",
+   "subject": "Why Strongmen Eventually Surround Themselves With Idiots",
+   "date": "2026-09-02T06:32-07:00",
+   "url": "https://barbarafwalter.substack.com/p/why-strongmen-surround-themselves",
+   "bullets": [
+    "Trump’s appointment of inexperienced loyalists—Kristi Noem to DHS, Tulsi Gabbard to the intelligence community, Kash Patel to the FBI, Robert F. Kennedy Jr. to HHS, Pete Hegseth to Defense—has caused chaos, a measles outbreak, and weakened key agencies.",
+    "Strongmen face a loyalty‑competence trade‑off: once in power, they replace competent officials with loyal, often mediocre, yes‑men, leading to bad policies, economic manipulation, corruption, institutional decay, and higher risk of costly foreign‑policy mistakes."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260902133000.3.d4d82a0f9817b66b@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Mike Johnson, Wet Noodle",
+   "date": "2026-09-02T06:30-07:00",
+   "url": null,
+   "bullets": [
+    "Donald Trump has spent two years openly favoring red states over blue ones while disbursing federal disaster relief funds, but it’s still surreal to see him talk openly about it. In a Truth Social post last night [ https://substack.com/redi…",
+    "I just informed Governor Greg Abbott, of the GREAT State of Texas (who has my Complete and Total Endorsement for Re-Election!), that I am sending 50.5 Million Dollars to assist recovery efforts from the severe storms, winds, tornadoes, and …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260902131151.3.10a57e85f31e6d2c@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Does the shingles vaccine prevent dementia?",
+   "date": "2026-09-02T06:11-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/does-the-shingles-vaccine-prevent",
+   "bullets": [
+    "A natural‑experiment study in Wales found shingles vaccination cut dementia risk by about 20% over three years, a result later replicated in Australia, Canada, and US data, though one English hospital‑record study found no link.",
+    "The protective effect appears biologically plausible because varicella‑zoster can reactivate silently and cause neuroinflammation, but findings differ by sex and across studies, highlighting the need for randomized trials.",
+    "Regardless of dementia benefits, the shingles vaccine is strongly recommended for adults over 50 to prevent the painful, debilitating disease itself."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260902111613.3.5ec0bc8a742165b9@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Meet the Gulf ‘Spy Sheikh’ Backing Trump’s Insanely Corrupt Crypto Bank",
+   "date": "2026-09-02T04:16-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/meet-the-gulf-spy-sheikh-backing",
+   "bullets": [
+    "On this day in 2025, the Trump administration carried out its first known strike on a boat in the Caribbean, claiming to be target drug runners. Eleven people were killed. A year on, the death toll from such extra-legal actions stands at 22…",
+    "Good morning! Andrew here as we recap another hellishly busy and mostly hard-to-love news day. But first: Are you up to date on what must be one the most brazen acts of corruption in U.S. history?"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260902100938.3.e568f51228a35b60@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Hits Keep Coming",
+   "date": "2026-09-02T03:09-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-hits-keep-coming",
+   "bullets": [
+    "Krugman notes U.S. GDP growth and unemployment remain solid despite Trump‑era shocks, but warns that persistent trade wars, Iran conflicts, and rising interest rates threaten future resilience.",
+    "He argues that investors’ belief the shocks are one‑time events has kept the economy afloat, yet the auto industry faces existential risk from Canada trade tensions and soaring refined‑fuel prices.",
+    "Krugman highlights the U.S. military’s munitions shortages and leadership losses under Hegseth, suggesting future conflicts could further strain economic stability and push rates higher."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260902001619.3.67005af4bb787cd4@mg-d1.substack.com",
    "newsletter": "Jonathan Cohn - The Bulwark",
    "pub": "thebulwark",
@@ -70,10 +178,11 @@
    "date": "2026-09-01T16:21-07:00",
    "url": null,
    "bullets": [
-    "Tim, Sarah, and JVL discuss the U.S. Supreme Court letting Trump’s ballroom go ahead (for now), why JVL thinks John Roberts is the Susan Collins of the Supreme Court, and whether Sarah is warming up to tearing down the ballroom in 2029. Plu…",
-    "If you want more of Tim, Sarah, and JVL doing what they do here—looking past the daily Trump spectacle to figure out what survives him, where Democrats have openings, and what the next political era might actually look like—become a Bulwark…"
+    "The Supreme Court temporarily allows Trump’s ballroom to proceed, sparking debate over its future demolition by 2029, while JVL likens Justice John Roberts to Senator Susan Collins for his cautious stance.",
+    "Ken Paxton’s campaign is described as one of America’s worst, with Paxton and other Republican incumbents feeling bleak about midterm prospects amid rising voter discontent.",
+    "Trump demands punishment for Kristen Welker after she noted his endorsed candidates are losing more often, highlighting intra‑party tensions and the growing scrutiny of Republican messaging."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260901220414.3.55473ed9867615b8@mg2.substack.com",
@@ -97,10 +206,11 @@
    "date": "2026-09-01T12:10-07:00",
    "url": null,
    "bullets": [
-    "I’ve come up with an easy way to determine how concerned [ https://substack.com/redirect/438e4bd3-7201-42a3-b304-9cf3ab5bd4fa?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] House Republicans are about Trump dragging the…",
-    "Chances are, they’re not going to be there. Trump’s cratering [ https://substack.com/redirect/ed42e420-fadb-4663-9de3-2f73a44d0833?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] approval ratings appear to have spooked v…"
+    "House Republicans are largely skipping the 2026 RNC in Dallas, citing debates, district duties, and personal reasons, as Trump’s low approval scares vulnerable incumbents in tight races.",
+    "The House passed a CR to fund the government through Dec. 11 after infighting over a hemp‑THC amendment and abortion‑funding concerns, delaying the hemp ban to avoid a shutdown during the election year.",
+    "Sen. Ted Budd clarified that a brief pro‑forma Senate session is routine to keep the chamber in session, rejecting claims it was a tactic to block Trump’s nominees or commit treason."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260901163051.3.2327d555dd1580e7@mg-d0.substack.com",
@@ -178,10 +288,11 @@
    "date": "2026-09-01T04:14-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/netanyahu-brags-how-us-cable-news",
    "bullets": [
-    "On this day last year, the International Association of Genocide Scholars declared [ https://substack.com/redirect/bd8cd65e-9fd5-4747-a41a-4f85edd6d293?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] that Israel was comm…",
-    "Good morning and happy September, dear friends. May the cosmic energy from August’s solar and lunar eclipses fuel our curiosity and empathy, help us heal and let go of our old wounds, and welcome us to a new day. Prem here, with all the new…"
+    "Netanyahu boasted on Israeli TV that his 1,000 hours on US cable news helped persuade America to join a war against Iran, claiming he finally “brought the United States to its senses.”",
+    "He reminded listeners that the US has poured over $20 billion into Israel in the past three years despite Israel’s ongoing genocide in Gaza and attacks on Palestinians and Americans, while American public support for Israel has sharply declined across parties.",
+    "The newsletter notes rising tensions with Iran, citing recent US strikes near the Strait of Hormuz, Iranian retaliatory attacks on US bases in Jordan, and Trump’s threats to “smack” Iran further."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260901110223.3.d8a8ea467df67a92@mg2.substack.com",
@@ -4534,105 +4645,10 @@
     "The free preview of the latest Triad Mailbag episode features JVL answering listener questions on DSA candidates, protecting the 2030 census, Ross Douthat’s ‘60 Minutes’ appearance, Republican authoritarianism, Tolkien’s ‘long defeat’, Ezra Klein, site redesign, and personal interests like World Cup jerseys and comics."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260802160312.3.dbe9b83fcf9f7b76@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
-   "subject": "🚨 LIVE Q&A: 'Settler Terrorism’ in the West Bank - MONDAY 1PM ET",
-   "date": "2026-08-02T09:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/live-q-and-a-settler-terrorism-in",
-   "bullets": [
-    "UN reports West Bank settler violence at an all‑time high, with raids, mosque burnings and attacks on dozens of Palestinians while the Israeli military protects settlers and demolishes homes",
-    "Even Israel’s staunchest defenders label these actions as ‘terrorism,’ yet mainstream media coverage remains minimal",
-    "A live Q&A on Monday 1 PM ET will feature lawyer Diana Buttu, journalist Fadi Quran and reporter Jasper Nathaniel to discuss the current conditions and answer audience questions"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260802150639.3.af9fd55147cb91aa.b2l1ypb3@mg1.substack.com",
-   "newsletter": "Substack",
-   "pub": "no-reply_at_substack_com_dfzcnd2br853yb_p6m22105",
-   "subject": "Live video with The Bulwark now: Trump’s Polls Are Collapsing. Is a Blue Tsunami Coming? (w/ Ron Brownstein) | Bulwark on Sunday",
-   "date": "2026-08-02T08:06-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark’s live video with Ron Brownstein analyzes collapsing Trump poll numbers and debates whether a massive Democratic surge, a “Blue Tsunami,” is imminent."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260802120741.3.2cd38c90a0fafbdf@mg2.substack.com",
-   "newsletter": "Pete Buttigieg",
-   "pub": "petebuttigieg",
-   "subject": "My Visit to Vernon AME, the Church That Survived the Tulsa Race Massacre",
-   "date": "2026-08-02T05:07-07:00",
-   "url": "https://petebuttigieg.substack.com/p/my-visit-to-vernon-ame-the-church",
-   "bullets": [
-    "In 1921 Tulsa’s Black Wall Street was razed, but Vernon AME Church’s brick basement—called the Refuge Room—saved 300 people, making it the only Black‑owned property to survive.",
-    "Pete Buttigieg visited Vernon AME with Pastor Keith Mayes Sr., Associate Pastor Francetta Mays, and survivor descendant Kristi Williams, emphasizing the congregation’s focus on thriving beyond the massacre’s legacy.",
-    "The church now promotes itself as an inclusive, hopeful community, inviting all regardless of race, politics, or sexual orientation, and shares a video of the visit for readers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260802120219.3.87a792f532ad161c@mg-d0.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The ‘Medicare for All’ Test for Michigan Democrats",
-   "date": "2026-08-02T05:02-07:00",
-   "url": null,
-   "bullets": [
-    "Abdul El‑Sayed, Detroit’s former public‑health director, is running for Michigan Senate on a single‑payer Medicare‑for‑All platform, contrasting with House Democrat Haley Stevens’ incremental, hybrid‑insurance approach.",
-    "The piece notes that while Medicare‑for‑All could expand coverage, it would disrupt a sector that’s one‑sixth of the U.S. economy and faces entrenched opposition from moneyed interests and a Senate biased toward the status quo.",
-    "Historically, Democrats like Ted Kennedy achieved universal‑coverage goals through compromises such as the ACA, suggesting El‑Sayed’s all‑or‑nothing stance may limit practical reform prospects."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260802120219.3.87a792f532ad161c@mg2.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The ‘Medicare for All’ Test for Michigan Democrats",
-   "date": "2026-08-02T05:02-07:00",
-   "url": null,
-   "bullets": [
-    "Abdul El‑Sayed, Detroit’s former public‑health director, is running for Michigan Senate on a single‑payer Medicare‑for‑All platform, contrasting with Rep. Haley Stevens’ incremental, hybrid‑insurance approach.",
-    "The piece notes that while Medicare‑for‑All could expand coverage, it would disrupt a sector that accounts for one‑sixth of the U.S. economy and faces entrenched political and industry opposition.",
-    "El‑Sayed dismisses narrower reforms like free primary care, arguing only a full single‑payer system can achieve universal coverage despite historical precedents of compromise within the Democratic Party."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260802103041.3.f0350c08ebc200c0@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Geoeconomics, Part I: Ranking Economic Superpowers",
-   "date": "2026-08-02T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/geoeconomics-part-i-ranking-economic",
-   "bullets": [
-    "Krugman argues that in today’s confrontational era, governments weaponize economic tools—tariffs, rare‑earth dominance, and control of shipping lanes—to pursue geopolitical aims, reviving interest in geoeconomics.",
-    "He notes that ranking the world’s economic superpowers (U.S., China, EU) depends on the metric used: some measures keep the U.S. on top, others put China ahead, while the EU’s rank varies, reflecting differing views of how economic size translates into power."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260802051136.3.b0be0d61fd7bc915@mg-d1.substack.com",
-   "newsletter": "Heather Cox Richardson from Letters from an American",
-   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
-   "subject": "August 1, 2026",
-   "date": "2026-08-01T22:11-07:00",
-   "url": "https://heathercoxrichardson.substack.com/p/august-1-2026",
-   "bullets": [
-    "DOJ drops charges against David Hearn",
-    "Reflecting Pool damage was due to flawed installation",
-    "Trump still claims vandals caused the damage"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 81,
-  "total": 335
+  "shown": 79,
+  "total": 336
  }
 }
