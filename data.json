@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T10:57-07:00",
+ "updated": "2026-09-02T18:13-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -50,6 +50,58 @@
  },
  "items": [
   {
+   "id": "20260903010034.3.0526e8c0a0d47801@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Why Won’t Mainstream Media Talk to Hasan Piker?",
+   "date": "2026-09-02T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-wont-mainstream-media-talk-to",
+   "bullets": [
+    "Good evening, and welcome to this week’s ‘Ragebait.’ Justin Baragona here. In tonight’s edition, I spoke to Hasan Piker about the networks’ refusal to interview him despite obsessively talking about him nonstop, and he told me whose shows h…",
+    "Why Won’t the Networks Just Interview Piker? If you’ve just casually tuned into cable news these past few weeks, chances are you were on the receiving end of a hyperbolic shoutfest aimed at convincing you that Hasan Piker [ https://substack…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260903001455.3.b0a933d65dd38450@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Hands Dems Their Best Gift Yet",
+   "date": "2026-09-02T17:14-07:00",
+   "url": null,
+   "bullets": [
+    "IF YOU WERE THE PRESIDENT and were purposefully trying to tank your party’s chances of retaining control of Congress in an election year, then you might tweet something like: “The only reason that communities throughout the U.S.A. should no…",
+    "For dramatic effect, maybe you even come up with a new, let-them-eat-cake-style slogan along the lines of: “let Data Reign.” As it happens, that’s exactly what Donald Trump posted [ https://substack.com/redirect/abdf2a83-e0c4-4789-a11b-4c8c…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260902200116.3.7c305c59b92609f2@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Did Germany’s Green Party Just Try and Get a Screening of Zeteo’s Gaza Doctors Film Canceled?",
+   "date": "2026-09-02T13:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/did-germany-green-party-israel-palestine-gaza-film",
+   "bullets": [
+    "The Berlin Greens’ mayoral candidate spokesperson said they would try to influence the cancellation of a Zeteo‑distributed film, ‘Gaza: Doctors Under Attack,’ after the Green‑affiliated Heinrich Böll Institute requested its removal.",
+    "Pro‑Israel journalist Wolfgang Tietze wrote to the Greens to urge the cancellation of the film’s screening, which had been acquired by Zeteo following the BBC’s 2023 cancellation of its publication."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260902195629.3.72cc6362283dcff4@mg2.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "I’m Launching Something New.",
+   "date": "2026-09-02T12:56-07:00",
+   "url": null,
+   "bullets": [
+    "Sarah Longwell, creator of The Focus Group Podcast, will launch a new Focus Group newsletter for Bulwark+ members, offering deeper analysis of swing voters and key 2026 races based on 400+ focus groups with thousands of voters.",
+    "The newsletter promises original, paid‑research insights that explain why voters are shifting—especially former Trump supporters—rather than relying on generic polling or pundit speculation."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260902163931.3.b06310ff0637d0d2@mg2.substack.com",
    "newsletter": "JVL - The Bulwark",
    "pub": "thebulwark",
@@ -57,10 +109,11 @@
    "date": "2026-09-02T09:39-07:00",
    "url": null,
    "bullets": [
-    "Hey fam: Sarah and I are doing a show in the Big Room at the 92nd Street Y next Tuesday. There are like ninety tickets left and I desperately want to sell out the space. I’m trying to think of something fun I can do for you if we reach that…",
-    "If you’re in the NYC area on September 8, grab a ticket and come hang out! This is the only time anyone is ever going to put me on stage at this amazing venue. I’ll never get the chance to sell out this room again. So it’s a pride thing for…"
+    "The Trump administration is reportedly negotiating a 35% stake in a Venezuelan oil company, granting the U.S. Department of Defense a 100‑year lease and cost‑price oil access, a deal brokered by Alejandro Betancourt López, a chavista oligarch with a history of money‑laundering allegations.",
+    "The deal is illegal under U.S. law, which prohibits the Defense Department from owning foreign equity, and under Venezuelan law, which bars foreign governments from holding such stakes, making the arrangement effectively impossible.",
+    "The newsletter warns that the Trump‑Betancourt connection is a scandalous example of corruption, urging readers to read the full story for details on Betancourt’s background and the alleged illicit transaction."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260902160206.3.d55349b78fc9942c@mg2.substack.com",
@@ -111,10 +164,11 @@
    "date": "2026-09-02T06:30-07:00",
    "url": null,
    "bullets": [
-    "Donald Trump has spent two years openly favoring red states over blue ones while disbursing federal disaster relief funds, but it’s still surreal to see him talk openly about it. In a Truth Social post last night [ https://substack.com/redi…",
-    "I just informed Governor Greg Abbott, of the GREAT State of Texas (who has my Complete and Total Endorsement for Re-Election!), that I am sending 50.5 Million Dollars to assist recovery efforts from the severe storms, winds, tornadoes, and …"
+    "Trump publicly announced a $50.5 million disaster aid package for Texas, praising Governor Abbott and endorsing the state’s Republican ticket, highlighting his overt favoritism toward red states.",
+    "Bill Kristol argues the 119th Congress is a “rubber‑stamp” body that blindly supports Trump’s policies, contrasting it with the 1948 “Do‑Nothing” 80th Congress and urging voters to choose Democrats to check those policies.",
+    "House Speaker Mike Johnson deflected questions on the Iran war and Pentagon issues, claiming Congress has no role in war decisions, underscoring the GOP’s refusal to exercise its constitutional war‑making responsibilities."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260902131151.3.10a57e85f31e6d2c@mg-d0.substack.com",
@@ -138,10 +192,11 @@
    "date": "2026-09-02T04:16-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/meet-the-gulf-spy-sheikh-backing",
    "bullets": [
-    "On this day in 2025, the Trump administration carried out its first known strike on a boat in the Caribbean, claiming to be target drug runners. Eleven people were killed. A year on, the death toll from such extra-legal actions stands at 22…",
-    "Good morning! Andrew here as we recap another hellishly busy and mostly hard-to-love news day. But first: Are you up to date on what must be one the most brazen acts of corruption in U.S. history?"
+    "Trump’s family crypto firm World Liberty Financial sold a $500 million stake to UAE national security adviser Sheikh Tahnoon bin Zayed, giving the Emirati a 49% share in the venture and in a pending Trump‑backed bank.",
+    "The Trump administration earned at least $1.4 billion from the president’s $TRUMP memecoin and related crypto activities, while simultaneously approving 500,000 AI chips for the UAE and facilitating the Emirati investment.",
+    "A UMass Amherst poll found 77% of Americans oppose a sitting president profiting from crypto ventures tied to policy influence, and two‑thirds distrust Trump to avoid such conflicts."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260902100938.3.e568f51228a35b60@mg2.substack.com",
@@ -262,10 +317,11 @@
    "date": "2026-09-01T06:55-07:00",
    "url": null,
    "bullets": [
-    "It was a close call, but it sure looks like Donald Trump is going to get his East Wing ballroom, at least for now. Yesterday, the Supreme Court ruled 5–4 that construction could continue. The Court declined to rule on the actual legality of…",
-    "Join Bill Kristol and Andrew Egger for Morning Shots Live today at 10:00 a.m. EDT on Substack [ https://open.substack.com/live-stream/344331?utm_source=post-publish ] and YouTube [ https://substack.com/redirect/fbc94108-f959-4bff-bacb-ffb42…"
+    "Republican candidate Te Mayonna Brown, who won Florida’s 24th District GOP nomination unopposed, appears to be the same person indicted in Illinois for 13 felonies of COVID‑relief fraud, with a trial set weeks after the election.",
+    "Court documents link her to the same campaign treasurer, company registrations, and social‑media profiles used in the Illinois run, despite her denial and claim the charges were dropped.",
+    "She has raised only about $7,000 and run a minimal campaign in a heavily Democratic district, making her a long‑shot in the November general election."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260901123235.3.a740babf72b0e239@mg-d1.substack.com",
@@ -4581,74 +4637,10 @@
     "Jay Kuo tells the story of Ralph Carr defending Japanese Americans"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260803000124.3.939dbba647e73ab4@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Latinos Are the Only True Swing Vote in the U.S. – But Can Dems Win Them Over in 2026?",
-   "date": "2026-08-02T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/latinos-are-the-only-true-swing-vote",
-   "bullets": [
-    "Latino voters who backed Trump in 2024 are now disillusioned, but economic concerns—especially gas prices—are driving their shift more than immigration issues, according to Republican consultant Mike Madrid.",
-    "Madrid argues Latinos are the nation’s only true swing vote, being the least racially polarized and most likely to identify as independent, and they will vote with their feet if parties ignore their economic priorities."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260803000124.3.939dbba647e73ab4@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Latinos Are the Only True Swing Vote in the U.S. – But Can Dems Win Them Over in 2026?",
-   "date": "2026-08-02T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/latinos-are-the-only-true-swing-vote",
-   "bullets": [
-    "Latino voters who backed Trump in 2024 are now disillusioned, but their shift away from him is driven more by economic concerns like gas prices than immigration enforcement",
-    "Consultant Mike Madrid says Latinos are the nation’s largest, fastest‑growing swing bloc, least racially polarized and most likely to identify as independent, voting with their feet for any party",
-    "The Zeteo interview explores how both Democrats and Republicans are misreading Latino priorities, risking loss of this pivotal vote in the 2026 elections"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260803000018.3.6de750c4052ee86c@mg2.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Data Centers Are Suddenly Everywhere in Democratic Campaigns",
-   "date": "2026-08-02T17:00-07:00",
-   "url": null,
-   "bullets": [
-    "Democratic candidates from Ohio to Florida are running ads and proposals against data centers, blaming them for higher utility bills and demanding moratoriums or tighter regulations.",
-    "Pollster Zac McCrary says data centers have become a convenient villain for voters angry about electricity costs, making them a new focal point in many competitive races."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260802200752.3.f974a5baf0bc6702@mg2.substack.com",
-   "newsletter": "Heather Cox Richardson from Letters from an American",
-   "pub": "heathercoxrichardson_at_substack_com_d7zcne2ar35ay3_p2m22105",
-   "subject": "Always a Lie",
-   "date": "2026-08-02T13:07-07:00",
-   "url": "https://heathercoxrichardson.substack.com/p/always-a-lie",
-   "bullets": [
-    "Always a Lie"
-   ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260802191713.3.14b2c52504acd121@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why Losing Battles are Worth Fighting",
-   "date": "2026-08-02T12:17-07:00",
-   "url": null,
-   "bullets": [
-    "The free preview of the latest Triad Mailbag episode features JVL answering listener questions on DSA candidates, protecting the 2030 census, Ross Douthat’s ‘60 Minutes’ appearance, Republican authoritarianism, Tolkien’s ‘long defeat’, Ezra Klein, site redesign, and personal interests like World Cup jerseys and comics."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 79,
-  "total": 336
+  "shown": 80,
+  "total": 335
  }
 }
