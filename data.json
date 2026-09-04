@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T10:55-07:00",
+ "updated": "2026-09-03T18:06-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -50,6 +50,47 @@
  },
  "items": [
   {
+   "id": "20260904002410.3.1fa5d9d0eda38870@mg2.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Europe’s Gold Fled the Nazis. Now It’s Fleeing Trump.",
+   "date": "2026-09-03T17:24-07:00",
+   "url": null,
+   "bullets": [
+    "Dutch central bank moved $12 billion of gold from New York to London vaults, citing concerns over Trump’s policies; France followed by selling $15 billion of New York bullion and storing it in Paris.",
+    "Germany and Italy, the U.S.’s second and third largest gold holders, are debating pulling their reserves from U.S. vaults, reflecting a growing distrust of American leadership under Trump."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260903213045.3.791dd8fb05180390@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Inside Trump’s Nightmare for Haitians in Springfield: ‘We’re Following Our Orders’",
+   "date": "2026-09-03T14:30-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-springfield-haitians-following-orders",
+   "bullets": [
+    "Trump’s administration dismantled Haitian Temporary Protected Status and used ICE to launch a sweeping crackdown in Springfield, Ohio, targeting the local Haitian community after years of racist rhetoric",
+    "The Supreme Court’s right‑wing supermajority upheld the crackdown, which immigration lawyer Katie Kersh says is a test case for broader, nationwide anti‑immigrant enforcement",
+    "The campaign has created pervasive fear, with residents fearing to leave their homes as the government enforces a militarized ‘law and order’ agenda against a vulnerable minority"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260903190612.3.72194f0828650bf3@mg2.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Pennsylvania Republicans: We’re Toast",
+   "date": "2026-09-03T12:06-07:00",
+   "url": null,
+   "bullets": [
+    "GOP nominee for Pennsylvania governor Stacy Garrity trails incumbent Josh Shapiro by 16‑31 points in recent polls and faces a ten‑to‑one fundraising gap, with Shapiro ahead by $16 million.",
+    "Republican leaders including Rep. Mike Kelly and Rep. Dan Meuser describe Garrity’s race as an uphill battle, noting Shapiro’s strong war chest, incumbency advantage, and even some cautious GOP support for the Democrat.",
+    "In Florida’s 7th District, GOP candidate Ryan Elijah faces an ethics complaint for failing to disclose the sources of up to $5.1 million in personal assets, a violation of House disclosure rules."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260903170114.3.a06c9d41bd429ded@mg-d0.substack.com",
    "newsletter": "Doomberg",
    "pub": "doomberg",
@@ -57,10 +98,10 @@
    "date": "2026-09-03T10:01-07:00",
    "url": null,
    "bullets": [
-    "Within the world of oil and gas, the “supermajors” are a special breed. Standing proudly among them is Chevron. As a globally diversified, intricately integrated juggernaut, the company has positioned itself in some of the most highly produ…",
-    "The Doomberg team recently took a detailed look at Chevron, publishing an in-depth 80-minute presentation. In it, we lay the groundwork by clarifying what makes the supermajors a powerful cohort and Chevron unique among them, reviewing its …"
+    "Doomberg released an 80‑minute deep‑dive on Chevron, covering supermajor dynamics, Chevron’s global asset mix, key growth opportunities, and investment considerations.",
+    "For the next two weeks, new subscribers—both $400/year and $1200/year tiers—receive free full access to the Chevron presentation, plus the archive of 500+ articles, before the offer ends Sept 18."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260903162658.3.563339a4761597b7@mg2.substack.com",
@@ -97,10 +138,11 @@
    "date": "2026-09-03T08:03-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/heres-how-you-tax-the-billionaires",
    "bullets": [
-    "Will billionaires like Jeff Bezos and Elon Musk ever pay [ https://substack.com/redirect/0c26c066-4ce2-45fb-815e-1b43414b6f9a?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] their fair share of taxes? Or are they just de…",
-    "In this ‘Mehdi Unfiltered’ interview, world-renowned expert on tax avoidance and wealth inequality, economist Gabriel Zucman, explains to Mehdi why a wealth tax may be the perfect response to billionaires’ shady tax tricks."
+    "Gabriel Zucman argues that a wealth tax targeting assets, not income, is needed because billionaires like Musk and Bezos often report zero income and avoid taxes through holding companies.",
+    "He defends wealth taxes against claims they deter investment, citing California’s Proposition 40 (a one‑time 5% tax on state billionaires) and the UK’s Labour debate as timely examples.",
+    "Zucman also explains why past wealth taxes, such as France’s, failed and how a well‑designed tax could avoid those pitfalls while raising revenue from the ultra‑rich."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260903132735.3.1f7668d699eb9360@mg2.substack.com",
@@ -110,10 +152,11 @@
    "date": "2026-09-03T06:27-07:00",
    "url": null,
    "bullets": [
-    "Two months from the midterms, how bad are the coalition vibes for Donald Trump? Even some dyed-in-the-wool MAGA pollsters are starting to sound the red alert. “Republicans are going to run out of a coalition soon if they don’t build on what…",
-    "Trump’s Midterm Strategy: Don’t Work, Cheat Say you’re a Republican lawmaker going into a tough midterm fight. The good news is your party controls the presidency. The bad news is the president is insanely unpopular and getting more so ever…"
+    "Rich Baris warns that without building on Trump’s 2024 gains, the GOP coalition will collapse, citing Trump’s foreign‑policy missteps like the Iran war as a key voter grievance.",
+    "Trump’s midterm strategy now relies on a national ad blitz—e.g., the “Toughest Guy” spot featuring Dana White—and on funneling his $850 million war chest into select races, while refusing to fund Senate nominee Ken Paxton despite GOP leaders’ pleas.",
+    "Senator Blumenthal has asked the USPS to explain a new, untested ballot‑verification system that could reject entire batches of mail‑in votes, a move Trump supports to undermine mail voting ahead of the midterms."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260903113645.3.32bc1fe82dddeba0@mg2.substack.com",
@@ -4499,106 +4542,10 @@
     "The ongoing stalemate threatens to worsen the EU’s winter gas crisis and may accelerate the EU’s dissolution, as national capitals prioritize domestic interests over collective action."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260804010019.3.658bf6b9d5528fa7@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "‘Doomsday Scenario’: How Trump and Republicans Could Steal Power – Even If They Lose",
-   "date": "2026-08-03T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/doomsday-scenario-trump-republicans-steal-election",
-   "bullets": [
-    "Republicans may replace the House clerk and coordinate challenges to election results, creating a “doomsday scenario” where GOP lawmakers refuse to seat Democratic victors, risking a constitutional crisis.",
-    "Democratic activists and lawyers warn that Trump’s campaign to rig the 2026 midterms—including a potential “Jan. 3 ploy”—aims to preserve GOP control of the House and shield Trump from accountability.",
-    "The newsletter argues the GOP’s “scorched‑earth” strategy represents an unprecedented, large‑scale effort to subvert American elections and could trigger a rupture of democratic norms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260804000940.3.c0a3a566d72b539f@mg-d1.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "What the Hell Happened to Sean Duffy’s Road-Trip TV Show?",
-   "date": "2026-08-03T17:09-07:00",
-   "url": null,
-   "bullets": [
-    "Secretary of Transportation Sean Duffy and wife Rachel Campos‑Duffy announced a multi‑million‑dollar “Great American Road Trip” TV series in May, funded by donations from corporations Duffy regulates, to promote family bonding and counter a “Pornhub world.”",
-    "Despite a Fox News debut and a promised June premiere, no episodes have aired three months later, and the Department of Transportation now labels the project a failed “key initiative.”"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260803204739.3.de2d96b8b054ab4c@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "‘What Happened in Gaza Is Coming to the West Bank’: Experts Examine ‘Settler Terror’",
-   "date": "2026-08-03T13:47-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/what-happened-in-gaza-is-coming-to",
-   "bullets": [
-    "Fadi Quran says the West Bank is the worst he's seen in his life",
-    "Israel is a settler state, says Diana Buttu, a Haifa-based lawyer",
-    "US funds and supports the settler movement, according to Fadi Quran"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260803204739.3.de2d96b8b054ab4c@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo_at_substack_com_9wbyqdt4h76183_93af83a1",
-   "subject": "‘What Happened in Gaza Is Coming to the West Bank’: Experts Examine ‘Settler Terror’",
-   "date": "2026-08-03T13:47-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/what-happened-in-gaza-is-coming-to",
-   "bullets": [
-    "Fadi Quran says the West Bank is the worst he's seen in his life",
-    "Diana Buttu claims Israel has always been a settler state",
-    "US funds and supports the settler movement"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260803192008.3.b3b73945fb862ff0.snub30vl@mg1.substack.com",
-   "newsletter": "Home of the Brave",
-   "pub": "ofthebrave_at_substack_com_d6z8n12er353yb_p8m22105",
-   "subject": "🗓️ Home of the Brave is going live on Aug 4 at 12:00 PM EDT: “Jeanine Pirro Has Upset the Boss, ft. Harry Sisson”",
-   "date": "2026-08-03T12:20-07:00",
-   "url": null,
-   "bullets": [
-    "Home of the Brave goes live on Aug 4 at 12:00 PM EDT",
-    "Episode features Harry Sisson and discusses Jeanine Pirro",
-    "Event starts at 12:00 PM EDT on August 4"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260803183633.3.2d7c0e78708b7f1c@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "‘It’s My Bleeding Heart’: Michiganders Agonize Over Stevens vs. El-Sayed",
-   "date": "2026-08-03T11:36-07:00",
-   "url": null,
-   "bullets": [
-    "Focus groups of Michigan voters who backed Kamala Harris show a split between emotional support for Haley Stevens and strategic preference for Abdul El‑Sayed, who leads polls by double digits.",
-    "Participants describe a tension between idealism and pragmatism, fearing that voting for Stevens may split the Democratic vote while El‑Sayed appears more electable.",
-    "The newsletter notes that polling cannot capture these nuanced voter calculations, prompting the author to rely on qualitative focus‑group insights."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260803183633.3.2d7c0e78708b7f1c@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark_at_substack_com_dfz5na2cr457y1_p2m22105",
-   "subject": "‘It’s My Bleeding Heart’: Michiganders Agonize Over Stevens vs. El-Sayed",
-   "date": "2026-08-03T11:36-07:00",
-   "url": null,
-   "bullets": [
-    "In Michigan’s Democratic Senate primary, polls show Abdul El‑Sayed leading Haley Stevens by double digits, prompting voters to weigh idealism against strategic pragmatism.",
-    "Focus groups held in April, June, and July with 2024 Kamala Harris voters reveal a growing tension between heart‑felt support for Stevens and the perceived electability of El‑Sayed."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 77,
-  "total": 332
+  "shown": 76,
+  "total": 328
  }
 }
