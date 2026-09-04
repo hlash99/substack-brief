@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T18:06-07:00",
+ "updated": "2026-09-04T10:41-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -49,6 +49,113 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260904163043.3.1d82546d502cd08b@mg-d1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The MAGA World Incentives That Have Saved Max Miller",
+   "date": "2026-09-04T09:30-07:00",
+   "url": null,
+   "bullets": [
+    "IT IS NO SECRET that President Trump has built his “alpha male” persona around a warped version of masculinity in which vulnerability is weakness, cruelty is strength, empathy is feminine, and women are easy targets. It’s also no secret tha…",
+    "Over the past decade, Republican politics has become obsessed with projecting toughness and mocking liberals as weak, feminine “betas.” Beneath it all is a deep disdain for women. In Trump’s case specifically, it wasn’t even all that hidden…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260904150253.3.e3f999ad6b8155f7@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "ICYMI: Mehdi’s No-Holds-Barred Sit-Down With Hunter Biden",
+   "date": "2026-09-04T08:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/icymi-mehdis-no-holds-barred-sit",
+   "bullets": [
+    "Hunter Biden claims his father enabled Israel’s Gaza campaign and praised Netanyahu, while revealing his own addiction struggles and alleged role in the “Biden crime family” narrative."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260904144538.3.fdc6940a90da655c@mg-d1.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "Trump Took His Status. ICE Took His Dignity. He Took His Life.",
+   "date": "2026-09-04T07:45-07:00",
+   "url": null,
+   "bullets": [
+    "In July 2024, a Supreme Court ruling allowed the Trump administration to end Temporary Protected Status for 350,000 Haitians, leading to Pierre Bel’s ankle‑monitoring and eventual death after a tractor‑trail collision.",
+    "Pierre, a Haitian TPS recipient, was denied a soccer scholarship at Wittenberg, forced to enroll at Wright State, and faced bullying and humiliation while wearing an ankle monitor, which he claimed was withheld from his JROTC uniform.",
+    "Haitian community leaders and faith figures blamed the Trump‑era deportation policy for Pierre’s death, calling for an end to ankle‑monitor shackling and highlighting the historical parallels to Haiti’s 1915 U.S. occupation and ongoing human‑rights abuses."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260904132330.3.4a1854617332c3d3@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Iran War? What Iran War?",
+   "date": "2026-09-04T06:23-07:00",
+   "url": null,
+   "bullets": [
+    "This summer’s jobs reports have mostly been clunkers, but this morning we got a more encouraging one. The U.S. economy added 162,000 jobs in August, while unemployment held steady at 4.1 percent and the labor force participation rate—which …",
+    "Join Catherine Rampell and JVL for Receipts Live today at 12:30 p.m. EDT on Substack [ https://open.substack.com/live-stream/348961 ] and YouTube [ https://substack.com/redirect/2c3edc94-dfb4-439c-8e08-a57c26e57644?j=eyJ1IjoiMnVxMXlxIn0.KgF…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260904110035.3.589a1b34748828ac@mg2.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "John Roberts Sounded the Alarm on Trump’s Illegal Ballroom (w/ George Conway)",
+   "date": "2026-09-04T04:00-07:00",
+   "url": null,
+   "bullets": [
+    "Robinson and Conway warn that Trump’s push to restrict mail‑in voting before the midterms could backfire if the chaotic USPS reforms are ultimately struck down by the Supreme Court.",
+    "They note SCOTUS has allowed Trump’s controversial ballroom construction to proceed, but Democrats may move to halt it in January, while Epstein‑related questions remain under‑reported."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260904105931.3.5e5f6fb96b0b46ab@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Will Republicans Be Asked to Disavow Elon Musk Over His Latest Creepy Antisemitic Post?",
+   "date": "2026-09-04T03:59-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/will-republicans-be-asked-to-disavow-musk-antisemitism",
+   "bullets": [
+    "Elon Musk sparked outrage by posting a poll questioning Jewish racial identity and suggesting DNA proof is needed, echoing historic antisemitic tropes and prompting criticism from the ADL and commentators.",
+    "Musk, the GOP’s top donor, has pledged at least $100 million for mid‑term races and recently disclosed $800,000 in spending, raising questions whether Republican candidates will be pressured to denounce his antisemitic remarks.",
+    "The newsletter contrasts this with Democrats’ demand that left‑leaning streamer Hasan Piker disavow alleged antisemitism, highlighting a double standard in political accountability."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260904100337.3.9135e927f4ab56bc@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Ingots We No Longer Trust",
+   "date": "2026-09-04T03:03-07:00",
+   "url": "https://paulkrugman.substack.com/p/ingots-we-no-longer-trust",
+   "bullets": [
+    "Krugman likens central‑bank gold reserves to Yap’s massive stone money, noting that most gold sits in the New York Fed and changes hands without moving the metal.",
+    "He warns that the Trump administration’s disregard for rule of law makes a seizure of that gold plausible, prompting the Dutch (shifting $12 bn) and French central banks to relocate gold to London and Paris.",
+    "While the moves have negligible financial impact, they signal a loss of trust in the U.S. to honor international agreements, a reputation that will take years to rebuild."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260904010037.3.7402d1cd79e8ea62@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Ted Cruz’s New Biography of Clarence Thomas Is About Becoming a Supreme Court Justice – Himself",
+   "date": "2026-09-03T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/ted-cruzs-new-biography-of-clarence",
+   "bullets": [
+    "Ted Cruz’s new book, *Going Further: The Incomparable Clarence Thomas*, is a hagiographic biography that highlights Cruz’s past Supreme Court cases and his own legal views rather than outlining his potential judicial philosophy.",
+    "Cruz tells NPR’s Steve Inskeep he would never become a judge because judges stay out of politics, yet the author notes that Supreme Court justices, including Thomas, are deeply political actors.",
+    "The piece criticizes Cruz’s claim as disingenuous, suggesting the biography serves more as a personal promotion ahead of the presidential election than a serious legal study."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260904002410.3.1fa5d9d0eda38870@mg2.substack.com",
    "newsletter": "Catherine Rampell - The Bulwark",
@@ -4430,122 +4537,10 @@
     "He joins at least 300 Palestinian minors and other Americans, such as 20‑year‑old Sama Safi, currently held in Israeli prisons amid broader accusations of rights abuses"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260804164452.3.47bd9ce4bd5608b2@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "How to Solve the Democratic-Socialist Problem",
-   "date": "2026-08-04T09:44-07:00",
-   "url": null,
-   "bullets": [
-    "The author warns that while Wisconsin Democrats can experiment with candidates like Francesca Hong, they risk losing to a Republican election denier who could influence certification and voting in 2028 if Hong is defeated.",
-    "He argues the Democratic Party should test diverse approaches—including centrist, Christian libertarian, populist, technocratic, and even full‑DSA candidates—but stresses these are not cost‑free experiments.",
-    "A solution is proposed to integrate fresh ideas into the Democratic Party while blocking those intent on its destruction, addressing the ongoing DSA‑Democrat split."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260804160034.3.629cad74afb9eb78@mg2.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“The old-media era of journalists really wanted to be powerful. And I think now it’s about being interesting.”",
-   "date": "2026-08-04T09:00-07:00",
-   "url": "https://post.substack.com/p/the-old-media-era-of-journalists",
-   "bullets": [
-    "Richard Rushfield, veteran entertainment journalist and founder of The Ankler, reflects on Hollywood’s shift from old‑media power plays to today’s focus on being interesting amid streaming, studio consolidation, and AI threats.",
-    "In his office and during a live Rushfield Lunch episode, he discusses his career, the SAG‑AFTRA strikes, and offers a realistic tour of historic L.A. theaters, assessing the current state of show business.",
-    "The newsletter marks the final episode of the Someone on Film, Los Angeles series and invites readers to suggest future locations."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260804135047.3.f5f040f874d8a8ee@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Ground Control to Major Don",
-   "date": "2026-08-04T06:50-07:00",
-   "url": null,
-   "bullets": [
-    "US used virtually all long-range precision missiles in Iran conflict",
-    "Trump claims Iran deal, but Iran says no talks are ongoing",
-    "Todd Blanche to be confirmed as attorney general despite Epstein coverup ties"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260804110443.3.e6af01d08bc29a46@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Michigan Braces for the Biggest Primary of the Year",
-   "date": "2026-08-04T04:04-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/michigan-braces-for-the-biggest-primary",
-   "bullets": [
-    "Abdul El-Sayed ends campaign in Detroit",
-    "GOP Senate holdouts support Todd Blanche",
-    "El-Sayed opposes Trump's racist policies"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260804103533.3.18b6ec17808de268@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Is Michigan a Reckoning for the Democratic Establishment?",
-   "date": "2026-08-04T03:35-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/is-michigan-a-reckoning-for-the-democratic",
-   "bullets": [
-    "Abdul El-Sayed leads Haley Stevens by 10 points in Michigan",
-    "The Democratic establishment spent over $60 million on Stevens' campaign",
-    "An El-Sayed win would be a blow to Chuck Schumer and AIPAC"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260804103121.3.d0fae2048f1c23f8@mg-d0.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Covid-19 summer wave, peak mosquito season, two Cyclospora deaths (and the outbreak calming down), and more",
-   "date": "2026-08-04T03:31-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/covid-19-summer-wave-peak-mosquito",
-   "bullets": [
-    "Covid-19 summer wave is brewing with low rates but climbing metrics",
-    "Cyclospora outbreak has over 17,000 cases and two deaths",
-    "West Nile virus cases are five times the historical average"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260804102904.3.c84a4e21f11cce92@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Oligarchs are Doubling Down on Republicans",
-   "date": "2026-08-04T03:29-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-oligarchs-are-doubling-down-on",
-   "bullets": [
-    "Billionaires have spent $1.6 billion on the November midterms",
-    "G. Elliott Morris's model gives Democrats an 85% chance of taking the House",
-    "Elon Musk and other billionaires are doubling down on supporting Trump despite his unpopularity"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260804090102.3.76503c74f1833da2@mg-d1.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Passing Gas",
-   "date": "2026-08-04T02:01-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/passing-gas",
-   "bullets": [
-    "The EU’s latest sanctions on Russia are stalling because member states, notably Greece, use vetoes to protect shipping tycoons, forcing Brussels to consider smaller, targeted sanctions to reduce national veto power.",
-    "Viktor Orbán’s defeat has exposed how national interests can derail EU cohesion, raising doubts that the EU can maintain its sovereignty‑preserving veto system amid growing disunity.",
-    "The ongoing stalemate threatens to worsen the EU’s winter gas crisis and may accelerate the EU’s dissolution, as national capitals prioritize domestic interests over collective action."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 76,
+  "shown": 75,
   "total": 328
  }
 }
