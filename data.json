@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T10:41-07:00",
+ "updated": "2026-09-04T18:07-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -50,6 +50,62 @@
  },
  "items": [
   {
+   "id": "20260905000127.3.cc057e584d474099@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "MAGA Pollster Thinks Texas, Ohio and Even KANSAS Could Turn Blue (w/ Rich Baris)",
+   "date": "2026-09-04T17:01-07:00",
+   "url": null,
+   "bullets": [
+    "Rich Baris argues that the 2026 Senate map could be highly competitive, with Democrats potentially winning traditionally safe Republican states like Kansas, Nebraska, Montana, Texas, and Ohio, while Michigan and Georgia remain Democratic strongholds.",
+    "Baris contends Republican messaging that frames opponents as “socialists” misses voters’ primary concerns—cost of living, bills, and everyday affordability—rather than ideological labels.",
+    "He claims Trump is alienating his core coalition through war rhetoric, immigration stances, and social‑media trolling, undermining the coalition that helped him win the 2024 election."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260904205655.3.5d067f5272751aa5@mg-d0.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "David French: MAGA Is Making America Less Free",
+   "date": "2026-09-04T13:56-07:00",
+   "url": null,
+   "bullets": [
+    "Marco Rubio is accused of using executive powers to create a new class of immigrant political prisoners, while DHS officials brag about shackling and frog‑marching Haitians under protected status.",
+    "David French argues that the Founders intended constitutional liberties to apply to noncitizens, citing cases like Milo Yiannopoulos, and critiques Trump’s illegal ballroom construction and Texas Republicans’ stance on Paxton vs. Talarico.",
+    "The newsletter notes that 150 days of detention have now affected Iranian green‑card holders, and Tim Miller praises the LSU ruling ahead of the Clemson game."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260904200042.3.7b04fcee7a15145b@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Netflix and Kill: Why Is the Streamer Still Platforming the Israeli Propaganda Show ‘Fauda’?",
+   "date": "2026-09-04T13:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/netflix-and-kill-why-is-the-streamer",
+   "bullets": [
+    "The newsletter argues that Netflix’s renewal of the Israeli series “Fauda” for a fifth season effectively platforms propaganda that glorifies Israeli soldiers disguising themselves as Palestinians, a practice prohibited by International Humanitarian Law.",
+    "It claims the show normalizes the Israeli Occupation Forces’ war crimes by depicting undercover operations that involve kidnapping and killing civilians, framing this as dehumanization amid the ongoing Gaza conflict.",
+    "The author questions how Netflix can continue streaming the series while the Israel‑Gaza war, described as a live‑streamed genocide, persists into its fourth year."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260904190906.3.36b9ec40b4e1d0b6@mg2.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Will Republicans Save the Film Industry?",
+   "date": "2026-09-04T12:09-07:00",
+   "url": null,
+   "bullets": [
+    "A bipartisan coalition of film industry leaders is pushing a federal production tax credit to keep jobs in U.S. states like Louisiana, Texas and Georgia, framing it as a jobs‑saving measure rather than a Hollywood bailout.",
+    "President Trump broke a logjam by publicly urging Congress to approve the incentive, omitting his earlier tariff idea, prompting Democratic Rep. Laura Friedman and Republican Rep. Brian Jack to highlight its national economic benefits despite GOP hesitancy to appear as bailing out liberal Hollywood.",
+    "The Motion Picture Association estimates the credit could boost production across all 50 states, with examples like Disney’s move to England for 25% tax rebates and Deadpool & Wolverine’s $100 million UK rebate illustrating the money at stake."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260904163043.3.1d82546d502cd08b@mg-d1.substack.com",
    "newsletter": "The Bulwark",
    "pub": "thebulwark",
@@ -57,10 +113,11 @@
    "date": "2026-09-04T09:30-07:00",
    "url": null,
    "bullets": [
-    "IT IS NO SECRET that President Trump has built his “alpha male” persona around a warped version of masculinity in which vulnerability is weakness, cruelty is strength, empathy is feminine, and women are easy targets. It’s also no secret tha…",
-    "Over the past decade, Republican politics has become obsessed with projecting toughness and mocking liberals as weak, feminine “betas.” Beneath it all is a deep disdain for women. In Trump’s case specifically, it wasn’t even all that hidden…"
+    "Ohio Rep. Max Miller faces a House Ethics Committee investigation after his ex‑wife accused him of pouring scalding water on her, pointing a gun at her head, and his daughter’s collarbone being broken, allegations he denies.",
+    "Top Republicans—including Speaker Mike Johnson, candidate Vivek Ramaswamy and the NRCC—continue to back Miller, saying his effectiveness outweighs personal misconduct, while the party prioritizes retaining House control over moral standards.",
+    "Democratic challenger Brian Poindexter’s ad, titled “Daughters,” contrasts Miller’s alleged abuse by highlighting his opponent’s family presence, offering a subtle rebuttal to the GOP’s “macho cruelty” culture."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260904150253.3.e3f999ad6b8155f7@mg2.substack.com",
@@ -96,10 +153,11 @@
    "date": "2026-09-04T06:23-07:00",
    "url": null,
    "bullets": [
-    "This summer’s jobs reports have mostly been clunkers, but this morning we got a more encouraging one. The U.S. economy added 162,000 jobs in August, while unemployment held steady at 4.1 percent and the labor force participation rate—which …",
-    "Join Catherine Rampell and JVL for Receipts Live today at 12:30 p.m. EDT on Substack [ https://open.substack.com/live-stream/348961 ] and YouTube [ https://substack.com/redirect/2c3edc94-dfb4-439c-8e08-a57c26e57644?j=eyJ1IjoiMnVxMXlxIn0.KgF…"
+    "Vice President JD Vance told reporters there is no active shooting in Iran, framing the ongoing Strait of Hormuz tensions as a limited problem rather than a war.",
+    "The Wall Street Journal reports Trump is privately discussing declaring the Iran conflict over, while commentators like Scott Jennings claim Iran is “scrambled and defeated,” signaling a shift from earlier claims of imminent Iranian concessions.",
+    "Independent shipping data contradicts Trump’s claim that 18 million barrels per day are now transiting Hormuz, and Brent and diesel prices remain high, undermining the administration’s narrative of a successful resolution."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260904110035.3.589a1b34748828ac@mg2.substack.com",
@@ -4495,52 +4553,10 @@
     "View the full coverage video to catch all interviews and analysis as Michigan continues tallying votes into the night."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260804234528.3.542c4fc5b076f405@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Here Are 19 - Yes, 19! - Ways Trump and Republicans Are Plotting to Rig and Steal the Midterm Elections",
-   "date": "2026-08-04T16:45-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/19-ways-trump-and-republicans-are",
-   "bullets": [
-    "Trump’s administration, led by Stephen Miller, has drafted legal memos and policy papers since early 2024 to condition federal aid—such as California wildfire relief—on states adopting restrictive voter‑ID rules and handing over voter rolls, effectively weaponizing aid to coerce Democratic states.",
-    "Republican allies are pursuing a multi‑pronged campaign—including gerrymandering, voter‑suppression bills, closing polling sites, voter purges, and threats of federal seizure of election records—to undermine registration, voting, tabulation, and certification ahead of the 2026 midterms.",
-    "Sources say senior Trump advisers planned these election‑rigging strategies months before his 2024 reelection, and the GOP now relies on a Supreme Court sympathetic to far‑right claims to secure legal advantages and enable potential federal takeovers of elections."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260804211448.3.b08f90430c75b2c9@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Americans Live in the 'United States of Oligarchy' With Elon Musk at the Top",
-   "date": "2026-08-04T14:14-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/americans-live-in-the-united-states",
-   "bullets": [
-    "In June 2024 Elon Musk briefly became a trillionaire, a milestone the author argues proves America’s slide into oligarchy as Musk used his wealth to influence the 2024 Trump election and fund far‑right movements in the UK, Germany and elsewhere.",
-    "Musk’s post‑Trump ties birthed a self‑styled ‘Department of Government Efficiency’ that slashed federal programs, dismantled regulators like the FDA and FAA, and effectively let Musk regulate his own companies while securing lucrative contracts such as the $10 billion ‘Golden Dome’ missile‑shield project for SpaceX.",
-    "The piece contends Musk’s support for China’s regime—including praising its dictatorship and helping whitewash Uyghur genocide—shows how his wealth is built on aiding autocrats, reinforcing the claim that the United States now functions as an oligarchy dominated by a handful of billionaires."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260804182520.3.c995e79ab487d422@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Israel Has Imprisoned a 16-Year-Old Palestinian-American Boy for Two Weeks",
-   "date": "2026-08-04T11:25-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/israel-has-imprisoned-a-16-year-old",
-   "bullets": [
-    "16‑year‑old U.S. citizen Adam Wajeh Abdelfattah Karakrah was re‑detained by Israeli forces in the West Bank after his bail was paid, now held on a new rioting charge with detention extended past the planned release date",
-    "His family paid roughly $1,700 bail plus additional fees, reported threats and searches during a raid, and received only a vague embassy response that officials cannot intervene in legal matters",
-    "He joins at least 300 Palestinian minors and other Americans, such as 20‑year‑old Sama Safi, currently held in Israeli prisons amid broader accusations of rights abuses"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 75,
-  "total": 328
+  "total": 329
  }
 }
