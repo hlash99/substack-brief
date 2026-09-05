@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T18:07-07:00",
+ "updated": "2026-09-05T09:53-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -49,6 +49,115 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260905130300.3.ed19f2856669fd3b@mg2.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“A teacher’s job, he told us, was to arm children with tools against loneliness”",
+   "date": "2026-09-05T06:03-07:00",
+   "url": "https://post.substack.com/p/a-teachers-job-he-told-us-was-to",
+   "bullets": [
+    "Wendell Berry, who returned to teach at the University of Kentucky in 1987, demanded that future teachers equip students with tools to combat loneliness, insisting that literature be studied for its life‑shaping lessons rather than as sterile texts.",
+    "The newsletter also highlights a viral clip of baker Claire Saffitz failing to emulsify a Kinder Bueno‑style praline, using her on‑camera breakdown to illustrate the emotional highs and lows of culinary experimentation.",
+    "A third section previews a podcast on 1,000 autonomous AI agents forming secret message boards, leading to virtual civilizations and a real‑world cyberattack, as explained by Dwarkesh Patel."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260905130105.3.ab508999e4bcb3b3@mg2.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Cruelty, the Chaos, the Casualties",
+   "date": "2026-09-05T06:01-07:00",
+   "url": null,
+   "bullets": [
+    "A Haitian student stripped of TPS status in Ohio died by suicide, highlighting ICE’s alleged strategy to make life unbearable for Haitians so they ‘leave on their own.’",
+    "Leaks from Pete Hegseth’s forthcoming book expose a national‑security crisis tied to extremist tech‑industry figures whose alliance with MAGA is now unraveling.",
+    "The newsletter claims Trump is actively supporting Venezuela’s dictatorship, keeping the regime in power despite international condemnation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260905130056.3.d0723293244adf84@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "This Progressive Outsider Is Trying to Shake Up the Senate Race No One’s Talking About",
+   "date": "2026-09-05T06:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/meet-the-progressive-outsider-new-hampshire",
+   "bullets": [
+    "New polling shows four-term Democrat Chris Pappas, backed by Kamala Harris, Hillary Clinton and the pro‑Israel lobby, trailing the Republican in the crucial New Hampshire Senate race as Democrats seek a majority to block Donald Trump’s agenda.",
+    "Outsider candidate Karishma Manzur, a scientist, argues the Inflation Reduction Act’s carbon cuts are dwarfed by emissions from the Gaza war and criticizes U.S.‑Israeli military fusion, climate inaction, and Democratic “big‑tent” gatekeeping ahead of the Sept. 8 election.",
+    "The newsletter links to an interview with Manzur discussing U.S.‑funded violence in Bangladesh, Trump’s Iran war profiteering, and the existential climate threat of a 3‑degree rise over 50 years."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260905111545.3.452fe8b460b827df@mg2.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Senators Who Suck",
+   "date": "2026-09-05T04:15-07:00",
+   "url": null,
+   "bullets": [
+    "How to Eat an Elephant drops on Tuesday and the Best Friends really want to get it to #1 on the NYT best seller list. To do that, we have to unseat . . . a biography of Clarence Thomas by Ted Effing Cruz.",
+    "Don’t let Teddy Cancun and High Life Clarence win. Order a copy of Sarah’s book now. (If you haven’t already, I mean.) Today Sarah and JVL try to figure out who’s worse: John Fetterman or Susan Collins. (Give us your answer in the comments.…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260905102107.3.d87bfe8ad95f04ed@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Day Off",
+   "date": "2026-09-05T03:21-07:00",
+   "url": "https://paulkrugman.substack.com/p/day-off-676",
+   "bullets": [
+    "Krugman notes there is no interview this week because he is traveling and working on a longer‑term project."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260905090049.3.b24e4d3c4eda765e@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Necessary Inventions",
+   "date": "2026-09-05T02:00-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/necessary-inventions",
+   "bullets": [
+    "The author argues that despite periodic pessimistic forecasts, global primary energy consumption historically rises because higher living standards demand more energy.",
+    "He highlights the Permian Basin's water‑by‑oil challenge—3‑4 barrels of hypersaline water per barrel of crude—as a catalyst for imminent technological breakthroughs.",
+    "He predicts that solving the produced‑water issue will unlock further oil growth and generate significant profits for innovators."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260905014337.3.40def369dcb20e39@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "This changes everything",
+   "date": "2026-09-04T18:43-07:00",
+   "url": "https://roycoopernc.substack.com/p/this-changes-everything",
+   "bullets": [
+    "The Supreme Court ruled that national political parties can funnel unlimited dark money to candidates and receive a discount on advertising, effectively removing limits on GOP spending in North Carolina races",
+    "Former RNC chair Michael Whatley stands to benefit from the RNC’s $130 million war chest, while GOP super PACs have already spent nearly $100 million on attack ads, making this potentially the first billion‑dollar Senate race",
+    "The campaign urges a $250,000 rapid‑response fundraising goal by midnight to counter the influx of dark money and flip the North Carolina Senate seat to Democrats"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260905013748.3.87eca61aa4ff189c@mg-d0.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 85: What a Pair of Bombshell Whistleblower Reports Uncovered About Trump's Tyranny",
+   "date": "2026-09-04T18:37-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-85-what",
+   "bullets": [
+    "A whistleblower report released by Sen. Richard Blumenthal warned that a rushed Trump executive order could seize control of mail‑in voting, potentially preventing millions of ballots from being delivered before the election.",
+    "ProPublica revealed DOJ officials blocked civil‑rights charges against an ICE agent who shot a Venezuelan immigrant, while the Office of Legal Counsel warned states could lose billions in federal aid for not reporting undocumented immigrants to DHS.",
+    "The DHS announced a surge in voter‑fraud investigations in nine states—Washington, Wisconsin, Missouri, Georgia, California, Pennsylvania, Nevada, New York, and Connecticut—despite evidence that such fraud is virtually nonexistent."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260905000127.3.cc057e584d474099@mg2.substack.com",
    "newsletter": "Bulwark Takes",
@@ -4430,133 +4539,10 @@
     "He highlighted his immigrant background, pledged to unite Democratic voters, and warned he has only 91 days to win over skeptical constituents before the general election."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260805165114.3.45959d0189c9a12c@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Case Against El-Sayed Doomerism",
-   "date": "2026-08-05T09:51-07:00",
-   "url": null,
-   "bullets": [
-    "El‑Sayed won the Michigan Democratic Senate primary but his lead has collapsed from +13 in polls to about +1% after an 11‑to‑1 spending disadvantage, raising concerns about his appeal to Black voters in Wayne and Oakland counties and his margin in Macomb.",
-    "Despite Michigan’s long Democratic Senate streak and a favorable environment, Republican Mike Rogers—who earned 48.3% in 2024 and has a solid 2.7 million‑voter base—could force a tight race decided by fewer than 50,000 votes.",
-    "A recent civilian medevac crash in New Mexico, caused by GPS jamming from a military exercise, marks the first U.S. plane loss linked to drone‑warfare‑related interference, highlighting emerging aviation risks."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260805150149.3.da526415a2aeae75@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "The Supreme Court Shredded America’s ‘Most Powerful’ Law",
-   "date": "2026-08-05T08:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-supreme-court-shredded-americas",
-   "bullets": [
-    "The Supreme Court this year gutted key provisions of the Voting Rights Act, putting over a dozen Black‑led House districts at risk of elimination.",
-    "Republicans are pushing the SAVE America Act, which would further restrict voting access for Black and brown voters, intensifying concerns about voter suppression."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260805134434.3.c5219c87d62d8b72@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "It’s Still a Blue Wave",
-   "date": "2026-08-05T06:44-07:00",
-   "url": null,
-   "bullets": [
-    "Republican senators must abstain from voting on Todd Blanche’s attorney‑general nomination; Susan Collins already opposes him and only one other senator—likely Murkowski, Cassidy, or another—can also abstain without endangering the nomination",
-    "Michigan Democratic Senate primary appears tighter than polls predicted, with left‑wing Abdul El‑Sayed likely winning by only 1‑2 points, improving Republican Mike Rogers’ chances in the general but not guaranteeing a pickup",
-    "Democrats have a slightly better than 50‑50 chance of retaining Senate control, aided by Max Miller’s scandal in Ohio, potential pickups in North Carolina, Maine, Alaska, Iowa, Texas, and vulnerable GOP incumbents in Kansas, South Dakota, Idaho, and possibly Montana"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260805133134.3.01c228a436f22622@mg-d1.substack.com",
-   "newsletter": "Here Be Dragons from Barbara F. Walter",
-   "pub": "barbarafwalter",
-   "subject": "Summertime in San Diego",
-   "date": "2026-08-05T06:31-07:00",
-   "url": "https://barbarafwalter.substack.com/p/summertime-in-san-diego",
-   "bullets": [
-    "Barbara Walter reports no new articles this week, focusing on completing an afterword for her book \"How Civil Wars Start.\"",
-    "She shares a photo of a San Diego sunset taken while enjoying wine with a friend, offering a brief visual respite."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260805130156.3.ace63fd15dc90251@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Here's Exactly How Abdul El-Sayed Beats Mike Rogers",
-   "date": "2026-08-05T06:01-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/heres-exactly-how-abdul-el-sayed",
-   "bullets": [
-    "Abdul El‑Sayed won Michigan’s Senate primary against Mike Rogers, surviving an 11‑to‑1 spending disadvantage from Super PACs tied to AIPAC, the DSCC, and other special interests, with $60 million spent against him.",
-    "El‑Sayed’s victory challenges traditional political rules, signaling a backlash against an establishment that relies on heavy outside spending and an outdated view of politics, though critics argue he lacks the strength of former Senator Stevens and may need to broaden his appeal for November."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260805112230.3.7911023f708bde73@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Will This Be AIPAC’s Biggest Defeat – Ever?",
-   "date": "2026-08-05T04:22-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/will-this-be-aipacs-biggest-defeat",
-   "bullets": [
-    "AIPAC spent $30 million and other pro‑Israel donors added $30 million to help Congresswoman Haley Stevens win Michigan’s Democratic Senate primary, but Abdul El‑Sayed ultimately prevailed, with NBC calling the race for him before 2 am ET.",
-    "El‑Sayed’s victory was framed as a David‑vs‑Goliath win against AIPAC and the establishment, with former candidate Mallory McMorrow endorsing him after dropping out.",
-    "The campaign’s close finish and the heavy spending highlight a significant setback for AIPAC, marking what the newsletter calls its most expensive and costly defeat yet."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260805103110.3.738ab7b43e7c5bb3@mg-d1.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "The system should be on trial too.",
-   "date": "2026-08-05T03:31-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/the-system-should-be-on-trial-too",
-   "bullets": [
-    "70% of U.S. women say they wanted more info on postpartum mental health before birth, yet only 6% of UK pregnant women receive any antenatal education on postpartum psychosis, a condition affecting as many families as Down syndrome annually.",
-    "Postpartum care lacks a clear owner: Lindsay Clancy accessed multiple providers and 13 psychiatric meds within weeks of her children’s deaths, but fragmented records prevented any clinician from seeing the full picture.",
-    "In FY2023 NIH allocated just $4.6 billion to women’s health—about one‑tenth of its $45 billion budget—leaving postpartum psychosis without a formal diagnosis, screening tool, or adequate research funding."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260805103050.3.6b9cffd83b58c17e@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "An Explosion of Misery",
-   "date": "2026-08-05T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/an-explosion-of-misery",
-   "bullets": [
-    "Trump’s administration imposed work‑verification requirements on SNAP, causing millions—especially children—to lose $187‑a‑month food aid, despite most recipients already working irregularly.",
-    "Republican refusal to extend the Biden‑era ACA subsidy fix eliminated the subsidy cliff, leaving middle‑income families (just above 400% of poverty) without aid and dropping enrollment by about three million, increasing under‑insurance.",
-    "Krugman argues these cuts create an \"explosion of misery\" that not only deepens poverty now but reduces long‑term economic growth, as evidence shows nutrition and health assistance yields high societal returns."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260805045049.3.8ebc3e3c87553eed@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "LIVE From Michigan: Mehdi and Prem on Abdul El-Sayed",
-   "date": "2026-08-04T21:50-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/live-from-michigan-mehdi-and-prem",
-   "bullets": [
-    "The Michigan Senate Democratic primary pits progressive Abdul El‑Sayed against AIPAC‑backed centrist Haley Stevens, who holds a roughly nine‑to‑one fundraising advantage.",
-    "Zeteo’s live two‑hour stream featured progressive figures like Rep. Ilhan Omar, newcomers Chris Rabb and Brad Lander, plus experts discussing AIPAC’s influence, Islamophobia, and the race’s stakes for establishment Democrats.",
-    "View the full coverage video to catch all interviews and analysis as Michigan continues tallying votes into the night."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 75,
-  "total": 329
+  "total": 328
  }
 }
