@@ -1,54 +1,109 @@
 {
- "updated": "2026-09-05T09:53-07:00",
+ "updated": "2026-09-05T18:06-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The looming 2028 election cycle is already reshaping party strategies, with Democrats scrambling for staff and headquarters while Republicans fracture into competing MAGA factions (The Bulwark, Zeteo).",
-   "Trump’s administration is intensifying its authoritarian tactics, from massive visa revocations to weaponizing social media aides and inflaming foreign conflicts, prompting internal GOP alarm (This Week in Democracy, First Draft | Zeteo, Jim Swift).",
-   "Progressive tax policy is eroding, creating a $600 billion tax gap that fuels the federal deficit and deepens inequality (Paul Krugman).",
-   "Key Senate races in Georgia and North Carolina have become flashpoints for national power struggles, drawing unprecedented super‑PAC spending and framing control of the Senate as a decisive battleground (Jon Ossoff, Roy Cooper).",
-   "The humanitarian crisis in Palestine escalates amid Israeli military actions and settler violence, highlighting the U.S. role and domestic political fallout (Zeteo).",
-   "Cultural and social issues—from Dolly Parton’s legacy to the threat to literacy programs and measles outbreaks—underscore how policy cuts and partisan narratives impact everyday Americans (The Substack Post, Sonny Bunch, Your Local Epidemiologist)."
+   "The GOP’s electoral outlook is in turmoil, with dark‑money influxes reshaping North Carolina races, surprising poll shifts in New Hampshire and Texas, and Republican candidates like Pennsylvania’s Stacy Garrity trailing badly funded Democrats (The Bulwark, Zeteo, Roy Cooper).",
+   "Trump’s authoritarian tactics are escalating, from attempts to seize mail‑in voting and gold reserves to dismantling Haitian TPS and promoting extremist immigration enforcement (The Bulwark, Zeteo, Adrian Carrasquillo).",
+   "U.S. foreign policy is under strain as the administration pushes a risky Iran confrontation while Israel’s war in Gaza fuels global criticism and even cultural pushback against shows like Netflix’s ‘Fauda’ (Bill Kristol & Andrew Egger, Zeteo).",
+   "Energy and climate debates are heating up, with Doomberg highlighting a looming water‑by‑oil breakthrough in the Permian and Krugman warning that Trump’s war‑driven fuel policies are spiking gasoline prices (Doomberg, Paul Krugman).",
+   "Media and cultural battles are intensifying, exemplified by Fox News firing Maria Bartiromo amid Trump ties, debates over film tax credits, and controversies over Elon Musk’s antisemitic poll influencing GOP donors (The Bulwark, Sonny Bunch, First Draft | Zeteo)"
   ],
   "by": "groq",
   "ids": [
-   "20260828090218.3.c27e32b1bae269c7@mg-d1.substack.com",
-   "20260828100412.3.314b9d3dd9bb115f@mg-d0.substack.com",
-   "20260828103023.3.96bc4e676b5381ac@mg-d1.substack.com",
-   "20260828110701.3.f17d0e5fe440f9ce@mg-d0.substack.com",
-   "20260828111423.3.a08d21086a822480@mg-d0.substack.com",
-   "20260828133531.3.37d6c619ac27de7f@mg-d1.substack.com",
-   "20260828140049.3.5b16890de3157969@mg-d0.substack.com",
-   "20260828150554.3.648eb39d727e4b4d@mg2.substack.com",
-   "20260828153019.3.26b586653c91631b@mg-d0.substack.com",
-   "20260828190109.3.0d340cd52339f750@mg2.substack.com",
-   "20260828203601.3.5c84dca2a3da887c@mg-d0.substack.com",
-   "20260828205525.3.bf91aaf2098a644a@mg-d0.substack.com",
-   "20260829010100.3.652c5c33cf961b15@mg-d1.substack.com",
-   "20260829100217.3.fd167ac60ec9033f@mg2.substack.com",
-   "20260829103106.3.36cd742324ea2797@mg-d0.substack.com",
-   "20260829113057.3.6be32b2b0ce533e9@mg2.substack.com",
-   "20260829130212.3.2d89652b939a0f19@mg2.substack.com",
-   "20260829130221.3.4265bf9900c728a9@mg-d0.substack.com",
-   "20260829131231.3.3285b36074f4dc06@mg-d0.substack.com",
-   "20260829134545.3.bfb2ec7d2ddb084e@mg2.substack.com",
-   "20260829152131.3.ddf0582c80b56665@mg-d1.substack.com",
-   "20260829170131.3.4c89fe629287c8c7@mg-d1.substack.com",
-   "20260829205118.3.37de2eb682adf90b@mg-d1.substack.com",
-   "20260830113105.3.7e8a9568ad293da0@mg-d0.substack.com",
-   "20260830123120.3.96ba231ac33f7bd1@mg-d1.substack.com",
-   "20260830130303.3.0ed688a1aabb58e5@mg-d1.substack.com",
-   "20260830130335.3.1a5acb8ed25c95a9@mg-d1.substack.com",
-   "20260830155822.3.cf94c86d1e3c9732@mg2.substack.com",
-   "20260830185159.3.0f147ffee035c58a@mg2.substack.com",
-   "20260830230140.3.aa5ef0f65cb074f0@mg-d1.substack.com",
-   "20260830233432.3.07bd92614e72f713@mg-d1.substack.com"
+   "20260903095637.3.50ac302eddc2ef7e@mg2.substack.com",
+   "20260903113645.3.32bc1fe82dddeba0@mg2.substack.com",
+   "20260903132735.3.1f7668d699eb9360@mg2.substack.com",
+   "20260903150321.3.e8fb89a2aea8b732@mg-d0.substack.com",
+   "20260903150700.3.5ef09adc8aa67a4f@mg-d0.substack.com",
+   "20260903162658.3.563339a4761597b7@mg2.substack.com",
+   "20260903170114.3.a06c9d41bd429ded@mg-d0.substack.com",
+   "20260903190612.3.72194f0828650bf3@mg2.substack.com",
+   "20260903213045.3.791dd8fb05180390@mg2.substack.com",
+   "20260904002410.3.1fa5d9d0eda38870@mg2.substack.com",
+   "20260904010037.3.7402d1cd79e8ea62@mg2.substack.com",
+   "20260904100337.3.9135e927f4ab56bc@mg2.substack.com",
+   "20260904105931.3.5e5f6fb96b0b46ab@mg-d0.substack.com",
+   "20260904110035.3.589a1b34748828ac@mg2.substack.com",
+   "20260904132330.3.4a1854617332c3d3@mg2.substack.com",
+   "20260904144538.3.fdc6940a90da655c@mg-d1.substack.com",
+   "20260904150253.3.e3f999ad6b8155f7@mg2.substack.com",
+   "20260904163043.3.1d82546d502cd08b@mg-d1.substack.com",
+   "20260904190906.3.36b9ec40b4e1d0b6@mg2.substack.com",
+   "20260904200042.3.7b04fcee7a15145b@mg-d1.substack.com",
+   "20260904205655.3.5d067f5272751aa5@mg-d0.substack.com",
+   "20260905000127.3.cc057e584d474099@mg2.substack.com",
+   "20260905013748.3.87eca61aa4ff189c@mg-d0.substack.com",
+   "20260905014337.3.40def369dcb20e39@mg2.substack.com",
+   "20260905090049.3.b24e4d3c4eda765e@mg-d1.substack.com",
+   "20260905102107.3.d87bfe8ad95f04ed@mg-d1.substack.com",
+   "20260905130056.3.d0723293244adf84@mg-d0.substack.com",
+   "20260905130105.3.ab508999e4bcb3b3@mg2.substack.com",
+   "20260905130300.3.ed19f2856669fd3b@mg2.substack.com",
+   "20260905170113.3.c6f0839339140177@mg-d0.substack.com",
+   "20260905180425.3.5252c5c4c6cf50b8.tcre6t2v@mg1.substack.com",
+   "20260905203320.3.b3ec1b7a4e9203b7@mg-d1.substack.com",
+   "20260906001513.3.8543c45911a98f2b@mg-d0.substack.com"
   ],
-  "updated": "2026-08-30T18:25-07:00",
+  "updated": "2026-09-05T18:06-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260906001513.3.8543c45911a98f2b@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Fox News FIRES Maria Bartiromo After She Secretly Helped Trump",
+   "date": "2026-09-05T17:15-07:00",
+   "url": null,
+   "bullets": [
+    "Tim Miller and Sam Stein claim Fox News fired Maria Bartiromo for allegedly leaking internal network details to the Trump White House and revisit her past conspiracy‑theory statements.",
+    "They allege a sensational Instagram report on former Labor Secretary Lori Chavez‑DeRemer involving strip clubs, an alleged affair, on‑the‑job drinking, staff organizing her closet, and a conveniently timed Vegas trip.",
+    "The episode also teases a Trump‑backed Apprentice‑style competition featuring Nicki Minaj and Dean Cain as contestants."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260905203320.3.b3ec1b7a4e9203b7@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The GOP is MIA in North Carolina (with Chris Cooper)",
+   "date": "2026-09-05T13:33-07:00",
+   "url": null,
+   "bullets": [
+    "Former Gov. Roy Cooper, a relatively popular Democrat, appears poised to win the NC Senate seat this year as voters remain unclear about his Republican opponent, according to political science professor Chris Cooper.",
+    "Cooper argues recent Democratic gains in North Carolina’s House races could signal a path to carrying the state in the 2028 presidential election if the party can replicate those successes.",
+    "A Bulwark LIVE event featuring Pete Buttigieg and other hosts is scheduled for October 18 at the Carolina Theatre in Charlotte, with tickets available via TheBulwark.com/Events."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260905180425.3.5252c5c4c6cf50b8.tcre6t2v@mg1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "🗓️ The Bulwark is going live on Sep 6 at 9:00 AM PDT: “Sarah Longwell joins Bill Kristol for Bulwark on Sunday”",
+   "date": "2026-09-05T11:04-07:00",
+   "url": null,
+   "bullets": [
+    "The upcoming Bulwark live episode on September 6 at 9 AM PDT features Sarah Longwell joining host Bill Kristol for a discussion."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260905170113.3.c6f0839339140177@mg-d0.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: Israeli Settlers Beat Elderly Woman and Defense Minister Says Expelling Palestinians From …",
+   "date": "2026-09-05T10:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israeli-settlers-ee3",
+   "bullets": [
+    "Israeli strikes and gunfire in Gaza escalated, killing multiple Palestinians including children and forcing a kindergarten evacuation of hundreds of 4‑ and 5‑year‑olds.",
+    "Israel’s defense minister called clearing Gaza of Palestinians the only ‘real solution,’ while a UN report warned of forced displacement of entire refugee camps in the West Bank.",
+    "Israeli settlers violently beat an elderly woman in the West Bank, part of a broader pattern of settler rampages reported this week."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260905130300.3.ed19f2856669fd3b@mg2.substack.com",
    "newsletter": "The Substack Post",
@@ -4485,64 +4540,10 @@
     "He notes Trump’s false claims routinely ignore positive developments, preferring to blame “radical left” pollsters while promoting a narrative of cruelty and punishment."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260806010059.3.21c14ea1cd017323@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Trump Wants To Steal the Midterms – But the Dems Actually Have A Plan To Fight Back",
-   "date": "2026-08-05T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/inside-dems-plans-to-fight-back-trump-ice-polls",
-   "bullets": [
-    "Democratic officials nationwide are conducting “wargames” to prepare for scenarios where Trump could deploy armed federal agents or troops to polling places, treating the president as a primary election threat.",
-    "The administration’s alleged tactics include voter intimidation, illegal ballot‑seizing attempts, and threats to use the Insurrection Act, prompting a massive, coordinated defensive effort by Democrats, legal nonprofits, and election officials.",
-    "Sources say the preparation mirrors defenses against foreign adversaries, emphasizing the need for overwhelming voter turnout to counter Trump’s authoritarian strategy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260805233034.3.7816983ef75ae21f@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Capital One Just Dropped an Atomic Bomb on Trump (w/ Andrew Weissmann)",
-   "date": "2026-08-05T16:30-07:00",
-   "url": null,
-   "bullets": [
-    "Sam Stein and Andrew Weissmann say the Justice Department’s dismissal of Lincoln Memorial reflecting‑pool damage charges leaves Olympian David Hearn with limited recourse and prompts a sharp Trump response.",
-    "They flag Todd Blanche’s uncertain Senate confirmation, a proposed “anti‑weaponization” fund with tax‑immunity provisions, and Capital One’s claim that Trump Organization accounts violated anti‑money‑laundering rules.",
-    "They note Anthony Fauci invoked the Fifth Amendment before Congress, and promote Weissmann’s new book Liar’s Kingdom and the Illegal News podcast."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260805211024.3.43d4394bb5348771@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Why Bari Weiss's Boss Is Full of ‘Horseshit’",
-   "date": "2026-08-05T14:10-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/why-bari-weisss-boss-is-full-of-horseshit",
-   "bullets": [
-    "Paramount CEO David Ellison’s New York Times op‑ed defending his politics and suitability to run CNN is being dismissed by CBS and CNN insiders as a desperate PR stunt to salvage the faltering $111 billion WarnerMount merger.",
-    "Sources say the piece reads like lawyer‑crafted copy, likely orchestrated by investment banker Blair Effron, and portrays Ellison as a misunderstood victim despite evidence he’s a right‑wing partisan."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260805210714.3.b9a334d80f6041f0@mg2.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Brutal Path Ahead for El-Sayed",
-   "date": "2026-08-05T14:07-07:00",
-   "url": null,
-   "bullets": [
-    "Abdul El‑Sayed delivered a tentative victory speech after a razor‑thin primary win over Rep. Haley Stevens, urging unity to block GOP nominee Mike Rogers and Donald Trump in the Senate race.",
-    "He highlighted his immigrant background, pledged to unite Democratic voters, and warned he has only 91 days to win over skeptical constituents before the general election."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 75,
+  "shown": 77,
   "total": 328
  }
 }
