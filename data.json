@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T18:06-07:00",
+ "updated": "2026-09-06T10:09-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -50,6 +50,61 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260906165912.3.af69006885d048d5@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "One final end-of-quarter deadline",
+   "date": "2026-09-06T09:59-07:00",
+   "url": "https://roycoopernc.substack.com/p/one-final-end-of-quarter-deadline",
+   "bullets": [
+    "The campaign’s end‑of‑quarter fundraising report will be filed on September 30, showing how much was raised, a key indicator of race strength.",
+    "Last quarter, 95% of donations were $100 or less, with nearly one‑third from first‑time donors, funding ground game and ads across North Carolina.",
+    "Republican super PACs have already committed almost $100 million, and a new Supreme Court ruling lets GOP parties spend unlimited coordinated money, intensifying the financial battle."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260906130129.3.a5357ad29f6016ba@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Talarico Insider: Texas’s ‘Perfect Storm’ Could Defeat Republican Ken Paxton",
+   "date": "2026-09-06T06:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/talarico-insider-texass-perfect-storm",
+   "bullets": [
+    "Strategist Chuck Rocha argues that data‑center growth, rising gas and grocery prices, Ken Paxton’s low favorability, and shifting Latino voter dynamics create a “perfect storm” that puts Democrat James Talarico neck‑and‑neck in the Texas Senate race.",
+    "Rocha says Talarico’s Christian faith and targeted outreach to Latino voters are crucial for the Democrat to capitalize on the Republican’s vulnerabilities and win in the coming weeks.",
+    "The 30‑minute interview, available to paid subscribers, breaks down how these economic and cultural forces could overturn three decades of GOP control in Texas."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260906123122.3.e144d573beadd862@mg-d0.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "RFK Jr.’s Sickening Measles Victory Lap",
+   "date": "2026-09-06T05:31-07:00",
+   "url": null,
+   "bullets": [
+    "Pennsylvania announced two measles‑related deaths in Lancaster County’s Amish community on Aug. 25, prompting Governor Josh Shapiro to urge vaccinations and criticize anti‑vaccine rhetoric from the Kennedy administration.",
+    "Robert F. Kennedy Jr. attacked Shapiro, claiming the deaths were politicized and possibly fabricated, while state officials and the county coroner clarified that one infant died of a ruptured spleen and the other was a six‑week‑old with a fatal congenital condition unrelated to measles.",
+    "The article argues Kennedy’s victory lap is unfounded, noting his misinformation campaign and the administration’s efforts to counter anti‑vaccine actions, including Trump’s executive orders rolling back childhood vaccine recommendations."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260906115556.3.c6d2ebf70007c0e8@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Weaponized Interdependence",
+   "date": "2026-09-06T04:55-07:00",
+   "url": "https://paulkrugman.substack.com/p/weaponized-interdependence",
+   "bullets": [
+    "Weaponized interdependence, coined by Farrell and Newman, describes how states exploit control over global networks—like the dollar system or rare‑earth supply chains—to coerce rivals, distinct from traditional tariff‑based trade wars.",
+    "Krugman notes that rising geoeconomic research (IMF, ECB) shows economic size and network dominance now confer coercive power, with the U.S., China and Iran exemplifying how trade dependencies can be weaponized."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260906001513.3.8543c45911a98f2b@mg-d0.substack.com",
    "newsletter": "Bulwark Takes",
@@ -154,10 +209,11 @@
    "date": "2026-09-05T04:15-07:00",
    "url": null,
    "bullets": [
-    "How to Eat an Elephant drops on Tuesday and the Best Friends really want to get it to #1 on the NYT best seller list. To do that, we have to unseat . . . a biography of Clarence Thomas by Ted Effing Cruz.",
-    "Don’t let Teddy Cancun and High Life Clarence win. Order a copy of Sarah’s book now. (If you haven’t already, I mean.) Today Sarah and JVL try to figure out who’s worse: John Fetterman or Susan Collins. (Give us your answer in the comments.…"
+    "Sarah urges readers to buy her upcoming book “How to Eat an Elephant” to out‑sell the Clarence Thomas biography by Ted Cruz and boost it to NYT #1 bestseller.",
+    "The episode pits John Fetterman against Susan Collins as the worse senator and teases Doug Sosnik’s advice for Democrats, inviting listener comments.",
+    "It announces the Bulwark LIVE Good Fight Tour stops Oct 16 in Columbia, SC, Oct 18 in Charlotte, NC (with Pete Buttigieg), and Oct 20 in Atlanta, GA, plus a members‑only Secret Podcast episode."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260905102107.3.d87bfe8ad95f04ed@mg-d1.substack.com",
@@ -4457,93 +4513,10 @@
     "Shane Dedrick is the Green Party candidate with a unclear background."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260806164209.3.8137efcb27592c97@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The HULK SMASH Plan for Fixing America",
-   "date": "2026-08-06T09:42-07:00",
-   "url": null,
-   "bullets": [
-    "A minority of Americans want a post-liberal order",
-    "The US system enforces minority rule, not protects minority rights",
-    "Reform aims to rebalance power afforded to the minority"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260806161514.3.ae88a5c11e284a62@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "The Dem Establishment Kicked Me Out. Now They're Losing",
-   "date": "2026-08-06T09:15-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-dem-establishment-kicked-me-out",
-   "bullets": [
-    "Abdul El-Sayed beat $60 million in outside spending in Michigan's primary",
-    "Leaders We Deserve has an 18-1 record in state legislative races",
-    "The DNC is over $2 million in debt, with the RNC having eight times as much cash on hand"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260806150734.3.248e3ef4953f1a70@mg2.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Tucker 2028?",
-   "date": "2026-08-06T08:07-07:00",
-   "url": null,
-   "bullets": [
-    "Tucker Carlson delivered a 90‑minute monologue outlining ten populist planks—fairness, sovereignty, optimism, etc.—and hinted at a possible third‑party presidential run in 2028 without explicitly declaring candidacy",
-    "He convened with former allies like Marjorie Taylor Greene, Thomas Massie, and Joe Kent, who now criticize Trump and promote a non‑Trump 2028 option, while critics argue Carlson is a Putin‑influenced dupe with radical party ambitions"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260806134127.3.4c2918a6f23f03d2@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Our Chaos Agent President Has Another Big Card to Play",
-   "date": "2026-08-06T06:41-07:00",
-   "url": null,
-   "bullets": [
-    "Michigan GOP primary shock: Trump‑endorsed Amir Hassan lost 33% to Tom Smith, who had dropped out months earlier, winning 50% in a surprise upset that highlighted Trump’s endorsement power limits.",
-    "Trump’s 2024 election strategy hinges on a contested executive order to restrict mail‑in voting; the Supreme Court may lift a stay, giving the administration broad discretion to alter ballot delivery before November, risking chaotic midterm elections.",
-    "A Russian‑backed strike on a Moscow restaurant during a birthday for Aerospace Forces commander Alexander Chaiko killed five, injured nineteen, and may implicate Ukraine, which has targeted Chaiko for his role in the 2022 Kyiv offensive and Bucha occupation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260806111441.3.5164eeab36930f1c@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Even Wolf Blitzer Is Baffled by John Fetterman's Pro-Israel Obsession",
-   "date": "2026-08-06T04:14-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/even-wolf-blitzer-is-baffled-by-john",
-   "bullets": [
-    "Senator John Fetterman told CNN’s Wolf Blitzer he would consider leaving the Democratic Party if its platform adopted anti‑Israel positions, framing Israel support as a personal “red line.”",
-    "Blitzer highlighted AIPAC’s $30 million spend backing Rep. Haley Stevens and potential multi‑million support for GOP Mike Rogers, questioning why Fetterman makes a foreign issue his defining litmus test.",
-    "New Maine polls show progressive Troy Jackson overtaking GOP Sen. Susan Collins, while Donald Trump’s fluctuating stance on Iran continues to dominate headlines."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260806103048.3.19c6efe3f4eef305@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Good News Trump Won’t Mention",
-   "date": "2026-08-06T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-good-news-trump-wont-mention",
-   "bullets": [
-    "U.S. murder rates, which spiked after Covid, have been falling and are now near 1960s lows in major cities like New York, a trend credited by many to Biden‑era social programs such as the American Rescue Plan.",
-    "Krugman argues Trump stays silent on declining crime because he despises cities, clings to an outdated 1980s view of urban violence, and uses punitive rhetoric as a political end, not a means to improve safety.",
-    "He notes Trump’s false claims routinely ignore positive developments, preferring to blame “radical left” pollsters while promoting a narrative of cruelty and punishment."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 77,
-  "total": 328
+  "shown": 76,
+  "total": 326
  }
 }
