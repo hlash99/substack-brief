@@ -1,28 +1,18 @@
 {
- "updated": "2026-09-06T10:09-07:00",
+ "updated": "2026-09-06T18:08-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The GOP’s electoral outlook is in turmoil, with dark‑money influxes reshaping North Carolina races, surprising poll shifts in New Hampshire and Texas, and Republican candidates like Pennsylvania’s Stacy Garrity trailing badly funded Democrats (The Bulwark, Zeteo, Roy Cooper).",
-   "Trump’s authoritarian tactics are escalating, from attempts to seize mail‑in voting and gold reserves to dismantling Haitian TPS and promoting extremist immigration enforcement (The Bulwark, Zeteo, Adrian Carrasquillo).",
-   "U.S. foreign policy is under strain as the administration pushes a risky Iran confrontation while Israel’s war in Gaza fuels global criticism and even cultural pushback against shows like Netflix’s ‘Fauda’ (Bill Kristol & Andrew Egger, Zeteo).",
-   "Energy and climate debates are heating up, with Doomberg highlighting a looming water‑by‑oil breakthrough in the Permian and Krugman warning that Trump’s war‑driven fuel policies are spiking gasoline prices (Doomberg, Paul Krugman).",
-   "Media and cultural battles are intensifying, exemplified by Fox News firing Maria Bartiromo amid Trump ties, debates over film tax credits, and controversies over Elon Musk’s antisemitic poll influencing GOP donors (The Bulwark, Sonny Bunch, First Draft | Zeteo)"
+   "Democrats are racing to build a data‑driven, grassroots coalition in the South, from Newsom’s outreach to Black voters in South Carolina to Longwell’s call for Republican‑style infrastructure, aiming to capitalize on Trump’s repeated failures (The Bulwark).",
+   "A wave of dark‑money rulings and super‑PAC spending is reshaping North Carolina and national races, with the Supreme Court opening unlimited party funding and GOP war chests swelling to near $100 million (Roy Cooper, The Bulwark).",
+   "Texas Senate hopeful James Talarico is poised to exploit a “perfect storm” of rising living costs, low Governor Paxton favorability, and growing Latino outreach, making the race one of the most competitive of the 2026 cycle (Zeteo).",
+   "Geoeconomic scholars warn that control over global networks—from the dollar to rare‑earth supply chains—is becoming a coercive tool for states like the U.S., China and Iran, reshaping the nature of trade conflict (Paul Krugman).",
+   "Marking 25 years since 9/11, Zeteo’s essay series revisits the tragedy’s long‑term impact on America, the Middle East and U.S. foreign policy, featuring voices from bereaved families to dissenting generals (Zeteo).",
+   "Critics argue Netflix’s renewal of the Israeli series “Fauda” effectively platforms propaganda that normalizes occupation‑era tactics, sparking a broader debate over media responsibility in the Israel‑Palestine conflict (Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20260903095637.3.50ac302eddc2ef7e@mg2.substack.com",
-   "20260903113645.3.32bc1fe82dddeba0@mg2.substack.com",
-   "20260903132735.3.1f7668d699eb9360@mg2.substack.com",
-   "20260903150321.3.e8fb89a2aea8b732@mg-d0.substack.com",
-   "20260903150700.3.5ef09adc8aa67a4f@mg-d0.substack.com",
-   "20260903162658.3.563339a4761597b7@mg2.substack.com",
-   "20260903170114.3.a06c9d41bd429ded@mg-d0.substack.com",
-   "20260903190612.3.72194f0828650bf3@mg2.substack.com",
-   "20260903213045.3.791dd8fb05180390@mg2.substack.com",
-   "20260904002410.3.1fa5d9d0eda38870@mg2.substack.com",
-   "20260904010037.3.7402d1cd79e8ea62@mg2.substack.com",
    "20260904100337.3.9135e927f4ab56bc@mg2.substack.com",
    "20260904105931.3.5e5f6fb96b0b46ab@mg-d0.substack.com",
    "20260904110035.3.589a1b34748828ac@mg2.substack.com",
@@ -38,18 +28,66 @@
    "20260905014337.3.40def369dcb20e39@mg2.substack.com",
    "20260905090049.3.b24e4d3c4eda765e@mg-d1.substack.com",
    "20260905102107.3.d87bfe8ad95f04ed@mg-d1.substack.com",
+   "20260905111545.3.452fe8b460b827df@mg2.substack.com",
    "20260905130056.3.d0723293244adf84@mg-d0.substack.com",
    "20260905130105.3.ab508999e4bcb3b3@mg2.substack.com",
    "20260905130300.3.ed19f2856669fd3b@mg2.substack.com",
    "20260905170113.3.c6f0839339140177@mg-d0.substack.com",
    "20260905180425.3.5252c5c4c6cf50b8.tcre6t2v@mg1.substack.com",
    "20260905203320.3.b3ec1b7a4e9203b7@mg-d1.substack.com",
-   "20260906001513.3.8543c45911a98f2b@mg-d0.substack.com"
+   "20260906001513.3.8543c45911a98f2b@mg-d0.substack.com",
+   "20260906115556.3.c6d2ebf70007c0e8@mg2.substack.com",
+   "20260906123122.3.e144d573beadd862@mg-d0.substack.com",
+   "20260906130129.3.a5357ad29f6016ba@mg2.substack.com",
+   "20260906165912.3.af69006885d048d5@mg-d0.substack.com",
+   "20260906191706.3.6114888dc8481193@mg-d1.substack.com",
+   "20260906200207.3.854b899e819108b1@mg-d1.substack.com",
+   "20260906234751.3.b47e6436b8f6707c@mg-d1.substack.com"
   ],
-  "updated": "2026-09-05T18:06-07:00",
+  "updated": "2026-09-06T18:08-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260906234751.3.b47e6436b8f6707c@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "What South Carolina Dems Really Think of Newsom",
+   "date": "2026-09-06T16:47-07:00",
+   "url": null,
+   "bullets": [
+    "Governor Gavin Newsom drew hundreds of mostly trans‑plant Democratic retirees to the historic Penn Center in South Carolina, highlighting his bid to court Southern Black voters ahead of the 2028 primary calendar.",
+    "The visit underscores the strategic importance of South Carolina’s Black electorate, as outlined by Obama campaign veteran David Plouffe, who says winning there and later Virginia could virtually guarantee the nomination.",
+    "While Newsom’s charisma, fundraising, and recent redistricting success boost his frontrunner status, South Carolina Democratic operatives remain skeptical about his cultural fit and ability to bridge regional gaps."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260906200207.3.854b899e819108b1@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "25 Years Since 9/11: 13 Numbers That Tell the Story",
+   "date": "2026-09-06T13:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/25-years-since-911-13-numbers-that",
+   "bullets": [
+    "Zeteo will publish a week of essays and interviews marking the 25th anniversary of 9/11, featuring contributors Spencer Ackerman, Fatima Bhutto, Viet Thanh Nguyen, and interviews with two bereaved mothers and a four‑star U.S. general who opposed the Iraq invasion.",
+    "The series aims to go beyond mainstream media’s superficial coverage, examining the tragedy’s impact on America, the Middle East, and the world, and is available to paid subscribers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260906191706.3.6114888dc8481193@mg-d1.substack.com",
+   "newsletter": "Bill Kristol — The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Sarah Longwell: Trump’s Failures Give Democrats a Once-in-a-Generation Opening | Bulwark on Sunday",
+   "date": "2026-09-06T12:17-07:00",
+   "url": null,
+   "bullets": [
+    "Kristol and Longwell argue that Trump’s repeated failures create a rare, generational chance for Democrats to win by building a broad pro‑democracy coalition informed by voter focus‑group data.",
+    "They propose that Democrats should adopt Republican‑style infrastructure—local voter outreach, data‑driven messaging, and disciplined organization—to counter Trumpism effectively."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260906165912.3.af69006885d048d5@mg-d0.substack.com",
    "newsletter": "Roy Cooper",
@@ -4443,80 +4481,10 @@
     "The administration’s bad‑faith policies—re‑imposing tariffs on 60 nations, cutting food‑stamp benefits, and denying FEMA aid to blue states—combined with Pentagon misinformation have depleted precision munitions in the Iran war, creating self‑inflicted national‑security disasters."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260807010035.3.a043a32715869a56@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "How Trump Is Turning the U.S. Intel Community Into an Election-Rigging Machine",
-   "date": "2026-08-06T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/how-trump-is-turning-the-us-intel",
-   "bullets": [
-    "Ian Bassin, former Obama White House lawyer, says Trump is turning U.S. intelligence agencies into tools for personal power, a tactic he likens to dictators’ playbooks.",
-    "Trump‑backed Georgia election officials have been in contact with a White House election‑security official, showing coordination between the administration and the election‑denial movement at the local level.",
-    "Two senior U.S. officials told Zeteo that no classified evidence exists of foreign interference in the 2020 election, yet aides repeatedly fed Trump false assurances to sustain his false claim of a stolen election."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260806223133.3.08e8f56963dff9ca@mg-d0.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "We’re not backing down",
-   "date": "2026-08-06T15:31-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark has over 140,000 paid subscribers",
-    "The company grew from a Never Trump passion project",
-    "Bulwark+ members get premium content and ad-free experience"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260806210104.3.01e83388a99ddcf7@mg-d0.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "An author’s $2 million book deal was pulled over suspected AI use. Where does publishing go from here?",
-   "date": "2026-08-06T14:01-07:00",
-   "url": "https://post.substack.com/p/an-authors-2-million-book-deal-was",
-   "bullets": [
-    "Jerry Falade's $2 million book deal was pulled over suspected AI use",
-    "Falade denies allegations, citing racial bias in scrutiny of Black authors",
-    "Publishing industry experts discuss need for AI detection training and robust literary culture"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260806200034.3.8cd2051646799263@mg-d0.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "DEBUNKED: Why This Pro-Israel NYT Columnist Is WRONG About Gaza",
-   "date": "2026-08-06T13:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/gaza-genocide-bret-stephens",
-   "bullets": [
-    "Mehdi debunks Bret Stephens' claim that calling Gaza a genocide is farcical",
-    "Bret Stephens is a pro-Israel New York Times columnist",
-    "Mehdi's video brings evidence to counter Stephens' argument"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260806190101.3.f70a693185ac62fe@mg-d1.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Did MAGA Infiltrate the Green Party in Michigan?",
-   "date": "2026-08-06T12:01-07:00",
-   "url": null,
-   "bullets": [
-    "Michigan's 7th district is a hotly contested congressional seat.",
-    "William Lawrence won the Democratic primary with secret conservative group support.",
-    "Shane Dedrick is the Green Party candidate with a unclear background."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 76,
-  "total": 326
+  "shown": 75,
+  "total": 324
  }
 }
