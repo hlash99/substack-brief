@@ -1,21 +1,18 @@
 {
- "updated": "2026-09-07T11:47-07:00",
+ "updated": "2026-09-07T18:15-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Democrats are seizing a rare strategic opening to build a data‑driven, grassroots coalition against Trumpism, highlighted in The Bulwark (Longwell, Kristol) and Zeteo's coverage of the RNC convention.",
-   "Key Senate races in Texas, North Carolina, and New Hampshire are turning into tight contests as demographic shifts and candidate outreach create \"perfect storms\" for Democrats, reported by Zeteo and The Bulwark.",
-   "The Supreme Court's dark‑money ruling and massive GOP super‑PAC spending are reshaping North Carolina politics, a development covered by Roy Cooper and The Bulwark.",
-   "International tensions and extremist alliances are rising, with neo‑Nazi praise for Germany's AfD and escalating violence in Gaza, analyzed by Paul Krugman and Zeteo.",
-   "Tech and energy challenges are prompting calls for innovation, from Doomberg's focus on water‑by‑oil solutions in the Permian to discussions of weaponized interdependence by Paul Krugman."
+   "Trump's authoritarian push is reshaping media and elections, from FCC chief Brendan Carr's censorship pledge to whistleblower warnings about mail‑in voting restrictions (Zeteo, The Bulwark, This Week in Democracy).",
+   "Republican midterm prospects are collapsing as the party distances itself from Trump, with declining MAGA merchandise, internal criticism, and a looming blue wave in key states (The Bulwark, Zeteo, Bill Kristol).",
+   "Democrats are mobilizing a data‑driven, grassroots strategy to capitalize on Republican disarray, highlighted by Sarah Longwell's upcoming book and calls for voter‑by‑voter outreach (The Bulwark, Sarah Longwell).",
+   "State races are tightening, notably in Texas and New Hampshire, where demographic shifts and candidate dynamics could flip Senate seats (Zeteo, Zeteo).",
+   "International tensions and economic coercion are rising, as Krugman explains weaponized interdependence and the resurgence of far‑right movements in Europe (Paul Krugman).",
+   "Energy innovation remains critical, with Doomberg flagging water‑by‑oil challenges in the Permian as a catalyst for new technologies (Doomberg)."
   ],
   "by": "groq",
   "ids": [
-   "20260904190906.3.36b9ec40b4e1d0b6@mg2.substack.com",
-   "20260904200042.3.7b04fcee7a15145b@mg-d1.substack.com",
-   "20260904205655.3.5d067f5272751aa5@mg-d0.substack.com",
-   "20260905000127.3.cc057e584d474099@mg2.substack.com",
    "20260905013748.3.87eca61aa4ff189c@mg-d0.substack.com",
    "20260905014337.3.40def369dcb20e39@mg2.substack.com",
    "20260905090049.3.b24e4d3c4eda765e@mg-d1.substack.com",
@@ -38,12 +35,57 @@
    "20260907013038.3.6f088d5881d0350a@mg-d1.substack.com",
    "20260907111415.3.9fcc652e61cda619@mg-d0.substack.com",
    "20260907125843.3.c46367c9ff20c85f@mg2.substack.com",
-   "20260907130338.3.4a303523ae055e4d@mg2.substack.com"
+   "20260907130338.3.4a303523ae055e4d@mg2.substack.com",
+   "20260907201208.3.01c97205392dc74c@mg-d0.substack.com",
+   "20260907230117.3.e1f93e6877576654@mg2.substack.com",
+   "20260908010116.3.34d5399ed23721f0@mg-d1.substack.com"
   ],
-  "updated": "2026-09-07T11:47-07:00",
+  "updated": "2026-09-07T18:15-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260908010116.3.34d5399ed23721f0@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Meet Trump’s Censor-in-Chief",
+   "date": "2026-09-07T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/meet-trumps-censor-in-chief",
+   "bullets": [
+    "Brendan Carr, FCC chairman and former libertarian advocate, now serves as Trump’s \"chief censor,\" echoing Trump’s recent threats to punish NBC anchor Kristen Welker and sanction outlets reporting low approval polls.",
+    "Carr publicly pledged to act against broadcasters he claims are breaking a \"deal with the American people,\" aligning his regulatory power with Trump’s post‑election media war.",
+    "The newsletter links to a supercut of cable news’s most extreme comments about streamer Hasan Piker as part of its coverage."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260907230117.3.e1f93e6877576654@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Kash Patel’s Embarrassing Video Botches the Name of the FBI",
+   "date": "2026-09-07T16:01-07:00",
+   "url": null,
+   "bullets": [
+    "Republicans on the brink of midterms are quietly distancing from Trump, removing his photos and endorsements from campaign sites and skipping his convention as he becomes a liability.",
+    "The once‑lucrative MAGA merchandise market is collapsing, with sales plummeting and Trump’s own post about renaming New Mexico highlighting the brand’s decline.",
+    "A video using AI‑generated footage of Kash Patel mistakenly calls the FBI the “FBI’s Bureau,” exposing the gaffe and underscoring the administration’s sloppy propaganda tactics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260907201208.3.01c97205392dc74c@mg-d0.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Bill Kristol: Trump Is Turning a Bad Midterm Into a Republican Catastrophe",
+   "date": "2026-09-07T13:12-07:00",
+   "url": null,
+   "bullets": [
+    "Kristol warns that Trump’s strategy is turning a historically weak 2022 midterm for Republicans into a full‑blown catastrophe, echoing the 2006 and 1994 wave defeats that toppled incumbent parties.",
+    "He cites 1994’s end‑of‑era backlash and 2006’s anti‑war, scandal‑driven revolt as warning signs that a demoralized base and unpopular policies can trigger a massive blue wave, potentially spilling into 2026.",
+    "The episode is a holiday podcast featuring Tim Miller’s 2006 campaign recollections and Bill Kristol’s “Morning Shots” advice, plus promotion for the Bulwark LIVE Good Fight Tour in October."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260907130338.3.4a303523ae055e4d@mg2.substack.com",
    "newsletter": "Zeteo",
@@ -4367,63 +4409,10 @@
     "Morris argues polling shows Abdul El‑Sayed’s odds in Michigan are statistically indistinguishable from a more moderate Democrat, contradicting pundit claims that his progressive stance makes a Democratic Senate win unlikely"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260808010028.3.fc75b9748f43b581@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "We May Need ‘Massive Boycotts’ to Stop Trump, Says Democracy Expert",
-   "date": "2026-08-07T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/we-may-need-massive-boycotts",
-   "bullets": [
-    "Democracy Forward’s Skye Perryman warned that massive boycotts and work stoppages may become necessary to counter the Trump‑Vance administration’s alleged election‑rigging ahead of the 2026 midterms.",
-    "Zeteo’s four‑part ‘Start the Steal’ series details how the Trump‑Vance team is using authoritarian tactics to rig elections and how nonprofits, activists, and Democrats are fighting back.",
-    "A recent town hall with Zeteo host Mehdi, Asawin “Swin” Suebsaeng, and Perryman discussed voter threats, potential coups, and the impact of collective action forcing the administration to back down."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260807211527.3.8beed0bb80a8dd0f@mg-d1.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 81: Trump’s Corruption Is Off the Charts",
-   "date": "2026-08-07T14:15-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-81-trumps",
-   "bullets": [
-    "Abdul El‑Sayed won the Michigan Senate primary against a $60 million AIPAC‑backed field, showing voters can defeat well‑funded opponents; Trump’s Justice Department is pushing to dismiss Jan. 6 charges against Oath Keepers while ICE collected DNA from ~920,000 immigrants in 2025, many never convicted.",
-    "Trump launched a $100,000‑per‑month premium Truth Social API that could let traders profit from his posts; he also signed executive orders to restrict birthright citizenship and to limit foreign births, despite a Supreme Court ruling upholding the right.",
-    "ICE’s 2025 DNA collection became the largest new source for the FBI’s criminal database, and the Trump administration is again attempting to remove Fed Governor Lisa Cook after a Supreme Court decision allowed her to stay in office."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260807203257.3.c63c7298a79ffd53@mg2.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The GOAT Episode",
-   "date": "2026-08-07T13:32-07:00",
-   "url": null,
-   "bullets": [
-    "JVL and Tim hosted a large show featuring Callista Gingrich’s uncanny performance, Thom Tillis’s new “burn book,” Tucker Carlson’s presidential run, and a discussion on burrito discourse, all highlighted as a classic episode."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260807195316.3.370fb3270022774d@mg2.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Government Shouldn’t Pick Winners and Losers in Media",
-   "date": "2026-08-07T12:53-07:00",
-   "url": null,
-   "bullets": [
-    "The FCC voted to eliminate the 39% national ownership cap, allowing media giants like Sinclair to consolidate local stations, a move defended by FCC Chair Brendan Carr as a case‑by‑case review of localism, viewpoint diversity, and competition.",
-    "Free Press argues the FCC lacks authority to lift the cap without congressional action, warning that the change will enable a few dominant broadcasters to dominate markets, cut journalist jobs, and flood local news with low‑quality content."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 75,
-  "total": 320
+  "shown": 74,
+  "total": 319
  }
 }
