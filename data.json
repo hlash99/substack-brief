@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T10:58-07:00",
+ "updated": "2026-09-08T18:19-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -44,6 +44,84 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260909010823.3.6bafec2d0eecb005@mg2.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Imaginary Presidency Is Going Just Great",
+   "date": "2026-09-08T18:08-07:00",
+   "url": null,
+   "bullets": [
+    "Tim, Sarah, and JVL discuss Trump's Labor Day Weekend with his favorite person, Corey Lewandowski's possible ‘light extortion,’ and whether Trumpworld will circle the wagons around him. Plus: why the GOP's midterm convention shows Trump los…",
+    "Watch, listen, and leave a comment [ https://substack.com/redirect/599f067b-4736-4647-ace4-f9e0b1fb1982?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]. Get your tickets for  [ https://substack.com/redirect/553b04e6-2933…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260909010036.3.9db784dc3881f9bd@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "He Lost His Father on 9/11. 25 Years Later, He Is Part of a Lawsuit Against Saudi Arabia",
+   "date": "2026-09-08T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/he-lost-his-father-on-911-25-years",
+   "bullets": [
+    "Brett Eagleson, president of 9/11 Justice and son of victim Bruce, claims evidence from the civil lawsuit against Saudi Arabia shows a systematic U.S. cover‑up of Saudi involvement in the 2001 attacks.",
+    "Eagleson accuses former President Trump of a cozy relationship with Crown Prince Mohammed bin Salman, blaming him for failing to secure Saudi admission of culpability and for blocking NYC Mayor Zohran Mamdani from attending a Ground Zero commemoration."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260908233155.3.46745c94bb74235f@mg-d1.substack.com",
+   "newsletter": "Tim Miller",
+   "pub": "thebulwark",
+   "subject": "Marco Rubio Is Punishing a Teenage Boy for His Grandmother’s Sins",
+   "date": "2026-09-08T16:31-07:00",
+   "url": null,
+   "bullets": [
+    "Marco Rubio used a 1990 immigration provision to detain Maryam Tahmasebi, her husband Eissa, and their teenage son indefinitely in Texas, citing a “serious adverse foreign policy consequence” linked only to their relative, former 1979 hostage‑taker spokesperson Masoumeh Ebtekar, despite no evidence of criminal activity or national‑security threat.",
+    "The family, all green‑card holders with no immigration violations, have been denied basic due‑process rights, medical care, and any pathway out of detention for over five months, while the U.S. government has offered no solution and has even blocked their voluntary departure to Turkey."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260908212557.3.77a392a3aabd414a@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "A Jewish Foreign Secretary Just Announced a Trade Ban on Israeli Settlements. Give Ed Miliband Credit, as the Bad-…",
+   "date": "2026-09-08T14:25-07:00",
+   "url": null,
+   "bullets": [
+    "Editor’s Note: We thought you might find this piece from Mehdi on Zeteo UK a worthwhile read, so we are sending it to Zeteo subscribers as well. If you’re currently only a Zeteo subscriber but want to get more content like this from Zeteo U…",
+    "When Foreign Secretary Ed Miliband was 7 years old, and a pupil at elementary school in Massachusetts during his father’s professorship at Brandeis University, he faced a tricky personal question from his new American teacher. Was he an Epi…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260908191855.3.8642fa2f09e35437@mg2.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Mike Johnson Wants You to Grade the House GOP on a Curve",
+   "date": "2026-09-08T12:18-07:00",
+   "url": null,
+   "bullets": [
+    "House Speaker Mike Johnson claims the 119th Congress is the most productive since 1949, but GovTrack data shows only 1% of introduced bills became law (2% if bundled), the lowest success rate since the 93rd Congress (1973‑74)",
+    "The 119th Congress oversaw the longest U.S. government shutdown on record—43 days in fall 2025—and recorded the fewest first‑session votes of any 21st‑century Congress",
+    "Passed legislation, including the “One Big Beautiful Bill Act” tax cuts, has slashed revenue and pushed the federal deficit higher, contradicting GOP claims of fiscal prudence"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260908183632.3.81c3df17e0684066@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "🚨 BIG News: The Zeteo App Is Here!",
+   "date": "2026-09-08T11:36-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/big-news-the-zeteo-app-is-here",
+   "bullets": [
+    "Zeteo announced a new mobile app for iOS and Android, offering full access to its reporting, interviews, shows, audio narration, and offline saving, with push alerts as an alternative to email."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260908163043.3.2f26acb5e59ae22d@mg-d0.substack.com",
    "newsletter": "JVL - The Bulwark",
@@ -93,10 +171,10 @@
    "date": "2026-09-08T07:46-07:00",
    "url": null,
    "bullets": [
-    "THERE’S ONE QUESTION I’VE GOTTEN more than any other from media and political types about the focus groups during the Trump era: What do swing voters think about [whatever the latest Washington scandal happens to be]. Maybe it’s some legal …",
-    "The answer is almost always the same: They don’t. Generally speaking, voters who aren’t highly engaged news consumers don’t track Trump’s many scandals. There are like ten every day. What regular person has time for all that?"
+    "Focus groups reveal that swing voters largely ignore Trump’s numerous scandals, caring instead about broader issues that affect their daily lives.",
+    "Three consistent issues—though not detailed here—are identified as the primary factors pushing swing voters away from Trump and the GOP."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260908133213.3.e24f2f98e1a0f430@mg-d0.substack.com",
@@ -120,10 +198,11 @@
    "date": "2026-09-08T06:28-07:00",
    "url": null,
    "bullets": [
-    "Labor Day is in the rearview mirror, and the midterms are suddenly only fifty-six days away. Keep your head on a swivel. Happy Tuesday. Join Bill and Andrew for Morning Shots Live at 10:00 a.m. EDT today on Substack [ https://open.substack.…",
-    "I trust you all had a better Labor Day weekend than Donald Trump. On Sunday the president of the United States fired off more than sixty social media posts, each more bizarre than the last. They included frenzied rants, manic boasts, person…"
+    "Trump’s social‑media barrage this week, including AI‑generated memes, shows him “decompensating,” yet he admits his opponents aren’t exhausted, highlighting growing anti‑Trump sentiment.",
+    "Gallup data shows Democrats now lead Republicans by 10 points in party identification, and a Financial Times poll puts Trump’s approval at 32%, down from a 34‑37% range.",
+    "The No Kings coalition is organizing “Vote Early” events on Oct 17 and a massive turnout push for Election Day, aiming to counter alleged election sabotage."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260908121509.3.0e685cca6aef10b2@mg2.substack.com",
@@ -147,10 +226,11 @@
    "date": "2026-09-08T04:38-07:00",
    "url": "https://paulkrugman.substack.com/p/wheres-the-beef-coming-from",
    "bullets": [
-    "“Mary had a little lamb, but when she saw it sicken, she sent it off to Packingtown, and now it’s labeled chicken.” Hi, Paul Krugman here. That’s a little ditty that was circulating, I can’t find any original source, around 1905, when Upton…",
-    "The topic today is Donald Trump and beef, because here we are back in Upton Sinclair territory. So you may have seen that last month Trump announced, given that we have high beef prices, that he was going to allow the tariff-free import of …"
+    "Trump announced a tariff‑free import of 300,000 tons of ground beef, initially without naming source countries, later citing Brazil, Argentina and others, sparking safety concerns.",
+    "The policy followed a closed‑door meeting with a Brazilian meat‑packing billionaire—a major Trump donor—highlighting alleged corruption and lack of inter‑agency review.",
+    "EU recently banned Brazilian beef over antibiotic standards, and U.S. ranchers and food‑safety experts fear the imports will undermine confidence in American beef safety."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260908112832.3.f11c7c94234cd855@mg2.substack.com",
@@ -4424,7 +4504,7 @@
   }
  ],
  "counts": {
-  "shown": 74,
-  "total": 320
+  "shown": 76,
+  "total": 326
  }
 }
