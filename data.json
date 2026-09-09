@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T18:19-07:00",
+ "updated": "2026-09-09T10:53-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -45,6 +45,113 @@
  },
  "items": [
   {
+   "id": "20260909164244.3.73eedef62f87e1ae@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "There’s Something About Sarah",
+   "date": "2026-09-09T09:42-07:00",
+   "url": null,
+   "bullets": [
+    "Sarah Longwell transformed The Bulwark from a nonprofit link aggregator into a for‑profit media property, growing its audience to 12,000 members in weeks and securing both small‑ and large‑donor support.",
+    "The author credits Sarah’s relentless energy and commitment to human dignity for turning a failed journalism team into a thriving media venture, even at personal risk and against his initial opposition.",
+    "Sarah’s book, \"How to Eat an Elephant,\" outlines an eight‑year research‑based strategy to counter fascism, advocating a hopeful, collective rebuild of America despite the author’s more pessimistic view of the nation’s future."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260909163740.3.221a5db4accb6cc6@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "How the ‘War on Terror’ Went Global - and Backfired on the United States",
+   "date": "2026-09-09T09:37-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/how-the-war-on-terror-went-global",
+   "bullets": [
+    "Note from our Editor-in-Chief: Friday marks 25 years since the horrific attacks on September 11, 2001. While mainstream media – many of the same news organizations that amplified the post-9/11 lies that paved the way for the invasion of Ira…",
+    "Watch your inbox this week for more insightful essays from Zeteo contributors, including Fatima Bhutto and Viet Thanh Nguyen. Plus, I will also be interviewing two mothers who lost their children on 9/11, a four-star U.S. general who became…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260909161044.3.8f09efe1d2ddbd82@mg2.substack.com",
+   "newsletter": "Smart People Talking",
+   "pub": "smartpeopletalking",
+   "subject": "I have an opportunity to go to the United Nations in Geneva. I need your help getting there.",
+   "date": "2026-09-09T09:10-07:00",
+   "url": "https://smartpeopletalking.substack.com/p/i-have-an-opportunity-to-go-to-the",
+   "bullets": [
+    "The author, a climate and disaster scientist with experience in hurricanes, public health, and science communication, seeks to attend a 30‑person UN Climate Change Study Programme in Geneva before COP31, requiring an urgent $3,000 program fee and a total $8,000 for travel and expenses."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260909132206.3.cf56781141fa68c5@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Our Orange Napoleon Wants a Big Arch",
+   "date": "2026-09-09T06:22-07:00",
+   "url": null,
+   "bullets": [
+    "Donald Trump’s campaign in Dallas is a spectacle to convince voters that the Trump experiment is thriving, with Trump speaking twice amid NFL games that likely won’t attract blue‑state viewers.",
+    "Interior Secretary Doug Burgum proposes a 250‑ft “Great Triumphal Arch” over Arlington Cemetery, echoing Napoleon’s Arc de Triomphe, sparking criticism that it’s an un‑American, imperial‑style monument and a threat to the solemnity of the site.",
+    "AI safety experts, including Jacob Coxon and Evan Hubinger, warn that rapid progress toward self‑improving superintelligence could pose an existential risk, estimating a >10% chance of AI killing humanity within the next decade."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260909111010.3.ae91c1beb61f235a@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Why Are Democrats Allowing Republicans to Smear Their Most Popular Politician? Because He’s Muslim",
+   "date": "2026-09-09T04:10-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-are-democrats-allowing-republicans",
+   "bullets": [
+    "📱 If our emails sometimes get buried in your inbox, we’ve got another way for you to keep up to date: the new Zeteo app [ https://substack.com/redirect/d8e63e87-0792-46c4-8498-039df0e3fdf1?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6c…",
+    "Good morning, and welcome to Wednesday. Martin here. It seems hard to believe we’re only halfway through a four-day week, such is the ongoing torrent of political news in Donald Trump’s America. But we’ve got you covered, as always, when it…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260909110101.3.114d9007239d903f@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Trump-a-palooza Is a Gift to Democrats",
+   "date": "2026-09-09T04:01-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/trump-a-palooza-is-a-gift-to-democrats",
+   "bullets": [
+    "Trump’s self‑focused “Trump‑a‑palooza” convention and his new Securing American Greatness PAC ads glorify him without policy content, despite a Pew poll showing 76% of voters view the economy negatively.",
+    "Republican strategists claim the ads boost enthusiasm, but Economist/YouGov data shows strong Trump approval among Republicans has fallen 20 points since early 2025, undermining turnout potential.",
+    "Pfeiffer argues that centering Trump now energizes Democrats and alienates independents, making the strategy a gift to Democrats rather than a GOP advantage."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260909105915.3.0ab1a992f8a8bae4@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Adding Injury to Insult, Canada Edition",
+   "date": "2026-09-09T03:59-07:00",
+   "url": "https://paulkrugman.substack.com/p/adding-injury-to-insult-canada-edition",
+   "bullets": [
+    "Krugman argues the US‑Canada trade dispute is a gratuitous, Trump‑driven stunt, noting Canada’s modest goods surplus was offset by a US services surplus, leaving overall trade near balanced.",
+    "He highlights Canada’s outsized role in key US inputs—70% of Midwest refined oil, ~60% of US aluminum, and almost all spruce‑pine‑fir lumber—so a trade war would hurt the US economy more than Trump assumes.",
+    "Krugman warns that while the US could endure a costly trade war, Canada’s smaller economy would suffer proportionally greater damage, making the conflict both economically foolish and a humiliation for US leadership."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260909090058.3.ad7a33a3d63c548b@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Falkland Around",
+   "date": "2026-09-09T02:00-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/falkland-around",
+   "bullets": [
+    "“I was spoiled by theater, where there is no editor.” – Anthony Edwards In March of 2013, 1,517 inhabitants of what the United Nations (UN) officially refers to as the Falkland Islands (Malvinas) went to the polls to vote on a sovereignty r…",
+    "The UN has included the islands on its list of Non-Self-Governing Territories since 1946, simply noting that a sovereignty dispute exists between the UK and Argentine governments over the territory. The bit in parentheses is a nod to the la…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20260909010823.3.6bafec2d0eecb005@mg2.substack.com",
    "newsletter": "Tim, Sarah and JVL - The Bulwark",
    "pub": "thebulwark",
@@ -52,10 +159,11 @@
    "date": "2026-09-08T18:08-07:00",
    "url": null,
    "bullets": [
-    "Tim, Sarah, and JVL discuss Trump's Labor Day Weekend with his favorite person, Corey Lewandowski's possible ‘light extortion,’ and whether Trumpworld will circle the wagons around him. Plus: why the GOP's midterm convention shows Trump los…",
-    "Watch, listen, and leave a comment [ https://substack.com/redirect/599f067b-4736-4647-ace4-f9e0b1fb1982?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]. Get your tickets for  [ https://substack.com/redirect/553b04e6-2933…"
+    "Tim, Sarah, and JVL argue that Trump’s post‑election “presidency” is a fantasy, citing his Labor Day weekend antics and Corey Lewandowski’s alleged “light extortion” as evidence of a crumbling inner circle.",
+    "They claim the GOP’s midterm convention reveals Trump losing his political “fastball,” and criticize ABC News for framing Rudy Giuliani’s Islamophobic remarks about Zohran Mamdani as a news story.",
+    "The hosts also mock Senator John Fetterman’s disengagement, saying he shows “total lack of interest” in fulfilling Senate duties."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260909010036.3.9db784dc3881f9bd@mg-d1.substack.com",
@@ -91,10 +199,11 @@
    "date": "2026-09-08T14:25-07:00",
    "url": null,
    "bullets": [
-    "Editor’s Note: We thought you might find this piece from Mehdi on Zeteo UK a worthwhile read, so we are sending it to Zeteo subscribers as well. If you’re currently only a Zeteo subscriber but want to get more content like this from Zeteo U…",
-    "When Foreign Secretary Ed Miliband was 7 years old, and a pupil at elementary school in Massachusetts during his father’s professorship at Brandeis University, he faced a tricky personal question from his new American teacher. Was he an Epi…"
+    "Jewish Foreign Secretary Ed Miliband announced a UK import ban on goods from Israeli settlements, invoking a new sanctions regime despite opposition from the chief rabbi and Jewish communal groups.",
+    "Critics like former Jewish Chronicle editor Jake Wallis‑Simons and columnist Stephen Daisley accused Miliband of siding with Hamas or using incendiary rhetoric, while UN rapporteur Francesca Albanese says the ban is largely symbolic without a broader shift to enforce ICJ advisory opinions.",
+    "The move, praised by some commentators as a rare challenge to US and Israeli pressure, highlights that opposition to settlement policies is not inherently antisemitic and that the British Jewish community is not monolithic."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260908191855.3.8642fa2f09e35437@mg2.substack.com",
@@ -4407,104 +4516,10 @@
     "Parallel gubernatorial contests in Arizona and Pennsylvania feature other election‑denying Republicans, but Wisconsin’s open governor’s seat makes the stakes uniquely acute for national election integrity."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260809170044.3.f81da7facb893e66@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "8 Unanswered Questions About Jeffrey Epstein’s Death",
-   "date": "2026-08-09T10:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/8-unanswered-questions-about-jeffrey",
-   "bullets": [
-    "Congress passed a law forcing the Justice Department to release Epstein’s files, but the Trump administration allegedly stalled and blocked meetings with victims.",
-    "The article lists eight unresolved issues, starting with why required inmate checks were skipped, highlighting procedural failures that fuel suicide doubts."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260809144207.3.39fc2b330ec9f753@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why Losing Battles are Worth Fighting",
-   "date": "2026-08-09T07:42-07:00",
-   "url": null,
-   "bullets": [
-    "The preview of the latest Triad Mailbag episode features JVL answering listener questions on DSA candidates, census protection, Ross Douthat on “60 Minutes,” Republican authoritarianism, Tolkien’s “long defeat,” Ezra Klein, site redesign, fan shout‑outs, World Cup jerseys, future books, music, comics, and cultural pet‑peeves."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260809130209.3.216efeb7d5624835@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "How Trump's Grip on the GOP Is Slipping — One Primary at a Time",
-   "date": "2026-08-09T06:02-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/how-trumps-grip-on-the-gop-is-slipping",
-   "bullets": [
-    "Trump's 2023 vengeance campaign knocked out several GOP incumbents, but recent primary defeats of his endorsed candidates—like in Indiana and against Thomas Massie—show his influence is waning.",
-    "In 2022 Trump’s kingmaker push backfired, elevating weak candidates such as Herschel Walker and Dr. Oz who lost, prompting him to defer to party professionals and even withdraw support for less electable MAGA hopefuls.",
-    "The notable exception was his backing of Ken Paxton in the Texas GOP runoff, defying operatives who deemed John Cornyn more viable, highlighting Trump’s selective and increasingly contested endorsements."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260809130032.3.11cfdc9cc5349e28@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "‘Republicans Are Trying To Distract You’: Former Wisconsin Democratic Leader Lays Out How to Win in November",
-   "date": "2026-08-09T06:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/republicans-are-trying-to-distract",
-   "bullets": [
-    "Former Wisconsin Democratic Party chair Ben Wikler outlines a strategy to counter GOP gerrymandering, power grabs and voter suppression, detailed in his new book “This Is the Plan.”",
-    "Wikler warns that Republican gubernatorial candidate Tom Tiffany is part of a broader effort to distract voters from economic hardships while Democratic socialist Francesca Hong runs against him.",
-    "The Substack Live featured a Q&A where Wikler discussed his plan to reclaim Wisconsin democracy and urged Democrats to mobilize for the November elections."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260809120212.3.47681317aa3f1872@mg-d1.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "How to Break the Fifty-Year Stalemate on Childcare Policy",
-   "date": "2026-08-09T05:02-07:00",
-   "url": null,
-   "bullets": [
-    "In 1971 Nixon vetoed a bipartisan childcare bill after adviser Pat Buchanan warned it would be “family‑weakening,” starting a half‑century stalemate over federal childcare policy.",
-    "Project 2029, a Democratic‑aligned think tank, proposes a massive childcare package that lets families choose between federally funded universal care or direct cash assistance, aiming to win Republican support.",
-    "Elliot Haspel says the plan reflects an evolution in Democratic thinking, recognizing diverse family needs and offering a simple, choice‑based system to finally break the longstanding impasse."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260809110629.3.ef50fb224a5d7da5@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Against Oligarchy, Part III: Taxing Capital vs. Taxing Labor",
-   "date": "2026-08-09T04:06-07:00",
-   "url": "https://paulkrugman.substack.com/p/against-oligarchy-part-iii-taxing",
-   "bullets": [
-    "Since 2000 the labor share of U.S. income has fallen sharply while the capital share has surged, a trend Krugman links to rising AI investment that favors capital over workers.",
-    "He argues that tax policy shifts since the 1970s have increasingly favored capital—lower rates on dividends, capital gains, and corporate profits—amplifying both income and wealth inequality.",
-    "Krugman calls for reversing the pro‑capital tax bias, warning that without it the AI‑driven economy will further concentrate wealth in the hands of a billionaire oligarchy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260809090214.3.b88b07a82259ca03@mg2.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Endangered Specious",
-   "date": "2026-08-09T02:02-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/endangered-specious",
-   "bullets": [
-    "Energy Secretary Chris Wright, appointed by Trump, has overseen a rapid revival of Venezuela’s oil output, pushing exports above 1 million barrels per day for three consecutive months after a December low of half that level.",
-    "In response to the Iran‑war‑induced oil shock, Wright launched a scaled‑up SPR oil‑exchange program that loans barrels to companies with a premium of up to 24%, returning 35‑40 million barrels of extra oil by next year without congressional approval or taxpayer cost."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 76,
-  "total": 326
+  "total": 327
  }
 }
