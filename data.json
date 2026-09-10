@@ -1,49 +1,112 @@
 {
- "updated": "2026-09-09T10:53-07:00",
+ "updated": "2026-09-09T18:11-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's authoritarian push is reshaping media and elections, from FCC chief Brendan Carr's censorship pledge to whistleblower warnings about mail‑in voting restrictions (Zeteo, The Bulwark, This Week in Democracy).",
-   "Republican midterm prospects are collapsing as the party distances itself from Trump, with declining MAGA merchandise, internal criticism, and a looming blue wave in key states (The Bulwark, Zeteo, Bill Kristol).",
-   "Democrats are mobilizing a data‑driven, grassroots strategy to capitalize on Republican disarray, highlighted by Sarah Longwell's upcoming book and calls for voter‑by‑voter outreach (The Bulwark, Sarah Longwell).",
-   "State races are tightening, notably in Texas and New Hampshire, where demographic shifts and candidate dynamics could flip Senate seats (Zeteo, Zeteo).",
-   "International tensions and economic coercion are rising, as Krugman explains weaponized interdependence and the resurgence of far‑right movements in Europe (Paul Krugman).",
-   "Energy innovation remains critical, with Doomberg flagging water‑by‑oil challenges in the Permian as a catalyst for new technologies (Doomberg)."
+   "Trump’s Dallas convention is a spectacle designed to keep his base energized while Democrats counter‑program with rallies, fact‑checks, and food drives, underscoring the GOP’s shift from policy to personality (The Bulwark, Zeteo).",
+   "The Democratic Party is grappling with accusations of antisemitism as some leaders equate anti‑Zionism with anti‑Jew sentiment, while others argue criticism of Israel can coexist with progressive values (Mehdi Unfiltered).",
+   "North Carolina’s midterm race is a high‑stakes showdown, with GOP dark‑money spending nearly $100 million and the possibility of a $600 million surge threatening to flip the Senate seat (Roy Cooper).",
+   "Trump’s post‑election media war—ranging from AI‑generated memes to FCC censorship—has eroded his brand and sparked a broader debate about free speech and political accountability (The Bulwark, Zeteo).",
+   "The U.S. trade war with Canada, driven by Trump’s rhetoric, risks harming American supply chains for oil, aluminum, and lumber, while a tariff‑free beef import deal raises safety and corruption concerns (Paul Krugman).",
+   "Israel‑settlement sanctions announced by the UK’s Jewish Foreign Secretary highlight the growing international pressure on Israel and the domestic backlash from Jewish communities, complicating U.S. foreign‑policy calculations (Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20260905013748.3.87eca61aa4ff189c@mg-d0.substack.com",
-   "20260905014337.3.40def369dcb20e39@mg2.substack.com",
-   "20260905090049.3.b24e4d3c4eda765e@mg-d1.substack.com",
-   "20260905102107.3.d87bfe8ad95f04ed@mg-d1.substack.com",
-   "20260905111545.3.452fe8b460b827df@mg2.substack.com",
-   "20260905130056.3.d0723293244adf84@mg-d0.substack.com",
-   "20260905130105.3.ab508999e4bcb3b3@mg2.substack.com",
-   "20260905130300.3.ed19f2856669fd3b@mg2.substack.com",
-   "20260905170113.3.c6f0839339140177@mg-d0.substack.com",
-   "20260905180425.3.5252c5c4c6cf50b8.tcre6t2v@mg1.substack.com",
-   "20260905203320.3.b3ec1b7a4e9203b7@mg-d1.substack.com",
-   "20260906001513.3.8543c45911a98f2b@mg-d0.substack.com",
-   "20260906115556.3.c6d2ebf70007c0e8@mg2.substack.com",
-   "20260906123122.3.e144d573beadd862@mg-d0.substack.com",
-   "20260906130129.3.a5357ad29f6016ba@mg2.substack.com",
-   "20260906165912.3.af69006885d048d5@mg-d0.substack.com",
-   "20260906191706.3.6114888dc8481193@mg-d1.substack.com",
-   "20260906200207.3.854b899e819108b1@mg-d1.substack.com",
-   "20260906234751.3.b47e6436b8f6707c@mg-d1.substack.com",
    "20260907013038.3.6f088d5881d0350a@mg-d1.substack.com",
    "20260907111415.3.9fcc652e61cda619@mg-d0.substack.com",
    "20260907125843.3.c46367c9ff20c85f@mg2.substack.com",
    "20260907130338.3.4a303523ae055e4d@mg2.substack.com",
    "20260907201208.3.01c97205392dc74c@mg-d0.substack.com",
    "20260907230117.3.e1f93e6877576654@mg2.substack.com",
-   "20260908010116.3.34d5399ed23721f0@mg-d1.substack.com"
+   "20260908010116.3.34d5399ed23721f0@mg-d1.substack.com",
+   "20260908104537.3.0456c431ca1e25a3@mg2.substack.com",
+   "20260908112832.3.f11c7c94234cd855@mg2.substack.com",
+   "20260908113841.3.9233187add588dc3@mg-d0.substack.com",
+   "20260908121509.3.0e685cca6aef10b2@mg2.substack.com",
+   "20260908132849.3.4202290aed297936@mg2.substack.com",
+   "20260908133213.3.e24f2f98e1a0f430@mg-d0.substack.com",
+   "20260908144606.3.f13b8cddf5abcafb@mg-d0.substack.com",
+   "20260908150443.3.79b58704ca2bbf77@mg-d0.substack.com",
+   "20260908152117.3.7cbcb8696fa06eb1@mg2.substack.com",
+   "20260908163043.3.2f26acb5e59ae22d@mg-d0.substack.com",
+   "20260908183632.3.81c3df17e0684066@mg-d1.substack.com",
+   "20260908191855.3.8642fa2f09e35437@mg2.substack.com",
+   "20260908212557.3.77a392a3aabd414a@mg-d0.substack.com",
+   "20260908233155.3.46745c94bb74235f@mg-d1.substack.com",
+   "20260909010036.3.9db784dc3881f9bd@mg-d1.substack.com",
+   "20260909010823.3.6bafec2d0eecb005@mg2.substack.com",
+   "20260909090058.3.ad7a33a3d63c548b@mg-d1.substack.com",
+   "20260909105915.3.0ab1a992f8a8bae4@mg-d1.substack.com",
+   "20260909110101.3.114d9007239d903f@mg2.substack.com",
+   "20260909111010.3.ae91c1beb61f235a@mg-d0.substack.com",
+   "20260909132206.3.cf56781141fa68c5@mg-d0.substack.com",
+   "20260909161044.3.8f09efe1d2ddbd82@mg2.substack.com",
+   "20260909163740.3.221a5db4accb6cc6@mg-d0.substack.com",
+   "20260909164244.3.73eedef62f87e1ae@mg2.substack.com",
+   "20260909185845.3.64995653a930c047@mg-d1.substack.com",
+   "20260909202014.3.303cb5e9466a314b@mg2.substack.com",
+   "20260909210054.3.43ee1364abcef35b@mg2.substack.com",
+   "20260909213334.3.75870218ca0273cc@mg-d0.substack.com"
   ],
-  "updated": "2026-09-07T18:15-07:00",
+  "updated": "2026-09-09T18:11-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260909213334.3.75870218ca0273cc@mg-d0.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Dems to Trump: Please, Sir, the Stage Is Yours",
+   "date": "2026-09-09T14:33-07:00",
+   "url": null,
+   "bullets": [
+    "The DNC skipped a midterm convention to conserve funds, instead sending a delegation of Democrats—including Rep. Madeleine Dean and Rep. Jason Crow—to Dallas to frame the GOP’s Trump‑led event as a self‑indulgent spectacle.",
+    "Democratic operatives are counter‑programming with food drives, progressive rallies, satirical ads and rapid‑response fact‑checks, aiming to highlight Trump’s “corruption” and low 38% approval while portraying vulnerable GOP candidates as pandering for his $400 million war chest.",
+    "American Bridge’s RNC2026midterm.com satire and DNC’s clip library aim to flood social media with the convention’s cringe moments, betting that voters who say the race is about Trump will swing toward Democrats."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260909210054.3.43ee1364abcef35b@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Are Democrats Turning Against Israel - or Jews? Two Leading Jewish Voices Debate Antisemitism and Anti-Zionism",
+   "date": "2026-09-09T14:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/are-democrats-turning-against-israel-debate",
+   "bullets": [
+    "Joel Rubin argues the Democratic Party is increasingly hostile to Jews, equating anti‑Zionism with antisemitism, citing his experience with Bernie Sanders’ campaign and recent op‑ed in The Free Press.",
+    "Peter Beinart counters that criticizing Israel can be compatible with progressive values and isn’t inherently antisemitic, emphasizing a legitimate debate over Zionism within the Democratic tent.",
+    "The 45‑minute debate covers definitions of Zionism, the push to marginalize Zionists in the party, the role of figures like Sanders and Abdul El‑Sayed, and the ADL’s influence in Democratic politics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260909202014.3.303cb5e9466a314b@mg2.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Jessica Tarlov: POTUS Needs Some Moral Support",
+   "date": "2026-09-09T13:20-07:00",
+   "url": null,
+   "bullets": [
+    "Republicans in close races are removing Trump’s name from their sites, prompting a Dallas rally to boost his morale while oil prices surge and a fake convention distracts the public",
+    "Jessica Tarlov’s new book ‘I Disagree’ offers a ‘survival manual’ for debating MAGA friends, and Tim Miller condemns the media silence on Maryam Tahmasebi’s family imprisonment"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260909185845.3.64995653a930c047@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Anything I can say",
+   "date": "2026-09-09T11:58-07:00",
+   "url": "https://roycoopernc.substack.com/p/anything-i-can-say",
+   "bullets": [
+    "Roy Cooper claims President Trump, Vice President Vance, and Stephen Miller are personally attacking him with falsehoods, and his Republican opponent has launched a seven‑figure ad buy in North Carolina, with a poll showing the race tied.",
+    "He warns that GOP dark‑money super PACs have spent nearly $100 million on the race, could spend up to $600 million, and that losing North Carolina would cost Democrats control of the Senate."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260909164244.3.73eedef62f87e1ae@mg2.substack.com",
    "newsletter": "JVL - The Bulwark",
@@ -66,10 +129,10 @@
    "date": "2026-09-09T09:37-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/how-the-war-on-terror-went-global",
    "bullets": [
-    "Note from our Editor-in-Chief: Friday marks 25 years since the horrific attacks on September 11, 2001. While mainstream media – many of the same news organizations that amplified the post-9/11 lies that paved the way for the invasion of Ira…",
-    "Watch your inbox this week for more insightful essays from Zeteo contributors, including Fatima Bhutto and Viet Thanh Nguyen. Plus, I will also be interviewing two mothers who lost their children on 9/11, a four-star U.S. general who became…"
+    "The U.S.’s post‑9/11 “Global War on Terror” was a deliberate policy choice that escalated violence, resulting in an estimated 4.5‑4.7 million deaths according to Brown University’s Costs of War Project.",
+    "The war’s expansion provided Russia, China, and other authoritarian regimes a playbook to justify their own repressive ambitions, claiming they were emulating U.S. anti‑terrorism rhetoric."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260909161044.3.8f09efe1d2ddbd82@mg2.substack.com",
@@ -105,10 +168,11 @@
    "date": "2026-09-09T04:10-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/why-are-democrats-allowing-republicans",
    "bullets": [
-    "📱 If our emails sometimes get buried in your inbox, we’ve got another way for you to keep up to date: the new Zeteo app [ https://substack.com/redirect/d8e63e87-0792-46c4-8498-039df0e3fdf1?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6c…",
-    "Good morning, and welcome to Wednesday. Martin here. It seems hard to believe we’re only halfway through a four-day week, such is the ongoing torrent of political news in Donald Trump’s America. But we’ve got you covered, as always, when it…"
+    "Mayor Zohran Mamdani, a Muslim with strong polls, released 170,000 pages alleging city officials concealed post‑9/11 toxic air risks that have sickened thousands, including Jon Stewart.",
+    "Republican councilwoman Vickie Paladino and other GOP figures demanded Mamdani be barred from the 9/11 memorial ceremony, turning the 25th‑anniversary event into an Islamophobic controversy.",
+    "The newsletter also notes a setback for the Democratic Socialists in New Hampshire and warns of escalating tensions in Trump’s ongoing conflict with Iran."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260909110101.3.114d9007239d903f@mg2.substack.com",
@@ -146,10 +210,10 @@
    "date": "2026-09-09T02:00-07:00",
    "url": "https://open.substack.com/pub/doomberg/p/falkland-around",
    "bullets": [
-    "“I was spoiled by theater, where there is no editor.” – Anthony Edwards In March of 2013, 1,517 inhabitants of what the United Nations (UN) officially refers to as the Falkland Islands (Malvinas) went to the polls to vote on a sovereignty r…",
-    "The UN has included the islands on its list of Non-Self-Governing Territories since 1946, simply noting that a sovereignty dispute exists between the UK and Argentine governments over the territory. The bit in parentheses is a nod to the la…"
+    "In a 2013 referendum, 99.8% of the 1,517 Falkland Islanders voted to remain a UK overseas territory, a result the UK cites as fulfilling a 1965 UN resolution, while Argentina rejects it, citing the long‑standing sovereignty dispute and the 1982 war that killed nearly 1,000 people.",
+    "Argentina’s President Javier Milei warned of economic sanctions against firms exploring the Sea Lion oilfield, framing it as a ‘clear and present danger,’ even as the UK’s foreign secretary reaffirmed the islands’ British status and the joint venture promises a 9% royalty and 26% corporate tax for the Falklands government."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260909010823.3.6bafec2d0eecb005@mg2.substack.com",
@@ -4502,24 +4566,10 @@
     "He warns that without a major political shift, the cumulative effect of such tax shelters will continue to erode public programs, calling Malta a vivid illustration of the systemic problem."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260810000314.3.0e24b4bee2a15ff3@mg-d1.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "What Happens When an Election Denier Runs a Crucial Swing State?",
-   "date": "2026-08-09T17:03-07:00",
-   "url": null,
-   "bullets": [
-    "Democratic leaders warn that GOP nominee Tom Tiffany, a former House Republican who voted to overturn the 2020 results and backs election‑lie lawsuits, could jeopardize certification of Wisconsin’s 2028 presidential and Senate elections if elected governor.",
-    "The race also determines control of Wisconsin’s redistricting; a Democratic win would let the party redraw maps for 2028, potentially adding safe Democratic House seats, while a Republican trifecta could erase them.",
-    "Parallel gubernatorial contests in Arizona and Pennsylvania feature other election‑denying Republicans, but Wisconsin’s open governor’s seat makes the stakes uniquely acute for national election integrity."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 76,
-  "total": 327
+  "total": 330
  }
 }
