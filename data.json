@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T18:11-07:00",
+ "updated": "2026-09-10T10:45-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -53,6 +53,117 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260910164545.3.92a20470d635d8cf@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Democrats Should Embrace the Trump Dividend and All Its Bullsh*t",
+   "date": "2026-09-10T09:45-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s speech, as quoted, frames any Democratic victory as an existential catastrophe, claiming loss of borders, tax cuts, security, wealth, and even the “greatest two years” of his presidency.",
+    "He makes bizarre proposals—renaming Lake Ontario to “Lake America,” New Mexico to “New America,” and the Hormuz Strait to the “Trump Strait”—while boasting that the U.S. now controls 65 billion barrels of Venezuelan oil, claiming it makes America “the biggest in the world” and will drive oil prices down after the November 3 election.",
+    "Trump claims Intel begged him for a deal, offering 10% of the company in exchange for his help, portraying this as a triumph of “national socialism” over corporate trouble."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260910160128.3.d990d66f644f897b@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Meet the General Who Was Told of the U.S. Plan to Attack 7 Muslim Countries After 9/11",
+   "date": "2026-09-10T09:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/meet-the-general-who-was-told-of-us-attack-7-muslim-countries",
+   "bullets": [
+    "Retired four‑star General Wesley Clark says he was told at the Pentagon that the Bush administration planned to attack seven Middle Eastern countries within five years after 9/11, and the U.S. has since attacked five of them, including Iraq and Iran",
+    "Clark explains he opposed the 2003 Iraq invasion while supporting the 2001 Afghanistan war, argues the ‘War on Terror’ was a U.S. defeat, and now backs a war on Iran, defining success as regime change",
+    "The interview also touches on Clark’s ties to the Iranian opposition group MEK and criticizes Defense Secretary Pete Hegseth’s purge of senior military leaders"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260910153600.3.0375ec9ecb808e37@mg-d0.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "MAGA Influencer’s Defense: Antifa Got Me High",
+   "date": "2026-09-10T08:36-07:00",
+   "url": null,
+   "bullets": [
+    "Matt Tardio, a pro‑Trump influencer who livestreamed Portland ICE protests, now has 375,000 YouTube subscribers and 113,700 X followers, but faced criminal charges for assaulting a protest‑era fan.",
+    "Court records show Tardio pleaded no contest to felony coercion and misdemeanor harassment after grabbing a woman who refused to go to his hotel, an incident captured on ICE‑facility cameras."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260910135926.3.745e42b0e826c0eb@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Behind the curtain",
+   "date": "2026-09-10T06:59-07:00",
+   "url": "https://roycoopernc.substack.com/p/behind-the-curtain",
+   "bullets": [
+    "Michael Whatley’s campaign, backed by the GOP’s Senate Leadership Fund and a $130 million RNC war chest, is running attack ads that falsely link Roy Cooper to unrelated murders, according to fact‑checkers.",
+    "A recent Supreme Court ruling makes it easier for Republicans to flood airwaves with misleading ads and grants billionaires a massive TV ad discount, further diminishing ordinary voters’ influence.",
+    "Cooper’s team acknowledges they can’t outspend Whatley but aims to out‑organize him, urging supporters to donate $5 or volunteer for canvassing as early voting begins in 54 days."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260910134609.3.2fa0fca81fc385ff@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Dying Inside In Dallas",
+   "date": "2026-09-10T06:46-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s hour‑plus Dallas convention speech framed the 2024 election as a referendum on himself, promising a $5,000 “Trump Dividend” for every adult if Republicans keep Congress—a proposal Catherine Rampell estimates would cost over $1 trillion and echoes his history of unfulfilled largesse promises",
+    "The event was marked by low‑energy, repetitive GOP speakers, with culture‑war rhetoric (e.g., Tim Scott attacking non‑binary concepts) providing the only crowd‑pleasing moments, underscoring the party’s reliance on negative polarization around Trump",
+    "Homeland Security Secretary Markwayne Mullin’s Ohio immigration remarks contained factual errors, notably his claim that 86‑87% of immigrants miss court dates—immigration‑court data show a 76.3% attendance rate, rising to 95% with legal representation"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260910115909.3.668a9ccfced5486d@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Where Things Stand in Two Must-Win Senate Races",
+   "date": "2026-09-10T04:59-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/where-things-stand-in-two-must-win",
+   "bullets": [
+    "CNN polls show Democrat Abdul El‑Sayed trailing Republican Mike Rogers in Michigan 47‑44 and Democrat Troy Jackson trailing Republican ... in Maine 48‑45, both within the margin of error and still below 50%",
+    "The analysis argues that Donald Trump’s presence is a major drag on Republican Senate candidates, turning the GOP’s midterm convention into a potential gift for Democrats",
+    "Pfeiffer says the only realistic path to a Democratic Senate majority requires winning both Michigan and Maine, but the party should also prioritize vulnerable red‑state races like Alaska, Texas, Ohio and Iowa"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260910111917.3.dc4d2f4a7aa53f37@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "A Year Ago, Charlie Kirk Was Killed. Meet the People Who Were Fired for Speaking Out About Him",
+   "date": "2026-09-10T04:19-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/a-year-ago-charlie-kirk-was-killed",
+   "bullets": [
+    "A year after Charlie Kirk’s assassination, the GOP launched a McCarthy‑style crackdown, with officials like JD Vance urging reports of “celebrating” his death and Stephen Miller promising retaliation, leading to over 600 firings of professors, teachers, journalists and a former police officer for any criticism or even quoting Kirk’s words.",
+    "Interviewees describe how the state apparatus used Kirk’s martyrdom to weaponize free‑speech suppression, ruining careers despite many of the punished individuals previously advocating violence themselves.",
+    "The issue also includes a summary of Donald Trump’s lengthy midterm GOP convention speech in Dallas and updates on escalating tensions in the ongoing war with Iran."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260910105638.3.726d688d584662f4@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Bessent and the Bonds",
+   "date": "2026-09-10T03:56-07:00",
+   "url": "https://paulkrugman.substack.com/p/bessent-and-the-bonds",
+   "bullets": [
+    "Scott Bessent, Treasury secretary, boasts control over yen interventions and invites bets against him, but markets are testing his attempts to push down U.S. rates, which are rising despite his claims.",
+    "Long‑term yields have risen 45‑79 basis points across major economies since February, with U.S. 30‑year yields up 58 bp, driven largely by a surge in AI‑related tech spending rather than U.S. policy.",
+    "Krugman argues Bessent’s big‑stick rhetoric drains credibility, as the bond market’s rise reflects global demand for capital, not Trump’s administration failures."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260909213334.3.75870218ca0273cc@mg-d0.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
@@ -4498,78 +4609,10 @@
     "In the past decade, nine people linked to Epstein—including former partners, employees and alleged associates—have died from causes ranging from cancer and overdose to suicide, often under mysterious circumstances"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260810163556.3.348c13615a0cab72@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "“The People” Are Lying Liars",
-   "date": "2026-08-10T09:35-07:00",
-   "url": null,
-   "bullets": [
-    "A focus group with three-time Trump‑voting Republicans in South Carolina discussed Lindsey Graham, Donald Trump and other topics, providing data that supports the author’s claim that “everybody lies.”",
-    "The author argues that people are inherently messy, contradictory, and do not reason deductively, suggesting a deeper, darker view of human behavior than the usual “people lie” shorthand."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260810151629.3.686115263b2596e4@mg2.substack.com",
-   "newsletter": "We're Not Kidding | Zeteo",
-   "pub": "zeteo",
-   "subject": "Will Tucker Carlson Run For President? Sam Seder Thinks ‘It’s Bullsh*t’",
-   "date": "2026-08-10T08:16-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/sam-seder-majority-report-jubilee-tucker-carlson",
-   "bullets": [
-    "Sam Seder argues the Democratic establishment is out of touch, likening its insurgency to a Tea Party‑style movement and highlighting progressive wins across the country.",
-    "Seder and Mehdi dissect the 2025 Jubilee debate, claiming it exposed the core motivations of young MAGA conservatives and the stakes of their movement.",
-    "They preview the upcoming “Great Tucker Carlson Debate,” questioning whether Carlson should run for president, his trustworthiness on Israel and foreign wars, and the value of appearing on his platform."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260810132632.3.e0f678ce860c7b56@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The GOP’s Ceremony of Impotence",
-   "date": "2026-08-10T06:26-07:00",
-   "url": null,
-   "bullets": [
-    "Hunter Biden revealed Joe Biden’s metastatic prostate cancer has spread to his bones, causing severe pain yet he remains active, prompting condolences from the author.",
-    "Ohio Rep. Max Miller faces abuse allegations; GOP leaders Trump and Speaker Johnson back him, while most House Republicans refuse to discuss or oppose his re‑election despite calls from Sen. Bernie Moreno.",
-    "Sen. Bill Cassidy and Sen. John Cornyn voted to confirm Todd Blanche as Attorney General, ignoring Epstein survivors’ concerns, citing DOJ progress on human trafficking as justification, highlighting GOP tolerance of sexual‑assault cover‑ups."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260810111118.3.ebd6d55e81b19c52@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "At Last, a Real Fighter to Punch Back at Trump",
-   "date": "2026-08-10T04:11-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/at-last-a-real-fighter-to-punch-back",
-   "bullets": [
-    "Abdul El‑Sayed’s Senate campaign in Michigan opened with aggressive, Trump‑style counter‑punches to hostile anchors, positioning him as a rare Democratic “fighter” in the Trump era.",
-    "El‑Sayed sharply rebuked Trump’s Islamophobic post comparing their wives, delivering a brutal response that Republicans fear could become a new Democratic counter‑punch model."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260810103040.3.54809c0184654677@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "What Malta Tells Us About Oligarchy",
-   "date": "2026-08-10T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/what-malta-tells-us-about-oligarchy",
-   "bullets": [
-    "Malta, with 500,000 residents, hosts over $500 billion in foreign direct investment and an equal amount of outbound investment, largely through shell companies that shift profits to its near‑zero corporate tax rate, costing the U.S. an estimated $100 billion annually in lost tax revenue.",
-    "Krugman argues this profit‑shifting exemplifies a broader oligarchic trend: tax avoidance/evasion enriches the wealthy, reinforcing their political power, while the EU’s weak enforcement and the U.S. under Trump have stalled global minimum‑15% corporate tax efforts.",
-    "He warns that without a major political shift, the cumulative effect of such tax shelters will continue to erode public programs, calling Malta a vivid illustration of the systemic problem."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 76,
-  "total": 330
+  "shown": 77,
+  "total": 333
  }
 }
