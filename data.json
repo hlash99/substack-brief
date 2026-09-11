@@ -1,25 +1,18 @@
 {
- "updated": "2026-09-10T10:45-07:00",
+ "updated": "2026-09-10T18:13-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s Dallas convention is a spectacle designed to keep his base energized while Democrats counter‑program with rallies, fact‑checks, and food drives, underscoring the GOP’s shift from policy to personality (The Bulwark, Zeteo).",
-   "The Democratic Party is grappling with accusations of antisemitism as some leaders equate anti‑Zionism with anti‑Jew sentiment, while others argue criticism of Israel can coexist with progressive values (Mehdi Unfiltered).",
-   "North Carolina’s midterm race is a high‑stakes showdown, with GOP dark‑money spending nearly $100 million and the possibility of a $600 million surge threatening to flip the Senate seat (Roy Cooper).",
-   "Trump’s post‑election media war—ranging from AI‑generated memes to FCC censorship—has eroded his brand and sparked a broader debate about free speech and political accountability (The Bulwark, Zeteo).",
-   "The U.S. trade war with Canada, driven by Trump’s rhetoric, risks harming American supply chains for oil, aluminum, and lumber, while a tariff‑free beef import deal raises safety and corruption concerns (Paul Krugman).",
-   "Israel‑settlement sanctions announced by the UK’s Jewish Foreign Secretary highlight the growing international pressure on Israel and the domestic backlash from Jewish communities, complicating U.S. foreign‑policy calculations (Zeteo)."
+   "Trump’s $5,000 dividend promise, unveiled at his Dallas convention, is projected to cost over $1 trillion and has sparked bipartisan alarm over its undefined funding and economic fallout (The Bulwark, Zeteo).",
+   "The GOP’s mid‑term strategy has shifted from a grandiose convention to a “Trump‑a‑palooza” spectacle, a move that analysts say is draining Republican enthusiasm and giving Democrats a narrative edge (The Bulwark, The Message Box).",
+   "Inflation, already spiking after Trump’s Iran war, has pushed the price of MAGA merchandise higher, undermining the administration’s “affordable” rhetoric (The Bulwark).",
+   "The U.S. war‑on‑terror legacy, highlighted by Zeteo, is now being blamed for fueling authoritarian regimes and contributing to global instability, a narrative that dovetails with rising anti‑Israel sentiment among some Democrats (Zeteo, The Bulwark).",
+   "Paul Krugman’s latest piece warns that Trump’s tariff‑free beef import and other trade maneuvers risk domestic safety and expose the administration to corruption, while also inflating U.S. long‑term yields (Paul Krugman).",
+   "The political climate is further strained by high‑profile lawsuits and accusations of anti‑Jewish bias, as seen in the 9/11 justice case and debates over Israeli settlement bans, adding a new layer of tension to the midterm race (Mehdi Unfiltered, Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20260907013038.3.6f088d5881d0350a@mg-d1.substack.com",
-   "20260907111415.3.9fcc652e61cda619@mg-d0.substack.com",
-   "20260907125843.3.c46367c9ff20c85f@mg2.substack.com",
-   "20260907130338.3.4a303523ae055e4d@mg2.substack.com",
-   "20260907201208.3.01c97205392dc74c@mg-d0.substack.com",
-   "20260907230117.3.e1f93e6877576654@mg2.substack.com",
-   "20260908010116.3.34d5399ed23721f0@mg-d1.substack.com",
    "20260908104537.3.0456c431ca1e25a3@mg2.substack.com",
    "20260908112832.3.f11c7c94234cd855@mg2.substack.com",
    "20260908113841.3.9233187add588dc3@mg-d0.substack.com",
@@ -47,12 +40,106 @@
    "20260909185845.3.64995653a930c047@mg-d1.substack.com",
    "20260909202014.3.303cb5e9466a314b@mg2.substack.com",
    "20260909210054.3.43ee1364abcef35b@mg2.substack.com",
-   "20260909213334.3.75870218ca0273cc@mg-d0.substack.com"
+   "20260909213334.3.75870218ca0273cc@mg-d0.substack.com",
+   "20260910105638.3.726d688d584662f4@mg-d0.substack.com",
+   "20260910111917.3.dc4d2f4a7aa53f37@mg2.substack.com",
+   "20260910115909.3.668a9ccfced5486d@mg-d1.substack.com",
+   "20260910134609.3.2fa0fca81fc385ff@mg-d0.substack.com",
+   "20260910135926.3.745e42b0e826c0eb@mg-d1.substack.com",
+   "20260910153600.3.0375ec9ecb808e37@mg-d0.substack.com",
+   "20260910160128.3.d990d66f644f897b@mg2.substack.com",
+   "20260910164545.3.92a20470d635d8cf@mg2.substack.com",
+   "20260910175842.3.456cc9df3b31a8da@mg2.substack.com",
+   "20260910190109.3.3d42018641776fde@mg-d0.substack.com",
+   "20260910192325.3.4be53e0f298fd6d3@mg2.substack.com",
+   "20260910213336.3.83447ec1e9c2a830@mg-d0.substack.com",
+   "20260910225443.3.bb27688c99fbd2c9@mg-d1.substack.com"
   ],
-  "updated": "2026-09-09T18:11-07:00",
+  "updated": "2026-09-10T18:13-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260911000138.3.b6bf9e8cd55653d9@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "The Burning Towers Foreshadowed a Burning World – Viet Thanh Nguyen on the 25 Years After 9/11",
+   "date": "2026-09-10T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-burning-towers-foreshadowed-a",
+   "bullets": [
+    "Note from our Editor-in-Chief: Friday marks 25 years since the horrific attacks on September 11, 2001. This essay is part of Zeteo’s special week-long coverage of 9/11 and its aftermath in America, across the Middle East, and worldwide. If …",
+    "When historians and storytellers look back on the decline and fall of the American empire, they might identify 9/11 [ https://substack.com/redirect/b740ddc9-a1c3-4a81-9a51-92bb792dfb20?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260910225443.3.bb27688c99fbd2c9@mg-d1.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s $5,000 Midterm Ploy Is Even Dumber Than It Sounds",
+   "date": "2026-09-10T15:54-07:00",
+   "url": null,
+   "bullets": [
+    "Trump promised a $5,000 “dividend” for every adult U.S. citizen if Republicans win both chambers, a scheme that would cost roughly $1.225 trillion—about one‑seventh of the entire federal budget.",
+    "The plan’s funding is undefined; Vice President JD Vance suggested tariffs, yet projected tariff revenue this year is only $168 billion, far short of the trillion‑plus needed.",
+    "Economists warn such a massive cash injection would be highly inflationary, echoing criticism of Biden’s 2021 stimulus that added demand without expanding supply."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260910213336.3.83447ec1e9c2a830@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "*LIVE ALERT* Stream Zeteo UK’s London Launch Event With Mehdi and Zack Polanski",
+   "date": "2026-09-10T14:33-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/live-alert-stream-zeteo-uks-london",
+   "bullets": [
+    "Zeteo UK’s London launch event will be livestreamed on September 14 at 2:15 pm EDT (7:15 pm BST) for paid subscribers, featuring Mehdi, journalists Shehab Khan, Sangita Myska, Peter Oborne, and Green Party leader Zack Polanski.",
+    "The in‑person event at the Barbican Centre is sold out, expecting over 1,000 attendees, and the livestream link is provided for subscribers to add to their calendars."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260910192325.3.4be53e0f298fd6d3@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Trump’s Disastrous Convention Has Republicans Ready to Go Home: ‘One Day Is Enough’",
+   "date": "2026-09-10T12:23-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-disastrous-republican-convention",
+   "bullets": [
+    "Trump used the Dallas midterm convention to promise a $5,000 dividend to every adult American if Republicans keep control of the House and Senate, despite inflation and gas price pressures.",
+    "He framed the pledge as a reward for the party’s “most successful two years” while dismissing criticism of his illegal Iran war, highlighting internal GOP discomfort with his agenda."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260910190109.3.3d42018641776fde@mg-d0.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trumpflation Hits MAGA Merch",
+   "date": "2026-09-10T12:01-07:00",
+   "url": null,
+   "bullets": [
+    "Trump promised to end inflation on day one of his 2024 administration, but inflation persisted modestly through 2025 and spiked again after his unsanctioned war with Iran in spring 2026.",
+    "The surge in inflation has raised the cost of typical campaign merchandise, meaning even Trump-supporter gear is now noticeably pricier in 2026.",
+    "Despite the rhetoric of making America affordable again, the administration's actions have directly contributed to higher prices for everyday items and political merch."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260910175842.3.456cc9df3b31a8da@mg2.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "Shea Serrano never intended to become a writer. He built a cult following as one anyway.",
+   "date": "2026-09-10T10:58-07:00",
+   "url": "https://post.substack.com/p/shea-serrano-writer-built-a-cult-following",
+   "bullets": [
+    "Shea Serrano, a former teacher turned five‑time NYT bestseller, amassed 1,319 VHS tapes over 11 years, cataloguing every film he’s seen in a Google Doc and curating 400 favorites for his Good Movie Substack.",
+    "His Good Movie pieces dissect movies with obsessive detail—e.g., 445 questions in Inception’s 148‑minute run and stats on Harry’s run in When Harry Met Sally—mirroring the premise of his new Organizing Things podcast with co‑host Jason Concepcion.",
+    "Born to teenage parents in San Antonio’s Section 8 housing, Serrano turned to writing in 2007 after his pregnant wife’s medical complications left them needing extra income, launching a career he never expected."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260910164545.3.92a20470d635d8cf@mg2.substack.com",
    "newsletter": "JVL - The Bulwark",
@@ -4569,50 +4656,10 @@
     "Pfeiffer argues that while electability is uncertain, data‑center policy (76% of voters favor a moratorium) and Hong’s bold change message contrast with Crowley’s continuity‑plus approach, leading him to conclude Crowley has the better chance of winning in November"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260811000742.3.5c0178aabe15faee@mg-d1.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "James Fishback Wanted a Scandal. He Got One.",
-   "date": "2026-08-10T17:07-07:00",
-   "url": null,
-   "bullets": [
-    "James Fishback’s attempt to revive his Florida governor campaign by accusing Rep. Byron Donalds of a DOJ probe backfired, as the DOJ publicly cleared Donalds and warned against false accusations.",
-    "Fishback now faces a $11,000 scholarship lawsuit from former debater Briana Whatley, plus a $1.5 million debt to former employer Greenlight Capital, which has seized his assets.",
-    "Former staffer Gianna Tagliarini reported Fishback to state law enforcement over his anti‑woke debate operation, potentially prompting a new investigation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260811000146.3.320cbd209660948a@mg-d1.substack.com",
-   "newsletter": "Mehdi from Zeteo",
-   "pub": "zeteo",
-   "subject": "Why Ben Shapiro Is Wrong About Me, Islamophobia, and His Dumb New Movie",
-   "date": "2026-08-10T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/watch-mehdi-respond-to-ben-shapiro",
-   "bullets": [
-    "Mehdi argues Ben Shapiro’s 13‑minute video defending the Daily Wire’s new film is itself Islamophobic, claiming the movie perpetuates negative Muslim stereotypes and miscounts Muslim villains in Hollywood.",
-    "He contends the Daily Wire’s focus on ISIS‑themed films is a deliberate distraction from Israel’s actions in Gaza, labeling it a propaganda tactic.",
-    "Mehdi offers a 7‑minute rebuttal video with “receipts” to support his critique and invites viewers to subscribe for uncensored content."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260810201909.3.ac39aa4b87ed0538@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Why Do People Linked to Jeffrey Epstein Keep Mysteriously Dying?",
-   "date": "2026-08-10T13:19-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/why-do-people-linked-to-jeffrey-epstein",
-   "bullets": [
-    "In the past decade, nine people linked to Epstein—including former partners, employees and alleged associates—have died from causes ranging from cancer and overdose to suicide, often under mysterious circumstances"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 77,
-  "total": 333
+  "shown": 79,
+  "total": 336
  }
 }
