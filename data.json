@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T18:13-07:00",
+ "updated": "2026-09-11T10:48-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -60,6 +60,128 @@
  },
  "items": [
   {
+   "id": "20260911170811.3.2f31baff1ae5e6b8@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Sometimes Terrorism Works",
+   "date": "2026-09-11T10:08-07:00",
+   "url": null,
+   "bullets": [
+    "The U.S. is on the brink of losing influence in the Middle East as Israel becomes an international pariah and Iran gains control of the Strait of Hormuz, positioning itself as the region’s dominant power.",
+    "The author notes that these developments align with al Qaeda’s objectives from 25 years ago, suggesting that terrorism can achieve strategic geopolitical outcomes."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260911143529.3.5ecd8de68ea6694f@mg-d0.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "She’s Helping Dems Take Back Congress. Trump Is Forcing Her to Self-Deport.",
+   "date": "2026-09-11T07:35-07:00",
+   "url": null,
+   "bullets": [
+    "Daysi González, a key Latino strategist for Democrats, is forced to consider self‑deportation after her Temporary Protected Status for Salvadorans, which expired on Sept. 9, is in limbo amid Trump‑era policy swings.",
+    "The Trump administration’s 2018 TPS termination and 2024 executive order targeting TPS programs left González unable to renew her license, travel, or secure employment, while her sister lost a job and mortgage payments became uncertain.",
+    "A recent USCIS notice extending TPS protection for at least 60 days may grant González and other Salvadoran TPS holders an extra six months, but she still plans to leave the U.S. after the November election, citing mental health and financial strain."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260911140735.3.3ef7860d9587fdc0@mg-d0.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "One Week Remains",
+   "date": "2026-09-11T07:07-07:00",
+   "url": null,
+   "bullets": [
+    "Doomberg claims its lateral‑thinking predictive analysis has a success rate above luck, offering real‑time updates on geopolitical shifts and a deep archive for paid subscribers.",
+    "New subscribers receive an 80‑minute bonus video, “Company Deep Dive: Chevron,” covering supermajor dynamics, Chevron’s geographic asset mix, key investment opportunities, and strategic considerations.",
+    "The subscription offer expires next Friday, encouraging readers to upgrade for full access and the bonus content."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260911140254.3.b8b49f8086ab72c2@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Two 9/11 Mothers Remember Their Children Killed 25 Years Ago",
+   "date": "2026-09-11T07:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/two-911-mothers-remember-their-children",
+   "bullets": [
+    "Two mothers who lost children in the 9/11 attacks share personal memories and the lasting emotional impact 25 years later, highlighting grief and resilience in their families.",
+    "They discuss how the tragedy reshaped their lives, community support, and the ongoing struggle to keep their children’s memories alive amid national remembrance events."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260911132706.3.c9b3c40f20ffc80b@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Out of Gas. Out of Ideas. Out of Time.",
+   "date": "2026-09-11T06:27-07:00",
+   "url": null,
+   "bullets": [
+    "The GOP’s 2024 midterm convention revealed a party that is out of ideas and time, with Trump’s speeches offering only recycled lies, empty promises of $5,000 checks, and a vague threat to block Democrats for two years, while Vice President Dan Vance’s keynote failed to present new policy or charisma, signaling a lack of a viable exit strategy.",
+    "Quinnipiac polls show Trump’s approval dropping from 40% in January to 33% now, with 59% disapproving, and 49% of voters favoring a Democratic House, indicating that the public is unwilling to pretend Trump is on the ballot and is likely to vote against him in the November midterms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260911122225.3.aa31ed4064623e44@mg-d1.substack.com",
+   "newsletter": "Mark Hertling-The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A Letter to Myself on 9/11",
+   "date": "2026-09-11T05:22-07:00",
+   "url": null,
+   "bullets": [
+    "Hertling recounts his September 8, 2001, classified lunch with CIA Director Tenet where al Qaeda was highlighted, then describes the chaotic drive to a burning Pentagon and the immediate realization that the U.S. cannot protect every potential target.",
+    "He warns that the post‑9/11 war will demand joint work across the Pentagon, State, CIA, FBI and Treasury, that military power alone cannot achieve political objectives, and that the ensuing Afghanistan conflict will become America’s longest, followed by an Iraq invasion within two years."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260911112732.3.521d72b637817b1a@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Sarah Longwell's Message for Everyone Who Thinks We’re Doomed (w/ Andrew Weissmann)",
+   "date": "2026-09-11T04:27-07:00",
+   "url": null,
+   "bullets": [
+    "Andrew Weissmann and Sarah Longwell argue that Trump's grip on his base stems from a tightly knit right‑wing media ecosystem that amplifies loyalty over policy.",
+    "Longwell criticizes Democrats for over‑relying on polls, urging a grassroots, voter‑by‑voter strategy outlined in her new book 'How to Eat an Elephant' to build a winning pro‑democracy coalition.",
+    "The Bulwark announces upcoming live events: a benefit for Springfield's Haitian community on Sept. 25 in Ohio and a Good Fight Tour in the Southeast (Oct. 16‑18) featuring Pete Buttigieg in Charlotte."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260911111405.3.adaab61fcdff9a8d@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Racism, Rula Jebreal, and the Democratic Party’s Brazen Double Standards",
+   "date": "2026-09-11T04:14-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/racism-rula-jebreal-and-the-democratic",
+   "bullets": [
+    "Rula Jebreal, an Afro‑Palestinian journalist, issued an unconditional apology for using racist tropes against Black people, but top Democrats—including DNC chair Ken Martin and House Whip Katherine Clark—publicly denounced her despite her intent and history of facing far‑right abuse.",
+    "The newsletter argues Democrats swiftly condemn racist language from left‑wing figures like Jebreal and Twitch streamer Hasan Piker, yet remain silent when Republican officials and donors make even more venomous racist remarks without apology.",
+    "It also notes Zeteo’s coverage of the GOP midterm convention in Dallas, where Trump forced attendees to pledge personal allegiance, and marks the 25th anniversary of 9/11 with exclusive reporting."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260911103100.3.d021952a1614b5d7@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Long Decline of America",
+   "date": "2026-09-11T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-long-decline-of-america",
+   "bullets": [
+    "Krugman argues that the political and financial exploitation of 9/11 began immediately, with politicians and businessmen using nationalist rhetoric to mask selfish behavior, setting the stage for today’s decline.",
+    "He acknowledges progress such as Obama’s healthcare expansion and the rapid Covid vaccine rollout, but claims the underlying “evil” driving the current MAGA‑era crisis has been building for decades.",
+    "Krugman links the nation’s current turmoil to long‑standing structural issues that predate 9/11, suggesting the seeds of the present “nightmare” were already sown at that moment."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260911000138.3.b6bf9e8cd55653d9@mg-d1.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
@@ -67,10 +189,11 @@
    "date": "2026-09-10T17:01-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/the-burning-towers-foreshadowed-a",
    "bullets": [
-    "Note from our Editor-in-Chief: Friday marks 25 years since the horrific attacks on September 11, 2001. This essay is part of Zeteo’s special week-long coverage of 9/11 and its aftermath in America, across the Middle East, and worldwide. If …",
-    "When historians and storytellers look back on the decline and fall of the American empire, they might identify 9/11 [ https://substack.com/redirect/b740ddc9-a1c3-4a81-9a51-92bb792dfb20?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c…"
+    "Nguyen argues 9/11 was the fulcrum exposing both the power and vulnerability of the American empire, marking the start of its long decline while Americans cling to imperial privilege by denying their role.",
+    "He notes the tragedy united a diverse nation briefly, but that solidarity quickly turned into demands for revenge and a resurgence of ‘make America great again’ rhetoric, reinforcing domination.",
+    "Nguyen calls for a different power: renouncing empire and acknowledging vulnerability, asking whether Americans can embrace such humility 25 years after the attacks."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260910225443.3.bb27688c99fbd2c9@mg-d1.substack.com",
@@ -4560,106 +4683,10 @@
     "Her case illustrates how Israel’s genocide in Gaza extends beyond the conflict zone, crippling healthcare access for Palestinians in the occupied West Bank."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260811165006.3.d304e0d5f45f37da@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s America Is Really Hulk Hogan’s America",
-   "date": "2026-08-11T09:50-07:00",
-   "url": null,
-   "bullets": [
-    "The newsletter argues that professional wrestling, especially Vince McMahon’s story in Josie Riesman’s Ringmaster, serves as a Rosetta Stone for understanding Trumpism and MAGA.",
-    "It promotes a new book linking Hulk Hogan’s career and persona to Donald Trump’s authoritarian style, claiming the comparison will fundamentally reshape readers’ view of Trump.",
-    "The piece is offered as a free teaser for Bulwark+, urging readers to try the subscription to access the full analysis."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260811150157.3.9df998df5666d874@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "AIPAC Exposed: Mehdi Speaks to Authors of New Book on the Israel Lobby",
-   "date": "2026-08-11T08:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/aipac-exposed-mehdi-speaks-to-authors",
-   "bullets": [
-    "AIPAC-backed candidates are struggling to win despite massive war chests",
-    "Pro-Israel super PACs may raise and spend $250 million this election cycle",
-    "Ian Lustick calls Israel an 'extreme right-wing rogue state'"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260811132043.3.1863199520b13e77@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "There’s No Vaccine for Stupid",
-   "date": "2026-08-11T06:20-07:00",
-   "url": null,
-   "bullets": [
-    "Trump signed an executive order to change America's pediatric-vaccine schedule",
-    "Sens. Ron Johnson and Rand Paul accused Fauci of hiding COVID vaccine miscarriage risks",
-    "Fauci's caution was based on early data gaps, not a cover-up"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260811105813.3.05909eebc71662ef@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "🙅 Can Dems Stop Trump From ‘Epically’ Stonewalling Them Next Year?",
-   "date": "2026-08-11T03:58-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/can-dems-stop-trump-from-epically",
-   "bullets": [
-    "Democrats plan a “death by a thousand cuts” strategy of subpoenas, hearings, and criminal referrals to slow Trump’s administration if they win the 2026 House majority, targeting corruption, ICE killings, and Iran war missteps.",
-    "Trump’s White House is preparing for a Democratic takeover with defiance of Congress, while Trump signs an executive order on vaccines and Bill Cassidy publicly rejects anti‑vaccine conspiracy theories."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260811103052.3.914120a3174d3d50@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The U.S. Healthcare System is Already Mostly Socialized",
-   "date": "2026-08-11T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-us-healthcare-system-is-already",
-   "bullets": [
-    "Krugman argues that U.S. healthcare is already largely socialized, noting that government programs (Medicare, Medicaid, ACA subsidies, and tax‑free employer premiums) cover over two‑thirds of insurance spending, amounting to roughly $400 billion in subsidies annually.",
-    "He cites Medicare’s 82% favorable rating and Medicaid’s 73% rating versus widespread dislike of private insurers, and points out that private plans like Medicare Advantage overpaid by $84 billion due to upcoding, suggesting insurers act as costly parasites.",
-    "Consequently, Krugman frames Abdul El‑Sayed’s Medicare‑for‑All proposal not as radical socialism but as a logical step to eliminate the inefficient, partially privatized system and fund care progressively through taxes."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260811103048.3.bd80e43917a15505@mg-d1.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "EO for routine childhood vaccines, Covid-19, fire, heat, and more",
-   "date": "2026-08-11T03:30-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/eo-for-routine-childhood-vaccines",
-   "bullets": [
-    "The FDA enforcement report revealed 236,192 lettuce cases recalled, mostly from Walmart, not Taco Bell, and Michigan’s cyclosporiasis outbreak is nearly over with zero new infections, so leafy greens are safe again.",
-    "A Salmonella outbreak linked to Sinaloa jalapeños has sickened 345 people in 27 states, 36 hospitalized, with 2 antibiotic‑resistant cases; avoid jalapeños and foods from retailers like Walmart, Target, and Whole Foods until the recall clears."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260811101845.3.661c362046813e0c@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Can Francesca Hong Win? Yes. Is She the Most Electable? Probably Not.",
-   "date": "2026-08-11T03:18-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/can-francesca-hong-win-yes-is-she",
-   "bullets": [
-    "Francesca Hong can win Wisconsin’s governor race because the state is a 50‑50 swing and the Republican opponent, Tom Tiffany, is a weak MAGA candidate, but her DSA label and leftward stance make her less electable than establishment favorite David Crowley, who aligns with Governor Evers and avoids controversial socialist branding",
-    "A July Marquette poll showed Hong trailing Tiffany by 3 points among registered voters and tied among likely voters, while Crowley wasn’t tested; independent voters (52%) view the DSA unfavorably, and about half of national voters say they’re less likely to support a democratic socialist candidate",
-    "Pfeiffer argues that while electability is uncertain, data‑center policy (76% of voters favor a moratorium) and Hong’s bold change message contrast with Crowley’s continuity‑plus approach, leading him to conclude Crowley has the better chance of winning in November"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 79,
-  "total": 336
+  "shown": 81,
+  "total": 338
  }
 }
