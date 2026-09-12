@@ -1,34 +1,18 @@
 {
- "updated": "2026-09-11T10:48-07:00",
+ "updated": "2026-09-11T18:15-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s $5,000 dividend promise, unveiled at his Dallas convention, is projected to cost over $1 trillion and has sparked bipartisan alarm over its undefined funding and economic fallout (The Bulwark, Zeteo).",
-   "The GOP’s mid‑term strategy has shifted from a grandiose convention to a “Trump‑a‑palooza” spectacle, a move that analysts say is draining Republican enthusiasm and giving Democrats a narrative edge (The Bulwark, The Message Box).",
-   "Inflation, already spiking after Trump’s Iran war, has pushed the price of MAGA merchandise higher, undermining the administration’s “affordable” rhetoric (The Bulwark).",
-   "The U.S. war‑on‑terror legacy, highlighted by Zeteo, is now being blamed for fueling authoritarian regimes and contributing to global instability, a narrative that dovetails with rising anti‑Israel sentiment among some Democrats (Zeteo, The Bulwark).",
-   "Paul Krugman’s latest piece warns that Trump’s tariff‑free beef import and other trade maneuvers risk domestic safety and expose the administration to corruption, while also inflating U.S. long‑term yields (Paul Krugman).",
-   "The political climate is further strained by high‑profile lawsuits and accusations of anti‑Jewish bias, as seen in the 9/11 justice case and debates over Israeli settlement bans, adding a new layer of tension to the midterm race (Mehdi Unfiltered, Zeteo)."
+   "The 25th anniversary of 9/11 is dominating coverage, with Zeteo, The Bulwark, and Krugman linking the attacks to the U.S.‑led Global War on Terror, its costly wars, and the long‑term political decline it sparked (Zeteo, The Bulwark, Krugman).",
+   "Trump’s $5,000 \"dividend\" promise at the Dallas midterm convention is being dissected as a trillion‑dollar gimmick that fuels GOP infighting, drives up dark‑money spending, and may actually help Democrats in key Senate races (The Bulwark, Dan Pfeiffer, Catherine Rampell).",
+   "Republican strategy is increasingly focused on cultural spectacle and loyalty‑based media ecosystems, with analysts warning that the party lacks substantive policy ideas and is veering toward authoritarian tactics (The Bulwark, Sarah Longwell, Will Sommer).",
+   "Middle‑East geopolitics is resurfacing as a flashpoint: al‑Qaeda’s long‑term goals appear to be bearing fruit, Iran is gaining strategic leverage, and the U.S.‑backed war on terror is being blamed for empowering authoritarian rivals (The Bulwark, Zeteo, Mehdi Unfiltered).",
+   "Democratic operatives are scrambling to counter Trump’s narrative, using grassroots voter‑by‑voter tactics, rapid‑response fact‑checks, and targeted Senate race strategies to turn the GOP’s chaos into a Democratic advantage (The Message Box, The Bulwark, Dan Pfeiffer).",
+   "Personal stories of 9/11’s human toll—mothers remembering lost children and a retired general revealing secret war plans—underscore the enduring emotional and moral reckoning that still shapes U.S. politics (Mehdi Unfiltered, Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20260908104537.3.0456c431ca1e25a3@mg2.substack.com",
-   "20260908112832.3.f11c7c94234cd855@mg2.substack.com",
-   "20260908113841.3.9233187add588dc3@mg-d0.substack.com",
-   "20260908121509.3.0e685cca6aef10b2@mg2.substack.com",
-   "20260908132849.3.4202290aed297936@mg2.substack.com",
-   "20260908133213.3.e24f2f98e1a0f430@mg-d0.substack.com",
-   "20260908144606.3.f13b8cddf5abcafb@mg-d0.substack.com",
-   "20260908150443.3.79b58704ca2bbf77@mg-d0.substack.com",
-   "20260908152117.3.7cbcb8696fa06eb1@mg2.substack.com",
-   "20260908163043.3.2f26acb5e59ae22d@mg-d0.substack.com",
-   "20260908183632.3.81c3df17e0684066@mg-d1.substack.com",
-   "20260908191855.3.8642fa2f09e35437@mg2.substack.com",
-   "20260908212557.3.77a392a3aabd414a@mg-d0.substack.com",
-   "20260908233155.3.46745c94bb74235f@mg-d1.substack.com",
-   "20260909010036.3.9db784dc3881f9bd@mg-d1.substack.com",
-   "20260909010823.3.6bafec2d0eecb005@mg2.substack.com",
    "20260909090058.3.ad7a33a3d63c548b@mg-d1.substack.com",
    "20260909105915.3.0ab1a992f8a8bae4@mg-d1.substack.com",
    "20260909110101.3.114d9007239d903f@mg2.substack.com",
@@ -53,12 +37,51 @@
    "20260910190109.3.3d42018641776fde@mg-d0.substack.com",
    "20260910192325.3.4be53e0f298fd6d3@mg2.substack.com",
    "20260910213336.3.83447ec1e9c2a830@mg-d0.substack.com",
-   "20260910225443.3.bb27688c99fbd2c9@mg-d1.substack.com"
+   "20260910225443.3.bb27688c99fbd2c9@mg-d1.substack.com",
+   "20260911000138.3.b6bf9e8cd55653d9@mg-d1.substack.com",
+   "20260911103100.3.d021952a1614b5d7@mg-d1.substack.com",
+   "20260911111405.3.adaab61fcdff9a8d@mg-d0.substack.com",
+   "20260911112732.3.521d72b637817b1a@mg-d1.substack.com",
+   "20260911122225.3.aa31ed4064623e44@mg-d1.substack.com",
+   "20260911132706.3.c9b3c40f20ffc80b@mg-d0.substack.com",
+   "20260911140254.3.b8b49f8086ab72c2@mg2.substack.com",
+   "20260911140735.3.3ef7860d9587fdc0@mg-d0.substack.com",
+   "20260911143529.3.5ecd8de68ea6694f@mg-d0.substack.com",
+   "20260911170811.3.2f31baff1ae5e6b8@mg-d0.substack.com",
+   "20260911214008.3.343f997fc5df6520@mg-d1.substack.com",
+   "20260912010110.3.64b9be49f633e83c@mg2.substack.com"
   ],
-  "updated": "2026-09-10T18:13-07:00",
+  "updated": "2026-09-11T18:15-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260912010110.3.64b9be49f633e83c@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "How 9/11 Changed the World",
+   "date": "2026-09-11T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/how-911-changed-the-world",
+   "bullets": [
+    "Less than a week after 9/11, President George W. Bush visited a Washington mosque, proclaimed “Islam is peace,” and then launched invasions of Afghanistan and Iraq, countries unrelated to the attacks.",
+    "Zeteo’s essay argues that 9/11 reshaped global politics in two dramatic ways, linking the immediate rhetorical shift toward Islam with the subsequent military interventions in the Muslim world."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260911214008.3.343f997fc5df6520@mg-d1.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 86: Trump Dangles Bribe to Voters to Secure Republican Midterm Victories",
+   "date": "2026-09-11T14:40-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-86-trump",
+   "bullets": [
+    "Trump promised a $5,000 cash check to every adult U.S. citizen if Republicans win the midterms, a repeated but unreal pledge used to bribe voters at a Dallas rally.",
+    "The DOJ investigated virus scientists including Anthony Fauci, while also sending letters to at least 30 senior election officials ordering retention of all 2024 election records amid unclear probes.",
+    "Border Patrol deployed ‘Predictive Intelligence Targeting Teams’ to analyze financial data and flag individuals for stops, a practice likened to the dystopian ‘Minority Report.’"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260911170811.3.2f31baff1ae5e6b8@mg-d0.substack.com",
    "newsletter": "JVL - The Bulwark",
@@ -4641,52 +4664,10 @@
     "Anti‑vax sentiment is tied to a lucrative right‑wing “snake‑oil” industry and a broader anti‑intellectual culture war, amplified by figures like Dr. Mehmet Oz and COVID‑era conspiracy narratives, ensuring the political momentum persists beyond Trump’s tenure."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260812001554.3.afa296d880a30364@mg2.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Vaccine Lies, Direct from the Oval Office",
-   "date": "2026-08-11T17:15-07:00",
-   "url": null,
-   "bullets": [
-    "Donald Trump signed an executive order to cut the U.S. childhood vaccine schedule from 17 to 11 shots and split the combined MMR vaccine into three separate injections, despite likely legal challenges similar to a blocked HHS rule by Robert F. Kennedy Jr.",
-    "The order could pressure states to relax school vaccine mandates and, combined with presidential rhetoric, may boost parental vaccine hesitancy as measles cases rise to 2,465 this year—already surpassing last year’s record high since 1991—and pertussis cases also climb.",
-    "Kennedy, a longtime anti‑vaccine activist, has driven the schedule change push from HHS, and Trump has publicly supported his efforts, even expressing frustration that Kennedy isn’t moving faster on the agenda."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260811213304.3.60fd0151463ba1d4@mg-d1.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Amanda Carpenter: Audit the White House",
-   "date": "2026-08-11T14:33-07:00",
-   "url": null,
-   "bullets": [
-    "Amanda Carpenter argues that Trump’s pardon power can’t shield those profiting from shady contracts, citing forfeiture and seizure laws that could strip them of money and restore taxpayer funds.",
-    "She links China’s $100 million donation to Trump’s cryptocurrency firm to his soft‑on‑China stance, suggesting a bribery motive behind his policies.",
-    "Carpenter notes Trump’s use of a catering cart to exit Turkey, claims the White House is engaging in socialist‑style company takeovers, and warns the National Guard will remain in DC until 2029."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260811210245.3.672bee6699c587e5@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "'I've Been Handed a Death Sentence, and My Crime Is Being a Cancer Patient From Gaza'",
-   "date": "2026-08-11T14:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/ive-been-handed-a-death-sentence",
-   "bullets": [
-    "Um Mahmoud, a Gaza-born cancer patient diagnosed in 2020, was receiving treatment in Ramallah when Israel’s 2023 war on Gaza began, leaving her trapped in the West Bank without care.",
-    "The Palestinian Authority can no longer fund her treatment because Israel has withheld tax revenues, forcing Um Mahmoud to wait while her cancer worsens.",
-    "Her case illustrates how Israel’s genocide in Gaza extends beyond the conflict zone, crippling healthcare access for Palestinians in the occupied West Bank."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 81,
-  "total": 338
+  "shown": 79,
+  "total": 337
  }
 }
