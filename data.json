@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T18:15-07:00",
+ "updated": "2026-09-12T10:17-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -55,6 +55,115 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260912170204.3.c8bb808a8d9f25f8@mg-d1.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: Israel Kills Kids on First Day of School in Gaza",
+   "date": "2026-09-12T10:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israel-kills-dae",
+   "bullets": [
+    "Israel killed 8‑year‑old Wafaa Akila and her father on her first day of school in Gaza, with photos showing her smiling in uniform and her books crushed in the vehicle that struck her.",
+    "On the same day Israel also killed child Saadi Ghalia sleeping in a school shelter, and three days later a family of four, including two young daughters, were killed while sleeping.",
+    "Haaretz published two investigative reports on Gaza during the week, while political figure Mike Huckabee described the West Bank as a ‘nebulous term’ during a visit."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260912151736.3.61ac0b496c176025@mg-d1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Fear and Loathing Among the Fearful and Self-Loathing",
+   "date": "2026-09-12T08:17-07:00",
+   "url": null,
+   "bullets": [
+    "The author describes attending the Republican midterm convention in Dallas, enduring 100‑degree heat and a chaotic line outside a venue adorned with a Dirk Nowitzki statue.",
+    "After initial denial and silence from media ops, the author finally obtained five media passes at the Hilton Anatole, allowing entry to Trump’s midterm rally."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260912130345.3.afb378319f1256c7@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Trump Partied in Texas as Iran and Its Allies Began a ‘Tet Offensive’ on the World Economy",
+   "date": "2026-09-12T06:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-iran-houthis-republican-convention",
+   "bullets": [
+    "Trump’s self‑aggrandizing “Trump‑a‑palooza” convention in Dallas ended with a loyalty oath video and rhetoric defending his failed Iran war while dismissing gas‑price concerns.",
+    "Inside sources, including administration officials and Trump advisers present at the event, warned that Iran and its allies were launching a new, aggressive campaign that could further destabilize the global economy.",
+    "The juxtaposition of the party‑centric rally and the escalating Iran conflict highlighted internal GOP anxieties about the war’s spiraling costs ahead of the 2026 midterms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260912130338.3.77642ee164926988@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“You know which gazelle gets eaten by the lion? The one that strays from the pack.”",
+   "date": "2026-09-12T06:03-07:00",
+   "url": "https://post.substack.com/p/you-know-which-gazelle-gets-eaten",
+   "bullets": [
+    "Jim Waterson, David Hall and Polly Smythe expose the illegal soft‑serve ice‑cream trade on Westminster Bridge, describing rival vans, police inaction and the financial stakes of the family‑run operations.",
+    "Meghan O’Gieblyn argues AI threatens our relationship to language and reasoning, warning that synthetic text erodes higher cognitive functions while also providing a baseline to spot human spontaneity."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260912123012.3.f822b6596aa540da@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Should Dems Expand the Senate Map?",
+   "date": "2026-09-12T05:30-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/should-dems-expand-the-senate-map-3ff",
+   "bullets": [
+    "Pfeiffer argues Democrats should broaden their Senate strategy beyond the four winnable states (Alaska, Maine, North Carolina, Ohio) to include long‑shot races like South Carolina, Kansas, Mississippi, and even Texas, citing Trump’s ballot entry and potential high Black turnout in SC.",
+    "He notes that South Carolina’s Democratic nominee, Darline Graham, is weak, Trump is unpopular, and a surge in Black voter participation could make a victory plausible, though still a long shot.",
+    "Pfeiffer urges donors to consider contributions to these expanded targets, emphasizing that competing in many more red states could improve overall Senate flip chances."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260912120618.3.09d23a51ad0c1c58@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Something's Happening in Texas (with Chris Hooks)",
+   "date": "2026-09-12T05:06-07:00",
+   "url": null,
+   "bullets": [
+    "Democrats retain a realistic shot at the Texas Senate seat because incumbent Ken Paxton’s scandalous record is alienating GOP voters and Rep. James Talarico’s “nice young man” appeal is resonating with Trump supporters.",
+    "Hooks argues that emerging tech projects like data centers and Flock surveillance cameras could be leveraged to win back disaffected Trump voters in Texas.",
+    "The episode also previews a Focus Group newsletter with deeper analysis and promotes upcoming Bulwark live events featuring Pete Buttigieg and other speakers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260912103050.3.6e2b88b8cc4fd95b@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Henry Farrell and Abe Newman on Weaponized Interdependence",
+   "date": "2026-09-12T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/henry-farrell-and-abe-newman-on-weaponized",
+   "bullets": [
+    "Weaponized interdependence describes how centralized global networks like SWIFT become geopolitical choke points that powerful states—especially the U.S.—can exploit to exclude or surveil rivals, a dynamic first detailed in Farrell and Newman’s 2019 paper and their book Underground Empire.",
+    "The authors argue that U.S. post‑9/11 policy shifted Treasury’s stance from protecting the global financial system to using it as a tool of power, expanding pressure from Iran to China and even the International Criminal Court, and that similar choke points now exist in sectors such as semiconductor and rare‑earth supply chains."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260912090054.3.cf5c61717106661c@mg2.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Apricity or Bust",
+   "date": "2026-09-12T02:00-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/apricity-or-bust",
+   "bullets": [
+    "German Chancellor Friedrich Merz, now at roughly 15% approval and facing anger‑filled criticism after a regional election loss, is blamed for inaction on the looming energy crisis despite EU’s broader policy failures.",
+    "European LNG prices on the Dutch TTF are over ten times U.S. Henry Hub rates, and Germany’s gas storage remains critically low, making a winter energy emergency likely.",
+    "The newsletter argues that EU leaders’ neglect of emergency measures and Merz’s mishandling could lead to his political ouster as winter energy shortages worsen."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260912010110.3.64b9be49f633e83c@mg2.substack.com",
    "newsletter": "Zeteo",
@@ -4511,163 +4620,10 @@
     "Rep. Cory Mills (R‑Fla.) recently blamed Democratic “lawfare” for his ethics investigation, echoing Trump’s claim that accusations are political attacks, reinforcing the newsletter’s argument that today’s GOP sees scandal survival as emulating Trump."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260812163252.3.1cf23ceefaf485b4@mg-d0.substack.com",
-   "newsletter": "Citrini",
-   "pub": "citrini",
-   "subject": "Missile Restocking",
-   "date": "2026-08-12T09:32-07:00",
-   "url": "https://open.substack.com/pub/citrini/p/missile-restocking",
-   "bullets": [
-    "The U.S. has fired more missiles and interceptors in the first five months of 2026 than in any year since Desert Storm, driven by Russian and Iranian advances in autonomous drones and ballistic missiles, and the FY2027 DoW budget proposes a nearly 5‑fold increase in missile spending.",
-    "Patriot and THAAD stockpiles have been depleted by ~66% and ~44% respectively, with CSIS noting no viable alternatives, exposing a critical vulnerability in U.S. and allied missile defense that the administration is addressing through expanded production capacity and increased competition among prime contractors.",
-    "The defense industrial base faces systemic constraints—limited production capacity, fragile supply chains, and long lead times—leading to a shift from a 20‑year consolidation of prime contractors to a new strategy of capacity expansion and anti‑competitive oligopoly mitigation to meet urgent demand signals."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260812160026.3.daf89d25f5aacf6b@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "It’s Black Voters, Stupid. And Thank God for That.",
-   "date": "2026-08-12T09:00-07:00",
-   "url": null,
-   "bullets": [
-    "The author argues Democratic primary success now hinges on African‑American voters, noting they remain the party’s backbone while DSA‑aligned candidates like Abdul El‑Sayed underperform with Black voters despite strong poll numbers.",
-    "Wisconsin polls lagged behind rapid voter shifts, missing David Crowley’s surge from 22% to 39.8% after Mandela Barnes dropped out, illustrating real‑time polling latency rather than inaccuracy.",
-    "Mike Lindell’s Trump‑endorsed bid for Minnesota governor collapsed, failing to break 50% even in the state’s most pro‑Trump counties, underscoring the limits of MAGA brand appeal."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260812150419.3.4888fdd51259eadb@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Mehdi Meets Count Binface",
-   "date": "2026-08-12T08:04-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/mehdi-meets-count-binface",
-   "bullets": [
-    "Count Binface runs against Nigel Farage in Clacton-on-Sea",
-    "Binface proposes capping Flake ice cream at 99p",
-    "He criticizes Farage's false equivalence on democratic mandate"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260812144123.3.8c27dcf50e34221c@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "What the Hell Just Happened in Wisconsin?",
-   "date": "2026-08-12T07:41-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/what-the-hell-happened-in-wisconsin",
-   "bullets": [
-    "Francesca Hong lost Democratic nomination for governor in Wisconsin",
-    "David Crowley won with electability as a central issue",
-    "Governor Evers claimed Hong would lose to Tom Tiffany"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260812133034.3.676f31b750d5bc2d@mg-d0.substack.com",
-   "newsletter": "Here Be Dragons from Barbara F. Walter",
-   "pub": "barbarafwalter",
-   "subject": "Trump is Going to Eat His Own.",
-   "date": "2026-08-12T06:30-07:00",
-   "url": "https://barbarafwalter.substack.com/p/trump-is-going-to-eat-his-own",
-   "bullets": [
-    "Trump will face a hostile Democratic majority in the House and Senate after the midterms",
-    "Trump will aim his anger at his own party and potential successors",
-    "Trump may sabotage potential successors like Vance or Rubio to prevent them from inheriting his movement"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260812132341.3.e68cb285459a6f20@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Night Thanksgiving Was Saved",
-   "date": "2026-08-12T06:23-07:00",
-   "url": null,
-   "bullets": [
-    "David Crowley won Wisconsin's Democratic gubernatorial primary",
-    "Luke Bronin defeated Rep. John Larson in Connecticut's 1st Congressional District primary",
-    "William Kristol predicts a Democratic blue wave in November"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260812130149.3.c425620189a80d5f@mg2.substack.com",
-   "newsletter": "James Horton, PhD. from Moonshots",
-   "pub": "jimhorton",
-   "subject": "The Writer and the Sea",
-   "date": "2026-08-12T06:01-07:00",
-   "url": "https://jimhorton.substack.com/p/the-writer-and-the-sea",
-   "bullets": [
-    "The essay uses Genesis’s primordial water and firmament myth to argue that ancient creation stories are symbolic narratives about separating chaos into ordered worlds, not scientific accounts.",
-    "It links writers’ fascination with the sea—citing Hemingway’s Cuban voyages and Borges’s comparison of the ocean to Dostoevsky—to illustrate how the sea serves as a metaphor for discovery and new worlds for storytellers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260812123817.3.c75e090a37e2f84a@mg-d0.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "MAGA Has Found Its New Favorite Culture War",
-   "date": "2026-08-12T05:38-07:00",
-   "url": null,
-   "bullets": [
-    "Bill Cassidy’s emotional floor speech failed to sway the Senate vote that confirmed Todd Blanche as Attorney General, highlighting the GOP’s internal divisions on judicial appointments.",
-    "Tucker Carlson’s recent interviews with Hunter Biden and his monologue echoing presidential rhetoric suggest a pivot toward a campaign‑style media strategy, raising questions about his influence on the 2024 race.",
-    "The DSA‑aligned Wisconsin gubernatorial candidate Francesca Hong’s candidacy is portrayed as a high‑stakes experiment in a swing state, underscoring the Democrats’ willingness to test progressive platforms in key battlegrounds."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260812110054.3.10f8a7976b816000@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Trump Is Now Openly Flirting With Attacking the Midterms",
-   "date": "2026-08-12T04:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-is-now-openly-flirting-with",
-   "bullets": [
-    "Trump told far‑right host Wayne Allyn Root that declaring a national emergency over the midterms could be a viable alternative to the stalled SAVE Act, hinting at a potential coup against U.S. democracy.",
-    "Francesca Hong, the democratic socialist once seen as the Democratic nominee for Wisconsin governor, lost a tight primary to moderate David Crowley, while Minnesota’s Peggy Flanagan won the Senate primary, boosting the left’s prospects.",
-    "Exclusive polling shows the Kansas Senate race is nearly tied, a rare scenario as the state has not elected a Democrat to the upper chamber in 96 years, underscoring the high electoral stakes nationwide."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260812103111.3.ae28a0ea1ebad1e5@mg-d1.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Why you can’t find a primary care doctor",
-   "date": "2026-08-12T03:31-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/why-you-cant-find-a-primary-care",
-   "bullets": [
-    "Over 100 million Americans lack primary care, driven by a fee‑for‑service system that pays $259 per visit versus $1,092 for a gastroenterology visit, leading to an 87,000‑doctor shortfall by 2037.",
-    "Primary care doctors face 15‑minute visits, 45 % burnout, and 39 % plan to stop seeing patients, deepening shortages; solutions include value‑based payment, expanded residency slots, and AI‑driven admin reduction.",
-    "Patients can mitigate the gap by seeking community health centers, skilled NPs/​PAs, telehealth, and becoming proactive advocates—preparing concise concerns, a one‑page health summary, and asking targeted questions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260812103053.3.9a22da19c32da41d@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Rise of the Measles-Industrial Complex",
-   "date": "2026-08-12T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-rise-of-the-measles-industrial",
-   "bullets": [
-    "Trump’s executive order threatens to cut U.S. child vaccination rates, coinciding with a measles surge that has already surpassed last year’s worst season since 1991; scientific studies find no vaccine‑autism link, but air‑pollution exposure does correlate with higher autism rates.",
-    "Vaccination skepticism is now a predominantly Republican stance, with Gallup polls showing a decade‑long decline in belief in vaccine importance and a rise in perceived danger, though it remains a minority view within the party.",
-    "Anti‑vax sentiment is tied to a lucrative right‑wing “snake‑oil” industry and a broader anti‑intellectual culture war, amplified by figures like Dr. Mehmet Oz and COVID‑era conspiracy narratives, ensuring the political momentum persists beyond Trump’s tenure."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 79,
-  "total": 337
+  "shown": 78,
+  "total": 334
  }
 }
