@@ -1,30 +1,17 @@
 {
- "updated": "2026-09-12T10:17-07:00",
+ "updated": "2026-09-12T18:11-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 25th anniversary of 9/11 is dominating coverage, with Zeteo, The Bulwark, and Krugman linking the attacks to the U.S.‑led Global War on Terror, its costly wars, and the long‑term political decline it sparked (Zeteo, The Bulwark, Krugman).",
-   "Trump’s $5,000 \"dividend\" promise at the Dallas midterm convention is being dissected as a trillion‑dollar gimmick that fuels GOP infighting, drives up dark‑money spending, and may actually help Democrats in key Senate races (The Bulwark, Dan Pfeiffer, Catherine Rampell).",
-   "Republican strategy is increasingly focused on cultural spectacle and loyalty‑based media ecosystems, with analysts warning that the party lacks substantive policy ideas and is veering toward authoritarian tactics (The Bulwark, Sarah Longwell, Will Sommer).",
-   "Middle‑East geopolitics is resurfacing as a flashpoint: al‑Qaeda’s long‑term goals appear to be bearing fruit, Iran is gaining strategic leverage, and the U.S.‑backed war on terror is being blamed for empowering authoritarian rivals (The Bulwark, Zeteo, Mehdi Unfiltered).",
-   "Democratic operatives are scrambling to counter Trump’s narrative, using grassroots voter‑by‑voter tactics, rapid‑response fact‑checks, and targeted Senate race strategies to turn the GOP’s chaos into a Democratic advantage (The Message Box, The Bulwark, Dan Pfeiffer).",
-   "Personal stories of 9/11’s human toll—mothers remembering lost children and a retired general revealing secret war plans—underscore the enduring emotional and moral reckoning that still shapes U.S. politics (Mehdi Unfiltered, Zeteo)."
+   "Trump’s $5,000 “dividend” pledge dominates the midterm narrative, inflating GOP rhetoric while prompting Democratic strategists to view it as a liability for Senate races (The Bulwark, The Message Box, Zeteo).",
+   "The humanitarian crisis in Gaza escalates, with multiple child deaths highlighted alongside broader Middle‑East instability that threatens U.S. influence (Zeteo, The Bulwark).",
+   "U.S. economic strain resurfaces as inflation spikes post‑Iran war, European energy shortages loom, and debates over weaponized financial interdependence intensify (Doomberg, Paul Krugman).",
+   "Democratic operatives scramble to broaden their Senate map and leverage grassroots tactics amid GOP disarray and Trump‑driven voter dynamics (Dan Pfeiffer, Sarah Longwell, The Bulwark).",
+   "Cultural and legal battles intensify, from illegal soft‑serve ice‑cream trades in London to Supreme Court rulings easing partisan ad spending, underscoring a polarized media‑politics ecosystem (The Substack Post, Roy Cooper, The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20260909090058.3.ad7a33a3d63c548b@mg-d1.substack.com",
-   "20260909105915.3.0ab1a992f8a8bae4@mg-d1.substack.com",
-   "20260909110101.3.114d9007239d903f@mg2.substack.com",
-   "20260909111010.3.ae91c1beb61f235a@mg-d0.substack.com",
-   "20260909132206.3.cf56781141fa68c5@mg-d0.substack.com",
-   "20260909161044.3.8f09efe1d2ddbd82@mg2.substack.com",
-   "20260909163740.3.221a5db4accb6cc6@mg-d0.substack.com",
-   "20260909164244.3.73eedef62f87e1ae@mg2.substack.com",
-   "20260909185845.3.64995653a930c047@mg-d1.substack.com",
-   "20260909202014.3.303cb5e9466a314b@mg2.substack.com",
-   "20260909210054.3.43ee1364abcef35b@mg2.substack.com",
-   "20260909213334.3.75870218ca0273cc@mg-d0.substack.com",
    "20260910105638.3.726d688d584662f4@mg-d0.substack.com",
    "20260910111917.3.dc4d2f4a7aa53f37@mg2.substack.com",
    "20260910115909.3.668a9ccfced5486d@mg-d1.substack.com",
@@ -49,12 +36,35 @@
    "20260911143529.3.5ecd8de68ea6694f@mg-d0.substack.com",
    "20260911170811.3.2f31baff1ae5e6b8@mg-d0.substack.com",
    "20260911214008.3.343f997fc5df6520@mg-d1.substack.com",
-   "20260912010110.3.64b9be49f633e83c@mg2.substack.com"
+   "20260912010110.3.64b9be49f633e83c@mg2.substack.com",
+   "20260912090054.3.cf5c61717106661c@mg2.substack.com",
+   "20260912103050.3.6e2b88b8cc4fd95b@mg2.substack.com",
+   "20260912120618.3.09d23a51ad0c1c58@mg-d1.substack.com",
+   "20260912123012.3.f822b6596aa540da@mg-d0.substack.com",
+   "20260912130338.3.77642ee164926988@mg-d1.substack.com",
+   "20260912130345.3.afb378319f1256c7@mg-d1.substack.com",
+   "20260912151736.3.61ac0b496c176025@mg-d1.substack.com",
+   "20260912170204.3.c8bb808a8d9f25f8@mg-d1.substack.com",
+   "20260912190450.3.beb625b1b69edb27@mg-d1.substack.com"
   ],
-  "updated": "2026-09-11T18:15-07:00",
+  "updated": "2026-09-12T18:11-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260912190450.3.beb625b1b69edb27@mg-d1.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Let’s Stand Together for Springfield",
+   "date": "2026-09-12T12:04-07:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark will host a live fundraiser on September 25 at the Dayton Masonic Center to aid Springfield’s Haitian community, featuring the crew and special guests, with donation links forthcoming.",
+    "Trump’s latest attempt to influence mail‑in voting is back before the Supreme Court, while two former CIA officers criticize Secretary John Ratcliffe’s leadership of the agency.",
+    "The weekly book club meets Wednesday at 1:30 p.m. EDT, where Mona Charen and Sonny Bunch will discuss Emily Wilson’s translation of The Odyssey and Christopher Nolan’s film adaptation."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260912170204.3.c8bb808a8d9f25f8@mg-d1.substack.com",
    "newsletter": "This Week in Palestine | Zeteo",
@@ -4566,64 +4576,10 @@
     "The author warns that this escalation could further weaken Europe’s energy and food security ahead of a harsh winter, as Putin could leverage control of Black Sea routes and potential Turkish cooperation to pressure the EU."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260813010100.3.3f216c9f0b8a0d0e@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Bernie Sanders Joins Mehdi to Talk Dems, Abdul El-Sayed, AIPAC, and Netanyahu",
-   "date": "2026-08-12T18:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/bernie-sanders-joins-mehdi",
-   "bullets": [
-    "Bernie Sanders praises recent primary wins of Democratic socialists like Abdul El‑Sayed in Michigan, criticizes Democratic leadership and the corrupt campaign‑finance system that fuels Super PACs",
-    "He says aid‑to‑Israel should be a litmus test for Democratic presidential candidates and rebuffs criticism for focusing on Netanyahu over Israel’s broader occupation",
-    "Sanders attacks John Fetterman’s Fox appearances that disparage him, while the interview is available as a 2‑minute preview for free and full video for paid subscribers"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260813000011.3.2cdc7b977d097856@mg-d0.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Dem Voters Have One Weird Obsession: Winning",
-   "date": "2026-08-12T17:00-07:00",
-   "url": null,
-   "bullets": [
-    "Democratic primary voters in Wisconsin prioritized electability, fearing a GOP governor Tom Tiffany in 2028, and chose David Crowley over Francesca Hong despite polls suggesting a 20‑point lead for Hong.",
-    "Pat Dennis of American Bridge predicted Hong’s loss, arguing that Democratic voters now judge candidates on perceived ability to win the general election, a shift distinct from Republican primary motivations."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260812230005.3.53b49a90056eed94@mg2.substack.com",
-   "newsletter": "Ragebait | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Dem Uses Fox as a Platform for Hate",
-   "date": "2026-08-12T16:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-dem-uses-fox-as-a-platform-for",
-   "bullets": [
-    "Michael LaRosa, former Jill Biden spokesperson, endorsed Michigan GOP Senate candidate Mike Rogers on Fox’s Laura Ingraham show, accusing Democrat Abdul El‑Sayed of “cowardly” 9/11 remarks and linking him to a 2016 comment by leftist streamer Hasan Piker.",
-    "LaRosa urged El‑Sayed to publicly denounce 9/11 and even called for New York Mayor Zohran Mamdani to be barred from the 9/11 commemoration, while Rogers falsely claimed El‑Sayed believed America deserved 9/11 after his Democratic nomination."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260812194804.3.ac770bb203b5d6a6@mg-d1.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "How to Survive a Republican Scandal: Imitate Trump",
-   "date": "2026-08-12T12:48-07:00",
-   "url": null,
-   "bullets": [
-    "After three women accused Rep. Max Miller (R‑Ohio) of abuse, Trump called him, warned his re‑election could be in trouble, but Miller vowed to stay and praised Trump as his model for surviving scandal.",
-    "The piece cites a pattern where GOP lawmakers like Rep. Duncan Hunter, Rep. Matt Gaetz, and Rep. George Santos invoked Trump during legal crises, receiving favors such as a pardon for Santos and a failed AG nomination for Gaetz, illustrating the party’s reliance on Trump’s “felon‑in‑chief” narrative.",
-    "Rep. Cory Mills (R‑Fla.) recently blamed Democratic “lawfare” for his ethics investigation, echoing Trump’s claim that accusations are political attacks, reinforcing the newsletter’s argument that today’s GOP sees scandal survival as emulating Trump."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 78,
-  "total": 334
+  "shown": 76,
+  "total": 331
  }
 }
