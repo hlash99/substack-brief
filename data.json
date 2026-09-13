@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T18:11-07:00",
+ "updated": "2026-09-13T10:27-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -51,6 +51,61 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260913160034.3.1923ceab02ccc7c3@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Why I Correct Pro-Israel Headlines on Gaza",
+   "date": "2026-09-13T09:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-i-correct-pro-israel-headlines",
+   "bullets": [
+    "The author argues that Western media systematically sanitizes Israel’s actions—using euphemisms like “evictions” and “targeted strikes”—to obscure occupation, apartheid, and the Gaza genocide, shaping public perception.",
+    "He documents specific examples, such as the muted reporting of 5‑year‑old Hind Rajab’s death and the under‑reporting of Israel’s role in killing journalists, showing how language downplays atrocities.",
+    "By correcting headlines and exposing these linguistic choices, he aims to reveal the political weaponization of language that shields Israel from accountability and fuels U.S. foreign‑policy support."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260913151549.3.db816cd252ffa993@mg2.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How MAGA Bewildered Voters Into Its Alternate Reality",
+   "date": "2026-09-13T08:15-07:00",
+   "url": null,
+   "bullets": [
+    "The right built a parallel media empire—Fox, Daily Wire, OANN, Newsmax, podcasts, YouTubers—starting around 2010, so by Trump’s 2015 rise it could replace mainstream news for many voters.",
+    "Algorithm‑driven platforms now deliver news to ‘receivers’ who accept whatever the feed shows, reinforcing echo chambers and eroding trust in any source, a trend the author says threatens democratic fact‑checking.",
+    "Focus‑group quotes show both MAGA and Biden voters expressing deep confusion about what to believe, illustrating the broader ‘Great Media Unraveling’ that has left Americans without trusted information brokers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260913120328.3.6012c2c74dd4bec2@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Here’s How You Know Trump’s Canada Tariffs Are Bombing",
+   "date": "2026-09-13T05:03-07:00",
+   "url": null,
+   "bullets": [
+    "Retired autoworker Tanya Rincon warns Trump’s Canada tariffs will raise prices on U.S.-assembled vehicles that rely on Canadian parts, harming Michigan auto jobs.",
+    "The United Auto Workers and other unions publicly oppose the tariffs, citing higher consumer costs on goods from cosmetics to ice‑hockey equipment.",
+    "Polls in Michigan show over two‑thirds of voters disapprove of the Canada tariffs, making the issue a significant midterm election concern."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260913104516.3.3fd009935e8828f0@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Trade, Peace and War",
+   "date": "2026-09-13T03:45-07:00",
+   "url": "https://paulkrugman.substack.com/p/trade-peace-and-war",
+   "bullets": [
+    "Krugman warns that while post‑WWII US‑led trade networks were framed as a “Pax Americana” promoting peace, the growing field of geoeconomics shows how economic ties can be weaponized for coercion, citing Iran‑backed Houthi seizures in the Red Sea and attacks on Saudi oil pipelines.",
+    "He cites political scientists Farrell and Newman’s concept of “weaponized interdependence,” noting that trade can become a tool of conflict and even trigger wars, and previews a primer covering historical peace arguments, conflict cases, escalation mechanisms, and current security costs."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260912190450.3.beb625b1b69edb27@mg-d1.substack.com",
    "newsletter": "Jim Swift - The Bulwark",
@@ -4494,92 +4549,10 @@
     "The Kirk murder has sparked a MAGA civil war and unrest within Turning Point USA, fueling a lucrative “Super Bowl of Charlie murder content” that media figures are exploiting for profit"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260813170606.3.3c1a8cb9294e6743@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Cheating Is All Trump Knows",
-   "date": "2026-08-13T10:06-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/cheating-is-all-trump-knows",
-   "bullets": [
-    "Trump claimed a two‑under‑par 70 at his Bedminster club, calling it a “40 Club Championship,” but senior golfers and writer Rick Reilly say an 80‑year‑old with his swing can’t plausibly shoot ten shots under his age, implying cheating.",
-    "Conservative journalist Scott McConnell, a Trump club member, publicly called the win “cheating,” suggesting Trump’s false golf bragging reflects a broader pattern of dishonesty in his political and business claims.",
-    "The newsletter uses the golf scandal to argue that Trump’s penchant for fabricating achievements on the course mirrors his overall compulsion to cheat in politics, the economy, and deal‑making."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260813164708.3.17e6989bd9e8676b@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Great Burrito Discourse Isn’t Actually About Burritos",
-   "date": "2026-08-13T09:47-07:00",
-   "url": null,
-   "bullets": [
-    "Republican influencers’ outrage over a $20 burrito split into three camps—America First blame Biden/neocons, pro‑Trump conservatives mock ‘snowflake’ complaints, and anti‑anti‑Trumpers argue the price is inflated by delivery fees—but the debate masks deeper concerns about housing affordability.",
-    "The author argues that today’s young adults face unaffordable home prices far beyond past generations, forcing them into a consumerist trap of cheap tech and food while the traditional wealth‑building path of homeownership collapses."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260813132242.3.fc8731d5b0f7612c@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Summer of Lost Causes",
-   "date": "2026-08-13T06:22-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s White House is in crisis as Press Secretary Karoline Leavitt quits, citing maternity‑work balance, while the administration struggles to replace her unique blend of spin and dishonesty.",
-    "Trump’s domestic agenda has stalled; he is fixated on reviving weak cases like the Reflecting Pool vandalism, forcing U.S. Attorney Jeanine Pirro to admit the Justice Department lacks evidence and sparking a special grand jury.",
-    "The newsletter contrasts Trump’s failed pivot strategy with past bold moves, noting his current “summer of lost causes” and the broader decline of his political momentum."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260813113322.3.3351e2652e38ec6f@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "✈️ 🚚 Moronic Trump Thinks It’s Funny He Left Toadies and the Media on Death Force One",
-   "date": "2026-08-13T04:33-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/moronic-trump-thinks-its-funny-he",
-   "bullets": [
-    "Trump’s alleged Air Force One decoy operation, amid claims of Iranian-backed threats, was downplayed by the CIA’s low confidence and the White House’s heightened security for his family.",
-    "The newsletter criticizes Trump’s use of body doubles and “human shields,” likening him to a cartoon villain and questioning the ethics of his presidential security tactics.",
-    "Progressive defeats in Wisconsin and wins in Minnesota are framed as a call for unity to wrest Congress from the GOP, suggesting Democrats are learning from recent electoral setbacks."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260813103106.3.7197e0b541bc2b50@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Why Isn’t the Price of Oil Even Higher?",
-   "date": "2026-08-13T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/why-isnt-the-price-of-oil-even-higher",
-   "bullets": [
-    "Oil prices appear low because crude is only $25 above pre‑war levels, but the crack spread—difference between crude and refined products—has risen $35, pushing gasoline and diesel prices to $4+ and $5+ per gallon.",
-    "The widening crack spread is driven by reduced refining capacity in the Strait of Hormuz and Ukraine’s drone attacks, limiting crude processing and keeping crude prices down while refined product prices surge."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260813090137.3.935fd4623718ad59@mg2.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "A Minor Detail",
-   "date": "2026-08-13T02:01-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/a-minor-detail",
-   "bullets": [
-    "In mid‑July, pro‑Ukrainian sources reported a drone campaign that hit dozens of commercial ships in the Sea of Azov, including vessels carrying Russian grain, prompting Russia to launch a massive retaliation that effectively sealed off Ukraine’s Black Sea ports, threatening a 50% drop in its agricultural exports.",
-    "Russia’s swift, disproportionate response coincided with a U.S.‑Turkey weapons deal delivering 70 ATACMS missiles, 12 MLRS launchers, over 2,000 cluster munitions and 47,000 howitzer rounds to Ukraine, raising fears of heightened Russia‑Turkey tensions.",
-    "The author warns that this escalation could further weaken Europe’s energy and food security ahead of a harsh winter, as Putin could leverage control of Black Sea routes and potential Turkish cooperation to pressure the EU."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 76,
-  "total": 331
+  "total": 329
  }
 }
