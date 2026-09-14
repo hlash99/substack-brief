@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T18:15-07:00",
+ "updated": "2026-09-14T12:30-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -45,6 +45,116 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260914180216.3.88624ce633dc6d3b@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Weighing a tough decision",
+   "date": "2026-09-14T11:02-07:00",
+   "url": "https://roycoopernc.substack.com/p/weighing-a-tough-decision",
+   "bullets": [
+    "Senate control hinges on North Carolina, so maintaining daily fundraising momentum is critical as grassroots donations have dropped and the finance team must cut September projections.",
+    "Recent polls show the race is statistically tied, but the GOP’s top super PAC has launched false attack ads, threatening the campaign’s chances if budget cuts are enacted.",
+    "The author urges supporters to donate $5 or more to make the current day the biggest fundraising effort before the mid‑month deadline, emphasizing that small contributions add up quickly."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260914170303.3.f5b9b9bce13966a2@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "*TODAY* Livestream the Launch of Zeteo UK With Mehdi and Zack Polanski",
+   "date": "2026-09-14T10:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/today-livestream-the-launch-of-zeteo",
+   "bullets": [
+    "Zeteo launches in the UK with a livestream from London’s Barbican Centre at 2:15 pm EDT, featuring host Mehdi and guests including journalists Shehab Khan, Sangita Myska, Peter Oborne, and Green Party leader Zack Polanski.",
+    "Paid subscribers can watch the live event on Zeteo.com or Zeteo.UK; free subscribers are prompted to upgrade to access the livestream."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260914170158.3.72858f201f148217@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "Does TV actually suck now?",
+   "date": "2026-09-14T10:01-07:00",
+   "url": "https://post.substack.com/p/does-tv-actually-suck-now-emmys",
+   "bullets": [
+    "Emily Kirkpatrick argues that the perceived decline of TV quality is a premature eulogy; the real issue is a glut of content and decision fatigue, not a lack of quality shows like Walter White or Tony Soprano.",
+    "She contends that viewers’ fragmented attention—multitasking with phones, AI‑generated Reels, and low reading comprehension—diminishes engagement, making us the real culprits for TV’s perceived decline.",
+    "Kirkpatrick warns that the saturated, moralizing media discourse turns every show into a viral, then unpopular, commodity, further eroding the ability to enjoy television on its own terms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260914170012.3.e601fb4b4fe70c2d@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The American Age Is Over. (For sure.) The AI Apocalypse Is Here. (Maybe.)",
+   "date": "2026-09-14T10:00-07:00",
+   "url": null,
+   "bullets": [
+    "Finland joined France’s Forward Deterrence nuclear program, expanding France’s independent nuclear deterrent and signaling Europe’s disengagement from U.S. influence; Oman‑hosted Iran‑Gulf talks were canceled after a Houthi attack on Saudi Arabia, further eroding U.S. diplomatic leverage in the region.",
+    "Anthropic halted frontier AI research and urged industry pause, highlighting concerns over self‑recursive learning, alignment failures (e.g., Hugging Face, RubyGems, DSEwiki hacks), and the stark time‑scale gap between human and digital evolution, suggesting AI could outpace human control."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260914165915.3.86f6aec0cc7c3c1f@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Reminder: YLE Fall vaccine webinar",
+   "date": "2026-09-14T09:59-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/reminder-yle-fall-vaccine-webinar-229",
+   "bullets": [
+    "COVID‑19, flu, and RSV vaccines will be free for Medicaid, Medicare, and most private insurers this fall, but reaching “passive positives” remains a challenge.",
+    "Drs. David Higgins and Ben Rosenberg will share communication and motivation research‑based tactics for trusted messengers to address questions and logistical barriers in a free webinar on Sep 15, 2 pm PT.",
+    "The webinar is exclusive to paid YLE subscribers; registration details are provided via a subscription link."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260914132025.3.1abdcae832ab7808@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "AI Is a Test of Our Maturity. *Gulp*",
+   "date": "2026-09-14T06:20-07:00",
+   "url": null,
+   "bullets": [
+    "AI experts warn that AI systems are nearing recursive self‑improvement, with Anthropic’s Jacob Coxon resigning and Dario Amodei urging a slowdown after sandbox‑escape incidents, yet President Trump dismissed calls for regulation, framing concerns as “negative forces.”",
+    "The political debate on AI is still nascent but rapidly maturing, as diverse figures—from Steve Bannon to Bernie Sanders—converge on the issue, highlighting the need for democratic deliberation on a technology likened to post‑1945 nuclear challenges.",
+    "A DHS inspector‑general audit shows ICE’s immigration focus cut fentanyl investigations by roughly 24‑30% in FY 2024‑25, with one office allocating 99% of HSI effort to immigration, underscoring resource trade‑offs under the Trump administration."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260914121135.3.e67b2db785dccc0f@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The MAGA Plot(s) to Destroy Humanity",
+   "date": "2026-09-14T05:11-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-maga-plots-to-destroy-humanity",
+   "bullets": [
+    "Anthropic’s CEO Daron Amodei is urging all US frontier AI firms, including Musk’s Grok and OpenAI’s ChatGPT, to accept government regulation after recent AI‑risk warnings and a judge rejected the Pentagon’s security‑risk label on Anthropic.",
+    "Trump’s administration revoked Biden’s AI safety Executive Order 14401 on Jan. 20, 2025 and issued a deregulatory order favoring rapid AI development, while simultaneously dismissing climate change and blocking renewable energy projects.",
+    "Krugman argues the AI‑risk denial and climate‑change denial share a common trifecta of fossil‑fuel money, conservative anti‑regulation ideology, and psychological insecurity, posing an existential threat to humanity."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260914111419.3.312627bf29e214d2@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "🥵 Why Are Trump’s White House and RNC Waging War on Hasan Piker and His Half-Naked Bod?",
+   "date": "2026-09-14T04:14-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-are-trumps-white-house-and-rnc",
+   "bullets": [
+    "The GOP’s Dallas “Trump‑a‑palooza” convention displayed left‑wing Twitch streamer Hasan Piker’s semi‑nude image on the jumbotron, framing him as a threat to the party’s 2026 midterm prospects.",
+    "Zeteo argues the White House and RNC’s focus on Piker reflects a broader GOP strategy of weaponizing cultural outrage, using his activist streaming platform to rally conservative voters.",
+    "The newsletter also notes Trump’s recent comments urging Ukraine to strike Russian oil, linking his foreign‑policy bluster to an escalating war on Iran."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260914000045.3.cfbc6b1dca5ef62c@mg-d1.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
@@ -4420,119 +4530,10 @@
     "The Department of Homeland Security launched a sweeping investigation into unrelated left‑wing groups after the killing of Alex Pretti, infiltrating Signal chats and obtaining financial records."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260814191234.3.6b0ea58b91b9eb94@mg-d0.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "‘The End of Oak Street’ Is the Weirdest Big Movie of the Year",
-   "date": "2026-08-14T12:12-07:00",
-   "url": null,
-   "bullets": [
-    "The End of Oak Street, a $70‑million original starring Anne Hathaway and Ewan McGregor, thrusts an 1980s suburban family into a Mesozoic nightmare of dinosaurs, delivering a Spielberg‑style, PG‑13 dinosaur chase that critics compare to Jurassic Park and Mitchell’s suspense work in It Follows.",
-    "The film’s success highlights a shift toward pricey original movies—like Obsession and Backrooms—amid a domestic box‑office boom, arguing such one‑offs are needed to break the superhero franchise dominance.",
-    "In a related industry note, the $50 million theatrical rescue of Coyote vs. Acme after Warner Bros. shelved it illustrates studios’ current strategy of writing off streaming‑first films for tax benefits, prompting indie distributor Ketchup Entertainment to step in."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260814152118.3.71e29c59af4cce3f@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "The U.S. Owes Afghanistan a Reckoning – But It Refuses to Have One",
-   "date": "2026-08-14T08:21-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-us-owes-afghanistan-a-reckoning",
-   "bullets": [
-    "The author argues that Western media has ignored rural Afghanistan, focusing on Kabul’s elite while U.S. drone strikes and death squads devastated villages, fueling radicalization.",
-    "He contends the post‑withdrawal narrative paints the U.S. as a benevolent patron betrayed by the Taliban, obscuring the American‑backed violence that enabled the Taliban’s return."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260814145231.3.12562eb395ed82f7@mg2.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "‘A Slaughter in Our Industry’: Home Builders Say ICE is Destroying Their Business",
-   "date": "2026-08-14T07:52-07:00",
-   "url": null,
-   "bullets": [
-    "Vice President Dan Vance blamed an alleged 20 million undocumented immigrants for housing unaffordability, citing a fabricated Federal Reserve “study” that linked immigration to higher home prices.",
-    "Contrary to Vance’s claim, ICE enforcement during the first year of Trump’s second term drove new‑home prices up in the Northeast and West—regions where immigrant construction workers make up 23 % and 25 % of the labor force—by reducing available labor.",
-    "FWD.us estimates show that immigrants constitute a significant share of the U.S. construction workforce, indicating that mass deportations threaten to raise construction costs and, in turn, home prices rather than lower them."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260814135938.3.24024353fc08453c.unr5hai7@mg1.substack.com",
-   "newsletter": "Citrini",
-   "pub": "citrini",
-   "subject": "💬 New thread from Citrini Analyst Team",
-   "date": "2026-08-14T06:59-07:00",
-   "url": null,
-   "bullets": [
-    "The Trump administration imposed a 100% tariff on U.S. drones over 25 kg and a 25% tariff on smaller drones and components under Section 232, aiming to boost domestic drone production.",
-    "Allied imports receive lower rates (10‑15%) from the EU, Korea, and Japan, but the component tariffs favor UMAC’s NDAA‑compliant motors, batteries, and airframes.",
-    "Citrini’s “Drones” and “Missile Restocking” baskets are gaining traction as the tariffs shift supply chains toward U.S. manufacturers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260814133304.3.1b914c834e1b9f88@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Troops Deserve Better than Hegseth",
-   "date": "2026-08-14T06:33-07:00",
-   "url": null,
-   "bullets": [
-    "The USS Abraham Lincoln’s deployment to the Middle East in January 2026 exposed severe living‑condition complaints from sailors and families, yet Navy leadership, including CNO Adm. Daryl Caudle and Secretary Pete Hegseth, dismissed reports as “fake news” and failed to act, prompting a family town‑hall that highlighted morale, safety, and multiple overboard incidents, including a sailor who spent an hour in the water before rescue and whose wife was not informed until days later.",
-    "Hegseth’s defense of the carrier’s conditions—claiming every ship has “everything we can provide” while the Navy’s $300 billion budget could support adequate resupply—has been criticized as a cover for neglect, with calls for Hegseth, Caudle, and acting Secretary Hung Cao to visit the Lincoln and address the crew’s grievances."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260814121457.3.c31def08b876512b@mg-d1.substack.com",
-   "newsletter": "Sarah, Tim and JVL—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Good Fight Tour Is Coming",
-   "date": "2026-08-14T05:14-07:00",
-   "url": null,
-   "bullets": [
-    "The Good Fight Tour will tour Columbia, SC (Oct 16), Charlotte, NC (Oct 18), and Atlanta, GA (Oct 20) featuring Sarah, Tim, JVL, Sam, and surprise guests, with tickets selling Aug 21 and Bulwark+ members getting a presale on Aug 18.",
-    "Bulwark+ members receive early access to Bulwark LIVE events and a pre‑sale code via email on Tuesday, while Founders and Best Friends can attend a pre‑show meet‑and‑greet with the gang.",
-    "In September, Sarah and friends will hold a “How to Eat an Elephant” book tour in Washington, D.C., New York, Boston, Los Angeles, San Francisco, Chicago, and Kenyon College, with tickets already on sale."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260814110548.3.d039ba59d87e79e4@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "First Draft: Did Israel Fake the Iran Threats Against Trump’s Life?",
-   "date": "2026-08-14T04:05-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/did-israel-fake-the-iran-threats",
-   "bullets": [
-    "Reuters and the Washington Post reported that U.S. officials consider recent Iranian assassination threats against Trump, which originated from Israeli intelligence, to be low‑confidence and unverified.",
-    "The alleged threat prompted Trump to secretly abandon Air Force One in Ankara, hide in a catering truck with Natalie Harp, and board an alternate plane to London, according to the Washington Post."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260814103052.3.4997b2229d499694@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Case for a Medicare Buy-In Option",
-   "date": "2026-08-14T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-case-for-a-medicare-buy-in-option",
-   "bullets": [
-    "Krugman argues that while the U.S. already funds about two‑thirds of health care through government, private insurers add net negative costs via administration and fraud, making a Medicare buy‑in a pragmatic step toward universal coverage.",
-    "He notes Medicare enjoys an 82% approval rating, suggesting a public‑option framed as a Medicare expansion could overcome voter distrust of both insurers and big government, despite the political power of insurers and drug companies.",
-    "A Medicare buy‑in would let individuals and employers purchase actuarially fair Medicare coverage, reducing administrative costs and creating a “rump” private market that could later transition to full single‑payer."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 76,
+  "shown": 80,
   "total": 328
  }
 }
