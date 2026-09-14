@@ -1,31 +1,18 @@
 {
- "updated": "2026-09-13T10:27-07:00",
+ "updated": "2026-09-13T18:15-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s $5,000 “dividend” pledge dominates the midterm narrative, inflating GOP rhetoric while prompting Democratic strategists to view it as a liability for Senate races (The Bulwark, The Message Box, Zeteo).",
-   "The humanitarian crisis in Gaza escalates, with multiple child deaths highlighted alongside broader Middle‑East instability that threatens U.S. influence (Zeteo, The Bulwark).",
-   "U.S. economic strain resurfaces as inflation spikes post‑Iran war, European energy shortages loom, and debates over weaponized financial interdependence intensify (Doomberg, Paul Krugman).",
-   "Democratic operatives scramble to broaden their Senate map and leverage grassroots tactics amid GOP disarray and Trump‑driven voter dynamics (Dan Pfeiffer, Sarah Longwell, The Bulwark).",
-   "Cultural and legal battles intensify, from illegal soft‑serve ice‑cream trades in London to Supreme Court rulings easing partisan ad spending, underscoring a polarized media‑politics ecosystem (The Substack Post, Roy Cooper, The Bulwark)."
+   "The GOP’s post‑2024 crisis is deepening as Trump‑driven rhetoric fuels extremist media ecosystems, dead‑weight policy promises and internal chaos, threatening any coherent conservative agenda (The Bulwark, The Message Box, This Week in Democracy).",
+   "Democrats face an identity crossroads, with their coalition shifting toward college‑educated urban voters while working‑class voters drift right, prompting debates over courting cultural conservatives or progressive bases (The Bulwark, Dan Pfeiffer – The Message Box, Sarah Longwell – The Bulwark).",
+   "U.S. foreign policy is being weaponized economically, from Trump’s Canada tariffs hurting auto jobs to the rise of “weaponized interdependence” that lets the U.S. and rivals manipulate global finance and supply chains (Paul Krugman, Jonathan Cohn – The Bulwark).",
+   "The Israel‑Gaza conflict’s narrative is being sanitized in mainstream media, obscuring civilian casualties and fueling international condemnation, while the broader Middle East power balance tilts toward Iran and a weakened U.S. influence (Zeteo, JVL – The Bulwark).",
+   "Europe’s energy crisis is spiraling, with Germany’s low gas storage and soaring LNG prices warning of a harsh winter, echoing broader geopolitical instability tied to the Iran‑backed “Tet Offensive” on the world economy (Doomberg, Zeteo).",
+   "The lingering legacy of 9/11 continues to shape U.S. politics and foreign interventions, reinforcing a cycle of war, security overreach, and domestic polarization (Zeteo, Mark Hertling – The Bulwark, Paul Krugman)."
   ],
   "by": "groq",
   "ids": [
-   "20260910105638.3.726d688d584662f4@mg-d0.substack.com",
-   "20260910111917.3.dc4d2f4a7aa53f37@mg2.substack.com",
-   "20260910115909.3.668a9ccfced5486d@mg-d1.substack.com",
-   "20260910134609.3.2fa0fca81fc385ff@mg-d0.substack.com",
-   "20260910135926.3.745e42b0e826c0eb@mg-d1.substack.com",
-   "20260910153600.3.0375ec9ecb808e37@mg-d0.substack.com",
-   "20260910160128.3.d990d66f644f897b@mg2.substack.com",
-   "20260910164545.3.92a20470d635d8cf@mg2.substack.com",
-   "20260910175842.3.456cc9df3b31a8da@mg2.substack.com",
-   "20260910190109.3.3d42018641776fde@mg-d0.substack.com",
-   "20260910192325.3.4be53e0f298fd6d3@mg2.substack.com",
-   "20260910213336.3.83447ec1e9c2a830@mg-d0.substack.com",
-   "20260910225443.3.bb27688c99fbd2c9@mg-d1.substack.com",
-   "20260911000138.3.b6bf9e8cd55653d9@mg-d1.substack.com",
    "20260911103100.3.d021952a1614b5d7@mg-d1.substack.com",
    "20260911111405.3.adaab61fcdff9a8d@mg-d0.substack.com",
    "20260911112732.3.521d72b637817b1a@mg-d1.substack.com",
@@ -45,12 +32,60 @@
    "20260912130345.3.afb378319f1256c7@mg-d1.substack.com",
    "20260912151736.3.61ac0b496c176025@mg-d1.substack.com",
    "20260912170204.3.c8bb808a8d9f25f8@mg-d1.substack.com",
-   "20260912190450.3.beb625b1b69edb27@mg-d1.substack.com"
+   "20260912190450.3.beb625b1b69edb27@mg-d1.substack.com",
+   "20260913104516.3.3fd009935e8828f0@mg-d1.substack.com",
+   "20260913120328.3.6012c2c74dd4bec2@mg2.substack.com",
+   "20260913151549.3.db816cd252ffa993@mg2.substack.com",
+   "20260913160034.3.1923ceab02ccc7c3@mg-d1.substack.com",
+   "20260913191454.3.cb661caafabf949b@mg-d0.substack.com",
+   "20260913215036.3.bb951aa153170648@mg-d1.substack.com",
+   "20260914000045.3.cfbc6b1dca5ef62c@mg-d1.substack.com"
   ],
-  "updated": "2026-09-12T18:11-07:00",
+  "updated": "2026-09-13T18:15-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260914000045.3.cfbc6b1dca5ef62c@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Bernie Dogs Could Teach Democrats a New Trick",
+   "date": "2026-09-13T17:00-07:00",
+   "url": null,
+   "bullets": [
+    "Democrats face a post‑2024 crisis as Kamala Harris’s loss revealed their coalition’s shift toward college‑educated, urban voters while working‑class voters drift right.",
+    "Party strategists are debating whether to court cultural conservatives (e.g., opposing trans girls in sports) or progressive bases (anti‑Israel stance, Medicare for All) to rebuild a big‑tent appeal.",
+    "The newsletter teases a detailed solution for Democrats, available only to Bulwark+ members."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260913215036.3.bb951aa153170648@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "This 6-Second Debate Clip Could Haunt GOP Sen. Dan Sullivan",
+   "date": "2026-09-13T14:50-07:00",
+   "url": null,
+   "bullets": [
+    "A Texas GOP candidate faced backlash after posting viral photos of Indian‑American students celebrating a UT football win, prompting calls for Republicans to be held accountable for overtly racist rhetoric.",
+    "In the Alaska Senate race, Mary Peltola argued that the Iran war is inflating fuel costs for Alaskan fishermen, and a viral debate clip showed Dan Sullivan stammering for a yes‑or‑no answer, highlighting his struggle on the issue."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260913191454.3.cb661caafabf949b@mg-d0.substack.com",
+   "newsletter": "Mona Charen - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Used to Fantasize About Killing Suspects. Now He’s Doing It.",
+   "date": "2026-09-13T12:14-07:00",
+   "url": null,
+   "bullets": [
+    "Operation Southern Spear, the Trump-era program of lethal strikes on suspected drug‑smuggling boats, has killed survivors in a second strike and failed to curb the cocaine supply, according to Pentagon and DEA officials.",
+    "The strikes are justified by a secret legal theory and have prompted a purge of military lawyers by Pete Hegseth, while U.S. allies grow wary of sharing intelligence that could be used in the attacks.",
+    "Experts from the Washington Office on Latin America argue the campaign amounts to extrajudicial executions, with no evidence it reduces trafficking, and highlight the broader implications for U.S. foreign policy."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260913160034.3.1923ceab02ccc7c3@mg-d1.substack.com",
    "newsletter": "Zeteo",
@@ -4494,65 +4529,10 @@
     "A Medicare buy‑in would let individuals and employers purchase actuarially fair Medicare coverage, reducing administrative costs and creating a “rump” private market that could later transition to full single‑payer."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260814010105.3.f6c0c0848dab4231@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Karoline Leavitt at Her Worst: Lies and Abuse From the Podium",
-   "date": "2026-08-13T18:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/karoline-leavitt-at-her-worst-lies",
-   "bullets": [
-    "Karoline Leavitt, former White House Press Secretary, is accused of repeatedly spreading falsehoods and verbally attacking journalists, including claims about Gaza condoms and DEI‑caused plane crashes.",
-    "The newsletter cites specific alleged lies: her alleged friendliness with Jeffrey Epstein, the deportation of Maryland father Kilmar Abrego Garcia, and other unfounded statements.",
-    "Leavitt has announced her departure from the White House, and the piece links to a short video summarizing her most controversial remarks."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260814002736.3.87a616cc3e86d27f@mg-d0.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Gift to the Money Launderers",
-   "date": "2026-08-13T17:27-07:00",
-   "url": null,
-   "bullets": [
-    "The Treasury announced it will destroy the government’s anti‑corruption shell‑company registry and all data collected under the Corporate Transparency Act, effectively erasing ownership records for law‑enforcement use.",
-    "Former Rep. Tom Malinowski warned the move is akin to deleting the FBI’s fingerprint database, leaving sex traffickers, drug cartels and money‑launderers free to operate unchecked.",
-    "Since Trump’s return, his administration has paused the Foreign Corrupt Practices Act, exempted 99% of companies from ownership disclosure, and made the data‑destruction rule permanent, despite bipartisan support for the original law."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260813212543.3.4a14a0207f42ab67@mg-d0.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Did COVID-19 Actually Come From a Lab? Two Top Scientists Debate Its Origins",
-   "date": "2026-08-13T14:25-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/lab-leak-covid-jha-rasmussen",
-   "bullets": [
-    "Dr. Angela Rasmussen argues the virus most likely originated zoonotically, citing her own research that supports natural spillover over a lab accident.",
-    "Dr. Ashish Jha, former Biden COVID‑19 response coordinator, now backs the lab‑leak hypothesis, explaining why his view shifted after reviewing new evidence.",
-    "The segment also critiques Republican exaggeration of the lab‑leak claim and assesses U.S. pandemic preparedness, with a 46‑minute full debate available to subscribers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260813185047.3.4c78e7fa5099c895@mg2.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Charlie Kirk Murder Business Gets Its Crassest Spectacle Yet",
-   "date": "2026-08-13T11:50-07:00",
-   "url": null,
-   "bullets": [
-    "Candace Owens and Andrew Wilson are set to debate the Charlie Kirk assassination on Friday, with Owens poised to earn $300,000 if the event proceeds, despite pending smoking‑policy negotiations",
-    "The Kirk murder has sparked a MAGA civil war and unrest within Turning Point USA, fueling a lucrative “Super Bowl of Charlie murder content” that media figures are exploiting for profit"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 76,
-  "total": 329
+  "total": 328
  }
 }
