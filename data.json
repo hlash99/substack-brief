@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T12:30-07:00",
+ "updated": "2026-09-14T18:35-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -45,6 +45,62 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260915010540.3.e08a6b3d9dd10b2a@mg-d1.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "Yesterday’s rally in Athens",
+   "date": "2026-09-14T18:05-07:00",
+   "url": "https://ossoff.substack.com/p/yesterdays-rally-in-athens",
+   "bullets": [
+    "Ossoff rallied a large Athens crowd, urging voters to turn out in a month to defeat Trump‑aligned Rep. Mike Collins and elect Democratic candidates, including Gov. Bottoms for Medicaid expansion.",
+    "He accused Trump of inflating prices, mismanaging wars, and funneling $620 million Pentagon loans to his son’s venture, while calling for a constitutional amendment to overturn Citizens United.",
+    "Ossoff highlighted bipartisan local support, citing Republican mayors backing his campaign and his own efforts on disaster relief and infrastructure projects."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260915000629.3.f59ec999d7768d06@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "How to Stop AI From Killing Humanity",
+   "date": "2026-09-14T17:06-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/how-to-stop-ai-from-killing-humanity",
+   "bullets": [
+    "Nate Soares argues that any development of smarter‑than‑human AI using current methods carries a high probability of human extinction, estimating at least a 10% chance if rushed.",
+    "He notes a growing wave of AI researchers and company employees publicly warning that the race toward superintelligence could kill all humans within a decade.",
+    "Soares questions why leading AI firms, despite these alarms, are not halting development, implying corporate incentives outweigh existential risk concerns."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260914235556.3.6c37c5ab1a76ac08@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Latest Right-Wing Revolt Against Markwayne Mullin Is the Wildest Yet",
+   "date": "2026-09-14T16:55-07:00",
+   "url": null,
+   "bullets": [
+    "Conservative pundits, from Benny Johnson to Tomi Lahren, are enraged that DHS Secretary Markwayne Mullin gave no concrete plan to deport Rep. Ilhan Omar, a claim based on a dubious anonymous forum post.",
+    "Despite repeated MAGA promises and a Justice Department claim of an immigration‑fraud probe, no credible evidence supports the allegation Omar married her brother, yet right‑wing influencers continue to demand her deportation.",
+    "Mullin’s silence has sparked a backlash across Fox News, The Blaze, and pro‑Trump influencers, who accuse him of protecting Omar and threaten to hold him accountable for unfulfilled mass‑deportation promises."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260914194405.3.baa44d9503c2d8ba@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "BOMBSHELL: Russian Oligarch Bankrolled Don Jr.’s Wedding",
+   "date": "2026-09-14T12:44-07:00",
+   "url": null,
+   "bullets": [
+    "ProPublica reports a Russian oligarch close to Vladimir Putin secretly funded Donald Trump Jr.'s Bahamas wedding with hundreds of thousands of dollars, raising counterintelligence concerns about leverage and compromise within the Trump circle.",
+    "The oligarch is linked to Russian ultra‑nationalist groups and an organization accused of abducting Ukrainian children, tying the wedding money to broader Russian influence and the Ukraine war.",
+    "The hosts urge the FBI, Congress, and national‑security Republicans to investigate the payment and address the growing normalization of Russian influence in U.S. politics."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260914180216.3.88624ce633dc6d3b@mg-d0.substack.com",
    "newsletter": "Roy Cooper",
@@ -4516,24 +4572,10 @@
     "U.S. history shows a shift from a “class tax” on the wealthy and tariff reliance to broad‑based income taxes during WWII, fostering public support for social programs such as Social Security and Medicare."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260814210207.3.e7c06cf6c5d6f130@mg-d0.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 82: A Decoy Plane, ICE’s Electric Gloves, and Government Fascists Investigate the Le…",
-   "date": "2026-08-14T14:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-82-a",
-   "bullets": [
-    "The Washington Post revealed Trump used a decoy Air Force One flight, leaving officials like Marco Rubio and Stephen Miller as human shields while he escaped an alleged Iranian assassination threat that U.S. officials could not verify.",
-    "ICE plans to spend up to $20 million on electric‑shock gloves for agents, despite manufacturer warnings they not be used on children, pregnant people, or the elderly/disabled.",
-    "The Department of Homeland Security launched a sweeping investigation into unrelated left‑wing groups after the killing of Alex Pretti, infiltrating Signal chats and obtaining financial records."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 80,
-  "total": 328
+  "shown": 81,
+  "total": 331
  }
 }
