@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T18:35-07:00",
+ "updated": "2026-09-15T11:18-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -45,6 +45,153 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260915181445.3.ff0a65650d296dfb@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "The Brand New NYT Poll Is a Disaster for Republicans",
+   "date": "2026-09-15T11:14-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/the-brand-new-nyt-poll-is-a-disaster",
+   "bullets": [
+    "The New York Times/Siena poll shows Democrats leading likely voters for Congress by nearly 9 points, matching the 2018 margin that helped them gain 40 House seats.",
+    "The lead is driven by Trump’s unpopularity, economic dissatisfaction, and widespread disapproval of his handling of issues, especially the cost of living.",
+    "The poll also reveals deeper GOP challenges that contradict conventional wisdom, threatening Republican majorities beyond the generic ballot advantage."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260915164203.3.2b35111ac9ab2df1@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Democrats Should Demagogue AI. Seriously.",
+   "date": "2026-09-15T09:42-07:00",
+   "url": null,
+   "bullets": [
+    "Yesterday we talked about how AI might kill us all. Today I want to talk about how AI can help Democrats win elections. Because there is finally a spot where Democrats can simultaneously:",
+    "Be out front on a wildly popular movement. And win back conspiracy-minded voters who have coagulated around the Republican party over the last decade. This is dangerously close to One Weird Trick territory, but the opportunity is unique not…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260915160036.3.083c783a10184227@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Ed Sheeran Isn’t Staying Out of Politics – He Is Letting a Pro-Israel Billionaire Choose His Politics for Him",
+   "date": "2026-09-15T09:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/ed-sheeran-isnt-staying-out-of-politics",
+   "bullets": [
+    "Earlier this month, Macklemore stood in front of 90,000 people at MetLife [ https://substack.com/redirect/56c979a6-7470-4aa8-b649-06bbb760c748?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] Stadium as part of Ed Sheeran…",
+    "Sheeran’s silence is the real story and, despite his apparent insistence, it is not the absence of a political position: it is the delivery mechanism for someone else’s…billionaire Robert Kraft’s..."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260915155528.3.d5d4924227b4eb65@mg-d1.substack.com",
+   "newsletter": "Smart People Talking",
+   "pub": "smartpeopletalking",
+   "subject": "The Week’s Pressure Systems: Toxic Air, a $5,000 Promise, and a Map That Finally Tells the Truth",
+   "date": "2026-09-15T08:55-07:00",
+   "url": "https://smartpeopletalking.substack.com/p/the-weeks-pressure-systems-toxic",
+   "bullets": [
+    "If you missed Monday’s episode of The Barometer, I’ve got the highlights for you in this story, but you can view the full, unedited video here on Youtube [ https://substack.com/redirect/c23110af-d0aa-4d69-83ca-ac6b58a21988?j=eyJ1IjoiMnVxMXl…",
+    "Monday at 7 am is too early of a start time, and my house is too busy to keep the promise that I’ll be here weekly on that day. I have more help on Tuesday morning and, as such, I’m moving the permanent air time of the show to Tuesdays from…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260915143539.3.1432d5cedfbad80a@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Want to Understand Why Talarico Can Win? Listen to These Texas Trump Voters.",
+   "date": "2026-09-15T07:35-07:00",
+   "url": null,
+   "bullets": [
+    "James Talarico, a Democrat with controversial statements about gender and capitalism, is leading in Texas Senate polls despite facing a weak Republican opponent, Ken Paxton, who is widely criticized for corruption and laziness.",
+    "The author argues that Talarico’s success is due to both Paxton’s unpopularity and a Texas focus group revealing voters’ willingness to support a candidate with progressive views on gender and economics.",
+    "The newsletter urges readers to support Bulwark+ to fund journalism that covers such political developments."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260915143232.3.a2ed80d9538c48a4@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "You stood out from the crowd",
+   "date": "2026-09-15T07:32-07:00",
+   "url": "https://roycoopernc.substack.com/p/you-stood-out-from-the-crowd",
+   "bullets": [
+    "Roy Cooper urges a $5 donation to hit a $2.5 million mid‑month goal amid a $100 million GOP super‑PAC spend in North Carolina, citing polls that show the race is statistically tied."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260915132251.3.8bfbc7c6786bbe05@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Learns You Can’t Spell Mail Without an L",
+   "date": "2026-09-15T06:22-07:00",
+   "url": null,
+   "bullets": [
+    "Supreme Court’s conservative majority blocked President Trump’s anti‑mail‑in ballot scheme, ending his last major midterm strategy and preventing a potential constitutional crisis over voter data and mail delivery control.",
+    "Trump’s recent posts champion unregulated AI development, citing no concern for risks, while 58% of Americans and 1,300 AI industry employees urge government regulation and international oversight to mitigate AI dangers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260915124040.3.5cfef194ac905e22@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "AI Is an Existential Political Threat to the GOP",
+   "date": "2026-09-15T05:40-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/ai-is-an-existential-political-threat",
+   "bullets": [
+    "Top AI researchers, including Anthropic’s Jacob Coxon and CEO Dario Amodei, warned that frontier AI could create a dangerous internet‑taking botnet within 6‑12 months, prompting alarm from Elon Musk and Sam Altman.",
+    "The newsletter criticizes the Biden administration for not convening AI leaders or proposing regulation, arguing that the lack of federal action benefits Trump politically because his anti‑regulation stance aligns with AI industry interests."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260915115941.3.ef16fad4ebf63fca@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Why Is Trump Still Boosting AI?",
+   "date": "2026-09-15T04:59-07:00",
+   "url": "https://paulkrugman.substack.com/p/why-is-trump-still-boosting-ai",
+   "bullets": [
+    "Trump is championing AI despite industry warnings and a poll showing a quarter of Republicans disapprove, likely because his family has financial stakes in the sector and he seeks an economic boost.",
+    "Krugman argues Trump’s AI enthusiasm reflects Dunning‑Kruger overconfidence and a desperate attempt to revive a faltering job growth record and offset inflationary pressures from tariffs and the Iran war.",
+    "The AI boom, once a political asset for Trump, is becoming a liability as public backlash grows and the promised productivity gains remain unproven."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260915110753.3.bf5faaa54699e952@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Will Dems Help ‘Supercharge’ Trump’s Crypto Corruption?",
+   "date": "2026-09-15T04:07-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/will-dems-help-supercharge-trumps",
+   "bullets": [
+    "Senators are poised to vote on a crypto bill that would grant the industry light‑touch regulation after it spent $245 million on 2024 ads and $206 million this cycle, a move critics say could amplify Donald Trump’s $1.4 billion family crypto earnings and a pending bank licence for World Liberty Financial.",
+    "Democratic leaders, including Senator Kirsten Gillibrand, whose son received backing from a crypto billionaire, are being courted to support the bill, with crypto‑friendly Democrats pushing weak ethics provisions that experts argue will do little to curb Trump’s crypto grift.",
+    "The legislation’s passage could require seven Democratic votes, and if enacted, would fail to stop Trump’s self‑enrichment while potentially supercharging his crypto corruption, according to Mark Hays of Americans for Financial Reform."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260915100339.3.c5e635653e0e839f@mg2.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Respiratory increasing, while Covid-19 peaking? Also, the air after 9/11 killed more than the actual attack",
+   "date": "2026-09-15T03:03-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/respiratory-increasing-while-covid",
+   "bullets": [
+    "ILI reports show a rise in common cold cases and a possible Covid‑19 peak, with wastewater levels dropping in the South, Midwest and Northeast but still climbing in the West.",
+    "U.S. measles cases have surged to ~3,300 in 2026, driven by outbreaks in Pennsylvania (676 cases, 3 deaths), Ohio (133) and Wisconsin (over 160), underscoring the need for vaccination in affected areas.",
+    "The World Trade Center Health Program, covering over 104,000 responders and survivors, finds that half of participants have certified health conditions—1 in 8 cancer and 1 in 5 non‑cancer—highlighting long‑term disaster health impacts."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260915010540.3.e08a6b3d9dd10b2a@mg-d1.substack.com",
    "newsletter": "Jon Ossoff",
@@ -4477,105 +4624,10 @@
     "Sarah’s earlier prediction about the Wisconsin Democratic primary proved correct, and the newsletter teases upcoming commentary on Bernie, AOC, and a members‑only Secret Podcast episode with JVL and Sarah."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260815170134.3.938b31acb1058fba@mg-d0.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine: Israel Shoots 13-Year-Old as She ‘Memorized the Quran’ and Settlers Besiege Palestinian Fa…",
-   "date": "2026-08-15T10:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israel-shoots",
-   "bullets": [
-    "U.S. Ambassador Mike Huckabee condemned settlers besieging a Palestinian‑American home as “Israeli terrorists” but simultaneously called them “illegal trespassers” and defended most settlers, raising questions about the weight of his rebuke.",
-    "This week Israel killed a 13‑year‑old girl allegedly while she was memorizing the Quran, and an Israeli official suggested using Palestinian bodies as bargaining chips, while Netanyahu rejected Donald Trump’s Gaza plan.",
-    "The newsletter links multiple recent incidents of settler violence, including attacks in Taybeh and the beating‑to‑death of Palestinian American Sayfollah Musallet, noting a lack of accountability."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260815130303.3.a8c76dc13f9edc26@mg-d1.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“At some point in the future, something that is currently considered a high-level skill will be the baseline for e…",
-   "date": "2026-08-15T06:03-07:00",
-   "url": "https://post.substack.com/p/at-some-point-in-the-future-something",
-   "bullets": [
-    "The newsletter argues that high‑level skills (e.g., graphic design, culinary expertise) are becoming baseline expectations, driven by AI tools like ChatGPT and template‑based social media content that erode originality.",
-    "It critiques the homogenization of online feeds, noting that Instagram and TikTok reward carousel text‑on‑image formats and unedited, template‑derived videos, leading to a lack of lasting creative impact.",
-    "It includes a cultural piece debunking a journalist’s claim that Japanese curry is the worst, tracing seaweed’s 8,000‑year British history and the 1872 Japanese curry adoption to combat vitamin B1 deficiency, and highlighting seaweed’s potential to supply 100 million tonnes of food by the 2040s."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260815123047.3.90f1831a893192bf@mg-d1.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Debunking MAGA’s Puppy-Killer Smear Against Abdul El-Sayed",
-   "date": "2026-08-15T05:30-07:00",
-   "url": null,
-   "bullets": [
-    "During Abdul El‑Sayed’s 16‑month tenure as Detroit public health director, the animal‑control “save” rate rose from about 26% in 2015 to roughly 60% in 2016 and approached 70% by 2017, according to animal‑rights expert Melissa Miller.",
-    "El‑Sayed inherited a dilapidated, euthanasia‑heavy shelter, appointed Miller as director, and quickly instituted adoption programs and infrastructure fixes that cut euthanasia rates and improved conditions, earning praise from Mayor Mike Duggan.",
-    "Right‑wing outlets like the Daily Mail and Fox News spread a false smear claiming El‑Sayed ran a “slaughterhouse,” but the underlying data and interviews show he transformed a dysfunctional department rather than created it."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260815122221.3.e9ca5cc82bc750a9@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "How Big Will the Blue Wave Be?",
-   "date": "2026-08-15T05:22-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/how-big-will-the-blue-wave-be",
-   "bullets": [
-    "Dan Pfeiffer questions how many Senate seats Democrats could win in 2024, suggesting a 5‑6 seat gain (e.g., NC, ME, OH, IA, AK, TX) while possibly losing MI; he frames this as a measure of the Blue Wave’s size."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260815120234.3.03d865035292c1f7@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "7 Things About Afghanistan the U.S. Wants You to Forget, Five Years After Kabul Fell",
-   "date": "2026-08-15T05:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/7-things-about-afghanistan-the-us",
-   "bullets": [
-    "The U.S. evacuated over 120,000 Afghans in August 2021, but hundreds of thousands of promised resettlement cases remain in limbo five years later.",
-    "Since the Taliban takeover, women and girls have been systematically excluded from public life, international aid has collapsed, and hunger rates have surged dramatically.",
-    "Millions of Afghan refugees have been forced to return, and the country has re‑emerged as a flashpoint for regional conflict despite global attention moving on."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260815113118.3.35855cba8ff467c0@mg-d1.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump to SCOTUS: Make Me",
-   "date": "2026-08-15T04:31-07:00",
-   "url": "https://open.substack.com/pub/thebulwark/p/bulwark-book-club-for-september-the",
-   "bullets": [
-    "The newsletter urges readers to volunteer as poll workers, citing Swift’s 2023 article on the nonprofit “Power to the Polls” that recruits volunteers to staff elections amid ongoing shortages.",
-    "It highlights a Jay Nordlinger piece questioning whether Donald Trump truly shot a 70‑stroke round of golf, juxtaposing Trump’s self‑promotion with his legal battles over presidential immunity."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260815103119.3.a9900a52bb16184d@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Vanessa Williamson on Taxes and Democracy",
-   "date": "2026-08-15T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/vanessa-williamson-on-taxes-and-democracy",
-   "bullets": [
-    "Williamson argues taxation is the price of democracy because without sufficient revenue governments cannot act on voters’ preferences, a link traced back to Magna Carta’s consent requirement for extraordinary taxes.",
-    "She notes that high‑tax, high‑freedom societies (e.g., Nordic countries) contradict anti‑tax myths, while authoritarian regimes keep taxes low by relying on non‑tax revenues like resource rents or fines.",
-    "U.S. history shows a shift from a “class tax” on the wealthy and tariff reliance to broad‑based income taxes during WWII, fostering public support for social programs such as Social Security and Medicare."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 81,
-  "total": 331
+  "shown": 82,
+  "total": 335
  }
 }
