@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T11:18-07:00",
+ "updated": "2026-09-15T18:30-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -46,6 +46,76 @@
  },
  "items": [
   {
+   "id": "20260916010024.3.efbfca3a7e983859@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Big AI Wants You to Believe It Could Destroy the World – So It Can Fill Its Pockets",
+   "date": "2026-09-15T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/big-ai-wants-you-to-believe-it-could",
+   "bullets": [
+    "Nate Soares argues that AI researchers warn of a real existential threat within a decade, citing self‑improving models from OpenAI and Anthropic that could surpass human control and potentially annihilate humanity.",
+    "Paris Marx counters that the “end‑of‑humanity” warnings are sensationalist, noting that current AI systems still require human oversight and that claims of imminent superintelligence lack concrete evidence.",
+    "The newsletter highlights a recent thread by former Anthropic employee Jacob Coxon claiming a race toward autonomous superintelligence, but stresses the need for caution before accepting such dramatic predictions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260916002103.3.fab99ba944ee65a6@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "EXCLUSIVE: The Next Big Dem Proposal: Let Kids Eat Free",
+   "date": "2026-09-15T17:21-07:00",
+   "url": null,
+   "bullets": [
+    "Searchlight Institute proposes a national plan to give every public school child free breakfast and lunch, costing a few billion dollars a year and expanding the current program that only serves the poorest families.",
+    "The proposal argues that universal free meals reduce stigma, lower administrative costs, and invest in children’s future, citing the pandemic‑era federal subsidy that temporarily covered all school meals.",
+    "Current federal school lunch program serves 29 million kids daily, with 21 million receiving free or discounted meals, yet many eligible families miss out due to complex enrollment and lack of awareness."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260915220612.3.685de52227487200@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Even George Conway Wasn’t Ready for Kash Patel’s Senate Hearing",
+   "date": "2026-09-15T15:06-07:00",
+   "url": null,
+   "bullets": [
+    "Trump lashes out at the Supreme Court after his appointees helped block his administration’s mail‑ballot rules, prompting George Conway and Sam Stein to debate the ruling and its midterm implications.",
+    "In a Senate hearing, Kash Patel attempts to explain a bizarre FBI controversy involving alleged mishandling of evidence, which Conway describes as one of the strangest and grossest cases ever heard.",
+    "The Bulwark is hosting a benefit live event in Dayton, Ohio on September 25, with proceeds supporting the Haitian Community Help and Support Center in Springfield."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260915200047.3.2b6a46f74184e310@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Meet the British TV Host Who Says She Was Taken Off Air Over Gaza",
+   "date": "2026-09-15T13:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/meet-the-british-tv-host-who-says",
+   "bullets": [
+    "Long‑time ITV daytime host Nadia Sawalha says she was abruptly removed from ‘Loose Women’ after publicly supporting Palestine following the Oct 7 Gaza war, with producers citing ‘noise’.",
+    "Sawalha has filed legal action against ITV, hoping the case will set a precedent against unfair treatment of individuals expressing moral convictions, and discusses related libel damages from the Daily Mail.",
+    "The inaugural ‘Sangita Meets…’ podcast interview, available to paid Zeteo subscribers, covers her Jordanian heritage, accusations of antisemitism, and the potential career impact of suing ITV."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260915192342.3.1eeaf909c767ec88@mg2.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "AI CEOs Would Very Much Like Congress to Save the World",
+   "date": "2026-09-15T12:23-07:00",
+   "url": null,
+   "bullets": [
+    "A whistleblower warned AI firms’ products pose a >10% chance of human extinction, prompting CEOs of Anthropic, OpenAI and xAI to demand congressional guardrails, which the author suggests may be a move toward regulatory capture.",
+    "Senators Alex Padilla, Chris Murphy and others express concern that AI CEOs are hiring former lawmakers and funding anti‑state regulation efforts, while noting China’s role in amplifying AI fears.",
+    "The piece highlights divergent views: Bernie Sanders trusts CEOs’ expertise, whereas critics cite Elon Musk’s deceptive history and Sam Altman’s alleged sociopathy, leaving the legislative outcome uncertain."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260915181445.3.ff0a65650d296dfb@mg-d1.substack.com",
    "newsletter": "Dan Pfeiffer from The Message Box",
    "pub": "messagebox",
@@ -67,10 +137,10 @@
    "date": "2026-09-15T09:42-07:00",
    "url": null,
    "bullets": [
-    "Yesterday we talked about how AI might kill us all. Today I want to talk about how AI can help Democrats win elections. Because there is finally a spot where Democrats can simultaneously:",
-    "Be out front on a wildly popular movement. And win back conspiracy-minded voters who have coagulated around the Republican party over the last decade. This is dangerously close to One Weird Trick territory, but the opportunity is unique not…"
+    "The author argues Democrats should weaponize AI-driven demagoguery to win elections by appealing to conspiracy‑mindset voters who have gravitated toward the GOP.",
+    "He claims this strategy uniquely combines decent policy, a popular movement, and a chance to outflank Republicans now tainted by Trump’s alignment with oligarchs."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260915160036.3.083c783a10184227@mg2.substack.com",
@@ -80,10 +150,11 @@
    "date": "2026-09-15T09:00-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/ed-sheeran-isnt-staying-out-of-politics",
    "bullets": [
-    "Earlier this month, Macklemore stood in front of 90,000 people at MetLife [ https://substack.com/redirect/56c979a6-7470-4aa8-b649-06bbb760c748?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] Stadium as part of Ed Sheeran…",
-    "Sheeran’s silence is the real story and, despite his apparent insistence, it is not the absence of a political position: it is the delivery mechanism for someone else’s…billionaire Robert Kraft’s..."
+    "Macklemore performed a pro‑Palestinian song at Ed Sheeran’s MetLife Stadium show, after which he was abruptly removed from the rest of the U.S. tour.",
+    "Sheeran has remained silent about the incident, which the author argues is not neutrality but a tacit endorsement of billionaire Robert Kraft’s pro‑Israel influence over his tour politics.",
+    "The piece suggests Kraft’s financial power is shaping the political messaging of high‑profile artists like Sheeran, effectively sidelining dissenting voices such as Macklemore’s."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260915155528.3.d5d4924227b4eb65@mg-d1.substack.com",
@@ -93,10 +164,11 @@
    "date": "2026-09-15T08:55-07:00",
    "url": "https://smartpeopletalking.substack.com/p/the-weeks-pressure-systems-toxic",
    "bullets": [
-    "If you missed Monday’s episode of The Barometer, I’ve got the highlights for you in this story, but you can view the full, unedited video here on Youtube [ https://substack.com/redirect/c23110af-d0aa-4d69-83ca-ac6b58a21988?j=eyJ1IjoiMnVxMXl…",
-    "Monday at 7 am is too early of a start time, and my house is too busy to keep the promise that I’ll be here weekly on that day. I have more help on Tuesday morning and, as such, I’m moving the permanent air time of the show to Tuesdays from…"
+    "Donald Trump pledged a $5,000 “Trump dividend” to every adult if Republicans keep Congress, but the $1.2 trillion cost far exceeds current tariff revenue and lacks any authorized funding.",
+    "NOAA now gives a >90% chance that this winter’s El Niño will be very strong, likely warming much of the U.S., drying the northern tier, and suppressing Atlantic hurricanes through increased wind shear.",
+    "New York City released ~170,000 pages of 9/11 air‑quality records, revealing officials privately knew the dust was hazardous yet publicly claimed the air was safe, highlighting a dangerous information gap."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260915143539.3.1432d5cedfbad80a@mg-d0.substack.com",
@@ -4610,24 +4682,10 @@
     "Fewer workers, especially foreign‑born labor that fills low‑skill jobs, mean lower tax revenues and reduced capacity to fund national security, infrastructure, healthcare, and retirees, harming both short‑ and long‑run American welfare."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260815204120.3.1d98a5826c42f927@mg2.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "American Stasi",
-   "date": "2026-08-15T13:41-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark is promoting a live comedy show in NYC on Sept 8 with remaining balcony seats and promising a “nuts” surprise if it sells out; Bulwark LIVE tour tickets for SC, NC, and Atlanta go on sale Aug 21 with an exclusive presale for members on Aug 18.",
-    "Trump is seeking to have his name placed on the Kennedy Center again, while former DHS agent Karoline Leavitt is moving to the private sector, raising concerns about her misinformation role; JVL highlights a DHS‑linked murder of Alex Pretti that spurred extensive investigations into liberal activist groups in Minnesota.",
-    "Sarah’s earlier prediction about the Wisconsin Democratic primary proved correct, and the newsletter teases upcoming commentary on Bernie, AOC, and a members‑only Secret Podcast episode with JVL and Sarah."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 82,
-  "total": 335
+  "shown": 81,
+  "total": 339
  }
 }
