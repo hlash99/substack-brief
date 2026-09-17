@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T18:32-07:00",
+ "updated": "2026-09-17T11:22-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -64,6 +64,139 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260917164203.3.dfa25e9dc10308c7@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Canada Is Making America Its B*tch",
+   "date": "2026-09-17T09:42-07:00",
+   "url": null,
+   "bullets": [
+    "Canada is shifting from a close ally to a strategic competitor, positioning itself as a counterweight to U.S. influence in foreign affairs and the bond market, according to the newsletter’s analysis."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260917160728.3.f4bf17287b60cf9a@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "The president’s rally in NC just changed everything",
+   "date": "2026-09-17T09:07-07:00",
+   "url": "https://roycoopernc.substack.com/p/the-presidents-rally-in-nc-just-changed",
+   "bullets": [
+    "President’s overnight rally in North Carolina boosted GOP super‑PAC spending, pushing dark‑money attacks over $100 million and threatening to erase Roy Cooper’s slight polling edge against Michael Whatley.",
+    "The campaign now needs an additional $38,000 by 11:59 p.m. tonight to fund new TV ads and voter outreach, aiming to reverse the momentum and flip the Senate seat blue for the first time since 2008."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260917160226.3.5b448b614bf33ee3@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Hasan Piker Says America Has Killed Lots of People. Donald Trump Agrees",
+   "date": "2026-09-17T09:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/hasan-piker-america-killed-al-qaeda-axios",
+   "bullets": [
+    "Hasan Piker told Axios that, pound for pound, the U.S. has caused more deaths than al‑Qaeda, citing 432,000 civilian deaths in Iraq, Afghanistan, Syria, Yemen and Pakistan (2001‑2023) and over 300,000 in Vietnam, 150,000 in Laos and up to 1 million in Indonesia’s anti‑Communist massacres.",
+    "Piker highlighted U.S. airstrikes on a school in Minab that killed 150 people, including more than 100 children, as an example of American terror under Trump’s administration, arguing that such killings are “acts of terror.”",
+    "The Axios clip, released as a 56‑second preview, sparked backlash from right‑wing commentator Scott Jennings, liberal activist Shannon Watts, and Michigan Democratic Senate candidate Abdul El‑Sayed, who distanced himself from Piker’s remarks."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260917145452.3.d5de91ffc8d48dba@mg-d0.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Ben Shapiro’s New Anti-Muslim Movie Is Truly Bad",
+   "date": "2026-09-17T07:54-07:00",
+   "url": null,
+   "bullets": [
+    "The author condemns Ben Shapiro’s anti‑Muslim action thriller ‘Run Hide Fight: Infidels’, calling it poorly made and full of offensive stereotypes, such as a terrorist kicking a gay ally and an Asian‑American student defusing bombs solely because he’s Asian.",
+    "He highlights the film’s reliance on hateful tropes and its low‑budget, shoddy execution, arguing it does more damage to conservative credibility than any political message."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260917133401.3.12bcff282672a3a4@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Congress to Trump: MORE TARIFFS, PLEASE!",
+   "date": "2026-09-17T06:34-07:00",
+   "url": null,
+   "bullets": [
+    "The House passed a bipartisan Russia sanctions bill that, besides punishing Russian leadership and industries, gives Trump discretionary authority to impose up to 100% tariffs on top importers of Russian energy, a concession meant to win his support for Ukraine aid.",
+    "Critics note the tariff powers are a dangerous expansion of Trump’s trade war toolkit, ignoring his history of using narrow tariff authorities for broad protectionist aims, and more than a dozen GOP members tried unsuccessfully to strip the provisions before the vote.",
+    "The bill cleared the Senate 86‑0 and the House 262‑? despite concerns from Democrats like Hakeem Jeffries and some Republicans that the tariff provisions outweigh the sanctions’ benefits."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260917113749.3.ecbcc4d272401404@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "EXCLUSIVE: Biden’s Genocide Accomplices Targeted by New Accountability Campaign",
+   "date": "2026-09-17T04:37-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/exclusive-bidens-genocide-accomplices",
+   "bullets": [
+    "A coalition of human‑rights groups launched the #DropTheGenocide20 pledge, urging employers not to hire 20 top Biden‑Harris officials they say promoted, lied about, or covered up the Gaza genocide.",
+    "The campaign targets former Biden officials now in academia, think tanks and media, demanding they be barred from future Democratic administrations for their alleged role in the conflict."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260917104720.3.24a08e48cdc91d2f@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Fuels and our Money",
+   "date": "2026-09-17T03:47-07:00",
+   "url": "https://paulkrugman.substack.com/p/fuels-and-our-money",
+   "bullets": [
+    "Krugman highlights that U.S. gasoline pump prices have risen sharply over the past year, equating the increase to a higher dollars‑per‑barrel cost for 42‑gallon gallons.",
+    "He notes the global economy has shown surprising resilience despite these fuel cost spikes, but warns that there may be limits to this durability."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260917065701.3.0ef2f3c9eecab723@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Watch Me Live (Or probably not)",
+   "date": "2026-09-16T23:57-07:00",
+   "url": "https://paulkrugman.substack.com/p/watch-me-live-or-probably-not",
+   "bullets": [
+    "The European Central Bank’s 11th Annual Research Conference on 16 June 2026 will feature speeches on monetary policy, inflation dynamics, and the eurozone’s post‑pandemic recovery.",
+    "Key speakers include ECB policymakers, leading academics, and industry experts who will present new research on fiscal‑monetary coordination and climate‑related financial risks.",
+    "The event will be streamed online, but live attendance may be limited due to ongoing health restrictions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260917012427.3.09ca250c63536955@mg-d0.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Here’s Who Trump Should Blame for the Rate Hike He’s Raging About",
+   "date": "2026-09-16T18:24-07:00",
+   "url": null,
+   "bullets": [
+    "The Fed raised rates again, citing persistent inflation and geopolitical risks, and most officials now expect at least one more hike before year‑end.",
+    "Trump blames the Fed for higher rates, but the article argues his tariffs, Iran war escalation, and inflated consumer price expectations—up to 4.6% annual—have driven the inflation the Fed must combat.",
+    "A new Receipts With Catherine Rampell podcast launches September 18, covering these economic and political dynamics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260917010024.3.68630494f578c165@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "‘60 Minutes’ Is Now 'Dead' and Bari'd",
+   "date": "2026-09-16T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/60-minutes-is-now-dead-and-barid",
+   "bullets": [
+    "CBS staffers say the Bari Weiss‑overhauled ‘60 Minutes’ debut drew only 7.9 million viewers (1.6 million 25‑54 demo), a 21% total and 33% demo drop from last season’s 10.03 million/2.36 million launch",
+    "They warn the ratings disaster signals broader damage to CBS (‘the Tiffany Network’) under Weiss’s changes, calling the new format a mismatched Frankenstein"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260916210044.3.c4b6005504a742ac@mg-d1.substack.com",
    "newsletter": "Zeteo",
@@ -4767,118 +4900,10 @@
     "The newsletter argues the weapons shortage and press‑crackdown illustrate how disastrous the Iran conflict has become for the United States."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260817180651.3.73a660423f809bff@mg2.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "An update on the ground",
-   "date": "2026-08-17T11:06-07:00",
-   "url": "https://roycoopernc.substack.com/p/an-update-on-the-ground",
-   "bullets": [
-    "The campaign reports that volunteers have knocked on 215,000 doors, called 440,000 voters, and recruited over 16,000 volunteers as the North Carolina Senate race approaches its two‑month deadline.",
-    "Roy Cooper highlights his record expanding Medicaid to hundreds of thousands, protecting families as Attorney General, and now seeks a U.S. Senate seat, urging donations and voter registration ahead of the upcoming vote."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260817164611.3.8e199bdb6c07abfb@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Is the DSA a Republican Psy-Op?",
-   "date": "2026-08-17T09:46-07:00",
-   "url": null,
-   "bullets": [
-    "Hakeem Jeffries told reporters he does not support the Democratic Socialists of America’s agenda, emphasizing he is a Democrat, not a DSA member.",
-    "The author argues the DSA’s national organization is a “false‑flag” operation allegedly run by the Heritage Foundation to sabotage the Democratic Party, suggesting its leaders may be covert moderates like Mamdani."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260817140532.3.d3336faa3859d5c2@mg-d1.substack.com",
-   "newsletter": "Pete Buttigieg",
-   "pub": "petebuttigieg",
-   "subject": "Don’t Let Them Fool You: You are Not Alone",
-   "date": "2026-08-17T07:05-07:00",
-   "url": "https://petebuttigieg.substack.com/p/dont-let-them-fool-you-you-are-not",
-   "bullets": [
-    "Pete Buttigieg argues that labels like “red” oversimplify communities, citing Indiana’s 2008 Obama win and 2023 bipartisan resistance to Trump‑Vance gerrymandering as proof of dynamic political change.",
-    "He claims a growing American majority is ready for reform, urging viewers to join a coalition that could win in the next 80 days, and invites comments on his new video."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260817132718.3.1a591008007e4846@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump ‘Won’ on Tariffs? Lol.",
-   "date": "2026-08-17T06:27-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s tariffs, though widely criticized for harming growth, prices, and manufacturing, have not triggered a global economic collapse, with markets largely shrugging off their impact amid AI‑driven growth and a stalled Iran war.",
-    "Politico’s claim that Trump “won” on tariffs rests on the fact that the most extreme tariffs were abandoned after bond‑market panic and that tech firms importing AI infrastructure largely escaped tariffs, masking broader economic damage.",
-    "The newsletter argues that praising Trump for avoiding catastrophic tariffs is misleading, as the remaining tariffs still hurt the economy while the AI boom and Iran conflict divert attention from these blunders."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260817130820.3.285d4ece92c1b899@mg2.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Is a New, Expanded Progressive 'Squad' Coming to Congress in 2027?",
-   "date": "2026-08-17T06:08-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/unbought-and-unbossed-justice-dems",
-   "bullets": [
-    "Justice Democrats endorsed four progressive House primary winners—Darializa Avila Chevalier, Claire Valdez, Dr. Adam Hamawy, Donavan McKinney, and Chris Rabb—signaling a potential new progressive bloc for 2027.",
-    "Usamah Andrabi argues Democratic voters reject endless wars and want unbought leaders, noting AIPAC’s multi‑million‑dollar spending against pro‑Palestinian candidates influences primaries.",
-    "The interview is available in full to paid subscribers, with a three‑minute preview for free readers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260817111151.3.afc08e9ce8c61962@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "💰 A Bank Closed Trump Accounts for ‘Anti-Money Laundering Reasons.’ So Now He's Giving Himself… a Bank?",
-   "date": "2026-08-17T04:11-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/a-bank-closed-trump-accounts-for",
-   "bullets": [
-    "Capital One closed over 300 Trump Organization accounts in early August, citing anti‑money‑laundering concerns, while two weeks later the OCC, led by Trump‑appointed Jonathan Gould, gave conditional preliminary approval for a bank charter to Trump’s crypto firm World Liberty Trust.",
-    "Senator Elizabeth Warren called the OCC’s charter approval the “most brazen act of self‑dealing” in U.S. financial history and announced legislation to block such conflicts of interest."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260817110430.3.f487b6d81d70eead@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Thoughts on the Michigan Poll Freaking Out Democrats",
-   "date": "2026-08-17T04:04-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/thoughts-on-the-michigan-poll-freaking",
-   "bullets": [
-    "A new Fox News poll shows Republican Mike Rogers leading Democrat Abdul El‑Sayed by four points in the Michigan Senate race, sparking panic among Democrats who once felt confident about the seat.",
-    "Pfeiffer argues the poll’s crosstabs and El‑Sayed’s historical performance suggest the lead may be misleading and that the Democrat remains competitive despite concerns about his electability.",
-    "He contends that losing Michigan would narrow the Senate path for Democrats, but emphasizes that the poll’s methodology and past trends could still favor El‑Sayed."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260817102826.3.d12d6666a9d13a1f@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Misery Will Continue Until Morale Improves",
-   "date": "2026-08-17T03:28-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-misery-will-continue-until-morale",
-   "bullets": [
-    "Krugman warns that the U.S. military is facing critical shortages, citing depleted precision missiles and dire ship conditions like flooding toilets on the USS Lincoln and lack of basic supplies on the USS Boxer.",
-    "He blames Trump’s erratic, aesthetic‑driven directives—such as demanding new “Trump‑class” battleships and retro‑style carrier modifications—for undermining professional logistics and exacerbating the crisis.",
-    "Krugman argues the broader problem is an emerging authoritarian dynamic where party officials and the Pentagon ignore bad news, allowing incompetence and ego to dominate policy until press coverage forces action."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 87,
-  "total": 352
+  "shown": 88,
+  "total": 354
  }
 }
