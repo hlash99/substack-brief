@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T18:20-07:00",
+ "updated": "2026-09-18T10:45-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -66,6 +66,114 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260918165504.3.f565f8d6e3a1950f@mg-d1.substack.com",
+   "newsletter": "Smart People Talking",
+   "pub": "smartpeopletalking",
+   "subject": "John Barnett gave his life exposing Boeing. A new film spotlights his fight.",
+   "date": "2026-09-18T09:55-07:00",
+   "url": "https://smartpeopletalking.substack.com/p/john-barnett-gave-his-life-exposing",
+   "bullets": [
+    "Reminder: My fundraising deadline for my upcoming trip to Geneva to attend a special UN Climate Change study programme is nearly here. Now that the program fees have been paid for Geneva, I’m still fundraising for: hotel/lodging costs, tick…",
+    "Netflix’s Freefall returns to Boeing’s safety crisis through the people who tried to stop it. At the center is John Barnett, and a question America still hasn’t answered: What happens when telling the truth destroys the person telling it?"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260918153043.3.87b60e29aa72f531@mg-d1.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "It’s Zohran vs. Trump on Immigration",
+   "date": "2026-09-18T08:30-07:00",
+   "url": null,
+   "bullets": [
+    "New York City and 21 other states sued the Trump administration for rescinding the 2022 public‑charge rule, arguing the new vague policy violates the Administrative Procedure Act and expands discretionary denials of visas and green cards for anyone using public benefits such as Medicaid, SNAP, and housing assistance.",
+    "The lawsuit claims the change will force up to 4 million people—including 1.8 million children—to drop out of health and welfare programs, potentially raising premature death rates in immigrant communities by 10.6 % and costing New York City billions in emergency care."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260918132322.3.014c1ad0486fc6dc@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why Do We Even Have a Constitution Day?",
+   "date": "2026-09-18T06:23-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s White House is simultaneously pushing a sweeping sanctions package targeting Russia’s elite and energy sector while also discussing pre‑war business deals with Russia, revealing a contradictory policy stance on Ukraine and Russia.",
+    "The author argues that Constitution Day is under‑celebrated because July 4, commemorating the Declaration of Independence, is seen as more foundational, yet the Constitution’s enduring relevance demands renewed liberal constitutionalism to defend democracy amid unprecedented attacks."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260918130240.3.a296a3fe06e16913@mg2.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Expiring at Midnight: Bonus for New Upgrades",
+   "date": "2026-09-18T06:02-07:00",
+   "url": null,
+   "bullets": [
+    "Doomberg offers a midnight‑deadline bonus giving subscribers full access to a deep‑dive presentation on Chevron, the energy supermajor, plus all new full‑length articles and its 500‑plus‑article archive.",
+    "The promotion builds on their Dec 2023 piece arguing that unifying Western Hemisphere energy production could neutralize Middle‑East oil influence, positioning the analysis as a key geopolitical insight."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260918111549.3.3351afe8f9b5b7af@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "The Kennedy Center Lost $30 Million in Pledges and Wrote Off $48 Million in ‘Bad Debt’ Amid Trump’s Takeover",
+   "date": "2026-09-18T04:15-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-kennedy-center-lost-30-million",
+   "bullets": [
+    "The Kennedy Center’s 2025 tax return shows $48 million in bad‑debt expense and a $30 million drop in pledges and grants after Trump’s takeover, leaving it reliant on $257 million in congressional appropriations to avoid a deficit.",
+    "Despite Trump’s claim of “hundreds of millions” in losses, the Center reported $517 million in revenue and $210 million in net revenue, with record $778 million net assets as of Sept. 30, 2025.",
+    "A federal judge barred adding Trump’s name to the Center’s exterior, prompting the administration to close the venue, while ticket sales and donations fell further after the naming attempt."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260918104419.3.ee123bee39e1c80a@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Fear Strikes Out",
+   "date": "2026-09-18T03:44-07:00",
+   "url": "https://paulkrugman.substack.com/p/fear-strikes-out",
+   "bullets": [
+    "Ursula von der Leyen announced a symbolic EU‑Canada “associate member” plan, backed by Prime Minister Mark Carney, prompting Trump’s angry threat to cut EU trade, which was largely ignored.",
+    "Krugman argues that global fear of Trump has evaporated as the US has faltered militarily in Iran and economically in trade disputes, leaving Trump hated but not feared, contrary to Machiavelli’s advice.",
+    "Despite Canada’s heavy US trade dependence and geographic disadvantage, Canadian leaders are pushing the EU pivot, reflecting a broader international belief that Trump lacks the power to punish dissent after recent setbacks."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260918100155.3.ae1a7ca91e21a231@mg2.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Two days left to comment on HHS's vaccine category proposal",
+   "date": "2026-09-18T03:01-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/two-days-left-to-comment-on-hhss",
+   "bullets": [
+    "HHS issued a short‑notice (30‑day) Request for Information to reconsider vaccine recommendation categories, potentially shifting routine shots to “shared clinical decision‑making” and weakening ACIP linkage, which could cause confusion and jeopardize insurance coverage.",
+    "The proposal follows Executive Order 14420 aiming to cut the childhood schedule from 18 to 11 diseases and promote single‑antigen MMR, and a prior attempt to reclassify several vaccines was blocked by a federal judge.",
+    "Comments are due by September 20, 2026 (docket HHS‑OS‑2026‑0332) and the public is urged to submit input to counter a docket that may be skewed toward narrowing vaccine access."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260918090247.3.e39f6e6df24b872a@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Coming to America",
+   "date": "2026-09-18T02:02-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/coming-to-america",
+   "bullets": [
+    "The Houthis’ rapid advance along the Red Sea coast has damaged Saudi Arabia’s East-West Pipeline and intensified a looming global diesel shortage after weeks of Hormuz disruptions, pushing the economy toward a crisis.",
+    "Saudi Crown Prince Mohammed bin Salman’s reliance on U.S. military support appears weakened, raising the risk that internal and external foes could topple the regime and trigger a ‘full‑tilt’ shock to global markets.",
+    "Chinese refiners have surged back into crude purchases, driving Shanghai yuan‑denominated oil futures to a 2018‑high of 929.4 yuan ($138.50) per barrel, positioning China to profit from the Middle East turmoil as President Xi prepares a Washington visit."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260918010119.3.e40e7b58c4b4efb0@mg-d0.substack.com",
    "newsletter": "Zeteo",
@@ -4805,132 +4913,10 @@
     "He warns that the Washington Post’s financial instability poses a greater threat to democratic discourse than owner Jeff Bezos’s right‑wing politics"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260818165945.3.59dfdf78e469643c@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Between stops: A few of the books I’ve enjoyed",
-   "date": "2026-08-18T09:59-07:00",
-   "url": "https://roycoopernc.substack.com/p/between-stops-a-few-of-the-books",
-   "bullets": [
-    "Cooper notes North Carolina voters are feeling high grocery, gas, and health‑care costs, and he frames his Senate bid as a fight for affordable health care and working‑family protections"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260818162301.3.db9f1cbcb6088a9b@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Cruelty Was Fine Until It Became Personal",
-   "date": "2026-08-18T09:23-07:00",
-   "url": null,
-   "bullets": [
-    "Brent Jindra, a three‑time Trump voter and tech salesman, married Russian immigrant Galina Bobreneva, who was detained after a domestic flight and placed in a Mojave desert internment camp despite not crossing a border.",
-    "The author uses the case to illustrate the hypocrisy of anti‑immigrant rhetoric, highlighting how policies that target “bad” immigrants can turn personal and brutal when applied to ordinary families.",
-    "The piece serves as a warning that cruelty justified by ideology becomes starkly visible when it affects individuals like Brent and Galina."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260818131651.3.c4604c4dcc50fb1e@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "How America Ends Up Alone",
-   "date": "2026-08-18T06:16-07:00",
-   "url": null,
-   "bullets": [
-    "Wisconsin GOP Gov. candidate Tom Tiffany, who backed Trump’s 2020 election‑overturn efforts, now publicly concedes Biden won and pledges to certify future Wisconsin results, illustrating GOP pivot for electability.",
-    "Former President Trump threatened to bomb Oman after it engaged with Iran over the Strait of Hormuz, despite a 40‑year U.S. partnership that provides strategic ports and diplomatic channels.",
-    "The author warns that such erratic moves—threatening allies, cutting joint exercises, praising adversaries—erode trust, risk alienating partners like South Korea, Japan and Gulf states, and could leave America isolated."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260818112250.3.a0c443121b85e058@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "EXCLUSIVE: Voters Oppose Netanyahu-Led Scheme to Integrate U.S. and Israeli Militaries",
-   "date": "2026-08-18T04:22-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/exclusive-voters-oppose-netanyahu",
-   "bullets": [
-    "A new Demand Progress/IMEU/DFP poll shows a majority of U.S. voters oppose Section 219, a bipartisan proposal to merge U.S. and Israeli militaries, and believe Israel gains more from the current aid regime.",
-    "The poll, released by Zeteo, indicates voters support lawmakers who voted to cut U.S. aid to Israel in a recent House vote, reflecting widespread skepticism of deepening U.S. military integration with Israel."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260818112059.3.9ebbb5c9cd60c23e@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "A New Level of Trumpian Evil",
-   "date": "2026-08-18T04:20-07:00",
-   "url": "https://paulkrugman.substack.com/p/a-new-level-of-trumpian-evil",
-   "bullets": [
-    "Trump’s shift toward a “very good relationship with Kim Jong Un” betrays South Korea, a democratic success story that rose from war poverty to a Western‑level standard of living and a major semiconductor supplier.",
-    "South Korea’s robust military budget, comparable to Ukraine’s, and its status as a key U.S. ally underscore the strategic loss when Trump undermines a nation that defended American interests during the Korean War.",
-    "Krugman argues that Trump’s preference for a totalitarian regime over a functioning democracy signals a fundamental rejection of the values that underpin U.S. foreign policy and national identity."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260818103045.3.9bd70caf83b2305f@mg2.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Covid-19 and dengue creeping up, vaccinations creeping down, a new mRNA flu vaccine, and more",
-   "date": "2026-08-18T03:30-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/covid-19-and-dengue-creeping-up-vaccinations",
-   "bullets": [
-    "Covid-19 cases are rising nationwide, with the South and West leading; the CDC expects 10‑15% of the population to be infected this wave and urges high‑risk groups to get vaccinated now",
-    "The first US locally transmitted dengue case was identified in Virginia, signaling that warmer seasons and infected travelers may make such mosquito‑borne illnesses increasingly common, though outbreaks remain unlikely",
-    "Moderna’s mRNA flu shot (mFlusiva) showed 27% higher efficacy than standard flu vaccines in adults 50+, but causes more injection‑site pain, fatigue and headaches; it should be available to those 65+ on Medicare this fall, while broader rollout for 50‑64 remains uncertain"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260818101701.3.fece45aad9f77b8b@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Trump Is Giving Your Money to His Corporate Backers",
-   "date": "2026-08-18T03:17-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/trump-is-giving-your-money-to-his",
-   "bullets": [
-    "Trump's tariffs cost the average American family $1,100 annually, were deemed unconstitutional and later struck down by the Supreme Court, yet the $166 billion collected was refunded to corporations like Apple ($2 bn), Amazon ($600 m) and potentially Walmart ($10 bn).",
-    "Polls show strong voter backlash: about 60% disapprove of the tariffs, 72% believe they raised prices, and 78% think any refunds should go to consumers rather than corporations.",
-    "The newsletter urges Democrats to spotlight this issue as a clear example of Trump harming consumers while rewarding corporate donors, framing it as a winning election talking point."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260818090123.3.afcb4697fbc1a67c@mg-d0.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Over Target",
-   "date": "2026-08-18T02:01-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/over-target",
-   "bullets": [
-    "Chevron secured a lucrative joint‑venture in Kazakhstan’s Tengiz‑Korolev field in April 1993, helping double Kazakh oil output to 2 million bpd by 2025.",
-    "The Caspian Pipeline Consortium, carrying ~1.4 million bpd of Kazakh crude to Russia’s Black Sea port Novorossiysk, was halted after Ukrainian drone attacks damaged a mooring on Nov 29, prompting a rare U.S. State Department protest to Kyiv.",
-    "The author warns that these attacks signal a broader threat to Western energy interests and suggest the Ukraine war cannot be contained, foreshadowing deeper conflict over Black Sea supply routes."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260818023528.3.ab315d3daa493349@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "A 7-Year-Old Trapped in Hell Is Begging Senator Katie Britt for Help",
-   "date": "2026-08-17T19:35-07:00",
-   "url": null,
-   "bullets": [
-    "A Venezuelan family—pregnant mother, father, and their 7‑year‑old daughter—who complied with every immigration requirement, including asylum application, ICE check‑ins, and self‑deportation, have been held for weeks at Texas’s Dilley detention center instead of being returned to Venezuela.",
-    "The author urges readers to call Senator Katie Britt at 202‑224‑5744 to intervene on the family’s behalf, highlighting the case as an example of the Trump‑era immigration system’s failures."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 87,
-  "total": 356
+  "shown": 86,
+  "total": 355
  }
 }
