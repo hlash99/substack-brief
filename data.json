@@ -1,30 +1,18 @@
 {
- "updated": "2026-09-17T11:22-07:00",
+ "updated": "2026-09-17T18:20-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "UK ministers are signalling a tighter regime on arms exports to Israel, a shift tied to the new prime minister’s priorities and likely to trigger further restrictions (Zeteo).",
-   "Massie’s impeachment filings against Defense Secretary Pete Hegseth highlight growing congressional pressure on the Trump administration’s war‑making and civil‑rights record (The Bulwark).",
-   "North Carolina’s 2026 Senate race is a statistical dead‑heat, with GOP super‑PACs pouring $100 million into attack ads while Democrats scramble to raise $5‑per‑donation goals (Roy Cooper).",
-   "AI researchers warn of a 10%+ chance of human extinction within a decade if frontier models are rushed, yet CEOs of Anthropic, OpenAI and xAI continue to push for deregulation (Your Local Epidemiologist, Joe Perticone).",
-   "Trump’s continued enthusiasm for AI, despite industry warnings and a poll showing a quarter of Republicans disapprove, reflects a desperate attempt to revive economic growth and offset inflationary pressures (Paul Krugman).",
-   "Zeteo’s UK launch event at the Barbican sold out and is being promoted as a milestone in the brand’s global expansion, with subscribers urged to upgrade for full access (Zeteo)."
+   "Russia is likely to target the 2026 midterms with disinformation that supports Trump’s election‑rigging claims, while U.S. agencies remain silent (Zeteo, The Bulwark).",
+   "The overnight Trump rally in North Carolina has spurred a $100 million dark‑money blitz that could flip the Senate seat blue, forcing Democrats to raise urgent funds (Roy Cooper, The Bulwark).",
+   "AI researchers warn that frontier models could become a self‑improving existential threat within a decade, prompting CEOs to call for congressional guardrails (Joe Perticone, The Bulwark).",
+   "Canada is shifting from ally to strategic competitor, positioning itself as a counterweight to U.S. influence in foreign affairs and the bond market (JVL – The Bulwark).",
+   "U.S. gasoline prices have risen sharply, reflecting higher dollars‑per‑barrel costs and raising concerns about the limits of the economy’s resilience (Paul Krugman).",
+   "The House passed a bipartisan Russia sanctions bill that grants Trump discretionary tariffs on Russian energy importers, expanding his trade‑war toolkit (Bill Kristol & Andrew Egger – The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20260914111419.3.312627bf29e214d2@mg-d0.substack.com",
-   "20260914121135.3.e67b2db785dccc0f@mg-d0.substack.com",
-   "20260914132025.3.1abdcae832ab7808@mg-d0.substack.com",
-   "20260914165915.3.86f6aec0cc7c3c1f@mg-d0.substack.com",
-   "20260914170012.3.e601fb4b4fe70c2d@mg2.substack.com",
-   "20260914170158.3.72858f201f148217@mg-d1.substack.com",
-   "20260914170303.3.f5b9b9bce13966a2@mg-d1.substack.com",
-   "20260914180216.3.88624ce633dc6d3b@mg-d0.substack.com",
-   "20260914194405.3.baa44d9503c2d8ba@mg-d1.substack.com",
-   "20260914235556.3.6c37c5ab1a76ac08@mg2.substack.com",
-   "20260915000629.3.f59ec999d7768d06@mg-d0.substack.com",
-   "20260915010540.3.e08a6b3d9dd10b2a@mg-d1.substack.com",
    "20260915100339.3.c5e635653e0e839f@mg2.substack.com",
    "20260915110753.3.bf5faaa54699e952@mg2.substack.com",
    "20260915115941.3.ef16fad4ebf63fca@mg-d0.substack.com",
@@ -58,12 +46,79 @@
    "20260916173609.3.40220e4617b153bb.ch3oh1dk@mg1.substack.com",
    "20260916191443.3.652f87259f038ce4@mg-d1.substack.com",
    "20260916203349.3.d08e4f233ca31c06@mg-d1.substack.com",
-   "20260916210044.3.c4b6005504a742ac@mg-d1.substack.com"
+   "20260916210044.3.c4b6005504a742ac@mg-d1.substack.com",
+   "20260917010024.3.68630494f578c165@mg-d1.substack.com",
+   "20260917012427.3.09ca250c63536955@mg-d0.substack.com",
+   "20260917065701.3.0ef2f3c9eecab723@mg2.substack.com",
+   "20260917104720.3.24a08e48cdc91d2f@mg-d1.substack.com",
+   "20260917113749.3.ecbcc4d272401404@mg-d0.substack.com",
+   "20260917133401.3.12bcff282672a3a4@mg-d1.substack.com",
+   "20260917145452.3.d5de91ffc8d48dba@mg-d0.substack.com",
+   "20260917160226.3.5b448b614bf33ee3@mg2.substack.com",
+   "20260917160728.3.f4bf17287b60cf9a@mg-d0.substack.com",
+   "20260917164203.3.dfa25e9dc10308c7@mg-d0.substack.com",
+   "20260917191632.3.1fc8d9c2e022850f@mg-d0.substack.com",
+   "20260917204728.3.90ffdb80f5c115c3@mg-d0.substack.com",
+   "20260917230101.3.345627b45d7144e3@mg-d1.substack.com",
+   "20260918010119.3.e40e7b58c4b4efb0@mg-d0.substack.com"
   ],
-  "updated": "2026-09-16T18:32-07:00",
+  "updated": "2026-09-17T18:20-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260918010119.3.e40e7b58c4b4efb0@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Trump, Putin, and the Ongoing Plot to Undermine Our Elections",
+   "date": "2026-09-17T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/russia-and-the-us-midterms",
+   "bullets": [
+    "David Corn’s new book “How Russia Won” argues that Russia will likely target the 2026 midterms with disinformation supporting Trump’s election‑rigging claims, while U.S. agencies stay silent.",
+    "Corn claims Democrats mishandled the 2016 Trump‑Russia scandal, labeling Trump’s alignment with a foreign adversary as a betrayal even if not illegal, and warns Michael Cohen may be re‑aligning with Trump."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260917230101.3.345627b45d7144e3@mg-d1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Wanna Influence Sean Duffy? Try His Son-in-Law’s Campaign.",
+   "date": "2026-09-17T16:01-07:00",
+   "url": null,
+   "bullets": [
+    "Covenant Logistics CEO David Parker donated $10,000 to Wisconsin candidate Michael Alfonso, the son‑in‑law of Transportation Secretary Sean Duffy, despite no ties to the state.",
+    "Alfonso’s campaign received additional support from other transportation‑industry donors who have business before the DOT, which recently renewed a two‑year exemption for Covenant’s driver‑training rules for five more years."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260917204728.3.90ffdb80f5c115c3@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "‘Were You Drunk?’ Mehdi Confronts Islamophobic GOP Congresswoman Nancy Mace in Heated Piers Morgan Debate",
+   "date": "2026-09-17T13:47-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/were-you-drunk-mehdi-confronts-islamophobic",
+   "bullets": [
+    "Nancy Mace called every Muslim officeholder a “trojan horse” and claimed “all terrorists are Muslims,” prompting Mehdi to confront her on Piers Uncensored, accusing her of Islamophobia and blind support for Israel and Trump.",
+    "During the heated exchange, Mace repeatedly interrupted and alleged Mehdi was “jihad adjacent,” while Mehdi presented staff testimonies that Mace allegedly sent aides to buy alcohol at odd hours, which she denies."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260917191632.3.1fc8d9c2e022850f@mg-d0.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "EXCLUSIVE: Inside the Democratic Party’s Trump Oversight Plans",
+   "date": "2026-09-17T12:16-07:00",
+   "url": null,
+   "bullets": [
+    "Vice President JD Vance downplayed Watergate, saying a modern scandal would get only half a day’s news, implying the Trump administration is eclipsing Nixon’s norm‑breaking legacy.",
+    "Young MAGA conservatives are producing hype videos and nostalgic content glorifying Nixon, mirroring their admiration for Trump’s defiance of institutional norms.",
+    "Democrats cite the post‑Nixon investigations into government corruption as a blueprint for new oversight measures targeting alleged Trump‑era misconduct."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260917164203.3.dfa25e9dc10308c7@mg-d0.substack.com",
    "newsletter": "JVL - The Bulwark",
@@ -4872,38 +4927,10 @@
     "The author urges readers to call Senator Katie Britt at 202‑224‑5744 to intervene on the family’s behalf, highlighting the case as an example of the Trump‑era immigration system’s failures."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260818000212.3.d333a7bd6ec4d87c@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Who is Natalie Harp? The Trump Aide Dominating the Headlines Right Now",
-   "date": "2026-08-17T17:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/who-is-natalie-harp-the-trump-aide",
-   "bullets": [
-    "Senator Jon Ossoff mocked Trump’s alleged plan to travel with aide Natalie Harp on a Qatar‑gifted “flying palace,” sparking widespread curiosity about her role.",
-    "Natalie Harp, dubbed Trump’s “human binkie” by NYT’s Maggie Haberman, was reportedly on a catering truck that helped Trump switch planes in Turkey amid a claimed Iranian assassination threat.",
-    "The newsletter lists seven key facts about Harp, highlighting her close access to Trump, including her presence on the decoy flight and her rapid rise within the inner circle."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260817204943.3.e355e6edfcffaec2@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "SCOOP: Trump’s Iran War Has Burned Through Well Over 90% of Key Long-Range Missiles",
-   "date": "2026-08-17T13:49-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/scoop-trumps-iran-war-has-burned",
-   "bullets": [
-    "Zeteo reports that the U.S. war in Iran has exhausted well over 90% of its crucial long‑range missile stockpiles since February.",
-    "President Trump has labeled journalists exposing the depletion as “treason” and has directed the Justice Department to aggressively investigate and hunt down leakers.",
-    "The newsletter argues the weapons shortage and press‑crackdown illustrate how disastrous the Iran conflict has become for the United States."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 88,
-  "total": 354
+  "shown": 87,
+  "total": 356
  }
 }
