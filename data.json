@@ -1,34 +1,18 @@
 {
- "updated": "2026-09-18T10:45-07:00",
+ "updated": "2026-09-18T18:18-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Russia is likely to target the 2026 midterms with disinformation that supports Trump’s election‑rigging claims, while U.S. agencies remain silent (Zeteo, The Bulwark).",
-   "The overnight Trump rally in North Carolina has spurred a $100 million dark‑money blitz that could flip the Senate seat blue, forcing Democrats to raise urgent funds (Roy Cooper, The Bulwark).",
-   "AI researchers warn that frontier models could become a self‑improving existential threat within a decade, prompting CEOs to call for congressional guardrails (Joe Perticone, The Bulwark).",
-   "Canada is shifting from ally to strategic competitor, positioning itself as a counterweight to U.S. influence in foreign affairs and the bond market (JVL – The Bulwark).",
-   "U.S. gasoline prices have risen sharply, reflecting higher dollars‑per‑barrel costs and raising concerns about the limits of the economy’s resilience (Paul Krugman).",
-   "The House passed a bipartisan Russia sanctions bill that grants Trump discretionary tariffs on Russian energy importers, expanding his trade‑war toolkit (Bill Kristol & Andrew Egger – The Bulwark)."
+   "The Supreme Court’s cryptic rejection of Trump’s mail‑in voting ban is a rare Democratic win that will likely trigger a flurry of legal battles through 2028 (This Week in Democracy).",
+   "Trump’s unprecedented move to ban CNN, MS NOW, and Politico from the White House and threaten to tear down the Kennedy Center underscores his ongoing cultural attacks and personal branding strategy (This Week in Democracy, First Draft | Zeteo).",
+   "North Carolina’s Senate race has become a money war, with GOP super‑PACs pouring over $100 million into ads against Roy Cooper while Cooper urges grassroots donors to counter the spending (Roy Cooper).",
+   "Canada’s pivot away from Trump‑era U.S. policy—fuelled by Mark Carney’s popularity and a new defense posture—signals a strategic shift that could reshape U.S. influence in the EU and the bond market (Catherine Rampell – The Bulwark).",
+   "Biden‑Harris officials are being targeted by a new #DropTheGenocide20 campaign that seeks to bar them from future Democratic administrations over alleged Gaza genocide complicity (First Draft | Zeteo).",
+   "The Houthis’ advance along the Red Sea coast has damaged Saudi pipelines and intensified a looming global diesel shortage, raising the risk of a broader energy crisis amid U.S. military support waning (Doomberg)."
   ],
   "by": "groq",
   "ids": [
-   "20260915100339.3.c5e635653e0e839f@mg2.substack.com",
-   "20260915110753.3.bf5faaa54699e952@mg2.substack.com",
-   "20260915115941.3.ef16fad4ebf63fca@mg-d0.substack.com",
-   "20260915124040.3.5cfef194ac905e22@mg-d0.substack.com",
-   "20260915132251.3.8bfbc7c6786bbe05@mg2.substack.com",
-   "20260915143232.3.a2ed80d9538c48a4@mg-d1.substack.com",
-   "20260915143539.3.1432d5cedfbad80a@mg-d0.substack.com",
-   "20260915155528.3.d5d4924227b4eb65@mg-d1.substack.com",
-   "20260915160036.3.083c783a10184227@mg2.substack.com",
-   "20260915164203.3.2b35111ac9ab2df1@mg2.substack.com",
-   "20260915181445.3.ff0a65650d296dfb@mg-d1.substack.com",
-   "20260915192342.3.1eeaf909c767ec88@mg2.substack.com",
-   "20260915200047.3.2b6a46f74184e310@mg-d1.substack.com",
-   "20260915220612.3.685de52227487200@mg2.substack.com",
-   "20260916002103.3.fab99ba944ee65a6@mg2.substack.com",
-   "20260916010024.3.efbfca3a7e983859@mg2.substack.com",
    "20260916012313.3.1ff77e61114857c5@mg2.substack.com",
    "20260916090037.3.c6b96bda1bba7520@mg-d0.substack.com",
    "20260916100133.3.daac80c311b0fb22@mg2.substack.com",
@@ -60,12 +44,107 @@
    "20260917191632.3.1fc8d9c2e022850f@mg-d0.substack.com",
    "20260917204728.3.90ffdb80f5c115c3@mg-d0.substack.com",
    "20260917230101.3.345627b45d7144e3@mg-d1.substack.com",
-   "20260918010119.3.e40e7b58c4b4efb0@mg-d0.substack.com"
+   "20260918010119.3.e40e7b58c4b4efb0@mg-d0.substack.com",
+   "20260918090247.3.e39f6e6df24b872a@mg-d1.substack.com",
+   "20260918100155.3.ae1a7ca91e21a231@mg2.substack.com",
+   "20260918104419.3.ee123bee39e1c80a@mg-d1.substack.com",
+   "20260918111549.3.3351afe8f9b5b7af@mg-d1.substack.com",
+   "20260918130240.3.a296a3fe06e16913@mg2.substack.com",
+   "20260918132322.3.014c1ad0486fc6dc@mg-d0.substack.com",
+   "20260918153043.3.87b60e29aa72f531@mg-d1.substack.com",
+   "20260918165504.3.f565f8d6e3a1950f@mg-d1.substack.com",
+   "20260918182734.3.770af98672edabb9@mg-d0.substack.com",
+   "20260918190140.3.179769608ed74318@mg-d0.substack.com",
+   "20260918211849.3.a9208e823716fbe5@mg-d1.substack.com",
+   "20260918214411.3.71d4bbc6668620ab@mg-d1.substack.com",
+   "20260919010048.3.fd9ae621b54dcb56@mg-d0.substack.com"
   ],
-  "updated": "2026-09-17T18:20-07:00",
+  "updated": "2026-09-18T18:18-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260919010048.3.fd9ae621b54dcb56@mg-d0.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 87: Trump Bans CNN, MS NOW, and Politico from White House and Lashes Out at Supreme …",
+   "date": "2026-09-18T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-87-trump",
+   "bullets": [
+    "The Supreme Court rejected Trump’s attempt to restrict mail‑in voting, a rare Democratic win, but the ruling was cryptic and is expected to spark further legal battles through 2028.",
+    "Trump fired back at his own Court nominees, threatened to tear down the Kennedy Center if he can’t name it, and banned CNN, MS NOW, and Politico from the White House for negative coverage, citing First Amendment violations."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260918214411.3.71d4bbc6668620ab@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Abdul El-Sayed Hits Back Against His Critics",
+   "date": "2026-09-18T14:44-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/abdul-el-sayed-hits-back",
+   "bullets": [
+    "In a candid interview, Michigan Senate candidate Abdul El‑Sayed calls Vice President JD Vance “idiot ass boss,” labels Trump “vain” and “narcissistic,” and brands GOP rival Mike Rogers a “coward” who skipped their debate.",
+    "El‑Sayed condemns Trump’s $2.8 billion weapons package for Israel as ineffective, criticizes billionaire Robert Kraft’s pressure on Macklemore’s tour, and decries media focus on Hasan Piker and attacks on his wife’s medical practice.",
+    "Subscribers can watch the full half‑hour video interview; free users get a two‑minute preview, with an upgrade link provided to bypass the Zeteo paywall."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260918211849.3.a9208e823716fbe5@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "The gap is closing. Fast.",
+   "date": "2026-09-18T14:18-07:00",
+   "url": "https://roycoopernc.substack.com/p/the-gap-is-closing-fast",
+   "bullets": [
+    "A new poll shows NC Senate race between Roy Cooper and GOP’s Michael Whatley is now within the margin of error, with Whatley closing in on the lead.",
+    "Trump, Stephen Miller, and super PACs are spending over $100 million on ads against Cooper, aiming to keep Senate control for the GOP through 2029.",
+    "Cooper urges immediate grassroots donations, asking supporters to give $5 to counter the GOP’s spending advantage."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260918203041.3.d028c9d7b134ac60@mg-d0.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "We’re Living in an Insane Asylum",
+   "date": "2026-09-18T13:30-07:00",
+   "url": null,
+   "bullets": [
+    "Sarah and JVL are together again and JVL is raging. The president of the United States accused the Democratic party plotting to assassinate him and . . . everyone just pretends it didn’t happen.",
+    "Trump wants to demolish the Kennedy Center. Joe Manchin came back from the grave to endorse Susan Collins. And there’s a 90 percent chance that AI doesn’t kill everyone alive. Also: Sarah talks about the book tour and what it’s like to feel…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260918190140.3.179769608ed74318@mg-d0.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "From ‘The Odyssey’ to ‘Spider-Man,’ a Summer for Everyone",
+   "date": "2026-09-18T12:01-07:00",
+   "url": null,
+   "bullets": [
+    "Christopher Nolan’s three‑hour “The Odyssey” has earned nearly $1.7 billion worldwide, topping daily box‑office charts with over $1 million per day through mid‑September and reviving interest in the classic epic.",
+    "Spider‑Man: Brand New Day became the highest‑grossing domestic film after 47 days, proving superhero movies remain box‑office powerhouses, and its writer Chris McKenna discussed story choices and upcoming Avengers projects.",
+    "Zach Cregger’s “Resident Evil” is positioned as an awards contender, deliberately mimicking video‑game mechanics with relentless action sequences, while a Donnie Darko anniversary screening returns to theaters Oct 2‑4."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260918182734.3.770af98672edabb9@mg-d0.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Canada’s Break With Trump Just Got MUCH Bigger",
+   "date": "2026-09-18T11:27-07:00",
+   "url": null,
+   "bullets": [
+    "Mark Carney’s soaring popularity fuels Canada’s pivot toward the EU and a new defense posture as U.S. ties fray under Trump’s inflation‑driven policies.",
+    "Trump’s record shows rising inflation and pressure on the Fed, while former governor Kevin Warsh employs a covert strategy to shield Fed independence.",
+    "IRS data reveal a massive tax gap and billions wasted on idle federal workers, highlighting how disappearing government data erodes accountability."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260918165504.3.f565f8d6e3a1950f@mg-d1.substack.com",
    "newsletter": "Smart People Talking",
@@ -74,10 +153,11 @@
    "date": "2026-09-18T09:55-07:00",
    "url": "https://smartpeopletalking.substack.com/p/john-barnett-gave-his-life-exposing",
    "bullets": [
-    "Reminder: My fundraising deadline for my upcoming trip to Geneva to attend a special UN Climate Change study programme is nearly here. Now that the program fees have been paid for Geneva, I’m still fundraising for: hotel/lodging costs, tick…",
-    "Netflix’s Freefall returns to Boeing’s safety crisis through the people who tried to stop it. At the center is John Barnett, and a question America still hasn’t answered: What happens when telling the truth destroys the person telling it?"
+    "John Barnett, a Boeing quality manager for 32 years, warned of missing parts, debris, and pressure to bypass procedures before his 2024 suicide, which a coroner ruled self‑inflicted.",
+    "A Senate investigation in 2024 heard from over a dozen Boeing whistleblowers, including Sam Mohawk and Sam Salehpour, who reported similar safety concerns and retaliation, echoing Barnett’s claims.",
+    "Boeing settled Barnett’s mother’s wrongful‑death suit for at least $50,000 and undisclosed terms on the retaliation claim, without admitting liability, while whistleblower documents continued to expose systemic manufacturing problems."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260918153043.3.87b60e29aa72f531@mg-d1.substack.com",
@@ -4859,64 +4939,10 @@
     "He urges future Democratic policymakers not to panic, to avoid the 2009‑10 debt‑scare narrative, and to eventually address deficits, but stresses the current rate rise is a credit‑demand issue, not a crisis."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260819010049.3.8482a58a7276a811@mg2.substack.com",
-   "newsletter": "Prem Thakker | Zeteo",
-   "pub": "zeteo",
-   "subject": "Pro-Israel Groups Want You to Believe That Israel’s National Security Minister… Doesn’t Represent Israel",
-   "date": "2026-08-18T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/itamar-ben-gvir-pro-israel-groups",
-   "bullets": [
-    "Israel’s national security minister Itamar Ben‑Gvir called on a podcast to kill 30‑40 Palestinians nightly, saying many “shouldn’t live” and are “not even people.”",
-    "U.S. pro‑Israel groups condemned Ben‑Gvir, claiming he doesn’t represent Israeli policy, despite his role as the top security official and Israel’s ongoing Gaza campaign since Oct 7.",
-    "Ben‑Gvir also advocated forced expulsion of Gaza’s residents and settlement of the strip, urging emigration for civilians while promising to kill “terrorists” one by one."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260819004156.3.13c315d34524bdcd@mg-d1.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Make Measles Great Again",
-   "date": "2026-08-18T17:41-07:00",
-   "url": null,
-   "bullets": [
-    "National kindergarten exemption rates rose to 4.2% in 2025‑26, up from 3.6% the year before, with Idaho topping the chart at 17% and MMR coverage as low as 75% there.",
-    "Measles cases have exceeded 2,500 this year—the highest in 35 years—driven by pockets of communities below the 95% herd‑immunity threshold, while pertussis remains above pre‑pandemic levels and vitamin‑K refusals have caused infant deaths.",
-    "The Trump administration’s new executive order directs agencies, including the Justice Department, to pressure states that make vaccine exemptions hard to obtain, signaling a federal push to loosen school‑vaccination requirements."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260818231824.3.783f14a79f5db413@mg-d0.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Melania May Be Behind MAGA’s Natalie Harp Freakout",
-   "date": "2026-08-18T16:18-07:00",
-   "url": null,
-   "bullets": [
-    "Former Trump voter recounts seeing a loved one affected by immigration policies he supported, highlighting the personal cost of his political choices.",
-    "Sen. Jon Ossoff’s claim that Trump and Natalie Harp frequently travel together sparks a faux outrage in MAGA circles, exposing intra‑party tensions.",
-    "Florida’s primary is poised to become competitive in the fall, while Pete Hegseth’s Iowa trip raises questions about his candidacy and the state’s influence on the GOP race."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260818180110.3.e71c75799c8357e4@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "The Death of Mainstream Media? Ex-CNN and CBS Journalists Weigh In",
-   "date": "2026-08-18T11:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-death-of-mainstream-media-ex",
-   "bullets": [
-    "He warns that the Washington Post’s financial instability poses a greater threat to democratic discourse than owner Jeff Bezos’s right‑wing politics"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 86,
-  "total": 355
+  "shown": 90,
+  "total": 357
  }
 }
