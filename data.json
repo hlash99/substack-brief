@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T18:18-07:00",
+ "updated": "2026-09-19T10:20-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -64,6 +64,109 @@
  },
  "items": [
   {
+   "id": "20260919170103.3.1493fc3cb55dd97f@mg-d1.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: Gaza Building Collapse Kills 12 Kids, as Trump Plans to Send Israel 2,000-Pound Bombs",
+   "date": "2026-09-19T10:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-gaza-building",
+   "bullets": [
+    "A war‑damaged building collapsed in Gaza City, killing 12 children and 9 adults; rescue workers used bare hands amid Israel’s restrictions on heavy machinery, saving dozens of trapped residents.",
+    "Israel’s continued airstrikes in Gaza killed a 15‑year‑old boy, while settler violence in the West Bank escalated; a leading Israeli think tank warned that “Jewish terrorism” poses a strategic threat to Israel."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260919151101.3.d86a230321e849d8@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Almost six weeks until Election Day",
+   "date": "2026-09-19T08:11-07:00",
+   "url": "https://roycoopernc.substack.com/p/almost-six-weeks-until-election-day",
+   "bullets": [
+    "The North Carolina Democratic Party’s coordinated campaign knocked on 37,000 doors and made 25,000 calls last weekend, reaching over 60,000 voters in a single week.",
+    "Nearly 15,000 volunteers have been active statewide, and the campaign urges continued weekend canvassing, phone banking, and personal outreach to maintain momentum for the 45 days until Election Day."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260919140342.3.2dd51baf02f0b04c@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Noura Erakat On Why She Was Arrested for Protesting Israeli Bond Investments",
+   "date": "2026-09-19T07:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/noura-erakat-and-lydia-ghuman-arrest-palm-beach",
+   "bullets": [
+    "Lydia Ghuman of the Internationalist Law Center says Florida is a test case for Zionist influence, noting Israel is the only foreign nation receiving such large local taxpayer bond investments"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260919130331.3.7521aa1d4144c033@mg-d0.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“I liked imagining us listening to the same song at the same time. It was the only piece of connection I had left.”",
+   "date": "2026-09-19T06:03-07:00",
+   "url": "https://post.substack.com/p/i-liked-imagining-us-listening-to",
+   "bullets": [
+    "This week, we’re selling coffee in the Scottish isles, pulling back the curtain on Fashion Week, and turning our attention toward a new kind of online safety. How Spotify DMs kept a parent connected to her stepdaughter",
+    "After an abrupt divorce, Chloé Caldwell was separated from a child she helped raise. Sharing music was their lifeline. Parenting Through a Playlist [ https://substack.com/redirect/68198a00-c497-4182-96e2-a30ad78a3709?j=eyJ1IjoiNWJ2anRsIn0.d…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260919124547.3.c958875d94cdce38@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Focus Groups Are Revealing a HUGE Weakness for Republicans",
+   "date": "2026-09-19T05:45-07:00",
+   "url": null,
+   "bullets": [
+    "Sarah Longwell’s focus groups in San Francisco show Republicans lack a clear, relatable narrative on everyday issues, making them vulnerable to voter disengagement.",
+    "She argues the GOP’s messaging fails to address middle‑class concerns, with respondents citing confusion over policy priorities and distrust of party leaders."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260919120523.3.b50739cf5e648900@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "What the Hell Was Gavin Newsom Thinking?",
+   "date": "2026-09-19T05:05-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/what-the-hell-was-gavin-newsom-thinking",
+   "bullets": [
+    "Newsom told Jake Tapper he wouldn’t run for president if Kamala Harris entered the race, sparking criticism that he’s limiting his own prospects just 50 days before the election.",
+    "Pfeiffer argues the comment is a tactical move to avoid a contentious primary with Harris, whose national popularity may rival Newsom’s, and notes the backlash on social media and among subscribers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260919113124.3.89fd880f6529d4db@mg-d0.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "MAGA’s Alternate Realities, Fractured Elbows, and a Fast-Moving War",
+   "date": "2026-09-19T04:31-07:00",
+   "url": null,
+   "bullets": [
+    "Happy Saturday! In case you missed it, George Conway [ https://substack.com/redirect/12b896c6-b1a5-4b3d-8c45-5df6ad14a0fe?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] joined  [ https://substack.com/redirect/12b896c6-b…",
+    "Did you miss Sonny Bunch and Mona Charen discuss ‘The Odyssey’? Did the movie live up to the hype? Tune in to catch up! [ https://substack.com/redirect/47015b10-54d2-4c60-b74c-42eea977570c?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6c…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260919103112.3.e021094f11fe0e5c@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Economic Size and Economic Power",
+   "date": "2026-09-19T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/economic-size-and-economic-power",
+   "bullets": [
+    "Krugman argues that in weaponized interdependence, the welfare loss from cutting off imports (consumer surplus) usually exceeds the loss to exporters because import demand is less elastic than export supply.",
+    "He cites the Canada‑U.S. trade dispute over Alberta tar sands oil as a case where export‑side producer surplus is significant, warning that policymakers often underestimate such export losses."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260919010048.3.fd9ae621b54dcb56@mg-d0.substack.com",
    "newsletter": "This Week in Democracy",
    "pub": "zeteo",
@@ -112,10 +215,11 @@
    "date": "2026-09-18T13:30-07:00",
    "url": null,
    "bullets": [
-    "Sarah and JVL are together again and JVL is raging. The president of the United States accused the Democratic party plotting to assassinate him and . . . everyone just pretends it didn’t happen.",
-    "Trump wants to demolish the Kennedy Center. Joe Manchin came back from the grave to endorse Susan Collins. And there’s a 90 percent chance that AI doesn’t kill everyone alive. Also: Sarah talks about the book tour and what it’s like to feel…"
+    "President Biden accused the Democratic Party of plotting to assassinate him, a claim the hosts say is being ignored while diesel prices surge dramatically.",
+    "The show riffs on Trump’s wish to demolish the Kennedy Center, Joe Manchin’s posthumous‑style endorsement of Susan Collins, and a 90% odds estimate that AI won’t wipe out humanity.",
+    "Sarah’s book How to Eat an Elephant hit #2 on the NYT bestseller list, and the hosts promote a Bulwark LIVE tour in October with guests like Bakari Sellers, Pete Buttigieg, and Bill Kristol."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260918190140.3.179769608ed74318@mg-d0.substack.com",
@@ -4814,135 +4918,10 @@
     "Miscarriages in Gaza have tripled in the first half of the year, rising to nearly 4,000 cases, a figure that has not sparked global feminist activism despite similar reactions to other women's rights issues."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260819163720.3.7e4a8ecef1cd2fa0@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Human Printer Is Cray-Cray",
-   "date": "2026-08-19T09:37-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark’s upcoming Good Fight Tour hits the Southeast in October, with tickets on sale Aug 21 and early presale for Bulwark+ members.",
-    "Trump’s 32‑year‑old aide Natalie Harp serves as his “human printer,” lugging a portable printer, paper and batteries to feed the president printed briefs.",
-    "The newsletter notes the story was first reported by Marc Caputo in May 2024, highlighting the bizarre nature of Trump’s reliance on printed memos."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260819154536.3.6a3f2b2b281cb7cb@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Why Every 2028 Campaign Should Study Angie Nixon's Win",
-   "date": "2026-08-19T08:45-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/why-every-2028-campaign-should-study",
-   "bullets": [
-    "Angie Nixon, a Florida state rep, defeated heavily funded national security official Alex Vindman in the Democratic primary by over 11 points, despite a spending gap of more than 10‑to‑1.",
-    "The upset signals a shift away from establishment-backed candidates, showing grassroots, under‑funded contenders can win against well‑known, financially advantaged opponents.",
-    "Pfeiffer argues 2028 Democratic campaigns should study Nixon’s strategy—leveraging local credibility and voter dissatisfaction—to replicate her outsider victory."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260819140103.3.55c8bc23e149469f@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "TODAY, 4PM ET: Francesca Albanese Joins Mehdi for a Live Town Hall Q&A",
-   "date": "2026-08-19T07:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/today-4pm-et-francesca-albanese-joins",
-   "bullets": [
-    "Settler violence in the occupied West Bank has reached an all‑time high, with extremist settlers besieging homes in Qusra, cutting off electricity and water, and attacking municipal workers.",
-    "Israel’s national security minister has publicly called for nightly “targeted assassinations” of 30‑40 people in Gaza, amid the ongoing genocide.",
-    "UN special rapporteur Francesca Albanese, a vocal critic of Netanyahu, will join Mehdi for a live Zeteo town‑hall at 4 PM ET to discuss the West Bank “pogroms” and Gaza crisis."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260819135150.3.c86449c685a83f2e@mg2.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "When wildfire smoke hits home",
-   "date": "2026-08-19T06:51-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/when-wildfire-smoke-hits-home",
-   "bullets": [
-    "Wildfire smoke exposure is rising nationwide, with climate models predicting larger, more frequent fires and smoke reaching far‑away states like Florida; indoor AQI can be 60% of outdoor levels without filtration.",
-    "A 2025 review of 33 studies found N95 masks filter up to 94% of PM2.5, yet were underused; firefighters only got voluntary N95 permission in 2025, despite 8‑43% higher lung‑cancer risk and 16‑30% higher cardiovascular death risk.",
-    "To protect health, wear a fitted N95 when AQI hits 150 (or 100 for sensitive groups) and upgrade home filtration to MERV‑13 or HEPA with continuous operation, aiming for indoor/outdoor ratios below 20% and a clean‑air refuge room."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260819133135.3.b540fce230d11a53@mg2.substack.com",
-   "newsletter": "Here Be Dragons from Barbara F. Walter",
-   "pub": "barbarafwalter",
-   "subject": "Trump Just Told the World: Get the Bomb",
-   "date": "2026-08-19T06:31-07:00",
-   "url": "https://barbarafwalter.substack.com/p/trump-just-told-the-world-get-the",
-   "bullets": [
-    "Trump’s threats to withdraw U.S. extended deterrence for NATO, Japan, South Korea and his cuts to joint exercises push allies toward developing their own nuclear arsenals.",
-    "By tearing up the Iran nuclear deal and befriending Kim Jong‑un, Trump incentivizes adversaries like Iran and North Korea to pursue bombs, increasing proliferation risks.",
-    "More nuclear states raise the chance of accidents or deliberate use, undermining the non‑proliferation stability the U.S. historically secured through guarantees and sanctions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260819132741.3.6b3b785322243788@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Polling, War, Harvey Lee West",
-   "date": "2026-08-19T06:27-07:00",
-   "url": "https://roycoopernc.substack.com/p/polling-war-harvey-lee-west",
-   "bullets": [
-    "Cooper says Trump’s war in Iran is draining gas, grocery and utility costs and lacks any clear strategy, fueling voter frustration in North Carolina.",
-    "He warns that Republican opponent Michael Whatley, former NC GOP chair, appointed convicted child molester Harvey Lee West to a leadership role to raise money, prompting a party resolution to bar such appointments.",
-    "Cooper claims he leads in polls, faces $100 million in Republican ads, and urges donations and volunteer support to win the open Senate seat and address cost‑of‑living, health care, and democratic checks."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260819131447.3.92a61c0452e37fb8@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Disney Says No to the Lyin’ King",
-   "date": "2026-08-19T06:14-07:00",
-   "url": null,
-   "bullets": [
-    "Sen. Darline Graham, a new Republican senator from South Carolina, admitted in a GOP primary debate that she is not knowledgeable about national security issues like Taiwan and the South China Sea, though she supports the military.",
-    "Disney/ABC’s parent companies, Paramount and ABC, settled for $16 million and $16 million respectively in lawsuits involving Donald Trump’s claims over a 60 Minutes interview and the E. Jean Carroll case, despite the cases being largely meritless and the settlements dwarfing the companies’ revenues."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260819112622.3.35e852ad7288f5cd@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "👱‍♀️ 🖨️ Inside Trumpland’s Freakout Over ‘Natalie’",
-   "date": "2026-08-19T04:26-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/inside-trumplands-freakout-over-natalie",
-   "bullets": [
-    "Trump ordered a sweeping leak‑hunt after Natalie Harp’s private letters were published, calling the leak an “invasion of privacy” and demanding phone inspections from suspected moles.",
-    "The political fallout saw Republicans and Trump‑aligned officials mobilize to defend Harp, treating her as a protected asset and sparking a cult‑ish defense of her honor across the GOP and federal apparatus.",
-    "Meanwhile, progressives won a surprising upset in Florida and the Trump administration continued to target the International Criminal Court, highlighting ongoing geopolitical tensions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260819102645.3.d47f8cf7a2b7a145@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "What Are Bond Markets Telling Us?",
-   "date": "2026-08-19T03:26-07:00",
-   "url": "https://paulkrugman.substack.com/p/what-are-bond-markets-telling-us",
-   "bullets": [
-    "Long‑term government bond yields have spiked to mid‑2000s levels because soaring credit demand—from AI‑driven datacenter investment and massive U.S. deficits after Trump’s tax cuts—outpaces supply, not because of solvency fears.",
-    "Krugman argues there’s no evidence of a looming U.S. debt crisis: inflation breakeven rates and credit‑default swap spreads remain flat, and countries borrowing in their own currency rarely run out of money.",
-    "He urges future Democratic policymakers not to panic, to avoid the 2009‑10 debt‑scare narrative, and to eventually address deficits, but stresses the current rate rise is a credit‑demand issue, not a crisis."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 90,
-  "total": 357
+  "total": 356
  }
 }
