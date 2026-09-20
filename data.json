@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T10:20-07:00",
+ "updated": "2026-09-19T18:19-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -64,6 +64,34 @@
  },
  "items": [
   {
+   "id": "20260919232039.3.e3a9509542980bb6@mg2.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Anne Applebaum: Putin Played Jared Kushner “Like a Fiddle”",
+   "date": "2026-09-19T16:20-07:00",
+   "url": null,
+   "bullets": [
+    "Applebaum argues Putin manipulated Jared Kushner, treating him as a pliable instrument in Russia’s geopolitical games.",
+    "Miller claims the Trump administration is deploying tech entrepreneurs and hedge‑funders to run a covert influence operation in Greenland while simultaneously seizing Venezuelan gold and oil and backing the Bolsonaro family in Brazil, possibly linked to Elon Musk’s grievances.",
+    "The episode also promotes Applebaum’s Atlantic cover story “Empire of Grift,” her novel recommendation “Whistler,” and announces a Bulwark benefit event in Springfield, Ohio."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260919190456.3.40c35c173e283b3d@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Alex Wagner NUKES Alito’s Defense of the Trump Election Power Grab",
+   "date": "2026-09-19T12:04-07:00",
+   "url": null,
+   "bullets": [
+    "Alex Wagner and JVL map how four conservative operatives constructed a legal infrastructure that remade the Supreme Court over decades and underpins today’s partisan politics.",
+    "They dissect Justice Samuel Alito’s dissent in the Supreme Court’s mail‑ballot decision, arguing it shields Trump’s ongoing battle over the Kennedy Center’s leadership.",
+    "The Bulwark’s Good Fight Tour will hit Columbia, Charlotte (with Pete Buttigieg) and Atlanta Oct 16‑18; tickets are on TheBulwark.com/Events."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260919170103.3.1493fc3cb55dd97f@mg-d1.substack.com",
    "newsletter": "This Week in Palestine | Zeteo",
    "pub": "zeteo",
@@ -109,10 +137,11 @@
    "date": "2026-09-19T06:03-07:00",
    "url": "https://post.substack.com/p/i-liked-imagining-us-listening-to",
    "bullets": [
-    "This week, we’re selling coffee in the Scottish isles, pulling back the curtain on Fashion Week, and turning our attention toward a new kind of online safety. How Spotify DMs kept a parent connected to her stepdaughter",
-    "After an abrupt divorce, Chloé Caldwell was separated from a child she helped raise. Sharing music was their lifeline. Parenting Through a Playlist [ https://substack.com/redirect/68198a00-c497-4182-96e2-a30ad78a3709?j=eyJ1IjoiNWJ2anRsIn0.d…"
+    "After a 2023 divorce, stepmother Chloé Caldwell kept a bond with her 13‑year‑old stepdaughter by continuously adding songs to a shared playlist, eventually reuniting at her father’s 2025 memorial where they played “Blackbird” together.",
+    "AI safety researcher Joe Benton quit Anthropic’s safety team to join independent evaluator METR, warning that AI agents could soon surpass human intelligence, with recent hacks and social‑engineering incidents suggesting industry under‑investment in safety could threaten humanity’s survival.",
+    "MrBeast (Jimmy Donaldson) has built a billion‑dollar empire, amassing over 500 million YouTube subscribers (≈6% of world population) and a record‑breaking Amazon reality show, while monetizing extreme stunts and philanthropy that often involve personal hardship for content."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260919124547.3.c958875d94cdce38@mg-d1.substack.com",
@@ -4879,49 +4908,10 @@
     "While acknowledging fiscal irresponsibility under Trump, Krugman says debt panic is unwarranted and would hinder future Democratic policy goals."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260820001628.3.556eeec2b2d520f2@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Is the Media Afraid of Covering the Natalie Harp-Donald Trump Dynamic?",
-   "date": "2026-08-19T17:16-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/is-the-media-afraid-of-covering-the",
-   "bullets": [
-    "Journalism ethics scholars Eric Deggans and Subbu Vincent debate whether probing aide Natalie Harp’s personal letters to Donald Trump—described as “all that matters to” him and alarming the Secret Service—is fair game after Sen. Jon Ossoff highlighted her in a campaign speech.",
-    "The piece notes that MS NOW’s Katy Tur abruptly shifted away from the Harp story, underscoring media hesitation, while Disney is praised for opposing Trump despite earlier actions that helped fuel his anti‑media stance."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260819220105.3.fb0bce32c068efa4@mg-d0.substack.com",
-   "newsletter": "Brendan Hartnett - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "GOP Iowa Nominee’s Million-Dollar Sex-Toy Problem",
-   "date": "2026-08-19T15:01-07:00",
-   "url": null,
-   "bullets": [
-    "Zach Lahn, Iowa GOP gubernatorial candidate, invested $1 million in FirmTech in 2021, becoming its second‑largest shareholder with a 28.2 % stake and later retained 25 % ownership through an LLC.",
-    "FirmTech, marketed as a medical device company, sold “erection rings” and a clitoral vibrator that were described as sex toys, contradicting Lahn’s claim that he only supported therapeutic products.",
-    "Lahn resigned from FirmTech’s board in September 2023 before any pleasure products were released, yet SEC filings show he owned shares and signed documents promoting those very products during his tenure."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260819180221.3.5f46a165c345ba78@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "The Silence of Western Feminists Over Gaza Exposes Their Fraud",
-   "date": "2026-08-19T11:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-silence-of-western-feminists",
-   "bullets": [
-    "Miscarriages in Gaza have tripled in the first half of the year, rising to nearly 4,000 cases, a figure that has not sparked global feminist activism despite similar reactions to other women's rights issues."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 90,
-  "total": 356
+  "shown": 91,
+  "total": 355
  }
 }
