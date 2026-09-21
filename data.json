@@ -1,50 +1,17 @@
 {
- "updated": "2026-09-20T10:33-07:00",
+ "updated": "2026-09-20T18:16-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The Supreme Court’s cryptic rejection of Trump’s mail‑in voting ban is a rare Democratic win that will likely trigger a flurry of legal battles through 2028 (This Week in Democracy).",
-   "Trump’s unprecedented move to ban CNN, MS NOW, and Politico from the White House and threaten to tear down the Kennedy Center underscores his ongoing cultural attacks and personal branding strategy (This Week in Democracy, First Draft | Zeteo).",
-   "North Carolina’s Senate race has become a money war, with GOP super‑PACs pouring over $100 million into ads against Roy Cooper while Cooper urges grassroots donors to counter the spending (Roy Cooper).",
-   "Canada’s pivot away from Trump‑era U.S. policy—fuelled by Mark Carney’s popularity and a new defense posture—signals a strategic shift that could reshape U.S. influence in the EU and the bond market (Catherine Rampell – The Bulwark).",
-   "Biden‑Harris officials are being targeted by a new #DropTheGenocide20 campaign that seeks to bar them from future Democratic administrations over alleged Gaza genocide complicity (First Draft | Zeteo).",
-   "The Houthis’ advance along the Red Sea coast has damaged Saudi pipelines and intensified a looming global diesel shortage, raising the risk of a broader energy crisis amid U.S. military support waning (Doomberg)."
+   "The looming war in Iran is reshaping U.S. strategy, with Trump’s aggressive posture prompting NATO allies to brace for a strategic withdrawal and sparking warnings from experts like Robert Kagan (The Bulwark) and George Conway (The Bulwark).",
+   "Democratic election battles have tightened, as North Carolina and Maine Senate races become pivotal for control of Congress, driving massive fundraising pushes and intense ad wars (The Bulwark, Zeteo).",
+   "Republican messaging crises are evident, with focus‑group data showing a lack of relatable narratives and internal scandals such as Kash Patel’s FBI funding request fueling voter disengagement (The Bulwark).",
+   "Trump’s authoritarian moves—banning major media from the White House and threatening cultural institutions like the Kennedy Center—are prompting legal battles and financial fallout for cultural nonprofits (The Bulwark, First Draft | Zeteo).",
+   "Economic analyses highlight that Trump’s trade policies, from failed tariffs to weaponized interdependence, are hurting both consumers and exporters, while global energy dynamics shift as the Houthis disrupt Red Sea shipping, threatening a diesel shortage (Paul Krugman, Doomberg)."
   ],
   "by": "groq",
   "ids": [
-   "20260916012313.3.1ff77e61114857c5@mg2.substack.com",
-   "20260916090037.3.c6b96bda1bba7520@mg-d0.substack.com",
-   "20260916100133.3.daac80c311b0fb22@mg2.substack.com",
-   "20260916100207.3.d7a2612692fc16db@mg-d1.substack.com",
-   "20260916111844.3.da649c5943fe7e31@mg-d1.substack.com",
-   "20260916115647.3.f2b01f4900fa37f7@mg-d1.substack.com",
-   "20260916130133.3.d1c019a27324a40f@mg-d1.substack.com",
-   "20260916133145.3.1cb252e29e44f6dd@mg-d0.substack.com",
-   "20260916133834.3.3cbce6ee5f07ca33@mg-d0.substack.com",
-   "20260916143434.3.831e9528e2d00ded@mg2.substack.com",
-   "20260916150403.3.57b3b4cd9090b916@mg-d0.substack.com",
-   "20260916155245.3.249e0fe921ab017e@mg-d0.substack.com",
-   "20260916163536.3.7463725082722e03@mg-d1.substack.com",
-   "20260916173238.3.78eb7bca5f3f22e1@mg-d0.substack.com",
-   "20260916173609.3.40220e4617b153bb.ch3oh1dk@mg1.substack.com",
-   "20260916191443.3.652f87259f038ce4@mg-d1.substack.com",
-   "20260916203349.3.d08e4f233ca31c06@mg-d1.substack.com",
-   "20260916210044.3.c4b6005504a742ac@mg-d1.substack.com",
-   "20260917010024.3.68630494f578c165@mg-d1.substack.com",
-   "20260917012427.3.09ca250c63536955@mg-d0.substack.com",
-   "20260917065701.3.0ef2f3c9eecab723@mg2.substack.com",
-   "20260917104720.3.24a08e48cdc91d2f@mg-d1.substack.com",
-   "20260917113749.3.ecbcc4d272401404@mg-d0.substack.com",
-   "20260917133401.3.12bcff282672a3a4@mg-d1.substack.com",
-   "20260917145452.3.d5de91ffc8d48dba@mg-d0.substack.com",
-   "20260917160226.3.5b448b614bf33ee3@mg2.substack.com",
-   "20260917160728.3.f4bf17287b60cf9a@mg-d0.substack.com",
-   "20260917164203.3.dfa25e9dc10308c7@mg-d0.substack.com",
-   "20260917191632.3.1fc8d9c2e022850f@mg-d0.substack.com",
-   "20260917204728.3.90ffdb80f5c115c3@mg-d0.substack.com",
-   "20260917230101.3.345627b45d7144e3@mg-d1.substack.com",
-   "20260918010119.3.e40e7b58c4b4efb0@mg-d0.substack.com",
    "20260918090247.3.e39f6e6df24b872a@mg-d1.substack.com",
    "20260918100155.3.ae1a7ca91e21a231@mg2.substack.com",
    "20260918104419.3.ee123bee39e1c80a@mg-d1.substack.com",
@@ -55,14 +22,88 @@
    "20260918165504.3.f565f8d6e3a1950f@mg-d1.substack.com",
    "20260918182734.3.770af98672edabb9@mg-d0.substack.com",
    "20260918190140.3.179769608ed74318@mg-d0.substack.com",
+   "20260918203041.3.d028c9d7b134ac60@mg-d0.substack.com",
    "20260918211849.3.a9208e823716fbe5@mg-d1.substack.com",
    "20260918214411.3.71d4bbc6668620ab@mg-d1.substack.com",
-   "20260919010048.3.fd9ae621b54dcb56@mg-d0.substack.com"
+   "20260919010048.3.fd9ae621b54dcb56@mg-d0.substack.com",
+   "20260919103112.3.e021094f11fe0e5c@mg-d0.substack.com",
+   "20260919113124.3.89fd880f6529d4db@mg-d0.substack.com",
+   "20260919120523.3.b50739cf5e648900@mg-d0.substack.com",
+   "20260919124547.3.c958875d94cdce38@mg-d1.substack.com",
+   "20260919130331.3.7521aa1d4144c033@mg-d0.substack.com",
+   "20260919140342.3.2dd51baf02f0b04c@mg-d1.substack.com",
+   "20260919151101.3.d86a230321e849d8@mg-d0.substack.com",
+   "20260919170103.3.1493fc3cb55dd97f@mg-d1.substack.com",
+   "20260919190456.3.40c35c173e283b3d@mg-d0.substack.com",
+   "20260919232039.3.e3a9509542980bb6@mg2.substack.com",
+   "20260920103055.3.012db9c5a6b0271e@mg-d0.substack.com",
+   "20260920123800.3.10e82ba2f9cb1a5c@mg2.substack.com",
+   "20260920132934.3.86bc2978d5dd00ca@mg2.substack.com",
+   "20260920160206.3.91e2d6e05145a2f1@mg2.substack.com",
+   "20260920175318.3.b0f0fbf75b37e9bb@mg-d0.substack.com",
+   "20260920192541.3.e6c4c33ebbeee603@mg2.substack.com",
+   "20260920234918.3.cecf9c808690db84@mg-d1.substack.com",
+   "20260921003414.3.b25423a721348ef0@mg2.substack.com"
   ],
-  "updated": "2026-09-18T18:18-07:00",
+  "updated": "2026-09-20T18:16-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260921003414.3.b25423a721348ef0@mg2.substack.com",
+   "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
+   "pub": "macgregorwarrior",
+   "subject": "America’s Toxic Military Culture Must End",
+   "date": "2026-09-20T17:34-07:00",
+   "url": "https://macgregorwarrior.substack.com/p/americas-toxic-military-culture-must",
+   "bullets": [
+    "Macgregor argues that a toxic U.S. military culture, not just presidential decisions, drives endless wars, citing Trump’s Iran conflict as worse than LBJ’s Vietnam escalation.",
+    "He warns that even if Democrats win Congress, entrenched Zionist‑backed interests and soaring defense budgets will prevent ending the war, and replacing top officials like SecDef Hegseth won’t fix deep‑rooted Pentagon problems."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260920234918.3.cecf9c808690db84@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The One Legit Reason for Dem Panic",
+   "date": "2026-09-20T16:49-07:00",
+   "url": null,
+   "bullets": [
+    "Republican national committees raised about $100 million more than Democrats by July and have pledged $557 million versus Democrats’ $343 million in the nine most competitive Senate races, plus a $13 million cash edge in the House race‑down‑the‑road.",
+    "Democratic strategists say GOP’s late‑season ad spending is costly because cheap spring GRP slots are gone, with cost‑per‑GRP jumps of 500% in Anchorage and up to 138% in Michigan, limiting Democratic ad buys despite their candidates out‑raising individual Republican opponents.",
+    "The Supreme Court’s ruling lifting limits on coordinated spending lets GOP committees sit on cash and buy low‑rate TV spots in October, prompting Democrats to fear a margin‑cutting ad surge that could shrink their House majority and force intensified fundraising."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260920192541.3.e6c4c33ebbeee603@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Robert Kagan’s Chilling Warning About Trump’s Next Two Years | Bulwark on Sunday",
+   "date": "2026-09-20T12:25-07:00",
+   "url": null,
+   "bullets": [
+    "Kagan warns that Trump’s war with Iran is hastening U.S. strategic withdrawal, forcing NATO allies to defend themselves as China and Russia gain operational latitude.",
+    "He notes Trump’s lingering ambitions in Greenland and recent Xi Jinping visit to Washington as signs of a chaotic foreign policy lacking coherent direction.",
+    "Kagan cautions that the post‑World‑War‑II order could unravel far faster than Washington anticipates, threatening global stability."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260920175318.3.b0f0fbf75b37e9bb@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "What a win here could mean",
+   "date": "2026-09-20T10:53-07:00",
+   "url": "https://roycoopernc.substack.com/p/what-a-win-here-could-mean",
+   "bullets": [
+    "North Carolina’s Senate race is deemed the pivotal contest that could flip control of the U.S. Senate to Democrats, giving them 51 votes.",
+    "Republican opponents have spent over $100 million on the race, and a new brand‑new poll shows the contest within the margin of error.",
+    "Cooper urges donors to contribute $5 to help secure a Democratic win and advance policies on health care, voting rights, and tax relief for working families."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260920160206.3.91e2d6e05145a2f1@mg2.substack.com",
    "newsletter": "Bulwark Takes",
@@ -4838,38 +4879,10 @@
     "The detailed story explaining the infiltration is behind a paywall, accessible with a Bulwark+ membership."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260821000049.3.15d2ce174c3d02b4@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "He Co-Founded Airbnb. Now He’s a Red-Pilled Billionaire Helping Trump",
-   "date": "2026-08-20T17:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/airbnb-joe-gebbia-red-pill-trump-doge",
-   "bullets": [
-    "Joe Gebbia, Airbnb co‑founder, donated $200k to both Hillary Clinton’s 2016 campaign and Joe Biden’s 2020 campaign before abandoning the Democrats in 2024 and now publicly backs Trump, RFK Jr, and Elon Musk while sharing extremist, COVID‑denial, and election‑fraud content on X.",
-    "Recent X activity shows Gebbia amplifying far‑right narratives, including a John Birch Society post blaming illegal immigration for housing prices, a claim that NGOs manipulate migrants, and a false headline that Los Angeles would let non‑citizens vote.",
-    "Gebbia, now the U.S. government’s first chief design officer, uses his platform to spread white‑supremacist rhetoric and conspiracy theories, linking Democratic policies to alleged election fraud and praising radical right‑wing financiers like Bill Ackman."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260820194546.3.5614bae1c78227c1@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Is Finally Losing Ground Among Republicans",
-   "date": "2026-08-20T12:45-07:00",
-   "url": null,
-   "bullets": [
-    "Recent focus groups of straight‑ticket Republicans show a noticeable shift, with many now grading Trump a C or D rather than the usual A‑B ratings.",
-    "The author notes that while earlier supporters praised Trump’s promises and personal finance impact, current sentiment reflects disappointment and deflation among voters who previously backed him three times.",
-    "These findings suggest a growing willingness among some GOP voters to sit out the midterms or even consider non‑Trump options."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 91,
-  "total": 352
+  "shown": 92,
+  "total": 354
  }
 }
