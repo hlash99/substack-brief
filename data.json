@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T18:16-07:00",
+ "updated": "2026-09-21T12:36-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -49,6 +49,113 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260921165104.3.a0a3435ee0f2acac@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Forever War Is Sucking the Life Out of Him",
+   "date": "2026-09-21T09:51-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s Iran policy has evolved from a brief engagement to a long‑term, unending conflict, with the author arguing he has no viable exit strategy beyond continued war.",
+    "The author predicts that this perpetual war will drain U.S. resources, destabilize regional security, and ultimately lead to Trump’s political downfall."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260921150645.3.007bc4a540b564f2@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Zack Polanski Talks to Zeteo UK About Being Jewish and Anti-Zionist, Running for Starmer’s Seat, and Taking On the…",
+   "date": "2026-09-21T08:06-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/zack-polanski-talks-to-zeteo-uk-about",
+   "bullets": [
+    "A note from our editor-in-chief: Zeteo UK [ https://substack.com/redirect/41252090-0c31-4a29-a80d-bac6bf8ed757?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] officially launched last week, with an exciting lineup [ http…",
+    "Zeteo UK officially launched [ https://substack.com/redirect/b4027324-32ff-4d2a-b42c-3832035d1f8a?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] last week with a sold-out show at the Barbican Centre featuring a a wide-r…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260921140117.3.cb1c7002e31889c2@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "JD Vance just landed in North Carolina",
+   "date": "2026-09-21T07:01-07:00",
+   "url": "https://roycoopernc.substack.com/p/jd-vance-just-landed-in-north-carolina",
+   "bullets": [
+    "GOP spending in North Carolina to defeat Roy Cooper has exceeded $100 million, with Trump’s super PAC pouring millions into Michael Whatley’s campaign.",
+    "Senate candidate JD Vance is arriving in North Carolina to campaign alongside Whatley, as a new poll shows the race now within the margin of error with six weeks left.",
+    "Cooper is launching a $200,000 rapid‑response fund to counter Vance’s attacks and asks supporters to donate immediately."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260921133308.3.2abd4aad40a4cb23@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s AI Hubris Is a Blue Opportunity",
+   "date": "2026-09-21T06:33-07:00",
+   "url": null,
+   "bullets": [
+    "Things are pretty stupid out there, but don’t you ever think they can’t get stupider still. Take the massive Triumphal Arch that our Napoleon-idolizing president wants to build at the entrance to Arlington National Cemetery. The arch, Trump…",
+    "Trump’s thinking here, as with his East Wing ballroom, is that the courts will be more deferential in letting him build his arch if he can claim it’s needed for a national security reason. We don’t know whether the appropriate response is t…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260921110239.3.3875095b1e78150a@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Trump Threatens to ‘Blow Up’ Iran Again. Not Everyone Thinks He’ll TACO This Time",
+   "date": "2026-09-21T04:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-threatens-to-blow-up-iran-again",
+   "bullets": [
+    "Trump, after cutting short a Camp David visit, told Fox he is weighing “wiping Iran out” or a deal and hinted at meeting Iran’s president at the UN, prompting a State Department security alert and Iranian threats to target U.S. bases.",
+    "Legal backdrop: New York AG Letitia James sued Trump and his family for business fraud in 2022; they were ordered to pay $450 million in Feb 2024, a verdict upheld in Aug 2025 but the penalty was later thrown out, and Trump is now attempting to prosecute James on dubious charges.",
+    "The White House has also banned CNN, MSNBC and Politico, while aides appear unsettled after the departure of press secretary Karoline Leavitt and chief of staff Susie Wiles, raising concerns about Trump’s foreign‑policy moves ahead of the midterms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260921103734.3.fc09f9e205195e7d@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "NBC Poll: The Midterms Are a Referendum on Trump, and He's Losing",
+   "date": "2026-09-21T03:37-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/nbc-poll-the-midterms-are-a-referendum",
+   "bullets": [
+    "An NBC poll finds Trump’s approval at only low‑40s and a generic Democratic advantage of 5 points, indicating Republicans lack any positive Trump‑driven boost for midterms.",
+    "Voters see the midterms as a referendum on Trump, rejecting his agenda and making him a political liability rather than an asset for GOP candidates."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260921103111.3.e7cfd712b38e4b8d@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Of Donald and Diesel",
+   "date": "2026-09-21T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/of-donald-and-diesel",
+   "bullets": [
+    "Trump demanded Zelensky stop targeting Russian diesel facilities, claiming it hurts U.S. midterm prospects, despite Trump’s own aid cuts leaving Ukraine defenseless.",
+    "Krugman argues the global energy crunch is now a refined‑product bottleneck: diesel trades above $200/barrel, driven by refinery outages in the Middle East and Ukraine’s strikes on Russian plants.",
+    "Rising diesel costs raise producer prices, feeding core inflation and forcing the Fed to consider higher interest rates, making Trump’s demand politically motivated but unrealistic."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260921013018.3.2618bf4503168415@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "The World Is on Fire. Here’s What You Need to Know.",
+   "date": "2026-09-20T18:30-07:00",
+   "url": null,
+   "bullets": [
+    "The Houthis intensified attacks on Saudi Arabia, striking Riyadh, while Ukraine launched a large-scale drone and missile campaign against Moscow and Russian energy sites.",
+    "The hosts critique the Trump administration’s handling of the Saudi crisis, assess U.S. involvement in Ukraine, and warn of Russia’s expanding sabotage across Europe and a harsh Ukrainian winter."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260921003414.3.b25423a721348ef0@mg2.substack.com",
    "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
@@ -4766,117 +4873,6 @@
     "Matt Johnson’s biopic “Tony” portrays a young Anthony Bourdain’s redemption through hard work and honesty, framing his lies as original sin and his eventual truth‑telling as grace.",
     "The film leans on classic biopic beats but stands out with strong performances from Dominic Sessa, Antonio Banderas as the mentor Chef, and Leo Woodall as the intense line cook.",
     "While the author remains skeptical of Bourdain’s cult status, they praise “Tony” as a well‑crafted, high‑level entry that pierces the mythic image of the chef‑author."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260821191851.3.b42fa1af14853942@mg-d0.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Is Jon Ossoff the One We’ve Been Waiting For?",
-   "date": "2026-08-21T12:18-07:00",
-   "url": null,
-   "bullets": [
-    "The show featured Sen. Darlene Graham claiming South Carolina voters prioritize the boys‑vs‑girls sports issue over Taiwan, despite there being no boys playing girls’ sports in the state.",
-    "Former CIA analyst Julia Curlee, who served under Trump, Biden, and Trump again, was dismissed after MAGA influencers exposed her as trans, raising questions about civil servant loyalty to an elected Trump.",
-    "The episode teased a discussion on whether Jon Ossoff is the key Democratic figure, introduced a new 'Pickleball talk' segment, and promoted the members‑only Secret Podcast."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260821190130.3.1bcd5720d7e0f61d@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Here’s a Blueprint for What Democrats Should Do If They Take Back the House",
-   "date": "2026-08-21T12:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/heres-a-blueprint-for-what-democrats",
-   "bullets": [
-    "Alex Jones warned on X that a Trump‑initiated war in Iran could lead to a draft and total war, urging Democrats to act to stop Trump’s “tyranny.”",
-    "House Minority Leader Hakeem Jeffries said Democrats aren’t focusing on impeachment now, but a post‑election Democratic win would demand immediate accountability as Trump’s approval sits at 33% with 73% saying he ignores key problems.",
-    "The newsletter argues that without restoring constitutional rule of law, any Democratic policy agenda—like tackling the affordability crisis—will be moot, calling for “Nuremberg‑style” actions against Trump’s alleged illegal conduct."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260821144548.3.3582baacfd0a1c76@mg-d1.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "We’re in for a long race",
-   "date": "2026-08-21T07:45-07:00",
-   "url": "https://roycoopernc.substack.com/p/were-in-for-a-long-race",
-   "bullets": [
-    "Vice President and President Trump have targeted Gov. Roy Cooper in North Carolina, warning that a Republican win in the state could secure GOP Senate control until 2029.",
-    "Cooper’s campaign faces heavy attacks from Trump’s allies, including Stephen Miller, and stresses the need for fundraising to fund ads and counter the GOP’s messaging."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260821132811.3.29b79730606f59fc@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Your New Senator Is a Total Lightweight. She’s Perfect.",
-   "date": "2026-08-21T06:28-07:00",
-   "url": null,
-   "bullets": [
-    "Darline Graham, South Carolina senator and Lindsey Graham’s sister, stumbled over a Taiwan question in a debate, claiming foreign policy isn’t her expertise while her brother has long championed U.S. support for Taiwan.",
-    "The author notes that none of eleven GOP Senate China hawks—Jim Risch, Tom Cotton, Josh Hawley, Pete Ricketts, Dan Sullivan, Todd Young, Bill Hagerty, Marsha Blackburn, Rick Scott, John Cornyn, and Ted Cruz—responded to a request for comments on Trump’s abrupt cut of joint U.S.–South Korea exercises, highlighting a perceived lack of engagement on China policy.",
-    "The piece argues that many GOP senators prioritize culture‑war issues over substantive foreign‑policy debate, suggesting that voters may be more concerned with domestic partisan battles than with strategic challenges like the South China Sea and U.S. alliances."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260821111927.3.428263bfa58911fa@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "⬇️ Trump Advisers Worry He Could ‘Sink to the High 20s’",
-   "date": "2026-08-21T04:19-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-advisers-worry-he-could-sink",
-   "bullets": [
-    "Reuters/Ipsos and Fox News polls show Trump’s approval has fallen to a historic low of 33% ahead of the midterms, with private GOP‑commissioned polls hovering around 30%‑35%.",
-    "A Financial Times survey finds nearly 25% of 2024 Trump voters say they are financially worse off since his return to office, while Republican strategists fear his war on Iran will further depress GOP turnout in crucial midterms.",
-    "Michael Cohen, once a Trump critic, returned to interview the president on his radio show, highlighting internal GOP anxiety about Trump potentially sinking into the low‑20% approval range."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260821111941.3.8b394607c46e2541@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Just Ordered the Government to Delete the Receipts (w/ Andrew Weissmann)",
-   "date": "2026-08-21T04:19-07:00",
-   "url": null,
-   "bullets": [
-    "Trump ordered the federal government to delete corporate ownership records, a move that could obscure financial ties and raise legal questions about record‑keeping transparency.",
-    "Weissmann explains the latest Fauci investigation, noting new evidence that could impact the probe’s scope and potential charges.",
-    "An Alaska election controversy involving a disputed absentee ballot led to a DOJ investigation, highlighting vulnerabilities in election security and the administration’s handling of contested results."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260821104425.3.82108e33c183c2dc@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Scott Bessent Fails to Gaslight the Market",
-   "date": "2026-08-21T03:44-07:00",
-   "url": "https://paulkrugman.substack.com/p/scott-bessent-fails-to-gaslight-the",
-   "bullets": [
-    "Treasury Secretary Scott Bessent, a Trump loyalist, pushed a controversial plan to put Trump’s signature on U.S. currency and denied a K‑shaped economy despite data showing widening inequality, eroding market credibility.",
-    "Nearly half of Trump‑appointed top Treasury officials have quit, many citing illegal demands such as a $1.8 billion “anti‑weaponization” fund and misuse of taxpayer data, highlighting internal turmoil.",
-    "Bessent’s recent 30‑year Treasury bond buyback, funded by short‑term debt, mirrors quantitative easing in an inflationary environment, briefly lowered yields but quickly rebounded, underscoring the futility of his politically‑driven market intervention."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260821012404.3.998c2451f7d6d667@mg2.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s War on Reality Comes for the Census",
-   "date": "2026-08-20T18:24-07:00",
-   "url": null,
-   "bullets": [
-    "The author now warns that the Trump administration has infiltrated the U.S. Census Bureau, compromising its traditionally nonpartisan data collection.",
-    "Because of this interference, the author can no longer trust any federal statistical releases, including unemployment and inflation figures.",
-    "The detailed story explaining the infiltration is behind a paywall, accessible with a Bulwark+ membership."
    ],
    "summary_by": "groq"
   }
