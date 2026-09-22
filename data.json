@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T12:36-07:00",
+ "updated": "2026-09-21T18:39-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -49,6 +49,60 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260921235026.3.ea6ff144c50b1bcf@mg-d1.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "SCOOP: Looksmaxxer Clavicular Charged With Criminal Rape, Drugging",
+   "date": "2026-09-21T16:50-07:00",
+   "url": null,
+   "bullets": [
+    "Right‑wing livestreamer Braden Peters, known as “Clavicular,” has been charged with criminal rape and drugging according to newly released court documents.",
+    "His prior business ties to an Israeli mafia associate have been severed, his alleged overdose occurred five months ago, and his relationship with a powerful publicist has been revived.",
+    "Despite the charges, Clavicular’s brand of “looksmaxxing” entered the mainstream (now in Merriam‑Webster) and he recently appeared on Howie Mandel’s podcast, Barstool Sports, Red Scare and the All In show hosted by David Sacks."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260921231540.3.9c95898ef41196a8@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Trump’s Biggest Con of All",
+   "date": "2026-09-21T16:15-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trumps-biggest-con-of-all",
+   "bullets": [
+    "ProPublica revealed a Russian oligarch funded Donald Trump Jr.'s wedding, which Bettina Trump downplayed as a generous gift without agenda, echoing the family’s typical Russia denial.",
+    "The author argues this undisclosed Russia‑Trump link is the most damaging of Trump’s cons, enabling wealth, party corruption, and bolstering Putin’s authoritarian regime while harming the U.S. and the free world."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260921213239.3.9a456449b2c60d4e@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "We can’t let Vance’s attacks go unanswered",
+   "date": "2026-09-21T14:32-07:00",
+   "url": "https://roycoopernc.substack.com/p/we-cant-let-vances-attacks-go-unanswered",
+   "bullets": [
+    "Roy Cooper says recent small-dollar donations haven’t met his $200,000 rapid‑response target after Vice President Vance’s rally attacking him and his opponent Michael Whatley.",
+    "He warns a new poll shows the North Carolina Senate race virtually tied and that over $100 million from GOP super‑PACs and Trump‑aligned attacks are pressuring his campaign.",
+    "Cooper extends the fundraising deadline to 11:59 p.m., urging supporters to chip in to fund air‑wave ads and flip the seat, citing Senate control at stake."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260921203133.3.800148886c10184e@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Trump’s Gas Price Problem Is About to Get Much, Much Worse (w/ GasBuddy’s Patrick De Haan)",
+   "date": "2026-09-21T13:31-07:00",
+   "url": null,
+   "bullets": [
+    "Escalating Middle East conflict, attacks on Russian refineries, and tight diesel inventories—15% below the five‑year average—are driving oil and diesel prices toward $7‑$8 per gallon this winter.",
+    "Refinery utilization is near 98% capacity, leaving little slack for further disruptions as 42 states already see record diesel prices and national gasoline averages rise toward this year’s peak."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260921165104.3.a0a3435ee0f2acac@mg-d0.substack.com",
    "newsletter": "JVL - The Bulwark",
@@ -4819,60 +4873,6 @@
     "Sen. Jon Ossoff is gaining traction among Georgia swing voters, according to a recent focus group that highlighted his appeal over his opponent; Amy Walter and Sarah Longwell analyze why Ossoff resonates with undecided voters.",
     "The podcast examines the massive polling errors in Wisconsin and Michigan primaries, featuring a Wisconsin focus group that explains how David Crowley’s last‑minute surge was possible despite earlier misreadings.",
     "They discuss AOC’s “Woke 1 was crazy” remarks and explore whether swing voters’ complaints about both parties stem from politicians’ actions or broader cultural influences."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260822000115.3.1fe8a22a50b02ff2@mg2.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Vot…",
-   "date": "2026-08-21T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-83-supreme",
-   "bullets": [
-    "Attorney General Todd Blanche refused to pledge DOJ independence and hinted the department may ask the Supreme Court to overturn dozens of lost lawsuits seeking voter‑roll data.",
-    "The DOJ announced plans to deploy roughly 1,000 election monitors for the November midterms, despite evidence that voter fraud is virtually nonexistent.",
-    "The Supreme Court temporarily blocked a lower‑court order, allowing construction of the White House ballroom to continue, with the project now two‑thirds complete and a 250‑person crew working around the clock."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260821233239.3.9639cc5ab562a518@mg2.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "George Conway: For Trump, Harp Strikes a Chord",
-   "date": "2026-08-21T16:32-07:00",
-   "url": null,
-   "bullets": [
-    "Natalie Harp’s newly released love notes to Trump reveal obsessive devotion and suggest an abusive dynamic centered on feeding his fragile ego with flattering stories",
-    "George Conway joins Tim Miller on the weekend podcast to argue Trump is governing like a socialist, inflating national debt and meddling in the midterms, confirming the ‘orange man bad’ narrative",
-    "Michael Cohen is highlighted as a pathetic lapdog while the newsletter promotes upcoming Bulwark LIVE events and additional podcast content"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260821225032.3.862fbbeb2be89d78@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Defending the Bonds",
-   "date": "2026-08-21T15:50-07:00",
-   "url": "https://paulkrugman.substack.com/p/defending-the-bonds",
-   "bullets": [
-    "Defending the Bonds"
-   ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260821210417.3.d9bc8f81f8956b5f@mg-d1.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "‘Tony’ Review",
-   "date": "2026-08-21T14:04-07:00",
-   "url": null,
-   "bullets": [
-    "Matt Johnson’s biopic “Tony” portrays a young Anthony Bourdain’s redemption through hard work and honesty, framing his lies as original sin and his eventual truth‑telling as grace.",
-    "The film leans on classic biopic beats but stands out with strong performances from Dominic Sessa, Antonio Banderas as the mentor Chef, and Leo Woodall as the intense line cook.",
-    "While the author remains skeptical of Bourdain’s cult status, they praise “Tony” as a well‑crafted, high‑level entry that pierces the mythic image of the chef‑author."
    ],
    "summary_by": "groq"
   }
