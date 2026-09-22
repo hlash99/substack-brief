@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T18:39-07:00",
+ "updated": "2026-09-22T11:11-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -49,6 +49,137 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260922162709.3.4beaf4ce015631bc@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "What Dems Should Do With 54 Senate Seats",
+   "date": "2026-09-22T09:27-07:00",
+   "url": null,
+   "bullets": [
+    "The author outlines a scenario where Democrats could control 54 Senate seats by winning the Big 5 races, a swing Iowa, and possibly Kansas, with a stretch to 56 if South Carolina and Nebraska flip.",
+    "He warns that even a 56‑seat majority would be fragile, citing vulnerable freshmen in Alaska and Texas, a one‑term South Carolina senator, an independent from a red state, and John Fetterman.",
+    "To capitalize on such a slim majority, Democrats must craft a governing framework that pre‑emptively builds public support for policies, focusing on factual justification rather than political appeasement."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260922142941.3.bfb0ead484971c53@mg2.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why Vivek Ramaswamy’s Star Is Falling in Ohio",
+   "date": "2026-09-22T07:29-07:00",
+   "url": null,
+   "bullets": [
+    "Trump voters nationwide have praised Vivek Ramaswamy as intelligent, debate‑savvy, and economically knowledgeable, seeing him as a potential future GOP leader.",
+    "However, focus groups of Ohio Trump supporters—where Ramaswamy is running for governor—show a stark reversal, indicating his appeal is collapsing in that key state."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260922135934.3.13f9242d6e6ac9c9@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Why your groceries cost so much, and my plan to fix it",
+   "date": "2026-09-22T06:59-07:00",
+   "url": "https://roycoopernc.substack.com/p/why-your-groceries-cost-so-much-and",
+   "bullets": [
+    "Most everywhere I go, folks tell me the same thing: they’re getting squeezed at the grocery store. North Carolina families have had enough, and I have too. That’s why as Governor, I worked with the USDA to increase funding for locally grown…",
+    "We also distributed $1.3 million in federal grants to help more public schools provide healthy school breakfasts for children in the classroom so they can start their day ready to learn and be successful. This initiative expanded access to …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260922133307.3.96ac06537a1894ac@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Quadrangle of Doom",
+   "date": "2026-09-22T06:33-07:00",
+   "url": null,
+   "bullets": [
+    "Oil markets breathed a sigh of relief this morning, with the price of Brent crude dipping back below $100 a barrel on two pieces of hopeful news. First, Saudi Arabia announced it had resumed flows through the crucial oil pipeline that was d…",
+    "Join Bill and Andrew for a special Morning Shots Live today at 9:50 a.m. EDT—they’ll react live to Trump’s address to the United Nations. Should be completely sane and not at all embarrassing for the country. Watch on Substack [ https://ope…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260922123339.3.7b08bb6b76f8a514@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "The Press Fights Back. Is It Too Little, Too Late?",
+   "date": "2026-09-22T05:33-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/the-press-fights-back-is-it-too-little",
+   "bullets": [
+    "Trump banned the Associated Press, CNN, MSNBC, and Politico from the White House in 2023, confiscating press passes and forcing the four major TV networks—ABC, CBS, Fox News, and NBC—to suspend pooled coverage of presidential events, leaving many signings unbroadcast on TV.",
+    "The press’s delayed response, waiting until 2026 to strike back, allowed Trump’s media strategy to shift from traditional outlets to a state‑funded “Trump TV” YouTube channel and a White House app, effectively pushing audiences into a MAGA media bubble and eroding the credibility of mainstream journalism."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260922122237.3.70bb6ad0923d7d49@mg-d1.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Where are the fall vaccines? Plus Covid-19 and norovirus, and what another measles death means",
+   "date": "2026-09-22T05:22-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/where-are-the-fall-vaccines-plus",
+   "bullets": [
+    "I practically live at the airport these days, so for better or worse, I can tell when behaviors shift. Yesterday, it was obvious: More coughing, mask wearing, kids wiping noses on whatever was closest.",
+    "Fall sick season isn’t officially here (although Covid definitely is) but its stirring. There is a problem, though: federal disarray is slowing the rollout of fall vaccines and monoclonal antibodies. So access to protection is tougher than …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260922111125.3.0295521786da1def@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "SCOOP: Israel Is Funding AI Chatbot Propaganda",
+   "date": "2026-09-22T04:11-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/scoop-israel-is-funding-ai-chatbot",
+   "bullets": [
+    "Israel’s government spent $1 million to launch IsraelFact.com, a foreign‑agent‑registered site that publishes 119 pro‑Israel articles per month, each framed as a question to steer AI chatbot responses."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260922094608.3.7e6f5bc49b5b48e7@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Will Crypto Crash the Blue Wave?",
+   "date": "2026-09-22T02:46-07:00",
+   "url": "https://paulkrugman.substack.com/p/will-crypto-crash-the-blue-wave",
+   "bullets": [
+    "Crypto industry, though not a viable business, has spent billions on 2024 election campaigns, targeting hostile candidates in primaries and general elections, and is poised to spend even more in 2026 midterms, according to Open Secrets data.",
+    "Despite only 2% of Americans using crypto for non‑speculative transactions, the sector’s political influence is outsized, with high‑profile contributions such as $1.4 billion from Trump and lobbying groups like Fairshake, and it has successfully pressured lawmakers, including Senator Chuck Schumer, to caution against regulatory reforms like the Clarity Act."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260922090218.3.f8a8124cc8487195@mg2.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Escalation Clauses",
+   "date": "2026-09-22T02:02-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/escalation-clauses",
+   "bullets": [
+    "Ukraine’s recent drone strikes crippled five Russian refineries—Gazpromneft (245k bpd), Ryazan (320k bpd), Saratov (140k bpd), Syzran (150k bpd), Yaroslavl (300k bpd) and possibly Bashneft-Ufaneftekhim (190k bpd) – sharply tightening global diesel supplies.",
+    "German CDU leader Friedrich Merz suffered a historic loss, winning only 4.9% in Mecklenburg‑Vorpommern, while the far‑right AfD became the region’s largest party, highlighting rising political unrest amid soaring fuel costs.",
+    "France faces record diesel prices ($10.50/gal) and growing protests, with Marine Le Pen urging fuel‑tax cuts as Macron’s approval sinks to 16%, signaling a deepening cost‑of‑living crisis across Europe."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260922015436.3.c7190794bed63499@mg-d0.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Latest Meltdown Is a Dead Giveaway: He’s Rattled (w/ Andrew Egger)",
+   "date": "2026-09-21T18:54-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s attempt to ban CNN, MSNBC and Politico from the White House press pool signals his desperation as his Middle‑East strategy, especially over Iran, runs out of options.",
+    "The episode features Andrew Egger filling in for Bill Kristol, covering Trump’s AI naming poll, the absurd idea of a military base on a triumphal arch, and the ongoing education crisis."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260921235026.3.ea6ff144c50b1bcf@mg-d1.substack.com",
    "newsletter": "Will Sommer - The Bulwark",
@@ -124,10 +255,11 @@
    "date": "2026-09-21T08:06-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/zack-polanski-talks-to-zeteo-uk-about",
    "bullets": [
-    "A note from our editor-in-chief: Zeteo UK [ https://substack.com/redirect/41252090-0c31-4a29-a80d-bac6bf8ed757?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] officially launched last week, with an exciting lineup [ http…",
-    "Zeteo UK officially launched [ https://substack.com/redirect/b4027324-32ff-4d2a-b42c-3832035d1f8a?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] last week with a sold-out show at the Barbican Centre featuring a a wide-r…"
+    "Zack Polanski, Green Party leader and Jewish anti‑Zionist, condemned Israel’s actions in Gaza, invoking the Holocaust’s “never again” principle for all peoples.",
+    "He discussed his evolving stance on Israel, criticism of Andy Burnham’s leadership, potential resignation if he loses his parliamentary race, and the risk of Green votes aiding Reform UK.",
+    "Polanski also addressed his media attacks, a televised clash with Ed Balls, upcoming Israeli elections, and his strategy for AI and data‑center regulation."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260921140117.3.cb1c7002e31889c2@mg2.substack.com",
@@ -4749,136 +4881,10 @@
     "The author warns that hype obscures root causes, urging data‑driven analysis to anticipate government and market responses to the diesel shock."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260822170820.3.160a1df70826be04@mg-d1.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "This isn’t my first rodeo",
-   "date": "2026-08-22T10:08-07:00",
-   "url": "https://roycoopernc.substack.com/p/this-isnt-my-first-rodeo",
-   "bullets": [
-    "Roy Cooper claims he has never lost an election, citing six statewide victories in North Carolina and framing the current Senate race as a pivotal fight for Democratic control of the Senate.",
-    "He accuses the GOP, President Trump, JD Vance, and far‑right groups of launching a $100 million attack campaign, citing a new poll that ties the race and alleging the attacks are designed to prevent Democrats from regaining the Senate.",
-    "Cooper urges supporters to donate $5 to counter the GOP attacks and flip North Carolina blue, linking to a fundraising page for the campaign."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260822170109.3.77d608ea32976404@mg-d1.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine: Israel Kills At Least 17 Palestinians in Gaza in Days After Kushner Meeting",
-   "date": "2026-08-22T10:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israel-kills-gaza-kushner-settlers",
-   "bullets": [
-    "An Israeli strike on a Gaza City seaside cafe killed at least six people, including a child, left bodies mangled and forced survivors into the sea, according to eyewitnesses.",
-    "The attack occurred a day after Jared Kushner left the region without securing a ceasefire, and Israeli officials reportedly agreed they could continue ‘targeted’ strikes despite the failed negotiations.",
-    "In the West Bank, Israeli settlers intensified a siege of Qusra, pledged to return to Gaza, and a Palestinian teen was killed in a settler raid in Khirbet Hamroush."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260822143100.3.ed4a6c1c1cacfd14@mg-d1.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "ICE Wants a Weapon That Leaves No Mark",
-   "date": "2026-08-22T07:31-07:00",
-   "url": null,
-   "bullets": [
-    "ICE plans to spend $10‑$20 million on 12,000+ “G.L.O.V.E.” electric‑shock gloves from Compliant Technologies, marketing them as non‑lethal de‑escalation tools but critics say they’re meant to avoid video evidence and lawsuits",
-    "The gloves are classified as “hard techniques” in ICE’s force continuum, allowed only when empty‑handed methods fail, yet the manufacturer warns they must not be used on vulnerable groups and limits shocks to 15 seconds, a rule ICE’s training may ignore",
-    "A Kentucky lawsuit alleges a detainee was shocked dozens of times, with some shocks lasting up to 99 seconds, highlighting the risk of misuse despite required certification that ICE has yet to fully adopt"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260822130306.3.13ecc82828f93105@mg-d0.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“Slowing down sounds admirable until you realize that most of slowness is just being bored and alone in your thoug…",
-   "date": "2026-08-22T06:03-07:00",
-   "url": "https://post.substack.com/p/slowing-down-sounds-admirable-until",
-   "bullets": [
-    "Katie Lowe marks two years of an analog, phone‑free experiment, describing evenings of quiet gardening, chores and long phone‑free conversations as a new normal that feels both soothing and anxiety‑provoking.",
-    "Natasha Stagg argues that contemporary writers are pressured to become influencers, noting how literary success is now measured by algorithms, cash prizes with demanding promotional duties, and the uneasy need for agents to shield them from relentless marketing tasks.",
-    "The newsletter links to longer pieces on Lowe’s slow‑life experiment and Stagg’s critique of the literary market, inviting readers to explore the full arguments behind these personal and industry reflections."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260822130217.3.0ed08774915a773e@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "A Federal Judge Is Promoting His Pro-Israel Book Live From His Judicial Chambers",
-   "date": "2026-08-22T06:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/judge-roy-altman-trump-israel",
-   "bullets": [
-    "Judge Roy Altman, a Trump‑appointed Southern District of Florida judge, has livestreamed from his chambers on pro‑Israel shows, labeling the Palestinian keffiyeh a “terrorism scarf” and promoting his book denying genocide.",
-    "Altman has joined right‑wing groups claiming to fight “lawful Islamism,” bragged about taking 10% of the federal judiciary on trips to Israel, and allegedly used judicial trips to shape other judges’ views on Israel and Gaza.",
-    "A Florida attorney has filed a complaint with the U.S. Court of Appeals alleging Altman violated judicial ethics for his public political activities and use of judicial resources."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260822124945.3.a32fbb29cc3e04d6@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "The 2028 Electability Trap Roiling Democrats",
-   "date": "2026-08-22T05:49-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/the-2028-electability-trap-roiling",
-   "bullets": [
-    "Dan Pfeiffer argues that the 2028 Democratic electability debate is driven by a myth of swing‑voter bias, limiting candidate choices and lowering the party’s ceiling.",
-    "He cites Kamala Harris’s 2024 loss in swing states and the Georgia governor race, where Keisha Lance Bottoms won most counties, to show that perceived electability often misjudges real voter behavior.",
-    "Pfeiffer warns that this discourse can trap Democrats in a cycle of self‑imposed constraints, preventing diverse and potentially winning candidates from emerging."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260822123115.3.cf5836e3e7ffe0ba@mg-d1.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A Wild Week: Human Printers, Ossoff, Todd Blanche, Baseball and so much more",
-   "date": "2026-08-22T05:31-07:00",
-   "url": null,
-   "bullets": [
-    "ICE arrested Haitian pastor Carl Ruby in Springfield, targeting 30 people in a Cincinnati ICE jail, prompting calls to support Haitian Community Help & Support Center, St. Vincent de Paul, and Second Harvest Food Bank.",
-    "The Bulwark plans a fall tour with live shows in Columbia, Charlotte, Atlanta, and a book tour for Sarah’s new book “How to Eat an Elephant,” encouraging subscribers to join events and chat groups.",
-    "A new game, YEA or NAY, lets players test historical Senate voting patterns, highlighting how rare perfect party‑line votes are and offering a trivia‑style challenge for political enthusiasts."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260822114404.3.8f7cfd80bd39cd5a@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Jared Bernstein on Debt",
-   "date": "2026-08-22T04:44-07:00",
-   "url": "https://paulkrugman.substack.com/p/jared-bernstein-on-debt",
-   "bullets": [
-    "Bernstein warns that the U.S. debt trajectory has turned risky as the growth rate (≈2% real) now roughly matches or falls below interest rates, while the deficit runs about 6% of GDP, double the sustainable level he argues for.",
-    "He attributes the worsening fiscal outlook primarily to the permanent Bush and Trump tax cuts, which he and Bobby Kogan estimate would have kept the debt‑to‑GDP ratio stable if omitted, and notes that Democrats helped cement these cuts.",
-    "Bernstein says CBO’s optimistic debt forecasts rely on continued tariff revenues and fading Trump cuts—assumptions that appear unrealistic, making the current budget math far less comfortable."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260822100139.3.d63699ae7d957cbd@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Jon Ossoff is Winning the Voters Democrats Need Most (with Amy Walter)",
-   "date": "2026-08-22T03:01-07:00",
-   "url": null,
-   "bullets": [
-    "Sen. Jon Ossoff is gaining traction among Georgia swing voters, according to a recent focus group that highlighted his appeal over his opponent; Amy Walter and Sarah Longwell analyze why Ossoff resonates with undecided voters.",
-    "The podcast examines the massive polling errors in Wisconsin and Michigan primaries, featuring a Wisconsin focus group that explains how David Crowley’s last‑minute surge was possible despite earlier misreadings.",
-    "They discuss AOC’s “Woke 1 was crazy” remarks and explore whether swing voters’ complaints about both parties stem from politicians’ actions or broader cultural influences."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 92,
-  "total": 354
+  "total": 355
  }
 }
