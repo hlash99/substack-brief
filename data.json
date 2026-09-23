@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T11:11-07:00",
+ "updated": "2026-09-22T18:34-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -50,6 +50,87 @@
  },
  "items": [
   {
+   "id": "20260922234729.3.1712418ffcb8bd57@mg2.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Obama’s Top Economist Has a Warning for the Country",
+   "date": "2026-09-22T16:47-07:00",
+   "url": null,
+   "bullets": [
+    "ICYMI: Last week I launched a new podcast—Receipts with Catherine Rampell. This new Bulwark show is a companion to my weekly newsletter, which isn’t going anywhere. I hope you’ll check out my latest episode—a conversation with the economist…",
+    "We spoke about why the economy—and especially the stock market—appear to be so resilient in the face of Trumponomics. Among other things, Jason thinks that liberals may be blinkered to the positive economic impact of some of Trump’s policie…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260922230101.3.93240f0b72370f0f@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "AGI, ASI, RSI? 9 Words and Acronyms You Need to Know to Understand the ‘AI Apocalypse’",
+   "date": "2026-09-22T16:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/agi-asi-rsi-superintelligence-meaning-artificial-intelligence-explainer",
+   "bullets": [
+    "The headlines are hard to miss: AI could kill all humans in 10 years, a growing number of AI researchers [ https://substack.com/redirect/13562316-b77d-43f4-88e1-ac39142fe1df?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM …",
+    "That’s why it’s important to understand the confusing word salad of phrases and acronyms researchers and experts often use to describe the fast-developing technology, its risks, and its potential benefits."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260922221554.3.043525711c2a319a@mg2.substack.com",
+   "newsletter": "Sam Stein—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "FREEDOM OF THE DAMN PRESS",
+   "date": "2026-09-22T15:15-07:00",
+   "url": null,
+   "bullets": [
+    "Donald Trump expelled Politico, CNN, and MSNBC from the White House this week solely because he dislikes their coverage, raising alarms about press freedom.",
+    "Sam Stein argues that protecting independent journalism is crucial for oversight of the Trump administration and urges readers to become Bulwark+ members.",
+    "He emphasizes that The Bulwark is not beholden to billionaires or the administration and will continue reporting without fear of retaliation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260922191507.3.2a03625a756f7596@mg-d0.substack.com",
+   "newsletter": "Citrini",
+   "pub": "citrini",
+   "subject": "Agentic Reality",
+   "date": "2026-09-22T12:15-07:00",
+   "url": "https://open.substack.com/pub/citrini/p/agentic-reality",
+   "bullets": [
+    "Seven months ago, we pontificated on a scenario called The 2028 Global Intelligence Crisis [ https://substack.com/redirect/98ddec5b-f668-4c1f-97ed-23815c066a1b?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] – a future i…",
+    "But things are changing – and we are already beginning to see where our thoughts about the impact of agents removing friction were right and wrong. People are starting to take notice…perhaps most hilariously summed up by our friend BuccoCap…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260922191405.3.0dec324c09f6bdef@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "The North Carolina Senate candidate who promoted a child predator",
+   "date": "2026-09-22T12:14-07:00",
+   "url": "https://roycoopernc.substack.com/p/the-north-carolina-senate-candidate",
+   "bullets": [
+    "Michael Whatley, former NC GOP chair, repeatedly appointed convicted child sex offender Harvey Lee West to positions despite knowing West’s crimes, allegedly to raise money.",
+    "The Cooper campaign released an ad accusing Whatley of endangering children for political gain, noting Trump is spending millions to support Whatley’s Senate bid, with polls now within the margin of error.",
+    "The email urges donations to defeat Whatley, labeling him a “pedophile protector” and urging supporters to contribute $5."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260922183133.3.cde5db9371b4f312@mg2.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "SCOOP: Jeffries to Fundraise With Fox News’s Favorite Democrat",
+   "date": "2026-09-22T11:31-07:00",
+   "url": null,
+   "bullets": [
+    "House Minority Leader Hakeem Jeffries is hosting a $1,000‑ticket fundraiser with Fox‑News‑favored Democrat Michael LaRosa and Ballard Partners officials, raising $8,500 per host and $10,000 per PAC for the Jeffries Majority Fund next week.",
+    "LaRosa, a former Jill Biden spokesman, is known for praising Trump, criticizing Democrats on DEI and foreign policy, and lobbying for clients like TikTok, UnitedHealthcare, Comcast, Saudi Arabia, Japan, and the Libyan National Army through Ballard Partners.",
+    "The event’s high‑profile hosts—Ballard officials Ana Cruz, Tracie Pough, Joe Buscaino, and Eugene O’Flaherty—represent industries ranging from tobacco and healthcare to defense contractors and data‑center concrete, raising questions about the sources of funding Jeffries is willing to tap for a House majority."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260922162709.3.4beaf4ce015631bc@mg2.substack.com",
    "newsletter": "JVL - The Bulwark",
    "pub": "thebulwark",
@@ -84,10 +165,10 @@
    "date": "2026-09-22T06:59-07:00",
    "url": "https://roycoopernc.substack.com/p/why-your-groceries-cost-so-much-and",
    "bullets": [
-    "Most everywhere I go, folks tell me the same thing: they’re getting squeezed at the grocery store. North Carolina families have had enough, and I have too. That’s why as Governor, I worked with the USDA to increase funding for locally grown…",
-    "We also distributed $1.3 million in federal grants to help more public schools provide healthy school breakfasts for children in the classroom so they can start their day ready to learn and be successful. This initiative expanded access to …"
+    "Governor Cooper says tariffs are driving up farmers’ costs, forcing higher grocery prices, and he pledges to roll back these tariffs and support local agriculture with $1.3 million in federal grants for school breakfasts and $5 million for food‑insecurity programs.",
+    "He plans to curb grocery‑store power by blocking anti‑competitive mergers, strengthening antitrust enforcement, and banning algorithmic pricing that charges consumers different prices for the same goods."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260922133307.3.96ac06537a1894ac@mg-d1.substack.com",
@@ -97,10 +178,10 @@
    "date": "2026-09-22T06:33-07:00",
    "url": null,
    "bullets": [
-    "Oil markets breathed a sigh of relief this morning, with the price of Brent crude dipping back below $100 a barrel on two pieces of hopeful news. First, Saudi Arabia announced it had resumed flows through the crucial oil pipeline that was d…",
-    "Join Bill and Andrew for a special Morning Shots Live today at 9:50 a.m. EDT—they’ll react live to Trump’s address to the United Nations. Should be completely sane and not at all embarrassing for the country. Watch on Substack [ https://ope…"
+    "Oil prices fell below $100 a barrel after Saudi Arabia resumed pipeline flow damaged by Iranian drone strikes and Iran offered to reopen the Strait of Hormuz if the U.S. lifts its blockade.",
+    "Bill Kristol argues Trump’s “Quadrangle of Doom”—an unhinged president, fanatical aides, radicalized MAGA supporters, and accommodating elites—threatens U.S. stability in the next two years."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260922123339.3.7b08bb6b76f8a514@mg-d0.substack.com",
@@ -123,10 +204,11 @@
    "date": "2026-09-22T05:22-07:00",
    "url": "https://yourlocalepidemiologist.substack.com/p/where-are-the-fall-vaccines-plus",
    "bullets": [
-    "I practically live at the airport these days, so for better or worse, I can tell when behaviors shift. Yesterday, it was obvious: More coughing, mask wearing, kids wiping noses on whatever was closest.",
-    "Fall sick season isn’t officially here (although Covid definitely is) but its stirring. There is a problem, though: federal disarray is slowing the rollout of fall vaccines and monoclonal antibodies. So access to protection is tougher than …"
+    "Federal bottlenecks are delaying fall vaccines and RSV monoclonal antibodies, with CDC approval stalls and insurance coverage uncertainty leaving many high‑risk patients without timely protection.",
+    "Covid‑19 cases are still rising in the West and growing in the Midwest/Northeast, so vaccination remains advised, while norovirus is resurging and measles in Pennsylvania has caused its first U.S. death since 1992, likely undercounted with 1,300‑4,000 true cases.",
+    "Despite the PA measles surge, MMR vaccinations have doubled to over 46,000 in August 2026, and malaria vaccines are cutting cases in Africa, though funding cuts threaten continued progress."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260922111125.3.0295521786da1def@mg-d0.substack.com",
@@ -4884,7 +4966,7 @@
   }
  ],
  "counts": {
-  "shown": 92,
-  "total": 355
+  "shown": 91,
+  "total": 361
  }
 }
