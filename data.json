@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T11:28-07:00",
+ "updated": "2026-09-23T18:30-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -50,6 +50,45 @@
  },
  "items": [
   {
+   "id": "20260924000107.3.c6d7137816747a67@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Here’s How Trump’s White House Press Ban Hurts MAGA Media Too",
+   "date": "2026-09-23T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/heres-how-trumps-white-house-press",
+   "bullets": [
+    "The White House’s ad‑hoc “national security” ban on CNN, MS NOW and Politico was struck down in court, with a judge likely ordering the outlets’ access restored on due‑process grounds.",
+    "Trump’s press ban, intended to curb critical coverage, backfired by harming right‑wing media; the ban’s reversal is now crucial for the MAGA media landscape to regain White House access and influence."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260923233302.3.7686e506f801a5ab@mg2.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Dems’ Newest Campaign Line: Trump’s Gonna Freeze You to Death",
+   "date": "2026-09-23T16:33-07:00",
+   "url": null,
+   "bullets": [
+    "Democrats are using rising heating‑oil prices to warn voters that winter costs will spike, blaming Trump’s Iran policy for the surge in petroleum‑dependent energy costs.",
+    "The campaign message frames the heat wave and winter chill as a political issue, suggesting Republicans will face higher heating bills if Trump’s policies continue."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260923200152.3.a8ca601225ef3093@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Here’s How the Left Can Defeat the Fascists",
+   "date": "2026-09-23T13:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/heres-how-the-left-can-defeat-the",
+   "bullets": [
+    "Varoufakis argues fascism rises when capitalism faces crisis and the left offers no credible alternative, warning that fascists will co-opt anti‑capitalist rhetoric but ultimately ally with big business and finance to consolidate power and expand militarism.",
+    "He calls for an anti‑fascist economics built on three pillars: state‑directed investment, banning private banks from creating money, and instituting one‑employee‑one‑share‑one‑vote corporate governance to restore worker control and shared prosperity."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260923173926.3.2ec47321bb2dee1a@mg2.substack.com",
    "newsletter": "JVL - The Bulwark",
    "pub": "thebulwark",
@@ -84,10 +123,11 @@
    "date": "2026-09-23T07:51-07:00",
    "url": null,
    "bullets": [
-    "THE TRUMP ADMINISTRATION appears to be preparing yet another audacious power grab. This time, the plan calls for tightening control over the National Institutes of Health [ https://substack.com/redirect/5a9dc90c-3ea5-48ab-9dc1-89dae78de678?…",
-    "Evidently that’s not good enough for the president and his lieutenants. According to a report in the Washington Post [ https://substack.com/redirect/5988d722-bef5-4bf7-9696-a318570187ee?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3…"
+    "The Trump administration is reportedly drafting an executive order that would require political officials, not just scientists, to approve NIH grant applications, threatening the agency’s $50 billion budget where 80% funds external research.",
+    "Policy analyst Russell Vought, a key Trump ally, is pushing the plan and has already pressured NIH by canceling grants, demanding a 40% budget cut, and targeting DEI‑related projects.",
+    "Both Republican and Democratic lawmakers have blocked the proposal in a stopgap spending bill, and NIH Director Jay Bhattacharya has publicly opposed the politicization of grant reviews."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260923140236.3.1b048aec94b6259a@mg-d0.substack.com",
@@ -124,10 +164,11 @@
    "date": "2026-09-23T06:30-07:00",
    "url": "https://barbarafwalter.substack.com/p/im-off-to-bellagio",
    "bullets": [
-    "Today, I’m heading to Italy for a month-long residency at the Rockefeller Foundation’s Bellagio Center on Lake Como. This has been on my bucket list for years. Since 1959, the Rockefeller Foundation has invited small groups of writers, scho…",
-    "I can’t think of anything I’d rather do. I spend a lot of my life around people who study politics. I’m really looking forward to spending a month around people who don’t. My group includes an indigenous leader from the Amazon, a Beirut-bas…"
+    "Barbara F. Walter announces a month-long residency at the Rockefeller Foundation's Bellagio Center on Lake Como, a program that has hosted figures like Maya Angelou and Joseph Stiglitz since 1959.",
+    "Her interdisciplinary cohort includes an Amazon indigenous leader, a Beirut-based artist, a sustainable‑fashion entrepreneur, and an engineer redesigning refrigeration, promising fresh perspectives beyond politics.",
+    "She says future Here Be Dragons issues will feature insights from the Bellagio experience."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260923114618.3.c308100c08957b7a@mg2.substack.com",
@@ -4977,50 +5018,10 @@
     "He predicts Trump will lose the trade war, as Canadians are willing to bear the pain while American public opinion turns against his economic policies."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260824011542.3.064d2c8e80059ad2@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Tim and Will Tour Where MAGA Goes to Party, Fight & Get Arrested",
-   "date": "2026-08-23T18:15-07:00",
-   "url": null,
-   "bullets": [
-    "Tim Miller returns to DC for a chaotic tour of MAGA hotspots, including a $500,000 membership club co‑founded by Donald Trump Jr. and a bar where Rand Paul’s son was seen with Rep. Mike Lawler.",
-    "Will Sommer’s scavenger‑hunt guide also visits a strip‑mall club where Bessent allegedly threatened Bill Pulte and even checks out Mitch McConnell’s house, though it’s unclear who’s inside."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260824000112.3.80de990285a19f1d@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Trump Needs to Channel His Inner George Constanza to End His Disastrous Iran War",
-   "date": "2026-08-23T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-iran-george-constanza-opposite-seinfeld",
-   "bullets": [
-    "Six months into the U.S. war with Iran, the author argues President Trump appears clueless, making decisions that consistently backfire and reveal flawed assumptions about the conflict.",
-    "The piece likens Trump’s missteps to George Constanza’s self‑deprecating quote, suggesting every strategic choice on Iran has produced unintended, disastrous outcomes."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260823230149.3.d1ecd4e2c4473fa9@mg2.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Roy Cooper’s Radical Strategy: Act Normal",
-   "date": "2026-08-23T16:01-07:00",
-   "url": null,
-   "bullets": [
-    "Polls show former governor Roy Cooper leading Republican Michael Whatley by nine points in the NC Senate race, despite his low‑key, “Make Stuff Cost Less” campaign focused on utility and grocery costs.",
-    "Democratic pollster John Anzalone argues Cooper’s authentic, folksy appeal resonates with independents and frustrated voters, a strategy that helped him win tight statewide races like the 2016 governor’s race.",
-    "North Carolina’s narrow presidential margins (Trump +1.3‑3.7 points, Romney +2.0) suggest the state remains competitive, but Democrats must still win unaffiliated voters and a slice of rural Trump support to flip the Senate seat."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 87,
+  "shown": 85,
   "total": 365
  }
 }
