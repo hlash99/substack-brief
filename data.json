@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T18:30-07:00",
+ "updated": "2026-09-24T11:29-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -49,6 +49,142 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260924181447.3.4525754bc916343f@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "No One Should Panic About the NYT Poll in Maine",
+   "date": "2026-09-24T11:14-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/no-one-should-panic-about-the-nyt",
+   "bullets": [
+    "Democratic operatives and activists have been holding their breath, waiting for a New York Times/Siena poll of Michigan’s Senate race. Rumors started circulating earlier in the week that the Times had a poll in the field, and people worried…",
+    "Well, as it turns out, Democrats were right to be worried. We were just worried about the wrong thing. The Times ran three polls: Michigan, New Hampshire, and Maine. In Michigan, Abdul El-Sayed led by five points. In New Hampshire, Democrat…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260924180053.3.0a1ebbd69dc65a04@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Elon Musk Endorsed Socialist Healthcare Before Campaigning Against It",
+   "date": "2026-09-24T11:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/elon-musk-endorsed-socialist-healthcare",
+   "bullets": [
+    "Elon Musk’s America PAC is running ads on Roku and door‑knocking in Maine, accusing Senate candidate Troy Jackson of supporting “government‑run” Medicare‑for‑All and labeling him a socialist, while also targeting former Ohio Senator Sherrod Brown and former Virginia Congresswoman Elaine Luria with similar claims despite neither supporting Medicare‑for‑All but having backed public health insurance options in the past.",
+    "Musk, who once publicly praised government‑run “socialist” healthcare as having majority support, now uses his wealth and platform to attack Democrats and Democratic socialists—Bernie Sanders, Alexandria Ocasio‑Cortez, and Zohran Mamdani—by portraying them as endorsing a socialist agenda that would eliminate private health insurance."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260924163153.3.c00d685830a5c4ef@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Our Politicians Suck. But Our Voters Do, Too.",
+   "date": "2026-09-24T09:31-07:00",
+   "url": null,
+   "bullets": [
+    "The newsletter highlights a live fundraiser in Ohio for the Haitian Support Center, praising community support and expressing gratitude for the Bulwark’s impact on listeners.",
+    "Janan Ganesh’s Financial Times piece argues that Western leaders are uniformly unpopular, attributing this to voter discontent with necessary reforms and structural issues like partisan sorting, gerrymandering, and democratized primaries.",
+    "DraftKings is criticized for abandoning AI tools that could identify problem gamblers, with the company’s responsible gaming division canceling predictive models despite evidence of their effectiveness, mirroring Big Tobacco’s deceptive practices."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260924150035.3.a28324bd3cba1f7e@mg-d1.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Bumbling MAGA Media Tries to Launch Their Own White House Pool",
+   "date": "2026-09-24T08:00-07:00",
+   "url": null,
+   "bullets": [
+    "IF YOU’VE NOTICED a suspicious calm on your TV screens, it’s because live television coverage of Donald Trump has all but vanished. Major networks are boycotting pooled video feeds of Trump’s White House in the wake of his ban on CNN, Polit…",
+    "Into that void have stepped some ever-entrepreneurial, pro-Trump media outlets, which have decided to launch a White House pool operation of their own. Over the past few days, fledgling operations like Real America’s Voice and LindellTV [ h…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260924135938.3.d58e6dbe2f571e42@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "This race reminds me of 2016",
+   "date": "2026-09-24T06:59-07:00",
+   "url": "https://roycoopernc.substack.com/p/this-race-reminds-me-of-2016",
+   "bullets": [
+    "Roy Cooper urges $5 donations to his North Carolina Senate campaign, citing his 2016 victory over Governor Pat McCrory by 10,277 votes amid a 0.22% margin and recount controversy.",
+    "He claims the current race mirrors 2016, with The New York Times labeling it the best chance nationwide for Democrats to flip a Republican-held Senate seat, and warns that momentum alone won’t secure victory without grassroots support.",
+    "Cooper stresses that any margin is fragile, urging donors to prevent Republican opponents and right‑wing super PACs from gaining even an inch, and frames his 2016 win as a result of similar grassroots efforts."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260924133458.3.64758682591f1170@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Kowtows to China",
+   "date": "2026-09-24T06:34-07:00",
+   "url": null,
+   "bullets": [
+    "Judge Timothy Kelly, a Trump appointee, ruled that Trump’s ban of CNN, MSNOW, and Politico from the White House violated constitutionally adequate due process, ordering their reinstatement, yet reporters were still denied entry immediately after the ruling.",
+    "Trump’s unprecedented visit to Joint Base Andrews to personally greet Chinese President Xi Jinping, mirroring a similar 2025 visit for Russian President Putin, was a symbolic gesture of deference that is unlikely to yield substantive policy changes, especially on China’s stance toward Iran and regional aggression.",
+    "The article critiques Trump’s pattern of appeasing authoritarian leaders—highlighting his minimal references to democracy and human rights in a UN speech, his praise of Putin’s child‑repatriation efforts, and his overall strategy of avoiding confrontation with Russia and China to protect his political base."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260924111350.3.b636cc406a01925e@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "40 Days Out: Democrats Have the Edge in Both Chambers",
+   "date": "2026-09-24T04:13-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/40-days-out-democrats-have-the-edge",
+   "bullets": [
+    "With just 40 days until Election Day, Democrats hold a statistical edge in both the House and Senate according to recent polling and race analyses.",
+    "Former President Trump’s approval among Republicans has fallen below 50%, a sharp drop from the ~70% levels seen in 2018, 2020, and 2024, weakening GOP turnout prospects.",
+    "Pfeiffer promises ongoing, detailed updates on key House and Senate contests to cut through the flood of ads, polls, and misinformation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260924110407.3.1a1fc613c5aac8c2@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "EXCLUSIVE: Poll Finds Even Most Republicans Want U.S. to Investigate Israeli Killings of Americans",
+   "date": "2026-09-24T04:04-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/exclusive-poll-finds-even-most-republicans",
+   "bullets": [
+    "A bipartisan Senate resolution led by 24 Democrats, including Sanders and Warren, would force the State Department to report on nine Americans killed in the West Bank since 2022 and on Palestinian children’s detention, with a vote possible before the October recess",
+    "Exclusive Data for Progress polling shows a supermajority of likely voters, both Democrats and Republicans, support investigating these killings and the broader Israeli violence in the occupied West Bank"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260924102624.3.160522aa1963db88@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Donald the Deadbeat Does Diesel",
+   "date": "2026-09-24T03:26-07:00",
+   "url": "https://paulkrugman.substack.com/p/donald-the-deadbeat-does-diesel",
+   "bullets": [
+    "Trump is likely to impose a U.S. diesel export ban to lower domestic prices, but economists say it would only temporarily help Texas while raising diesel and heating‑oil costs elsewhere, including the Northeast and West Coast, and could also lift gasoline prices by curbing refinery output.",
+    "The ban would breach contracts with energy firms and damage trust with allies, signaling that the U.S. cannot be relied on as a stable fossil‑fuel supplier and undermining its geopolitical competition with China’s clean‑energy push.",
+    "Politically, the move reflects GOP desperation as the party faces a probable midterm loss, and it would further expose Trump’s pattern of broken promises and opportunistic policy swings."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260924013054.3.0899c754eaf354d4@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Andrew Weissmann Just Won a BIG Free-Speech Victory",
+   "date": "2026-09-23T18:30-07:00",
+   "url": null,
+   "bullets": [
+    "CNN, MS NOW and Politico sued the Trump White House after he barred them from the press pool, alleging illegal suppression of news coverage.",
+    "A federal court ruled in favor of Andrew Weissmann, dismissing Cassidy Hutchinson’s former lawyer’s defamation claim against him.",
+    "Paramount settled a states’ antitrust suit over its Warner Bros. acquisition, ending a major media consolidation challenge."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260924000107.3.c6d7137816747a67@mg2.substack.com",
    "newsletter": "Zeteo",
@@ -4924,104 +5060,10 @@
     "Analysts warn the escalating tariff war could backfire on American workers and consumers by disrupting the cross‑border auto supply chain and raising prices."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260824171546.3.6f4bc7deac0a3713@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump and Natalie: A F*cked-Up Love Story",
-   "date": "2026-08-24T10:15-07:00",
-   "url": null,
-   "bullets": [
-    "The Daily Beast uncovered a 2017 96‑second video by Natalie J. Harp, in which she claims a 2015 sterile‑water infusion caused hemorrhagic shock, cancer and chronic pain, and credits Donald Trump’s 2016 campaign rhetoric with saving her life.",
-    "Harp later expanded this narrative in a 2019 LinkedIn essay, further dramatizing her alleged medical tragedy and positioning Trump as a heroic figure for “the forgotten,” suggesting a fabricated, self‑promotional mythos."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260824162943.3.e157ca3ca1204974@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "The Jeffries-Kushner Meeting: What It Actually Means",
-   "date": "2026-08-24T09:29-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/the-jeffries-kushner-meeting-what",
-   "bullets": [
-    "House Minority Leader Hakeem Jeffries met privately with Trump’s son‑in‑law Jared Kushner in New York, a secretive discussion arranged by a mutual friend, according to five sources.",
-    "The meeting, described as a broad conversation on various topics, was timed as Republicans anticipate a Democratic‑led House and seek to build a working relationship before any power shift.",
-    "Democrats, including figures like Mehdi Hasan, reacted with intense anger, accusing Jeffries of legitimizing a corrupt figure, while only a few party members defended the engagement."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260824160637.3.f9736ceaab0fb91d@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Mehdi Debates Pete Hegseth’s Christian Nationalist Pastor Ally",
-   "date": "2026-08-24T09:06-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/christian-nationalism-doug-wilson-hegseth",
-   "bullets": [
-    "Mehdi confronts Pastor Douglas Wilson, a self‑described Christian nationalist linked to Secretary of Defense Pete Hegseth, over his vision to repeal the 19th Amendment, ban gay marriage and bar non‑Christians from office, arguing the Constitution contains no Christian references.",
-    "Wilson defends a book calling slavery a “mutual affection” relationship, claims states keeping gay marriage should be expelled, and asserts the U.S. was founded as a Christian nation, all of which Mehdi fact‑checks with historical evidence."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260824142828.3.450502ac8a3c113f@mg2.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "My advice for students heading back to school",
-   "date": "2026-08-24T07:28-07:00",
-   "url": "https://roycoopernc.substack.com/p/my-advice-for-students-heading-back",
-   "bullets": [
-    "Senator Roy Cooper, son of a longtime public‑school teacher, emphasizes his lifelong support for public education and promises to continue advocating for schools in the U.S. Senate.",
-    "He offers back‑to‑school advice: accept nervousness, get involved in activities, eat a good breakfast, be kind, and, if able, help supply drives since teachers often fund classroom needs themselves."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260824133207.3.0194fb99731b4e1e@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Reality TV Cabinet Secretary Has No Grasp of Reality",
-   "date": "2026-08-24T06:32-07:00",
-   "url": null,
-   "bullets": [
-    "The New York Times reports a Russian autonomous drone killed three civilians in Zaporizhzhia, marking possibly the first fatalities from an AI‑controlled weapon system.",
-    "Transportation Secretary Sean Duffy defended Trump’s renewed tariff war with Canada, falsely claiming Canada lacks a military and attacking its euthanasia policy, despite Canada’s historic wartime contributions and lower suicide rate.",
-    "The Wall Street Journal editorial called Trump’s escalation of the Canada tariff dispute “the dumbest trade war,” saying it makes no economic or political sense."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260824111236.3.470542d2455a7ce6@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "🍁 It’s a Huge Scandal That Trump Is Plunging Us Into ‘War’ With Canada",
-   "date": "2026-08-24T04:12-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/its-a-huge-scandal-that-trump-is",
-   "bullets": [
-    "Trump’s administration has escalated an economic war with Canada, re‑imposing tariffs and derailing trade talks, prompting Canadian leaders to question the U.S.–led global order.",
-    "The newsletter links Trump’s “Economic D‑Day” with Iran and criticizes Hakeem Jeffries for a secret meeting with Jared Kushner, framing both as part of the broader conflict."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260824103114.3.8a048c35f96577ed@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Moose That Roared",
-   "date": "2026-08-24T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-moose-that-roared",
-   "bullets": [
-    "Trump imposed steep tariffs on Canadian goods, prompting Canada to ban U.S. alcohol sales and walk out of renegotiations, escalating a trade war despite Canada’s smaller economy.",
-    "Krugman argues the U.S. depends heavily on Canadian imports—lumber, heavy crude, hydropower, and auto parts—so a full trade war would hurt America more than Canada.",
-    "He predicts Trump will lose the trade war, as Canadians are willing to bear the pain while American public opinion turns against his economic policies."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 85,
-  "total": 365
+  "shown": 87,
+  "total": 368
  }
 }
