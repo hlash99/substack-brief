@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T18:39-07:00",
+ "updated": "2026-09-25T11:45-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -58,6 +58,125 @@
  },
  "items": [
   {
+   "id": "20260925180056.3.f074b21f9672b81d@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "*TICKETS* Join Mehdi for the Premiere of Zeteo’s New AIPAC Documentary in Chicago",
+   "date": "2026-09-25T11:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/tickets-join-mehdi-for-the-premiere",
+   "bullets": [
+    "Join Zeteo and IMEU Policy Project LIVE in Chicago at the Pickwick Theater on Oct. 20 for the premiere of our latest original documentary, ‘Night Flower: Inside AIPAC’s Fight for Influence.’",
+    "This special and timely investigative documentary takes an in-depth look at AIPAC’s role and influence in U.S. politics, while examining the organization’s impact on elections, political candidates, and the broader political landscape."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260925165335.3.5495ceef1ea4ef87@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "You guys are the best.",
+   "date": "2026-09-25T09:53-07:00",
+   "url": null,
+   "bullets": [
+    "I want to talk to you for a minute about my favorite thing in the world: this community. As you likely know, a whole bunch of us at The Bulwark are currently jumping on planes to head to Ohio for a live show to stand with the Haitian commun…",
+    "We’ve been raising money to support the Haitian Support Center, and my goodness have you shown up. We’ll be announcing the final tally soon. But rest assured, you’ve already exceeded our expectations and we can’t thank you enough."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260925150403.3.b033fa77e49686e9@mg-d0.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "The ‘End Times’ Fascists Want Doomsday. Can They Be Stopped?",
+   "date": "2026-09-25T08:04-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/naomi-klein-astra-taylor-fascism",
+   "bullets": [
+    "Naomi Klein and Astra Taylor argue that a coalition of billionaires, right‑wing politicians, and religious fundamentalists is driving a new era of fascism that threatens ecological and human survival, citing the Trump administration’s Gaza reconstruction plan and ongoing genocide.",
+    "They warn that unregulated artificial intelligence could become as toxic as AIPAC money, while centrist leaders like Chuck Schumer enable fascist gains, and propose Zohran Mamdani’s 2025 NYC mayoral campaign as a practical blueprint for resistance."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260925132639.3.cf77b73e6fa636e0@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why We’re Going to Springfield",
+   "date": "2026-09-25T06:26-07:00",
+   "url": null,
+   "bullets": [
+    "White House finally allowed reporters from Politico, CNN, and MSNOW to enter the complex after a court order, but CNN and MSNOW staff were still denied entry to President Trump’s state dinner for Chinese President Xi Jinping.",
+    "Bill Kristol is hosting a Bulwark LIVE benefit in Dayton to raise money for the Haitian Support Center in Springfield, having already raised $85,000 and selling over a thousand tickets for the event."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260925124700.3.b1a4e7edb94cd93c@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Two Screenshots, Minutes Apart",
+   "date": "2026-09-25T05:47-07:00",
+   "url": "https://paulkrugman.substack.com/p/two-screenshots-minutes-apart",
+   "bullets": [
+    "Two Screenshots, Minutes Apart"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260925112457.3.1dd479f1cc3410dc@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Netanyahu Slams Mamdani and Piker Before Nearly Empty UN",
+   "date": "2026-09-25T04:24-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/netanyahu-slams-mamdani-and-piker",
+   "bullets": [
+    "Netanyahu’s UN General Assembly speech attacked New York Mayor Zohran Mamdani and left‑wing streamer Hasan Piker, falsely claiming Piker said “America deserved 9/11” and accusing them of praising Hamas supporters.",
+    "Piker responded with a brief, pointed rebuttal, noting he had never endorsed 9/11 and had clarified his remarks in a prior Zeteo interview.",
+    "The newsletter also flags bizarre Trump‑linked political ads that may violate taxpayer‑funding rules and mentions ongoing Iran war developments."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260925103130.3.172139b5b1ba31e0@mg2.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Don’t boil the ocean: Reach passive positives",
+   "date": "2026-09-25T03:31-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/dont-boil-the-ocean-reach-passive",
+   "bullets": [
+    "The 2026 fall vaccine rollout is lagging due to limited outreach budgets and public fatigue, so the author urges targeting “passive positives” – people with questions or logistical barriers – rather than trying to reach everyone.",
+    "In a recent subscriber webinar, Dr. David Higgins and Dr. Ben Rosenberg identified the size of the passive positive population in the U.S. and offered concrete steps for clinicians, pharmacists, school nurses, community health workers, and public health departments to engage them.",
+    "The newsletter includes answers to the top eight audience questions from the webinar, focusing on practical strategies to improve vaccine access for this group."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260925100132.3.52ac1b83d00394b7@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Day Off",
+   "date": "2026-09-25T03:01-07:00",
+   "url": "https://paulkrugman.substack.com/p/day-off-a3d",
+   "bullets": [
+    "Krugman announces he's taking a day off and will publish a primer on interest rates tomorrow.",
+    "He is uncertain whether a podcast will be released tomorrow."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260925013055.3.84a2fc972608c9de@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "The Bulwark’s Cruelest Assignment Yet: 6 Hours of Trump TV",
+   "date": "2026-09-24T18:30-07:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark’s “Cruelest Assignment Yet” has Brendan Hartnett spend six hours watching the new White House “Trump TV” livestream, which loops Trump footage and attracted only a tiny audience.",
+    "The episode details the chaos after CNN, Politico and MS NOW were temporarily banned then reinstated at the White House, yet CNN still lacks assurance of re‑entry into the TV pool.",
+    "It also critiques right‑wing media’s failed attempt to create its own press pool, citing technical glitches, missing pool protocols, and footage that appears to follow Trump’s motorcade too closely."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260925000238.3.b3dd6edfdd5fc053@mg-d1.substack.com",
    "newsletter": "Catherine Rampell - The Bulwark",
    "pub": "thebulwark",
@@ -92,10 +211,10 @@
    "date": "2026-09-24T12:11-07:00",
    "url": null,
    "bullets": [
-    "It’s no secret the price of gasoline has been way up since the start of the Iran war. But it sometimes feels as though GOP lawmakers have been trying to keep it a secret from themselves. Their willful ignorance is starting to fade.",
-    "In battleground races for the House and Senate, more and more Republicans are breaking away from President Donald Trump on the war, citing high costs at the pump [ https://substack.com/redirect/71d14a40-8406-4f2d-80c9-f386070f9303?j=eyJ1Ijo…"
+    "Republican lawmakers in key House and Senate races are publicly breaking with Trump over the Iran war, citing the national gasoline average of $4.48 and diesel over $6.50 as voter‑pain points.",
+    "The Trump administration is flirting with a 90‑day ban on U.S. diesel exports as a short‑term fix, but analysts say it won’t lower prices and Senate Republicans view it as politically untenable."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260924181447.3.4525754bc916343f@mg2.substack.com",
@@ -4973,105 +5092,10 @@
     "Texas Senate candidate Ken Paxton, facing weak polling and donor fatigue, pivoted to an anti‑AI data‑center platform—banning Chinese tech, criminal liability for child harm, and rural bans—while receiving sizable contributions from data‑center interests such as Valero, CRH Americas, Sago Energy, and Tyler Winklevoss"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260825170105.3.209e08dce6349361@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Why ‘We Need To Tax Billionaires’",
-   "date": "2026-08-25T10:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/why-we-need-to-tax-billionaires-zucman-excerpt",
-   "bullets": [
-    "Zucman’s research shows U.S. and European billionaires often pay near‑zero income tax by routing earnings through offshore holding companies, with French billionaires taxed at only 1.25% on €3 billion dividends versus 30% for ordinary shareholders.",
-    "New data from tax‑return collaborations reveal that even iconic figures like Elon Musk and Jeff Bezos sometimes receive tax credits despite massive wealth, highlighting a systemic loophole where the ultra‑rich effectively make income tax optional.",
-    "A wealth tax on ultra‑high‑net‑worth individuals is proposed as the next democratic step, since billionaire tax contributions currently represent a negligible share of national revenue (e.g., 0.03% loss if French billionaires fled offshore)."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260825162841.3.994d24e9d3e9c6bb@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump vs. The Leaders of the Free World",
-   "date": "2026-08-25T09:28-07:00",
-   "url": null,
-   "bullets": [
-    "The author argues that the United States has effectively lost its status as the “leader of the free world,” with Trump’s America actively opposing the liberal order it once championed.",
-    "Citing a Bulwark Daily podcast where Tim called former Bank of England governor Mark Carney a ‘leader of the free world’ for confronting the U.S. president, the piece suggests that new leadership is emerging outside America.",
-    "According to the author, a ‘triumvirate’ of non‑U.S. figures now guides the free world’s future as liberal democracies organize to defend themselves from Trump’s policies."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260825140250.3.2005b69a6da18b64@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "A tough update",
-   "date": "2026-08-25T07:02-07:00",
-   "url": "https://roycoopernc.substack.com/p/a-tough-update",
-   "bullets": [
-    "JD Vance visited North Carolina, Trump attacked Cooper on Truth Social, and Stephen Miller criticized him on Fox News, fueling negative coverage.",
-    "Republicans have spent nearly $100 million in the race and the GOP super PAC launched false attack ads, while a recent poll shows the contest is statistically tied."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260825133409.3.ac6b5b34d2097447@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Everyone, Take a Deep Breath About That SCOTUS Decision",
-   "date": "2026-08-25T06:34-07:00",
-   "url": null,
-   "bullets": [
-    "ICE deported Cristy Maryori Villafranca‑Trejo, a Honduran immigrant and wife of an Army sergeant, after a targeted enforcement operation, highlighting the Trump administration’s aggressive deportation policy that has removed over fifty military spouses with no criminal records"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260825110205.3.da83da24cf1fdce0@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "🐂 Abdul El-Sayed Went on Fox and Cut Through Jesse Watters's Bullshit",
-   "date": "2026-08-25T04:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/abdul-el-sayed-went-on-fox-and-cut",
-   "bullets": [
-    "Abdul El‑Sayed, the Democratic Senate candidate in Michigan, held a 26‑minute Fox interview with Jesse Watters, managing to shut down the host and score points by mocking Republican opponent Mike Rogers as a “beta” and highlighting his 11‑to‑1 spending disadvantage against Rep. Haley Stevens backed by AIPAC.",
-    "El‑Sayed deflected Watters’ culture‑war attacks, turning the conversation toward substantive issues like healthcare, inequality and cost‑of‑living, while also dismissing accusations about sharia law by likening it to canon law.",
-    "The newsletter notes that while Trump’s trade war with Canada continues and Treasury Secretary Scott Bessent announced new Iran sanctions, the administration remains reluctant to confront China or Russia over their trade with Tehran."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260825103125.3.cf1152829723c007@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Losing the Iran War: The Economic Front",
-   "date": "2026-08-25T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/losing-the-iran-war-the-economic",
-   "bullets": [
-    "Trump’s claim that Iran is defeated and a deal imminent is false; the U.S. is trying to reopen the Strait of Hormuz, but estimates of 8 million barrels per day are unreliable and the strategic impact is limited.",
-    "U.S. military setbacks in the Gulf have left it unable to protect allies, so Iran can likely expand attacks on regional oil infrastructure, while refined‑product price spikes persist due to global refining shortages, not crude prices.",
-    "China can easily offset U.S. sanctions—its economy dwarfs Iran’s ($45 billion export revenue is 0.2% of China’s GDP)—making any U.S. attempt to economically isolate Iran implausible."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260825103122.3.6dab032628d28395@mg-d0.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Foodborne illness increase? Common cold, Covid-19 summer wave, and more.",
-   "date": "2026-08-25T03:31-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/foodborne-illness-increase-common",
-   "bullets": [
-    "Common colds are rising as schools reopen, with peak runny noses expected by mid‑September, while Covid‑19 wastewater levels are low nationally but sharply increasing in the West and South, especially affecting children under five and adults over 65.",
-    "Food recall counts this year (483) are average, but recall volume jumped 2,432% to 37.18 million lbs—driven by a massive Cyclospora outbreak—suggesting possible under‑detection of foodborne illness despite stable recall numbers.",
-    "A personalized mRNA melanoma therapy showed markedly lower recurrence and death risk in early trials, and the U.S. age‑adjusted death rate fell 4.6% in 2025 versus 2024, though declines lag for American Indians and Alaska Natives."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 86,
-  "total": 368
+  "total": 370
  }
 }
