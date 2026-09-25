@@ -1,54 +1,102 @@
 {
- "updated": "2026-09-24T11:29-07:00",
+ "updated": "2026-09-24T18:39-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The looming war in Iran is reshaping U.S. strategy, with Trump’s aggressive posture prompting NATO allies to brace for a strategic withdrawal and sparking warnings from experts like Robert Kagan (The Bulwark) and George Conway (The Bulwark).",
-   "Democratic election battles have tightened, as North Carolina and Maine Senate races become pivotal for control of Congress, driving massive fundraising pushes and intense ad wars (The Bulwark, Zeteo).",
-   "Republican messaging crises are evident, with focus‑group data showing a lack of relatable narratives and internal scandals such as Kash Patel’s FBI funding request fueling voter disengagement (The Bulwark).",
-   "Trump’s authoritarian moves—banning major media from the White House and threatening cultural institutions like the Kennedy Center—are prompting legal battles and financial fallout for cultural nonprofits (The Bulwark, First Draft | Zeteo).",
-   "Economic analyses highlight that Trump’s trade policies, from failed tariffs to weaponized interdependence, are hurting both consumers and exporters, while global energy dynamics shift as the Houthis disrupt Red Sea shipping, threatening a diesel shortage (Paul Krugman, Doomberg)."
+   "Trump’s proposed diesel export ban would only temporarily lower Texas prices while raising costs nationwide and eroding trust with allies, prompting economists to warn it could backfire on the economy and diplomacy (Krugman, Rampell).",
+   "The White House’s ad‑hoc ban on CNN, MS NOW and Politico has been struck down in court, but the reversal is still crucial for MAGA media to regain access and influence the narrative (The Bulwark, Zeteo).",
+   "Democrats now hold a statistical edge in both chambers and in key swing states like Maine, Texas, Ohio, Iowa and Alaska, making the 2026 midterms a decisive battleground for the party’s future (The Message Box).",
+   "Israel’s $1 million investment in a foreign‑agent‑registered AI propaganda site, IsraelFact.com, illustrates how governments are using AI to shape public opinion and bypass traditional media (Zeteo).",
+   "The escalating drone attacks on Russian refineries are tightening global diesel supplies, while Ukraine’s recent strikes have already reduced output by over 1.5 million barrels per day, adding pressure to energy markets (Doomberg).",
+   "A bipartisan Senate resolution to investigate American killings in the West Bank has found overwhelming support from both parties, signaling a rare moment of cross‑party consensus on Middle East accountability (First Draft)."
   ],
   "by": "groq",
   "ids": [
-   "20260918090247.3.e39f6e6df24b872a@mg-d1.substack.com",
-   "20260918100155.3.ae1a7ca91e21a231@mg2.substack.com",
-   "20260918104419.3.ee123bee39e1c80a@mg-d1.substack.com",
-   "20260918111549.3.3351afe8f9b5b7af@mg-d1.substack.com",
-   "20260918130240.3.a296a3fe06e16913@mg2.substack.com",
-   "20260918132322.3.014c1ad0486fc6dc@mg-d0.substack.com",
-   "20260918153043.3.87b60e29aa72f531@mg-d1.substack.com",
-   "20260918165504.3.f565f8d6e3a1950f@mg-d1.substack.com",
-   "20260918182734.3.770af98672edabb9@mg-d0.substack.com",
-   "20260918190140.3.179769608ed74318@mg-d0.substack.com",
-   "20260918203041.3.d028c9d7b134ac60@mg-d0.substack.com",
-   "20260918211849.3.a9208e823716fbe5@mg-d1.substack.com",
-   "20260918214411.3.71d4bbc6668620ab@mg-d1.substack.com",
-   "20260919010048.3.fd9ae621b54dcb56@mg-d0.substack.com",
-   "20260919103112.3.e021094f11fe0e5c@mg-d0.substack.com",
-   "20260919113124.3.89fd880f6529d4db@mg-d0.substack.com",
-   "20260919120523.3.b50739cf5e648900@mg-d0.substack.com",
-   "20260919124547.3.c958875d94cdce38@mg-d1.substack.com",
-   "20260919130331.3.7521aa1d4144c033@mg-d0.substack.com",
-   "20260919140342.3.2dd51baf02f0b04c@mg-d1.substack.com",
-   "20260919151101.3.d86a230321e849d8@mg-d0.substack.com",
-   "20260919170103.3.1493fc3cb55dd97f@mg-d1.substack.com",
-   "20260919190456.3.40c35c173e283b3d@mg-d0.substack.com",
-   "20260919232039.3.e3a9509542980bb6@mg2.substack.com",
-   "20260920103055.3.012db9c5a6b0271e@mg-d0.substack.com",
-   "20260920123800.3.10e82ba2f9cb1a5c@mg2.substack.com",
-   "20260920132934.3.86bc2978d5dd00ca@mg2.substack.com",
-   "20260920160206.3.91e2d6e05145a2f1@mg2.substack.com",
-   "20260920175318.3.b0f0fbf75b37e9bb@mg-d0.substack.com",
-   "20260920192541.3.e6c4c33ebbeee603@mg2.substack.com",
-   "20260920234918.3.cecf9c808690db84@mg-d1.substack.com",
-   "20260921003414.3.b25423a721348ef0@mg2.substack.com"
+   "20260922015436.3.c7190794bed63499@mg-d0.substack.com",
+   "20260922090218.3.f8a8124cc8487195@mg2.substack.com",
+   "20260922094608.3.7e6f5bc49b5b48e7@mg2.substack.com",
+   "20260922111125.3.0295521786da1def@mg-d0.substack.com",
+   "20260922122237.3.70bb6ad0923d7d49@mg-d1.substack.com",
+   "20260922123339.3.7b08bb6b76f8a514@mg-d0.substack.com",
+   "20260922133307.3.96ac06537a1894ac@mg-d1.substack.com",
+   "20260922135934.3.13f9242d6e6ac9c9@mg-d0.substack.com",
+   "20260922142941.3.bfb0ead484971c53@mg2.substack.com",
+   "20260922162709.3.4beaf4ce015631bc@mg2.substack.com",
+   "20260922183133.3.cde5db9371b4f312@mg2.substack.com",
+   "20260922191405.3.0dec324c09f6bdef@mg2.substack.com",
+   "20260922191507.3.2a03625a756f7596@mg-d0.substack.com",
+   "20260922221554.3.043525711c2a319a@mg2.substack.com",
+   "20260922230101.3.93240f0b72370f0f@mg2.substack.com",
+   "20260922234729.3.1712418ffcb8bd57@mg2.substack.com",
+   "20260923100350.3.f03b1e1472415963@mg2.substack.com",
+   "20260923103125.3.d1bf8b7ec2941085@mg2.substack.com",
+   "20260923114618.3.c308100c08957b7a@mg2.substack.com",
+   "20260923133028.3.98e23e5d4a9e07de@mg-d1.substack.com",
+   "20260923140236.3.1b048aec94b6259a@mg-d0.substack.com",
+   "20260923145132.3.fa5ff83e33388257@mg-d0.substack.com",
+   "20260923150126.3.821e158972c48076@mg2.substack.com",
+   "20260923173926.3.2ec47321bb2dee1a@mg2.substack.com",
+   "20260923200152.3.a8ca601225ef3093@mg2.substack.com",
+   "20260923233302.3.7686e506f801a5ab@mg2.substack.com",
+   "20260924000107.3.c6d7137816747a67@mg2.substack.com",
+   "20260924013054.3.0899c754eaf354d4@mg-d0.substack.com",
+   "20260924102624.3.160522aa1963db88@mg-d0.substack.com",
+   "20260924110407.3.1a1fc613c5aac8c2@mg2.substack.com",
+   "20260924111350.3.b636cc406a01925e@mg-d0.substack.com",
+   "20260924133458.3.64758682591f1170@mg2.substack.com",
+   "20260924135938.3.d58e6dbe2f571e42@mg-d0.substack.com",
+   "20260924150035.3.a28324bd3cba1f7e@mg-d1.substack.com",
+   "20260924163153.3.c00d685830a5c4ef@mg-d0.substack.com",
+   "20260924180053.3.0a1ebbd69dc65a04@mg-d0.substack.com",
+   "20260924181447.3.4525754bc916343f@mg2.substack.com",
+   "20260924230120.3.56a36c6d9ebfead4@mg-d1.substack.com",
+   "20260925000238.3.b3dd6edfdd5fc053@mg-d1.substack.com"
   ],
-  "updated": "2026-09-20T18:16-07:00",
+  "updated": "2026-09-24T18:39-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260925000238.3.b3dd6edfdd5fc053@mg-d1.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump L’Oil: A Fake Fix for High Diesel Prices",
+   "date": "2026-09-24T17:02-07:00",
+   "url": null,
+   "bullets": [
+    "Diesel prices in the U.S. have surged to near‑record highs, roughly double pre‑Iran‑war levels, hurting truckers, farmers and consumers nationwide.",
+    "Trump is reportedly considering a ban on U.S. diesel exports—a move with no precedent that would restrict trade and likely cause economic, diplomatic and political backlash."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260924230120.3.56a36c6d9ebfead4@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "In Gaza, ‘Whoever Survives the Bombing Won’t Survive the Rubble’",
+   "date": "2026-09-24T16:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/in-gaza-whoever-survives-the-bombing",
+   "bullets": [
+    "Amr Adas recounts the collapse of Gaza’s Al‑Saada building, which killed 11 children—including his 6‑year‑old son Bilal and 12‑year‑old daughter Dunya—and ten adults, with dozens injured or missing.",
+    "He blames Israel for blocking heavy rescue equipment and forcing families into unsafe, war‑damaged structures due to repeated displacement, bombardment, harsh weather and lack of funds.",
+    "The piece warns that over 2,000 Gaza buildings remain at risk of collapse, suggesting many more tragedies like Al‑Saada are likely in the coming weeks and months."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260924191107.3.c2b420874c40481c@mg-d1.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Republicans Are Running Out of Gas on Trump’s Iran War",
+   "date": "2026-09-24T12:11-07:00",
+   "url": null,
+   "bullets": [
+    "It’s no secret the price of gasoline has been way up since the start of the Iran war. But it sometimes feels as though GOP lawmakers have been trying to keep it a secret from themselves. Their willful ignorance is starting to fade.",
+    "In battleground races for the House and Senate, more and more Republicans are breaking away from President Donald Trump on the war, citing high costs at the pump [ https://substack.com/redirect/71d14a40-8406-4f2d-80c9-f386070f9303?j=eyJ1Ijo…"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20260924181447.3.4525754bc916343f@mg2.substack.com",
    "newsletter": "Dan Pfeiffer from The Message Box",
@@ -57,10 +105,11 @@
    "date": "2026-09-24T11:14-07:00",
    "url": "https://open.substack.com/pub/messagebox/p/no-one-should-panic-about-the-nyt",
    "bullets": [
-    "Democratic operatives and activists have been holding their breath, waiting for a New York Times/Siena poll of Michigan’s Senate race. Rumors started circulating earlier in the week that the Times had a poll in the field, and people worried…",
-    "Well, as it turns out, Democrats were right to be worried. We were just worried about the wrong thing. The Times ran three polls: Michigan, New Hampshire, and Maine. In Michigan, Abdul El-Sayed led by five points. In New Hampshire, Democrat…"
+    "The New York Times/Siena poll shows Democrat Abdul El‑Sayed up 5 points in Michigan, Democrat Chris Pappas up 5 points in New Hampshire, but Republican Susan Collins ahead of Troy Jackson by 3 points in Maine.",
+    "Collins’ lead threatens Democratic Senate hopes: without Maine, Democrats must win three of Texas, Ohio, Iowa and Alaska—states Trump carried in all three elections—to secure a majority.",
+    "Despite the poll, the author argues Democrats shouldn’t panic, suggesting the Maine race isn’t decisive enough to overturn overall Senate prospects."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260924180053.3.0a1ebbd69dc65a04@mg-d0.substack.com",
@@ -97,10 +146,11 @@
    "date": "2026-09-24T08:00-07:00",
    "url": null,
    "bullets": [
-    "IF YOU’VE NOTICED a suspicious calm on your TV screens, it’s because live television coverage of Donald Trump has all but vanished. Major networks are boycotting pooled video feeds of Trump’s White House in the wake of his ban on CNN, Polit…",
-    "Into that void have stepped some ever-entrepreneurial, pro-Trump media outlets, which have decided to launch a White House pool operation of their own. Over the past few days, fledgling operations like Real America’s Voice and LindellTV [ h…"
+    "Major networks have stopped using the White House’s official video pool after Trump banned CNN, Politico and MSNOW, leaving a live‑feed void.",
+    "Pro‑Trump outlets Real America’s Voice and LindellTV have launched their own White House pool, claiming to provide an \"unfeathered\" view and offering footage to anyone.",
+    "Executive Parker Sigg says the Real America’s Voice pool began after a mysterious late‑night call to cover Trump’s UN visit, though it’s unclear if the White House requested it."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260924135938.3.d58e6dbe2f571e42@mg-d0.substack.com",
@@ -5018,52 +5068,10 @@
     "A personalized mRNA melanoma therapy showed markedly lower recurrence and death risk in early trials, and the U.S. age‑adjusted death rate fell 4.6% in 2025 versus 2024, though declines lag for American Indians and Alaska Natives."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260825002338.3.9e85353788e1a05b@mg2.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A MAGA Propaganda Circular Firing Squad",
-   "date": "2026-08-24T17:23-07:00",
-   "url": null,
-   "bullets": [
-    "Jennica Pounds, known as “Data Republican,” claimed a State Department undersecretary, Sarah B. Rogers, tried to trap her into leaking Cuba documents, risking treason charges.",
-    "The allegation is odd because Pounds is a Trump‑administration favorite who rose to fame for dubious data claims about Elon Musk’s cuts to USAID during the DOGE era.",
-    "The piece suggests Rogers, praised by MAGA for defending far‑right speech in Europe, may be embroiled in a bizarre internal conspiracy, prompting a Bulwark+ subscription pitch."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260825000105.3.ec83fceba22da7f7@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "A Tale of Two Genocides: The West’s Hypocrisy in Gaza Desecrates Remembrance in Myanmar",
-   "date": "2026-08-24T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/two-genocide-rohingya-gaza-west-hypocrisy",
-   "bullets": [
-    "Rohingya Genocide Remembrance Day marks the 2017 Myanmar “clearance operations” that displaced 1.2 million Rohingya to Bangladesh and killed an estimated 30,000 people.",
-    "The U.S. formally declared the attacks genocide on March 21 2022 after interviewing refugees and reviewing soldier whistleblowers, finding orders to shoot indiscriminately, burn villages, rape women and use racial slurs.",
-    "The newsletter argues Western condemnation of Myanmar’s atrocities starkly contrasts with its muted response to Israel’s actions in Gaza, highlighting a double standard in applying the Genocide Convention."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260824220614.3.203a2b0a18beb03f@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Canada’s Message to Trump: Kiss My Ass",
-   "date": "2026-08-24T15:06-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s claim of a U.S.-Canada trade deficit is mathematically flawed, as Canada runs a surplus with the U.S. and the two economies are tightly integrated, especially in autos.",
-    "Ontario Premier Doug Ford retorted to Trump’s trade attacks with a profane “kiss my ass” message, while Prime Minister Mark Carney pivots toward deeper EU economic ties to offset U.S. pressure.",
-    "Analysts warn the escalating tariff war could backfire on American workers and consumers by disrupting the cross‑border auto supply chain and raising prices."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 87,
+  "shown": 86,
   "total": 368
  }
 }
