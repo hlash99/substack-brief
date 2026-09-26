@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T11:45-07:00",
+ "updated": "2026-09-25T18:42-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -58,6 +58,74 @@
  },
  "items": [
   {
+   "id": "20260926004037.3.1abf0fdfa354f720@mg-d0.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "McConnell’s Corpse Casts Deciding Vote on Iran War (w/ Alex Wagner)",
+   "date": "2026-09-25T17:40-07:00",
+   "url": null,
+   "bullets": [
+    "Trump pulled out all the stops at the state dinner to regale the guy who is working with our enemy: Not only has China been helping Iran target and kill American soldiers, it's also been shipping Tehran component parts for drones and missil…",
+    "Alex Wagner joins Tim Miller for the weekend pod. Alex’s book, “The Steal” [ https://substack.com/redirect/67c896cf-197d-44be-ba54-0bad09946eb6?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260926000146.3.c99e9edc3cdf65d6@mg-d1.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 88: Trump’s White House Press Ban Backfires",
+   "date": "2026-09-25T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-88-trumps",
+   "bullets": [
+    "While Donald Trump was busy giving his disgusting imperialist speech [ https://substack.com/redirect/b4b07c34-f168-4926-8f96-6098c8393d99?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] at the UN and rolling out the red …",
+    "From Trump’s continued crackdown on a free press, to a bombshell report about Republican Senator Susan Collins, to more ICE violence, here’s ‘This Week in Democracy – Week 88’: Saturday, Sept. 19 – Removal Orders for Undocumented Children D…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260925223033.3.26d9bf8faafc2b1e@mg-d0.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Ten Lesbians Walk Into a Bar . . .",
+   "date": "2026-09-25T15:30-07:00",
+   "url": null,
+   "bullets": [
+    "The government allegedly lied to a court again, while JD Vance is accused of leaking national‑security information and Trump is said to have compromat on Susan Collins; Mary Peltola faces a context‑collapse scandal.",
+    "JVL apologizes for cutting a promo, and the newsletter highlights a Massachusetts lesbian bar story that was “not woke enough,” calling it a solid B‑/B episode.",
+    "The newsletter promotes a Bulwark LIVE tour in October with guests like Bakari Sellers, Pete Buttigieg, and Mark Hertling, and notes that “How to Eat an Elephant” hit #2 on the NYT bestseller list, surpassing Ted Cruz."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260925194042.3.7a919ebdd92aa00f@mg-d0.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A Bipartisan Bet on Bringing Movies Back to America",
+   "date": "2026-09-25T12:40-07:00",
+   "url": null,
+   "bullets": [
+    "A bipartisan group of senators and representatives introduced a federal film tax credit offering a 20% credit on payroll compensation, stackable with state incentives and potentially rising to 30% with bonuses for multi‑state spending and disaster‑area shoots.",
+    "The credit applies to both above‑the‑line and below‑the‑line wages but excludes profit participation, aiming to keep star salaries taxable in the U.S. and reshore jobs, with Treasury overseeing implementation and no content‑based restrictions.",
+    "Paramount’s recent settlement obligates it to spend an additional $1.5 billion in U.S. production over five years, and if the federal credit passes, U.S. production could rise to 20‑30% of its output, or 40% with complementary state credits."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260925185811.3.275f055991f57af0@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "A few things that may convince you",
+   "date": "2026-09-25T11:58-07:00",
+   "url": "https://roycoopernc.substack.com/p/a-few-things-that-may-convince-you",
+   "bullets": [
+    "Republican figures including Trump, Vice President Harris, and Stephen Miller are personally targeting Roy Cooper, with GOP spending over $100 million to defeat him in North Carolina.",
+    "Cooper says a recent poll shows his narrow lead has shrunk to a statistical tie as GOP super PAC attack ads increase, threatening Democratic Senate chances.",
+    "He urges a $7 donation before Wednesday’s fundraising deadline to counter GOP spending, protect his lead, and help flip North Carolina for the Senate."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20260925180056.3.f074b21f9672b81d@mg-d1.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
@@ -65,10 +133,10 @@
    "date": "2026-09-25T11:00-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/tickets-join-mehdi-for-the-premiere",
    "bullets": [
-    "Join Zeteo and IMEU Policy Project LIVE in Chicago at the Pickwick Theater on Oct. 20 for the premiere of our latest original documentary, ‘Night Flower: Inside AIPAC’s Fight for Influence.’",
-    "This special and timely investigative documentary takes an in-depth look at AIPAC’s role and influence in U.S. politics, while examining the organization’s impact on elections, political candidates, and the broader political landscape."
+    "Zeteo and IMEU Policy Project will premiere the investigative documentary ‘Night Flower: Inside AIPAC’s Fight for Influence’ in Chicago on Oct. 20, examining AIPAC’s political sway and election impact.",
+    "The post‑screening panel includes Congresswoman Delia Ramirez, Zeteo founder Mehdi Hasan, Pulitzer‑finalist reporter Dion Nissenbaum, IMEU director Margaret DeReus, and commentator Kat Abughazaleh, with a live audience Q&A."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260925165335.3.5495ceef1ea4ef87@mg-d1.substack.com",
@@ -78,10 +146,11 @@
    "date": "2026-09-25T09:53-07:00",
    "url": null,
    "bullets": [
-    "I want to talk to you for a minute about my favorite thing in the world: this community. As you likely know, a whole bunch of us at The Bulwark are currently jumping on planes to head to Ohio for a live show to stand with the Haitian commun…",
-    "We’ve been raising money to support the Haitian Support Center, and my goodness have you shown up. We’ll be announcing the final tally soon. But rest assured, you’ve already exceeded our expectations and we can’t thank you enough."
+    "The Bulwark team is traveling to Ohio for a live show supporting the Haitian community in Springfield amid Trump administration deportations, with venue size expanding due to high attendance.",
+    "Sarah Longwell’s book *How to Eat an Elephant: One Voter at a Time* debuted at #2 on the New York Times bestseller list and stayed there a second week, while readers are actively leaving reviews on Amazon and Goodreads.",
+    "An AMA with Longwell is scheduled for Friday, October 2 at 2 p.m. EDT, inviting audience questions about the book and its ideas."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260925150403.3.b033fa77e49686e9@mg-d0.substack.com",
@@ -456,10 +525,10 @@
    "date": "2026-09-23T06:39-07:00",
    "url": null,
    "bullets": [
-    "Xi Jinping touches down in the United States today for the first time in more than a decade. A lot has changed since Xi’s 2015 bilateral with then-President Barack Obama, and he and Donald Trump will have plenty to talk about: Taiwan, AI, t…",
-    "Join Mark Hertling and Ben Parker for Command Post today at 10:30 a.m. EDT live on Substack [ https://open.substack.com/live-stream/377019?utm_source=post-publish ] and YouTube [ https://substack.com/redirect/c1c61b5a-9512-48c1-ba76-2a05000…"
+    "Brendan Hartnett’s six‑hour marathon of Trump TV reveals a bland, self‑congratulatory spectacle where promises about ending censorship, cutting inflation and colonizing Mars ring hollow against Trump’s 2026 record of unfulfilled pledges.",
+    "Andrew Egger warns that Trump’s announced potash deal with Belarus is infeasible: Belarus lacks surplus supply, is under EU sanctions, and logistics would be far costlier than Canada’s reliable Saskatchewan shipments, exposing Trump’s trade‑war ignorance."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260923133028.3.98e23e5d4a9e07de@mg-d1.substack.com",
@@ -497,10 +566,11 @@
    "date": "2026-09-23T04:13-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/trumps-disgusting-un-speech-when",
    "bullets": [
-    "On this day in 2020, Donald Trump refused to commit to a peaceful transition of power if he lost that year’s presidential election. He did lose, conclusively, and he didn’t allow a peaceful transition.",
-    "Happy Wednesday – it’s Swin again. The world’s crassest, most buffoonishly violent imperialist is at it again, and he’s not just making his own nation listen. He’s forcing all the “United” ones to listen too."
+    "Trump’s UN General Assembly speech devolved into self‑aggrandizing threats, including vows to annihilate Iran, intimidate Cuba, and boast about a covert Venezuelan invasion and oil deal, signaling a shift to overt, extra‑legal U.S. aggression.",
+    "A ProPublica‑style investigation revealed GOP Senator Susan Collins’ Maine ties to a bribery probe that the Trump‑appointed DOJ allegedly suppressed, highlighting ongoing corruption concerns.",
+    "The piece links Trump’s UN rhetoric to his 2020 refusal to ensure a peaceful power transition, framing his current foreign‑policy posturing as an extension of his authoritarian domestic behavior."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260923103125.3.d1bf8b7ec2941085@mg2.substack.com",
@@ -5023,73 +5093,6 @@
     "Krugman warns that Trump’s ego, disconnection from reality, and unprecedented deference from federal machinery threaten U.S. global standing, eroding trust, weakening military credibility, and inviting ridicule by smaller states.",
     "He likens Trump’s impending loss of power to Hitler’s final days, suggesting Trump may retaliate by damaging national symbols and infrastructure—e.g., the White House’s South Lawn and gilded statues—mirroring Hitler’s Nero Decree.",
     "Krugman argues that even after Trump leaves, the world will remember America’s willingness to elect such a leader, undermining its reputation and leaving the nation vulnerable to future political instability."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260826010050.3.a5bcaab9e6eeccb8@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Dolly Parton Dies at 80. Here Are 9 Ways She Changed America and the World for the Better",
-   "date": "2026-08-25T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/dolly-parton-dies-at-80-here-are",
-   "bullets": [
-    "Dolly Parton’s Imagination Library, launched in 1995, has distributed over 325 million free books to children under five across the U.S., Canada, U.K., Ireland and Australia, boosting early literacy while facing state‑funding battles in Missouri, Indiana, Kentucky and Maine.",
-    "Her Dollywood Foundation’s Buddy Program, begun in the early 1990s, cut Sevier County high‑school dropout rates from 35 % to 6 % by guaranteeing $500 scholarships to 7th‑ and 8th‑graders who graduated, and the foundation continues to fund scholarships and educational initiatives."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260826003324.3.64491d4e56e6c184@mg-d0.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "All MAGA Media Can Talk About Now is Trans Sports",
-   "date": "2026-08-25T17:33-07:00",
-   "url": null,
-   "bullets": [
-    "The hosts mourn Dolly Parton’s death, assess America’s ongoing trade war with Canada and argue the US can’t be relied on internationally even if Democrats win in 2028.",
-    "They analyze the South Carolina Senate runoff, questioning whether Donald Trump’s endorsement alone can lift a political novice, and note Pennsylvania’s first measles death of the year.",
-    "They critique MAGA media’s obsession with trans issues in the WNBA, debate a rumored Trump administration plan to demolish the Kennedy Center, and discuss JVL’s triad on Trump’s bizarre relationship with Natalie Harp."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260825232034.3.4c942a3ab59ada33@mg-d0.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "I Worked for Trump. The Natalie Harp Saga Isn’t Surprising.",
-   "date": "2026-08-25T16:20-07:00",
-   "url": null,
-   "bullets": [
-    "The newsletter claims that Natalie Harp’s close proximity to President Trump and her role in relaying messages from senators reveal a pattern of unusual power dynamics and obsequious behavior, including her sending overly flattering letters to the president.",
-    "The author, who has personal experience working in Trump’s environment, argues that Harp’s situation is not unique but part of a broader trend of Trump’s staff being expected to perform extreme, often humiliating tasks—such as steaming his pants while he was still wearing them—to gain favor and access."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260825220054.3.771fa6d200c09d10@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "‘Nerd Reich’ Author Exposes What Far-Right Tech Bosses Actually Want",
-   "date": "2026-08-25T15:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/nerd-reich-author-gil-duran",
-   "bullets": [
-    "Peter Thiel’s 2010 talk framed technology as a way to bypass elections, suggesting Silicon Valley’s elite view democracy as a barrier to their power and aim for a tech‑run future.",
-    "Journalist Gil Durán argues that Silicon Valley’s “Nerd Reich” believes the U.S. will collapse and that tech moguls are actively trying to trigger that collapse, a claim explored in his book and interview."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260825192733.3.3dcc76c962b78bd1@mg-d0.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Atheist Congressman Taking On MAGA’s Nationalist Crusaders",
-   "date": "2026-08-25T12:27-07:00",
-   "url": null,
-   "bullets": [
-    "Rep. Jared Huffman (D‑Calif.) released *No Prophets*, a book exposing how radical Christian nationalist groups like Rad Trads and Theo Bros helped fuel the Jan 6 insurrection and how many GOP officials, including Defense Secretary Pete Hegseth, are linked to such sects",
-    "Huffman, a self‑identified humanist, argues Congress has created a permissive environment for Christian‑based extremist activism and urges figures like Sen. Raphael Warnock to champion church‑state separation despite political risks",
-    "Texas Senate candidate Ken Paxton, facing weak polling and donor fatigue, pivoted to an anti‑AI data‑center platform—banning Chinese tech, criminal liability for child harm, and rural bans—while receiving sizable contributions from data‑center interests such as Valero, CRH Americas, Sago Energy, and Tyler Winklevoss"
    ],
    "summary_by": "groq"
   }
