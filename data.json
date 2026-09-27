@@ -1,46 +1,18 @@
 {
- "updated": "2026-09-26T10:49-07:00",
+ "updated": "2026-09-26T18:35-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s proposed diesel export ban would only temporarily lower Texas prices while raising costs nationwide and eroding trust with allies, prompting economists to warn it could backfire on the economy and diplomacy (Krugman, Rampell).",
-   "The White House’s ad‑hoc ban on CNN, MS NOW and Politico has been struck down in court, but the reversal is still crucial for MAGA media to regain access and influence the narrative (The Bulwark, Zeteo).",
-   "Democrats now hold a statistical edge in both chambers and in key swing states like Maine, Texas, Ohio, Iowa and Alaska, making the 2026 midterms a decisive battleground for the party’s future (The Message Box).",
-   "Israel’s $1 million investment in a foreign‑agent‑registered AI propaganda site, IsraelFact.com, illustrates how governments are using AI to shape public opinion and bypass traditional media (Zeteo).",
-   "The escalating drone attacks on Russian refineries are tightening global diesel supplies, while Ukraine’s recent strikes have already reduced output by over 1.5 million barrels per day, adding pressure to energy markets (Doomberg).",
-   "A bipartisan Senate resolution to investigate American killings in the West Bank has found overwhelming support from both parties, signaling a rare moment of cross‑party consensus on Middle East accountability (First Draft)."
+   "The looming midterm elections are being framed as a decisive showdown over Trump’s alleged corruption and the future of U.S. policy, with Democrats and Republicans alike scrambling for funds and voter attention (Bulwark, The Message Box, Zeteo, Roy Cooper).",
+   "Trump’s aggressive media bans and diplomatic posturing—such as the White House press ban, the creation of a pro‑Trump White House video pool, and his planned visit to China—are reshaping the information landscape and raising constitutional concerns (Bulwark, Bill Kristol, Will Sommer).",
+   "U.S. energy policy is in crisis as soaring diesel and gasoline prices spark proposals like a diesel export ban, while Treasury yields rise and the Iran war adds further market volatility (Catherine Rampell, Joe Perticone, Paul Krugman).",
+   "The Israel‑Gaza conflict continues to dominate international headlines, with new reports of “skunk water” attacks, civilian casualties, and bipartisan calls for U.S. investigations into killings of Americans (Zeteo, First Draft).",
+   "Voter fatigue and a shift away from detailed policy messaging are eroding Democratic electoral prospects, prompting analysts to warn that personal‑impact narratives now outweigh substantive platforms (Dan Pfeiffer, The Message Box).",
+   "Republican strongholds like Ohio and North Carolina are becoming unexpectedly competitive due to local issues and massive GOP spending, putting traditional party dynamics under strain (Sarah Longwell, Roy Cooper)."
   ],
   "by": "groq",
   "ids": [
-   "20260922015436.3.c7190794bed63499@mg-d0.substack.com",
-   "20260922090218.3.f8a8124cc8487195@mg2.substack.com",
-   "20260922094608.3.7e6f5bc49b5b48e7@mg2.substack.com",
-   "20260922111125.3.0295521786da1def@mg-d0.substack.com",
-   "20260922122237.3.70bb6ad0923d7d49@mg-d1.substack.com",
-   "20260922123339.3.7b08bb6b76f8a514@mg-d0.substack.com",
-   "20260922133307.3.96ac06537a1894ac@mg-d1.substack.com",
-   "20260922135934.3.13f9242d6e6ac9c9@mg-d0.substack.com",
-   "20260922142941.3.bfb0ead484971c53@mg2.substack.com",
-   "20260922162709.3.4beaf4ce015631bc@mg2.substack.com",
-   "20260922183133.3.cde5db9371b4f312@mg2.substack.com",
-   "20260922191405.3.0dec324c09f6bdef@mg2.substack.com",
-   "20260922191507.3.2a03625a756f7596@mg-d0.substack.com",
-   "20260922221554.3.043525711c2a319a@mg2.substack.com",
-   "20260922230101.3.93240f0b72370f0f@mg2.substack.com",
-   "20260922234729.3.1712418ffcb8bd57@mg2.substack.com",
-   "20260923100350.3.f03b1e1472415963@mg2.substack.com",
-   "20260923103125.3.d1bf8b7ec2941085@mg2.substack.com",
-   "20260923114618.3.c308100c08957b7a@mg2.substack.com",
-   "20260923133028.3.98e23e5d4a9e07de@mg-d1.substack.com",
-   "20260923140236.3.1b048aec94b6259a@mg-d0.substack.com",
-   "20260923145132.3.fa5ff83e33388257@mg-d0.substack.com",
-   "20260923150126.3.821e158972c48076@mg2.substack.com",
-   "20260923173926.3.2ec47321bb2dee1a@mg2.substack.com",
-   "20260923200152.3.a8ca601225ef3093@mg2.substack.com",
-   "20260923233302.3.7686e506f801a5ab@mg2.substack.com",
-   "20260924000107.3.c6d7137816747a67@mg2.substack.com",
-   "20260924013054.3.0899c754eaf354d4@mg-d0.substack.com",
    "20260924102624.3.160522aa1963db88@mg-d0.substack.com",
    "20260924110407.3.1a1fc613c5aac8c2@mg2.substack.com",
    "20260924111350.3.b636cc406a01925e@mg-d0.substack.com",
@@ -50,13 +22,66 @@
    "20260924163153.3.c00d685830a5c4ef@mg-d0.substack.com",
    "20260924180053.3.0a1ebbd69dc65a04@mg-d0.substack.com",
    "20260924181447.3.4525754bc916343f@mg2.substack.com",
+   "20260924191107.3.c2b420874c40481c@mg-d1.substack.com",
    "20260924230120.3.56a36c6d9ebfead4@mg-d1.substack.com",
-   "20260925000238.3.b3dd6edfdd5fc053@mg-d1.substack.com"
+   "20260925000238.3.b3dd6edfdd5fc053@mg-d1.substack.com",
+   "20260925013055.3.84a2fc972608c9de@mg-d1.substack.com",
+   "20260925100132.3.52ac1b83d00394b7@mg-d0.substack.com",
+   "20260925103130.3.172139b5b1ba31e0@mg2.substack.com",
+   "20260925112457.3.1dd479f1cc3410dc@mg2.substack.com",
+   "20260925132639.3.cf77b73e6fa636e0@mg-d1.substack.com",
+   "20260925150403.3.b033fa77e49686e9@mg-d0.substack.com",
+   "20260925165335.3.5495ceef1ea4ef87@mg-d1.substack.com",
+   "20260925180056.3.f074b21f9672b81d@mg-d1.substack.com",
+   "20260925185811.3.275f055991f57af0@mg-d0.substack.com",
+   "20260925194042.3.7a919ebdd92aa00f@mg-d0.substack.com",
+   "20260925223033.3.26d9bf8faafc2b1e@mg-d0.substack.com",
+   "20260926000146.3.c99e9edc3cdf65d6@mg-d1.substack.com",
+   "20260926004037.3.1abf0fdfa354f720@mg-d0.substack.com",
+   "20260926103304.3.5e054e51997e34b6@mg-d1.substack.com",
+   "20260926113133.3.bf4a852590b72a3d@mg-d1.substack.com",
+   "20260926123226.3.d0db8da46ed3b2a7@mg-d1.substack.com",
+   "20260926130256.3.d046c186c9040509@mg-d1.substack.com",
+   "20260926130323.3.b01212c024bec928@mg-d1.substack.com",
+   "20260926134132.3.f0c82f15c15fb8b2@mg-d1.substack.com",
+   "20260926150455.3.dbb3394e7b23745e@mg-d1.substack.com",
+   "20260926170208.3.432b50dc87c1599e@mg-d0.substack.com",
+   "20260926173032.3.7cb4713802233377@mg-d1.substack.com",
+   "20260926182216.3.eed50d39eba38144@mg-d0.substack.com",
+   "20260926232034.3.9d746579f0171eb9@mg-d1.substack.com"
   ],
-  "updated": "2026-09-24T18:39-07:00",
+  "updated": "2026-09-26T18:35-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260926232034.3.9d746579f0171eb9@mg-d1.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Receipts Live: Riley Gaines’ Medical Bills Reveal a Huge Problem for MAGA",
+   "date": "2026-09-26T16:20-07:00",
+   "url": null,
+   "bullets": [
+    "Treasury yields have spiked, pushing mortgage rates toward 7% as inflation, soaring government debt and uncertainty from the Iran war strain Scott Bessent’s bid to lower bond costs.",
+    "Trump’s proposed diesel export ban could unintentionally raise gasoline and other petroleum prices, disrupting global energy markets and hurting consumers.",
+    "Jensen Huang argues AI may render basic math teaching obsolete, a claim the hosts warn could erode essential foundational skills."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260926182216.3.eed50d39eba38144@mg-d0.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "To be honest:",
+   "date": "2026-09-26T11:22-07:00",
+   "url": "https://ossoff.substack.com/p/to-be-honest",
+   "bullets": [
+    "Ossoff argues the upcoming midterm elections are the most consequential in modern history, claiming they will decide whether Trump’s alleged corruption is stopped and healthcare restored.",
+    "He urges Georgia voters to donate $5 to his campaign, saying a Republican win would prevent a Democratic Senate majority and any accountability for Trump.",
+    "Ossoff frames the elections as a decisive battle against a combined political, economic, and moral crisis, urging immediate civic action."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260926173032.3.7cb4713802233377@mg-d1.substack.com",
    "newsletter": "Bulwark Takes",
@@ -93,10 +118,11 @@
    "date": "2026-09-26T08:04-07:00",
    "url": "https://roycoopernc.substack.com/p/my-decision",
    "bullets": [
-    "A recent poll shows that our race is now statistically tied, and the Senate GOP’s top super PACs are pouring over $100 million into this race to defeat. That’s because Senate control hinges on this battleground race.",
-    "Since I’m running a grassroots campaign, I can’t fight back without you. So if you’re able to chip in a few bucks to power our fight today before our critical end-of-quarter deadline, I’d really appreciate it. Here’s the link to donate: [ h…"
+    "A recent poll shows the North Carolina Senate race is statistically tied, with GOP super PACs spending over $100 million to try to defeat Democrat Roy Cooper and keep Senate control.",
+    "Cooper criticizes opponent Michael Whatley for ties to Big Oil, appointing a convicted child sex offender to party leadership, and being President‑backed after Thom Tillis withdrew.",
+    "He urges supporters to donate immediately to sustain the grassroots campaign and flip the seat, noting the $100 million GOP dark‑money surge threatens his narrow lead."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260926134132.3.f0c82f15c15fb8b2@mg-d1.substack.com",
@@ -106,10 +132,11 @@
    "date": "2026-09-26T06:41-07:00",
    "url": null,
    "bullets": [
-    "Ohio used to be the biggest swing state in the country. It's turned pretty red, (Trump won it by 11 points in 2024) but it's very hotly contested this year, and there's one big overarching local issue driving it. Signal Ohio state governmen…",
-    "Signal Ohio [ https://substack.com/redirect/fdafefa3-53fc-41fd-b9a8-020bdb934384?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] Sarah's Focus Group Newsletter on Vivek Ramaswamy [ https://substack.com/redirect/b35a890e-…"
+    "Ohio, once the nation’s top swing state, has turned solidly red with Trump winning by 11 points in 2024, yet this cycle it’s unexpectedly competitive due to a single dominant local issue.",
+    "Signal Ohio reporter Andrew Tobias joins Sarah Longwell to dissect the key players and dynamics shaping the Ohio race, explaining why Republicans now feel their political survival is at stake.",
+    "The episode also promotes an upcoming AMA on Oct 2 and offers premium, ad‑free access to the full discussion for subscribers."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260926130323.3.b01212c024bec928@mg-d1.substack.com",
@@ -5038,52 +5065,10 @@
     "The episode highlights growing accusations that Bash’s reporting on Israel‑Gaza is heavily slanted, undermining her credibility as an impartial journalist."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260827004009.3.4d4c7fb712eda35d@mg2.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Is Racing to Build His Ballroom Before the Courts Stop Him (Andrew Weissmann)",
-   "date": "2026-08-26T17:40-07:00",
-   "url": null,
-   "bullets": [
-    "Supreme Court Chief Justice John Roberts let construction of the White House ballroom proceed, a move the hosts say aids Trump’s fundraising and legacy building before potential legal setbacks.",
-    "A recent court ruling limits Trump’s ability to expand mail‑in voting, which the hosts argue could curb his electoral influence in upcoming contests.",
-    "They highlight Greg Abbott’s refusal to extradite an ICE officer accused of shooting a man and lying, and note a traveler who wiped his phone to avoid a border search, underscoring tensions over law‑enforcement accountability."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260826232558.3.0bb89dbb8b3246a9@mg2.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Prepare for Trump to Try to Steal the Midterms",
-   "date": "2026-08-26T16:25-07:00",
-   "url": null,
-   "bullets": [
-    "The Supreme Court temporarily stayed a lower‑court injunction, giving Trump a procedural win but not a blanket permission to direct the Postal Service on mail‑in ballot eligibility, while broader election‑security battles loom as early voting starts in as little as four weeks.",
-    "Trump’s administration has pressured states for voter‑registration rolls, threatened to suspend ICE operations for sanctuary compliance, and urged Republican gerrymandering, while hinting at using ICE, the National Guard, or the Insurrection Act to influence polling places ahead of the midterms.",
-    "Despite being weakened, Trump continues to claim the 2020 election was compromised, targeting officials like CISA chief Christopher Krebs and promoting unfounded foreign‑interference narratives, signaling he may still attempt overt or covert actions to subvert the November vote."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260826230940.3.7183028cded469c4@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "EXCLUSIVE: The Right’s ‘War on Woke’ Is a Cash Grab on State Treasuries",
-   "date": "2026-08-26T16:09-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/kreifels-war-on-woke-cash-grab-alaska",
-   "bullets": [
-    "The State Financial Officers Foundation (SFOF) is a nonprofit that brings Republican state treasurers, auditors, right‑wing activists, and Christian finance executives together to steer state treasury money toward faith‑aligned firms and fossil‑fuel interests, while publicly opposing climate‑mitigation efforts.",
-    "Derek Kreifels, former CEO of SFOF, now lobbies treasurers to invest public retirees’ savings in his firm Prospr Aligned and its affiliates; his company has already secured contracts with the Kentucky auditor’s office and is targeting Alaska’s Permanent Fund through connections with former Revenue Commissioner Adam Crum and Chair Jason Brune.",
-    "SFOF has funded travel for state officials to Prospr’s New York Stock Exchange launch party and arranged for Trump‑SEC chairman Paul Atkins to speak, illustrating the organization’s role in promoting Kreifels’s private business ventures at the expense of public funds."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 87,
-  "total": 369
+  "total": 368
  }
 }
