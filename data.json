@@ -1,27 +1,17 @@
 {
- "updated": "2026-09-26T18:35-07:00",
+ "updated": "2026-09-27T11:31-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The looming midterm elections are being framed as a decisive showdown over Trump’s alleged corruption and the future of U.S. policy, with Democrats and Republicans alike scrambling for funds and voter attention (Bulwark, The Message Box, Zeteo, Roy Cooper).",
-   "Trump’s aggressive media bans and diplomatic posturing—such as the White House press ban, the creation of a pro‑Trump White House video pool, and his planned visit to China—are reshaping the information landscape and raising constitutional concerns (Bulwark, Bill Kristol, Will Sommer).",
-   "U.S. energy policy is in crisis as soaring diesel and gasoline prices spark proposals like a diesel export ban, while Treasury yields rise and the Iran war adds further market volatility (Catherine Rampell, Joe Perticone, Paul Krugman).",
-   "The Israel‑Gaza conflict continues to dominate international headlines, with new reports of “skunk water” attacks, civilian casualties, and bipartisan calls for U.S. investigations into killings of Americans (Zeteo, First Draft).",
-   "Voter fatigue and a shift away from detailed policy messaging are eroding Democratic electoral prospects, prompting analysts to warn that personal‑impact narratives now outweigh substantive platforms (Dan Pfeiffer, The Message Box).",
-   "Republican strongholds like Ohio and North Carolina are becoming unexpectedly competitive due to local issues and massive GOP spending, putting traditional party dynamics under strain (Sarah Longwell, Roy Cooper)."
+   "The flood of dark‑money super PAC spending is turning key Senate races in North Carolina and Georgia into high‑stakes battles, with GOP groups pouring over $100 million in NC and $500 million in GA to attack incumbents (Roy Cooper, Jon Ossoff).",
+   "A surge in U.S. interest rates driven by an AI investment boom and war‑related inflation is reshaping bond markets and raising mortgage costs, signaling deeper economic stress (Paul Krugman, Catherine Rampell).",
+   "Israel’s ongoing war tactics, including the use of “skunk water” and home demolitions, are intensifying humanitarian crises and drawing global criticism (Zeteo, This Week in Palestine).",
+   "Republican leaders are scrambling to defend Trump’s unpopular policies—such as a proposed diesel export ban and aggressive press bans—while facing internal dissent over the Iran war and rising fuel prices (The Bulwark, Dan Pfeiffer).",
+   "Zeteo’s new documentary on AIPAC highlights the pro‑Israel lobby’s outsized influence on recent midterms, underscoring concerns about foreign‑policy lobbying in U.S. elections (Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20260924102624.3.160522aa1963db88@mg-d0.substack.com",
-   "20260924110407.3.1a1fc613c5aac8c2@mg2.substack.com",
-   "20260924111350.3.b636cc406a01925e@mg-d0.substack.com",
-   "20260924133458.3.64758682591f1170@mg2.substack.com",
-   "20260924135938.3.d58e6dbe2f571e42@mg-d0.substack.com",
-   "20260924150035.3.a28324bd3cba1f7e@mg-d1.substack.com",
-   "20260924163153.3.c00d685830a5c4ef@mg-d0.substack.com",
-   "20260924180053.3.0a1ebbd69dc65a04@mg-d0.substack.com",
-   "20260924181447.3.4525754bc916343f@mg2.substack.com",
    "20260924191107.3.c2b420874c40481c@mg-d1.substack.com",
    "20260924230120.3.56a36c6d9ebfead4@mg-d1.substack.com",
    "20260925000238.3.b3dd6edfdd5fc053@mg-d1.substack.com",
@@ -48,12 +38,84 @@
    "20260926170208.3.432b50dc87c1599e@mg-d0.substack.com",
    "20260926173032.3.7cb4713802233377@mg-d1.substack.com",
    "20260926182216.3.eed50d39eba38144@mg-d0.substack.com",
-   "20260926232034.3.9d746579f0171eb9@mg-d1.substack.com"
+   "20260926232034.3.9d746579f0171eb9@mg-d1.substack.com",
+   "20260927104634.3.59a142cceaf6db89@mg2.substack.com",
+   "20260927120114.3.abc52f633e7338c7@mg2.substack.com",
+   "20260927140242.3.8006c30527a27851@mg-d0.substack.com",
+   "20260927153329.3.7db83db0ff786216@mg-d0.substack.com",
+   "20260927173254.3.486c2d319546a2f1@mg2.substack.com"
   ],
-  "updated": "2026-09-26T18:35-07:00",
+  "updated": "2026-09-27T11:31-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260927173254.3.486c2d319546a2f1@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Here is what’s at stake",
+   "date": "2026-09-27T10:32-07:00",
+   "url": "https://roycoopernc.substack.com/p/here-is-whats-at-stake",
+   "bullets": [
+    "The email warns that North Carolina’s 2024 gubernatorial race could hinge on a few votes, with Republican dark‑money super PACs already spending over $100 million on attack ads against incumbent Gov. Roy Cooper.",
+    "It contrasts Cooper’s record—expanding affordable health care, defending rights, aiding working families—with challenger Michael Whatley’s background as a former Big Oil lobbyist, Trump ally, and appointee of a convicted child sex offender.",
+    "Readers are urged to donate, volunteer door‑knocking, or register to vote before the end‑of‑quarter deadline to help counter the massive outside spending."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260927153329.3.7db83db0ff786216@mg-d0.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "Totally out of control",
+   "date": "2026-09-27T08:33-07:00",
+   "url": "https://ossoff.substack.com/p/totally-out-of-control",
+   "bullets": [
+    "Ossoff warns that GOP Super PACs have raised over $500 million for the Georgia Senate race, with additional funds from Trump’s PAC and donors like Elon Musk threatening to outspend Democrats by hundreds of millions",
+    "He urges supporters to donate $5 to his campaign to counter the “dark‑money” flood and keep his message alive despite the massive financial advantage of the opposition"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260927140242.3.8006c30527a27851@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Inside AIPAC: Watch the Trailer For Zeteo’s New Documentary on the Pro-Israel Lobby",
+   "date": "2026-09-27T07:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/inside-aipac-watch-the-trailer-for",
+   "bullets": [
+    "The hour‑long documentary ‘Night Flower: Inside AIPAC’s Fight for Influence’—featuring former AIPAC officials, politicians and activists—examines the lobby’s evolution and role in the 2024 U.S. midterms, with its trailer now live.",
+    "A live premiere screening is scheduled in Chicago on Oct. 20, with discounted tickets for paid subscribers and a 20% off code already emailed.",
+    "Zeteo is seeking donations from free and paid subscribers to finish production, promising full, paywall‑free access to the film upon release."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260927120114.3.abc52f633e7338c7@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Rogers Tries to Make El-Sayed’s Health Care Plan Scary",
+   "date": "2026-09-27T05:01-07:00",
+   "url": null,
+   "bullets": [
+    "Mike Rogers held a health‑care press conference to attack Democratic nominee Abdul El‑Sayed’s plan, despite Republicans’ recent refusal to extend ACA subsidies that raised insurance costs for over 20 million Americans.",
+    "Rogers aims to frame El‑Sayed’s doctor‑backed proposal as scary, leveraging voter concerns that health‑care costs are a top issue in the Michigan Senate race."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260927104634.3.59a142cceaf6db89@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Booms, Bombs and Bonds: Interest Rates, Part I",
+   "date": "2026-09-27T03:46-07:00",
+   "url": "https://paulkrugman.substack.com/p/booms-bombs-and-bonds-interest-rates",
+   "bullets": [
+    "Krugman notes that recent interest‑rate spikes—reaching levels not seen since the 2000s housing bubble—are driven by a massive AI‑investment boom, amplified by inflationary pressures from the Iran war and a shifting policy narrative.",
+    "He contrasts bond yields with stock prices, arguing that while stocks are fickle and often mis‑predict recessions, bond yields usually convey real economic signals, though analysts currently disagree on their precise meaning."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260926232034.3.9d746579f0171eb9@mg-d1.substack.com",
    "newsletter": "Catherine Rampell - The Bulwark",
@@ -4915,160 +4977,10 @@
     "They rank Republican officials, calling Marco Rubio a catastrophe, RFK Jr. a failure, and Kelly Loeffler “proof that aliens exist” after a viral video, while noting DeSantis’s alleged Medicaid scandal and Florida’s alleged dirty dealings."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260827182852.3.d7f7fd9513c4417b@mg-d0.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "We Are Not Prepared for Election-Denying Swing State Governors",
-   "date": "2026-08-27T11:28-07:00",
-   "url": null,
-   "bullets": [
-    "Republican gubernatorial candidates in swing states, including Pennsylvania’s Stacy Garrity, have backed Trump’s 2020 election fraud claims, threatening electoral integrity if they win.",
-    "Garrity trails incumbent Gov. Josh Shapiro by 16 points among likely voters in a NYT poll, yet gained Trump’s endorsement through a direct phone call, boosting her profile.",
-    "If election‑denying governors win in key swing states, the 2028 presidential election could face heightened risks of contested results and weakened democratic norms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260827174443.3.e16a436ed8cef179@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Conflating Jews with Israel Is Dangerous – Whether by Antisemites, U.S. Politicians, or the Israeli State",
-   "date": "2026-08-27T10:44-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/conflating-jews-with-israel-is-dangerous",
-   "bullets": [
-    "U.S. District Judge Trevor McFadden ruled that the Star of David on Israel’s flag symbolizes the Jewish race, rejecting the claim that the flag represents only the state and not Judaism.",
-    "The author argues that conflating the Israeli flag with Jewish identity fuels antisemitism, noting surveys where 61% of American Jews see Israel committing war crimes and only 36% tie support for Israel to their Jewish identity.",
-    "He likens the misuse of religious symbols on national flags to blaming all Jews for Israel’s actions, just as all Muslims are unfairly blamed for extremist groups."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260827152826.3.24024353fc08453c.3pfstbcw@mg1.substack.com",
-   "newsletter": "Citrini",
-   "pub": "citrini",
-   "subject": "💬 New thread from Citrini Analyst Team",
-   "date": "2026-08-27T08:28-07:00",
-   "url": null,
-   "bullets": [
-    "Nvidia’s new ACIE segment generated $40 billion in Q2 sales, up 138% YoY, confirming the Enterprise Sovereignty thesis that enterprises, sovereigns, and neoclouds are becoming key AI accelerator buyers.",
-    "Nutanix is moving inference in-house, eliminating per‑token costs, and now supports its Cloud Platform on third‑party arrays (Dell, NetApp, Lenovo, Everpure), driving new 7‑figure ACV deals as enterprises repatriate workloads.",
-    "Everpure reported 38% YoY revenue growth and 77% operating profit increase, raising FY2027 guidance above $5 billion and emphasizing “data primacy” – full sovereignty over enterprise data for AI services."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260827152304.3.df9dd21ae11e1fed@mg-d0.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Pete Hegseth Is Building a Pentagon Troll Army",
-   "date": "2026-08-27T08:23-07:00",
-   "url": null,
-   "bullets": [
-    "DataRepublican, the online alias of Utah mom Jennica Pounds, has been a temporary special government employee at the Pentagon since July, a fact revealed after she falsely accused State Dept. official Sarah B. Rogers of treason.",
-    "Pounds’s secret Pentagon role raises concerns about her politically charged posts, including attacks on former Army Secretary Dan Driscoll, and suggests Secretary of Defense Pete Hegseth may be using extremist influencers to target opponents, potentially breaching ethical norms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260827134225.3.454c98581d920d73@mg2.substack.com",
-   "newsletter": "Smart People Talking",
-   "pub": "smartpeopletalking",
-   "subject": "The Barometer LIVE! On Mondays with Rebekah Jones starting Sept. 14",
-   "date": "2026-08-27T06:42-07:00",
-   "url": "https://smartpeopletalking.substack.com/p/the-barometer-live-on-mondays-with",
-   "bullets": [
-    "The author will host a live three‑hour Monday morning stream starting Sept 14, 7‑10 am, covering news, science, tech and social media with guest experts, broadcast on Substack, YouTube and other platforms, with call‑in participation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260827133337.3.138d1f3bb98d58bf@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Coming Midterm Crashout",
-   "date": "2026-08-27T06:33-07:00",
-   "url": null,
-   "bullets": [
-    "The author predicts a decisive midterm defeat for Trump and Republicans on Nov 4, with the GOP likely losing the House and possibly the Senate, ending Trump’s legislative agenda and sparking intense scrutiny.",
-    "Polls show Trump’s key issue approval on border security at -5 and a 49% strong disapproval versus only 17% strong approval, indicating deep voter frustration and a widening enthusiasm gap.",
-    "Trump is urging voters to pretend he’s on the ballot while warning that Republican candidates depend on his endorsement, but the author warns this strategy will backfire and lead to a post‑midterm ‘crashout.’"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260827125806.3.4701d19119681ad4@mg2.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "It’s a team effort",
-   "date": "2026-08-27T05:58-07:00",
-   "url": "https://roycoopernc.substack.com/p/its-a-team-effort",
-   "bullets": [
-    "Roy Cooper urges weekly $5 donations, saying small recurring gifts let the campaign plan ads, voter outreach, and get‑out‑the‑vote efforts in September‑October as GOP spends nearly $100 million against him",
-    "He frames the race as a fight for North Carolina working families, warning that Republican dark‑money allies aim to install Michael Whatley in the U.S. Senate"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260827124950.3.9120a2b17c50c03b@mg2.substack.com",
-   "newsletter": "Citrini",
-   "pub": "citrini",
-   "subject": "Macro Memo: Regime Change",
-   "date": "2026-08-27T05:49-07:00",
-   "url": "https://open.substack.com/pub/citrini/p/macro-memo-regime-change",
-   "bullets": [
-    "Citrini argues that Treasury Secretary Scott Bessent and Fed Chair Kevin Warsh are coordinating a regime change that will shrink the Fed’s balance sheet while expanding bank leverage through liquidity regulation reform, enabling banks to count prepositioned discount‑window collateral as liquid assets and thus issue more loans and securities.",
-    "The plan hinges on a new Treasury‑Fed Accord 2.0 that increases Treasury bill issuance to reduce long‑duration USTs, lower coupons, and boost private‑sector growth, with the Treasury selling bills instead of bonds and the Fed buying them.",
-    "Citrini cites the SVB collapse as evidence that banks lacking proper discount‑window positioning are vulnerable, and argues that recognizing contingent liquidity will transform the banking system by allowing banks to hold less high‑quality liquid assets while maintaining the same LCR, thereby expanding the money supply without tightening monetary policy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260827105716.3.c0a087dad463a46d@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Inside Team Trump’s Plan to Use Michael Cohen to Go After Trump’s Enemies",
-   "date": "2026-08-27T03:57-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/inside-team-trumps-plan-to-use-michael",
-   "bullets": [
-    "Team Trump is reportedly planning to weaponize former fixer Michael Cohen, now seeking a federal pardon, as part of a strategy to target political enemies.",
-    "The author recounts Cohen’s past threats against a Daily Beast reporter, his federal raid, and his role as a key witness in both Letitia James’s civil fraud case and Alvin Bragg’s criminal hush‑money case against Trump.",
-    "The newsletter also notes anti‑vax activist Robert F. Kennedy Jr. deflecting blame for two measles deaths in Pennsylvania and Trump’s upcoming interview with Glenn Beck."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260827103123.3.abd29d2071506c3e@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Biden Derangement Syndrome",
-   "date": "2026-08-27T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/biden-derangement-syndrome",
-   "bullets": [
-    "Krugman argues that the U.S. economy improved under Biden, with inflation falling and growth surpassing other advanced economies, but has deteriorated since Trump’s return, citing slower growth, higher inflation, and rising inequality.",
-    "He accuses Trump’s allies of ‘Biden derangement syndrome,’ blaming Biden for current problems like high gas prices and a weak economy, while noting Trump’s unfulfilled promises to cut energy and grocery costs.",
-    "Krugman warns that Trump’s economic failures are self-inflicted and that the administration’s attempts to blame Biden are desperate, suggesting the political damage will affect Trump’s November approval ratings."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260827020128.3.30e5617e5970e377@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "How Can CNN’s Dana Bash Pretend to Be an Objective Journalist Anymore?",
-   "date": "2026-08-26T19:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/how-can-cnns-dana-bash-pretend-to",
-   "bullets": [
-    "CNN anchor Dana Bash appeared on Bill Maher’s show, nodding to his harsh criticism of Democrats for supporting pro‑Palestinian causes and labeling them as bigoted, while dismissing Gaza as not a genocide.",
-    "Bash’s comments echoed a pattern of partisan bias, aligning with Maher’s pro‑Israel stance and questioning Democratic motives, despite the network’s claim of objective journalism.",
-    "The episode highlights growing accusations that Bash’s reporting on Israel‑Gaza is heavily slanted, undermining her credibility as an impartial journalist."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 87,
-  "total": 368
+  "total": 362
  }
 }
