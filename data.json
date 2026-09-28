@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T18:47-07:00",
+ "updated": "2026-09-28T13:37-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -49,6 +49,157 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260928202015.3.39b460d5f6b02ba7@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "I have nowhere else to turn",
+   "date": "2026-09-28T13:20-07:00",
+   "url": "https://roycoopernc.substack.com/p/i-have-nowhere-else-to-turn",
+   "bullets": [
+    "This Wednesday at midnight is our last quarterly FEC reporting deadline before the election, after which we’re required by law to share our fundraising totals publicly. We have three days left to reach our goal, and we’re running out of tim…",
+    "Experts at Politico say Democratic Senate control hinges on winning in North Carolina, and the NYT reports our campaign is the best chance we have to flip a red seat blue. However, that could all change if we fall short Wednesday night. The…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260928201659.3.ada7975da5fceec6@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Republicans Are Running Away From Trump’s Iran War as Midterms Near",
+   "date": "2026-09-28T13:16-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/republicans-run-away-trump-iran-war",
+   "bullets": [
+    "Trump’s 2023 Iran raid spurred a surge in diesel and gas prices, with a CNN/SSRS poll showing 73% of Americans disapprove of the move, threatening Republican midterm prospects.",
+    "Several GOP candidates who once championed the Iran strike—such as Mike Rogers—now urge an end to the conflict, citing public backlash and the war’s economic toll.",
+    "Rogers, who framed the raid as a “biggest opportunity for peace,” now calls for a swift conclusion, arguing that continued U.S. involvement risks a protracted, costly war."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260928200114.3.7ff24c73769bf6ff@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Trump Said It Out Loud. His Cabinet Says It Never Happened.",
+   "date": "2026-09-28T13:01-07:00",
+   "url": null,
+   "bullets": [
+    "Trump claims he will ban news outlets for negative coverage, but his own officials deny this, insisting no such policy exists, creating a stark contradiction between the president and his staff.",
+    "Todd Blanche defends Trump’s press crackdown by arguing it protects national security, while Mike Waltz is confronted with Trump’s own statements that contradict the official narrative.",
+    "The newsletter notes a shifting story about the U.S. war with Iran, highlighting inconsistencies in the administration’s messaging on foreign policy and media control."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260928183039.3.a5691242dac2b0e8@mg2.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "Trump to Foreign Students: F*ck Off",
+   "date": "2026-09-28T11:30-07:00",
+   "url": null,
+   "bullets": [
+    "Trump promised in June 2024 that U.S. graduates, even those with two‑year associate degrees, would automatically receive green cards to stay and start companies, aiming to keep tech talent in the country.",
+    "He made the pledge during an All‑In podcast after a $12 million fundraiser by Trump‑friendly Silicon Valley figures, including David Sacks, who wanted to attract global talent to U.S. tech firms.",
+    "Despite the promise, Trump failed to implement the policy and instead empowered deputy chief of staff Stephen Miller to undermine efforts to help international graduates remain in the U.S."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260928174123.3.0bf6a4a849df625a@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Trump’s Illegal and Politically Asinine Ad Campaign",
+   "date": "2026-09-28T10:41-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/trumps-very-illegal-and-politically",
+   "bullets": [
+    "The U.S. government spent over $1 million on a Trump‑supporting ad that aired on TV, labeling it a public service announcement but effectively using taxpayer money for political campaigning.",
+    "The ad’s tagline “Paid for by the U.S. Government” violates the Hatch Act, which prohibits government resources from being used for partisan political activity.",
+    "This unprecedented misuse of federal funds is illegal and, according to the author, benefits Democrats by flooding the political landscape with pro‑Trump messaging."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260928165331.3.57b4f55af4ce120c@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Hard Lessons of Springfield",
+   "date": "2026-09-28T09:53-07:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark community raised $351,000 for Springfield’s Haitian community, funding legal help, food, medication, transportation, and rent amid fears of armed state agents and school closures.",
+    "John Legend highlighted Ohio’s historical role in protecting freed slaves, urging the state to emulate that humanitarian legacy for today’s Haitian immigrants and to confront the state’s current inaction and the presence of neo‑Nazi marches in Springfield.",
+    "The author argues that Ohio’s lack of gubernatorial support and the visible support for authoritarianism among some residents undermine community solidarity, calling for a political shift that would hold Trump‑era officials and ICE agents fully accountable under the law."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260928141023.3.2fcef7c77e2b0b39@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "A last-minute invitation",
+   "date": "2026-09-28T07:10-07:00",
+   "url": "https://roycoopernc.substack.com/p/a-last-minute-invitation",
+   "bullets": [
+    "A recent poll shows incumbent Roy Cooper’s lead in North Carolina’s Senate race has shrunk to a statistical tie after GOP super PACs have spent over $100 million on attack ads.",
+    "Cooper is urging supporters to donate $5‑$10 before the end‑of‑quarter deadline to fund grassroots advertising and try to flip the seat and Senate majority for Democrats."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260928140021.3.debe25c1a42c1c12@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "TODAY, 4PM ET: Francesca Albanese Joins Mehdi for a Live Town Hall Q&A",
+   "date": "2026-09-28T07:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/today-4pm-et-francesca-albanese-joins",
+   "bullets": [
+    "Donald Trump is pushing a $2.8 billion weapons deal to send Israel tens of thousands of 2,000‑pound bombs while also seeking to dismantle the International Criminal Court after it issued an arrest warrant for Netanyahu.",
+    "B’Tselem’s new report says Israeli violence in the West Bank amounts to an ‘elimination project,’ with settler attacks at an UN‑noted all‑time high.",
+    "UN Special Rapporteur Francesca Albanese will join Mehdi for a paid‑subscriber Zeteo town‑hall at 4 PM ET to discuss the Gaza genocide and alleged West Bank ‘pogroms,’ with audience Q&A."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260928132656.3.3435ca3a8ef869bd@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "‘We Are Losing Our Soul as a Nation’",
+   "date": "2026-09-28T06:26-07:00",
+   "url": null,
+   "bullets": [
+    "Cardinal Robert McElroy warned that the U.S. has abandoned its historic duty to protect refugees, noting over a million legal residents losing temporary protected status and facing deportation amid rising bigotry.",
+    "Kristol highlighted grassroots support for Haitian immigrants in Springfield, Ohio, where donations surged from $85,000 to over $340,000, underscoring community backlash against harsh immigration enforcement.",
+    "He warned that the upcoming primaries offer a chance to replace many political representatives who tolerate or enable this ‘evil’ against immigrants."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260928111143.3.9671c44120606b03@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Iran Prepares For a ‘Doomsday’ War, as Trump Shoots His Mouth Off. What Could Possibly Go Wrong?",
+   "date": "2026-09-28T04:11-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/iran-prepares-for-a-doomsday-war",
+   "bullets": [
+    "🚨 TOWN HALL: Join Mehdi at 4pm ET today for an exclusive Zeteo live Town Hall Q&A with UN special rapporteur Francesca Albanese. They’ll discuss the latest from Palestine and take your questions! Paid subscribers: scroll down for the Zoom r…",
+    "Good morning. Martin here, honored as ever to set out what you need to know this fine Monday morning. Here’s a song [ https://substack.com/redirect/8a872b39-e148-41ca-b75b-1eab7107ce37?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20260928103441.3.52f5465c6d648892@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "I Approve of Trump’s Ad",
+   "date": "2026-09-28T03:34-07:00",
+   "url": "https://paulkrugman.substack.com/p/i-approve-of-trumps-ad",
+   "bullets": [
+    "Krugman notes Democrats and rule‑of‑law advocates are outraged that the U.S. government effectively rebroadcast a 2024 Trump campaign ad.",
+    "He points out the ad reminds voters Trump is on the ballot, cites his still‑high approval rating, and highlights Trump’s pledge to ‘expel the warmongers.’",
+    "Krugman sarcastically suggests the ad’s creators might be ‘deep‑state moles’ influencing Trump’s messaging."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260927235516.3.61ad7a2681c1d42d@mg-d1.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
@@ -4829,158 +4980,10 @@
     "Rob Sand’s gubernatorial race in Iowa is examined, noting his moderate stance and the strategic importance of the state’s swing voters for the 2024 election cycle."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260828203601.3.5c84dca2a3da887c@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "6 Months of Trump Iran War Lies, In 7 Charts",
-   "date": "2026-08-28T13:36-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/6-months-of-trump-iran-war-lies-in",
-   "bullets": [
-    "Trump claimed the Iran war would last four weeks, but data shows it has exceeded that timeframe, continuing beyond the projected end date.",
-    "Trump dismissed rising gas prices as ‘not very high’, yet EIA data shows a 30% increase from $3 to over $4 per gallon, peaking at $4.60 in May 2026.",
-    "The newsletter critiques Trump’s narrative that the war is a U.S. triumph, presenting statistics that contradict his assertions of safety, wealth, and progress."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260828190109.3.0d340cd52339f750@mg2.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Dolly Parton’s Literacy Miracle",
-   "date": "2026-08-28T12:01-07:00",
-   "url": null,
-   "bullets": [
-    "Dolly Parton’s Imagination Library has delivered over 332 million books to nearly 3.2 million children, but recent state budget cuts in Indiana, Kentucky, Maine, and Missouri threaten its funding.",
-    "The program relies heavily on government grants; Indiana eliminated its match, Kentucky proposed halving support before restoring it after backlash, Maine lost funding entirely, and Missouri cut $4 million for 2027.",
-    "The author urges politicians to champion increased public funding for the Imagination Library and invites readers to donate via local partner organizations."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260828153019.3.26b586653c91631b@mg-d0.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "How Dems Can Win on Immigration in November",
-   "date": "2026-08-28T08:30-07:00",
-   "url": null,
-   "bullets": [
-    "A Reuters/Ipsos poll shows only 37% approve of Trump’s immigration handling, opening a 19‑point gap Democrats could exploit by framing immigration as pro‑worker and economically beneficial\",\"Winning Jobs Narrative research found two top messages boost Democratic support by ~2 points: highlighting immigrant tax contributions versus billionaire gains, and contrasting ICE spending with cuts to food/health benefits\",\"The memo warns Democrats to avoid four traps—silence, pure compassion without economics, harm‑only narratives, and over‑emphasizing enforcement—and instead use faith‑leader‑style, economic‑interdependence messaging to win working‑class voters."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260828150554.3.648eb39d727e4b4d@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "‘I Am an American Citizen Under Siege by Israeli Settler Extremists’",
-   "date": "2026-08-28T08:05-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/i-am-an-american-citizen-under-siege",
-   "bullets": [
-    "American Ohio resident Loui Ridi was trapped in his Qusra home for nearly three weeks as Israeli settlers encircled the house, while U.S.‑funded Israeli soldiers and the Israeli military declared the area a closed zone, preventing residents from leaving or meeting neighbors.",
-    "Ridi planted an American flag on his rooftop to deter settlers, who would raise a yellow flag if they took over; U.S. Ambassador Mike Huckabee condemned the siege but no substantive action was taken to stop the settlers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260828140049.3.5b16890de3157969@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Pounding the pavement and putting on the mileage",
-   "date": "2026-08-28T07:00-07:00",
-   "url": "https://roycoopernc.substack.com/p/pounding-the-pavement-and-putting",
-   "bullets": [
-    "Roy Cooper’s Senate campaign is touring North Carolina to highlight rising costs of groceries, gas, and housing, urging voters that “stuff costs too much” and Washington is indifferent.",
-    "He asks supporters to donate $5 to meet a $2 million fundraising deadline by Monday night, needed to fund travel, gas, materials, and organizers for the final 70‑day push.",
-    "Cooper cites his record as governor—expanding Medicaid, raising teacher pay, creating jobs, and adding paid parental leave—as proof he will put people before power in the Senate."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260828133531.3.37d6c619ac27de7f@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A Dream Delayed Will Not Be a Dream Denied",
-   "date": "2026-08-28T06:35-07:00",
-   "url": null,
-   "bullets": [
-    "Bill Kristol recounts a moving scene at Reagan National Airport where WWII, Korean, and Vietnam veterans were honored by spontaneous standing ovations, symbolizing a hopeful unity between veterans of democracy and civil rights.",
-    "He contrasts this moment of national solidarity with the current administration’s perceived regression of civil rights, arguing that the president’s policies threaten the promises of the Constitution and the American dream.",
-    "Kristol urges readers to remember Martin Luther King Jr.’s 1963 speech and to believe that, despite recent setbacks, the nation can once again achieve the freedom and equality promised by the founding documents."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260828111423.3.a08d21086a822480@mg-d0.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Two more kids die. And one more theater show.",
-   "date": "2026-08-28T04:14-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/two-more-kids-die-and-one-more-theater",
-   "bullets": [
-    "The 2023 measles outbreak in West Texas, fueled by underfunded local health departments, grew to over 900 reported cases—likely ten times higher—causing two child deaths and sparking a national anti‑vaccine backlash featuring RFK Jr.’s Children’s Health Defense and misleading media narratives about the cause of death.",
-    "In Pennsylvania, two more children died from measles this week amid a chaotic response that included political interference, poor communication, and targeted attacks on vaccine trust, illustrating how systemic failures continue to endanger lives."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260828110701.3.f17d0e5fe440f9ce@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "💻🤪 How Stephen Miller Uses Natalie Harp to Help Trump Ratchet Up the Crazy",
-   "date": "2026-08-28T04:07-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/how-stephen-miller-uses-natalie-harp",
-   "bullets": [
-    "Natalie Harp, a 35‑year‑old aide, now controls Trump’s Truth Social feed, feeding him agitprop and acting as the de‑facto replacement for longtime social‑media chief Dan Scavino.",
-    "Senator Jon Ossoff highlighted Harp’s unusual influence, prompting a White House backlash and underscoring how senior officials now route social‑media requests through her instead of texting the president directly.",
-    "Six months after Trump’s promised four‑week war with Iran, he appears disengaged, while Harp’s role in amplifying MAGA messaging grows amid ongoing ethnic‑cleansing reports in places like Springfield, Ohio."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260828103023.3.96bc4e676b5381ac@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Make Geography Great Again",
-   "date": "2026-08-28T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/make-geography-great-again",
-   "bullets": [
-    "Krugman mocks Trump's alleged plans to rename geographic features, proposing absurd alternatives like 'Lethality Ocean' for the Pacific and 'European Heritage Sea' for the Black Sea.",
-    "He frames the piece as a tongue‑in‑cheek 'day off' written after a rainy, exhausting drive, highlighting the satire rather than serious policy analysis."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260828100412.3.314b9d3dd9bb115f@mg-d0.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "MAGA’s 2028 Civil War Is Already Here",
-   "date": "2026-08-28T03:04-07:00",
-   "url": null,
-   "bullets": [
-    "JD Vance’s team believes a coordinated “op” on X and behind‑the‑scenes is trying to sabotage his bid for the 2028 GOP nomination, sparking paranoia among his allies.",
-    "Vance insiders, citing a Trump‑aligned source, say the anti‑Vance effort signals escalating Republican infighting in the post‑Trump era, with the plot framed as a deliberate digital manipulation campaign."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260828090218.3.c27e32b1bae269c7@mg-d1.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Maîtres Chez Nous",
-   "date": "2026-08-28T02:02-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/maitres-chez-nous",
-   "bullets": [
-    "Prime Minister Mark Carney invoked Quebec’s 1962 “Maîtres Chez Nous” slogan during a press conference to frame the US‑Canada trade collapse as an existential, nationalist fight, echoing historic anti‑anglophone sentiment.",
-    "Carney’s move signals a hard‑line stance to protect politically sensitive domestic industries amid Trump‑driven trade tensions, betting on upcoming US midterms to pressure a favorable deal.",
-    "The author warns that Carney’s recent shift from climate advocate to hydrocarbon ally foreshadows a pipeline construction boom in Canada, reshaping global energy flows."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 86,
+  "shown": 89,
   "total": 362
  }
 }
