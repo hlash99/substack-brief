@@ -1,21 +1,18 @@
 {
- "updated": "2026-09-27T11:31-07:00",
+ "updated": "2026-09-27T18:47-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The flood of dark‑money super PAC spending is turning key Senate races in North Carolina and Georgia into high‑stakes battles, with GOP groups pouring over $100 million in NC and $500 million in GA to attack incumbents (Roy Cooper, Jon Ossoff).",
-   "A surge in U.S. interest rates driven by an AI investment boom and war‑related inflation is reshaping bond markets and raising mortgage costs, signaling deeper economic stress (Paul Krugman, Catherine Rampell).",
-   "Israel’s ongoing war tactics, including the use of “skunk water” and home demolitions, are intensifying humanitarian crises and drawing global criticism (Zeteo, This Week in Palestine).",
-   "Republican leaders are scrambling to defend Trump’s unpopular policies—such as a proposed diesel export ban and aggressive press bans—while facing internal dissent over the Iran war and rising fuel prices (The Bulwark, Dan Pfeiffer).",
-   "Zeteo’s new documentary on AIPAC highlights the pro‑Israel lobby’s outsized influence on recent midterms, underscoring concerns about foreign‑policy lobbying in U.S. elections (Zeteo)."
+   "The looming midterm battles are being defined by unprecedented GOP dark‑money floods that could tip Senate control in Georgia and North Carolina, prompting Democrats like Ossoff and Cooper to launch emergency fundraising drives (Jon Ossoff, Roy Cooper).",
+   "Trump’s authoritarian push is escalating, from banning White House reporters and deploying taxpayer‑funded “Love Me” ads to legal‑type confinement of migrants, raising alarms about a slide toward fascist governance by law (The Bulwark, Zeteo).",
+   "The Israel‑Gaza war is intensifying, with reports of “skunk water” attacks on Gaza and widespread demolition in the West Bank, while Netanyahu faces global isolation at the UN (Zeteo).",
+   "Interest‑rate spikes driven by an AI‑investment boom and war‑related inflation are reshaping bond markets, signaling potential recession risks despite volatile stock performance (Paul Krugman).",
+   "Ohio, once a swing state, has become a high‑stakes battleground where Republicans fear for their political survival amid a single dominant local issue, highlighting the fragility of the GOP’s electoral map (Sarah Longwell).",
+   "Legal pathways to authoritarianism are under scrutiny as Zeteo warns that U.S. detention of tens of thousands without criminal records mirrors historic fascist tactics, underscoring the danger of law‑based oppression (Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20260924191107.3.c2b420874c40481c@mg-d1.substack.com",
-   "20260924230120.3.56a36c6d9ebfead4@mg-d1.substack.com",
-   "20260925000238.3.b3dd6edfdd5fc053@mg-d1.substack.com",
-   "20260925013055.3.84a2fc972608c9de@mg-d1.substack.com",
    "20260925100132.3.52ac1b83d00394b7@mg-d0.substack.com",
    "20260925103130.3.172139b5b1ba31e0@mg2.substack.com",
    "20260925112457.3.1dd479f1cc3410dc@mg2.substack.com",
@@ -43,12 +40,56 @@
    "20260927120114.3.abc52f633e7338c7@mg2.substack.com",
    "20260927140242.3.8006c30527a27851@mg-d0.substack.com",
    "20260927153329.3.7db83db0ff786216@mg-d0.substack.com",
-   "20260927173254.3.486c2d319546a2f1@mg2.substack.com"
+   "20260927173254.3.486c2d319546a2f1@mg2.substack.com",
+   "20260927203332.3.758a886338ed98c1@mg-d1.substack.com",
+   "20260927230236.3.44b51d2a23adc0c1@mg-d0.substack.com",
+   "20260927235516.3.61ad7a2681c1d42d@mg-d1.substack.com"
   ],
-  "updated": "2026-09-27T11:31-07:00",
+  "updated": "2026-09-27T18:47-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260927235516.3.61ad7a2681c1d42d@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Could a Wave THIS Big Actually Happen?",
+   "date": "2026-09-27T16:55-07:00",
+   "url": null,
+   "bullets": [
+    "In 2014, DCCC chair Steve Israel warned Democrats that defending the Senate and limiting GOP House gains was like landing a plane in a hurricane, foreshadowing a disastrous midterm for the party.",
+    "The newsletter argues that Republicans now face a similar ‘hurricane’ scenario, with Donald Trump’s approval at historic lows, escalating crises, and an expanding slate of vulnerable seats.",
+    "It suggests the 2014 Democratic wipeout offers a cautionary parallel for today’s GOP, implying a potentially massive electoral wave against them."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260927230236.3.44b51d2a23adc0c1@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Fascism Doesn’t Always Arrive by Force. Sometimes It Comes as Law",
+   "date": "2026-09-27T16:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/fascism-doesnt-always-arrive-by-force",
+   "bullets": [
+    "The newsletter argues that fascism can arise through legal mechanisms, citing Nazi‑occupied Europe where ghettos were established by law to isolate Jews and Roma before deportation.",
+    "It highlights that the U.S. now detains over 65,000 people—70% without criminal records—in federal camps, suggesting a legal pathway could enable authoritarian confinement similar to historical fascist regimes."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260927203332.3.758a886338ed98c1@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Something Very Strange Is Going On With Kimberly Guilfoyle in Europe",
+   "date": "2026-09-27T13:33-07:00",
+   "url": null,
+   "bullets": [
+    "Rampell and Sommer expose Trump’s intensified assault on the White House press corps, noting the rise of a DIY MAGA media pool supplanting traditional reporters.",
+    "They detail Rep. Byron Donalds’ uneasy effort to distance himself from Trump amid growing intra‑party tensions.",
+    "The piece outlines Kimberly Guilfoyle’s chaotic stint as U.S. ambassador to Greece, citing a shady lobbyist, dubious energy deals, a midnight Albania trip, a failed vodka venture, and an alarming warning she delivered to a U.S. ally."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260927173254.3.486c2d319546a2f1@mg2.substack.com",
    "newsletter": "Roy Cooper",
@@ -4936,51 +4977,10 @@
     "The author warns that Carney’s recent shift from climate advocate to hydrocarbon ally foreshadows a pipeline construction boom in Canada, reshaping global energy flows."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260828003437.3.1ea3f3d3579ed16a@mg-d1.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Dawn of FAFO Economics",
-   "date": "2026-08-27T17:34-07:00",
-   "url": null,
-   "bullets": [
-    "A CBS News/YouGov poll finds nearly two‑thirds of Americans, including 54% of Republicans, support government price controls on goods and services.",
-    "The author warns that historical examples—from the Soviet Union to 1970s U.S.—show price controls cause shortages and black markets, contradicting claims by Trump and Elizabeth Warren.",
-    "Despite lacking evidence, politicians are pushing price‑setting policies, banking on public opinion rather than economic analysis."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260828000028.3.d7199c67da9ff7a2@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "How Trump Lost the Iran War in Every Way Possible in Less Than 6 Months",
-   "date": "2026-08-27T17:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/how-trump-lost-iran-war-six-months",
-   "bullets": [
-    "Trump’s “40‑day war” against Iran failed to stop Tehran’s attacks on regional shipping, and after four months of half‑hearted bombings and two U.S. blockades, Iran now controls roughly a third of Strait of Hormuz traffic and shoots at “unauthorized” vessels with impunity.",
-    "The administration shifted from impossible regime‑change goals to a more realistic, yet horrifying, aim of regime collapse, a strategy embraced by Netanyahu but abandoned by Trump after Kurdish uprisings faltered, culminating in an April ceasefire that tacitly admitted bombing could not destroy the Iranian state.",
-    "Former DNI Tulsi Gabbard warned regime change was unrealistic and that Iran would close the Strait, while Joint Chiefs Chairman Dan Caine cautioned limited air‑defense munitions and U.S. casualty risks, yet Trump persisted in a war to reopen the strait and lower gas prices, ultimately losing on all fronts within six months."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260827213311.3.d7451a862693ebfe@mg-d1.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Sam Stein Used to Be a Thief",
-   "date": "2026-08-27T14:33-07:00",
-   "url": null,
-   "bullets": [
-    "Tim Miller and guest Sam Stein debate the surge in ICE arrests, citing a New York Times article that shows a sharp rise in detentions across the U.S. and questioning Trump’s immigration policy.",
-    "They rank Republican officials, calling Marco Rubio a catastrophe, RFK Jr. a failure, and Kelly Loeffler “proof that aliens exist” after a viral video, while noting DeSantis’s alleged Medicaid scandal and Florida’s alleged dirty dealings."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 87,
+  "shown": 86,
   "total": 362
  }
 }
