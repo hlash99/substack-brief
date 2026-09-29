@@ -1,30 +1,17 @@
 {
- "updated": "2026-09-28T13:37-07:00",
+ "updated": "2026-09-28T19:37-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The looming midterm battles are being defined by unprecedented GOP dark‑money floods that could tip Senate control in Georgia and North Carolina, prompting Democrats like Ossoff and Cooper to launch emergency fundraising drives (Jon Ossoff, Roy Cooper).",
-   "Trump’s authoritarian push is escalating, from banning White House reporters and deploying taxpayer‑funded “Love Me” ads to legal‑type confinement of migrants, raising alarms about a slide toward fascist governance by law (The Bulwark, Zeteo).",
-   "The Israel‑Gaza war is intensifying, with reports of “skunk water” attacks on Gaza and widespread demolition in the West Bank, while Netanyahu faces global isolation at the UN (Zeteo).",
-   "Interest‑rate spikes driven by an AI‑investment boom and war‑related inflation are reshaping bond markets, signaling potential recession risks despite volatile stock performance (Paul Krugman).",
-   "Ohio, once a swing state, has become a high‑stakes battleground where Republicans fear for their political survival amid a single dominant local issue, highlighting the fragility of the GOP’s electoral map (Sarah Longwell).",
-   "Legal pathways to authoritarianism are under scrutiny as Zeteo warns that U.S. detention of tens of thousands without criminal records mirrors historic fascist tactics, underscoring the danger of law‑based oppression (Zeteo)."
+   "Trump’s authoritarian push is escalating, from AI‑generated party videos and bans on the press to taxpayer‑funded \"Love Me\" ads that violate the Hatch Act, a story covered by The Bulwark, The Message Box, and Paul Krugman.",
+   "Midterm elections have become a high‑stakes showdown, with GOP super‑PACs pouring over $100 million into North Carolina, Georgia, and Ohio races, while Democrats scramble for grassroots dollars, as reported by Roy Cooper, Jon Ossoff, and The Bulwark.",
+   "The fallout from Trump’s 2023 Iran raid is hurting the GOP, driving up diesel and gas prices and prompting candidates to distance themselves from the war, a trend highlighted by Zeteo.",
+   "Humanitarian crises are front‑and‑center: Springfield’s Haitian community is receiving massive relief efforts (The Bulwark), while Israel’s intensified tactics in Gaza and the West Bank spark international condemnation (Zeteo).",
+   "Voter disengagement from policy is deepening, with analysts like Dan Pfeiffer (The Message Box) noting that personal benefit now outweighs substantive platforms, a concern echoed by Paul Krugman’s commentary on the Trump ad controversy."
   ],
   "by": "groq",
   "ids": [
-   "20260925100132.3.52ac1b83d00394b7@mg-d0.substack.com",
-   "20260925103130.3.172139b5b1ba31e0@mg2.substack.com",
-   "20260925112457.3.1dd479f1cc3410dc@mg2.substack.com",
-   "20260925132639.3.cf77b73e6fa636e0@mg-d1.substack.com",
-   "20260925150403.3.b033fa77e49686e9@mg-d0.substack.com",
-   "20260925165335.3.5495ceef1ea4ef87@mg-d1.substack.com",
-   "20260925180056.3.f074b21f9672b81d@mg-d1.substack.com",
-   "20260925185811.3.275f055991f57af0@mg-d0.substack.com",
-   "20260925194042.3.7a919ebdd92aa00f@mg-d0.substack.com",
-   "20260925223033.3.26d9bf8faafc2b1e@mg-d0.substack.com",
-   "20260926000146.3.c99e9edc3cdf65d6@mg-d1.substack.com",
-   "20260926004037.3.1abf0fdfa354f720@mg-d0.substack.com",
    "20260926103304.3.5e054e51997e34b6@mg-d1.substack.com",
    "20260926113133.3.bf4a852590b72a3d@mg-d1.substack.com",
    "20260926123226.3.d0db8da46ed3b2a7@mg-d1.substack.com",
@@ -43,12 +30,37 @@
    "20260927173254.3.486c2d319546a2f1@mg2.substack.com",
    "20260927203332.3.758a886338ed98c1@mg-d1.substack.com",
    "20260927230236.3.44b51d2a23adc0c1@mg-d0.substack.com",
-   "20260927235516.3.61ad7a2681c1d42d@mg-d1.substack.com"
+   "20260927235516.3.61ad7a2681c1d42d@mg-d1.substack.com",
+   "20260928103441.3.52f5465c6d648892@mg-d1.substack.com",
+   "20260928132656.3.3435ca3a8ef869bd@mg2.substack.com",
+   "20260928140021.3.debe25c1a42c1c12@mg-d1.substack.com",
+   "20260928141023.3.2fcef7c77e2b0b39@mg2.substack.com",
+   "20260928165331.3.57b4f55af4ce120c@mg-d0.substack.com",
+   "20260928174123.3.0bf6a4a849df625a@mg-d1.substack.com",
+   "20260928183039.3.a5691242dac2b0e8@mg2.substack.com",
+   "20260928200114.3.7ff24c73769bf6ff@mg-d0.substack.com",
+   "20260928201659.3.ada7975da5fceec6@mg-d0.substack.com",
+   "20260928202015.3.39b460d5f6b02ba7@mg2.substack.com",
+   "20260929001622.3.1683b74b084f49ed@mg-d1.substack.com"
   ],
-  "updated": "2026-09-27T18:47-07:00",
+  "updated": "2026-09-28T19:37-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260929001622.3.1683b74b084f49ed@mg-d1.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Bizarro White House Vid Has QAnon Buzzing",
+   "date": "2026-09-28T17:16-07:00",
+   "url": null,
+   "bullets": [
+    "Dan Scavino, Trump’s deputy chief of staff, posted an AI‑generated six‑second video of himself and Eric Trump drunkenly partying on a luggage cart, set to Pitbull’s “Don’t Stop the Party,” sparking bipartisan outrage amid rising oil prices and mortgage rates",
+    "The clip, billed by Scavino as a “post State Dinner party,” was condemned by Republicans like former Senate candidate Kathy Barnette as “stupid” and used by liberals to mock Trump’s inner circle",
+    "QAnon supporters, however, celebrated the video, interpreting it as confirmation of their pro‑Trump conspiracy narratives"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260928202015.3.39b460d5f6b02ba7@mg2.substack.com",
    "newsletter": "Roy Cooper",
@@ -57,10 +69,10 @@
    "date": "2026-09-28T13:20-07:00",
    "url": "https://roycoopernc.substack.com/p/i-have-nowhere-else-to-turn",
    "bullets": [
-    "This Wednesday at midnight is our last quarterly FEC reporting deadline before the election, after which we’re required by law to share our fundraising totals publicly. We have three days left to reach our goal, and we’re running out of tim…",
-    "Experts at Politico say Democratic Senate control hinges on winning in North Carolina, and the NYT reports our campaign is the best chance we have to flip a red seat blue. However, that could all change if we fall short Wednesday night. The…"
+    "The campaign has three days to meet its FEC quarterly fundraising deadline before the election, fearing a shortfall could jeopardize the Democratic bid to flip North Carolina’s Senate seat, which Politico says is pivotal for Senate control.",
+    "Recent polls show Republican Michael Whatley closing in, while GOP groups are spending tens of millions on attack ads that amplify Trump’s false claims about Roy Cooper, prompting an urgent $5‑plus donation request."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260928201659.3.ada7975da5fceec6@mg-d0.substack.com",
@@ -4952,38 +4964,10 @@
     "Moulton’s attacks—including controversial remarks about trans athletes and a contentious AI debate exchange—failed to resonate with focus‑group participants, revealing Democratic voters prioritize policy over generational messaging."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260829010100.3.652c5c33cf961b15@mg-d1.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 84: Trump Admin Plans Largest Visa Revocations in History as ICE Arrests Reach Recor…",
-   "date": "2026-08-28T18:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-84-trump",
-   "bullets": [
-    "The Trump administration plans to revoke up to 200,000 business and tourist visas for asylum seekers from 2016‑2026, the largest mass visa revocation in U.S. history.",
-    "ICE arrested nearly 50,000 people in July—a 15% rise from June and the highest monthly total since Trump returned to office, with 20,000 arrests in Texas and Florida.",
-    "The Supreme Court temporarily allowed Trump’s executive order restricting mail‑in voting, but a lower court quickly blocked it again, leaving the case poised for another Supreme Court review as the 2024 midterms approach."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260828205525.3.bf91aaf2098a644a@mg-d0.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Mark Cuban Thinks He Could Run as a Republican. Tim Has Some Bad News.",
-   "date": "2026-08-28T13:55-07:00",
-   "url": null,
-   "bullets": [
-    "Mark Cuban claims he could run for president as a Republican, but Tim argues the GOP lacks the infrastructure and base to support a billionaire outsider, citing his past political missteps and low name recognition.",
-    "Sarah discusses her book with the New York Times, revealing her focus on how Democratic voters are shifting toward pragmatic, anti-establishment policies, and she highlights specific policy areas that resonate with them.",
-    "Rob Sand’s gubernatorial race in Iowa is examined, noting his moderate stance and the strategic importance of the state’s swing voters for the 2024 election cycle."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 89,
-  "total": 362
+  "shown": 86,
+  "total": 361
  }
 }
