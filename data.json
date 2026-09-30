@@ -1,28 +1,18 @@
 {
- "updated": "2026-09-29T12:30-07:00",
+ "updated": "2026-09-29T19:13-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s authoritarian push is escalating, from AI‑generated party videos and bans on the press to taxpayer‑funded \"Love Me\" ads that violate the Hatch Act, a story covered by The Bulwark, The Message Box, and Paul Krugman.",
-   "Midterm elections have become a high‑stakes showdown, with GOP super‑PACs pouring over $100 million into North Carolina, Georgia, and Ohio races, while Democrats scramble for grassroots dollars, as reported by Roy Cooper, Jon Ossoff, and The Bulwark.",
-   "The fallout from Trump’s 2023 Iran raid is hurting the GOP, driving up diesel and gas prices and prompting candidates to distance themselves from the war, a trend highlighted by Zeteo.",
-   "Humanitarian crises are front‑and‑center: Springfield’s Haitian community is receiving massive relief efforts (The Bulwark), while Israel’s intensified tactics in Gaza and the West Bank spark international condemnation (Zeteo).",
-   "Voter disengagement from policy is deepening, with analysts like Dan Pfeiffer (The Message Box) noting that personal benefit now outweighs substantive platforms, a concern echoed by Paul Krugman’s commentary on the Trump ad controversy."
+   "The GOP is unraveling as Trump’s Iran raid sparks widespread disapproval, with former supporters urging an end to the conflict and the party’s midterm prospects slipping (The Bulwark, Zeteo).",
+   "Israel’s war on Gaza continues unabated, with UN experts like Francesca Albanese calling it a genocide and U.S. officials pushing a $2.8 billion weapons deal that could deepen the crisis (Zeteo, The Bulwark).",
+   "The North Carolina Senate race has become a high‑stakes battle, as Democratic incumbent Roy Cooper faces a $100 million attack‑ad onslaught from GOP super PACs and a looming fundraising deadline (Roy Cooper, The Bulwark).",
+   "Trump’s administration is misusing federal resources for partisan ads, violating the Hatch Act and raising questions about the integrity of government communications (The Message Box, The Bulwark).",
+   "Interest rates have spiked to levels unseen since the 2000s housing bubble, driven by an AI‑investment boom and inflationary pressures from the Iran war, threatening to reshape the economic landscape (Paul Krugman).",
+   "The U.S. is increasingly detaining non‑criminals in federal camps, a legal pathway that could pave the way for authoritarian confinement reminiscent of historical fascist regimes (Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20260926103304.3.5e054e51997e34b6@mg-d1.substack.com",
-   "20260926113133.3.bf4a852590b72a3d@mg-d1.substack.com",
-   "20260926123226.3.d0db8da46ed3b2a7@mg-d1.substack.com",
-   "20260926130256.3.d046c186c9040509@mg-d1.substack.com",
-   "20260926130323.3.b01212c024bec928@mg-d1.substack.com",
-   "20260926134132.3.f0c82f15c15fb8b2@mg-d1.substack.com",
-   "20260926150455.3.dbb3394e7b23745e@mg-d1.substack.com",
-   "20260926170208.3.432b50dc87c1599e@mg-d0.substack.com",
-   "20260926173032.3.7cb4713802233377@mg-d1.substack.com",
-   "20260926182216.3.eed50d39eba38144@mg-d0.substack.com",
-   "20260926232034.3.9d746579f0171eb9@mg-d1.substack.com",
    "20260927104634.3.59a142cceaf6db89@mg2.substack.com",
    "20260927120114.3.abc52f633e7338c7@mg2.substack.com",
    "20260927140242.3.8006c30527a27851@mg-d0.substack.com",
@@ -32,6 +22,7 @@
    "20260927230236.3.44b51d2a23adc0c1@mg-d0.substack.com",
    "20260927235516.3.61ad7a2681c1d42d@mg-d1.substack.com",
    "20260928103441.3.52f5465c6d648892@mg-d1.substack.com",
+   "20260928111143.3.9671c44120606b03@mg2.substack.com",
    "20260928132656.3.3435ca3a8ef869bd@mg2.substack.com",
    "20260928140021.3.debe25c1a42c1c12@mg-d1.substack.com",
    "20260928141023.3.2fcef7c77e2b0b39@mg2.substack.com",
@@ -41,12 +32,70 @@
    "20260928200114.3.7ff24c73769bf6ff@mg-d0.substack.com",
    "20260928201659.3.ada7975da5fceec6@mg-d0.substack.com",
    "20260928202015.3.39b460d5f6b02ba7@mg2.substack.com",
-   "20260929001622.3.1683b74b084f49ed@mg-d1.substack.com"
+   "20260929001622.3.1683b74b084f49ed@mg-d1.substack.com",
+   "20260929090234.3.fdc4cd4bbc1e7072@mg2.substack.com",
+   "20260929100319.3.02322611618ec7d4@mg-d0.substack.com",
+   "20260929103110.3.a6ca538d6b8591bb@mg2.substack.com",
+   "20260929110848.3.dfc47ae95eddeb31@mg-d0.substack.com",
+   "20260929112207.3.4980c1ea85897a92@mg-d0.substack.com",
+   "20260929132819.3.8efc740245b33430@mg2.substack.com",
+   "20260929140203.3.8f7abaeb726fe80e@mg-d0.substack.com",
+   "20260929143112.3.c22d4f4ba6ff4749@mg-d0.substack.com",
+   "20260929163333.3.6beb3e3e02a00184@mg2.substack.com",
+   "20260929165850.3.3e5dccc495b84ede@mg2.substack.com",
+   "20260929170144.3.0888a4cb2f37ac79@mg-d0.substack.com",
+   "20260929190735.3.4d505ddd5609ee9a@mg2.substack.com",
+   "20260929191146.3.11b00fdc3b9b8285@mg-d0.substack.com",
+   "20260929210903.3.039b14506957077e@mg-d1.substack.com",
+   "20260929233622.3.1679bcbdd6c9b700@mg-d1.substack.com",
+   "20260930000225.3.14aa2c6e257b76ed@mg-d0.substack.com"
   ],
-  "updated": "2026-09-28T19:37-07:00",
+  "updated": "2026-09-29T19:13-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20260930000225.3.14aa2c6e257b76ed@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "UN Palestine Expert Francesca Albanese on Being Sanctioned by Trump, Gaza’s Ongoing Genocide, and Netanyahu’s ‘The…",
+   "date": "2026-09-29T17:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/albanese-talks-being-sanctioned",
+   "bullets": [
+    "UN Special Rapporteur Francesca Albanese says the Gaza genocide continues despite a year‑long ceasefire, with survivors still being killed and cut off from the world.",
+    "Albanese, sanctioned by the Trump administration, vows to fight the sanctions with transparency and urges European governments to protect UN experts from political retaliation.",
+    "She criticizes Netanyahu’s recent UN speech as theatrical, links the Iran war to a distraction from Gaza, and previews an upcoming report on media complicity in the genocide."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260929233622.3.1679bcbdd6c9b700@mg-d1.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Things Are Going So Badly for Trump, Even JVL Has Hope",
+   "date": "2026-09-29T16:36-07:00",
+   "url": null,
+   "bullets": [
+    "Marjorie Taylor Greene publicly rejected the GOP’s ‘caravan’ strategy, signaling internal dissent as the party flounders.",
+    "A Marist poll shows Democrats leading the generic congressional ballot by an unusually large margin, sparking talk of a potential 56‑seat Senate gain.",
+    "The hosts speculate Pete Hegseth could become the administration’s scapegoat for the Iran war and question whether Scott Jennings truly spent 30 minutes with Mitch McConnell."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260929210903.3.039b14506957077e@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "This Kash Patel Photo Raises Some VERY Awkward Questions",
+   "date": "2026-09-29T14:09-07:00",
+   "url": null,
+   "bullets": [
+    "The hosts allege that FBI Director Kash Patel was photographed with a former informant suspected of being a double agent, raising concerns about possible corruption and counterintelligence failures in the Trump administration.",
+    "They claim U.S. Ambassador to Greece Kimberly Guilfoyle leveraged a relationship with a Greek lobbyist to pressure officials over energy contracts and threatened to destabilize the Greek government.",
+    "The episode also notes turmoil in FBI leadership after a top deputy’s resignation, suggesting internal instability amid these scandals."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260929191146.3.11b00fdc3b9b8285@mg-d0.substack.com",
    "newsletter": "Joe Perticone - The Bulwark",
@@ -55,10 +104,11 @@
    "date": "2026-09-29T12:11-07:00",
    "url": null,
    "bullets": [
-    "One of the major subplots in American politics over the past half-decade is evangelical Christians—the political constituency without which Trump would have never been elected president—becoming the dog that caught the car. They just haven’…",
-    "The Family Research Council’s Pray Vote Stand Summit was once a marquee political gathering for evangelicals and their allies in politics. But at this year’s event in Leesburg, Virginia, decline was evident everywhere, from the downsized ve…"
+    "Tony Perkins, once an evangelical kingmaker, addressed a sparsely attended Pray Vote Stand Summit in Leesburg, noting that abortions have risen 21% since 2020, driven by mail‑order pills like mifepristone.",
+    "Perkins blamed the Biden administration’s rule allowing abortion pills to be mailed and criticized the Trump administration and GOP for failing to uphold a strong pro‑life stance, despite the party dropping a nationwide ban from its 2024 platform.",
+    "The Family Research Council’s flagship event saw a dramatic drop in high‑profile speakers—only Sen. Josh Hawley appeared in person, with others like Speaker Mike Johnson reduced to Zoom—signaling waning evangelical influence in Trump’s coalition."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260929190735.3.4d505ddd5609ee9a@mg2.substack.com",
@@ -95,10 +145,10 @@
    "date": "2026-09-29T09:58-07:00",
    "url": "https://ossoff.substack.com/p/the-situation-is-serious",
    "bullets": [
-    "I am the only Democratic Senator up for reelection in a state Trump won in 2024. That makes me MAGA’s #1 target. They are going to do anything and everything to replace me with a MAGA puppet.",
-    "If you’re outraged by what’s happening to our country — and you’re ready to fight back — please rush a contribution to my reelection campaign today. Here is the best link to donate: https://secure.actblue.com/donate/ossoff-fr-substack-2026 …"
+    "Jon Ossoff, the only Democratic senator up for reelection in a Trump‑won state, warns he is the top MAGA target and urges immediate donations to his campaign via ActBlue",
+    "He claims the GOP will spend heavily to back Trump ally Mike Collins for the seat, framing the race as critical to national political balance"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260929163333.3.6beb3e3e02a00184@mg2.substack.com",
@@ -134,10 +184,11 @@
    "date": "2026-09-29T07:02-07:00",
    "url": "https://roycoopernc.substack.com/p/we-lost-two-days-of-outreach-to-a",
    "bullets": [
-    "Digital ads are one of the main ways we build and sustain this grassroots campaign. They let us reach voters, donors and concerned North Carolinians in every corner of the state. These ads are one of our most effective tools for mobilizing …",
-    "That’s why this weekend’s setback was such a big deal. Because of a strange technical glitch that was not caused by us, our Facebook ads suddenly went dark, and we weren’t able to run them all weekend. That’s two critical days of voter outr…"
+    "A Facebook glitch halted the campaign's digital ads for two days, cutting voter outreach and fundraising just 35 days before the North Carolina Senate election.",
+    "The loss threatens the campaign's end-of-quarter fundraising deadline, risking a shortfall of hundreds of thousands of dollars as the opponent spends over $100 million from GOP dark‑money super PACs.",
+    "The email urges supporters to donate, even $5, to recover the outreach deficit and meet the fundraising goal before the October 15 absentee‑ballot deadline."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260929132819.3.8efc740245b33430@mg2.substack.com",
@@ -367,10 +418,11 @@
    "date": "2026-09-28T04:11-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/iran-prepares-for-a-doomsday-war",
    "bullets": [
-    "🚨 TOWN HALL: Join Mehdi at 4pm ET today for an exclusive Zeteo live Town Hall Q&A with UN special rapporteur Francesca Albanese. They’ll discuss the latest from Palestine and take your questions! Paid subscribers: scroll down for the Zoom r…",
-    "Good morning. Martin here, honored as ever to set out what you need to know this fine Monday morning. Here’s a song [ https://substack.com/redirect/8a872b39-e148-41ca-b75b-1eab7107ce37?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c…"
+    "Iranian Foreign Minister Abbas Araghchi warned on NBC’s Meet the Press that the U.S. is pushing toward a ‘doomsday’ scenario, using the phrase twice while Trump publicly rejected Iran’s offer to quickly reopen the Strait of Hormuz.",
+    "Trump claimed the Iranian blockade was a self‑inflicted crisis, saying Iran’s economy is collapsing without Hormuz revenue and that his administration has imposed the ‘greatest blockade ever’ despite ongoing UN‑facilitated peace talks.",
+    "In Michigan Senate race, Democrat Abdul El‑Sayed and Republican Mike Rogers are highlighted as competitive candidates, while the newsletter notes Trump’s continued illegal, taxpayer‑funded political posturing ahead of the midterms."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260928103441.3.52f5465c6d648892@mg-d1.substack.com",
@@ -5002,23 +5054,10 @@
     "He estimates the tax gap at $600 billion+ annually—about 40% of the federal deficit—largely driven by high‑income evasion, and claims this unchecked evasion fuels the rise of an oligarchy of the wealthiest 0.01% who now control 19% of all federal political donations."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260829205118.3.37de2eb682adf90b@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Karoline Leavitt Is Getting Out. Why Would Anyone Want Her Job? (w/ George Conway)",
-   "date": "2026-08-29T13:51-07:00",
-   "url": null,
-   "bullets": [
-    "George Conway critiques Karoline Leavitt’s tenure, accusing her of habitual lying, deflecting, and insulting reporters while defending Trump’s indefensible actions without losing composure.",
-    "They discuss potential successors, highlighting CNN’s Scott Jennings as a candidate and questioning whether he could serve as Trump’s next professional gaslighter."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 87,
-  "total": 365
+  "total": 367
  }
 }
