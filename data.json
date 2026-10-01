@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T19:14-07:00",
+ "updated": "2026-10-01T12:38-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -54,6 +54,97 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261001185719.3.6190514b8c16b329@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "This race is different",
+   "date": "2026-10-01T11:57-07:00",
+   "url": "https://roycoopernc.substack.com/p/this-race-is-different",
+   "bullets": [
+    "The campaign just closed its final end‑of‑quarter fundraising deadline before Election Day and is urging supporters to donate $5 to help flip a crucial U.S. Senate seat in North Carolina.",
+    "Volunteer turnout is unprecedented, with many first‑time canvassers, door‑knockers, callers and donors indicating heightened grassroots enthusiasm for change.",
+    "With 33 days remaining until the November 3 election, the team is intensifying outreach to secure a course‑correcting victory in Washington."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261001163900.3.898b87b249203496@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Oil Risk Premiums Are BACK! 🤯",
+   "date": "2026-10-01T09:39-07:00",
+   "url": null,
+   "bullets": [
+    "I know what kind of candy my audience wants and today I’m here to give it to you: Some HOT TALK about risk premiums and the bond market. Look: I understand. We’re one month from the midterms. Donald Trump is stealing money, oil, and gold fr…",
+    "But here’s my pitch: This risk premium stuff is driving both the price of oil and mortgage rates—which means that it is absolutely driving the political dynamic that’s going to determine the election results and set us on the course for the…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261001145842.3.ed71cda02fcfa7e0@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Daily Wire Is Quietly Shooting a Pro-ICE Movie. We Got the Script.",
+   "date": "2026-10-01T07:58-07:00",
+   "url": "http://open.substack.com/pub/esotericshaggyism/p/the-deconstruction-of-candace-owens-realcandaceo-lesbian-exposed-history",
+   "bullets": [
+    "Daily Wire’s new pro‑ICE film, working title Pawn Shop, is a Montana shoot depicting an Antifa siege of a Minneapolis pawn shop, mirroring Ben Shapiro’s earlier anti‑Muslim movie Run Hide Fight: Infidels and is expected to flop like its predecessor; the script shows stereotypical anti‑ICE violence, an MS‑13 boss, a Renée Good stand‑in, and a Korean rooftop scene, with locals in Livingston protesting the shoot.",
+    "The film’s production has sparked local disruption in Livingston, Montana, where residents honked and protested the shoot, warning the Daily Wire not to film there, reflecting community backlash against the overtly partisan content."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261001135335.3.13964e508dcd6445@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "YLE Northeast coming soon!",
+   "date": "2026-10-01T06:53-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/yle-northeast-coming-soon",
+   "bullets": [
+    "I’m SO incredibly excited to announce the launch of a Northeast region YLE newsletter—a geography-based spinoff that will translate relevant public health science for local communities, helping them make evidence-based decisions. After all,…",
+    "While I love writing the national newsletter (and this will continue!), what happens locally impacts your health far more. I envision a world where, much like meteorologists translate real-time data to empower and prepare communities for th…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261001133235.3.c9046b2789e8f9c0@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump + AI = Blue Tsunami",
+   "date": "2026-10-01T06:32-07:00",
+   "url": null,
+   "bullets": [
+    "Quinnipiac poll shows Trump approval at 34% versus 61% disapproval, with Democrats leading the generic congressional ballot by 12 points, a 14‑point swing that could trigger a Democratic wave; 71% of voters favor stricter AI guardrails, 79% prioritize safety over innovation, and only 25% approve of Trump’s AI handling, shifting 42% toward Democrats on the issue."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261001111208.3.3b87c43130d173ba@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "📉 Top Republicans Privately Admit Their Hasan Piker Attacks Are a Dud",
+   "date": "2026-10-01T04:12-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/top-republicans-privately-admit-their",
+   "bullets": [
+    "Republican insiders say their anti-Hasan Piker campaign is ineffective, citing internal polling that shows no voter impact and describing the strategy as a wasted effort\",\"Party elites are increasingly alarmed by Trump’s poor poll numbers and fear the 2026 midterms could be a catastrophic loss for the GOP\",\"Defense Secretary Pete Hegseth delivered a controversial speech and promoted a dubious book to a military audience in Virginia, drawing criticism from observers"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261001110917.3.d07005e65be448cc@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "A Globalist Comeback?",
+   "date": "2026-10-01T04:09-07:00",
+   "url": "https://paulkrugman.substack.com/p/a-globalist-comeback",
+   "bullets": [
+    "Jamie Dimon’s Wall Street Journal op‑ed urges a US‑EU free‑trade pact to rebuild the Western alliance against China, signaling a shift away from MAGA’s anti‑globalism stance.",
+    "He frames the proposal to appeal to economic conservatives, citing the Draghi Report’s reforms, but notes Europe only trades ~3% of its output with the US, limiting immediate gains.",
+    "Krugman argues Dimon’s timing reflects expectations of a Democratic congressional win and a post‑Trump president willing to restore trade ties and political bonds."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261001001757.3.1dff673dc59d1f41@mg2.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
@@ -5083,66 +5174,10 @@
     "The officials said they are speaking out because they are appalled by what they call ‘nothing but lies and distortions’ in the administration’s public narrative."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260831163916.3.8cb05d0236b040ac@mg-d1.substack.com",
-   "newsletter": "Sam Stein—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "You Won’t Believe What Marjorie Taylor Greene Did | The Trio",
-   "date": "2026-08-31T09:39-07:00",
-   "url": null,
-   "bullets": [
-    "Milo Yiannopoulos was detained by ICE, with Laura Loomer claiming credit, sparking a chaotic reaction within the MAGA community; the trio highlights the bizarre fallout and internal disputes.",
-    "A KKK/Nazi-linked staffer was uncovered in the orbit of Georgia Senate candidate Mike Collins, raising concerns about extremist influence in state politics.",
-    "Marjorie Taylor Greene delivered a shocking message to JVL, and Colorado gubernatorial nominee Victor Marx is entangled in a new, perplexing saga, both detailed in the commentary."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260831132904.3.7955e7c5174ede60@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Cruelty Comes to Springfield",
-   "date": "2026-08-31T06:29-07:00",
-   "url": null,
-   "bullets": [
-    "The U.S. bombed Iranian troops on Larak Island attempting to mine the Strait of Hormuz, killing several, prompting Iranian fire at U.S. bases in Jordan and UAE and nudging oil prices up, while senior military leaders warn Defense Secretary Pete Hegseth that large‑scale attacks on Iran are becoming unsustainable.",
-    "In Springfield, Ohio, ICE arrested 34 Haitians—including two pastors—over a month, shackling them with ankle monitors despite pending asylum claims, spurring a grassroots mobilization at Greater Grace Temple that organized food, legal aid, and a “Unshackle Springfield” protest.",
-    "Activists raised funds for the Haitian Support Center, called Republican officials, and highlighted the historical trauma of ankle monitors, while local clergy and the NAACP condemned the raids as anti‑Black containment and urged community support."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260831111840.3.95d87aa72ccbd629@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Laura Loomer Gets a Pass For Her Racism as the Media Continues to Bash Hasan Piker Instead",
-   "date": "2026-08-31T04:18-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/laura-loomer-gets-a-pass-for-her",
-   "bullets": [
-    "Laura Loomer, a Trump‑aligned activist, called five prominent Black Democratic women—including Ilhan Omar and Ketanji Brown Jackson—‘ghetto Black bitches,’ sparking outrage from Marjorie Taylor Greene but virtually no mainstream media coverage, which the author criticizes for focusing on streamer Hasan Piker instead.",
-    "The piece notes Loomer’s deep ties to Trump, citing her role in the 2023 firing of six National Security Council members and her access to the West Wing, while highlighting her recent attacks on a transgender CIA officer and credit for Milo Yiannopoulos’s deportation.",
-    "Meanwhile, the author contrasts Loomer’s overt racism with the comparatively muted scrutiny of leftist streamer Hasan Piker’s controversial statements, arguing the media’s double standard reflects a broader bias toward attacking progressive figures."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260831103038.3.a4c23460fa66af2c@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "From Kakistocracy to Cheatistocracy",
-   "date": "2026-08-31T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/from-kakistocracy-to-cheatistocracy",
-   "bullets": [
-    "Krugman argues that U.S. tax policy since the 1950s has eliminated progressive taxes, enabling massive wealth concentration and turning America into a “cheatistocracy” where tax evasion fuels the deficit by over $600 billion annually, about 40% of the federal shortfall.",
-    "He cites IRS data showing high‑income audit rates fell from 7.2% in 2011 to 0.7% by 2019 due to a 30‑40% cut in enforcement staff, allowing the ultra‑wealthy to evade taxes at a scale comparable to the entire Medicaid budget.",
-    "Krugman notes that while Biden attempted to boost IRS enforcement, Trump’s tax‑cut legislation reversed those gains, further entrenching a system that benefits dishonest billionaires and undermines honest wealth holders."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 88,
-  "total": 373
+  "shown": 85,
+  "total": 376
  }
 }
