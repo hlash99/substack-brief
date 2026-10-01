@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T12:30-07:00",
+ "updated": "2026-09-30T19:14-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -54,6 +54,75 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261001001757.3.1dff673dc59d1f41@mg2.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How Some TOTAL Unknowns Could F*ck Up Republicans’ Midterms",
+   "date": "2026-09-30T17:17-07:00",
+   "url": null,
+   "bullets": [
+    "Libertarian candidates are polling 4‑5% in key battlegrounds (e.g., North Carolina, Ohio, Iowa, Florida, Pennsylvania, Texas) and could flip Senate races by siphoning Republican votes, especially where GOP brand is weak.",
+    "Democratic operatives are already considering or have launched super‑PACs to boost these third‑party spoilers, with groups like Save Western Culture PAC spending on Texas Libertarian Ted Brown, who is projected to get 2‑4% and potentially tilt the Paxton‑Talarico contest.",
+    "Polling shows Republican favorability has dropped to 39% versus 38% for Democrats, with a 10‑point net disadvantage among likely voters, amplifying the impact of any third‑party vote split in close races."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260930235152.3.eda0b071cbf6a8f7@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "This is our moment",
+   "date": "2026-09-30T16:51-07:00",
+   "url": "https://roycoopernc.substack.com/p/this-is-our-moment",
+   "bullets": [
+    "The campaign’s Q3 fundraising report will be filed in October, and Republicans could flood North Carolina with super PAC money if they detect weakness.",
+    "The email urges donors to contribute now to demonstrate a strong grassroots movement capable of flipping the Senate, emphasizing opposition to a Big Oil/utility lobbyist candidate.",
+    "Supporters are asked to chip in $5 or any amount to help finish the race and secure a Democratic majority in the U.S. Senate."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260930223047.3.7d74d99d68325075@mg2.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "Closing a crucial chapter in our campaign",
+   "date": "2026-09-30T15:30-07:00",
+   "url": "https://chrispappasnh.substack.com/p/closing-a-crucial-chapter-in-our",
+   "bullets": [
+    "Chris Pappas urges donors to give before midnight tonight, the final quarterly deadline, to fund his New Hampshire Senate campaign crucial for flipping the Senate blue in 34 days",
+    "He cites the Cook Political Report labeling the NH race a toss‑up, warning that losing the state would jeopardize a Democratic Senate majority"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260930220725.3.73b5238cf7488b2e@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "What ‘SNL’ Gets So Wrong About Mamdani’s Social Media Strategy",
+   "date": "2026-09-30T15:07-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/what-snl-gets-so-wrong-about-mamdanis",
+   "bullets": [
+    "The WarnerMount merger cleared its final legal hurdle and is set to close next week, with Ynoz Kreiz—former Israeli military officer and ex‑Mattel chairman—joining David Ellison as co‑CEO.",
+    "The newsletter argues that mainstream media, exemplified by an SNL cold open, fails to grasp Zohran Mamdani’s effective digital strategy, which resonates especially with New Yorkers.",
+    "It also notes that MAGA‑aligned outlets are now pretending they didn’t claim victory after Eric Schmitt’s public stumble."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20260930220545.3.e6a0e16cb57068a4@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Pete Hegseth's Speech Was a Hyper-Macho Freak Show",
+   "date": "2026-09-30T15:05-07:00",
+   "url": null,
+   "bullets": [
+    "Sam Stein and Ben Parker condemn Pete Hegseth’s 16‑minute “State of the Force” rant, noting his misogynistic “no fatties, no weirdos” mantra, obsession with testosterone, and attacks on Newt Gingrich, wokeness, and universities",
+    "They expose Hegseth’s new Project Meridian, which will convene Elon Musk, Palmer Luckey and Gingrich to research future warfare and his proposal to pit governors against each other for troop deployments",
+    "The hosts argue Hegseth’s domestic‑political focus distracts from real threats posed by Iran and China and suggest he may be positioning for a post‑Pentagon political career"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20260930165336.3.d296f40f273f6602@mg-d1.substack.com",
    "newsletter": "Tim Miller",
@@ -144,10 +213,11 @@
    "date": "2026-09-30T04:05-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/trumps-white-house-agrees-his-midterm",
    "bullets": [
-    "📱 If our emails sometimes get buried in your inbox, we’ve got another way for you to keep up to date: the new Zeteo app [ https://substack.com/redirect/a7c1a504-3804-4633-b592-a30a07196514?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6c…",
-    "Welcome to Wednesday! It’s Andrew and Swin, again. The Trump White House is embroiled in yet another blundering scandal of its own making and if you privately press a bunch of Trump officials on who’s involved, they very quickly start singi…"
+    "Trump’s White House secretly acknowledges that recent taxpayer‑funded TV spots urging viewers to “Love Me” and denounce “communists” violate federal bans on government political advertising, yet proceeds anyway, labeling them “public service announcements.”",
+    "One ad mirrors a 2024 campaign spot, suggesting the broadcasts target the 2026 midterms, contradicting officials’ claim they’re non‑partisan, and two insiders say Trump himself called them “midterm ads.”",
+    "Missouri Senator Eric Schmitt’s attempt to attack former Special Counsel Jack Smith backfired, leading to a nationally embarrassing gaffe."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260930103118.3.c4196b49e4996700@mg2.substack.com",
@@ -5069,51 +5139,10 @@
     "Krugman notes that while Biden attempted to boost IRS enforcement, Trump’s tax‑cut legislation reversed those gains, further entrenching a system that benefits dishonest billionaires and undermines honest wealth holders."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260831010229.3.7cbfbc8f12352ce7@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "When McCarthyism Hit My Family",
-   "date": "2026-08-30T18:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/when-mccarthyism-hit-my-family",
-   "bullets": [
-    "The author links Trump’s recent anti‑immigrant actions—including the January killings of anti‑ICE protesters Renee Good and Alex Pretti in Minnesota—to the historic terror of Senator Joseph McCarthy’s anti‑communist crusade.",
-    "New York Times‑documented investigations show the Justice Department is probing whether protest‑support groups financed ‘domestic terrorist’ agitators, while instead charging 15 alleged antifa members in Minneapolis, illustrating Trump’s use of federal prosecutors to intimidate Republicans.",
-    "The piece reveals the author’s personal family connection to McCarthy‑era repression, drawing a parallel between past anti‑communist witch‑hunts and today’s political violence under Trump."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260830233432.3.07bd92614e72f713@mg-d1.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "Humbly asking for your support in the toughest reelection campaign in the entire country",
-   "date": "2026-08-30T16:34-07:00",
-   "url": "https://ossoff.substack.com/p/humbly-asking-for-your-support-in",
-   "bullets": [
-    "Sen. Jon Ossoff frames his 2026 Georgia Senate race as the GOP’s top target, warning that national Republicans and Super PACs will spend hundreds of millions against him.",
-    "He emphasizes that his campaign rejects corporate PAC and lobbyist money, relying on small donor contributions of $10‑$50 to fund voter mobilization, ads, and staff.",
-    "Ossoff urges immediate donations via ActBlue, arguing each dollar will directly strengthen the campaign in the highly competitive battleground state."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260830230140.3.aa5ef0f65cb074f0@mg-d1.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The 2028 Democratic Primary Is Quietly Raging",
-   "date": "2026-08-30T16:01-07:00",
-   "url": null,
-   "bullets": [
-    "Advisors to potential 2028 Democratic candidates are already scouting headquarters locations, with logistical challenges noted for those from Pacific states or places like Louisville, Kentucky.",
-    "Strategist Jesse Lehrich warns a fierce scramble for campaign staff, predicting over thirty candidates will compete for top operatives as an early viability signal."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 87,
-  "total": 371
+  "shown": 88,
+  "total": 373
  }
 }
