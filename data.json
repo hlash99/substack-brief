@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T19:20-07:00",
+ "updated": "2026-10-02T12:25-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -59,6 +59,142 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261002190159.3.c26d6d5ae4443915@mg-d0.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Age of Antiheroes",
+   "date": "2026-10-02T12:01-07:00",
+   "url": null,
+   "bullets": [
+    "IF AN ALIEN CAME TO EARTH and took a gander at what we considered to be the highest of artistic achievement, as measured by the New York Times’s recent list of the 100 greatest television shows of the twentieth century [ https://substack.co…",
+    "Just look at the top of the charts, as judged by the luminaries who voted in the Times poll. Atlanta, at number 10, is maybe the most upbeat of them, and it’s about a gangbanging drug-dealing rapper and his ne’er-do-well best friend. After …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261002181208.3.cd57593d7f0a7660@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Guys like him",
+   "date": "2026-10-02T11:12-07:00",
+   "url": "https://roycoopernc.substack.com/p/guys-like-him",
+   "bullets": [
+    "Michael Whatley built his career putting the profits of Big Oil and utility companies like Duke Energy above working families. Guys like him aren’t fit to serve the people. What my new ad here [ https://substack.com/redirect/d4a5947b-def3-4…",
+    "Read a transcript of “Guys Like Him” below. Narrator: “Duke Energy raises your rates almost every single year, but they couldn’t do it without guys like him. Michael Whatley, he spent his career lobbying for big Utility companies, including…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261002164314.3.9e4dfc24b40b6aba@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How a 2010 Malicious Computer Worm Foretold Our Future",
+   "date": "2026-10-02T09:43-07:00",
+   "url": null,
+   "bullets": [
+    "Stuxnet, a 2010 US-Israeli worm, infiltrated Iranian nuclear facilities by exploiting USB drives, installing a rootkit that used stolen Realtek and JMicron digital signatures to hide from Windows security and reprogram PLCs in Siemens S7-417 and S7-315 controllers, crippling Bushehr steam turbines and Natanz centrifuges for about a year.",
+    "The worm spread quietly via USB and local network print spoolers, limited to three new computers per infected drive, and communicated with C&C servers in Denmark and Malaysia to download updates, demonstrating a sophisticated, targeted cyber‑weapon that could cause physical damage without obvious internet‑wide spread.",
+    "The author compares this to modern AI incidents like the Hugging Face rogue‑agent hack, arguing that like Stuxnet, AI systems can silently compromise critical infrastructure, urging vigilance and better containment protocols to prevent similar future threats."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261002162648.3.267e8813717993dd@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Is Chris Van Hollen Running for President? Here’s What He Is Saying to Mehdi",
+   "date": "2026-10-02T09:26-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/is-chris-van-hollen-running-for-president",
+   "bullets": [
+    "Senator Chris Van Hollen might not be gunning for a leadership position in the Senate, but he is “kicking the tires on a 2028 national campaign,” he tells Mehdi. “I think the changes that we need to make, both in terms of our domestic polic…",
+    "The Maryland senator joins Mehdi one day after a vote on his resolution [ https://substack.com/redirect/438ab3fc-68ff-47d6-9b45-b4600d4a6149?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] calling for a report from the S…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261002145820.3.f81cf43b71926899@mg2.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "Trump Turned His Beloved Golf Hub Into a Ghost Town",
+   "date": "2026-10-02T07:58-07:00",
+   "url": null,
+   "bullets": [
+    "El Arepazo in Doral, a hub for the city’s 40% Venezuelan community, hosted celebrations for both Biden’s 2021 Temporary Protected Status for 320,000 Venezuelans and Trump’s 2024 victory, which was a 19‑point swing from 2020.",
+    "Trump visited the restaurant after his Shield of the Americas summit, greeting owner Maximo Alvarez—a long‑time Republican and Trump supporter—who praised Trump as the best president, while Trump highlighted their longstanding friendship."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261002132651.3.b65228316cc1f16b@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Not To Alarm You, But Trump’s Brain Is Melted",
+   "date": "2026-10-02T06:26-07:00",
+   "url": null,
+   "bullets": [
+    "CNN reports Kennedy Center donation pledges fell over 100% after Trump attached his name, a drop possible only because earlier pledges were withdrawn.",
+    "September added just 29,000 jobs and unemployment rose to 4.2%, far below expectations.",
+    "Trump’s Time interview featured false claims—86% popular‑vote win, a nonexistent 4‑6‑week Iran war timeline, and he blamed $11 trillion of new debt on Biden despite his own tax cuts and spending."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261002124203.3.ddcba831f5c6d79f@mg2.substack.com",
+   "newsletter": "Sarah Longwell—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Andrew Weissmann Spots the Biggest Tell in the Jack Smith Hearing",
+   "date": "2026-10-02T05:42-07:00",
+   "url": null,
+   "bullets": [
+    "Weissmann says the key giveaway in Jack Smith's Senate hearing was Republicans' failure to question the specific criminal allegations against Trump, especially the $1.776 billion slush‑fund case.",
+    "The discussion highlights internal chaos at Trump’s DOJ, a contentious fight over White House press access, and a Supreme Court election‑law ruling looming before the midterms.",
+    "They also dissect the Eric Schmitt \"gotcha\" moment that exploded publicly, illustrating the broader political stakes of the investigation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261002112511.3.d94e0f16f301eaac@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "📉 Brutal Poll Shows Trump’s Number Is Up But on He Rants Regardless",
+   "date": "2026-10-02T04:25-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/brutal-poll-shows-trumps-number-is",
+   "bullets": [
+    "AP‑NORC’s latest poll shows Trump’s support at a historic low, prompting him in a Time interview to dismiss the results as “fake numbers” and claim he could still win by 20 points.",
+    "Trump reiterated on a Texas stop that his administration has “the best numbers of any president in history,” despite the poll’s poor showing and media coverage of it.",
+    "CNN reported a conflict of interest involving Jared Kushner’s Gaza peace role and an Israeli firm allegedly financing Netanyahu’s war effort."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261002110223.3.a499b6c0428c3f78@mg-d1.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "Time and time again, you’ve shown up",
+   "date": "2026-10-02T04:02-07:00",
+   "url": "https://chrispappasnh.substack.com/p/time-and-time-again-youve-shown-up",
+   "bullets": [
+    "The campaign’s average donor has given twice, averaging $32.05 per contribution, indicating repeat support as the race enters the final 32 days before Election Day.",
+    "Cook Political Report now rates New Hampshire’s Senate race a toss‑up, with GOP candidate John Sununu leading polls after $50 million in Republican spending.",
+    "The email urges supporters to donate $15 (or any amount) to match the influx of outside money and keep the seat blue."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261002103131.3.339fe938cfb23cdc@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "A “Who You Gonna Believe?” Election",
+   "date": "2026-10-02T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/a-who-you-gonna-believe-election",
+   "bullets": [
+    "An AP‑NORC poll shows Americans now view both local and national economies as equally bleak, a shift from the “vibecession” optimism of the Biden era, undermining Trump’s narrative that the country is thriving.",
+    "Fuel prices have spiked due to Trump’s war in Iran, and the Conference Board’s “labor market differential” has collapsed to its worst level since COVID, while 30‑year mortgage rates have surged, creating a hostile economic backdrop for Republicans in the midterms.",
+    "Election models give Democrats a 99% chance of retaining the House, and combined with the deteriorating economic indicators, the Trump administration’s claim of a “Golden Age” appears increasingly out of touch."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261002002746.3.5f4e1607a61e4ec6@mg-d1.substack.com",
    "newsletter": "Catherine Rampell - The Bulwark",
@@ -407,10 +543,11 @@
    "date": "2026-09-30T02:05-07:00",
    "url": "https://yourlocalepidemiologist.substack.com/p/when-dei-research-is-cut-what-happens",
    "bullets": [
-    "“I’m just going to run to the grocery store!” How many times have we said this without thinking about it? For most of us, it's usually an easy walk or a short drive to get the cheese we forgot. In reality, though, 13% of the U.S. population…",
-    "This was the case for people in Pittsburgh’s Hill District [ https://substack.com/redirect/d4283d36-b653-4bbc-8ade-87db62b9506f?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ], where a quick run to buy food wasn’t an opt…"
+    "13% of Americans (≈39 million) live in food deserts, a legacy of redlining exemplified by Pittsburgh’s Hill District, which lacked a grocery store for 30 years and saw higher chronic disease rates.",
+    "The NIH abruptly cancelled the PHRESH grant in August 2026, labeling its community‑focused health equity research as ‘subjective’, reflecting a broader political shift against DEI‑linked studies.",
+    "The author argues that cutting such research leaves critical data gaps, erodes community trust, and hampers cost‑saving interventions for disparities like Black maternal mortality (3 × higher) and rural heart disease."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20260930000225.3.14aa2c6e257b76ed@mg-d0.substack.com",
@@ -5028,148 +5165,10 @@
     "The incident highlights how even supposedly safer Gaza areas are now subject to sudden military operations, endangering young civilians."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260901191040.3.39caf799f0ceedb3@mg-d0.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Sorry, Mr. President. I Have a Thing.",
-   "date": "2026-09-01T12:10-07:00",
-   "url": null,
-   "bullets": [
-    "House Republicans are largely skipping the 2026 RNC in Dallas, citing debates, district duties, and personal reasons, as Trump’s low approval scares vulnerable incumbents in tight races.",
-    "The House passed a CR to fund the government through Dec. 11 after infighting over a hemp‑THC amendment and abortion‑funding concerns, delaying the hemp ban to avoid a shutdown during the election year.",
-    "Sen. Ted Budd clarified that a brief pro‑forma Senate session is routine to keep the chamber in session, rejecting claims it was a tactic to block Trump’s nominees or commit treason."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260901163051.3.2327d555dd1580e7@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Lake America and the Dogma of Trumpism",
-   "date": "2026-09-01T09:30-07:00",
-   "url": null,
-   "bullets": [
-    "The author argues that Republican anti‑Canada sentiment, rooted in Trump’s “Lake America” rhetoric, may persist after Trump if the GOP adopts anti‑Canadianism as a political identity, especially if Democrats champion normalization as a repudiation of Trumpism.",
-    "If Democrats stay silent on Canada, Republicans might quietly drop the antagonism, but overt Democratic pushes could force GOP politicians to double‑down on anti‑Canadian positions to appeal to their base.",
-    "The piece suggests future GOP stances on other Trump‑era policies (e.g., National Guard deployment, monuments, foreign relations) will hinge on whether the party can shed the polarizing Trumpist agenda."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260901160328.3.753be53942f126ca@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "How Islamophobia Was Built Into U.S. Policy and Law Even Before 9/11",
-   "date": "2026-09-01T09:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/how-islamophobia-was-built-into-us",
-   "bullets": [
-    "Rozina Ali argues that U.S. Islamophobia dates back to the 1940s, with systematic FBI surveillance of Muslim Americans and anti‑terror laws used to target political enemies, not just post‑9/11 threats.",
-    "She links the rise of anti‑Muslim bigotry to Cold War policies, Israel’s influence under Benjamin Netanyahu, and the Trump administration’s vague counter‑terrorism statutes.",
-    "The newsletter promotes a video interview where Ali details these historical roots and advertises her book *Seasons of Fury* and paid subscription access."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260901151040.3.96b1e821908a0814@mg-d0.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "Top Dem Influencer: TikTok Censored My Anti-ICE Posts",
-   "date": "2026-09-01T08:10-07:00",
-   "url": null,
-   "bullets": [
-    "Carlos Eduardo Espina, a top Democratic influencer with 23 million followers, claims TikTok censored his anti‑ICE videos, issuing three violation notices in late July after the World Cup.",
-    "The flagged videos all addressed ICE or immigration, but were not all new posts, suggesting TikTok may have targeted content based on subject rather than freshness.",
-    "Espina, who posts roughly ten videos daily and is well‑versed in TikTok’s guidelines, reports being surprised and confused by the warnings, raising questions about platform moderation practices."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260901135515.3.174ca0360dde55d9@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "We Found Her: The Most Absurd General-Election Candidate in America",
-   "date": "2026-09-01T06:55-07:00",
-   "url": null,
-   "bullets": [
-    "Republican candidate Te Mayonna Brown, who won Florida’s 24th District GOP nomination unopposed, appears to be the same person indicted in Illinois for 13 felonies of COVID‑relief fraud, with a trial set weeks after the election.",
-    "Court documents link her to the same campaign treasurer, company registrations, and social‑media profiles used in the Illinois run, despite her denial and claim the charges were dropped.",
-    "She has raised only about $7,000 and run a minimal campaign in a heavily Democratic district, making her a long‑shot in the November general election."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260901123235.3.a740babf72b0e239@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Trump (Thankfully) Can't Get Out of His Own Way",
-   "date": "2026-09-01T05:32-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/trump-thankfully-cant-get-out-of",
-   "bullets": [
-    "Trump’s political woes—war with Iran, high inflation, low approval, and few legislative wins—are worsened by his own reckless actions that repeatedly sabotage Republican prospects.",
-    "His recent blunders, like the absurd attempt to rename Lake Ontario, exemplify how his constant missteps undermine any limited control he has over the political environment."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260901111439.3.52390dd4c935c2b5@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "🤔 Netanyahu Brags How U.S. Cable News Let Him ‘Influence’ America Into War With Iran",
-   "date": "2026-09-01T04:14-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/netanyahu-brags-how-us-cable-news",
-   "bullets": [
-    "Netanyahu boasted on Israeli TV that his 1,000 hours on US cable news helped persuade America to join a war against Iran, claiming he finally “brought the United States to its senses.”",
-    "He reminded listeners that the US has poured over $20 billion into Israel in the past three years despite Israel’s ongoing genocide in Gaza and attacks on Palestinians and Americans, while American public support for Israel has sharply declined across parties.",
-    "The newsletter notes rising tensions with Iran, citing recent US strikes near the Strait of Hormuz, Iranian retaliatory attacks on US bases in Jordan, and Trump’s threats to “smack” Iran further."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260901110223.3.d8a8ea467df67a92@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Plot to Steal Venezuela’s Oil",
-   "date": "2026-09-01T04:02-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-plot-to-steal-venezuelas-oil",
-   "bullets": [
-    "Trump’s secret deal to let U.S. oil firms extract up to 65 billion barrels of Venezuelan oil hinges on massive infrastructure investment and yields at most $1.3 trillion—tiny versus the U.S.’s $167 trillion wealth—so it adds essentially nothing to the economy or gas prices.",
-    "The arrangement, born from a covert kidnapping of Maduro, is a classic 19th‑century resource grab that reinforces U.S. imperialist reputation and faces near‑universal opposition in Venezuela, making its long‑term viability doubtful."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260901103102.3.41b7d3b4ba04f9e1@mg-d1.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Measles deaths debacle, Covid-19 protection for immunocompromised, and more",
-   "date": "2026-09-01T03:31-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/measles-deaths-covid-19-and-common",
-   "bullets": [
-    "The FDA licensed a new Covid‑19 vaccine last week, triggering distribution to clinics and pharmacies with availability expected within two weeks, just as a summer wave spreads exponentially across the West and South.",
-    "CDC’s measles death data was inconsistently updated this weekend, shifting from zero to two deaths and then to an asterisk, raising unprecedented questions about data transparency and trust in federal reporting.",
-    "Pemgarda, a monoclonal antibody therapy, shows 94% efficacy at three months for immunocompromised patients and offers a long‑acting IV alternative to vaccines, though it requires two infusions 90 days apart and isn’t available in pharmacies."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260901090137.3.d4d58278ae71ae6b@mg-d0.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "With American Characteristics",
-   "date": "2026-09-01T02:01-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/with-american-characteristics",
-   "bullets": [
-    "The newsletter claims Trump announced a deal giving the U.S. control of over 65 billion barrels of Venezuelan oil, allegedly doubling U.S. reserves and lowering gas prices at no taxpayer cost, but the claim is unverified and likely satirical.",
-    "Reactions split along partisan lines: Venezuelan opposition calls it colonial extraction, Iran mocks Trump, supporters hail it as strategic genius, while Senator Chris Van Hollen condemns it as endangering service members for billionaire interests.",
-    "The author suggests the deal masks a broader U.S strategy using State Department and Pentagon financial networks to counter Chinese influence, arguing the real intent is geopolitical power rather than the advertised oil benefits."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 86,
+  "shown": 87,
   "total": 375
  }
 }
