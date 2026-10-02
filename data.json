@@ -1,38 +1,18 @@
 {
- "updated": "2026-10-01T12:38-07:00",
+ "updated": "2026-10-01T19:20-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The GOP is unraveling as Trump’s Iran raid sparks widespread disapproval, with former supporters urging an end to the conflict and the party’s midterm prospects slipping (The Bulwark, Zeteo).",
-   "Israel’s war on Gaza continues unabated, with UN experts like Francesca Albanese calling it a genocide and U.S. officials pushing a $2.8 billion weapons deal that could deepen the crisis (Zeteo, The Bulwark).",
-   "The North Carolina Senate race has become a high‑stakes battle, as Democratic incumbent Roy Cooper faces a $100 million attack‑ad onslaught from GOP super PACs and a looming fundraising deadline (Roy Cooper, The Bulwark).",
-   "Trump’s administration is misusing federal resources for partisan ads, violating the Hatch Act and raising questions about the integrity of government communications (The Message Box, The Bulwark).",
-   "Interest rates have spiked to levels unseen since the 2000s housing bubble, driven by an AI‑investment boom and inflationary pressures from the Iran war, threatening to reshape the economic landscape (Paul Krugman).",
-   "The U.S. is increasingly detaining non‑criminals in federal camps, a legal pathway that could pave the way for authoritarian confinement reminiscent of historical fascist regimes (Zeteo)."
+   "Trump’s trade war with Canada has collapsed after a 250‑400% tariff on cheese, wiping out U.S. dairy exports and forcing Canadian producers to lose market access (The Bulwark, Zeteo).",
+   "Democrats are suing the DOJ for evidence that it may allow Trump to seize ballots on Election Day, a move that could enable a last‑minute takeover of the vote (Zeteo).",
+   "Federal TV ads promoting Trump’s personal agenda during NFL games have been condemned as misuse of government funds, sparking bipartisan outrage (The Bulwark).",
+   "North Carolina’s Senate race is a flashpoint: Roy Cooper’s campaign is scrambling to meet a $1 million fundraising deadline amid a 36‑hour Facebook outage and a $100 million GOP super‑PAC spend (Roy Cooper, Zeteo).",
+   "Oil risk premiums have surged again, lifting both oil prices and mortgage rates and reshaping the economic backdrop for the midterms (The Bulwark).",
+   "A poll shows a sharp decline in Trump’s AI approval, with 71% of voters favoring stricter AI guardrails and only 25% approving his handling, hinting at a potential Democratic wave on technology policy (Bill Kristol & Andrew Egger)."
   ],
   "by": "groq",
   "ids": [
-   "20260927104634.3.59a142cceaf6db89@mg2.substack.com",
-   "20260927120114.3.abc52f633e7338c7@mg2.substack.com",
-   "20260927140242.3.8006c30527a27851@mg-d0.substack.com",
-   "20260927153329.3.7db83db0ff786216@mg-d0.substack.com",
-   "20260927173254.3.486c2d319546a2f1@mg2.substack.com",
-   "20260927203332.3.758a886338ed98c1@mg-d1.substack.com",
-   "20260927230236.3.44b51d2a23adc0c1@mg-d0.substack.com",
-   "20260927235516.3.61ad7a2681c1d42d@mg-d1.substack.com",
-   "20260928103441.3.52f5465c6d648892@mg-d1.substack.com",
-   "20260928111143.3.9671c44120606b03@mg2.substack.com",
-   "20260928132656.3.3435ca3a8ef869bd@mg2.substack.com",
-   "20260928140021.3.debe25c1a42c1c12@mg-d1.substack.com",
-   "20260928141023.3.2fcef7c77e2b0b39@mg2.substack.com",
-   "20260928165331.3.57b4f55af4ce120c@mg-d0.substack.com",
-   "20260928174123.3.0bf6a4a849df625a@mg-d1.substack.com",
-   "20260928183039.3.a5691242dac2b0e8@mg2.substack.com",
-   "20260928200114.3.7ff24c73769bf6ff@mg-d0.substack.com",
-   "20260928201659.3.ada7975da5fceec6@mg-d0.substack.com",
-   "20260928202015.3.39b460d5f6b02ba7@mg2.substack.com",
-   "20260929001622.3.1683b74b084f49ed@mg-d1.substack.com",
    "20260929090234.3.fdc4cd4bbc1e7072@mg2.substack.com",
    "20260929100319.3.02322611618ec7d4@mg-d0.substack.com",
    "20260929103110.3.a6ca538d6b8591bb@mg2.substack.com",
@@ -48,12 +28,92 @@
    "20260929191146.3.11b00fdc3b9b8285@mg-d0.substack.com",
    "20260929210903.3.039b14506957077e@mg-d1.substack.com",
    "20260929233622.3.1679bcbdd6c9b700@mg-d1.substack.com",
-   "20260930000225.3.14aa2c6e257b76ed@mg-d0.substack.com"
+   "20260930000225.3.14aa2c6e257b76ed@mg-d0.substack.com",
+   "20260930102434.3.7e204db917446642@mg-d1.substack.com",
+   "20260930103118.3.c4196b49e4996700@mg2.substack.com",
+   "20260930110520.3.7cb4999b97bd2885@mg-d1.substack.com",
+   "20260930120346.3.0832d940750937aa@mg2.substack.com",
+   "20260930130003.3.1aa0ac19a5f08f0e@mg2.substack.com",
+   "20260930131932.3.03686c4593d4b324@mg-d0.substack.com",
+   "20260930133054.3.613c94671646bf22@mg-d1.substack.com",
+   "20260930163910.3.cbd03174f228bf2c@mg2.substack.com",
+   "20260930165336.3.d296f40f273f6602@mg-d1.substack.com",
+   "20260930220545.3.e6a0e16cb57068a4@mg-d0.substack.com",
+   "20260930220725.3.73b5238cf7488b2e@mg-d1.substack.com",
+   "20260930223047.3.7d74d99d68325075@mg2.substack.com",
+   "20260930235152.3.eda0b071cbf6a8f7@mg2.substack.com",
+   "20261001001757.3.1dff673dc59d1f41@mg2.substack.com",
+   "20261001110917.3.d07005e65be448cc@mg-d0.substack.com",
+   "20261001111208.3.3b87c43130d173ba@mg-d0.substack.com",
+   "20261001133235.3.c9046b2789e8f9c0@mg-d0.substack.com",
+   "20261001135335.3.13964e508dcd6445@mg-d0.substack.com",
+   "20261001145842.3.ed71cda02fcfa7e0@mg2.substack.com",
+   "20261001163900.3.898b87b249203496@mg-d1.substack.com",
+   "20261001185719.3.6190514b8c16b329@mg2.substack.com",
+   "20261001194052.3.73fd86dc600e23f8@mg-d1.substack.com",
+   "20261001200121.3.bcd1c3303ddda09c@mg2.substack.com",
+   "20261002000042.3.06bb104647d10ee4@mg-d0.substack.com",
+   "20261002002746.3.5f4e1607a61e4ec6@mg-d1.substack.com"
   ],
-  "updated": "2026-09-29T19:13-07:00",
+  "updated": "2026-10-01T19:20-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261002002746.3.5f4e1607a61e4ec6@mg-d1.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Who Cut The Cheese? Trump Did.",
+   "date": "2026-10-01T17:27-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s trade war with Canada, framed as protecting U.S. dairy, actually imposed 250‑400% tariffs on Canadian cheese, prompting a rapid collapse of American exporters like Vermont’s Jasper Hill Farm.",
+    "Jasper Hill Farm’s CEO Mateo Kehler says both U.S. and Canadian dairy sectors are losing, noting their Canadian market vanished overnight due to tariffs, counter‑tariffs and consumer boycotts.",
+    "The piece argues Trump’s tariff‑heavy approach harms American dairy farmers rather than helping them, turning a supposed win into a loss for the industry."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261002000042.3.06bb104647d10ee4@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Jasmine Crockett Offered Lobbying Services on Her Campaign-Funded Website – While in Office",
+   "date": "2026-10-01T17:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/jasmine-crockett-offered-lobbying",
+   "bullets": [
+    "Texas Rep. Jasmine Crockett, who lost her Senate bid in March, listed government‑relations and lobbying services on her campaign‑funded “Clapback Collection” merchandise site by May, prompting ethics concerns.",
+    "The site featured a “Political Consultant‑Book Now” button that revealed offerings including campaign strategy, PR, lobbying, digital media, and political risk management before the listing was removed after Zeteo’s inquiry."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261001200121.3.bcd1c3303ddda09c@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Dems Warn of Trump Plans to Seize Ballots",
+   "date": "2026-10-01T13:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/dems-warn-of-trump-plans-to-seize",
+   "bullets": [
+    "Democrats allege the Justice Department has abandoned its long‑standing rule against seizing evidence or arresting election officials during an election, potentially enabling Trump to confiscate ballots on Election Day.",
+    "The DNC’s FOIA lawsuit seeks DOJ communications showing policy changes that would allow ballot seizures and arrests, claiming the agency is preparing for such actions.",
+    "Democrats warn that this shift could lead to unprecedented ballot confiscation and arrests of officials in November, citing the administration’s own statements as evidence."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261001194052.3.73fd86dc600e23f8@mg-d1.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "GOP Senators Blast Trump’s Gov’t-Funded Ads",
+   "date": "2026-10-01T12:40-07:00",
+   "url": null,
+   "bullets": [
+    "Senate GOP and Dem members say federal TV ads aired during NFL games promoting Trump’s personal political agenda are a misuse of government funds, leaving them feeling powerless to stop it.",
+    "The ads feature Trump’s voice promising to ‘demolish the deep state’ and ‘liberate America,’ echoing his 2024 campaign messaging and using a text‑to‑vote tactic he’s used since 2016.",
+    "Trump reportedly directed the ad blitz, which unlike typical federal advocacy, promotes his own brand rather than any specific policy or program."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261001185719.3.6190514b8c16b329@mg2.substack.com",
    "newsletter": "Roy Cooper",
@@ -76,10 +136,10 @@
    "date": "2026-10-01T09:39-07:00",
    "url": null,
    "bullets": [
-    "I know what kind of candy my audience wants and today I’m here to give it to you: Some HOT TALK about risk premiums and the bond market. Look: I understand. We’re one month from the midterms. Donald Trump is stealing money, oil, and gold fr…",
-    "But here’s my pitch: This risk premium stuff is driving both the price of oil and mortgage rates—which means that it is absolutely driving the political dynamic that’s going to determine the election results and set us on the course for the…"
+    "The author argues that renewed oil risk premiums are simultaneously lifting oil prices and mortgage rates, shaping the political landscape ahead of the midterm elections.",
+    "He questions why oil prices stayed stable during the Iran war’s Strait of Hormuz closure and why they remain high now despite flows returning to 50‑80% of pre‑war levels, linking these anomalies to risk premiums."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261001145842.3.ed71cda02fcfa7e0@mg2.substack.com",
@@ -102,10 +162,11 @@
    "date": "2026-10-01T06:53-07:00",
    "url": "https://yourlocalepidemiologist.substack.com/p/yle-northeast-coming-soon",
    "bullets": [
-    "I’m SO incredibly excited to announce the launch of a Northeast region YLE newsletter—a geography-based spinoff that will translate relevant public health science for local communities, helping them make evidence-based decisions. After all,…",
-    "While I love writing the national newsletter (and this will continue!), what happens locally impacts your health far more. I envision a world where, much like meteorologists translate real-time data to empower and prepare communities for th…"
+    "The YLE Northeast newsletter launches October 8, expanding the New York edition to cover New York and all states east of it, with weekly disease “weather reports” and local health spotlights.",
+    "The regional rollout is funded by ~85% paid subscribers and grants from the Robert Wood Johnson and Greenwall Foundations; a 20% discount is offered for new YLE Everywhere subscriptions.",
+    "Editors Julia Tellerman (Rochester, NY) and Asuka Koda (Connecticut) will lead the effort, building on YLE’s existing 475,000‑person, 132‑country audience."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261001133235.3.c9046b2789e8f9c0@mg-d0.substack.com",
@@ -5105,79 +5166,10 @@
     "The author suggests the deal masks a broader U.S strategy using State Department and Pentagon financial networks to counter Chinese influence, arguing the real intent is geopolitical power rather than the advertised oil benefits."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260901020739.3.bd34b0c110727433@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "U.S. Politicians Reject Donations From Hindu Nationalists, Days After Far-Right RSS Rally in New York",
-   "date": "2026-08-31T19:07-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/rss-rally-us-politicians-reject-money",
-   "bullets": [
-    "Nearly 100 U.S. politicians, including Michigan Senate candidate Abdul El‑Sayed, Rep. Ro Khanna and Rep. Pramila Jayapal, have pledged to refuse donations from the RSS after its controversial Madison Square Garden rally.",
-    "RSS chief Mohan Bhagwat delivered a “Universal Oneness Celebration” speech in New York, claiming any Hindu who wants no Muslims in Bharat isn’t Hindu, despite his past remarks labeling all Indians as Hindu and blaming Western influence for Indian gang rape.",
-    "The rally, organized by a far‑right, Nazi‑inspired Hindu nationalist paramilitary group, sparked large protests outside Madison Square Garden following recent criticism of its extremist ideology."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260901000021.3.ed8b6256e7dd378d@mg-d1.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why MAGA Is Celebrating Milo’s Deportation",
-   "date": "2026-08-31T17:00-07:00",
-   "url": null,
-   "bullets": [
-    "Milo Yiannopoulos was detained by ICE on an expired visa, deported to the UK, and his mugshot was posted by DHS, ending his decade as a right‑wing provocateur; MAGA allies celebrated his removal while liberals mocked his past calls for ICE checkpoints and executions.",
-    "Yiannopoulos’s fall was precipitated by a long‑standing feud with Laura Loomer, who reported him to Homeland Security; their split over alliances with Marjorie Taylor Greene and mutual accusations of sexual misconduct fueled the ICE action.",
-    "Post‑deportation speculation about Yiannopoulos’s “vault” of damaging material remains unsubstantiated, as he has denied it was a real archive and has not released any evidence, leaving his influence in the alt‑right diminished for now."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260831234348.3.dee5a7e69f36a55c@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "We could come up short",
-   "date": "2026-08-31T16:43-07:00",
-   "url": "https://roycoopernc.substack.com/p/we-could-come-up-short",
-   "bullets": [
-    "Roy Cooper urges donors to give $7 to help his North Carolina Senate campaign reach a $2 million goal and counter GOP attack ads totaling nearly $100 million.",
-    "He warns that falling short would jeopardize flipping the seat and allow GOP candidate Michael Whatley, a former Big Oil lobbyist, to win with Trump’s backing."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260831211957.3.c2f2672f3f1a6876@mg-d0.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Took the Bait and Walked Straight Into the Data Center Backlash (with Bill Kristol)",
-   "date": "2026-08-31T14:19-07:00",
-   "url": null,
-   "bullets": [
-    "Top military leaders warned the Hegseth think‑tank that prolonged U.S. operations in Iran are unsustainable, citing strain on resources and regional stability.",
-    "Will Sommer exposed a Pentagon‑funded “troll army” of propagandists secretly collecting taxpayer money to spin a positive narrative about the Iran situation.",
-    "Bill Kristol joins Tim Miller to argue that Trump’s praise of data centers and gifts to Democrats serve tech oligarchs, while Democrats should not let Republicans pass a spending bill that merely keeps the government open."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260831210242.3.1cfb433286e6d694@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "‘We Aren’t Winning’: Don’t Believe Team Trump’s Iran War Propaganda",
-   "date": "2026-08-31T14:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/we-arent-winning-trump-iran",
-   "bullets": [
-    "A senior U.S. official told Zeteo the administration’s claim that the Iran war is going well is false, saying ‘we aren’t winning’.",
-    "Four officials and a Trump adviser say the Pentagon and broader government believe the war is being lost, and the White House’s propaganda is aimed at boosting Trump’s party before the midterms.",
-    "The officials said they are speaking out because they are appalled by what they call ‘nothing but lies and distortions’ in the administration’s public narrative."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 85,
-  "total": 376
+  "shown": 86,
+  "total": 375
  }
 }
