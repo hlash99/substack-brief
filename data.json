@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T19:07-07:00",
+ "updated": "2026-10-03T11:02-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -60,6 +60,138 @@
  },
  "items": [
   {
+   "id": "20261003170047.3.5b8a1451784c77a2@mg2.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: Israeli Settlers Carry Out More Pogroms and Israel Kills Another Gaza Journalist",
+   "date": "2026-10-03T10:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israeli-settlers-e73",
+   "bullets": [
+    "The official Gaza death toll passed 74,000 this week, with over 1,400 deaths occurring after the October cease‑fire, according to the Palestinian Ministry of Health, though the true figure is likely higher due to bodies still buried in rubble.",
+    "Israeli extremist National Security Minister Itamar Ben‑Gvir threatened to execute a Palestinian prisoner in a video, while Israeli settlers carried out additional pogroms in the occupied West Bank and hundreds of Israelis stormed the Al‑Aqsa Mosque compound."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261003164747.3.484111d9f29d36dd@mg-d0.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "I have some news",
+   "date": "2026-10-03T09:47-07:00",
+   "url": null,
+   "bullets": [
+    "Catherine Rampell launches the Receipts podcast, extending her newsletter’s data‑driven analysis of politics and economics to audio, featuring economists, policymakers, and journalists.",
+    "The debut episode with JVL examines the latest jobs numbers and critiques Trump’s national‑debt proposals, warning listeners about their implications."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261003153726.3.e5401c4c31d014a7@mg2.substack.com",
+   "newsletter": "Smart People Talking",
+   "pub": "smartpeopletalking",
+   "subject": "Americans in the West Bank under siege",
+   "date": "2026-10-03T08:37-07:00",
+   "url": "https://smartpeopletalking.substack.com/p/americans-in-the-west-bank-under",
+   "bullets": [
+    "A 78‑year‑old Palestinian American, Mustafa Zaatar, had 150 Israeli attackers burn his fields, torch cars, and smash windows in Abu Falah on Sept. 27, yet he still refuses to leave, saying the U.S. passport offers no protection.",
+    "The incident highlights how Israeli settlement expansion and road closures turn violence into a land‑use policy, prompting House Democrats to introduce the Stop the Settlements Act to sanction those building outposts and ban U.S. imports from them.",
+    "Since 2022, at least nine Americans have died in the West Bank in clashes with Israeli forces; a Senate resolution seeking answers was narrowly defeated 47‑53 on the day the author returned home."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261003150003.3.0850f532372e1620@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "I don’t take this lightly",
+   "date": "2026-10-03T08:00-07:00",
+   "url": "https://roycoopernc.substack.com/p/i-dont-take-this-lightly",
+   "bullets": [
+    "I know when folks chip in to our campaign, they’re choosing to not give their hard-earned money somewhere else. I don’t take that lightly. If – and only if – you can, I’m asking you to make a crucial donation today to help us flip North Car…",
+    "We’re building something special here in North Carolina, and we’re doing it the right way: with the support of people like you, chipping in $5 or $10 at a time. In fact, more than 90% of our donations come from folks giving $100 or less."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261003130434.3.b023f7867b96c8a6@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "\"Kids his age are just better at making friends. They haven’t learned to be weird about it.\"",
+   "date": "2026-10-03T06:04-07:00",
+   "url": "https://post.substack.com/p/kids-his-age-are-just-better-at-making",
+   "bullets": [
+    "This week, we’re moving to Ireland, wondering what happened to dinner parties, and getting older in an image-obsessed industry. Over the past four years as roommates, Mackenzie and Taryn moved between cities and apartments, going from stran…",
+    "notes from september: for taryn [ https://substack.com/redirect/dd4eb078-de6e-48e2-9d8b-e3fb52b4eea0?j=eyJ1IjoiNWJ2anRsIn0.dvJG6tliYeGynhwMZWxeGfDYkCv6sNTbe4jHfFG5Nf8 ] —Mackenzie Thomas  in I Will Do Whatever I Want [ https://substack.com/…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261003130147.3.405637b50f94d8ba@mg2.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Let’s get ready for sick season",
+   "date": "2026-10-03T06:01-07:00",
+   "url": null,
+   "bullets": [
+    "The newsletter offers a five‑part paid guide for October that covers new fall vaccines, FAQs, evidence‑based healthy habits, debunked myths, and recovery tips for flu, Covid‑19, RSV, and other viruses."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261003123533.3.302eb4d0442f5a29@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "These Trump Voters Are Considering the Unthinkable: Voting for a Democrat (Amy Walter)",
+   "date": "2026-10-03T05:35-07:00",
+   "url": null,
+   "bullets": [
+    "Cook Political Report’s Amy Walter says Republicans face a “really, really, REALLY bad” season, noting rising swing‑voter anger and a growing list of reasons voters consider voting Democrat.",
+    "The episode covers Michigan’s Senate race, Sarah Longwell’s latest Focus Group newsletter, and a discussion on how AI is reshaping voters’ information diets and the upcoming election."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261003120331.3.dce1227a29d4be24@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Why Abdul El-Sayed Is Well Positioned to Win Michigan",
+   "date": "2026-10-03T05:03-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/why-abdul-el-sayed-is-well-positioned",
+   "bullets": [
+    "Democrats fear Abdul El‑Sayed’s primary win, despite a strong lead, could hand Republicans a crucial Senate seat in swing‑state Michigan, especially after his controversial campaign with Hasan Piker and resulting GOP attack ads.",
+    "Pfeiffer argues El‑Sayed is still well‑positioned because Michigan’s overall political climate leans Democratic in a 50‑50 state, but the race remains a high‑stakes test for the party’s ability to secure a Senate majority."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261003113133.3.7bac829547d8152a@mg-d1.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "MAGA’s Heir, the Bumbling GOP Smear Squad, and Trump’s Cheese Problem",
+   "date": "2026-10-03T04:31-07:00",
+   "url": null,
+   "bullets": [
+    "Joshua Tait argues that former Rep. Jim Jordan is the likely heir to MAGA, but his extreme tactics risk alienating suburban voters ahead of the 2024 election.",
+    "Will Saletan exposes how Republican allies are weaponizing false claims against special counsel Jack Smith to distract from ongoing investigations into Trump’s alleged crimes.",
+    "Mona Charen contends that pervasive corruption within the Trump administration has eroded his populist brand, making his anti‑establishment appeal less credible."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261003103207.3.f07fc64dbd226fb2@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Midterms!",
+   "date": "2026-10-03T03:32-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-midterms",
+   "bullets": [
+    "G. Elliott Morris’s Fifty‑Plus‑One model gives Democrats a 99% chance of winning at least 218 House seats, citing an 8‑9‑point generic‑ballot lead and a projected popular‑vote advantage of about 3.5 points despite modest gerrymandering gains for Republicans.",
+    "David Nir argues the GOP’s recent redistricting was based on an assumed permanent Latino shift toward Trump in 2024, which is now reversing as Latino voters move back toward Democrats, making many targeted Republican seats vulnerable.",
+    "Morris forecasts Democrats needing four Senate pickups to reach 51 seats, with likely gains in North Carolina, Texas, Ohio, and a solid hold in Georgia, while noting unexpectedly tight races in traditionally Republican Plains states like Nebraska, Iowa, and Kansas."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261003003656.3.dcbe841fc7b0cadf@mg-d0.substack.com",
    "newsletter": "Pete Buttigieg",
    "pub": "petebuttigieg",
@@ -106,10 +238,11 @@
    "date": "2026-10-02T15:15-07:00",
    "url": null,
    "bullets": [
-    "Sarah and JVL are back apart, as God intended. And there’s lots happening: Should Democrats try to impeach Pete Hegseth? Trump is sending a third aircraft carrier to the Middle East.",
-    "And then there are the two interviews. JD Vance seems to be living in one world while mush-brain Donald Trump is living in another reality. Plus: Trump’s DoJ wants to go after the real villains of Watergate: The prosecutors who investigated…"
+    "The latest jobs report showed a sharp slowdown, prompting concerns about the economy’s trajectory.",
+    "The hosts debate whether Democrats should pursue impeachment of Pete Hegseth while noting Trump’s decision to send a third aircraft carrier to the Middle East.",
+    "They contrast JD Vance’s grounded perspective with Donald Trump’s “alternate reality” remarks and warn that the DOJ is targeting Watergate prosecutors who investigated Nixon."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261002190159.3.c26d6d5ae4443915@mg-d0.substack.com",
@@ -119,10 +252,11 @@
    "date": "2026-10-02T12:01-07:00",
    "url": null,
    "bullets": [
-    "IF AN ALIEN CAME TO EARTH and took a gander at what we considered to be the highest of artistic achievement, as measured by the New York Times’s recent list of the 100 greatest television shows of the twentieth century [ https://substack.co…",
-    "Just look at the top of the charts, as judged by the luminaries who voted in the Times poll. Atlanta, at number 10, is maybe the most upbeat of them, and it’s about a gangbanging drug-dealing rapper and his ne’er-do-well best friend. After …"
+    "The New York Times’ 100 greatest TV shows list is dominated by antiheroes—from Atlanta to Succession—showing a cultural shift toward glorifying morally ambiguous characters, which the author argues erodes American resistance to bad behavior.",
+    "Sarah Longwell’s book argues that 25 years of humanizing villains in media dulls our moral clarity, a point the author extends to reality TV, wrestling, and the creators’ repeated warnings that such characters aren’t role models.",
+    "The newsletter also reviews the climate‑alarmist film Digger, noting Tom Cruise’s performance as its only redeeming element, and promotes a podcast with Sean McNulty on Paramount’s future, federal film credits, and streaming sports rights."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261002181208.3.cd57593d7f0a7660@mg-d0.substack.com",
@@ -5066,121 +5200,10 @@
     "The newsletter promises original, paid‑research insights that explain why voters are shifting—especially former Trump supporters—rather than relying on generic polling or pundit speculation."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260902163931.3.b06310ff0637d0d2@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Just Did an IBGYBG",
-   "date": "2026-09-02T09:39-07:00",
-   "url": null,
-   "bullets": [
-    "The Trump administration is reportedly negotiating a 35% stake in a Venezuelan oil company, granting the U.S. Department of Defense a 100‑year lease and cost‑price oil access, a deal brokered by Alejandro Betancourt López, a chavista oligarch with a history of money‑laundering allegations.",
-    "The deal is illegal under U.S. law, which prohibits the Defense Department from owning foreign equity, and under Venezuelan law, which bars foreign governments from holding such stakes, making the arrangement effectively impossible.",
-    "The newsletter warns that the Trump‑Betancourt connection is a scandalous example of corruption, urging readers to read the full story for details on Betancourt’s background and the alleged illicit transaction."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260902160206.3.d55349b78fc9942c@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Meet the Populist Democrat Who Could Help Flip The Senate",
-   "date": "2026-09-02T09:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/meet-the-populist-democrat-who-could",
-   "bullets": [
-    "Former Senator Sherrod Brown is challenging GOP incumbent Jon Husted in Ohio’s high‑stakes Senate race, criticizing Husted’s support for data‑center expansion and pledging to champion working‑class voters.",
-    "In a Zeteo Substack Live, John Harwood and Brown discuss strategies for Democrats to win back working‑class trust and counter Trump’s “wrecking ball” policies.",
-    "The full 14‑minute conversation is available to paid subscribers, with a 1‑minute preview for free readers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260902140255.3.4d8d54d356f8bdf4@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "How Ed Markey Survived the Age War",
-   "date": "2026-09-02T07:02-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/how-ed-markey-survived-the-age-war",
-   "bullets": [
-    "The 2024 primary season has seen a generational revolt against the Democratic establishment, with seven long‑time incumbents losing seats to younger, often more progressive challengers across the country.",
-    "Massachusetts Senator Ed Markey, an 80‑year‑old progressive with 50 years in Congress, defeated 47‑year‑old centrist Congressman Seth Moulton by 30 points, reversing the usual age‑ideology trend seen elsewhere.",
-    "Markey’s victory suggests that in some districts, voters prioritize ideological alignment over age, indicating a potential shift in the Democratic Party’s future direction toward more progressive leadership."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260902133204.3.649047da8c2c8652@mg-d0.substack.com",
-   "newsletter": "Here Be Dragons from Barbara F. Walter",
-   "pub": "barbarafwalter",
-   "subject": "Why Strongmen Eventually Surround Themselves With Idiots",
-   "date": "2026-09-02T06:32-07:00",
-   "url": "https://barbarafwalter.substack.com/p/why-strongmen-surround-themselves",
-   "bullets": [
-    "Trump’s appointment of inexperienced loyalists—Kristi Noem to DHS, Tulsi Gabbard to the intelligence community, Kash Patel to the FBI, Robert F. Kennedy Jr. to HHS, Pete Hegseth to Defense—has caused chaos, a measles outbreak, and weakened key agencies.",
-    "Strongmen face a loyalty‑competence trade‑off: once in power, they replace competent officials with loyal, often mediocre, yes‑men, leading to bad policies, economic manipulation, corruption, institutional decay, and higher risk of costly foreign‑policy mistakes."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260902133000.3.d4d82a0f9817b66b@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Mike Johnson, Wet Noodle",
-   "date": "2026-09-02T06:30-07:00",
-   "url": null,
-   "bullets": [
-    "Trump publicly announced a $50.5 million disaster aid package for Texas, praising Governor Abbott and endorsing the state’s Republican ticket, highlighting his overt favoritism toward red states.",
-    "Bill Kristol argues the 119th Congress is a “rubber‑stamp” body that blindly supports Trump’s policies, contrasting it with the 1948 “Do‑Nothing” 80th Congress and urging voters to choose Democrats to check those policies.",
-    "House Speaker Mike Johnson deflected questions on the Iran war and Pentagon issues, claiming Congress has no role in war decisions, underscoring the GOP’s refusal to exercise its constitutional war‑making responsibilities."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260902131151.3.10a57e85f31e6d2c@mg-d0.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Does the shingles vaccine prevent dementia?",
-   "date": "2026-09-02T06:11-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/does-the-shingles-vaccine-prevent",
-   "bullets": [
-    "A natural‑experiment study in Wales found shingles vaccination cut dementia risk by about 20% over three years, a result later replicated in Australia, Canada, and US data, though one English hospital‑record study found no link.",
-    "The protective effect appears biologically plausible because varicella‑zoster can reactivate silently and cause neuroinflammation, but findings differ by sex and across studies, highlighting the need for randomized trials.",
-    "Regardless of dementia benefits, the shingles vaccine is strongly recommended for adults over 50 to prevent the painful, debilitating disease itself."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260902111613.3.5ec0bc8a742165b9@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Meet the Gulf ‘Spy Sheikh’ Backing Trump’s Insanely Corrupt Crypto Bank",
-   "date": "2026-09-02T04:16-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/meet-the-gulf-spy-sheikh-backing",
-   "bullets": [
-    "Trump’s family crypto firm World Liberty Financial sold a $500 million stake to UAE national security adviser Sheikh Tahnoon bin Zayed, giving the Emirati a 49% share in the venture and in a pending Trump‑backed bank.",
-    "The Trump administration earned at least $1.4 billion from the president’s $TRUMP memecoin and related crypto activities, while simultaneously approving 500,000 AI chips for the UAE and facilitating the Emirati investment.",
-    "A UMass Amherst poll found 77% of Americans oppose a sitting president profiting from crypto ventures tied to policy influence, and two‑thirds distrust Trump to avoid such conflicts."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260902100938.3.e568f51228a35b60@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Hits Keep Coming",
-   "date": "2026-09-02T03:09-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-hits-keep-coming",
-   "bullets": [
-    "Krugman notes U.S. GDP growth and unemployment remain solid despite Trump‑era shocks, but warns that persistent trade wars, Iran conflicts, and rising interest rates threaten future resilience.",
-    "He argues that investors’ belief the shocks are one‑time events has kept the economy afloat, yet the auto industry faces existential risk from Canada trade tensions and soaring refined‑fuel prices.",
-    "Krugman highlights the U.S. military’s munitions shortages and leadership losses under Hegseth, suggesting future conflicts could further strain economic stability and push rates higher."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 87,
-  "total": 376
+  "shown": 88,
+  "total": 378
  }
 }
