@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T12:25-07:00",
+ "updated": "2026-10-02T19:07-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -60,6 +60,58 @@
  },
  "items": [
   {
+   "id": "20261003003656.3.dcbe841fc7b0cadf@mg-d0.substack.com",
+   "newsletter": "Pete Buttigieg",
+   "pub": "petebuttigieg",
+   "subject": "A Sense of Hope in New Hampshire",
+   "date": "2026-10-02T17:36-07:00",
+   "url": "https://petebuttigieg.substack.com/p/a-sense-of-hope-in-new-hampshire",
+   "bullets": [
+    "Buttigieg recounts rallying with NH lawmakers Chris Pappas, Stefany Shaheen, and Cinde Warmington, urging a shift from Republican policies that have driven up gas, grocery prices, and interest rates since their 2022 takeover.",
+    "He frames the next 32 days as a critical period for grassroots effort to deliver change and restore affordability, inviting supporters to watch the rally video and engage online."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261003003118.3.ad6c30b2a99db3d5@mg2.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Okay, What Is Going On With Trump’s Legs? (w/ Tommy Vietor)",
+   "date": "2026-10-02T17:31-07:00",
+   "url": null,
+   "bullets": [
+    "Trump appears to be using a leg brace and moving unnaturally, yet his administration is sending an additional 10,000 troops to Iran amid rising tensions\",\"Jared Kushner, touted as the point person on a Gaza peace deal, is heavily invested in Israeli bomb‑making firms, raising conflict‑of‑interest concerns\",\"Tim Miller argues recent Democratic polls are overly optimistic, cites Islamophobia influencing the Michigan Senate race, advocates regime change in Eritrea, and warns that the All‑In podcast is pushing a reckless ‘all‑gas, no‑brakes’ AI agenda"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261002235947.3.5faa97d56f5d733f@mg-d1.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 89: Trump Pumps Out More Taxpayer-Funded ‘Obviously Illegal’ Ads",
+   "date": "2026-10-02T16:59-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-89-trump",
+   "bullets": [
+    "The New York Times and Wall Street Journal report that Trump’s taxpayer‑funded TV ads, paid from DHS money, likely violate federal law and could be deemed an impeachable offense, with a senior official calling them “obviously illegal.”",
+    "A GAO letter says Trump’s $810 million “pocket rescission” cancellation of HHS refugee and asylum funding bypassed Congress and breaches the Constitution.",
+    "The White House replaced CNN with right‑wing Real America’s Voice in the Air Force One press pool and removed CNN from Trump’s Texas‑Oklahoma trip pool, despite a judge’s temporary block on the ban."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261002221558.3.8b297597936ae3c2@mg-d0.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Tale of Two Interviews",
+   "date": "2026-10-02T15:15-07:00",
+   "url": null,
+   "bullets": [
+    "Sarah and JVL are back apart, as God intended. And there’s lots happening: Should Democrats try to impeach Pete Hegseth? Trump is sending a third aircraft carrier to the Middle East.",
+    "And then there are the two interviews. JD Vance seems to be living in one world while mush-brain Donald Trump is living in another reality. Plus: Trump’s DoJ wants to go after the real villains of Watergate: The prosecutors who investigated…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20261002190159.3.c26d6d5ae4443915@mg-d0.substack.com",
    "newsletter": "Sonny Bunch - The Bulwark",
    "pub": "thebulwark",
@@ -80,10 +132,10 @@
    "date": "2026-10-02T11:12-07:00",
    "url": "https://roycoopernc.substack.com/p/guys-like-him",
    "bullets": [
-    "Michael Whatley built his career putting the profits of Big Oil and utility companies like Duke Energy above working families. Guys like him aren’t fit to serve the people. What my new ad here [ https://substack.com/redirect/d4a5947b-def3-4…",
-    "Read a transcript of “Guys Like Him” below. Narrator: “Duke Energy raises your rates almost every single year, but they couldn’t do it without guys like him. Michael Whatley, he spent his career lobbying for big Utility companies, including…"
+    "Michael Whatley spent his career lobbying for Duke Energy and Big Oil, helping them secure rate hikes and billions in tax breaks that increase costs for consumers.",
+    "The ad claims that such lobbyists make utilities and oil firms more profitable at the expense of working families, deeming them unfit to serve the public."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261002164314.3.9e4dfc24b40b6aba@mg-d0.substack.com",
@@ -107,10 +159,11 @@
    "date": "2026-10-02T09:26-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/is-chris-van-hollen-running-for-president",
    "bullets": [
-    "Senator Chris Van Hollen might not be gunning for a leadership position in the Senate, but he is “kicking the tires on a 2028 national campaign,” he tells Mehdi. “I think the changes that we need to make, both in terms of our domestic polic…",
-    "The Maryland senator joins Mehdi one day after a vote on his resolution [ https://substack.com/redirect/438ab3fc-68ff-47d6-9b45-b4600d4a6149?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] calling for a report from the S…"
+    "Senator Chris Van Hollen says he’s “kicking the tires” on a 2028 presidential run, citing huge domestic and foreign policy changes that require a national effort",
+    "He criticized the 47‑51 vote that defeated his resolution demanding a State Department report on nine Americans killed by Israeli forces, calling dissenters complicit in covering up the killings",
+    "In the interview he addresses the lone Democrat who voted against the resolution, his age, alleged Biden administration mishandling of Gaza, AI threats, Trump’s rapport with Xi, and AIPAC’s influence"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261002145820.3.f81cf43b71926899@mg2.substack.com",
@@ -5124,51 +5177,10 @@
     "Krugman highlights the U.S. military’s munitions shortages and leadership losses under Hegseth, suggesting future conflicts could further strain economic stability and push rates higher."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260902001619.3.67005af4bb787cd4@mg-d1.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "El-Sayed Asks Michigan’s Jewish Dems for Forgiveness",
-   "date": "2026-09-01T17:16-07:00",
-   "url": null,
-   "bullets": [
-    "Abdul El‑Sayed, Michigan’s Democratic Senate nominee, met with Jewish Democratic leaders in Birmingham, apologizing for past remarks that many view as questioning Israel’s right to exist and for his ties to controversial streamer Hasan Piker.",
-    "He defended a video statement that condemned a recent synagogue attack but added that U.S. support for Israel’s actions creates a ‘hurt people hurt people’ cycle, sparking further backlash from Jewish voters."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260901232100.3.574ea29abdaf7c28@mg2.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Ken Paxton Is Running One of the Worst Campaigns in America",
-   "date": "2026-09-01T16:21-07:00",
-   "url": null,
-   "bullets": [
-    "The Supreme Court temporarily allows Trump’s ballroom to proceed, sparking debate over its future demolition by 2029, while JVL likens Justice John Roberts to Senator Susan Collins for his cautious stance.",
-    "Ken Paxton’s campaign is described as one of America’s worst, with Paxton and other Republican incumbents feeling bleak about midterm prospects amid rising voter discontent.",
-    "Trump demands punishment for Kristen Welker after she noted his endorsed candidates are losing more often, highlighting intra‑party tensions and the growing scrutiny of Republican messaging."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260901220414.3.55473ed9867615b8@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Israeli Raid Forces Gaza Kindergarten to Frantically Evacuate 200 Children",
-   "date": "2026-09-01T15:04-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/israeli-bombing-raid-gaza-city-kindergarten",
-   "bullets": [
-    "Israeli forces raided a Gaza City kindergarten, forcing the Red Cross to evacuate 200 children aged 4‑5 amid gunfire and airstrikes near the American Hospital.",
-    "Head of the school, Doaa Qadeeh, livestreamed the chaos, pleading for safety as explosions echoed and parents scrambled to rescue their children.",
-    "The incident highlights how even supposedly safer Gaza areas are now subject to sudden military operations, endangering young civilians."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 87,
-  "total": 375
+  "total": 376
  }
 }
