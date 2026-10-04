@@ -1,23 +1,18 @@
 {
- "updated": "2026-10-03T19:46-07:00",
+ "updated": "2026-10-04T11:13-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Democrats are poised for a decisive midterm wave as multiple polls show double‑digit leads and a 99% chance of securing a House majority, a trend highlighted by Paul Krugman and The Bulwark (Krugman, The Bulwark).",
-   "Trump’s chaotic tactics—from illegal taxpayer‑funded ads to personal attacks on allies—are fueling intra‑Republican conflict and raising legal questions, covered by The Bulwark, The Message Box, and The Daily Wire (The Bulwark, The Message Box, Daily Wire).",
-   "The Israel‑Palestine conflict is intensifying, with escalating settler violence and high civilian casualties in Gaza prompting new Democratic warnings about ballot‑seizing tactics, reported by Zeteo and The Bulwark (Zeteo, The Bulwark).",
-   "Grassroots fundraising efforts in key swing states like North Carolina and New Hampshire are gaining momentum, as candidates such as Roy Cooper and Pete Buttigieg stress small‑donor power against billionaire‑backed opponents (Roy Cooper, Pete Buttigieg).",
-   "Rising oil risk premiums are driving up both fuel and mortgage rates, shaping voter concerns ahead of the elections, a link explored by JVL in The Bulwark (The Bulwark)."
+   "The 2024 midterms are shaping up to be a blue wave, with Democrats leading in Texas, Ohio, Alaska and tied in Kansas and Iowa, a trend that could flip traditionally Republican Senate seats and secure a majority (The Message Box, The Bulwark).",
+   "Trump’s covert “ballroom” project and his use of taxpayer money for political ads raise serious separation‑of‑powers and legal questions, as Congress refuses to fund it while the administration pushes for security upgrades (The Bulwark).",
+   "AI is being touted by figures like RFK Jr. as a tool to democratize healthcare, but experts warn it may replace doctors rather than augment them, sparking a debate over medical authority and patient autonomy (The Bulwark, Paul Krugman).",
+   "The U.S. diesel crisis is being framed as a binary choice by lobbyists, yet the real issue is a global refining crunch that limits policy options amid rising fuel prices and midterm election pressures (Doomberg).",
+   "Mortgage rates have surged to nearly 7.3% due to AI‑driven demand for capital, adding significant debt‑service costs for homeowners and highlighting the economic strain of the AI boom (Paul Krugman).",
+   "Israeli settlement violence and the Gaza death toll continue to rise, with settler pogroms and targeted killings fueling a humanitarian crisis that has prompted U.S. lawmakers to push for a “Stop the Settlement” bill (Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20261001110917.3.d07005e65be448cc@mg-d0.substack.com",
-   "20261001111208.3.3b87c43130d173ba@mg-d0.substack.com",
-   "20261001133235.3.c9046b2789e8f9c0@mg-d0.substack.com",
-   "20261001135335.3.13964e508dcd6445@mg-d0.substack.com",
-   "20261001145842.3.ed71cda02fcfa7e0@mg2.substack.com",
-   "20261001163900.3.898b87b249203496@mg-d1.substack.com",
    "20261001185719.3.6190514b8c16b329@mg2.substack.com",
    "20261001194052.3.73fd86dc600e23f8@mg-d1.substack.com",
    "20261001200121.3.bcd1c3303ddda09c@mg2.substack.com",
@@ -42,17 +37,107 @@
    "20261003120331.3.dce1227a29d4be24@mg-d0.substack.com",
    "20261003123533.3.302eb4d0442f5a29@mg-d1.substack.com",
    "20261003130147.3.405637b50f94d8ba@mg2.substack.com",
+   "20261003130434.3.b023f7867b96c8a6@mg-d1.substack.com",
    "20261003150003.3.0850f532372e1620@mg-d0.substack.com",
    "20261003153726.3.e5401c4c31d014a7@mg2.substack.com",
    "20261003164747.3.484111d9f29d36dd@mg-d0.substack.com",
    "20261003170047.3.5b8a1451784c77a2@mg2.substack.com",
    "20261003203331.3.9ad956f6bb477202@mg-d1.substack.com",
-   "20261004003049.3.9fdc07abd32d8228@mg2.substack.com"
+   "20261004003049.3.9fdc07abd32d8228@mg2.substack.com",
+   "20261004090053.3.ddc0cd9c80ef0970@mg-d1.substack.com",
+   "20261004103058.3.9a8cf96ec69057b9@mg-d1.substack.com",
+   "20261004110230.3.7a60110302fcfdda@mg2.substack.com",
+   "20261004122344.3.550104c51dd9994e@mg2.substack.com",
+   "20261004130452.3.a5177e1117d97642@mg-d1.substack.com",
+   "20261004133137.3.42404408ff0206e4@mg-d1.substack.com"
   ],
-  "updated": "2026-10-03T19:46-07:00",
+  "updated": "2026-10-04T11:13-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261004133137.3.42404408ff0206e4@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "This Filmmaker Exposed Benjamin Netanyahu. Now, He’s Taking On Elon Musk",
+   "date": "2026-10-04T06:31-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-filmmaker-exposed-benjamin-netanyahu",
+   "bullets": [
+    "Alex Gibney, who exposed Benjamin Netanyahu, argues Elon Musk is a “power without purpose” figure, likening him to a classic American trickster and confidence man.",
+    "Gibney details how Musk built a “genius” persona through legal threats, U.S. government complicity, and a focus on repopulation, right‑wing politics, and a potential 2024 election rigging.",
+    "The interview covers Musk’s volatile ties to Trump, his obsession with civil war, and the broader implications of his tech‑driven influence on American politics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261004130452.3.a5177e1117d97642@mg-d1.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "RFK Jr. Wants to AI-ify Health Care. Claude Says He’s Full of Sh*t.",
+   "date": "2026-10-04T06:04-07:00",
+   "url": null,
+   "bullets": [
+    "Robert F. Kennedy Jr. urged doctors to use AI for diagnoses, claiming it would let patients challenge medical authority and free them from “medical tyranny,” while citing AI’s superior accuracy in imaging and oncology studies.",
+    "Ezekiel Emanuel and colleagues published a JAMA article suggesting AI alone can outperform physicians in differential diagnosis, though they noted AI is most useful in hard cases where human uncertainty is high.",
+    "Claude’s fact‑check of Kennedy’s vaccine‑autism claim found the dose count inflated, the placebo‑testing claim false, and that all approved vaccines undergo safety trials, contradicting Kennedy’s assertion of no safety data."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261004122344.3.550104c51dd9994e@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "New NYT Poll Shows a Blue Wave Coming to Red America",
+   "date": "2026-10-04T05:23-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/new-nyt-poll-shows-a-blue-wave-coming",
+   "bullets": [
+    "A New York Times/Siena poll shows Democrats leading in Texas (51‑45), Ohio (49‑46), Alaska (50‑43) and tied in Kansas and Iowa, suggesting a potential blue wave in Senate races.",
+    "If accurate, Democrats could flip traditionally Republican seats, including North Carolina and two Trump‑won states, securing a Senate majority despite prior GOP dominance.",
+    "The analysis attributes Republican struggles to a broad voter rejection of Trump, citing broken promises and the war in Iran as key factors."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261004110230.3.7a60110302fcfdda@mg2.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why You Must Care About the Ballroom",
+   "date": "2026-10-04T04:02-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s six‑story underground “ballroom”—a 535‑room complex with a hospital and drone port—has no transparent funding source, contradicting his claim it would be taxpayer‑free.",
+    "Congress has explicitly refused to allocate money for the project, yet Trump is now seeking federal funds for security upgrades, raising a major separation‑of‑powers issue.",
+    "The author argues this covert construction threatens congressional oversight and urges readers to support independent journalism to expose such abuses."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261004103058.3.9a8cf96ec69057b9@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Who Dropped the Bonds? Interest Rates, Part II",
+   "date": "2026-10-04T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/who-dropped-the-bonds-interest-rates",
+   "bullets": [
+    "Mortgage rates jumped from ~6% pre‑Iran war to almost 7.3% in September, adding $431 monthly and $155,000 total interest on a $500,000 loan, highlighting debt‑service strain.",
+    "Krugman argues the surge isn’t driven by U.S. default risk or inflation fears but by massive funding demand from the AI boom, a narrative shift after the Iran war, and emerging balance‑sheet deleveraging."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261004090053.3.ddc0cd9c80ef0970@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Straw Clutching",
+   "date": "2026-10-04T02:00-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/straw-clutching",
+   "bullets": [
+    "The diesel crisis is framed as a binary choice—ban exports or do nothing—by industry lobbyists, while the Wall Street Journal argues the shortage stems from a global refining crunch, not U.S. exports.",
+    "Energy Secretary Chris Wright has been urging major refiners to voluntarily curb diesel exports, signaling the White House’s limited policy options amid rising fuel prices and upcoming midterms.",
+    "The author claims Trump has multiple levers to control diesel prices and that industry will benefit by cooperating with his preferred measures, contrary to the ‘limited options’ narrative."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261004003049.3.9fdc07abd32d8228@mg2.substack.com",
    "newsletter": "Bulwark Takes",
@@ -143,10 +228,11 @@
    "date": "2026-10-03T06:04-07:00",
    "url": "https://post.substack.com/p/kids-his-age-are-just-better-at-making",
    "bullets": [
-    "This week, we’re moving to Ireland, wondering what happened to dinner parties, and getting older in an image-obsessed industry. Over the past four years as roommates, Mackenzie and Taryn moved between cities and apartments, going from stran…",
-    "notes from september: for taryn [ https://substack.com/redirect/dd4eb078-de6e-48e2-9d8b-e3fb52b4eea0?j=eyJ1IjoiNWJ2anRsIn0.dvJG6tliYeGynhwMZWxeGfDYkCv6sNTbe4jHfFG5Nf8 ] —Mackenzie Thomas  in I Will Do Whatever I Want [ https://substack.com/…"
+    "Mackenzie and Taryn’s four‑year roommate saga—four apartments, zero money, endless late‑night talks—ends as they part ways, illustrating how deep adult friendships can form amid instability.",
+    "Derek Thompson cites data showing monthly dinner parties fell from 50% of Americans in 1975 to one‑quarter by 1998, attributing the drop to ‘harried leisure’ and the rise of dual‑earner households where women’s labor participation jumped from 50% to 80%, leaving men to neglect social‑calendar logistics.",
+    "Mandy Lee argues that aging 30‑somethings in fashion must develop a new, almost masochistic resilience because the industry rewards extreme beauty; without it, average‑looking professionals feel invisible despite their analytical expertise."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261003130147.3.405637b50f94d8ba@mg2.substack.com",
@@ -5073,106 +5159,10 @@
     "In Florida’s 7th District, GOP candidate Ryan Elijah faces an ethics complaint for failing to disclose the sources of up to $5.1 million in personal assets, a violation of House disclosure rules."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260903170114.3.a06c9d41bd429ded@mg-d0.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Chevron: A Deep Dive",
-   "date": "2026-09-03T10:01-07:00",
-   "url": null,
-   "bullets": [
-    "Doomberg released an 80‑minute deep‑dive on Chevron, covering supermajor dynamics, Chevron’s global asset mix, key growth opportunities, and investment considerations.",
-    "For the next two weeks, new subscribers—both $400/year and $1200/year tiers—receive free full access to the Chevron presentation, plus the archive of 500+ articles, before the offer ends Sept 18."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260903162658.3.563339a4761597b7@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Pete Hegseth Is a F*cking Moron. And We’re Paying for It.",
-   "date": "2026-09-03T09:26-07:00",
-   "url": null,
-   "bullets": [
-    "Sen. Thom Tillis urged President Trump to fire Secretary of Defense Pete Hegseth, citing his incompetence and focus on culture wars over national defense.",
-    "Hegseth mocked a Canadian cadet photo on Twitter, misrepresenting Canadian soldiers and undermining U.S.-Canada military cooperation, while 158 Canadian Armed Forces members died in Afghanistan fighting alongside the U.S."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260903150700.3.5ef09adc8aa67a4f@mg-d0.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Murder-for-Hire Plot Rocking MAGA Land",
-   "date": "2026-09-03T08:07-07:00",
-   "url": null,
-   "bullets": [
-    "Fernando Cerimedo, dubbed “MAGA’s Man in Latin America,” once a driver‑for‑hire and alleged real estate fraudster, advised right‑wing leaders like Argentina’s Javier Milei and Honduras’s Nasry Asfura while earning a “Hispanic Political Consultant of the Year” award at Mar‑a‑Lago in February 2024.",
-    "During the gala, Cerimedo publicly thanked former Trump campaign tech chief Brad Parscale for believing in him and providing technology, highlighting his close ties to the Trump orbit.",
-    "On August 17, hitmen in Bolivia attempted to murder Cerimedo’s pregnant ex‑girlfriend Nadia Beller, who survived and began revealing details that could implicate Cerimedo in the attack and expose broader Trump‑linked operations in Latin America."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260903150321.3.e8fb89a2aea8b732@mg-d0.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Here’s How You Tax the Billionaires",
-   "date": "2026-09-03T08:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/heres-how-you-tax-the-billionaires",
-   "bullets": [
-    "Gabriel Zucman argues that a wealth tax targeting assets, not income, is needed because billionaires like Musk and Bezos often report zero income and avoid taxes through holding companies.",
-    "He defends wealth taxes against claims they deter investment, citing California’s Proposition 40 (a one‑time 5% tax on state billionaires) and the UK’s Labour debate as timely examples.",
-    "Zucman also explains why past wealth taxes, such as France’s, failed and how a well‑designed tax could avoid those pitfalls while raising revenue from the ultra‑rich."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260903132735.3.1f7668d699eb9360@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "When You Control the Mail, You Control the Nation",
-   "date": "2026-09-03T06:27-07:00",
-   "url": null,
-   "bullets": [
-    "Rich Baris warns that without building on Trump’s 2024 gains, the GOP coalition will collapse, citing Trump’s foreign‑policy missteps like the Iran war as a key voter grievance.",
-    "Trump’s midterm strategy now relies on a national ad blitz—e.g., the “Toughest Guy” spot featuring Dana White—and on funneling his $850 million war chest into select races, while refusing to fund Senate nominee Ken Paxton despite GOP leaders’ pleas.",
-    "Senator Blumenthal has asked the USPS to explain a new, untested ballot‑verification system that could reject entire batches of mail‑in votes, a move Trump supports to undermine mail voting ahead of the midterms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260903113645.3.32bc1fe82dddeba0@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Haley Stevens Smears Bernie Sanders and Abdul El-Sayed, Calls Anti-Zionism a ‘Sickness’",
-   "date": "2026-09-03T04:36-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/haley-stevens-smears-bernie-sanders",
-   "bullets": [
-    "Rep. Haley Stevens, fresh from a Jerusalem visit, called anti‑Zionism a “hate movement” and labeled Bernie Sanders’ Middle‑East stance a “sickness,” while praising Israel despite accusations of genocide in Gaza.",
-    "Stevens, who spent over $30 million of AIPAC money on her Michigan Senate race and later endorsed primary loser Abdul El‑Sayed, accused him of “poisonous” anti‑Israel rhetoric even after endorsing him.",
-    "Iran claimed retaliation strikes on U.S. allies in Jordan and Iraq after a U.S. airstrike on a wedding killed four civilians, though U.S. Central Command said no troops were killed."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260903095637.3.50ac302eddc2ef7e@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Imperialist Delusions and the Price of Fuel",
-   "date": "2026-09-03T02:56-07:00",
-   "url": "https://paulkrugman.substack.com/p/imperialist-delusions-and-the-price",
-   "bullets": [
-    "Trump’s promise to halve fuel prices backfired, with gasoline and diesel soaring as his war with Iran disrupted oil supplies and stretched U.S. military resources.",
-    "Treasury Secretary Scott Bessent blamed Ukraine’s strikes on Russian oil facilities for the energy shock, despite those attacks being a response to Russia’s invasion and occurring alongside broader refining bottlenecks.",
-    "Krugman notes the Trump administration’s failed attempt to extract Ukrainian mineral revenues, its cut‑off of aid, and its inability to influence Ukraine’s war strategy, highlighting the administration’s weak leverage over fuel prices."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 88,
-  "total": 376
+  "shown": 89,
+  "total": 375
  }
 }
