@@ -1,48 +1,17 @@
 {
- "updated": "2026-10-03T11:02-07:00",
+ "updated": "2026-10-03T19:46-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s trade war with Canada has collapsed after a 250‑400% tariff on cheese, wiping out U.S. dairy exports and forcing Canadian producers to lose market access (The Bulwark, Zeteo).",
-   "Democrats are suing the DOJ for evidence that it may allow Trump to seize ballots on Election Day, a move that could enable a last‑minute takeover of the vote (Zeteo).",
-   "Federal TV ads promoting Trump’s personal agenda during NFL games have been condemned as misuse of government funds, sparking bipartisan outrage (The Bulwark).",
-   "North Carolina’s Senate race is a flashpoint: Roy Cooper’s campaign is scrambling to meet a $1 million fundraising deadline amid a 36‑hour Facebook outage and a $100 million GOP super‑PAC spend (Roy Cooper, Zeteo).",
-   "Oil risk premiums have surged again, lifting both oil prices and mortgage rates and reshaping the economic backdrop for the midterms (The Bulwark).",
-   "A poll shows a sharp decline in Trump’s AI approval, with 71% of voters favoring stricter AI guardrails and only 25% approving his handling, hinting at a potential Democratic wave on technology policy (Bill Kristol & Andrew Egger)."
+   "Democrats are poised for a decisive midterm wave as multiple polls show double‑digit leads and a 99% chance of securing a House majority, a trend highlighted by Paul Krugman and The Bulwark (Krugman, The Bulwark).",
+   "Trump’s chaotic tactics—from illegal taxpayer‑funded ads to personal attacks on allies—are fueling intra‑Republican conflict and raising legal questions, covered by The Bulwark, The Message Box, and The Daily Wire (The Bulwark, The Message Box, Daily Wire).",
+   "The Israel‑Palestine conflict is intensifying, with escalating settler violence and high civilian casualties in Gaza prompting new Democratic warnings about ballot‑seizing tactics, reported by Zeteo and The Bulwark (Zeteo, The Bulwark).",
+   "Grassroots fundraising efforts in key swing states like North Carolina and New Hampshire are gaining momentum, as candidates such as Roy Cooper and Pete Buttigieg stress small‑donor power against billionaire‑backed opponents (Roy Cooper, Pete Buttigieg).",
+   "Rising oil risk premiums are driving up both fuel and mortgage rates, shaping voter concerns ahead of the elections, a link explored by JVL in The Bulwark (The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20260929090234.3.fdc4cd4bbc1e7072@mg2.substack.com",
-   "20260929100319.3.02322611618ec7d4@mg-d0.substack.com",
-   "20260929103110.3.a6ca538d6b8591bb@mg2.substack.com",
-   "20260929110848.3.dfc47ae95eddeb31@mg-d0.substack.com",
-   "20260929112207.3.4980c1ea85897a92@mg-d0.substack.com",
-   "20260929132819.3.8efc740245b33430@mg2.substack.com",
-   "20260929140203.3.8f7abaeb726fe80e@mg-d0.substack.com",
-   "20260929143112.3.c22d4f4ba6ff4749@mg-d0.substack.com",
-   "20260929163333.3.6beb3e3e02a00184@mg2.substack.com",
-   "20260929165850.3.3e5dccc495b84ede@mg2.substack.com",
-   "20260929170144.3.0888a4cb2f37ac79@mg-d0.substack.com",
-   "20260929190735.3.4d505ddd5609ee9a@mg2.substack.com",
-   "20260929191146.3.11b00fdc3b9b8285@mg-d0.substack.com",
-   "20260929210903.3.039b14506957077e@mg-d1.substack.com",
-   "20260929233622.3.1679bcbdd6c9b700@mg-d1.substack.com",
-   "20260930000225.3.14aa2c6e257b76ed@mg-d0.substack.com",
-   "20260930102434.3.7e204db917446642@mg-d1.substack.com",
-   "20260930103118.3.c4196b49e4996700@mg2.substack.com",
-   "20260930110520.3.7cb4999b97bd2885@mg-d1.substack.com",
-   "20260930120346.3.0832d940750937aa@mg2.substack.com",
-   "20260930130003.3.1aa0ac19a5f08f0e@mg2.substack.com",
-   "20260930131932.3.03686c4593d4b324@mg-d0.substack.com",
-   "20260930133054.3.613c94671646bf22@mg-d1.substack.com",
-   "20260930163910.3.cbd03174f228bf2c@mg2.substack.com",
-   "20260930165336.3.d296f40f273f6602@mg-d1.substack.com",
-   "20260930220545.3.e6a0e16cb57068a4@mg-d0.substack.com",
-   "20260930220725.3.73b5238cf7488b2e@mg-d1.substack.com",
-   "20260930223047.3.7d74d99d68325075@mg2.substack.com",
-   "20260930235152.3.eda0b071cbf6a8f7@mg2.substack.com",
-   "20261001001757.3.1dff673dc59d1f41@mg2.substack.com",
    "20261001110917.3.d07005e65be448cc@mg-d0.substack.com",
    "20261001111208.3.3b87c43130d173ba@mg-d0.substack.com",
    "20261001133235.3.c9046b2789e8f9c0@mg-d0.substack.com",
@@ -53,12 +22,65 @@
    "20261001194052.3.73fd86dc600e23f8@mg-d1.substack.com",
    "20261001200121.3.bcd1c3303ddda09c@mg2.substack.com",
    "20261002000042.3.06bb104647d10ee4@mg-d0.substack.com",
-   "20261002002746.3.5f4e1607a61e4ec6@mg-d1.substack.com"
+   "20261002002746.3.5f4e1607a61e4ec6@mg-d1.substack.com",
+   "20261002103131.3.339fe938cfb23cdc@mg-d1.substack.com",
+   "20261002110223.3.a499b6c0428c3f78@mg-d1.substack.com",
+   "20261002112511.3.d94e0f16f301eaac@mg-d0.substack.com",
+   "20261002124203.3.ddcba831f5c6d79f@mg2.substack.com",
+   "20261002132651.3.b65228316cc1f16b@mg-d1.substack.com",
+   "20261002145820.3.f81cf43b71926899@mg2.substack.com",
+   "20261002162648.3.267e8813717993dd@mg-d1.substack.com",
+   "20261002164314.3.9e4dfc24b40b6aba@mg-d0.substack.com",
+   "20261002181208.3.cd57593d7f0a7660@mg-d0.substack.com",
+   "20261002190159.3.c26d6d5ae4443915@mg-d0.substack.com",
+   "20261002221558.3.8b297597936ae3c2@mg-d0.substack.com",
+   "20261002235947.3.5faa97d56f5d733f@mg-d1.substack.com",
+   "20261003003118.3.ad6c30b2a99db3d5@mg2.substack.com",
+   "20261003003656.3.dcbe841fc7b0cadf@mg-d0.substack.com",
+   "20261003103207.3.f07fc64dbd226fb2@mg-d1.substack.com",
+   "20261003113133.3.7bac829547d8152a@mg-d1.substack.com",
+   "20261003120331.3.dce1227a29d4be24@mg-d0.substack.com",
+   "20261003123533.3.302eb4d0442f5a29@mg-d1.substack.com",
+   "20261003130147.3.405637b50f94d8ba@mg2.substack.com",
+   "20261003150003.3.0850f532372e1620@mg-d0.substack.com",
+   "20261003153726.3.e5401c4c31d014a7@mg2.substack.com",
+   "20261003164747.3.484111d9f29d36dd@mg-d0.substack.com",
+   "20261003170047.3.5b8a1451784c77a2@mg2.substack.com",
+   "20261003203331.3.9ad956f6bb477202@mg-d1.substack.com",
+   "20261004003049.3.9fdc07abd32d8228@mg2.substack.com"
   ],
-  "updated": "2026-10-01T19:20-07:00",
+  "updated": "2026-10-03T19:46-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261004003049.3.9fdc07abd32d8228@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Ken Paxton Gets a Painfully Awkward “Endorsement” From Estranged Wife",
+   "date": "2026-10-03T17:30-07:00",
+   "url": null,
+   "bullets": [
+    "A new NYT‑Siena poll finds Democrats leading or within single digits in traditionally red states like Texas, Alaska, Ohio, Iowa and Kansas, suggesting broader national competitiveness.",
+    "Catherine Rampell argues the data reflect genuine Democratic gains rather than temporary fluctuations, while Bill Kristol warns that Trump’s shrinking base could reshape the GOP’s electoral calculus.",
+    "The authors contend that if these trends hold, the upcoming elections could resemble a true wave rather than isolated state‑level surprises."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261003203331.3.9ad956f6bb477202@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Trump Picked a Fight With His Own Ally at the Dumbest Possible Time",
+   "date": "2026-10-03T13:33-07:00",
+   "url": null,
+   "bullets": [
+    "Trump publicly posted Arkansas Sen. Tom Cotton’s private phone number after Cotton blocked Trump’s effort to make daylight‑saving time permanent, sparking a rare intra‑Republican clash.",
+    "The dispute pits Trump’s agenda against golf‑industry interests that favor year‑round daylight, while Republicans face a tough midterm election landscape.",
+    "Hosts Will Saletan and Joe Perticone will dissect the political fallout and the behind‑the‑scenes dynamics of this unexpected ally fight."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261003170047.3.5b8a1451784c77a2@mg2.substack.com",
    "newsletter": "This Week in Palestine | Zeteo",
@@ -107,10 +129,11 @@
    "date": "2026-10-03T08:00-07:00",
    "url": "https://roycoopernc.substack.com/p/i-dont-take-this-lightly",
    "bullets": [
-    "I know when folks chip in to our campaign, they’re choosing to not give their hard-earned money somewhere else. I don’t take that lightly. If – and only if – you can, I’m asking you to make a crucial donation today to help us flip North Car…",
-    "We’re building something special here in North Carolina, and we’re doing it the right way: with the support of people like you, chipping in $5 or $10 at a time. In fact, more than 90% of our donations come from folks giving $100 or less."
+    "Roy Cooper urges small-dollar donors to contribute $5‑$10 to fund his campaign to flip a North Carolina Senate seat against former oil lobbyist Michael Whatley.",
+    "He emphasizes that over 90% of his donations are $100 or less and contrasts his grassroots financing with his opponent’s reliance on billionaire money.",
+    "Cooper frames the race as crucial to defeating President Trump’s ally and taking back the Senate."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261003130434.3.b023f7867b96c8a6@mg-d1.substack.com",
@@ -5146,64 +5169,10 @@
     "Krugman notes the Trump administration’s failed attempt to extract Ukrainian mineral revenues, its cut‑off of aid, and its inability to influence Ukraine’s war strategy, highlighting the administration’s weak leverage over fuel prices."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260903010034.3.0526e8c0a0d47801@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Why Won’t Mainstream Media Talk to Hasan Piker?",
-   "date": "2026-09-02T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/why-wont-mainstream-media-talk-to",
-   "bullets": [
-    "Mainstream networks obsess over leftist Twitch streamer Hasan Piker, especially after he campaigned for Democrat Abdul El‑Sayed in Michigan, yet refuse to interview him, turning coverage into “ragebait.”",
-    "Piker criticizes the media’s focus on him as a distraction from “unprecedented crises,” arguing it disserves the public and reflects frustration with news outlets.",
-    "The newsletter notes a detailed analysis of how many minutes Fox and other networks devote to talking about Piker, highlighting the paradox of extensive coverage without direct engagement."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260903001455.3.b0a933d65dd38450@mg-d1.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Hands Dems Their Best Gift Yet",
-   "date": "2026-09-02T17:14-07:00",
-   "url": null,
-   "bullets": [
-    "Trump posted on Truth Social that communities shouldn’t want data centers, a move Democrats say weaponizes a growing backlash over rising utility costs and big‑tech influence, turning data centers into a new national ‘third rail’ for the GOP.",
-    "Democratic candidates from Wisconsin to Ohio are running TV ads and planning tracker attacks to tie Republican incumbents and Trump to data‑center projects, framing them as anti‑affordability and corruption, while some GOP officials now publicly call for a pause on approvals.",
-    "Republican leaders, from Rep. Tom Barrett to Gov. Greg Abbott, are scrambling to distance themselves from Trump’s comment, but the party faces an electoral vulnerability as the data‑center issue fractures coalitions, even prompting unions to warn they won’t back anti‑data‑center candidates."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260902200116.3.7c305c59b92609f2@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Did Germany’s Green Party Just Try and Get a Screening of Zeteo’s Gaza Doctors Film Canceled?",
-   "date": "2026-09-02T13:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/did-germany-green-party-israel-palestine-gaza-film",
-   "bullets": [
-    "The Berlin Greens’ mayoral candidate spokesperson said they would try to influence the cancellation of a Zeteo‑distributed film, ‘Gaza: Doctors Under Attack,’ after the Green‑affiliated Heinrich Böll Institute requested its removal.",
-    "Pro‑Israel journalist Wolfgang Tietze wrote to the Greens to urge the cancellation of the film’s screening, which had been acquired by Zeteo following the BBC’s 2023 cancellation of its publication."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260902195629.3.72cc6362283dcff4@mg2.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "I’m Launching Something New.",
-   "date": "2026-09-02T12:56-07:00",
-   "url": null,
-   "bullets": [
-    "Sarah Longwell, creator of The Focus Group Podcast, will launch a new Focus Group newsletter for Bulwark+ members, offering deeper analysis of swing voters and key 2026 races based on 400+ focus groups with thousands of voters.",
-    "The newsletter promises original, paid‑research insights that explain why voters are shifting—especially former Trump supporters—rather than relying on generic polling or pundit speculation."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 88,
-  "total": 378
+  "total": 376
  }
 }
