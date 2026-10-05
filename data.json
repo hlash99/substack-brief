@@ -1,23 +1,18 @@
 {
- "updated": "2026-10-04T11:13-07:00",
+ "updated": "2026-10-04T19:08-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2024 midterms are shaping up to be a blue wave, with Democrats leading in Texas, Ohio, Alaska and tied in Kansas and Iowa, a trend that could flip traditionally Republican Senate seats and secure a majority (The Message Box, The Bulwark).",
-   "Trump’s covert “ballroom” project and his use of taxpayer money for political ads raise serious separation‑of‑powers and legal questions, as Congress refuses to fund it while the administration pushes for security upgrades (The Bulwark).",
-   "AI is being touted by figures like RFK Jr. as a tool to democratize healthcare, but experts warn it may replace doctors rather than augment them, sparking a debate over medical authority and patient autonomy (The Bulwark, Paul Krugman).",
-   "The U.S. diesel crisis is being framed as a binary choice by lobbyists, yet the real issue is a global refining crunch that limits policy options amid rising fuel prices and midterm election pressures (Doomberg).",
-   "Mortgage rates have surged to nearly 7.3% due to AI‑driven demand for capital, adding significant debt‑service costs for homeowners and highlighting the economic strain of the AI boom (Paul Krugman).",
-   "Israeli settlement violence and the Gaza death toll continue to rise, with settler pogroms and targeted killings fueling a humanitarian crisis that has prompted U.S. lawmakers to push for a “Stop the Settlement” bill (Zeteo)."
+   "Democrats are poised for a blue‑wave Senate surge as new NYT/Siena polls show them leading or within single digits in traditionally red states like Texas, Ohio, Alaska, Kansas and Iowa (The Message Box, The Bulwark).",
+   "Trump’s legal and financial controversies are intensifying, from illegal taxpayer‑funded ads and a disputed $810 million refugee‑fund cut to the opaque funding of his massive underground “ballroom” complex (The Bulwark, This Week in Democracy).",
+   "Mortgage rates have jumped to over 7 % as AI‑driven capital demand fuels a bond market squeeze, adding hundreds of thousands of dollars in interest for homeowners (Paul Krugman).",
+   "The diesel shortage is being framed as a binary export‑ban debate, but analysts point to a global refining crunch and limited White House policy options ahead of the midterms (Doomberg).",
+   "Violence in the Israel‑Palestine conflict escalates, with Israeli settlers carrying out attacks and the Gaza death toll surpassing 74,000, while U.S. politicians grapple with related diplomatic pressures (Zeteo).",
+   "Republican intra‑party fights are surfacing, highlighted by Trump’s public showdown with Sen. Tom Cotton over daylight‑saving time and the emergence of Jim Jordan as a potential MAGA heir, threatening GOP cohesion ahead of elections (The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20261001185719.3.6190514b8c16b329@mg2.substack.com",
-   "20261001194052.3.73fd86dc600e23f8@mg-d1.substack.com",
-   "20261001200121.3.bcd1c3303ddda09c@mg2.substack.com",
-   "20261002000042.3.06bb104647d10ee4@mg-d0.substack.com",
-   "20261002002746.3.5f4e1607a61e4ec6@mg-d1.substack.com",
    "20261002103131.3.339fe938cfb23cdc@mg-d1.substack.com",
    "20261002110223.3.a499b6c0428c3f78@mg-d1.substack.com",
    "20261002112511.3.d94e0f16f301eaac@mg-d0.substack.com",
@@ -49,12 +44,39 @@
    "20261004110230.3.7a60110302fcfdda@mg2.substack.com",
    "20261004122344.3.550104c51dd9994e@mg2.substack.com",
    "20261004130452.3.a5177e1117d97642@mg-d1.substack.com",
-   "20261004133137.3.42404408ff0206e4@mg-d1.substack.com"
+   "20261004133137.3.42404408ff0206e4@mg-d1.substack.com",
+   "20261005000923.3.da96f9eb91a0907d@mg-d1.substack.com"
   ],
-  "updated": "2026-10-04T11:13-07:00",
+  "updated": "2026-10-04T19:08-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261005000923.3.da96f9eb91a0907d@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trumpism in Trouble on the Prairie",
+   "date": "2026-10-04T17:09-07:00",
+   "url": null,
+   "bullets": [
+    "Democratic Senate candidate Adam Hamilton, a 62‑year‑old United Methodist pastor, warned Kansas voters that the Senate Republicans’ top super PAC shifted money from North Carolina to Kansas for a blitz of ads against him.",
+    "Despite breaking fundraising records, Hamilton says he still needs to raise millions more and acknowledges the personal toll the campaign is taking on his church, community, and family.",
+    "Polls suggest Hamilton could be competitive against incumbent Roger Marshall, prompting Republicans to rush resources into Kansas as the midterms approach."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261004205944.3.c41e2c232153a42d@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Andrew Egger Saw an Older, Slower Trump on the Rally Stage | Bulwark on Sunday",
+   "date": "2026-10-04T13:59-07:00",
+   "url": null,
+   "bullets": [
+    "Andrew Egger joins Bill Kristol after an extraordinary 24 hours in Ohio: attending the funeral of 20-year-old Haitian immigrant Pierre Bel, then heading straight to a Trump rally, where he found surprising cracks among Trump supporters even…"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20261004133137.3.42404408ff0206e4@mg-d1.substack.com",
    "newsletter": "Mehdi Unfiltered",
@@ -5104,65 +5126,10 @@
     "While the moves have negligible financial impact, they signal a loss of trust in the U.S. to honor international agreements, a reputation that will take years to rebuild."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260904010037.3.7402d1cd79e8ea62@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Ted Cruz’s New Biography of Clarence Thomas Is About Becoming a Supreme Court Justice – Himself",
-   "date": "2026-09-03T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/ted-cruzs-new-biography-of-clarence",
-   "bullets": [
-    "Ted Cruz’s new book, *Going Further: The Incomparable Clarence Thomas*, is a hagiographic biography that highlights Cruz’s past Supreme Court cases and his own legal views rather than outlining his potential judicial philosophy.",
-    "Cruz tells NPR’s Steve Inskeep he would never become a judge because judges stay out of politics, yet the author notes that Supreme Court justices, including Thomas, are deeply political actors.",
-    "The piece criticizes Cruz’s claim as disingenuous, suggesting the biography serves more as a personal promotion ahead of the presidential election than a serious legal study."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260904002410.3.1fa5d9d0eda38870@mg2.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Europe’s Gold Fled the Nazis. Now It’s Fleeing Trump.",
-   "date": "2026-09-03T17:24-07:00",
-   "url": null,
-   "bullets": [
-    "Dutch central bank moved $12 billion of gold from New York to London vaults, citing concerns over Trump’s policies; France followed by selling $15 billion of New York bullion and storing it in Paris.",
-    "Germany and Italy, the U.S.’s second and third largest gold holders, are debating pulling their reserves from U.S. vaults, reflecting a growing distrust of American leadership under Trump."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260903213045.3.791dd8fb05180390@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Inside Trump’s Nightmare for Haitians in Springfield: ‘We’re Following Our Orders’",
-   "date": "2026-09-03T14:30-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-springfield-haitians-following-orders",
-   "bullets": [
-    "Trump’s administration dismantled Haitian Temporary Protected Status and used ICE to launch a sweeping crackdown in Springfield, Ohio, targeting the local Haitian community after years of racist rhetoric",
-    "The Supreme Court’s right‑wing supermajority upheld the crackdown, which immigration lawyer Katie Kersh says is a test case for broader, nationwide anti‑immigrant enforcement",
-    "The campaign has created pervasive fear, with residents fearing to leave their homes as the government enforces a militarized ‘law and order’ agenda against a vulnerable minority"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260903190612.3.72194f0828650bf3@mg2.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Pennsylvania Republicans: We’re Toast",
-   "date": "2026-09-03T12:06-07:00",
-   "url": null,
-   "bullets": [
-    "GOP nominee for Pennsylvania governor Stacy Garrity trails incumbent Josh Shapiro by 16‑31 points in recent polls and faces a ten‑to‑one fundraising gap, with Shapiro ahead by $16 million.",
-    "Republican leaders including Rep. Mike Kelly and Rep. Dan Meuser describe Garrity’s race as an uphill battle, noting Shapiro’s strong war chest, incumbency advantage, and even some cautious GOP support for the Democrat.",
-    "In Florida’s 7th District, GOP candidate Ryan Elijah faces an ethics complaint for failing to disclose the sources of up to $5.1 million in personal assets, a violation of House disclosure rules."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 89,
-  "total": 375
+  "shown": 88,
+  "total": 373
  }
 }
