@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T19:08-07:00",
+ "updated": "2026-10-05T14:32-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,112 @@
  },
  "items": [
   {
+   "id": "20261005212057.3.b49e99d3a3f9db66@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "‘De-Trumpification’: America’s Ruler Is ‘Consumed’ by Fear His Self-Tributes Will Be Erased",
+   "date": "2026-10-05T14:20-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/de-trumpification-trump-fears",
+   "bullets": [
+    "Donald Trump has spent over $1 billion of taxpayer money on projects that inflate his personality cult, including lavish decorations for his Washington, D.C. arch and White House ballroom.",
+    "Trump fears a future “de‑Trumpification” that would strip his likeness from money, buildings, and monuments, prompting him to use government resources to preempt Democratic efforts to erase his legacy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261005184724.3.fc0ddc36b51806bd@mg2.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "🚨October Surprise",
+   "date": "2026-10-05T11:47-07:00",
+   "url": null,
+   "bullets": [
+    "Ready for an October surprise that won’t send you spiraling? For a limited time, get 30 percent off Bulwark+ for the next year. The 2026 midterm elections are only a few weeks away. If the last decade of Trump’s GOP has taught us anything, …",
+    "But a Bulwark+ membership supports a different kind of discourse, borne of independent journalism that isn’t beholden to billionaires or MAGA freaks. At The Bulwark, we tell you the truth. We say what we actually think. And we try to have a…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261005172220.3.91af6387c88ae60b@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Where Does Hamas Stand Three Years After Oct. 7 – and What Comes Next?",
+   "date": "2026-10-05T10:22-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/where-does-hamas-stand-three-years",
+   "bullets": [
+    "Hamas, after three years since Oct. 7, has halted all attacks, agreed to lay down arms for Israeli withdrawal, and its leaders now focus on survival rather than liberation, sparking internal split between those labeling the attack a disaster and those invoking Yahya Sinwar’s legacy.",
+    "Israel has killed over 1,450 Palestinians since the 2025 ceasefire, including many Hamas commanders, yet Hamas has not fired a single rocket or bullet in retaliation, despite denying ceasefire violations.",
+    "The movement’s identity, built on armed resistance, is now in crisis as it struggles to find a viable alternative strategy, leading to a divided leadership and a shift toward political survival over military objectives."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261005164428.3.96bf02fe04dcc994@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Doomsday Scenario",
+   "date": "2026-10-05T09:44-07:00",
+   "url": null,
+   "bullets": [
+    "The author predicts Democrats have a roughly 52.5‑seat chance of winning the Senate, framing the outcome distribution as a bell curve centered near that number.",
+    "Despite a potential Democratic victory, the piece warns that a looming, unspecified ‘very, very dangerous’ scenario threatens the political landscape."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261005132352.3.8d2a453b00f6b3b4@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A Death. A Funeral. And the Trump Rally Down the Block.",
+   "date": "2026-10-05T06:23-07:00",
+   "url": null,
+   "bullets": [
+    "Local Ohio Republicans and MAGA voters expressed mixed feelings about the Haitian removals, acknowledging both economic contributions and concerns over illegal immigration, while political candidates avoided the topic at the rally"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261005111900.3.0409a060ce1c2155@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Free-Falling Trump Whines, Bitches, and Bribes – as New and Stunning Polls Keep Piling on the Pain",
+   "date": "2026-10-05T04:19-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/free-falling-trump-whines-bitches",
+   "bullets": [
+    "Trump claimed on Fox & Friends that if Republicans win Congress he will give every U.S. adult $5,000, absurdly saying the money would come from tariff revenues, a promise analysts say is financially impossible.",
+    "New polls show the GOP losing Latino support and seeing previously safe red states become competitive, highlighting the party’s deteriorating electoral prospects.",
+    "In California, Rep. Ro Khanna attacks Gov. Newsom over Proposition 40, a billionaire tax aimed at funding healthcare, a fight that could influence the 2028 presidential primary."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261005111312.3.fa057ec94d6e569c@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Adam Hamilton Can Win Kansas",
+   "date": "2026-10-05T04:13-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/adam-hamilton-can-win-kansas",
+   "bullets": [
+    "With a month to go, it’s a question a lot of people are asking. Every summer, a few deep-red states look like they’re within reach. Then fall comes and they turn out to be a mirage.",
+    "But a new poll [ https://substack.com/redirect/1313c37d-4d0b-4851-bd4d-8466e021cf64?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] from the A+-rated New York Times/Siena found Democrat Adam Hamilton tied 45-45 with Repu…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261005103143.3.a9e509fa540509da@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Trump Administration is a Cesspit of Corruption",
+   "date": "2026-10-05T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-trump-administration-is-a-cesspit",
+   "bullets": [
+    "Krugman claims Trump and his circle have amassed roughly $10 billion in personal gain, citing pardons for scammers, Jared Kushner’s Gulf‑state fund, and Howard Lutnick’s $7 billion crypto ties.",
+    "A Wall Street Journal editorial and an Economist/YouGov poll show corruption is becoming a GOP issue, but only 30% of Americans currently view Republicans as more corrupt than Democrats.",
+    "Krugman warns Democrats must seize the expected blue wave to investigate Trump’s looting while avoiding similar big‑money corruption scandals of their own."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261005000923.3.da96f9eb91a0907d@mg-d1.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
    "pub": "thebulwark",
@@ -73,9 +179,11 @@
    "date": "2026-10-04T13:59-07:00",
    "url": null,
    "bullets": [
-    "Andrew Egger joins Bill Kristol after an extraordinary 24 hours in Ohio: attending the funeral of 20-year-old Haitian immigrant Pierre Bel, then heading straight to a Trump rally, where he found surprising cracks among Trump supporters even…"
+    "Andrew Egger attended a funeral for 20‑year‑old Haitian immigrant Pierre Bel in Ohio before going straight to a Trump rally, noting the community’s grief and resilience.",
+    "At the rally, Egger observed Trump’s lower energy and “cracks” among supporters, with some questioning the president’s immigration rhetoric toward Haitians.",
+    "They warned that Republicans face ominous midterm prospects, citing declining enthusiasm and shifting demographics in key swing areas."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261004133137.3.42404408ff0206e4@mg-d1.substack.com",
@@ -4989,147 +5097,10 @@
     "He claims Trump is alienating his core coalition through war rhetoric, immigration stances, and social‑media trolling, undermining the coalition that helped him win the 2024 election."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260904205655.3.5d067f5272751aa5@mg-d0.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "David French: MAGA Is Making America Less Free",
-   "date": "2026-09-04T13:56-07:00",
-   "url": null,
-   "bullets": [
-    "Marco Rubio is accused of using executive powers to create a new class of immigrant political prisoners, while DHS officials brag about shackling and frog‑marching Haitians under protected status.",
-    "David French argues that the Founders intended constitutional liberties to apply to noncitizens, citing cases like Milo Yiannopoulos, and critiques Trump’s illegal ballroom construction and Texas Republicans’ stance on Paxton vs. Talarico.",
-    "The newsletter notes that 150 days of detention have now affected Iranian green‑card holders, and Tim Miller praises the LSU ruling ahead of the Clemson game."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260904200042.3.7b04fcee7a15145b@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Netflix and Kill: Why Is the Streamer Still Platforming the Israeli Propaganda Show ‘Fauda’?",
-   "date": "2026-09-04T13:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/netflix-and-kill-why-is-the-streamer",
-   "bullets": [
-    "The newsletter argues that Netflix’s renewal of the Israeli series “Fauda” for a fifth season effectively platforms propaganda that glorifies Israeli soldiers disguising themselves as Palestinians, a practice prohibited by International Humanitarian Law.",
-    "It claims the show normalizes the Israeli Occupation Forces’ war crimes by depicting undercover operations that involve kidnapping and killing civilians, framing this as dehumanization amid the ongoing Gaza conflict.",
-    "The author questions how Netflix can continue streaming the series while the Israel‑Gaza war, described as a live‑streamed genocide, persists into its fourth year."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260904190906.3.36b9ec40b4e1d0b6@mg2.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Will Republicans Save the Film Industry?",
-   "date": "2026-09-04T12:09-07:00",
-   "url": null,
-   "bullets": [
-    "A bipartisan coalition of film industry leaders is pushing a federal production tax credit to keep jobs in U.S. states like Louisiana, Texas and Georgia, framing it as a jobs‑saving measure rather than a Hollywood bailout.",
-    "President Trump broke a logjam by publicly urging Congress to approve the incentive, omitting his earlier tariff idea, prompting Democratic Rep. Laura Friedman and Republican Rep. Brian Jack to highlight its national economic benefits despite GOP hesitancy to appear as bailing out liberal Hollywood.",
-    "The Motion Picture Association estimates the credit could boost production across all 50 states, with examples like Disney’s move to England for 25% tax rebates and Deadpool & Wolverine’s $100 million UK rebate illustrating the money at stake."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260904163043.3.1d82546d502cd08b@mg-d1.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The MAGA World Incentives That Have Saved Max Miller",
-   "date": "2026-09-04T09:30-07:00",
-   "url": null,
-   "bullets": [
-    "Ohio Rep. Max Miller faces a House Ethics Committee investigation after his ex‑wife accused him of pouring scalding water on her, pointing a gun at her head, and his daughter’s collarbone being broken, allegations he denies.",
-    "Top Republicans—including Speaker Mike Johnson, candidate Vivek Ramaswamy and the NRCC—continue to back Miller, saying his effectiveness outweighs personal misconduct, while the party prioritizes retaining House control over moral standards.",
-    "Democratic challenger Brian Poindexter’s ad, titled “Daughters,” contrasts Miller’s alleged abuse by highlighting his opponent’s family presence, offering a subtle rebuttal to the GOP’s “macho cruelty” culture."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260904150253.3.e3f999ad6b8155f7@mg2.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "ICYMI: Mehdi’s No-Holds-Barred Sit-Down With Hunter Biden",
-   "date": "2026-09-04T08:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/icymi-mehdis-no-holds-barred-sit",
-   "bullets": [
-    "Hunter Biden claims his father enabled Israel’s Gaza campaign and praised Netanyahu, while revealing his own addiction struggles and alleged role in the “Biden crime family” narrative."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260904144538.3.fdc6940a90da655c@mg-d1.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "Trump Took His Status. ICE Took His Dignity. He Took His Life.",
-   "date": "2026-09-04T07:45-07:00",
-   "url": null,
-   "bullets": [
-    "In July 2024, a Supreme Court ruling allowed the Trump administration to end Temporary Protected Status for 350,000 Haitians, leading to Pierre Bel’s ankle‑monitoring and eventual death after a tractor‑trail collision.",
-    "Pierre, a Haitian TPS recipient, was denied a soccer scholarship at Wittenberg, forced to enroll at Wright State, and faced bullying and humiliation while wearing an ankle monitor, which he claimed was withheld from his JROTC uniform.",
-    "Haitian community leaders and faith figures blamed the Trump‑era deportation policy for Pierre’s death, calling for an end to ankle‑monitor shackling and highlighting the historical parallels to Haiti’s 1915 U.S. occupation and ongoing human‑rights abuses."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260904132330.3.4a1854617332c3d3@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Iran War? What Iran War?",
-   "date": "2026-09-04T06:23-07:00",
-   "url": null,
-   "bullets": [
-    "Vice President JD Vance told reporters there is no active shooting in Iran, framing the ongoing Strait of Hormuz tensions as a limited problem rather than a war.",
-    "The Wall Street Journal reports Trump is privately discussing declaring the Iran conflict over, while commentators like Scott Jennings claim Iran is “scrambled and defeated,” signaling a shift from earlier claims of imminent Iranian concessions.",
-    "Independent shipping data contradicts Trump’s claim that 18 million barrels per day are now transiting Hormuz, and Brent and diesel prices remain high, undermining the administration’s narrative of a successful resolution."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260904110035.3.589a1b34748828ac@mg2.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "John Roberts Sounded the Alarm on Trump’s Illegal Ballroom (w/ George Conway)",
-   "date": "2026-09-04T04:00-07:00",
-   "url": null,
-   "bullets": [
-    "Robinson and Conway warn that Trump’s push to restrict mail‑in voting before the midterms could backfire if the chaotic USPS reforms are ultimately struck down by the Supreme Court.",
-    "They note SCOTUS has allowed Trump’s controversial ballroom construction to proceed, but Democrats may move to halt it in January, while Epstein‑related questions remain under‑reported."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260904105931.3.5e5f6fb96b0b46ab@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Will Republicans Be Asked to Disavow Elon Musk Over His Latest Creepy Antisemitic Post?",
-   "date": "2026-09-04T03:59-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/will-republicans-be-asked-to-disavow-musk-antisemitism",
-   "bullets": [
-    "Elon Musk sparked outrage by posting a poll questioning Jewish racial identity and suggesting DNA proof is needed, echoing historic antisemitic tropes and prompting criticism from the ADL and commentators.",
-    "Musk, the GOP’s top donor, has pledged at least $100 million for mid‑term races and recently disclosed $800,000 in spending, raising questions whether Republican candidates will be pressured to denounce his antisemitic remarks.",
-    "The newsletter contrasts this with Democrats’ demand that left‑leaning streamer Hasan Piker disavow alleged antisemitism, highlighting a double standard in political accountability."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260904100337.3.9135e927f4ab56bc@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Ingots We No Longer Trust",
-   "date": "2026-09-04T03:03-07:00",
-   "url": "https://paulkrugman.substack.com/p/ingots-we-no-longer-trust",
-   "bullets": [
-    "Krugman likens central‑bank gold reserves to Yap’s massive stone money, noting that most gold sits in the New York Fed and changes hands without moving the metal.",
-    "He warns that the Trump administration’s disregard for rule of law makes a seizure of that gold plausible, prompting the Dutch (shifting $12 bn) and French central banks to relocate gold to London and Paris.",
-    "While the moves have negligible financial impact, they signal a loss of trust in the U.S. to honor international agreements, a reputation that will take years to rebuild."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 88,
-  "total": 373
+  "shown": 85,
+  "total": 371
  }
 }
