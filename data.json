@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T14:32-07:00",
+ "updated": "2026-10-05T20:09-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,74 @@
  },
  "items": [
   {
+   "id": "20261006013040.3.cf3b7a28ec317cc0@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Jack Smith Reveals the Words That Could Have Buried Trump",
+   "date": "2026-10-05T18:30-07:00",
+   "url": null,
+   "bullets": [
+    "Will Saletan argues that Jack Smith’s congressional testimony shows Trump was repeatedly warned by advisers, GOP officials, and DOJ that the 2020 election was legitimate, yet he ignored it",
+    "He outlines how prosecutors would have presented evidence of Trump’s election falsehoods, pressure on state officials in Georgia and Pennsylvania, and his refusal to halt the Jan 6 Capitol attack",
+    "The piece promotes a Bulwark video and offers discounted Bulwark+ memberships to support such in‑depth reporting"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261006010112.3.8dc151036b64806a@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Debunked: Mehdi Joins Piers Morgan To Destroy Israeli Military Claims About Murdered Journalists",
+   "date": "2026-10-05T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/debunked-mehdi-joins-piers-morgan",
+   "bullets": [
+    "Mehdi and Piers Morgan appeared on ‘Piers Uncensored’ to refute an Israeli military video that labeled dozens of Gaza journalists as Hamas operatives without evidence, calling the claim fake news.",
+    "The follow‑up debate, featuring analyst Omar Baddar, Netanyahu ally Amit Segal, and ex‑spokesperson Jonathan Conricus, covered Gaza’s death toll, the war‑crime documentary “Naza,” the Israeli army’s history of deception, and the alleged FlyDubai hijacking plot."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261006003141.3.646f3a18b3b6c2a3@mg-d1.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "Can I count on you again?",
+   "date": "2026-10-05T17:31-07:00",
+   "url": "https://ossoff.substack.com/p/can-i-count-on-you-again",
+   "bullets": [
+    "Ossoff reminds supporters that Republicans spent $269 million to try to defeat him in 2020, yet he won both his Georgia seat and the Democratic Senate majority.",
+    "He warns that the 2026 midterms are a pivotal battleground, with Trump and MAGA targeting his seat as the key to reclaiming the Senate.",
+    "He urges immediate donations via ActBlue, emphasizing that every contribution is crucial in this close race."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261005233407.3.349dc0e67e8840a5@mg-d0.substack.com",
+   "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
+   "pub": "macgregorwarrior",
+   "subject": "How do Washington’s Proxy Wars End?",
+   "date": "2026-10-05T16:34-07:00",
+   "url": "https://macgregorwarrior.substack.com/p/how-do-washingtons-proxy-wars-end",
+   "bullets": [
+    "Warrior Diplomacy Substack is a reader-supported publication. To receive new posts and support my work, consider become a paid subscriber. Washington’s proxy wars are far from over. Since the Special Military Operation (SMO) began in 2022, …",
+    "Translating tactical or operational victories into a stable peace is tricky. Ideally, BEFORE a breakout in hostilities, military strategists should focus on more than destroying the opponent’s forces (OPFOR) or even breaking the enemy’s wil…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261005232540.3.245d258b3643b9e9@mg-d1.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A Small Montana Town Tells Ben Shapiro to F*ck Off",
+   "date": "2026-10-05T16:25-07:00",
+   "url": null,
+   "bullets": [
+    "Livingston, Montana commissioners voted to temporarily suspend the Daily Wire’s filming permit for Ben Shapiro’s pro‑ICE movie “Pawn Shop” after complaints that the crew took over streets for a $5,000 fee despite a $1.5 million budget.",
+    "The hearing revealed residents weren’t objecting to the film’s anti‑ICE content but to the disruption and lax permitting that let the production operate with little oversight.",
+    "No Daily Wire representatives attended the meeting, and the commission plans to tighten film‑permit rules while the permit’s future remains uncertain."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261005212057.3.b49e99d3a3f9db66@mg2.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
@@ -72,10 +140,10 @@
    "date": "2026-10-05T11:47-07:00",
    "url": null,
    "bullets": [
-    "Ready for an October surprise that won’t send you spiraling? For a limited time, get 30 percent off Bulwark+ for the next year. The 2026 midterm elections are only a few weeks away. If the last decade of Trump’s GOP has taught us anything, …",
-    "But a Bulwark+ membership supports a different kind of discourse, borne of independent journalism that isn’t beholden to billionaires or MAGA freaks. At The Bulwark, we tell you the truth. We say what we actually think. And we try to have a…"
+    "The Bulwark offers a limited 30% discount on a year‑long Bulwark+ subscription, granting ad‑free shows, members‑only newsletters like Sarah Longwell’s Focus Group and JVL’s Triad, plus secret podcasts.",
+    "Members who join by October 18 gain access to a live‑streamed Bulwark LIVE: Charlotte event featuring Sarah, Tim, Sam, JVL and guest mayor Pete Buttigieg, with on‑demand replay and a members‑only chat."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261005172220.3.91af6387c88ae60b@mg-d1.substack.com",
@@ -5055,52 +5123,10 @@
     "He predicts that solving the produced‑water issue will unlock further oil growth and generate significant profits for innovators."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260905014337.3.40def369dcb20e39@mg2.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "This changes everything",
-   "date": "2026-09-04T18:43-07:00",
-   "url": "https://roycoopernc.substack.com/p/this-changes-everything",
-   "bullets": [
-    "The Supreme Court ruled that national political parties can funnel unlimited dark money to candidates and receive a discount on advertising, effectively removing limits on GOP spending in North Carolina races",
-    "Former RNC chair Michael Whatley stands to benefit from the RNC’s $130 million war chest, while GOP super PACs have already spent nearly $100 million on attack ads, making this potentially the first billion‑dollar Senate race",
-    "The campaign urges a $250,000 rapid‑response fundraising goal by midnight to counter the influx of dark money and flip the North Carolina Senate seat to Democrats"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260905013748.3.87eca61aa4ff189c@mg-d0.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 85: What a Pair of Bombshell Whistleblower Reports Uncovered About Trump's Tyranny",
-   "date": "2026-09-04T18:37-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-85-what",
-   "bullets": [
-    "A whistleblower report released by Sen. Richard Blumenthal warned that a rushed Trump executive order could seize control of mail‑in voting, potentially preventing millions of ballots from being delivered before the election.",
-    "ProPublica revealed DOJ officials blocked civil‑rights charges against an ICE agent who shot a Venezuelan immigrant, while the Office of Legal Counsel warned states could lose billions in federal aid for not reporting undocumented immigrants to DHS.",
-    "The DHS announced a surge in voter‑fraud investigations in nine states—Washington, Wisconsin, Missouri, Georgia, California, Pennsylvania, Nevada, New York, and Connecticut—despite evidence that such fraud is virtually nonexistent."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260905000127.3.cc057e584d474099@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "MAGA Pollster Thinks Texas, Ohio and Even KANSAS Could Turn Blue (w/ Rich Baris)",
-   "date": "2026-09-04T17:01-07:00",
-   "url": null,
-   "bullets": [
-    "Rich Baris argues that the 2026 Senate map could be highly competitive, with Democrats potentially winning traditionally safe Republican states like Kansas, Nebraska, Montana, Texas, and Ohio, while Michigan and Georgia remain Democratic strongholds.",
-    "Baris contends Republican messaging that frames opponents as “socialists” misses voters’ primary concerns—cost of living, bills, and everyday affordability—rather than ideological labels.",
-    "He claims Trump is alienating his core coalition through war rhetoric, immigration stances, and social‑media trolling, undermining the coalition that helped him win the 2024 election."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 85,
-  "total": 371
+  "shown": 89,
+  "total": 373
  }
 }
