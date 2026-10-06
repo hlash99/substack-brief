@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T20:09-07:00",
+ "updated": "2026-10-06T12:37-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,127 @@
  },
  "items": [
   {
+   "id": "20261006170608.3.2c9dca8874cc5af6@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Propagandist in the Press Pool",
+   "date": "2026-10-06T10:06-07:00",
+   "url": null,
+   "bullets": [
+    "In September, Trump’s administration granted press‑pool status to Beni Rae Harmony, a 24‑year‑old Real America’s Voice reporter, who then flew on the presidential plane after CNN was denied a seat.",
+    "Harmony left her press‑pool role to become Trump’s assistant press secretary, a move unprecedented for a reporter who had just covered the White House for the broader media.",
+    "The author questions whether Harmony will receive back pay and condemns the shift from journalism to political communications as a disturbing breach of journalistic integrity."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261006150211.3.6088e34f965f8edc@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "What Is the Hannibal Directive and How Many Israelis Did It Kill on October 7?",
+   "date": "2026-10-06T08:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/what-is-the-hannibal-directive-and",
+   "bullets": [
+    "The Hannibal Directive is an Israeli military policy that authorizes soldiers to fire on their own troops or civilians to prevent enemy capture, allegedly used on Oct. 7, killing dozens of Israelis.",
+    "Israeli media reports claim the directive caused multiple Israeli deaths during the Oct. 7 attacks, but Western outlets have largely ignored the story, raising questions about a potential information cover‑up."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261006143336.3.5cad4d7025ac3296@mg2.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A Group of Iowa Trump Voters Reveals Why MAGA Is Flailing",
+   "date": "2026-10-06T07:33-07:00",
+   "url": null,
+   "bullets": [
+    "OF ALL THE STATES THAT COULD give us an indication of how big the blue wave will be this cycle, Iowa is one of the most intriguing. Donald Trump never came within 8 points of losing the state. But of the ten polls [ https://substack.com/red…",
+    "The state is a petri dish for Trump’s toxicity: diesel prices, corruption, and concerns about AI and data centers all have particular relevance in Iowa. It also will be a strong case study in what types of Democratic candidates can play in …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261006143122.3.15264a57826245e9@mg-d1.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "Sununu is leading in the polls",
+   "date": "2026-10-06T07:31-07:00",
+   "url": "https://chrispappasnh.substack.com/p/i-want-to-make-sure-you-see-this-f88",
+   "bullets": [
+    "John Sununu leads the New Hampshire Senate race in a recent poll, backed by $50 million in outside spending and a personal endorsement from Donald Trump.",
+    "Chris Pappas urges immediate grassroots donations to counter the GOP’s financial advantage and regain the lead before the 28‑day election countdown."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261006132403.3.d2c59410dfb995c1@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Grandpa Trump Is Getting Desperate",
+   "date": "2026-10-06T06:24-07:00",
+   "url": null,
+   "bullets": [
+    "Ken Paxton’s leaked audio reveals he feels Trump‑backed super PAC money limits his campaign control, admitting the 2024 midterm convention hurt his Texas GOP Senate bid and he has little say over issues.",
+    "Bill Kristol argues Trump’s recent flurry of attacks—promising $5,000 to voters, slamming South Carolina Democrat Annie Andrews, and shifting $5 million to support Republican Darline Graham—shows Trump’s desperation amid a competitive South Carolina Senate race, with polls showing Graham only a point ahead and a major super PAC moving funds there."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261006111642.3.be91e547a911a69b@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "A Special Crooked Con Offer for Message Box Subscribers",
+   "date": "2026-10-06T04:16-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/a-special-crooked-con-offer-for-message",
+   "bullets": [
+    "Crooked Con returns Nov 7 in Washington, DC, with 2,500 attendees last year including Barack Obama, featuring panels for political professionals and democracy advocates.",
+    "Dan Pfeiffer will moderate a panel on lessons from 2026 and the path to 2028, and Message Box subscribers receive an exclusive discount code for tickets."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261006110410.3.cebf2e43b8f5c33d@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Forget Hasan Piker, Donald Trump Is America’s Worst Campaign Surrogate",
+   "date": "2026-10-06T04:04-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/forget-hasan-piker-donald-trump-is",
+   "bullets": [
+    "Donald Trump is portrayed as the most damaging campaign surrogate, actively campaigning with vulnerable GOP candidates and risking Republican control of the House and Senate in the 2026 elections.",
+    "Senate candidate Troy Jackson leads incumbent Susan Collins by four points in a new Marist poll, while leftist streamer Hasan Piker and Bernie Sanders are deemed far less toxic than Trump.",
+    "Democratic Senate hopeful Abdul El‑Sayed publicly begged Trump to visit Michigan and campaign for Republican Mike Rogers, highlighting Trump’s willingness to support opposing candidates."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261006105218.3.35ce5d800b5af0e2@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "AI Versus Everything Else",
+   "date": "2026-10-06T03:52-07:00",
+   "url": "https://paulkrugman.substack.com/p/ai-versus-everything-else",
+   "bullets": [
+    "Massive AI spending on data centers and GPUs is driving up long‑term interest rates, crowding out private investment in housing, offices, factories and other non‑AI sectors.",
+    "Unlike the 1990s tech boom, the current AI surge lacks foreign capital inflows, so the reallocation of funds is not financed elsewhere and is effectively subsidized by tax policy.",
+    "The resulting higher rates and resource constraints are already hurting commercial real‑estate and other industries, creating broader financial stress beyond speculative AI risks."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261006100318.3.63cfb836390f64f5@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Plague in Russia? Plus flu, common cold, a new opioid, and good news",
+   "date": "2026-10-06T03:03-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/plague-in-russia-plus-flu-common",
+   "bullets": [
+    "Flu cases are climbing nationwide, driven by H1N1pdm09 with a mutation that reduces vaccine effectiveness in teens and young adults, so getting the flu shot remains crucial.",
+    "Rhinovirus/enterovirus tests hit 32% positivity—the highest since 2019—indicating a sharp common‑cold surge, with no specific treatment beyond rest and hydration.",
+    "A new synthetic opioid called cychlorphine, up to ten times stronger than fentanyl, has been linked to overdoses in at least 24 states, including 50 deaths in one Tennessee county, and standard fentanyl test strips don’t detect it."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261006013040.3.cf3b7a28ec317cc0@mg-d1.substack.com",
    "newsletter": "Bulwark Takes",
    "pub": "thebulwark",
@@ -100,10 +221,11 @@
    "date": "2026-10-05T16:34-07:00",
    "url": "https://macgregorwarrior.substack.com/p/how-do-washingtons-proxy-wars-end",
    "bullets": [
-    "Warrior Diplomacy Substack is a reader-supported publication. To receive new posts and support my work, consider become a paid subscriber. Washington’s proxy wars are far from over. Since the Special Military Operation (SMO) began in 2022, …",
-    "Translating tactical or operational victories into a stable peace is tricky. Ideally, BEFORE a breakout in hostilities, military strategists should focus on more than destroying the opponent’s forces (OPFOR) or even breaking the enemy’s wil…"
+    "Washington’s proxy wars—Ukraine’s stalled counteroffensive and US‑backed forces retreating in the Middle East while Iran controls the Strait of Hormuz—show battlefield gains haven’t translated into decisive victories.",
+    "Macgregor argues that military leaders must plan for political end‑states before fighting, citing Napoleon’s 1812 Russian invasion as a historic example of tactical success failing without a viable strategic objective.",
+    "He warns that U.S. efforts in the Persian Gulf suffer from overreach, distance, and terrain challenges, making single‑battle annihilation illusory and complicating any path to a stable peace."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261005232540.3.245d258b3643b9e9@mg-d1.substack.com",
@@ -206,10 +328,11 @@
    "date": "2026-10-05T04:13-07:00",
    "url": "https://open.substack.com/pub/messagebox/p/adam-hamilton-can-win-kansas",
    "bullets": [
-    "With a month to go, it’s a question a lot of people are asking. Every summer, a few deep-red states look like they’re within reach. Then fall comes and they turn out to be a mirage.",
-    "But a new poll [ https://substack.com/redirect/1313c37d-4d0b-4851-bd4d-8466e021cf64?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] from the A+-rated New York Times/Siena found Democrat Adam Hamilton tied 45-45 with Repu…"
+    "A NYT/Siena poll shows Democrat Adam Hamilton tied Republican Roger Marshall 45‑45 in Kansas, with an Emerson poll putting Hamilton ahead 45‑43, despite Kansas not electing a Democratic senator in 94 years and Trump having won the state by 16 points in 2024.",
+    "Trump’s approval in Kansas is low (40% overall, 55% view the economy negatively, 45% say his policies hurt the state), and his unpopular tariffs and beef imports have hurt farmers, creating a potential drag on GOP candidates.",
+    "Hamilton, a former Republican megachurch pastor with 39% favorability and 18% Republican favorability, outperforms the generic Democratic ballot among informed voters, while Marshall’s favorability is 40%/45% and he faces criticism for suing over 700 patients as a doctor, prompting GOP ad spending of over $8 million in the race."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261005103143.3.a9e509fa540509da@mg2.substack.com",
@@ -5015,118 +5138,10 @@
     "A Bulwark LIVE event featuring Pete Buttigieg and other hosts is scheduled for October 18 at the Carolina Theatre in Charlotte, with tickets available via TheBulwark.com/Events."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260905180425.3.5252c5c4c6cf50b8.tcre6t2v@mg1.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "🗓️ The Bulwark is going live on Sep 6 at 9:00 AM PDT: “Sarah Longwell joins Bill Kristol for Bulwark on Sunday”",
-   "date": "2026-09-05T11:04-07:00",
-   "url": null,
-   "bullets": [
-    "The upcoming Bulwark live episode on September 6 at 9 AM PDT features Sarah Longwell joining host Bill Kristol for a discussion."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260905170113.3.c6f0839339140177@mg-d0.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine: Israeli Settlers Beat Elderly Woman and Defense Minister Says Expelling Palestinians From …",
-   "date": "2026-09-05T10:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israeli-settlers-ee3",
-   "bullets": [
-    "Israeli strikes and gunfire in Gaza escalated, killing multiple Palestinians including children and forcing a kindergarten evacuation of hundreds of 4‑ and 5‑year‑olds.",
-    "Israel’s defense minister called clearing Gaza of Palestinians the only ‘real solution,’ while a UN report warned of forced displacement of entire refugee camps in the West Bank.",
-    "Israeli settlers violently beat an elderly woman in the West Bank, part of a broader pattern of settler rampages reported this week."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260905130300.3.ed19f2856669fd3b@mg2.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“A teacher’s job, he told us, was to arm children with tools against loneliness”",
-   "date": "2026-09-05T06:03-07:00",
-   "url": "https://post.substack.com/p/a-teachers-job-he-told-us-was-to",
-   "bullets": [
-    "Wendell Berry, who returned to teach at the University of Kentucky in 1987, demanded that future teachers equip students with tools to combat loneliness, insisting that literature be studied for its life‑shaping lessons rather than as sterile texts.",
-    "The newsletter also highlights a viral clip of baker Claire Saffitz failing to emulsify a Kinder Bueno‑style praline, using her on‑camera breakdown to illustrate the emotional highs and lows of culinary experimentation.",
-    "A third section previews a podcast on 1,000 autonomous AI agents forming secret message boards, leading to virtual civilizations and a real‑world cyberattack, as explained by Dwarkesh Patel."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260905130105.3.ab508999e4bcb3b3@mg2.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Cruelty, the Chaos, the Casualties",
-   "date": "2026-09-05T06:01-07:00",
-   "url": null,
-   "bullets": [
-    "A Haitian student stripped of TPS status in Ohio died by suicide, highlighting ICE’s alleged strategy to make life unbearable for Haitians so they ‘leave on their own.’",
-    "Leaks from Pete Hegseth’s forthcoming book expose a national‑security crisis tied to extremist tech‑industry figures whose alliance with MAGA is now unraveling.",
-    "The newsletter claims Trump is actively supporting Venezuela’s dictatorship, keeping the regime in power despite international condemnation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260905130056.3.d0723293244adf84@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "This Progressive Outsider Is Trying to Shake Up the Senate Race No One’s Talking About",
-   "date": "2026-09-05T06:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/meet-the-progressive-outsider-new-hampshire",
-   "bullets": [
-    "New polling shows four-term Democrat Chris Pappas, backed by Kamala Harris, Hillary Clinton and the pro‑Israel lobby, trailing the Republican in the crucial New Hampshire Senate race as Democrats seek a majority to block Donald Trump’s agenda.",
-    "Outsider candidate Karishma Manzur, a scientist, argues the Inflation Reduction Act’s carbon cuts are dwarfed by emissions from the Gaza war and criticizes U.S.‑Israeli military fusion, climate inaction, and Democratic “big‑tent” gatekeeping ahead of the Sept. 8 election.",
-    "The newsletter links to an interview with Manzur discussing U.S.‑funded violence in Bangladesh, Trump’s Iran war profiteering, and the existential climate threat of a 3‑degree rise over 50 years."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260905111545.3.452fe8b460b827df@mg2.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Senators Who Suck",
-   "date": "2026-09-05T04:15-07:00",
-   "url": null,
-   "bullets": [
-    "Sarah urges readers to buy her upcoming book “How to Eat an Elephant” to out‑sell the Clarence Thomas biography by Ted Cruz and boost it to NYT #1 bestseller.",
-    "The episode pits John Fetterman against Susan Collins as the worse senator and teases Doug Sosnik’s advice for Democrats, inviting listener comments.",
-    "It announces the Bulwark LIVE Good Fight Tour stops Oct 16 in Columbia, SC, Oct 18 in Charlotte, NC (with Pete Buttigieg), and Oct 20 in Atlanta, GA, plus a members‑only Secret Podcast episode."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260905102107.3.d87bfe8ad95f04ed@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Day Off",
-   "date": "2026-09-05T03:21-07:00",
-   "url": "https://paulkrugman.substack.com/p/day-off-676",
-   "bullets": [
-    "Krugman notes there is no interview this week because he is traveling and working on a longer‑term project."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260905090049.3.b24e4d3c4eda765e@mg-d1.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Necessary Inventions",
-   "date": "2026-09-05T02:00-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/necessary-inventions",
-   "bullets": [
-    "The author argues that despite periodic pessimistic forecasts, global primary energy consumption historically rises because higher living standards demand more energy.",
-    "He highlights the Permian Basin's water‑by‑oil challenge—3‑4 barrels of hypersaline water per barrel of crude—as a catalyst for imminent technological breakthroughs.",
-    "He predicts that solving the produced‑water issue will unlock further oil growth and generate significant profits for innovators."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 89,
-  "total": 373
+  "shown": 85,
+  "total": 374
  }
 }
