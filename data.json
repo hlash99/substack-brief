@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T12:37-07:00",
+ "updated": "2026-10-06T19:30-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,59 @@
  },
  "items": [
   {
+   "id": "20261007010131.3.c2e9df03597d9647@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Israel Is More Isolated Than Ever. Is It Enough to End the Gaza Genocide?",
+   "date": "2026-10-06T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/israel-is-more-isolated-than-ever",
+   "bullets": [
+    "Over 200,000 Palestinians have been killed, injured or disappeared in three years of the Gaza conflict, with ongoing bombings, starvation and AI‑driven mass‑killing experiments despite an ICC arrest warrant for Netanyahu.",
+    "Global public opinion has turned sharply against Israel—polls show widespread dislike, artists like Ed Sheeran face backlash, and megastars such as Megyn Kelly have shifted their stance—yet Western governments continue arms sales, trade and diplomatic support for Israel."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007010127.3.f98406bdf3a67b33@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Tim Miller Has a Blunt Message for People Who’ve Given Up",
+   "date": "2026-10-06T18:01-07:00",
+   "url": null,
+   "bullets": [
+    "Tim Miller criticizes Vivek Ramaswamy’s posturing at a campaign event, arguing it masks a lack of substantive policy.",
+    "He cites Senator Jon Ossoff’s appeal to young voters, urging them to channel despair into political action rather than surrender.",
+    "Miller invokes James Baldwin to illustrate a historic pattern of marginalized groups overcoming seemingly impossible odds through collective resolve."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261006223214.3.088de020a7a19556@mg-d1.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Scott Bessent’s Interview Gets Weirder and Weirder",
+   "date": "2026-10-06T15:32-07:00",
+   "url": null,
+   "bullets": [
+    "Hi everyone, I think you’re going to love the new episode of my Receipts podcast. Sam Stein and I decided to dissect Treasury Secretary Scott Bessent’s very odd interview with Axios. Among other things, Bessent declared he was totes in the …",
+    "We also talked about Bessent’s record with the ladies (according to Bessent, Trump’s female friends are disappointed to learn that the secretary is into men), and whether a comparison to the nation’s first treasury secretary, Alexander Hami…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261006192631.3.cedf654802793778@mg-d0.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Massive Cash Infusion Coming to Dems, Courtesy of Gun-Control Group",
+   "date": "2026-10-06T12:26-07:00",
+   "url": null,
+   "bullets": [
+    "Giffords PAC, the pro–gun control organization founded by former Rep. Gabby Giffords (D-Ariz.), released two new ads as part of a $10 million campaign in battleground House races ahead of the November elections, The Bulwark can exclusively …",
+    "In a $1 million campaign in Michigan’s 10th Congressional District, the PAC’s ad [ https://substack.com/redirect/18c393d2-1fb9-43a0-b812-17332f969d1a?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] elevates Christina Hin…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20261006170608.3.2c9dca8874cc5af6@mg-d0.substack.com",
    "newsletter": "JVL - The Bulwark",
    "pub": "thebulwark",
@@ -86,10 +139,10 @@
    "date": "2026-10-06T07:33-07:00",
    "url": null,
    "bullets": [
-    "OF ALL THE STATES THAT COULD give us an indication of how big the blue wave will be this cycle, Iowa is one of the most intriguing. Donald Trump never came within 8 points of losing the state. But of the ten polls [ https://substack.com/red…",
-    "The state is a petri dish for Trump’s toxicity: diesel prices, corruption, and concerns about AI and data centers all have particular relevance in Iowa. It also will be a strong case study in what types of Democratic candidates can play in …"
+    "Iowa, a bellwether state, saw Trump win by less than eight points and recent NYT polls since September are split 5‑4‑1 between GOP, Dem, and tie, indicating a potentially tight blue wave.",
+    "Democratic Senate candidate Josh Turek is described as likable and running a competent campaign, making him a strong test of how Democrats can succeed in traditionally right‑leaning states like Iowa."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261006143122.3.15264a57826245e9@mg-d1.substack.com",
@@ -5110,38 +5163,10 @@
     "Krugman notes that rising geoeconomic research (IMF, ECB) shows economic size and network dominance now confer coercive power, with the U.S., China and Iran exemplifying how trade dependencies can be weaponized."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260906001513.3.8543c45911a98f2b@mg-d0.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Fox News FIRES Maria Bartiromo After She Secretly Helped Trump",
-   "date": "2026-09-05T17:15-07:00",
-   "url": null,
-   "bullets": [
-    "Tim Miller and Sam Stein claim Fox News fired Maria Bartiromo for allegedly leaking internal network details to the Trump White House and revisit her past conspiracy‑theory statements.",
-    "They allege a sensational Instagram report on former Labor Secretary Lori Chavez‑DeRemer involving strip clubs, an alleged affair, on‑the‑job drinking, staff organizing her closet, and a conveniently timed Vegas trip.",
-    "The episode also teases a Trump‑backed Apprentice‑style competition featuring Nicki Minaj and Dean Cain as contestants."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260905203320.3.b3ec1b7a4e9203b7@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The GOP is MIA in North Carolina (with Chris Cooper)",
-   "date": "2026-09-05T13:33-07:00",
-   "url": null,
-   "bullets": [
-    "Former Gov. Roy Cooper, a relatively popular Democrat, appears poised to win the NC Senate seat this year as voters remain unclear about his Republican opponent, according to political science professor Chris Cooper.",
-    "Cooper argues recent Democratic gains in North Carolina’s House races could signal a path to carrying the state in the 2028 presidential election if the party can replicate those successes.",
-    "A Bulwark LIVE event featuring Pete Buttigieg and other hosts is scheduled for October 18 at the Carolina Theatre in Charlotte, with tickets available via TheBulwark.com/Events."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 85,
-  "total": 374
+  "shown": 86,
+  "total": 376
  }
 }
