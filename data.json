@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T19:30-07:00",
+ "updated": "2026-10-07T13:02-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,177 @@
  },
  "items": [
   {
+   "id": "20261007193055.3.23d16d59ee7d7c6f@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Ex-CIA Officer Reacts to Insane Spy Scandal Rocking the Intelligence World",
+   "date": "2026-10-07T12:30-07:00",
+   "url": null,
+   "bullets": [
+    "Michael Weiss and ex‑CIA officer Marc Polymeropoulos detail a spy scandal linking Germany’s former intelligence chief to an alleged Iranian plot to target U.S. bombers stationed in Britain.",
+    "They also examine bizarre inquiries about Kimberly Guilfoyle’s activities in Greece and allege Russian operatives left a gruesome calling card in politicians’ homes."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007164021.3.d9e9f78f17e39256@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Susan Collins Is the Living Worst",
+   "date": "2026-10-07T09:40-07:00",
+   "url": null,
+   "bullets": [
+    "Collins faces a coin‑flip re‑election in Maine after voting to advance Trump’s “Big Beautiful Bill,” which she claims enabled a $50 billion rural health‑care fund but added $3 billion to the state’s costs and cut SNAP and heating benefits.",
+    "The author labels Collins the “living worst” Republican, accusing her of enabling Trump’s agenda while only offering symbolic protest votes that are pre‑arranged to be ineffective."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007155145.3.3ded21358ab2253c@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "October 7 Three Years On: For Israel, a Day of Questions Must Also Ask the Difficult Kind",
+   "date": "2026-10-07T08:51-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/october-7-three-years-on-israel-response-questions-gaza",
+   "bullets": [
+    "Three years after Hamas’s Oct. 7 attack, Israel is gearing up for its first post‑war election amid fresh claims that UAE and Egyptian officials warned it of the assault, raising doubts about the coalition’s narrative of surprise and its hard‑line rhetoric.",
+    "South African lawyers—including Blinne Ní Ghrálaigh and Adila Hassim—presented a genocide case against Israel at the International Court of Justice, alleging systematic crimes in Gaza and highlighting the conflict’s legal and moral dimensions.",
+    "The essay argues that public discourse still asks the wrong questions about the war, urging deeper scrutiny of Israel’s policies and the broader regional complicity in the ongoing humanitarian crisis."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007150000.3.263ac2d730007558@mg-d0.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Donald Trump Is Buying Votes at $500 a Pop",
+   "date": "2026-10-07T08:00-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s administration is sending $500 checks to about one million HealthCare.gov users and $90 checks to roughly 20 million Medicare Part B seniors and disabled people, claiming the payments are refunds for overcharges.",
+    "The $500 checks are marketed as a “refund” for alleged overcharges, yet the author argues that the drug‑company deals Trump cites did not produce significant savings, suggesting the money is essentially a vote‑buy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007140255.3.9245923a97ea5bd3@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "We’re less than one month out from Election Day.",
+   "date": "2026-10-07T07:02-07:00",
+   "url": "https://roycoopernc.substack.com/p/were-less-than-one-month-out-from",
+   "bullets": [
+    "National Republicans have poured tens of millions into the North Carolina Senate race, making it one of the most expensive contests of the cycle, while Democrats aim to flip the seat for the first time since 2008.",
+    "Roy Cooper urges supporters to donate $5 or more now to build grassroots momentum before early voting begins in eight days, stressing that the outcome will determine the Senate majority."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007133100.3.9cff3951b478355f@mg-d0.substack.com",
+   "newsletter": "Here Be Dragons from Barbara F. Walter",
+   "pub": "barbarafwalter",
+   "subject": "Billionaires Don’t Need to Capture the Whole Government",
+   "date": "2026-10-07T06:31-07:00",
+   "url": "https://barbarafwalter.substack.com/p/billionaires-dont-need-to-capture",
+   "bullets": [
+    "Billionaires act as “stationary bandits,” seeking only the parts of government that protect and enhance their wealth—such as lax antitrust enforcement, low capital‑gain taxes, lucrative contracts, and data privacy—while avoiding unrelated policy areas.",
+    "The U.S. political system amplifies this effect: studies of 1,800 policy fights show that wealthy interests almost always succeed, whereas ordinary citizens rarely influence law, thanks to powerful lobbying, campaign financing, and legal expertise.",
+    "When many such bandits pursue their own gains, a tragedy of the commons emerges: each fears losing out if they restrain themselves, leading to cumulative erosion of the government’s effectiveness and eventual public backlash."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007132335.3.b529efe28d8168e5@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Reasons for Hope. Reasons for Alarm.",
+   "date": "2026-10-07T06:23-07:00",
+   "url": null,
+   "bullets": [
+    "Trump aides James Blair and Chris LaCivita spent hundreds of thousands consulting for a pro‑Russian Bosnian government while also fundraising for Trump’s PAC, raising concerns about foreign influence and cronyism.",
+    "Democrats hold a 51.1% to 43.4% advantage in generic congressional polls per FiftyPlusOne, but fear donor caution could blunt a historic midterm surge that could flip the Senate to a 54‑seat majority and win key governorships."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007114631.3.4ec1c97306f90ee0@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "State of the Race With Less Than 30 Days to Go.",
+   "date": "2026-10-07T04:46-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/state-of-the-race-with-less-than",
+   "bullets": [
+    "Nate Silver’s updated model now gives Democrats a 93% chance of winning the House, projecting a 23‑seat gain over the current balance."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007111842.3.0657a1c88f48f2c0@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "😳 GOP Panics That Racism and Trump’s Election-Rigging Attempts Will Fuel Democratic Victories",
+   "date": "2026-10-07T04:18-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/gop-panics-that-racism-and-trumps",
+   "bullets": [
+    "On this day in 2023, Hamas launched an air and ground offensive against Israel, the deadliest attack in the country’s history, killing around 1,200 and taking hundreds hostage. Three years later, Israel’s genocidal response has killed more …",
+    "Happy Wednesday! It’s Swin. Election Day in the United States is less than a month away. If the public polls (as well as the private Republican polls) are right, it looks like we’re headed for an electoral slaughterhouse for the GOP and Tea…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261007104227.3.d6edd457a68ac240@mg2.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Top 8 questions about the “plague” situation",
+   "date": "2026-10-07T03:42-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/top-8-questions-about-the-plague",
+   "bullets": [
+    "The YLE team rates the risk of a plague pandemic from the Russian lab worker’s death as a 1‑out of‑10 chance, citing virtually no chance of U.S. spread and no actionable steps for the public.",
+    "Pneumonic plague, if present, is contagious only with close contact and typically infects 1‑3 people per case; it is treatable with multiple antibiotics, though no U.S. vaccine exists since 1999.",
+    "CDC considers Yersinia pestis a potential bioweapon and maintains an under‑funded antibiotic stockpile, but there is currently no evidence the Russian case involved a engineered or weaponized strain."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007103120.3.6112cba9e6ac2a55@mg-d1.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "MAGA’s Racism is Blowing Up Its Own Coalition",
+   "date": "2026-10-07T03:31-07:00",
+   "url": null,
+   "bullets": [
+    "The newsletter argues that MAGA’s overt racism is fracturing its own coalition, driving away moderate supporters and harming electoral prospects.",
+    "It highlights two bizarre campaign ads—one with sexual innuendo and another with Texas Attorney General Angela Paxton endorsing her cheating ex‑husband—illustrating the movement’s chaotic messaging.",
+    "A New Yorker piece is cited showing the Heritage Foundation shifting toward groypers, signaling a right‑ward radicalization within traditionally mainstream conservative institutions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007103042.3.8441e2e3203f0e33@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Day of Reflection",
+   "date": "2026-10-07T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/day-of-reflection",
+   "bullets": [
+    "Krugman notes the chaotic situation in France but says he’s taking a pause to reflect before publishing further commentary."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007090129.3.b54d3522ba45eb69@mg2.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Ties That Bind",
+   "date": "2026-10-07T02:01-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/ties-that-bind",
+   "bullets": [
+    "“No nation was ever ruined by trade.” – Benjamin Franklin With a land area equal to that of Arizona and a population of just 27,000, Labrador—the onshore portion of the Canadian province of Newfoundland and Labrador (NL)—is one of the most …",
+    "The border separating Labrador from Québec was not officially decided [ https://substack.com/redirect/5f3d9e8d-314f-44dc-a716-4e0b547b892c?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] until March 1, 1927, when the Jud…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20261007010131.3.c2e9df03597d9647@mg-d0.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
@@ -99,10 +270,10 @@
    "date": "2026-10-06T12:26-07:00",
    "url": null,
    "bullets": [
-    "Giffords PAC, the pro–gun control organization founded by former Rep. Gabby Giffords (D-Ariz.), released two new ads as part of a $10 million campaign in battleground House races ahead of the November elections, The Bulwark can exclusively …",
-    "In a $1 million campaign in Michigan’s 10th Congressional District, the PAC’s ad [ https://substack.com/redirect/18c393d2-1fb9-43a0-b812-17332f969d1a?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] elevates Christina Hin…"
+    "Giffords PAC is pouring $10 million into House battlegrounds, spending $1 million on a TV ad for Democrat Christina Hines in Michigan’s 10th district and $800,000 on a spot attacking Rep. Anna Paulina Luna’s gun‑lobby ties in Florida’s 13th district, targeting races Democrats have largely ignored.",
+    "Republican Rep. Glenn Grothman (WI) warned that President Trump’s low 38% approval and “unpresidential” behavior are driving Republican voters away, admitting his own re‑election could be harmed by anti‑Trump sentiment."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261006170608.3.2c9dca8874cc5af6@mg-d0.substack.com",
@@ -5082,91 +5253,10 @@
     "While Newsom’s charisma, fundraising, and recent redistricting success boost his frontrunner status, South Carolina Democratic operatives remain skeptical about his cultural fit and ability to bridge regional gaps."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260906200207.3.854b899e819108b1@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "25 Years Since 9/11: 13 Numbers That Tell the Story",
-   "date": "2026-09-06T13:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/25-years-since-911-13-numbers-that",
-   "bullets": [
-    "Zeteo will publish a week of essays and interviews marking the 25th anniversary of 9/11, featuring contributors Spencer Ackerman, Fatima Bhutto, Viet Thanh Nguyen, and interviews with two bereaved mothers and a four‑star U.S. general who opposed the Iraq invasion.",
-    "The series aims to go beyond mainstream media’s superficial coverage, examining the tragedy’s impact on America, the Middle East, and the world, and is available to paid subscribers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260906191706.3.6114888dc8481193@mg-d1.substack.com",
-   "newsletter": "Bill Kristol — The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Sarah Longwell: Trump’s Failures Give Democrats a Once-in-a-Generation Opening | Bulwark on Sunday",
-   "date": "2026-09-06T12:17-07:00",
-   "url": null,
-   "bullets": [
-    "Kristol and Longwell argue that Trump’s repeated failures create a rare, generational chance for Democrats to win by building a broad pro‑democracy coalition informed by voter focus‑group data.",
-    "They propose that Democrats should adopt Republican‑style infrastructure—local voter outreach, data‑driven messaging, and disciplined organization—to counter Trumpism effectively."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260906165912.3.af69006885d048d5@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "One final end-of-quarter deadline",
-   "date": "2026-09-06T09:59-07:00",
-   "url": "https://roycoopernc.substack.com/p/one-final-end-of-quarter-deadline",
-   "bullets": [
-    "The campaign’s end‑of‑quarter fundraising report will be filed on September 30, showing how much was raised, a key indicator of race strength.",
-    "Last quarter, 95% of donations were $100 or less, with nearly one‑third from first‑time donors, funding ground game and ads across North Carolina.",
-    "Republican super PACs have already committed almost $100 million, and a new Supreme Court ruling lets GOP parties spend unlimited coordinated money, intensifying the financial battle."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260906130129.3.a5357ad29f6016ba@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Talarico Insider: Texas’s ‘Perfect Storm’ Could Defeat Republican Ken Paxton",
-   "date": "2026-09-06T06:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/talarico-insider-texass-perfect-storm",
-   "bullets": [
-    "Strategist Chuck Rocha argues that data‑center growth, rising gas and grocery prices, Ken Paxton’s low favorability, and shifting Latino voter dynamics create a “perfect storm” that puts Democrat James Talarico neck‑and‑neck in the Texas Senate race.",
-    "Rocha says Talarico’s Christian faith and targeted outreach to Latino voters are crucial for the Democrat to capitalize on the Republican’s vulnerabilities and win in the coming weeks.",
-    "The 30‑minute interview, available to paid subscribers, breaks down how these economic and cultural forces could overturn three decades of GOP control in Texas."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260906123122.3.e144d573beadd862@mg-d0.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "RFK Jr.’s Sickening Measles Victory Lap",
-   "date": "2026-09-06T05:31-07:00",
-   "url": null,
-   "bullets": [
-    "Pennsylvania announced two measles‑related deaths in Lancaster County’s Amish community on Aug. 25, prompting Governor Josh Shapiro to urge vaccinations and criticize anti‑vaccine rhetoric from the Kennedy administration.",
-    "Robert F. Kennedy Jr. attacked Shapiro, claiming the deaths were politicized and possibly fabricated, while state officials and the county coroner clarified that one infant died of a ruptured spleen and the other was a six‑week‑old with a fatal congenital condition unrelated to measles.",
-    "The article argues Kennedy’s victory lap is unfounded, noting his misinformation campaign and the administration’s efforts to counter anti‑vaccine actions, including Trump’s executive orders rolling back childhood vaccine recommendations."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260906115556.3.c6d2ebf70007c0e8@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Weaponized Interdependence",
-   "date": "2026-09-06T04:55-07:00",
-   "url": "https://paulkrugman.substack.com/p/weaponized-interdependence",
-   "bullets": [
-    "Weaponized interdependence, coined by Farrell and Newman, describes how states exploit control over global networks—like the dollar system or rare‑earth supply chains—to coerce rivals, distinct from traditional tariff‑based trade wars.",
-    "Krugman notes that rising geoeconomic research (IMF, ECB) shows economic size and network dominance now confer coercive power, with the U.S., China and Iran exemplifying how trade dependencies can be weaponized."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 86,
-  "total": 376
+  "shown": 89,
+  "total": 383
  }
 }
