@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T19:46-07:00",
+ "updated": "2026-10-08T13:01-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -51,6 +51,114 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261008191836.3.6e2a4c3ee2ade60d@mg2.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Dems Warn Voters: Trump May Not Deliver Your Mailed-in Ballots",
+   "date": "2026-10-08T12:18-07:00",
+   "url": null,
+   "bullets": [
+    "Democrats are now concerned that the Trump administration may undermine the safety of mailed ballots, citing new internal threats rather than foreign interference or fraud."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261008163041.3.1fe01b16e359f093@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "These Democrats Are Good, Actually",
+   "date": "2026-10-08T09:30-07:00",
+   "url": null,
+   "bullets": [
+    "Angie Nixon, though unlikely to win, is a strong Florida Senate candidate with charisma and smart campaigning, reflecting a broader trend of competent Democratic candidates across the cycle.",
+    "The author contrasts Democratic strength with Republican weakness, naming Susan Collins and Vivek Ramaswamy as the only notable GOP contenders while dismissing others as inept or uncommitted.",
+    "He warns Democrats to learn from this disparity, implying they must improve candidate quality and campaign strategy to stay competitive."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261008150244.3.eab6c8b739cc1497@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "EXCLUSIVE: Hear a New Poem From Acclaimed Palestinian Poet Mosab Abu Toha",
+   "date": "2026-10-08T08:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/exclusive-hear-a-new-poem-from-acclaimed",
+   "bullets": [
+    "Mosab Abu Toha, a Gaza-born poet, delivers a raw, personal poem that recounts the terror of Israeli airstrikes, the loss of family, and the ongoing suffering of Palestinians, citing specific incidents such as a 2008 F‑16 raid and the 2023‑24 civilian casualties in Jabalia and Khan Younis.",
+    "The piece frames the Palestinian experience as louder than any military noise, urging U.S. President Joe Biden to recognize the human tragedy, and highlights Abu Toha’s recent accolades: 2025 Pulitzer Prize for commentary, 2024 OPC Flora Lewis Award, and a 2023 National Book Critics Circle Award finalist nod."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261008144121.3.1f3f40cd181ed3d9@mg-d0.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Republicans Have an Andrew Tate Eel-Sex Problem",
+   "date": "2026-10-08T07:41-07:00",
+   "url": null,
+   "bullets": [
+    "Andrew and Tristan Tate face extradition to the UK on rape, assault, and trafficking charges, with new court filings revealing bestiality claims involving an eel and a horse, and allegations that Tate coerced a 17‑year‑old into producing porn for $1,000 a day.",
+    "High‑profile Republicans—including Tucker Carlson, Candace Owens, Benny Johnson, Alina Habba, Ric Grenell, Paul Ingrassia, and even Trump Jr.—have publicly defended or supported the Tates despite the escalating evidence of sexual crimes.",
+    "In Indiana, staffer Paul Tinkle was fired after making an “OK” hand sign, sparking a debate over alt‑right symbolism that drew support from Turning Point USA, Jack Posobiec, and the Blaze, while local GOP officials and the party leadership denied responsibility for his dismissal."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261008135215.3.52bf81e2c08d0bc9@mg-d1.substack.com",
+   "newsletter": "Citrini",
+   "pub": "citrini",
+   "subject": "Breaking The Wall",
+   "date": "2026-10-08T06:52-07:00",
+   "url": "https://open.substack.com/pub/citrini/p/breaking-the-wall",
+   "bullets": [
+    "AI agents that can autonomously manage personal finances could trigger continuous deposit shifts, threatening banks' cheap funding and potentially creating agentic bank runs.",
+    "Crypto’s blockchain infrastructure is finally finding purpose as tokenized real‑world assets—equities, treasuries, commodities—are moving on‑chain, with Solana processing more trades than the NYSE in September and regulators granting exemptions for tokenized stock trading.",
+    "Investors should now focus on who will capture the economics of these on‑chain financial products as they gain regulatory approval and mainstream adoption."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261008132314.3.b18ebfd8b08c9865@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Our Big Fat Greek Bribery Scandal",
+   "date": "2026-10-08T06:23-07:00",
+   "url": null,
+   "bullets": [
+    "Kimberly Guilfoyle, appointed U.S. ambassador to Greece, allegedly asked Trump donor Eric Deters to wire $100,000 to her Amex card, promising access to senior officials in exchange, per text messages reported by the Wall Street Journal.",
+    "Guilfoyle’s texts show she offered to deliver favors from the Secretary of Defense, Treasury, IRS, and others, while Deters complained he’d paid $300,000 over years without receiving any promised assistance.",
+    "The piece frames the episode as another example of Trump‑era corruption, noting Trump earned over $2 billion from similar grifts last year, and suggests the scandal is unlikely to be the last before the midterms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261008110504.3.6bc8978892f4b7d5@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "ICE Jailed a Rabbi For Protesting Israel. Now He Can’t Observe His Faith",
+   "date": "2026-10-08T04:05-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/ice-jailed-a-rabbi-for-protesting",
+   "bullets": [
+    "On this day in 2001, President George W. Bush announced the formation of what would become the Department of Homeland Security, now a key part of Donald Trump’s authoritarian state.",
+    "Good morning friends! Prem here. Today, I bring you new details about how the Trump-Vance administration is commemorating Oct. 7: by holding an anti-Zionist rabbi in detention, using similar logic to that used to keep the student protester …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261008104036.3.946779d4e97f1e9f@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "What’s the Matter With France?",
+   "date": "2026-10-08T03:40-07:00",
+   "url": "https://paulkrugman.substack.com/p/whats-the-matter-with-france",
+   "bullets": [
+    "French 5‑year CDS spreads have spiked, implying a 1.2% five‑year default probability, as markets fear France’s unsustainable debt, large deficits and an aging population driving pension costs",
+    "France’s statutory retirement age remains at 62‑9 months, far lower than peers, and political deadlock—Le Pen promising to roll it back—feeds fiscal strain and student protests",
+    "A French crisis could trigger a euro‑zone contagion; unlike the 2010s, a bailout faces German opposition and may be politically untenable despite the ECB’s “whatever it takes” pledge"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261008015932.3.4bce51fcf6cec4bd@mg-d0.substack.com",
    "newsletter": "Bulwark Takes",
@@ -5227,51 +5335,10 @@
     "The episode is a holiday podcast featuring Tim Miller’s 2006 campaign recollections and Bill Kristol’s “Morning Shots” advice, plus promotion for the Bulwark LIVE Good Fight Tour in October."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260907130338.3.4a303523ae055e4d@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Zeteo Is Headed to the RNC’s Midterm Convention! And We Need Your Support",
-   "date": "2026-09-07T06:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/zeteo-is-headed-to-the-rncs-midterm-subscribe-support",
-   "bullets": [
-    "Zeteo will send reporter Swin Suebsaeng to the RNC’s first midterm convention in Dallas, promising on‑the‑ground video and print coverage of the GOP gathering.",
-    "The newsletter warns that progressive Democrats are gaining momentum, citing polls that suggest a potential ‘blue wave’ in November and framing the convention’s title ‘The Great American Comeback’ as a GOP response to that threat.",
-    "It urges free subscribers to upgrade or donate to keep Zeteo’s subscriber‑funded, independent journalism running, emphasizing no corporate or billionaire influence."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260907125843.3.c46367c9ff20c85f@mg2.substack.com",
-   "newsletter": "Sarah Longwell — The Bulwark",
-   "pub": "thebulwark",
-   "subject": "I can’t believe it’s almost here.",
-   "date": "2026-09-07T05:58-07:00",
-   "url": null,
-   "bullets": [
-    "Sarah Longwell announces her debut book “How to Eat an Elephant: One Voter at a Time,” releasing tomorrow, offering a memoir and communications playbook to help Democrats defeat MAGA and win by 2026.",
-    "She urges readers to preorder now to help knock the current NYT bestseller—a Clarence Thomas biography by Ted Cruz—from #1, and offers limited signed bookplates for early orders."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260907111415.3.9fcc652e61cda619@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Neo-Nazis and the Impotence of Trumponomics",
-   "date": "2026-09-07T04:14-07:00",
-   "url": "https://paulkrugman.substack.com/p/neo-nazis-and-the-impotence-of-trumponomics",
-   "bullets": [
-    "Neo‑Nazi leader praised the AfD’s victory in Sachsen‑Anhalt, receiving a thank‑you from the party’s lead candidate, highlighting extremist ties across the Atlantic.",
-    "Eliminating the U.S. trade deficit would raise manufacturing employment from 7.9% to 9.7% of jobs, yet Germany’s larger surplus and industrial base still haven’t curbed right‑wing resentment.",
-    "East German regions are no longer the stark ‘left‑behind’ analogue to the U.S. Heartland; despite lower incomes, they aren’t as depressed as previously thought, underscoring that simple economic factors don’t drive fascist shifts."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 87,
-  "total": 384
+  "shown": 86,
+  "total": 389
  }
 }
