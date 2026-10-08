@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T13:02-07:00",
+ "updated": "2026-10-07T19:46-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -51,6 +51,46 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261008015932.3.4bce51fcf6cec4bd@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "BOMBSHELL: Leaked Kimberly Guilfoyle Texts Reveal Brazen Corruption",
+   "date": "2026-10-07T18:59-07:00",
+   "url": null,
+   "bullets": [
+    "The Wall Street Journal reported leaked private texts showing Kimberly Guilfoyle asked a Trump donor for $100,000 to cover her American Express bill, indicating personal financial ties to donors.",
+    "Guilfoyle’s messages repeatedly warned the donor to avoid creating a paper trail, suggesting awareness of illicit intent behind the cash request."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007232159.3.85fd27c1e1835f8a@mg-d0.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Dems’ One Big Midterm Weakness Isn’t Looking So Bad Anymore",
+   "date": "2026-10-07T16:21-07:00",
+   "url": null,
+   "bullets": [
+    "House Majority PAC raised a record $230 million in Q3 2026, its biggest quarter ever, while Senate Majority PAC pulled in a historic $202 million, signaling a sharp Democratic cash surge.",
+    "Democratic operatives say the influx of funds reflects brighter midterm prospects, eroding the Republicans’ perceived cash advantage that had been a key anxiety point."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261007210144.3.7c8b3fa96c9e6190@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "How Did October 7 Happen? Mehdi Asks a Former Israeli Intelligence Official",
+   "date": "2026-10-07T14:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/october-7-avi-melamed-israel-mehdi",
+   "bullets": [
+    "Former Israeli intelligence officer Avi Melamed says Prime Minister Netanyahu received multiple warnings—including a UAE president alert ten days before Oct. 7—and dismissed them, contributing to Israel’s unpreparedness for Hamas’s attack that killed over 1,000 and abducted 250+ people.",
+    "Melamed argues that Israeli military and intelligence downplayed a detailed Hamas battle plan obtained a year earlier, and Netanyahu has refused an internal investigation, framing the Gaza war as an operational failure.",
+    "The interview, available as a 52‑minute video for paid subscribers, also probes whether Israel’s actions in Gaza constitute genocide and critiques commentary from figures like Hillary Clinton and Charlie Kirk."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261007193055.3.23d16d59ee7d7c6f@mg2.substack.com",
    "newsletter": "Bulwark Takes",
@@ -164,10 +204,10 @@
    "date": "2026-10-07T04:18-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/gop-panics-that-racism-and-trumps",
    "bullets": [
-    "On this day in 2023, Hamas launched an air and ground offensive against Israel, the deadliest attack in the country’s history, killing around 1,200 and taking hundreds hostage. Three years later, Israel’s genocidal response has killed more …",
-    "Happy Wednesday! It’s Swin. Election Day in the United States is less than a month away. If the public polls (as well as the private Republican polls) are right, it looks like we’re headed for an electoral slaughterhouse for the GOP and Tea…"
+    "Republican insiders report panic as internal polls show the GOP could lose the House and possibly the Senate in November, driven by Trump’s unpopularity and a faltering economy.",
+    "GOP operatives warn that the Texas mid-decade gerrymander aimed at locking in Latino support backfired, with “dummymandered” districts likely delivering Democratic congressional wins due to voter backlash over economic hardship and anti‑Hispanic tactics."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261007104227.3.d6edd457a68ac240@mg2.substack.com",
@@ -217,10 +257,11 @@
    "date": "2026-10-07T02:01-07:00",
    "url": "https://open.substack.com/pub/doomberg/p/ties-that-bind",
    "bullets": [
-    "“No nation was ever ruined by trade.” – Benjamin Franklin With a land area equal to that of Arizona and a population of just 27,000, Labrador—the onshore portion of the Canadian province of Newfoundland and Labrador (NL)—is one of the most …",
-    "The border separating Labrador from Québec was not officially decided [ https://substack.com/redirect/5f3d9e8d-314f-44dc-a716-4e0b547b892c?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] until March 1, 1927, when the Jud…"
+    "Labrador, a sparsely populated but mineral‑rich region of 27,000 people, supplies most of its 5.4 GW Churchill Falls hydro output to Hydro‑Québec at just 0.2 ¢ CAD per kWh under a 1969 contract expiring 2041.",
+    "Prime Minister Mark Carney is committing C$10 billion federal backing to a C$70 billion upgrade of Churchill Falls and the new Gull Island project, promising the largest clean‑energy complex in North America and enough power for Canada’s three biggest cities.",
+    "Despite political opposition and past failed renegotiations, the federal push aims to expand the hydro pie, rebalance the historic deal, and unlock Labrador’s broader mineral and energy wealth."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261007010131.3.c2e9df03597d9647@mg-d0.substack.com",
@@ -257,10 +298,11 @@
    "date": "2026-10-06T15:32-07:00",
    "url": null,
    "bullets": [
-    "Hi everyone, I think you’re going to love the new episode of my Receipts podcast. Sam Stein and I decided to dissect Treasury Secretary Scott Bessent’s very odd interview with Axios. Among other things, Bessent declared he was totes in the …",
-    "We also talked about Bessent’s record with the ladies (according to Bessent, Trump’s female friends are disappointed to learn that the secretary is into men), and whether a comparison to the nation’s first treasury secretary, Alexander Hami…"
+    "The Receipts podcast episode critiques Treasury Secretary Scott Bessent’s bizarre Axios interview, where he boasted “I am the house now” about failed bond‑market interventions before admitting the house can lose, drawing a parallel to Donald Trump’s missteps.",
+    "The show also examines how Trump’s trade war with Canada, despite promises to aid U.S. dairy, has actually damaged export‑oriented producers like Vermont cheesemaker Mateo Kehler, with tariffs cited at 250‑400 percent hurting both sides of the border.",
+    "A comparison between Bessent and founding Treasury Secretary Alexander Hamilton is explored, questioning whether the analogy benefits Bessent’s reputation."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261006192631.3.cedf654802793778@mg-d0.substack.com",
@@ -5226,37 +5268,10 @@
     "East German regions are no longer the stark ‘left‑behind’ analogue to the U.S. Heartland; despite lower incomes, they aren’t as depressed as previously thought, underscoring that simple economic factors don’t drive fascist shifts."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260907013038.3.6f088d5881d0350a@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Reporter Spends 90 Minutes With Trump. It Gets WEIRD. (w/ Ben Terris)",
-   "date": "2026-09-06T18:30-07:00",
-   "url": null,
-   "bullets": [
-    "Ben Terris spent 90 minutes touring the White House ballroom construction, where hundreds of workers are building a “nuclear concrete” structure Trump says can survive a nuclear blast.",
-    "Trump told Terris the ballroom is his attempt at architectural immortality, fearing no future monuments will honor him after his presidency."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260906234751.3.b47e6436b8f6707c@mg-d1.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "What South Carolina Dems Really Think of Newsom",
-   "date": "2026-09-06T16:47-07:00",
-   "url": null,
-   "bullets": [
-    "Governor Gavin Newsom drew hundreds of mostly trans‑plant Democratic retirees to the historic Penn Center in South Carolina, highlighting his bid to court Southern Black voters ahead of the 2028 primary calendar.",
-    "The visit underscores the strategic importance of South Carolina’s Black electorate, as outlined by Obama campaign veteran David Plouffe, who says winning there and later Virginia could virtually guarantee the nomination.",
-    "While Newsom’s charisma, fundraising, and recent redistricting success boost his frontrunner status, South Carolina Democratic operatives remain skeptical about his cultural fit and ability to bridge regional gaps."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 89,
-  "total": 383
+  "shown": 87,
+  "total": 384
  }
 }
