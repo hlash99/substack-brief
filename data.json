@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T13:01-07:00",
+ "updated": "2026-10-08T20:00-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -51,6 +51,60 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261009011239.3.3a5426d8b78bcc38@mg2.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Accounts Were a GOOD Idea. He Just Made It an Icky One.",
+   "date": "2026-10-08T18:12-07:00",
+   "url": null,
+   "bullets": [
+    "SHAMELESS BRANDING ASIDE, “Trump Accounts,” the new program that gives every baby in America access to some savings, is generally benign, and maybe even useful. But Donald Trump being Donald Trump, he can’t help but taint an otherwise inoff…",
+    "In this case, our president is helping rich donors offload overvalued stocks onto children, who are forced to hold the stocks for five years whether they want to or not. There’s a host of reasons why this could prove problematic. But before…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261009000128.3.ab1a0548e1e5bed4@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "3 Years of Israel's Genocide in Gaza: By the Numbers",
+   "date": "2026-10-08T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/3-years-of-israels-genocide-in-gaza",
+   "bullets": [
+    "The newsletter presents a data-driven overview of three years of the Gaza conflict, detailing civilian casualty counts, displacement figures, and the scale of humanitarian aid delivered.",
+    "It highlights that over 30,000 Palestinians have been killed, more than 1.5 million displaced, and international aid has totaled roughly $10 billion since the conflict began."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261008210646.3.0e926d2b26da82a8@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Is This Failed Actor Nepo Baby Now the Biggest Media Mogul Ever?",
+   "date": "2026-10-08T14:06-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/is-this-failed-actor-nepo-baby-now",
+   "bullets": [
+    "David Ellison’s 20‑year‑old film, costing $60 million, earned under 25% of its budget and a 34% Rotten Tomatoes rating, yet its failure financed a massive media consolidation led by his billionaire father’s investment.",
+    "Ellison, a nepo‑baby whose father is the world’s eighth‑richest, leveraged the flop’s fallout to become one of history’s largest media moguls, reshaping the industry.",
+    "The piece also claims CNN staff are overly optimistic about the network’s future under Ellison, questions Fox’s refusal to air Trump rallies, and condemns mainstream media’s coverage of the Gaza conflict."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261008210439.3.0c580c7853c7aecf@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "We Spoke to the Guy Who Snitched on Kimberly Guilfoyle (w/ Eric Deters)",
+   "date": "2026-10-08T14:04-07:00",
+   "url": null,
+   "bullets": [
+    "Eric Deters, central to the WSJ expose, claims Kimberly Guilfoyle asked him for $100,000 to cover credit‑card debt before her Greek ambassadorship confirmation, promising access and favors in return.",
+    "Deters says he spent hundreds of thousands trying to influence Guilfoyle and Trump allies, was urged to connect with Tucker Carlson and ex‑IRS chief Billy Long, and now feels like a “dumbass.”",
+    "He alleges Jared Kushner’s firm received a $3 billion Saudi sovereign‑wealth investment (reports cite $2 billion) and that Dr. Abubakar Atiq Durrani performed 580 unnecessary surgeries, though total patient impact is unclear."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261008191836.3.6e2a4c3ee2ade60d@mg2.substack.com",
    "newsletter": "Joe Perticone - The Bulwark",
@@ -140,10 +194,11 @@
    "date": "2026-10-08T04:05-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/ice-jailed-a-rabbi-for-protesting",
    "bullets": [
-    "On this day in 2001, President George W. Bush announced the formation of what would become the Department of Homeland Security, now a key part of Donald Trump’s authoritarian state.",
-    "Good morning friends! Prem here. Today, I bring you new details about how the Trump-Vance administration is commemorating Oct. 7: by holding an anti-Zionist rabbi in detention, using similar logic to that used to keep the student protester …"
+    "ICE detained 35‑year‑old anti‑Zionist Satmar rabbi Yehnotan Ovadia, who entered on a religious worker visa in 2022, throughout Rosh Hashanah, Yom Kippur and Sukkot, forcing him to pray beside a toilet and causing a 25‑pound weight loss.",
+    "The Trump‑Vance administration is using the same ‘flight‑risk’ argument that kept student protester Mahmoud Khalil and writer Rümeysa Öztürk in detention, framing Ovadia’s anti‑Israel protests as a security threat while launching a nationwide anti‑hate tour.",
+    "The piece links this case to broader concerns about Trump‑aligned advisers in a pro‑Russia Balkan enclave and ongoing illegal actions against Iran, highlighting a pattern of authoritarian enforcement."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261008104036.3.946779d4e97f1e9f@mg-d0.substack.com",
@@ -5293,52 +5348,10 @@
     "He offers a paid subscription with a 20% discount for a year, positioning it as essential independent, pro‑democracy analysis through the midterms and into 2028."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260908010116.3.34d5399ed23721f0@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Meet Trump’s Censor-in-Chief",
-   "date": "2026-09-07T18:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/meet-trumps-censor-in-chief",
-   "bullets": [
-    "Brendan Carr, FCC chairman and former libertarian advocate, now serves as Trump’s \"chief censor,\" echoing Trump’s recent threats to punish NBC anchor Kristen Welker and sanction outlets reporting low approval polls.",
-    "Carr publicly pledged to act against broadcasters he claims are breaking a \"deal with the American people,\" aligning his regulatory power with Trump’s post‑election media war.",
-    "The newsletter links to a supercut of cable news’s most extreme comments about streamer Hasan Piker as part of its coverage."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260907230117.3.e1f93e6877576654@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Kash Patel’s Embarrassing Video Botches the Name of the FBI",
-   "date": "2026-09-07T16:01-07:00",
-   "url": null,
-   "bullets": [
-    "Republicans on the brink of midterms are quietly distancing from Trump, removing his photos and endorsements from campaign sites and skipping his convention as he becomes a liability.",
-    "The once‑lucrative MAGA merchandise market is collapsing, with sales plummeting and Trump’s own post about renaming New Mexico highlighting the brand’s decline.",
-    "A video using AI‑generated footage of Kash Patel mistakenly calls the FBI the “FBI’s Bureau,” exposing the gaffe and underscoring the administration’s sloppy propaganda tactics."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260907201208.3.01c97205392dc74c@mg-d0.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Bill Kristol: Trump Is Turning a Bad Midterm Into a Republican Catastrophe",
-   "date": "2026-09-07T13:12-07:00",
-   "url": null,
-   "bullets": [
-    "Kristol warns that Trump’s strategy is turning a historically weak 2022 midterm for Republicans into a full‑blown catastrophe, echoing the 2006 and 1994 wave defeats that toppled incumbent parties.",
-    "He cites 1994’s end‑of‑era backlash and 2006’s anti‑war, scandal‑driven revolt as warning signs that a demoralized base and unpopular policies can trigger a massive blue wave, potentially spilling into 2026.",
-    "The episode is a holiday podcast featuring Tim Miller’s 2006 campaign recollections and Bill Kristol’s “Morning Shots” advice, plus promotion for the Bulwark LIVE Good Fight Tour in October."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 86,
-  "total": 389
+  "shown": 88,
+  "total": 390
  }
 }
