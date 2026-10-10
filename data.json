@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:35-07:00",
+ "updated": "2026-10-09T19:27-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,73 @@
  },
  "items": [
   {
+   "id": "20261010003046.3.bcde023ce9b6a7cd@mg2.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Lauren Boebert Is in MAJOR Trouble (Derek Thompson & Adam Carlson)",
+   "date": "2026-10-09T17:30-07:00",
+   "url": "https://open.substack.com/pub/derekthompson/p/the-state-of-ai-in-2026in-26-charts",
+   "bullets": [
+    "Derek Thompson argues AI is driving up costs, citing 26 key facts that show its economic impact while noting developers fear its danger yet push rapid deployment.",
+    "Adam Carlson examines why Republican polling underestimates support, suggesting voters recognize Trump’s war and tariff policies as price‑inflating, yet polls still miss Republican gains."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261010000135.3.ef83ae6000be693e@mg-d0.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 90: ICE Agent Posing as Construction Worker Shoots Man in New York",
+   "date": "2026-10-09T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-90-ice",
+   "bullets": [
+    "A multibillion‑dollar oil deal involving Russia’s state‑owned energy firm is being negotiated by Trump‑aligned negotiators, with U.S. investors who donated $2 million to Trump causes and Middle Eastern groups tied to Steve Witkoff and Jared Kushner involved.",
+    "ICE agents have obtained voting records of tens of millions of U.S. citizens and targeted hundreds of nonprofits, including the Council on American‑Islamic Relations, while an ICE agent posing as a construction worker shot 28‑year‑old Oscar Belgal in NYC, a 5‑year‑old was in the backseat.",
+    "Trump announced he would personally fund campaign‑style ads via the MAGA, INC super PAC, but the White House said the PAC would not reimburse taxpayers for the $10 million already spent, and Trump declined to pay back the funds himself."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261009223057.3.9c0372e21b1099a8@mg2.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Is He the One We’ve Been Waiting For?",
+   "date": "2026-10-09T15:30-07:00",
+   "url": null,
+   "bullets": [
+    "Sarah and JVL break down Jon Ossoff’s Terminator-style destruction of Mike Collins. Seriously: It was so brutal that someone should have stopped the debate. The Eric Deters interview on Bulwark Takes that broke our brains.",
+    "Pete Hegseth tugging it at the prospect of a livestreamed execution. The Pro-Life movement is practicing its strategic silence. Want that Woke Bill Kristol tee or Good Luck, America merch?  Go to The Bulwark Store [ https://substack.com/red…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261009200208.3.539b31a37fce5c88@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Judge Who Accused Israel of Genocide Given Nobel Peace Prize (Sorry Trump)",
+   "date": "2026-10-09T13:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/judge-who-accused-israel-of-genocide",
+   "bullets": [
+    "Editor’s Note: We thought you might find this Zeteo UK essay a worthwhile read, so we are republishing it at Zeteo. If you want to receive more essays like this from Zeteo UK, in addition to everything Zeteo offers, you can always take adva…",
+    "The South African jurist Navi Pillay, the Nobel Peace Prize recipient, is one of the most distinguished human rights lawyers and judges of the past few decades. Early in her extraordinary career, she embodied the struggle against apartheid …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261009194213.3.31bbeb12b0bbdb58@mg-d1.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How Facebook Broke America",
+   "date": "2026-10-09T12:42-07:00",
+   "url": null,
+   "bullets": [
+    "The newsletter argues that Elon Musk’s Twitter algorithm amplified outrage over Christopher Nolan’s film by promoting race‑related disputes and false casting rumors, driving user engagement and ad revenue.",
+    "It uses Aaron Sorkin’s fictional film The Social Reckoning to illustrate how Facebook’s algorithm pushes users toward extremist groups—64% join such groups after platform nudges, with white‑power recommendations appearing in just ten days—culminating in the Jan 6 Capitol attack and Zuckerberg’s congressional testimony.",
+    "The piece critiques the film’s visual style versus The Social Network, but highlights its effective portrayal of Facebook’s moral decay, where profit‑driven algorithmic tweaks prioritize ragebait over factual discourse."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261009171626.3.30529b8b4245d836@mg-d1.substack.com",
    "newsletter": "JVL - The Bulwark",
    "pub": "thebulwark",
@@ -73,10 +140,10 @@
    "date": "2026-10-09T09:59-07:00",
    "url": "https://roycoopernc.substack.com/p/it-starts-with-the-supreme-court",
    "bullets": [
-    "It is absolutely critical that we re-elect Justice Anita Earls to the North Carolina Supreme Court, and we have to do it by a margin that’s too big to rig. I’ll explain why in a second. But if that’s all you need to hear, please split a don…",
-    "Back in 2024, North Carolinians elected Justice Allison Riggs to the NC Supreme Court by the slimmest of margins: 734 votes out of 5.5 million cast. Her election took nearly six months and was the last race in the nation to be certified."
+    "In 2024, NC voters elected Justice Allison Riggs by just 734 votes out of 5.5 million, after Republicans sought to discard 60,000 legal ballots, delaying certification for six months.",
+    "The author warns that similar tactics could be used to unseat Justice Anita Earls, urging a decisive re‑election margin and soliciting donations to both campaigns."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261009153309.3.dd53c2d6ed3317a5@mg2.substack.com",
@@ -86,10 +153,11 @@
    "date": "2026-10-09T08:33-07:00",
    "url": "https://ossoff.substack.com/p/bizarre-lies",
    "bullets": [
-    "In just a second, I am going to ask you to chip in to my must-win U.S. Senate race in Georgia. [ https://secure.actblue.com/donate/ossoff-fr-substack-2026?refcode= em261009&utm_source=nl&utm_medium=substack&utm_campaign=em261009 ]",
-    "But first, I want to tell you about my decision to run for Senate back in 2020, and what that race tells us about our path to victory in the midterms. Long before I ran for office, I was an investigative journalist. My team investigated and…"
+    "Ossoff recounts his 2020 Senate run, emphasizing his investigative journalism background and a grassroots strategy that helped flip Georgia and secure the Senate majority in 2021.",
+    "He warns that the 2026 Georgia Senate race will be the nation’s tightest and most costly midterm contest, with Trump and MAGA poised to spread debunked election lies and attack voting rights.",
+    "Ossoff urges nationwide donors to fund his reelection campaign and voter‑protection efforts to counter these attacks and retain the seat."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261009150653.3.ad5a7c2eb21934c1@mg2.substack.com",
@@ -111,10 +179,10 @@
    "date": "2026-10-09T07:58-07:00",
    "url": null,
    "bullets": [
-    "IF YOU’VE SPENT MUCH TIME watching the NFL, college football, or Dancing with the Stars over the past week, or if you’re just an average political obsessive, you’ve probably noticed the taxpayer-funded ads from Donald Trump.",
-    "They’re billed as “public service announcements,” and one of the spots features excerpts from a speech Trump gave at one of his 2024 campaign rallies. The speech goes like this: With you at my side, we will demolish the deep state. We will …"
+    "A Reuters/Ipsos poll shows 86% of Americans oppose using taxpayer money for election ads featuring Trump or his cabinet, versus only 9% in favor.",
+    "In a Florida focus group of Trump‑supporting voters who now disapprove of his performance, the taxpayer‑funded ad provoked immediate, intense revulsion, with participants unable to even answer the moderator’s question."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261009132838.3.62b43bd5be553498@mg-d0.substack.com",
@@ -5265,64 +5333,10 @@
     "Argentina’s President Javier Milei warned of economic sanctions against firms exploring the Sea Lion oilfield, framing it as a ‘clear and present danger,’ even as the UK’s foreign secretary reaffirmed the islands’ British status and the joint venture promises a 9% royalty and 26% corporate tax for the Falklands government."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260909010823.3.6bafec2d0eecb005@mg2.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Imaginary Presidency Is Going Just Great",
-   "date": "2026-09-08T18:08-07:00",
-   "url": null,
-   "bullets": [
-    "Tim, Sarah, and JVL argue that Trump’s post‑election “presidency” is a fantasy, citing his Labor Day weekend antics and Corey Lewandowski’s alleged “light extortion” as evidence of a crumbling inner circle.",
-    "They claim the GOP’s midterm convention reveals Trump losing his political “fastball,” and criticize ABC News for framing Rudy Giuliani’s Islamophobic remarks about Zohran Mamdani as a news story.",
-    "The hosts also mock Senator John Fetterman’s disengagement, saying he shows “total lack of interest” in fulfilling Senate duties."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260909010036.3.9db784dc3881f9bd@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "He Lost His Father on 9/11. 25 Years Later, He Is Part of a Lawsuit Against Saudi Arabia",
-   "date": "2026-09-08T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/he-lost-his-father-on-911-25-years",
-   "bullets": [
-    "Brett Eagleson, president of 9/11 Justice and son of victim Bruce, claims evidence from the civil lawsuit against Saudi Arabia shows a systematic U.S. cover‑up of Saudi involvement in the 2001 attacks.",
-    "Eagleson accuses former President Trump of a cozy relationship with Crown Prince Mohammed bin Salman, blaming him for failing to secure Saudi admission of culpability and for blocking NYC Mayor Zohran Mamdani from attending a Ground Zero commemoration."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260908233155.3.46745c94bb74235f@mg-d1.substack.com",
-   "newsletter": "Tim Miller",
-   "pub": "thebulwark",
-   "subject": "Marco Rubio Is Punishing a Teenage Boy for His Grandmother’s Sins",
-   "date": "2026-09-08T16:31-07:00",
-   "url": null,
-   "bullets": [
-    "Marco Rubio used a 1990 immigration provision to detain Maryam Tahmasebi, her husband Eissa, and their teenage son indefinitely in Texas, citing a “serious adverse foreign policy consequence” linked only to their relative, former 1979 hostage‑taker spokesperson Masoumeh Ebtekar, despite no evidence of criminal activity or national‑security threat.",
-    "The family, all green‑card holders with no immigration violations, have been denied basic due‑process rights, medical care, and any pathway out of detention for over five months, while the U.S. government has offered no solution and has even blocked their voluntary departure to Turkey."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260908212557.3.77a392a3aabd414a@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "A Jewish Foreign Secretary Just Announced a Trade Ban on Israeli Settlements. Give Ed Miliband Credit, as the Bad-…",
-   "date": "2026-09-08T14:25-07:00",
-   "url": null,
-   "bullets": [
-    "Jewish Foreign Secretary Ed Miliband announced a UK import ban on goods from Israeli settlements, invoking a new sanctions regime despite opposition from the chief rabbi and Jewish communal groups.",
-    "Critics like former Jewish Chronicle editor Jake Wallis‑Simons and columnist Stephen Daisley accused Miliband of siding with Hamas or using incendiary rhetoric, while UN rapporteur Francesca Albanese says the ban is largely symbolic without a broader shift to enforce ICJ advisory opinions.",
-    "The move, praised by some commentators as a rare challenge to US and Israeli pressure, highlights that opposition to settlement policies is not inherently antisemitic and that the British Jewish community is not monolithic."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 88,
-  "total": 388
+  "shown": 89,
+  "total": 389
  }
 }
