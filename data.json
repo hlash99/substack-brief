@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T19:27-07:00",
+ "updated": "2026-10-10T11:43-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -51,6 +51,127 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261010170342.3.127dfd506572b73f@mg-d0.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine – Revealed: Israel Killed Over 1,480 Palestinians Since ‘Ceasefire’ One Year Ago",
+   "date": "2026-10-10T10:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-revealed-israel",
+   "bullets": [
+    "Israel has killed over 1,480 Palestinians in the past year since the so‑called ceasefire, including children, breastfeeding mothers, journalists, and striking funeral processions, while blocking aid and reconstruction materials.",
+    "The ceasefire has been repeatedly violated, with new forced displacement orders issued this week, Israeli forces attacking olive harvesters in the West Bank, and the national security minister posting a disturbing video.",
+    "Pope Francis has publicly mourned an Israeli attack on a Christian community in Gaza, highlighting the broader humanitarian crisis."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261010163106.3.df87e4fff6d7ff8e@mg2.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "The ‘Clandestine Detention Center’ in the Miami Suburbs",
+   "date": "2026-10-10T09:31-07:00",
+   "url": null,
+   "bullets": [
+    "JUST AROUND THE CORNER FROM A PUBLIX and La Carreta Cuban Restaurant in Miramar, Florida is a nondescript road flanked by trees on each side. It takes you to a tall, black wrought-iron fence. The palm trees and perfectly trimmed hedges out …",
+    "This is the Miramar Sub Office [ https://substack.com/redirect/7b8cc7c2-1aa4-481d-81e0-bda7b666fcc6?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] of ICE Enforcement and Removal Operations. Miramar is not a detention ce…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261010130334.3.abf20a72c2231a2b@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Expert Pollster on the ‘Deeper’ Dynamic That Could Bring Down Trump and MAGA",
+   "date": "2026-10-10T06:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/expert-pollster-on-the-deeper-dynamic",
+   "bullets": [
+    "Veteran pollster Cornell Belcher argues Democrats can win the House and Senate by tapping a deeper American identity crisis, citing 2006 blue wave parallels and GOP culture‑war tactics.",
+    "He warns that Trump’s administration may undermine fair elections, citing concerns over voting rights and potential erosion of democratic norms.",
+    "The 39‑minute live interview examines polling limits, midterm stakes, and implications for the 2028 presidential field, with a 1‑minute preview for free subscribers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261010130335.3.10f364d26516c18e@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“When you’re at rock bottom, the only way to go is up”",
+   "date": "2026-10-10T06:03-07:00",
+   "url": "https://post.substack.com/p/when-youre-at-rock-bottom-the-only",
+   "bullets": [
+    "Megan Nolan, an O‑1 visa writer, chronicles her oscillation between wealth and poverty, detailing how a $1,500 dinner, unpaid subway fares, and a lack of alternative work leave her financially vulnerable and emotionally ashamed when borrowing from her boyfriend.",
+    "The viral “Issey Miyake Kindergarten” story reveals that Brooklyn Montessori teachers wear Yamasaki Takashi pleated uniforms costing $120–$150 each, not the $800 Issey Miyake line, sparking cultural buzz about designer fashion intersecting with parenting and education."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261010123709.3.4a6f3db9e9fdb81e@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Republicans Thought Florida Was Safe. Then Everything Changed (with Kimberly Leonard)",
+   "date": "2026-10-10T05:37-07:00",
+   "url": null,
+   "bullets": [
+    "Republicans in Florida face a potential shift in 2026 as a data‑center‑focused candidate and a 'Joe Biden Basement' campaign threaten their long‑standing dominance.",
+    "The Democratic ticket, featuring former Republican Congressman David Jolly and DSA‑aligned state legislator Angie Nixon, may turn Florida into a swing state, sparking debate on its electoral future."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261010123419.3.ce5ddcf53c9b7a87@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Trump Is Trying to Buy Votes. It Won't Work..",
+   "date": "2026-10-10T05:34-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/trump-is-trying-to-buy-votes-it-wont",
+   "bullets": [
+    "Trump promises $5,000 dividend checks to every adult if Republicans win the midterms, but his popularity is declining and his rhetoric is hurting Republican candidates’ prospects.",
+    "The administration is already sending $90 checks to 20 million Medicare Part B enrollees and $500 refunds to 950,000 Obamacare‑exchange buyers, a potentially illegal but novel vote‑buying tactic."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261010120256.3.a9f86566ebd22eea@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "My head talks at the ECB",
+   "date": "2026-10-10T05:02-07:00",
+   "url": "https://paulkrugman.substack.com/p/my-head-talks-at-the-ecb",
+   "bullets": [
+    "Krugman argues the ECB's aggressive rate hikes are too late, warning that lingering inflation could force even steeper cuts later, harming growth.",
+    "He blames the ECB's focus on price stability for neglecting fiscal support, suggesting coordinated fiscal stimulus would better curb stagflation.",
+    "Krugman predicts that if the ECB continues on its current path, eurozone debt burdens will rise sharply, risking a sovereign debt crisis."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261010114713.3.e9c3627bf916f989@mg-d0.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Guilfoyle’s Grift, Trump’s Pepto Problem, and Hegseth’s Gross Execution Spectacle",
+   "date": "2026-10-10T04:47-07:00",
+   "url": null,
+   "bullets": [
+    "Happy Saturday! This week, in a truly wild interview Sam Stein talks to the Cincinnati-area man at the center of the Kimberly Guilfoyle scandal, Sarah Longwell finds that Trump’s taxpayer-funded ads are making voters queasy, and Catherine R…",
+    "Happy Saturday! My Cleveland Guardians face the Chicago White Sox tonight at 8 p.m. for a win or go home special. Regardless of the outcome, the back-to-back wins from the Guardians were a treat to watch. Especially [ https://substack.com/r…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261010103134.3.8221ff7c50763e62@mg-d0.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "Granite Strong",
+   "date": "2026-10-10T03:31-07:00",
+   "url": "https://chrispappasnh.substack.com/p/my-story",
+   "bullets": [
+    "Chris Pappas, a Democrat and former congressman, is running for U.S. Senate in New Hampshire, arguing that the economy is rigged for the wealthy and that Republican opponent John Sununu leads polls after $60 million GOP spending",
+    "He highlights his family’s 109‑year‑old restaurant roots, LGBTQ+ identity, bipartisan record, and past victories on issues like marriage equality and defeating a GOP agenda",
+    "Pappas urges donors to contribute as the campaign has 24 days left and needs funds to counter the GOP’s multi‑million‑dollar ad blitz"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261010003046.3.bcde023ce9b6a7cd@mg2.substack.com",
    "newsletter": "Tim Miller - The Bulwark",
@@ -5225,118 +5346,10 @@
     "He warns that GOP dark‑money super PACs have spent nearly $100 million on the race, could spend up to $600 million, and that losing North Carolina would cost Democrats control of the Senate."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260909164244.3.73eedef62f87e1ae@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "There’s Something About Sarah",
-   "date": "2026-09-09T09:42-07:00",
-   "url": null,
-   "bullets": [
-    "Sarah Longwell transformed The Bulwark from a nonprofit link aggregator into a for‑profit media property, growing its audience to 12,000 members in weeks and securing both small‑ and large‑donor support.",
-    "The author credits Sarah’s relentless energy and commitment to human dignity for turning a failed journalism team into a thriving media venture, even at personal risk and against his initial opposition.",
-    "Sarah’s book, \"How to Eat an Elephant,\" outlines an eight‑year research‑based strategy to counter fascism, advocating a hopeful, collective rebuild of America despite the author’s more pessimistic view of the nation’s future."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260909163740.3.221a5db4accb6cc6@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "How the ‘War on Terror’ Went Global - and Backfired on the United States",
-   "date": "2026-09-09T09:37-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/how-the-war-on-terror-went-global",
-   "bullets": [
-    "The U.S.’s post‑9/11 “Global War on Terror” was a deliberate policy choice that escalated violence, resulting in an estimated 4.5‑4.7 million deaths according to Brown University’s Costs of War Project.",
-    "The war’s expansion provided Russia, China, and other authoritarian regimes a playbook to justify their own repressive ambitions, claiming they were emulating U.S. anti‑terrorism rhetoric."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260909161044.3.8f09efe1d2ddbd82@mg2.substack.com",
-   "newsletter": "Smart People Talking",
-   "pub": "smartpeopletalking",
-   "subject": "I have an opportunity to go to the United Nations in Geneva. I need your help getting there.",
-   "date": "2026-09-09T09:10-07:00",
-   "url": "https://smartpeopletalking.substack.com/p/i-have-an-opportunity-to-go-to-the",
-   "bullets": [
-    "The author, a climate and disaster scientist with experience in hurricanes, public health, and science communication, seeks to attend a 30‑person UN Climate Change Study Programme in Geneva before COP31, requiring an urgent $3,000 program fee and a total $8,000 for travel and expenses."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260909132206.3.cf56781141fa68c5@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Our Orange Napoleon Wants a Big Arch",
-   "date": "2026-09-09T06:22-07:00",
-   "url": null,
-   "bullets": [
-    "Donald Trump’s campaign in Dallas is a spectacle to convince voters that the Trump experiment is thriving, with Trump speaking twice amid NFL games that likely won’t attract blue‑state viewers.",
-    "Interior Secretary Doug Burgum proposes a 250‑ft “Great Triumphal Arch” over Arlington Cemetery, echoing Napoleon’s Arc de Triomphe, sparking criticism that it’s an un‑American, imperial‑style monument and a threat to the solemnity of the site.",
-    "AI safety experts, including Jacob Coxon and Evan Hubinger, warn that rapid progress toward self‑improving superintelligence could pose an existential risk, estimating a >10% chance of AI killing humanity within the next decade."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260909111010.3.ae91c1beb61f235a@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Why Are Democrats Allowing Republicans to Smear Their Most Popular Politician? Because He’s Muslim",
-   "date": "2026-09-09T04:10-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/why-are-democrats-allowing-republicans",
-   "bullets": [
-    "Mayor Zohran Mamdani, a Muslim with strong polls, released 170,000 pages alleging city officials concealed post‑9/11 toxic air risks that have sickened thousands, including Jon Stewart.",
-    "Republican councilwoman Vickie Paladino and other GOP figures demanded Mamdani be barred from the 9/11 memorial ceremony, turning the 25th‑anniversary event into an Islamophobic controversy.",
-    "The newsletter also notes a setback for the Democratic Socialists in New Hampshire and warns of escalating tensions in Trump’s ongoing conflict with Iran."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260909110101.3.114d9007239d903f@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Trump-a-palooza Is a Gift to Democrats",
-   "date": "2026-09-09T04:01-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/trump-a-palooza-is-a-gift-to-democrats",
-   "bullets": [
-    "Trump’s self‑focused “Trump‑a‑palooza” convention and his new Securing American Greatness PAC ads glorify him without policy content, despite a Pew poll showing 76% of voters view the economy negatively.",
-    "Republican strategists claim the ads boost enthusiasm, but Economist/YouGov data shows strong Trump approval among Republicans has fallen 20 points since early 2025, undermining turnout potential.",
-    "Pfeiffer argues that centering Trump now energizes Democrats and alienates independents, making the strategy a gift to Democrats rather than a GOP advantage."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260909105915.3.0ab1a992f8a8bae4@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Adding Injury to Insult, Canada Edition",
-   "date": "2026-09-09T03:59-07:00",
-   "url": "https://paulkrugman.substack.com/p/adding-injury-to-insult-canada-edition",
-   "bullets": [
-    "Krugman argues the US‑Canada trade dispute is a gratuitous, Trump‑driven stunt, noting Canada’s modest goods surplus was offset by a US services surplus, leaving overall trade near balanced.",
-    "He highlights Canada’s outsized role in key US inputs—70% of Midwest refined oil, ~60% of US aluminum, and almost all spruce‑pine‑fir lumber—so a trade war would hurt the US economy more than Trump assumes.",
-    "Krugman warns that while the US could endure a costly trade war, Canada’s smaller economy would suffer proportionally greater damage, making the conflict both economically foolish and a humiliation for US leadership."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260909090058.3.ad7a33a3d63c548b@mg-d1.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Falkland Around",
-   "date": "2026-09-09T02:00-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/falkland-around",
-   "bullets": [
-    "In a 2013 referendum, 99.8% of the 1,517 Falkland Islanders voted to remain a UK overseas territory, a result the UK cites as fulfilling a 1965 UN resolution, while Argentina rejects it, citing the long‑standing sovereignty dispute and the 1982 war that killed nearly 1,000 people.",
-    "Argentina’s President Javier Milei warned of economic sanctions against firms exploring the Sea Lion oilfield, framing it as a ‘clear and present danger,’ even as the UK’s foreign secretary reaffirmed the islands’ British status and the joint venture promises a 9% royalty and 26% corporate tax for the Falklands government."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 89,
-  "total": 389
+  "shown": 88,
+  "total": 390
  }
 }
