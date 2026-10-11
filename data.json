@@ -1,56 +1,165 @@
 {
- "updated": "2026-10-10T19:00-07:00",
+ "updated": "2026-10-11T12:01-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Democrats are poised for a blue‑wave Senate surge as new NYT/Siena polls show them leading or within single digits in traditionally red states like Texas, Ohio, Alaska, Kansas and Iowa (The Message Box, The Bulwark).",
-   "Trump’s legal and financial controversies are intensifying, from illegal taxpayer‑funded ads and a disputed $810 million refugee‑fund cut to the opaque funding of his massive underground “ballroom” complex (The Bulwark, This Week in Democracy).",
-   "Mortgage rates have jumped to over 7 % as AI‑driven capital demand fuels a bond market squeeze, adding hundreds of thousands of dollars in interest for homeowners (Paul Krugman).",
-   "The diesel shortage is being framed as a binary export‑ban debate, but analysts point to a global refining crunch and limited White House policy options ahead of the midterms (Doomberg).",
-   "Violence in the Israel‑Palestine conflict escalates, with Israeli settlers carrying out attacks and the Gaza death toll surpassing 74,000, while U.S. politicians grapple with related diplomatic pressures (Zeteo).",
-   "Republican intra‑party fights are surfacing, highlighted by Trump’s public showdown with Sen. Tom Cotton over daylight‑saving time and the emergence of Jim Jordan as a potential MAGA heir, threatening GOP cohesion ahead of elections (The Bulwark)."
+   "Trump’s core MAGA base is collapsing, with declining approval even in deep‑red states, threatening a Democratic wave that could reshape the Supreme Court (Bulwark, Zeteo, The Bulwark).",
+   "The Trump administration’s economic missteps—tariffs, Russian oil deals, and taxpayer‑funded ads—are eroding voter support and raising legal concerns about vote‑buying tactics (The Bulwark, The Message Box).",
+   "Midterm elections are increasingly a battle over identity and democratic norms, as Democrats aim to capitalize on a deeper American identity crisis while Republicans face backlash over election‑day promises (Zeteo, The Bulwark).",
+   "AI investment is creating far fewer jobs than other sectors, potentially displacing up to ten million U.S. workers and pressuring wages, according to Krugman’s analysis (Paul Krugman).",
+   "Indonesia’s strategic ambiguity—joining BRICS yet partnering with the U.S. on defense—highlights the shifting geopolitical landscape amid China‑Russia tensions (Doomberg).",
+   "The Gaza conflict continues to claim thousands of lives, with Israel’s actions drawing international scrutiny and raising questions about humanitarian aid effectiveness (Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20261002103131.3.339fe938cfb23cdc@mg-d1.substack.com",
-   "20261002110223.3.a499b6c0428c3f78@mg-d1.substack.com",
-   "20261002112511.3.d94e0f16f301eaac@mg-d0.substack.com",
-   "20261002124203.3.ddcba831f5c6d79f@mg2.substack.com",
-   "20261002132651.3.b65228316cc1f16b@mg-d1.substack.com",
-   "20261002145820.3.f81cf43b71926899@mg2.substack.com",
-   "20261002162648.3.267e8813717993dd@mg-d1.substack.com",
-   "20261002164314.3.9e4dfc24b40b6aba@mg-d0.substack.com",
-   "20261002181208.3.cd57593d7f0a7660@mg-d0.substack.com",
-   "20261002190159.3.c26d6d5ae4443915@mg-d0.substack.com",
-   "20261002221558.3.8b297597936ae3c2@mg-d0.substack.com",
-   "20261002235947.3.5faa97d56f5d733f@mg-d1.substack.com",
-   "20261003003118.3.ad6c30b2a99db3d5@mg2.substack.com",
-   "20261003003656.3.dcbe841fc7b0cadf@mg-d0.substack.com",
-   "20261003103207.3.f07fc64dbd226fb2@mg-d1.substack.com",
-   "20261003113133.3.7bac829547d8152a@mg-d1.substack.com",
-   "20261003120331.3.dce1227a29d4be24@mg-d0.substack.com",
-   "20261003123533.3.302eb4d0442f5a29@mg-d1.substack.com",
-   "20261003130147.3.405637b50f94d8ba@mg2.substack.com",
-   "20261003130434.3.b023f7867b96c8a6@mg-d1.substack.com",
-   "20261003150003.3.0850f532372e1620@mg-d0.substack.com",
-   "20261003153726.3.e5401c4c31d014a7@mg2.substack.com",
-   "20261003164747.3.484111d9f29d36dd@mg-d0.substack.com",
-   "20261003170047.3.5b8a1451784c77a2@mg2.substack.com",
-   "20261003203331.3.9ad956f6bb477202@mg-d1.substack.com",
-   "20261004003049.3.9fdc07abd32d8228@mg2.substack.com",
-   "20261004090053.3.ddc0cd9c80ef0970@mg-d1.substack.com",
-   "20261004103058.3.9a8cf96ec69057b9@mg-d1.substack.com",
-   "20261004110230.3.7a60110302fcfdda@mg2.substack.com",
-   "20261004122344.3.550104c51dd9994e@mg2.substack.com",
-   "20261004130452.3.a5177e1117d97642@mg-d1.substack.com",
-   "20261004133137.3.42404408ff0206e4@mg-d1.substack.com",
-   "20261005000923.3.da96f9eb91a0907d@mg-d1.substack.com"
+   "20261008191836.3.6e2a4c3ee2ade60d@mg2.substack.com",
+   "20261008210439.3.0c580c7853c7aecf@mg2.substack.com",
+   "20261008210646.3.0e926d2b26da82a8@mg-d1.substack.com",
+   "20261009000128.3.ab1a0548e1e5bed4@mg-d0.substack.com",
+   "20261009011239.3.3a5426d8b78bcc38@mg2.substack.com",
+   "20261009100140.3.b5675759b8c74c65@mg-d0.substack.com",
+   "20261009103053.3.09cb205db4065884@mg-d1.substack.com",
+   "20261009103138.3.8991cc7008421d52@mg-d1.substack.com",
+   "20261009111216.3.adea8d935aba9f9f@mg-d1.substack.com",
+   "20261009132838.3.62b43bd5be553498@mg-d0.substack.com",
+   "20261009145858.3.ed1b03e2e98f62f1@mg-d1.substack.com",
+   "20261009150653.3.ad5a7c2eb21934c1@mg2.substack.com",
+   "20261009153309.3.dd53c2d6ed3317a5@mg2.substack.com",
+   "20261009165948.3.8781159970b42054@mg-d1.substack.com",
+   "20261009171626.3.30529b8b4245d836@mg-d1.substack.com",
+   "20261009194213.3.31bbeb12b0bbdb58@mg-d1.substack.com",
+   "20261009223057.3.9c0372e21b1099a8@mg2.substack.com",
+   "20261010000135.3.ef83ae6000be693e@mg-d0.substack.com",
+   "20261010003046.3.bcde023ce9b6a7cd@mg2.substack.com",
+   "20261010103134.3.8221ff7c50763e62@mg-d0.substack.com",
+   "20261010120256.3.a9f86566ebd22eea@mg2.substack.com",
+   "20261010123419.3.ce5ddcf53c9b7a87@mg-d1.substack.com",
+   "20261010123709.3.4a6f3db9e9fdb81e@mg-d1.substack.com",
+   "20261010130334.3.abf20a72c2231a2b@mg-d0.substack.com",
+   "20261010130335.3.10f364d26516c18e@mg-d1.substack.com",
+   "20261010163106.3.df87e4fff6d7ff8e@mg2.substack.com",
+   "20261010170342.3.127dfd506572b73f@mg-d0.substack.com",
+   "20261010194311.3.ba21874abef0629a@mg2.substack.com",
+   "20261010233033.3.38649285f922e677@mg2.substack.com",
+   "20261011090205.3.8bac416f67a532db@mg-d1.substack.com",
+   "20261011103120.3.6c1f9b94818f42d0@mg2.substack.com",
+   "20261011120247.3.913ca668e76eac91@mg2.substack.com",
+   "20261011180136.3.4341b66819b44453@mg2.substack.com",
+   "20261011184543.3.e57c0060221d6f5d@mg-d1.substack.com"
   ],
-  "updated": "2026-10-04T19:08-07:00",
+  "updated": "2026-10-11T12:01-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261011184543.3.e57c0060221d6f5d@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Ron Brownstein: Trump’s Collapse Is Unlike Anything We’ve Seen in Decades | Bulwark on Sunday",
+   "date": "2026-10-11T11:45-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s support among core MAGA voters is collapsing, with warning signs appearing in unexpected Republican strongholds, according to Ron Brownstein and Bill Kristol.",
+    "The analysis highlights surprising Senate races emerging in deep-red states, suggesting a potential Democratic wave that could reshape the Supreme Court for decades.",
+    "The newsletter notes that if Democrats win Iowa, the implications for the Supreme Court could be significant, reflecting a broader shift in political power."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261011180136.3.4341b66819b44453@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Americans Are Rejecting the Trump Economy – For Good Reason",
+   "date": "2026-10-11T11:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/americans-reject-trump-economy",
+   "bullets": [
+    "Unemployment hit 4.2% in September, well below the 21st‑century average, while inflation was 3.4% in August, just under one point above the 25‑year average, and growth is projected at 2.3% by the Fed.",
+    "Despite these solid macro numbers, an AP/NORC poll showed only 26% of Americans approved of Trump’s economic performance, a figure that threatens Republican prospects in the midterms.",
+    "Trump’s policies are blamed for worsening conditions, and he dismissed Americans’ affordability concerns as a “hoax,” further eroding public support."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261011150128.3.164e4cbeac413be3@mg2.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Welcome to the ‘Neporuption’",
+   "date": "2026-10-11T08:01-07:00",
+   "url": null,
+   "bullets": [
+    "FOR THE LAST DECADE, MAGA made President Joe Biden’s son, Hunter Biden, a national avatar for nepotism. They railed against the cushy jobs he secured [ https://substack.com/redirect/8996a4e1-4685-468e-ac28-8c8c296686ec?j=eyJ1IjoiMnVxMXlxIn0…",
+    "But now the very thing that MAGA spent years treating as a five-alarm scandal involving one president’s son has become the business model for multiple powerful fathers and sons simultaneously—and on a much larger scale."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261011140313.3.bd845c876291cfdb@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Did You Watch the Film They Don’t Want You To See? ‘Gaza: Doctors Under Attack’ Is Still Available Globally Via Ze…",
+   "date": "2026-10-11T07:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/did-you-watch-the-film-they-dont",
+   "bullets": [
+    "Over a year ago, we published a documentary that mainstream media didn’t want you to see. A story about Gaza’s heroes that the BBC initially refused to air [ https://substack.com/redirect/5031ab96-0cac-48b5-b861-4cae836c4147?j=eyJ1IjoiMnVxM…",
+    "As we mark three years since the genocide in occupied Gaza began, not a single doctor [ https://substack.com/redirect/e9d054c9-68f0-49fd-bf0f-9b2ec06d0558?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] highlighted in th…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261011130349.3.79145c7e293dc6d7@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "The GOP’s Money Advantage Is Smaller Than It Looks",
+   "date": "2026-10-11T06:03-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/the-gops-money-advantage-is-smaller",
+   "bullets": [
+    "With three weeks to go until the election, the GOP doesn’t have much going for it. Trump is deeply unpopular. Gas prices are sky-high. Democrats are fired up and Republicans are depressed. Every time Donald Trump goes out on the campaign tr…",
+    "But Republicans have one big advantage: money, and lots of it. The GOP has an unprecedented financial advantage and is swamping Democrats in nearly every race of consequence. To give you a sense of the absurd amounts being spent, Republican…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261011120247.3.913ca668e76eac91@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "GOP Goes Scorched-Earth on Abdul El-Sayed",
+   "date": "2026-10-11T05:02-07:00",
+   "url": null,
+   "bullets": [
+    "Mike Rogers’ new TV ad attacks Trump’s Canada tariffs, claiming they cost Michigan auto makers over $4 billion and are unpopular by a two‑to‑one margin in polls.",
+    "Rogers, once a pro‑business Republican, has flipped to support Trump’s tariffs and now avoids directly criticizing Trump, using attacks on Democrat Abdul El‑Sayed to deflect the issue.",
+    "In Thursday’s debate Rogers refused to face El‑Sayed, leaving an empty chair, while El‑Sayed continued to dominate media appearances and discuss policies from AI to industrial strategy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261011103120.3.6c1f9b94818f42d0@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Will AI Crowd Out Jobs?",
+   "date": "2026-10-11T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/will-ai-crowd-out-jobs",
+   "bullets": [
+    "A $8 billion AI training data center creates only 50‑150 jobs, versus over 10,000 jobs if the same capital were spent in other U.S. industries, implying about 1% as many jobs per dollar.",
+    "Van Nieuwerburgh projects $10 trillion in AI data‑center spending through 2032, which could displace roughly ten million jobs compared to alternative investment, pressuring wages and labor’s share of income."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261011090205.3.8bac416f67a532db@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Jump Ball",
+   "date": "2026-10-11T02:02-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/jump-ball",
+   "bullets": [
+    "Indonesia joined BRICS on Jan 6 2025, prompting student protests that Western think tanks labeled as Russia‑China‑backed color revolutions, while both powers accuse the US of meddling.",
+    "Despite BRICS membership, Indonesia signed a Major Defense Cooperation Partnership with the US in April 2026 to co‑develop asymmetric weapons, highlighting its strategic ambiguity amid China trade ties.",
+    "The author argues Indonesia’s control of the Malacca Strait makes its neutral stance precarious, suggesting a future forced choice between Washington and the Beijing‑Moscow bloc."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261010233033.3.38649285f922e677@mg2.substack.com",
    "newsletter": "Mona Charen - The Bulwark",
@@ -5181,149 +5290,10 @@
     "He framed the pledge as a reward for the party’s “most successful two years” while dismissing criticism of his illegal Iran war, highlighting internal GOP discomfort with his agenda."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260910190109.3.3d42018641776fde@mg-d0.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trumpflation Hits MAGA Merch",
-   "date": "2026-09-10T12:01-07:00",
-   "url": null,
-   "bullets": [
-    "Trump promised to end inflation on day one of his 2024 administration, but inflation persisted modestly through 2025 and spiked again after his unsanctioned war with Iran in spring 2026.",
-    "The surge in inflation has raised the cost of typical campaign merchandise, meaning even Trump-supporter gear is now noticeably pricier in 2026.",
-    "Despite the rhetoric of making America affordable again, the administration's actions have directly contributed to higher prices for everyday items and political merch."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260910175842.3.456cc9df3b31a8da@mg2.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "Shea Serrano never intended to become a writer. He built a cult following as one anyway.",
-   "date": "2026-09-10T10:58-07:00",
-   "url": "https://post.substack.com/p/shea-serrano-writer-built-a-cult-following",
-   "bullets": [
-    "Shea Serrano, a former teacher turned five‑time NYT bestseller, amassed 1,319 VHS tapes over 11 years, cataloguing every film he’s seen in a Google Doc and curating 400 favorites for his Good Movie Substack.",
-    "His Good Movie pieces dissect movies with obsessive detail—e.g., 445 questions in Inception’s 148‑minute run and stats on Harry’s run in When Harry Met Sally—mirroring the premise of his new Organizing Things podcast with co‑host Jason Concepcion.",
-    "Born to teenage parents in San Antonio’s Section 8 housing, Serrano turned to writing in 2007 after his pregnant wife’s medical complications left them needing extra income, launching a career he never expected."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260910164545.3.92a20470d635d8cf@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Democrats Should Embrace the Trump Dividend and All Its Bullsh*t",
-   "date": "2026-09-10T09:45-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s speech, as quoted, frames any Democratic victory as an existential catastrophe, claiming loss of borders, tax cuts, security, wealth, and even the “greatest two years” of his presidency.",
-    "He makes bizarre proposals—renaming Lake Ontario to “Lake America,” New Mexico to “New America,” and the Hormuz Strait to the “Trump Strait”—while boasting that the U.S. now controls 65 billion barrels of Venezuelan oil, claiming it makes America “the biggest in the world” and will drive oil prices down after the November 3 election.",
-    "Trump claims Intel begged him for a deal, offering 10% of the company in exchange for his help, portraying this as a triumph of “national socialism” over corporate trouble."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260910160128.3.d990d66f644f897b@mg2.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Meet the General Who Was Told of the U.S. Plan to Attack 7 Muslim Countries After 9/11",
-   "date": "2026-09-10T09:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/meet-the-general-who-was-told-of-us-attack-7-muslim-countries",
-   "bullets": [
-    "Retired four‑star General Wesley Clark says he was told at the Pentagon that the Bush administration planned to attack seven Middle Eastern countries within five years after 9/11, and the U.S. has since attacked five of them, including Iraq and Iran",
-    "Clark explains he opposed the 2003 Iraq invasion while supporting the 2001 Afghanistan war, argues the ‘War on Terror’ was a U.S. defeat, and now backs a war on Iran, defining success as regime change",
-    "The interview also touches on Clark’s ties to the Iranian opposition group MEK and criticizes Defense Secretary Pete Hegseth’s purge of senior military leaders"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260910153600.3.0375ec9ecb808e37@mg-d0.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "MAGA Influencer’s Defense: Antifa Got Me High",
-   "date": "2026-09-10T08:36-07:00",
-   "url": null,
-   "bullets": [
-    "Matt Tardio, a pro‑Trump influencer who livestreamed Portland ICE protests, now has 375,000 YouTube subscribers and 113,700 X followers, but faced criminal charges for assaulting a protest‑era fan.",
-    "Court records show Tardio pleaded no contest to felony coercion and misdemeanor harassment after grabbing a woman who refused to go to his hotel, an incident captured on ICE‑facility cameras."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260910135926.3.745e42b0e826c0eb@mg-d1.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Behind the curtain",
-   "date": "2026-09-10T06:59-07:00",
-   "url": "https://roycoopernc.substack.com/p/behind-the-curtain",
-   "bullets": [
-    "Michael Whatley’s campaign, backed by the GOP’s Senate Leadership Fund and a $130 million RNC war chest, is running attack ads that falsely link Roy Cooper to unrelated murders, according to fact‑checkers.",
-    "A recent Supreme Court ruling makes it easier for Republicans to flood airwaves with misleading ads and grants billionaires a massive TV ad discount, further diminishing ordinary voters’ influence.",
-    "Cooper’s team acknowledges they can’t outspend Whatley but aims to out‑organize him, urging supporters to donate $5 or volunteer for canvassing as early voting begins in 54 days."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260910134609.3.2fa0fca81fc385ff@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Dying Inside In Dallas",
-   "date": "2026-09-10T06:46-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s hour‑plus Dallas convention speech framed the 2024 election as a referendum on himself, promising a $5,000 “Trump Dividend” for every adult if Republicans keep Congress—a proposal Catherine Rampell estimates would cost over $1 trillion and echoes his history of unfulfilled largesse promises",
-    "The event was marked by low‑energy, repetitive GOP speakers, with culture‑war rhetoric (e.g., Tim Scott attacking non‑binary concepts) providing the only crowd‑pleasing moments, underscoring the party’s reliance on negative polarization around Trump",
-    "Homeland Security Secretary Markwayne Mullin’s Ohio immigration remarks contained factual errors, notably his claim that 86‑87% of immigrants miss court dates—immigration‑court data show a 76.3% attendance rate, rising to 95% with legal representation"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260910115909.3.668a9ccfced5486d@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Where Things Stand in Two Must-Win Senate Races",
-   "date": "2026-09-10T04:59-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/where-things-stand-in-two-must-win",
-   "bullets": [
-    "CNN polls show Democrat Abdul El‑Sayed trailing Republican Mike Rogers in Michigan 47‑44 and Democrat Troy Jackson trailing Republican ... in Maine 48‑45, both within the margin of error and still below 50%",
-    "The analysis argues that Donald Trump’s presence is a major drag on Republican Senate candidates, turning the GOP’s midterm convention into a potential gift for Democrats",
-    "Pfeiffer says the only realistic path to a Democratic Senate majority requires winning both Michigan and Maine, but the party should also prioritize vulnerable red‑state races like Alaska, Texas, Ohio and Iowa"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260910111917.3.dc4d2f4a7aa53f37@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "A Year Ago, Charlie Kirk Was Killed. Meet the People Who Were Fired for Speaking Out About Him",
-   "date": "2026-09-10T04:19-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/a-year-ago-charlie-kirk-was-killed",
-   "bullets": [
-    "A year after Charlie Kirk’s assassination, the GOP launched a McCarthy‑style crackdown, with officials like JD Vance urging reports of “celebrating” his death and Stephen Miller promising retaliation, leading to over 600 firings of professors, teachers, journalists and a former police officer for any criticism or even quoting Kirk’s words.",
-    "Interviewees describe how the state apparatus used Kirk’s martyrdom to weaponize free‑speech suppression, ruining careers despite many of the punished individuals previously advocating violence themselves.",
-    "The issue also includes a summary of Donald Trump’s lengthy midterm GOP convention speech in Dallas and updates on escalating tensions in the ongoing war with Iran."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260910105638.3.726d688d584662f4@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Bessent and the Bonds",
-   "date": "2026-09-10T03:56-07:00",
-   "url": "https://paulkrugman.substack.com/p/bessent-and-the-bonds",
-   "bullets": [
-    "Scott Bessent, Treasury secretary, boasts control over yen interventions and invites bets against him, but markets are testing his attempts to push down U.S. rates, which are rising despite his claims.",
-    "Long‑term yields have risen 45‑79 basis points across major economies since February, with U.S. 30‑year yields up 58 bp, driven largely by a surge in AI‑related tech spending rather than U.S. policy.",
-    "Krugman argues Bessent’s big‑stick rhetoric drains credibility, as the bond market’s rise reflects global demand for capital, not Trump’s administration failures."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 88,
-  "total": 388
+  "shown": 90,
+  "total": 386
  }
 }
