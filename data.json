@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T11:43-07:00",
+ "updated": "2026-10-10T19:00-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,33 @@
  },
  "items": [
   {
+   "id": "20261010233033.3.38649285f922e677@mg2.substack.com",
+   "newsletter": "Mona Charen - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Susan Glasser: Trump’s Most Loyal Supporters Are Abandoning Him",
+   "date": "2026-10-10T16:30-07:00",
+   "url": null,
+   "bullets": [
+    "Glasser argues Trump’s inner circle failed to confront him over the disastrous Iran war, weakening strategic oversight.",
+    "She notes Pete Hegseth faces a possible congressional reckoning for his extremist rhetoric and actions.",
+    "Glasser highlights a sharp decline in Trump’s hardcore base and suggests Democrats could achieve a historic midterm win."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261010194311.3.ba21874abef0629a@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Trump’s Putin Deal Is a Disgraceful Act of Betrayal",
+   "date": "2026-10-10T12:43-07:00",
+   "url": null,
+   "bullets": [
+    "Sam Stein and Catherine Rampell argue Trump’s decision to purchase Russian oil undermines his own Russia sanctions bill, potentially funding Putin’s war on Ukraine.",
+    "They claim the deal’s loopholes won’t meaningfully lower U.S. fuel prices and could damage U.S.-Ukraine relations as Trump urges Ukraine to halt attacks on Russian refineries."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261010170342.3.127dfd506572b73f@mg-d0.substack.com",
    "newsletter": "This Week in Palestine | Zeteo",
    "pub": "zeteo",
@@ -73,10 +100,9 @@
    "date": "2026-10-10T09:31-07:00",
    "url": null,
    "bullets": [
-    "JUST AROUND THE CORNER FROM A PUBLIX and La Carreta Cuban Restaurant in Miramar, Florida is a nondescript road flanked by trees on each side. It takes you to a tall, black wrought-iron fence. The palm trees and perfectly trimmed hedges out …",
-    "This is the Miramar Sub Office [ https://substack.com/redirect/7b8cc7c2-1aa4-481d-81e0-bda7b666fcc6?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] of ICE Enforcement and Removal Operations. Miramar is not a detention ce…"
+    "The office is severely understaffed, lacks emergency medical capacity, and staff allegedly refuse to service toilets, prompting criticism from immigrant‑rights advocates"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261010130334.3.abf20a72c2231a2b@mg-d0.substack.com",
@@ -207,10 +233,11 @@
    "date": "2026-10-09T15:30-07:00",
    "url": null,
    "bullets": [
-    "Sarah and JVL break down Jon Ossoff’s Terminator-style destruction of Mike Collins. Seriously: It was so brutal that someone should have stopped the debate. The Eric Deters interview on Bulwark Takes that broke our brains.",
-    "Pete Hegseth tugging it at the prospect of a livestreamed execution. The Pro-Life movement is practicing its strategic silence. Want that Woke Bill Kristol tee or Good Luck, America merch?  Go to The Bulwark Store [ https://substack.com/red…"
+    "Sarah and JVL dissect Jon Ossoff’s aggressive debate performance that they claim demolished Mike Collins, calling it so brutal it should have been halted.",
+    "The episode also features an intense Eric Deters interview, Pete Hegseth’s commentary on livestreamed executions, and a discussion of the pro‑life movement’s strategic silence.",
+    "Additional segments cover a quirky 'potato discourse' and a light‑hearted nod to The Golden Girls, all packaged as a premium Bulwark+ podcast."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261009200208.3.539b31a37fce5c88@mg-d1.substack.com",
@@ -383,10 +410,11 @@
    "date": "2026-10-08T18:12-07:00",
    "url": null,
    "bullets": [
-    "SHAMELESS BRANDING ASIDE, “Trump Accounts,” the new program that gives every baby in America access to some savings, is generally benign, and maybe even useful. But Donald Trump being Donald Trump, he can’t help but taint an otherwise inoff…",
-    "In this case, our president is helping rich donors offload overvalued stocks onto children, who are forced to hold the stocks for five years whether they want to or not. There’s a host of reasons why this could prove problematic. But before…"
+    "The Trump administration’s “Trump Accounts” auto‑enroll every child born 2025‑2028 in a tax‑deferred savings account seeded with $1,000, expanding enrollment from under 8 million to over 70 million children overnight.",
+    "Rich donors like Michael Dell, Ray Dalio and SpaceX COO Gwynne Shotwell can now contribute overvalued individual stocks to groups of at least 5,000 kids, and families cannot refuse these stock gifts, despite the original law limiting investments to low‑risk index funds.",
+    "Legal experts warn the stock‑gift provision may violate the program’s congressional mandate, raising concerns about forced ownership of potentially controversial companies and lack of a mechanism for families to decline or “disclaim” such donations."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261009000128.3.ab1a0548e1e5bed4@mg-d0.substack.com",
@@ -5292,64 +5320,10 @@
     "Krugman argues Bessent’s big‑stick rhetoric drains credibility, as the bond market’s rise reflects global demand for capital, not Trump’s administration failures."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260909213334.3.75870218ca0273cc@mg-d0.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Dems to Trump: Please, Sir, the Stage Is Yours",
-   "date": "2026-09-09T14:33-07:00",
-   "url": null,
-   "bullets": [
-    "The DNC skipped a midterm convention to conserve funds, instead sending a delegation of Democrats—including Rep. Madeleine Dean and Rep. Jason Crow—to Dallas to frame the GOP’s Trump‑led event as a self‑indulgent spectacle.",
-    "Democratic operatives are counter‑programming with food drives, progressive rallies, satirical ads and rapid‑response fact‑checks, aiming to highlight Trump’s “corruption” and low 38% approval while portraying vulnerable GOP candidates as pandering for his $400 million war chest.",
-    "American Bridge’s RNC2026midterm.com satire and DNC’s clip library aim to flood social media with the convention’s cringe moments, betting that voters who say the race is about Trump will swing toward Democrats."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260909210054.3.43ee1364abcef35b@mg2.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Are Democrats Turning Against Israel - or Jews? Two Leading Jewish Voices Debate Antisemitism and Anti-Zionism",
-   "date": "2026-09-09T14:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/are-democrats-turning-against-israel-debate",
-   "bullets": [
-    "Joel Rubin argues the Democratic Party is increasingly hostile to Jews, equating anti‑Zionism with antisemitism, citing his experience with Bernie Sanders’ campaign and recent op‑ed in The Free Press.",
-    "Peter Beinart counters that criticizing Israel can be compatible with progressive values and isn’t inherently antisemitic, emphasizing a legitimate debate over Zionism within the Democratic tent.",
-    "The 45‑minute debate covers definitions of Zionism, the push to marginalize Zionists in the party, the role of figures like Sanders and Abdul El‑Sayed, and the ADL’s influence in Democratic politics."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260909202014.3.303cb5e9466a314b@mg2.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Jessica Tarlov: POTUS Needs Some Moral Support",
-   "date": "2026-09-09T13:20-07:00",
-   "url": null,
-   "bullets": [
-    "Republicans in close races are removing Trump’s name from their sites, prompting a Dallas rally to boost his morale while oil prices surge and a fake convention distracts the public",
-    "Jessica Tarlov’s new book ‘I Disagree’ offers a ‘survival manual’ for debating MAGA friends, and Tim Miller condemns the media silence on Maryam Tahmasebi’s family imprisonment"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260909185845.3.64995653a930c047@mg-d1.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Anything I can say",
-   "date": "2026-09-09T11:58-07:00",
-   "url": "https://roycoopernc.substack.com/p/anything-i-can-say",
-   "bullets": [
-    "Roy Cooper claims President Trump, Vice President Vance, and Stephen Miller are personally attacking him with falsehoods, and his Republican opponent has launched a seven‑figure ad buy in North Carolina, with a poll showing the race tied.",
-    "He warns that GOP dark‑money super PACs have spent nearly $100 million on the race, could spend up to $600 million, and that losing North Carolina would cost Democrats control of the Senate."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 88,
-  "total": 390
+  "total": 388
  }
 }
