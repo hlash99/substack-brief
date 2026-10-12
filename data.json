@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T12:01-07:00",
+ "updated": "2026-10-11T19:30-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -53,6 +53,33 @@
  },
  "items": [
   {
+   "id": "20261012003043.3.ca6e1f26cf55bcea@mg-d1.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "Spending problem (John Sununu)",
+   "date": "2026-10-11T17:30-07:00",
+   "url": "https://chrispappasnh.substack.com/p/spending-problem-john-sununu",
+   "bullets": [
+    "The GOP has poured over $60 million into ads supporting John Sununu in New Hampshire, giving him a poll lead with just 23 days left before the Senate election.",
+    "Chris Pappas’s campaign is urging supporters to donate $10‑$25 to counter the GOP’s ad blitz and keep the state blue.",
+    "The email warns that additional GOP ad spending is imminent, stressing the need for immediate contributions to close the funding gap."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261011233144.3.1c7f2809e8cfcdbf@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Top Senate Dem to Trump Underlings: Lawyer Up",
+   "date": "2026-10-11T16:31-07:00",
+   "url": null,
+   "bullets": [
+    "Senate Democrat Brian Schatz, soon to be party whip, says Democrats have gained momentum in red‑state races but risk post‑election blame if they fall short, even in places like Kansas.",
+    "He notes a recent infusion of donor money has narrowed the fundraising gap with Republicans, yet the influx also created a “money crunch” as spending surged quickly."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261011184543.3.e57c0060221d6f5d@mg-d1.substack.com",
    "newsletter": "Bulwark Takes",
    "pub": "thebulwark",
@@ -88,10 +115,11 @@
    "date": "2026-10-11T08:01-07:00",
    "url": null,
    "bullets": [
-    "FOR THE LAST DECADE, MAGA made President Joe Biden’s son, Hunter Biden, a national avatar for nepotism. They railed against the cushy jobs he secured [ https://substack.com/redirect/8996a4e1-4685-468e-ac28-8c8c296686ec?j=eyJ1IjoiMnVxMXlxIn0…",
-    "But now the very thing that MAGA spent years treating as a five-alarm scandal involving one president’s son has become the business model for multiple powerful fathers and sons simultaneously—and on a much larger scale."
+    "MAGA framed Hunter Biden’s alleged nepotism, art sales, and a laptop scandal as a major controversy, culminating in his gun and tax convictions that President Biden later pardoned.",
+    "The author argues that such nepotistic corruption now extends beyond the Bidens to multiple powerful families—e.g., the Trumps, Lutnicks, Witkoffs—coining the term “neporuption” for this systemic father‑son enrichment in Washington.",
+    "The piece calls for sustained investigative journalism and invites readers to join Bulwark+ at a 30% discount to support ongoing anti‑nepotism work."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261011140313.3.bd845c876291cfdb@mg2.substack.com",
@@ -114,10 +142,11 @@
    "date": "2026-10-11T06:03-07:00",
    "url": "https://open.substack.com/pub/messagebox/p/the-gops-money-advantage-is-smaller",
    "bullets": [
-    "With three weeks to go until the election, the GOP doesn’t have much going for it. Trump is deeply unpopular. Gas prices are sky-high. Democrats are fired up and Republicans are depressed. Every time Donald Trump goes out on the campaign tr…",
-    "But Republicans have one big advantage: money, and lots of it. The GOP has an unprecedented financial advantage and is swamping Democrats in nearly every race of consequence. To give you a sense of the absurd amounts being spent, Republican…"
+    "Republicans have poured roughly $500 million into ads from Labor Day to early October, outspending Democrats by $40 million in Ohio, $45 million in Texas and $14 million in Michigan, an unprecedented gap.",
+    "Despite this cash edge, the newsletter argues the advantage is overstated because not all political dollars translate into votes, and the current pro‑Democratic environment could offset the spending disparity.",
+    "Trump’s unpopularity, high gas prices, and Democratic enthusiasm are cited as factors that may neutralize the GOP’s financial lead in the upcoming election."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261011120247.3.913ca668e76eac91@mg2.substack.com",
@@ -288,10 +317,11 @@
    "date": "2026-10-10T04:47-07:00",
    "url": null,
    "bullets": [
-    "Happy Saturday! This week, in a truly wild interview Sam Stein talks to the Cincinnati-area man at the center of the Kimberly Guilfoyle scandal, Sarah Longwell finds that Trump’s taxpayer-funded ads are making voters queasy, and Catherine R…",
-    "Happy Saturday! My Cleveland Guardians face the Chicago White Sox tonight at 8 p.m. for a win or go home special. Regardless of the outcome, the back-to-back wins from the Guardians were a treat to watch. Especially [ https://substack.com/r…"
+    "Sam Stein’s interview reveals a Cincinnati man at the center of the Kimberly Guilfoyle scandal allegedly running a $2 million fraud scheme tied to her campaign fundraising.",
+    "Sarah Longwell reports that Trump’s taxpayer‑funded political ads are backfiring, with polling showing a measurable increase in voter disgust toward the former president.",
+    "Catherine Rampell argues Trump transformed a public‑savings proposal into a policy that primarily benefits billionaires, while Cathy Young notes a Russian dissident was deported back to Putin’s regime, and Sam Stein and Mark Hertling critique Hegseth’s planned public execution as a grotesque spectacle."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261010103134.3.8221ff7c50763e62@mg-d0.substack.com",
@@ -5236,64 +5266,10 @@
     "Krugman links the nation’s current turmoil to long‑standing structural issues that predate 9/11, suggesting the seeds of the present “nightmare” were already sown at that moment."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260911000138.3.b6bf9e8cd55653d9@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "The Burning Towers Foreshadowed a Burning World – Viet Thanh Nguyen on the 25 Years After 9/11",
-   "date": "2026-09-10T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-burning-towers-foreshadowed-a",
-   "bullets": [
-    "Nguyen argues 9/11 was the fulcrum exposing both the power and vulnerability of the American empire, marking the start of its long decline while Americans cling to imperial privilege by denying their role.",
-    "He notes the tragedy united a diverse nation briefly, but that solidarity quickly turned into demands for revenge and a resurgence of ‘make America great again’ rhetoric, reinforcing domination.",
-    "Nguyen calls for a different power: renouncing empire and acknowledging vulnerability, asking whether Americans can embrace such humility 25 years after the attacks."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260910225443.3.bb27688c99fbd2c9@mg-d1.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s $5,000 Midterm Ploy Is Even Dumber Than It Sounds",
-   "date": "2026-09-10T15:54-07:00",
-   "url": null,
-   "bullets": [
-    "Trump promised a $5,000 “dividend” for every adult U.S. citizen if Republicans win both chambers, a scheme that would cost roughly $1.225 trillion—about one‑seventh of the entire federal budget.",
-    "The plan’s funding is undefined; Vice President JD Vance suggested tariffs, yet projected tariff revenue this year is only $168 billion, far short of the trillion‑plus needed.",
-    "Economists warn such a massive cash injection would be highly inflationary, echoing criticism of Biden’s 2021 stimulus that added demand without expanding supply."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260910213336.3.83447ec1e9c2a830@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "*LIVE ALERT* Stream Zeteo UK’s London Launch Event With Mehdi and Zack Polanski",
-   "date": "2026-09-10T14:33-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/live-alert-stream-zeteo-uks-london",
-   "bullets": [
-    "Zeteo UK’s London launch event will be livestreamed on September 14 at 2:15 pm EDT (7:15 pm BST) for paid subscribers, featuring Mehdi, journalists Shehab Khan, Sangita Myska, Peter Oborne, and Green Party leader Zack Polanski.",
-    "The in‑person event at the Barbican Centre is sold out, expecting over 1,000 attendees, and the livestream link is provided for subscribers to add to their calendars."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260910192325.3.4be53e0f298fd6d3@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Trump’s Disastrous Convention Has Republicans Ready to Go Home: ‘One Day Is Enough’",
-   "date": "2026-09-10T12:23-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-disastrous-republican-convention",
-   "bullets": [
-    "Trump used the Dallas midterm convention to promise a $5,000 dividend to every adult American if Republicans keep control of the House and Senate, despite inflation and gas price pressures.",
-    "He framed the pledge as a reward for the party’s “most successful two years” while dismissing criticism of his illegal Iran war, highlighting internal GOP discomfort with his agenda."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 90,
-  "total": 386
+  "total": 384
  }
 }
