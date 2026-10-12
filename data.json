@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T19:30-07:00",
+ "updated": "2026-10-12T15:10-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,114 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261012193210.3.40a6e541ed72b758@mg2.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Elon Musk Came Crawling Back to Trump. JVL Explains Why.",
+   "date": "2026-10-12T12:32-07:00",
+   "url": null,
+   "bullets": [
+    "Elon Musk, after threatening to destroy Trump’s Republican allies, is now spending hundreds of millions to keep them in power, revealing a humiliating surrender and a new billionaire‑backed MAGA coalition.",
+    "JVL’s Triad exposes Trump’s Russian diesel deal, arguing it showcases American weakness and a desperate alignment with Putin, while Sarah Longwell proposes holding Trump’s wealthy enablers accountable.",
+    "The newsletter highlights a failed MAGA smear campaign against James Talarico, underscoring the Bulwark’s investigative journalism and the need for continued member support."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261012190033.3.ea5d28c5524fe51d@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "‘Racism and Misogyny’: Photographer Misan Harriman Talks About the Media Attacks on his Friend Meghan Markle",
+   "date": "2026-10-12T12:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/racism-and-misogyny-photographer",
+   "bullets": [
+    "Misan Harriman, a Black photographer who shot the first Black male cover for British Vogue in 2020, explains how seeing George Floyd’s death spurred him to document protest movements and the media’s role in shaping narratives.",
+    "He criticises the British press for misogyny, misogynoir, racism and greed, arguing that hate sells and fuels algorithms, and links this to the tragic suicide of Cambridge professor Jason Arday after relentless, often racist media attacks.",
+    "The interview also covers Harriman’s own experiences with online harassment over his Gaza support, his response to claims he is part of the British elite, and his feelings about having his story told in the documentary ‘Shoot the People.’"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261012164212.3.73279bf270a49940@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "He’s Desperate, Stupid, Weak, and Desperate",
+   "date": "2026-10-12T09:42-07:00",
+   "url": null,
+   "bullets": [
+    "ICE agents ran over a pedestrian in Harris County, Texas, yet the agency falsely claimed the victim ran in front of the vehicle; the incident illustrates widespread state violence and misinformation.",
+    "Trump’s 2026 policy moves—signing the Lindsey O. Graham Sanctioning Russia and Iran Act, banning U.S. diesel exports, authorizing “red‑dyed diesel” for farmers, and lifting sanctions to import 3 million tons of Russian diesel—were aimed at lowering diesel prices but likely violate the act’s waiver requirements and are legally dubious."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261012140404.3.347789fc0e79b6df@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "7 Reasons Not to Celebrate Christopher Columbus Today",
+   "date": "2026-10-12T07:04-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/7-reasons-not-celebrate-christopher-columbus-indigenous-peoples-day",
+   "bullets": [
+    "Donald Trump’s 2023 proclamation renamed Columbus Day, framing Christopher Columbus as a heroic visionary, while the author argues he never discovered the Americas, with Vikings reaching North America in 1000 CE and Columbus only landing in the Bahamas.",
+    "Columbus’s voyages triggered the transatlantic slave trade, initiating centuries of forced migration and exploitation of indigenous peoples, contradicting the celebratory narrative promoted by Trump."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261012133211.3.85aae795daee493d@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Winning the Midterms Is Not Enough",
+   "date": "2026-10-12T06:32-07:00",
+   "url": null,
+   "bullets": [
+    "Elon Musk has spent $276 million trying to help Republicans win the midterms, according to a new report [ https://substack.com/redirect/52bf5643-a1c9-4b58-b23c-2f48076f4f5c?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]…",
+    "Join Will Sommer and Sam Stein for MAGA Mondays live today at 10:00 a.m. EDT on Substack [ https://open.substack.com/live-stream/406373?utm_source=post-publish ] and YouTube [ https://substack.com/redirect/eefb25f3-a957-43aa-a0d1-f3c3f08ec4…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261012105127.3.2061d9465fa71e24@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Arithmetic Suffers from Trump Derangement Syndrome",
+   "date": "2026-10-12T03:51-07:00",
+   "url": "https://paulkrugman.substack.com/p/arithmetic-suffers-from-trump-derangement",
+   "bullets": [
+    "Trump announced a plan to buy 300,000 tons (≈2 million barrels) of Russian diesel, violating sanctions and amounting to only about 12 hours of U.S. diesel consumption, highlighting his misreading of scale and support for Putin’s war.",
+    "Treasury Secretary‑designate Scott Bessent hired former Trump‑favored economist Judy Shelton as a currency adviser, despite her 2019 failed nomination to the Fed amid bipartisan criticism of her extremism.",
+    "Krugman notes that Italian productivity figures appear stagnant since 2000 due to methodological differences in GDP measurement, with Italy’s cautious hedonic adjustments contrasting with Germany and France’s approaches."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261012103124.3.3452d196f229640f@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Fox News Hosts Clash Over Trump’s Deal with Putin",
+   "date": "2026-10-12T03:31-07:00",
+   "url": null,
+   "bullets": [
+    "Michael Weiss and Marc Polymeropoulos argue Trump’s surprise energy ceasefire and deal with Putin chiefly benefits Moscow, blindsiding Ukraine and threatening U.S. intelligence sharing and weapons sales.",
+    "They warn Europe is moving toward self‑defense without Washington as U.S. policy shifts, and cite mounting pressure to remove U.S. Ambassador to Greece Kimberly Guilfoyle over corruption concerns."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261012030054.3.628dc70acbadb8a0@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "MAGA’s Talarico Mental Breakdown Conspiracy Implodes—Instantly",
+   "date": "2026-10-11T20:00-07:00",
+   "url": null,
+   "bullets": [
+    "MAGA influencers Nick Sortor and Rhein Amacher claimed a Lindner Center employee confirmed Texas Democrat James Talarico’s discharge from an Ohio mental‑health facility, sparking viral X posts and Elon Musk’s retweets.",
+    "The claim unraveled when timeline inconsistencies showed Talarico was at the Austin City Limits festival on Friday and a Kacey Musgraves concert the next day, making an Ohio discharge impossible.",
+    "Full audio revealed the supposed ‘proof’ was a brief, edited clip; the longer six‑minute call showed no confirmation, and Talarico’s spokesperson denounced the story as a fabricated conspiracy."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261012003043.3.ca6e1f26cf55bcea@mg-d1.substack.com",
    "newsletter": "Chris Pappas",
@@ -129,10 +237,11 @@
    "date": "2026-10-11T07:03-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/did-you-watch-the-film-they-dont",
    "bullets": [
-    "Over a year ago, we published a documentary that mainstream media didn’t want you to see. A story about Gaza’s heroes that the BBC initially refused to air [ https://substack.com/redirect/5031ab96-0cac-48b5-b861-4cae836c4147?j=eyJ1IjoiMnVxM…",
-    "As we mark three years since the genocide in occupied Gaza began, not a single doctor [ https://substack.com/redirect/e9d054c9-68f0-49fd-bf0f-9b2ec06d0558?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] highlighted in th…"
+    "The documentary ‘Gaza: Doctors Under Attack’, barred by the BBC, shows Israel’s systematic targeting of all 36 Gaza hospitals and the killing of medical staff, evidencing war crimes.",
+    "Three years after the Gaza genocide began, no doctor featured in the film has seen justice, and UNRWA reports Gaza’s health system remains in crisis with facilities often non‑operational due to Israeli aid restrictions.",
+    "Paid subscribers can view the full film, while free subscribers get a 5‑minute preview; the newsletter urges support for continued reporting on these ongoing stories."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261011130349.3.79145c7e293dc6d7@mg-d1.substack.com",
@@ -5130,146 +5239,10 @@
     "Zeteo’s essay argues that 9/11 reshaped global politics in two dramatic ways, linking the immediate rhetorical shift toward Islam with the subsequent military interventions in the Muslim world."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260911214008.3.343f997fc5df6520@mg-d1.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 86: Trump Dangles Bribe to Voters to Secure Republican Midterm Victories",
-   "date": "2026-09-11T14:40-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-86-trump",
-   "bullets": [
-    "Trump promised a $5,000 cash check to every adult U.S. citizen if Republicans win the midterms, a repeated but unreal pledge used to bribe voters at a Dallas rally.",
-    "The DOJ investigated virus scientists including Anthony Fauci, while also sending letters to at least 30 senior election officials ordering retention of all 2024 election records amid unclear probes.",
-    "Border Patrol deployed ‘Predictive Intelligence Targeting Teams’ to analyze financial data and flag individuals for stops, a practice likened to the dystopian ‘Minority Report.’"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260911170811.3.2f31baff1ae5e6b8@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Sometimes Terrorism Works",
-   "date": "2026-09-11T10:08-07:00",
-   "url": null,
-   "bullets": [
-    "The U.S. is on the brink of losing influence in the Middle East as Israel becomes an international pariah and Iran gains control of the Strait of Hormuz, positioning itself as the region’s dominant power.",
-    "The author notes that these developments align with al Qaeda’s objectives from 25 years ago, suggesting that terrorism can achieve strategic geopolitical outcomes."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260911143529.3.5ecd8de68ea6694f@mg-d0.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "She’s Helping Dems Take Back Congress. Trump Is Forcing Her to Self-Deport.",
-   "date": "2026-09-11T07:35-07:00",
-   "url": null,
-   "bullets": [
-    "Daysi González, a key Latino strategist for Democrats, is forced to consider self‑deportation after her Temporary Protected Status for Salvadorans, which expired on Sept. 9, is in limbo amid Trump‑era policy swings.",
-    "The Trump administration’s 2018 TPS termination and 2024 executive order targeting TPS programs left González unable to renew her license, travel, or secure employment, while her sister lost a job and mortgage payments became uncertain.",
-    "A recent USCIS notice extending TPS protection for at least 60 days may grant González and other Salvadoran TPS holders an extra six months, but she still plans to leave the U.S. after the November election, citing mental health and financial strain."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260911140735.3.3ef7860d9587fdc0@mg-d0.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "One Week Remains",
-   "date": "2026-09-11T07:07-07:00",
-   "url": null,
-   "bullets": [
-    "Doomberg claims its lateral‑thinking predictive analysis has a success rate above luck, offering real‑time updates on geopolitical shifts and a deep archive for paid subscribers.",
-    "New subscribers receive an 80‑minute bonus video, “Company Deep Dive: Chevron,” covering supermajor dynamics, Chevron’s geographic asset mix, key investment opportunities, and strategic considerations.",
-    "The subscription offer expires next Friday, encouraging readers to upgrade for full access and the bonus content."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260911140254.3.b8b49f8086ab72c2@mg2.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Two 9/11 Mothers Remember Their Children Killed 25 Years Ago",
-   "date": "2026-09-11T07:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/two-911-mothers-remember-their-children",
-   "bullets": [
-    "Two mothers who lost children in the 9/11 attacks share personal memories and the lasting emotional impact 25 years later, highlighting grief and resilience in their families.",
-    "They discuss how the tragedy reshaped their lives, community support, and the ongoing struggle to keep their children’s memories alive amid national remembrance events."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260911132706.3.c9b3c40f20ffc80b@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Out of Gas. Out of Ideas. Out of Time.",
-   "date": "2026-09-11T06:27-07:00",
-   "url": null,
-   "bullets": [
-    "The GOP’s 2024 midterm convention revealed a party that is out of ideas and time, with Trump’s speeches offering only recycled lies, empty promises of $5,000 checks, and a vague threat to block Democrats for two years, while Vice President Dan Vance’s keynote failed to present new policy or charisma, signaling a lack of a viable exit strategy.",
-    "Quinnipiac polls show Trump’s approval dropping from 40% in January to 33% now, with 59% disapproving, and 49% of voters favoring a Democratic House, indicating that the public is unwilling to pretend Trump is on the ballot and is likely to vote against him in the November midterms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260911122225.3.aa31ed4064623e44@mg-d1.substack.com",
-   "newsletter": "Mark Hertling-The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A Letter to Myself on 9/11",
-   "date": "2026-09-11T05:22-07:00",
-   "url": null,
-   "bullets": [
-    "Hertling recounts his September 8, 2001, classified lunch with CIA Director Tenet where al Qaeda was highlighted, then describes the chaotic drive to a burning Pentagon and the immediate realization that the U.S. cannot protect every potential target.",
-    "He warns that the post‑9/11 war will demand joint work across the Pentagon, State, CIA, FBI and Treasury, that military power alone cannot achieve political objectives, and that the ensuing Afghanistan conflict will become America’s longest, followed by an Iraq invasion within two years."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260911112732.3.521d72b637817b1a@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Sarah Longwell's Message for Everyone Who Thinks We’re Doomed (w/ Andrew Weissmann)",
-   "date": "2026-09-11T04:27-07:00",
-   "url": null,
-   "bullets": [
-    "Andrew Weissmann and Sarah Longwell argue that Trump's grip on his base stems from a tightly knit right‑wing media ecosystem that amplifies loyalty over policy.",
-    "Longwell criticizes Democrats for over‑relying on polls, urging a grassroots, voter‑by‑voter strategy outlined in her new book 'How to Eat an Elephant' to build a winning pro‑democracy coalition.",
-    "The Bulwark announces upcoming live events: a benefit for Springfield's Haitian community on Sept. 25 in Ohio and a Good Fight Tour in the Southeast (Oct. 16‑18) featuring Pete Buttigieg in Charlotte."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260911111405.3.adaab61fcdff9a8d@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Racism, Rula Jebreal, and the Democratic Party’s Brazen Double Standards",
-   "date": "2026-09-11T04:14-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/racism-rula-jebreal-and-the-democratic",
-   "bullets": [
-    "Rula Jebreal, an Afro‑Palestinian journalist, issued an unconditional apology for using racist tropes against Black people, but top Democrats—including DNC chair Ken Martin and House Whip Katherine Clark—publicly denounced her despite her intent and history of facing far‑right abuse.",
-    "The newsletter argues Democrats swiftly condemn racist language from left‑wing figures like Jebreal and Twitch streamer Hasan Piker, yet remain silent when Republican officials and donors make even more venomous racist remarks without apology.",
-    "It also notes Zeteo’s coverage of the GOP midterm convention in Dallas, where Trump forced attendees to pledge personal allegiance, and marks the 25th anniversary of 9/11 with exclusive reporting."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260911103100.3.d021952a1614b5d7@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Long Decline of America",
-   "date": "2026-09-11T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-long-decline-of-america",
-   "bullets": [
-    "Krugman argues that the political and financial exploitation of 9/11 began immediately, with politicians and businessmen using nationalist rhetoric to mask selfish behavior, setting the stage for today’s decline.",
-    "He acknowledges progress such as Obama’s healthcare expansion and the rapid Covid vaccine rollout, but claims the underlying “evil” driving the current MAGA‑era crisis has been building for decades.",
-    "Krugman links the nation’s current turmoil to long‑standing structural issues that predate 9/11, suggesting the seeds of the present “nightmare” were already sown at that moment."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 90,
-  "total": 384
+  "total": 382
  }
 }
