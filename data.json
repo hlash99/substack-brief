@@ -1,28 +1,17 @@
 {
- "updated": "2026-10-12T20:40-07:00",
+ "updated": "2026-10-13T13:18-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s political collapse is accelerating as his disastrous Putin diesel deal, vote‑buying promises, and waning MAGA loyalty spark internal dissent and open opportunities for Democrats (The Bulwark, Paul Krugman, Dan Pfeiffer - The Message Box).",
-   "Republican money advantage looks smaller than it seems; despite $500 million in ad spend, the cash isn’t translating into votes and could be offset by a favorable economic backdrop for Democrats (Dan Pfeiffer - The Message Box, The Bulwark).",
-   "Elon Musk’s massive $276 million Senate Leadership Fund contribution is failing to boost his approval and may be fueling backlash against billionaire‑backed MAGA politics (The Bulwark, Bill Kristol & Andrew Egger).",
-   "Key Senate races in traditionally red states—Alaska, Kansas, Florida, and New Hampshire—are becoming battlegrounds as GOP resources are diverted to legal defenses for figures like Ken Paxton and Trump allies (The Bulwark, Chris Pappas).",
-   "Public fatigue with the “Trump economy” is evident: strong macro numbers contrast sharply with low approval ratings, threatening Republican prospects in the 2024 midterms (Zeteo, Paul Krugman).",
-   "Human rights crises remain under‑reported, with new evidence of war crimes in Gaza and ongoing U.S. immigration detention failures highlighting broader systemic abuses (Zeteo, Adrian Carrasquillo)."
+   "Trump's political machine is unraveling as his cult of personality, costly ad strategies, and dubious foreign deals spark internal fractures and declining voter approval, a trend covered by The Bulwark, The Message Box, and Dan Pfeiffer.",
+   "Billionaire influence is reshaping elections, with Elon Musk pouring hundreds of millions into Republican Senate races while facing double standards in legal scrutiny, reported by Paul Krugman, Zeteo, and The Bulwark.",
+   "Democratic Senate hopefuls are mobilizing grassroots fundraising to counter massive GOP ad spends in key battlegrounds like Georgia, North Carolina, and New Hampshire, highlighted in newsletters from Jon Ossoff, Roy Cooper, and Chris Pappas.",
+   "The economic narrative is shifting: despite solid macro indicators, Trump’s “economy” is losing public support, and AI investment threatens job creation, a dual focus of Zeteo and Paul Krugman.",
+   "International dynamics are intensifying, with Indonesia’s BRICS entry and US defense partnership illustrating strategic ambiguity, while Trump’s energy deals with Putin raise security concerns, analyzed by Doomberg and The Bulwark."
   ],
   "by": "groq",
   "ids": [
-   "20261010103134.3.8221ff7c50763e62@mg-d0.substack.com",
-   "20261010114713.3.e9c3627bf916f989@mg-d0.substack.com",
-   "20261010120256.3.a9f86566ebd22eea@mg2.substack.com",
-   "20261010123419.3.ce5ddcf53c9b7a87@mg-d1.substack.com",
-   "20261010123709.3.4a6f3db9e9fdb81e@mg-d1.substack.com",
-   "20261010130334.3.abf20a72c2231a2b@mg-d0.substack.com",
-   "20261010130335.3.10f364d26516c18e@mg-d1.substack.com",
-   "20261010163106.3.df87e4fff6d7ff8e@mg2.substack.com",
-   "20261010170342.3.127dfd506572b73f@mg-d0.substack.com",
-   "20261010194311.3.ba21874abef0629a@mg2.substack.com",
    "20261010233033.3.38649285f922e677@mg2.substack.com",
    "20261011090205.3.8bac416f67a532db@mg-d1.substack.com",
    "20261011103120.3.6c1f9b94818f42d0@mg2.substack.com",
@@ -44,12 +33,151 @@
    "20261012193210.3.40a6e541ed72b758@mg2.substack.com",
    "20261012220055.3.16c3d37f35eec0d1@mg2.substack.com",
    "20261013000105.3.058ea4c23ea80e5f@mg-d0.substack.com",
-   "20261013001153.3.8435839a9645edd1@mg2.substack.com"
+   "20261013001153.3.8435839a9645edd1@mg2.substack.com",
+   "20261013111129.3.569b1011184e63a4@mg-d1.substack.com",
+   "20261013120339.3.7b103d1472aff46e@mg2.substack.com",
+   "20261013122838.3.92c76e7f20e2b67a@mg2.substack.com",
+   "20261013132541.3.08f0dc37a6c76aa2@mg-d1.substack.com",
+   "20261013150139.3.9df80a79e683c296@mg2.substack.com",
+   "20261013163736.3.c25aeaa8aa4cf691@mg2.substack.com",
+   "20261013170944.3.5de1818ae4c6d464@mg-d0.substack.com",
+   "20261013183240.3.645819a5748a5c0a@mg-d1.substack.com"
   ],
-  "updated": "2026-10-12T20:40-07:00",
+  "updated": "2026-10-13T13:18-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261013183240.3.645819a5748a5c0a@mg-d1.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "I’m asking for your help once again:",
+   "date": "2026-10-13T11:32-07:00",
+   "url": "https://ossoff.substack.com/p/im-asking-for-your-help-once-again",
+   "bullets": [
+    "Jon Ossoff urges supporters to donate $10 or more before the final FEC fundraising deadline to fund a large-scale, state‑wide campaign that can counter tens of millions in outside Republican spending and secure Georgia’s Senate seat."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261013170944.3.5de1818ae4c6d464@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "I’m counting on you",
+   "date": "2026-10-13T10:09-07:00",
+   "url": "https://roycoopernc.substack.com/p/im-counting-on-you",
+   "bullets": [
+    "Final FEC fundraising deadline is tomorrow; the report will reveal total funds raised, number of donations, and whether the campaign maintains momentum versus opponent Michael Whatley’s megadonors.",
+    "Roy Cooper urges supporters to donate $5 or more to strengthen the grassroots push to flip North Carolina’s Senate seat back to Democrats before Election Day."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261013163736.3.c25aeaa8aa4cf691@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Enter … The Trump Zone: Where Everybody Loses",
+   "date": "2026-10-13T09:37-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s housing policy has driven home values up for owners but also made buying a house more expensive, hurting affordability and increasing overall housing costs."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261013150139.3.9df80a79e683c296@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Is This the ‘Defining Political Emotion of Our Time’? A Best-Selling Author Makes the Case",
+   "date": "2026-10-13T08:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/is-this-the-defining-political-emotion",
+   "bullets": [
+    "Anand Giridharadas argues that the 2023 subway shooting in NYC exposes a national climate of “abandonment” that fuels DIY violence and deepens political divides, framing it as the era’s defining emotion.",
+    "He links this feeling to the 11‑year messaging environment that normalizes violence, warning that it will shape the 2024 midterms and the 2028 presidential race."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261013143205.3.865e748d6f0744ef@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why Adam Hamilton Could Win in Kansas, as Explained by Trump Voters",
+   "date": "2026-10-13T07:32-07:00",
+   "url": null,
+   "bullets": [
+    "ONE OF THE UNEXPECTED NEW STARS of this midterm election has been Adam Hamilton, the Kansas megachurch pastor who has a chance—though it’s nowhere near certain—of defeating Republican Sen. Roger Marshall and becoming the first Democratic se…",
+    "Donald Trump won Kansas two years ago by 16 points. That’s bigger than his margins in Iowa, Florida, Alaska, or Texas. So a Hamilton win would be one of the most impressive feats of any Democratic candidate this cycle. Hamilton has tied or …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261013132541.3.08f0dc37a6c76aa2@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Donald Trump Got Mugged by Reality",
+   "date": "2026-10-13T06:25-07:00",
+   "url": null,
+   "bullets": [
+    "Top Republican super PACs are withdrawing $10 million+ from Iowa Rep. Mariannette Miller‑Meeks and New Jersey Rep. Thomas Kean Jr., reallocating funds to more winnable midterm seats.",
+    "Trump’s recent Ohio rally shows a lack of substantive policy promises; he focuses on xenophobic chants, violent rhetoric, and vague future claims like ending wars and cutting energy prices.",
+    "Bill Kristol critiques elites as self‑preserving, using a Swedish film metaphor to argue they will abandon the public when stakes rise, calling for a new, trustworthy elite class."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261013130153.3.9f9dd909bd234da3@mg-d0.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "3 weeks left and a lot of work to do",
+   "date": "2026-10-13T06:01-07:00",
+   "url": "https://chrispappasnh.substack.com/p/3-weeks-left-and-a-lot-of-work-to",
+   "bullets": [
+    "In 24 hours we hit the final FEC deadline of this entire campaign. This is our final opportunity to raise the resources we need and show our strength before November 3rd. Here’s why this deadline matters more in the Granite State than anywh…",
+    "In other states campaigns can lock in early votes weeks ahead of time. But in New Hampshire, there is no early voting. In 2024, about ninety percent of voters cast their ballots on Election Day — so we need every resource available until th…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261013122838.3.92c76e7f20e2b67a@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "The GOP Has a They/Them Problem",
+   "date": "2026-10-13T05:28-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/the-gop-has-a-theythem-problem",
+   "bullets": [
+    "Trump’s 2024 campaign spent $20 million on a ‘They/Them’ ad aired 60,000+ times, deemed most effective by Future Forward, while Harris failed to counter it with a comparable message.",
+    "Republicans now mimic the ad’s strategy, using the ‘They/Them’ tagline and even Spanish versions like ‘por los nobinarios, no por ti,’ but analysts predict it will fail because the original’s impact hinged on Trump’s unique brand of fear‑mongering."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261013120339.3.7b103d1472aff46e@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Elon Musk Shows Us Why Oligarchy is a Danger",
+   "date": "2026-10-13T05:03-07:00",
+   "url": "https://paulkrugman.substack.com/p/elon-musk-shows-us-why-oligarchy",
+   "bullets": [
+    "The top 0.01 percent of the U.S. wealthiest—about 300 billionaires—have driven the rise in wealth concentration from 23.2% in 1979 to 38.3% today, while the bottom 90% of that group saw little change.",
+    "Billionaires wield disproportionate political influence: 300 of them contributed 19% of all reported federal campaign donations in 2024, and Elon Musk’s $X‑based spending and smear campaigns further amplify their power beyond cash contributions.",
+    "Krugman argues that the real threat to democracy is the ultra‑wealthy oligarchs, not the 5 million “Main Street Millionaires,” whose collective wealth is thirteen times that of the Forbes 400 but whose political clout is far smaller."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261013111129.3.569b1011184e63a4@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Why Was Ilhan Omar’s Home Raided Over ‘Illegal Immigration’ Claims, and Not Elon Musk’s? You Know the Answer",
+   "date": "2026-10-13T04:11-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-was-ilhan-omars-home-raided-over",
+   "bullets": [
+    "ICE raided Rep. Ilhan Omar’s Washington, DC home in a criminal investigation of her immigration status, highlighting a double standard as billionaire Elon Musk—who reportedly entered the U.S. illegally in the 1990s—has faced no such action despite similar claims.",
+    "The newsletter links the raid to Trump’s long‑running anti‑Omar rhetoric and recent calls for racial violence, contrasting it with Trump’s occasional talk of deporting Musk, who is a major GOP donor ($276 million in midterms).",
+    "It notes that since the cease‑fire anniversary, Israel has killed over 1,400 Palestinians in Gaza, drawing widespread condemnation."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261013001153.3.8435839a9645edd1@mg2.substack.com",
    "newsletter": "George Conway - The Bulwark",
@@ -5144,133 +5272,10 @@
     "He cites political scientists Farrell and Newman’s concept of “weaponized interdependence,” noting that trade can become a tool of conflict and even trigger wars, and previews a primer covering historical peace arguments, conflict cases, escalation mechanisms, and current security costs."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260912190450.3.beb625b1b69edb27@mg-d1.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Let’s Stand Together for Springfield",
-   "date": "2026-09-12T12:04-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark will host a live fundraiser on September 25 at the Dayton Masonic Center to aid Springfield’s Haitian community, featuring the crew and special guests, with donation links forthcoming.",
-    "Trump’s latest attempt to influence mail‑in voting is back before the Supreme Court, while two former CIA officers criticize Secretary John Ratcliffe’s leadership of the agency.",
-    "The weekly book club meets Wednesday at 1:30 p.m. EDT, where Mona Charen and Sonny Bunch will discuss Emily Wilson’s translation of The Odyssey and Christopher Nolan’s film adaptation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260912170204.3.c8bb808a8d9f25f8@mg-d1.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine: Israel Kills Kids on First Day of School in Gaza",
-   "date": "2026-09-12T10:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israel-kills-dae",
-   "bullets": [
-    "Israel killed 8‑year‑old Wafaa Akila and her father on her first day of school in Gaza, with photos showing her smiling in uniform and her books crushed in the vehicle that struck her.",
-    "On the same day Israel also killed child Saadi Ghalia sleeping in a school shelter, and three days later a family of four, including two young daughters, were killed while sleeping.",
-    "Haaretz published two investigative reports on Gaza during the week, while political figure Mike Huckabee described the West Bank as a ‘nebulous term’ during a visit."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260912151736.3.61ac0b496c176025@mg-d1.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Fear and Loathing Among the Fearful and Self-Loathing",
-   "date": "2026-09-12T08:17-07:00",
-   "url": null,
-   "bullets": [
-    "The author describes attending the Republican midterm convention in Dallas, enduring 100‑degree heat and a chaotic line outside a venue adorned with a Dirk Nowitzki statue.",
-    "After initial denial and silence from media ops, the author finally obtained five media passes at the Hilton Anatole, allowing entry to Trump’s midterm rally."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260912130345.3.afb378319f1256c7@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Trump Partied in Texas as Iran and Its Allies Began a ‘Tet Offensive’ on the World Economy",
-   "date": "2026-09-12T06:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-iran-houthis-republican-convention",
-   "bullets": [
-    "Trump’s self‑aggrandizing “Trump‑a‑palooza” convention in Dallas ended with a loyalty oath video and rhetoric defending his failed Iran war while dismissing gas‑price concerns.",
-    "Inside sources, including administration officials and Trump advisers present at the event, warned that Iran and its allies were launching a new, aggressive campaign that could further destabilize the global economy.",
-    "The juxtaposition of the party‑centric rally and the escalating Iran conflict highlighted internal GOP anxieties about the war’s spiraling costs ahead of the 2026 midterms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260912130338.3.77642ee164926988@mg-d1.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“You know which gazelle gets eaten by the lion? The one that strays from the pack.”",
-   "date": "2026-09-12T06:03-07:00",
-   "url": "https://post.substack.com/p/you-know-which-gazelle-gets-eaten",
-   "bullets": [
-    "Jim Waterson, David Hall and Polly Smythe expose the illegal soft‑serve ice‑cream trade on Westminster Bridge, describing rival vans, police inaction and the financial stakes of the family‑run operations.",
-    "Meghan O’Gieblyn argues AI threatens our relationship to language and reasoning, warning that synthetic text erodes higher cognitive functions while also providing a baseline to spot human spontaneity."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260912123012.3.f822b6596aa540da@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Should Dems Expand the Senate Map?",
-   "date": "2026-09-12T05:30-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/should-dems-expand-the-senate-map-3ff",
-   "bullets": [
-    "Pfeiffer argues Democrats should broaden their Senate strategy beyond the four winnable states (Alaska, Maine, North Carolina, Ohio) to include long‑shot races like South Carolina, Kansas, Mississippi, and even Texas, citing Trump’s ballot entry and potential high Black turnout in SC.",
-    "He notes that South Carolina’s Democratic nominee, Darline Graham, is weak, Trump is unpopular, and a surge in Black voter participation could make a victory plausible, though still a long shot.",
-    "Pfeiffer urges donors to consider contributions to these expanded targets, emphasizing that competing in many more red states could improve overall Senate flip chances."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260912120618.3.09d23a51ad0c1c58@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Something's Happening in Texas (with Chris Hooks)",
-   "date": "2026-09-12T05:06-07:00",
-   "url": null,
-   "bullets": [
-    "Democrats retain a realistic shot at the Texas Senate seat because incumbent Ken Paxton’s scandalous record is alienating GOP voters and Rep. James Talarico’s “nice young man” appeal is resonating with Trump supporters.",
-    "Hooks argues that emerging tech projects like data centers and Flock surveillance cameras could be leveraged to win back disaffected Trump voters in Texas.",
-    "The episode also previews a Focus Group newsletter with deeper analysis and promotes upcoming Bulwark live events featuring Pete Buttigieg and other speakers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260912103050.3.6e2b88b8cc4fd95b@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Henry Farrell and Abe Newman on Weaponized Interdependence",
-   "date": "2026-09-12T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/henry-farrell-and-abe-newman-on-weaponized",
-   "bullets": [
-    "Weaponized interdependence describes how centralized global networks like SWIFT become geopolitical choke points that powerful states—especially the U.S.—can exploit to exclude or surveil rivals, a dynamic first detailed in Farrell and Newman’s 2019 paper and their book Underground Empire.",
-    "The authors argue that U.S. post‑9/11 policy shifted Treasury’s stance from protecting the global financial system to using it as a tool of power, expanding pressure from Iran to China and even the International Criminal Court, and that similar choke points now exist in sectors such as semiconductor and rare‑earth supply chains."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260912090054.3.cf5c61717106661c@mg2.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Apricity or Bust",
-   "date": "2026-09-12T02:00-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/apricity-or-bust",
-   "bullets": [
-    "German Chancellor Friedrich Merz, now at roughly 15% approval and facing anger‑filled criticism after a regional election loss, is blamed for inaction on the looming energy crisis despite EU’s broader policy failures.",
-    "European LNG prices on the Dutch TTF are over ten times U.S. Henry Hub rates, and Germany’s gas storage remains critically low, making a winter energy emergency likely.",
-    "The newsletter argues that EU leaders’ neglect of emergency measures and Merz’s mishandling could lead to his political ouster as winter energy shortages worsen."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 88,
-  "total": 384
+  "total": 385
  }
 }
