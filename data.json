@@ -1,38 +1,20 @@
 {
- "updated": "2026-10-12T15:10-07:00",
+ "updated": "2026-10-12T20:40-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s core MAGA base is collapsing, with declining approval even in deep‑red states, threatening a Democratic wave that could reshape the Supreme Court (Bulwark, Zeteo, The Bulwark).",
-   "The Trump administration’s economic missteps—tariffs, Russian oil deals, and taxpayer‑funded ads—are eroding voter support and raising legal concerns about vote‑buying tactics (The Bulwark, The Message Box).",
-   "Midterm elections are increasingly a battle over identity and democratic norms, as Democrats aim to capitalize on a deeper American identity crisis while Republicans face backlash over election‑day promises (Zeteo, The Bulwark).",
-   "AI investment is creating far fewer jobs than other sectors, potentially displacing up to ten million U.S. workers and pressuring wages, according to Krugman’s analysis (Paul Krugman).",
-   "Indonesia’s strategic ambiguity—joining BRICS yet partnering with the U.S. on defense—highlights the shifting geopolitical landscape amid China‑Russia tensions (Doomberg).",
-   "The Gaza conflict continues to claim thousands of lives, with Israel’s actions drawing international scrutiny and raising questions about humanitarian aid effectiveness (Zeteo)."
+   "Trump’s political collapse is accelerating as his disastrous Putin diesel deal, vote‑buying promises, and waning MAGA loyalty spark internal dissent and open opportunities for Democrats (The Bulwark, Paul Krugman, Dan Pfeiffer - The Message Box).",
+   "Republican money advantage looks smaller than it seems; despite $500 million in ad spend, the cash isn’t translating into votes and could be offset by a favorable economic backdrop for Democrats (Dan Pfeiffer - The Message Box, The Bulwark).",
+   "Elon Musk’s massive $276 million Senate Leadership Fund contribution is failing to boost his approval and may be fueling backlash against billionaire‑backed MAGA politics (The Bulwark, Bill Kristol & Andrew Egger).",
+   "Key Senate races in traditionally red states—Alaska, Kansas, Florida, and New Hampshire—are becoming battlegrounds as GOP resources are diverted to legal defenses for figures like Ken Paxton and Trump allies (The Bulwark, Chris Pappas).",
+   "Public fatigue with the “Trump economy” is evident: strong macro numbers contrast sharply with low approval ratings, threatening Republican prospects in the 2024 midterms (Zeteo, Paul Krugman).",
+   "Human rights crises remain under‑reported, with new evidence of war crimes in Gaza and ongoing U.S. immigration detention failures highlighting broader systemic abuses (Zeteo, Adrian Carrasquillo)."
   ],
   "by": "groq",
   "ids": [
-   "20261008191836.3.6e2a4c3ee2ade60d@mg2.substack.com",
-   "20261008210439.3.0c580c7853c7aecf@mg2.substack.com",
-   "20261008210646.3.0e926d2b26da82a8@mg-d1.substack.com",
-   "20261009000128.3.ab1a0548e1e5bed4@mg-d0.substack.com",
-   "20261009011239.3.3a5426d8b78bcc38@mg2.substack.com",
-   "20261009100140.3.b5675759b8c74c65@mg-d0.substack.com",
-   "20261009103053.3.09cb205db4065884@mg-d1.substack.com",
-   "20261009103138.3.8991cc7008421d52@mg-d1.substack.com",
-   "20261009111216.3.adea8d935aba9f9f@mg-d1.substack.com",
-   "20261009132838.3.62b43bd5be553498@mg-d0.substack.com",
-   "20261009145858.3.ed1b03e2e98f62f1@mg-d1.substack.com",
-   "20261009150653.3.ad5a7c2eb21934c1@mg2.substack.com",
-   "20261009153309.3.dd53c2d6ed3317a5@mg2.substack.com",
-   "20261009165948.3.8781159970b42054@mg-d1.substack.com",
-   "20261009171626.3.30529b8b4245d836@mg-d1.substack.com",
-   "20261009194213.3.31bbeb12b0bbdb58@mg-d1.substack.com",
-   "20261009223057.3.9c0372e21b1099a8@mg2.substack.com",
-   "20261010000135.3.ef83ae6000be693e@mg-d0.substack.com",
-   "20261010003046.3.bcde023ce9b6a7cd@mg2.substack.com",
    "20261010103134.3.8221ff7c50763e62@mg-d0.substack.com",
+   "20261010114713.3.e9c3627bf916f989@mg-d0.substack.com",
    "20261010120256.3.a9f86566ebd22eea@mg2.substack.com",
    "20261010123419.3.ce5ddcf53c9b7a87@mg-d1.substack.com",
    "20261010123709.3.4a6f3db9e9fdb81e@mg-d1.substack.com",
@@ -45,13 +27,71 @@
    "20261011090205.3.8bac416f67a532db@mg-d1.substack.com",
    "20261011103120.3.6c1f9b94818f42d0@mg2.substack.com",
    "20261011120247.3.913ca668e76eac91@mg2.substack.com",
+   "20261011130349.3.79145c7e293dc6d7@mg-d1.substack.com",
+   "20261011140313.3.bd845c876291cfdb@mg2.substack.com",
+   "20261011150128.3.164e4cbeac413be3@mg2.substack.com",
    "20261011180136.3.4341b66819b44453@mg2.substack.com",
-   "20261011184543.3.e57c0060221d6f5d@mg-d1.substack.com"
+   "20261011184543.3.e57c0060221d6f5d@mg-d1.substack.com",
+   "20261011233144.3.1c7f2809e8cfcdbf@mg-d1.substack.com",
+   "20261012003043.3.ca6e1f26cf55bcea@mg-d1.substack.com",
+   "20261012030054.3.628dc70acbadb8a0@mg2.substack.com",
+   "20261012103124.3.3452d196f229640f@mg2.substack.com",
+   "20261012105127.3.2061d9465fa71e24@mg2.substack.com",
+   "20261012133211.3.85aae795daee493d@mg-d1.substack.com",
+   "20261012140404.3.347789fc0e79b6df@mg2.substack.com",
+   "20261012164212.3.73279bf270a49940@mg2.substack.com",
+   "20261012190033.3.ea5d28c5524fe51d@mg-d0.substack.com",
+   "20261012193210.3.40a6e541ed72b758@mg2.substack.com",
+   "20261012220055.3.16c3d37f35eec0d1@mg2.substack.com",
+   "20261013000105.3.058ea4c23ea80e5f@mg-d0.substack.com",
+   "20261013001153.3.8435839a9645edd1@mg2.substack.com"
   ],
-  "updated": "2026-10-11T12:01-07:00",
+  "updated": "2026-10-12T20:40-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261013001153.3.8435839a9645edd1@mg2.substack.com",
+   "newsletter": "George Conway - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Welcome to Psycho Politics",
+   "date": "2026-10-12T17:11-07:00",
+   "url": null,
+   "bullets": [
+    "George Conway launches a new podcast, Psycho Politics, to dissect Trump’s cult of personality, legal maneuvers, and the political fallout that will ultimately collapse his influence.",
+    "The first episode features Jim Acosta discussing Trump’s erratic behavior and the broader insanity surrounding his administration, courts, and constitutional implications.",
+    "Conway partners with The Bulwark to provide independent, pro‑democracy coverage, urging listeners to support ad‑free access through Bulwark+ membership."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261013000105.3.058ea4c23ea80e5f@mg-d0.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "My decision",
+   "date": "2026-10-12T17:01-07:00",
+   "url": "https://chrispappasnh.substack.com/p/my-decision",
+   "bullets": [
+    "Chris Pappas faces John Sununu in a debate tomorrow, pledging to keep the Senate seat independent of corporate PAC money while New Hampshire’s $60 million GOP spend threatens the race.",
+    "Pappas argues that refusing corporate PAC funds has built a winning campaign, citing four congressional victories and a commitment to prioritize Granite Staters over big money.",
+    "He emphasizes his focus on lowering costs, protecting Social Security and Medicare, defending abortion access, and ensuring hard‑working people can advance, framing the Senate bid as a fight for local accountability."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261012220055.3.16c3d37f35eec0d1@mg2.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Bill Kristol: The Paxton Nightmare Is Costing Republicans Big Time",
+   "date": "2026-10-12T15:00-07:00",
+   "url": null,
+   "bullets": [
+    "Ken Paxton’s legal woes and the money poured into his defense are diverting Republican resources from key Senate races in Alaska and Kansas, while Texas Governor Greg Abbott faces a close contest against Democrat Gina Hinojosa, who could benefit from redirected GOP funding.",
+    "Bill Kristol and Tim Miller argue that President Biden’s continued support for Putin, Saudi Crown Prince Mohammed bin Salman’s backlash over Trump‑family dealings, and the Department of Homeland Security’s raid on Ilhan Omar’s home illustrate a broader pattern of political missteps that Republicans should counter by reallocating resources to vulnerable races.",
+    "Tim Miller highlights the plight of Maryam Tahmasebi’s family, still detained in the Dilley detention center, as part of a broader critique of U.S. immigration enforcement policies."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261012193210.3.40a6e541ed72b758@mg2.substack.com",
    "newsletter": "Sarah and JVL - The Bulwark",
@@ -114,10 +154,11 @@
    "date": "2026-10-12T06:32-07:00",
    "url": null,
    "bullets": [
-    "Elon Musk has spent $276 million trying to help Republicans win the midterms, according to a new report [ https://substack.com/redirect/52bf5643-a1c9-4b58-b23c-2f48076f4f5c?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]…",
-    "Join Will Sommer and Sam Stein for MAGA Mondays live today at 10:00 a.m. EDT on Substack [ https://open.substack.com/live-stream/406373?utm_source=post-publish ] and YouTube [ https://substack.com/redirect/eefb25f3-a957-43aa-a0d1-f3c3f08ec4…"
+    "Elon Musk spent $276 million—mostly into the Senate Leadership Fund—to back Republicans in the 2024 midterms, yet his net approval rating is –16.2, still better than Trump’s –22.4.",
+    "Bill Kristol argues a Democratic wave in 2024 will be a pro‑democracy victory but not a decisive win; Democrats must keep pressure on Trump through 2028 to secure a future liberal resurgence.",
+    "Andrew Egger recounts how a viral claim that James Talarico was in a mental‑health facility collapsed, exposing the MAGA media’s tendency to spin unverified stories and the ensuing chaos on Twitter and other platforms."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261012105127.3.2061d9465fa71e24@mg2.substack.com",
@@ -5226,23 +5267,10 @@
     "The newsletter argues that EU leaders’ neglect of emergency measures and Merz’s mishandling could lead to his political ouster as winter energy shortages worsen."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260912010110.3.64b9be49f633e83c@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "How 9/11 Changed the World",
-   "date": "2026-09-11T18:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/how-911-changed-the-world",
-   "bullets": [
-    "Less than a week after 9/11, President George W. Bush visited a Washington mosque, proclaimed “Islam is peace,” and then launched invasions of Afghanistan and Iraq, countries unrelated to the attacks.",
-    "Zeteo’s essay argues that 9/11 reshaped global politics in two dramatic ways, linking the immediate rhetorical shift toward Islam with the subsequent military interventions in the Muslim world."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 90,
-  "total": 382
+  "shown": 88,
+  "total": 384
  }
 }
