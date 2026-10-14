@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T19:00-07:00",
+ "updated": "2026-10-14T11:45-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -47,6 +47,163 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261014180334.3.924bca3a3de9849d.2fok9ifv@mg1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "💬 New thread from Jonathan Cohn",
+   "date": "2026-10-14T11:03-07:00",
+   "url": null,
+   "bullets": [
+    "Jonathan Cohn invites subscribers to a live The Bulwark chat about health‑care issues and politics, seeking reader input ahead of the upcoming election."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261014163103.3.f3264bd305788ef7@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Katie Zacharia and Pyongyang on the Potomac",
+   "date": "2026-10-14T09:31-07:00",
+   "url": null,
+   "bullets": [
+    "Katie Zacharia’s brief press briefing was dominated by questions from Breitbart, Fox News, and NewsNation, all of which are tied to Trump’s media network and often ask scripted or unanswerable questions.",
+    "Breitbart’s ownership group, including the Mercer family, donated $3.4 million to Trump’s campaign, and Fox News has hired 23 of its journalists for the administration, illustrating the deep media‑political pipeline.",
+    "Fox News paid $787 million in damages to defend Trump’s 2020 election lies, underscoring its role as a state‑directed propaganda outlet rather than independent journalism."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261014160343.3.54d0e7290a57f234@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "*LIVE STREAM MO AND MEHDI* There’s Still A Chance To Watch Zeteo’s *SOLD OUT* Show In Houston",
+   "date": "2026-10-14T09:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/live-stream-mo-and-mehdi-theres-still",
+   "bullets": [
+    "Zeteo’s sold‑out live taping of the ‘We’re Not Kidding’ podcast with Mehdi Hasan and Mo Amer will stream Friday from Houston’s Cullen Performance Hall, featuring audience Q&A and a special chat with Texas Rep. Greg Casar."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261014143113.3.13877895bdf52195@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Tells One Health Care Story. The Facts Tell Another.",
+   "date": "2026-10-14T07:31-07:00",
+   "url": null,
+   "bullets": [
+    "KATIE ZACHARIA’S DEBUT as White House press secretary came in for some rough reviews on Tuesday. But she proved she’s got what it takes to perform at least one of her essential tasks: making absurd, wildly misleading statements about Donald…",
+    "“President Trump is the first president in modern history to actually lower prescription drug prices,” Zacharia said [ https://substack.com/redirect/11ed8a28-5a18-497a-af98-9352dceb13c6?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261014140209.3.f70bd55a29139558@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "My response to Trump",
+   "date": "2026-10-14T07:02-07:00",
+   "url": "https://roycoopernc.substack.com/p/my-response-to-trump",
+   "bullets": [
+    "This weekend, Donald Trump attacked me on Truth Social, again, calling me a “total fraud” and “radical.” He also gave his “complete and total endorsement” to his handpicked candidate Michael Whatley.",
+    "He then woke up Monday morning, opened Truth Social and continued his dishonest diatribes. This is not the first time Trump has come after me, and it won’t be the last. I just found out that he’s coming back to North Carolina next week to c…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261014133325.3.22cbe5ee433d3b90@mg2.substack.com",
+   "newsletter": "Here Be Dragons from Barbara F. Walter",
+   "pub": "barbarafwalter",
+   "subject": "Can Trump Actually Rig the Midterm Elections?",
+   "date": "2026-10-14T06:33-07:00",
+   "url": "https://barbarafwalter.substack.com/p/can-trump-actually-rig-the-midterm",
+   "bullets": [
+    "People keep asking me whether Donald Trump can actually rig the November midterm elections. Most Americans don’t realize that he’s already spent much of his second term trying to tilt our elections in favor of Republicans.",
+    "Some of what he’s tried to do has succeeded. Some has been stopped. But there’s a longer term game that many Americans are missing, and it’s about what happens after the election. To understand what’s happening, let’s look at what Trump has…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261014132556.3.19ef301e70632bd2@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Strategic Flunky Reserve Is Running Low",
+   "date": "2026-10-14T06:25-07:00",
+   "url": null,
+   "bullets": [
+    "Bloomberg reports that a sudden Truth Social shift on Iran policy was preceded by billions in suspicious oil futures trades, and the CFTC investigation was shut down by senior political leadership.",
+    "Katie Zacharia’s first White House briefing was a fiasco, with no questions asked and her credibility questioned over her legal credentials, highlighting Trump’s reliance on blind loyalty amid a dwindling pool of loyalists."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261014112101.3.2702e9e48180e37d@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Running Through the Tape",
+   "date": "2026-10-14T04:21-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/running-through-the-tape",
+   "bullets": [
+    "Pfeiffer argues that after Trump’s 2024 win, Democrats have regained momentum as Trump overplayed his hand, creating a generational chance for accountability and swing‑voter wins in the final three weeks before the midterms\",\"He emphasizes his newsletter’s consistent, data‑driven analysis over sensationalism, noting six years of frequent posts and a pledge to dissect post‑midterm results without break\",\"He urges readers to support the reader‑funded, pro‑democracy outlet and to volunteer with Vote Save America to help turn out Democrats"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261014111715.3.c073cbb427b664a9@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "‘Excruciating’: Trump Allies React to White House Press Secretary’s First Day – As Her Claim to Be an Attorney Col…",
+   "date": "2026-10-14T04:17-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/excruciating-trump-allies-react-to",
+   "bullets": [
+    "Katie Zacharia’s first White House press briefing lasted about 15 minutes, featured stilted reading from notes, only right‑wing outlets for questions, and she avoided answering whether the U.S. still shares intelligence with Ukraine",
+    "She mistakenly referred to President Trump as “my husband,” sparked jokes, and announced the resignation request for Ambassador Kimberly Guilfoyle amid corruption allegations",
+    "Trump praised Zacharia as “very good,” but reporters, pundits and Republican operatives widely criticized the performance as chaotic and uninformative"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261014103136.3.5a83ec2a156ef4e3@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Nerobefehl Nation",
+   "date": "2026-10-14T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/nerobefehl-nation",
+   "bullets": [
+    "Krugman likens Trump’s post‑midterm threat to Hitler’s 1945 Nero decree, warning that a defeated GOP may resort to destructive, spite‑driven actions against U.S. institutions.",
+    "He argues that even without congressional power, Trump retains vast unilateral authority via a partisan Supreme Court and loyal allies, enabling potential sabotage of democracy and allies like Ukraine.",
+    "Democrats must aggressively pursue legal accountability for anyone enabling Trump’s ‘Neroism,’ as complacency will only deepen the risk of institutional destruction."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261014100344.3.2c63d61d84d196b7@mg2.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Getting ready for sick season. Also ticks rebounding, flu sweeping, and dengue showing its teeth.",
+   "date": "2026-10-14T03:03-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/getting-ready-for-sick-season-also",
+   "bullets": [
+    "Yesterday, my nervous daughter rolled up her sleeve at the pediatrician’s office for her flu shot. But instead of rushing, the twentysomething medical assistant paused to explain that the shot would give her a superhero shield. When we got …",
+    "The changing season means respiratory viruses, plus ticks, are on the rebound, and a mosquito-borne disease is showing its teeth more often in the states now. We also answer a question I’m seeing everywhere with another tragic measles death…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261014090225.3.ed6ca3b53d9b5e15@mg-d0.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Diesel of Discontent",
+   "date": "2026-10-14T02:02-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/diesel-of-discontent",
+   "bullets": [
+    "In the first half of 2026, 136 of 140 LNG ships from Russia’s Yamal plant offloaded in Europe, generating roughly $7 billion that likely funds Putin’s war effort.",
+    "UK Prime Minister Keir Starmer approved a sanctions loophole allowing Russian crude refined in India into Britain, sparking criticism while shadow diesel volumes remain opaque.",
+    "The newsletter argues Western sanctions on Russia are fundamentally flawed and calls for a new strategy to boost European economies and increase real pressure on Moscow."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261014004005.3.56b4b996bf39e3df@mg-d0.substack.com",
    "newsletter": "Tim, Sarah and JVL - The Bulwark",
@@ -5288,65 +5445,10 @@
     "Experts from the Washington Office on Latin America argue the campaign amounts to extrajudicial executions, with no evidence it reduces trafficking, and highlight the broader implications for U.S. foreign policy."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260913160034.3.1923ceab02ccc7c3@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Why I Correct Pro-Israel Headlines on Gaza",
-   "date": "2026-09-13T09:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/why-i-correct-pro-israel-headlines",
-   "bullets": [
-    "The author argues that Western media systematically sanitizes Israel’s actions—using euphemisms like “evictions” and “targeted strikes”—to obscure occupation, apartheid, and the Gaza genocide, shaping public perception.",
-    "He documents specific examples, such as the muted reporting of 5‑year‑old Hind Rajab’s death and the under‑reporting of Israel’s role in killing journalists, showing how language downplays atrocities.",
-    "By correcting headlines and exposing these linguistic choices, he aims to reveal the political weaponization of language that shields Israel from accountability and fuels U.S. foreign‑policy support."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260913151549.3.db816cd252ffa993@mg2.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "How MAGA Bewildered Voters Into Its Alternate Reality",
-   "date": "2026-09-13T08:15-07:00",
-   "url": null,
-   "bullets": [
-    "The right built a parallel media empire—Fox, Daily Wire, OANN, Newsmax, podcasts, YouTubers—starting around 2010, so by Trump’s 2015 rise it could replace mainstream news for many voters.",
-    "Algorithm‑driven platforms now deliver news to ‘receivers’ who accept whatever the feed shows, reinforcing echo chambers and eroding trust in any source, a trend the author says threatens democratic fact‑checking.",
-    "Focus‑group quotes show both MAGA and Biden voters expressing deep confusion about what to believe, illustrating the broader ‘Great Media Unraveling’ that has left Americans without trusted information brokers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260913120328.3.6012c2c74dd4bec2@mg2.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Here’s How You Know Trump’s Canada Tariffs Are Bombing",
-   "date": "2026-09-13T05:03-07:00",
-   "url": null,
-   "bullets": [
-    "Retired autoworker Tanya Rincon warns Trump’s Canada tariffs will raise prices on U.S.-assembled vehicles that rely on Canadian parts, harming Michigan auto jobs.",
-    "The United Auto Workers and other unions publicly oppose the tariffs, citing higher consumer costs on goods from cosmetics to ice‑hockey equipment.",
-    "Polls in Michigan show over two‑thirds of voters disapprove of the Canada tariffs, making the issue a significant midterm election concern."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260913104516.3.3fd009935e8828f0@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Trade, Peace and War",
-   "date": "2026-09-13T03:45-07:00",
-   "url": "https://paulkrugman.substack.com/p/trade-peace-and-war",
-   "bullets": [
-    "Krugman warns that while post‑WWII US‑led trade networks were framed as a “Pax Americana” promoting peace, the growing field of geoeconomics shows how economic ties can be weaponized for coercion, citing Iran‑backed Houthi seizures in the Red Sea and attacks on Saudi oil pipelines.",
-    "He cites political scientists Farrell and Newman’s concept of “weaponized interdependence,” noting that trade can become a tool of conflict and even trigger wars, and previews a primer covering historical peace arguments, conflict cases, escalation mechanisms, and current security costs."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 90,
-  "total": 390
+  "total": 398
  }
 }
