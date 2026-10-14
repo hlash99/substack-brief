@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T13:18-07:00",
+ "updated": "2026-10-13T19:00-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -47,6 +47,75 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261014004005.3.56b4b996bf39e3df@mg-d0.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Insiders Are Already Trashing the New Press Secretary",
+   "date": "2026-10-13T17:40-07:00",
+   "url": null,
+   "bullets": [
+    "The hosts criticize new White House Press Secretary’s background while noting Kimberly Guilfoyle’s forced exit and the DHS raid on Rep. Ilhan Omar’s home.",
+    "They highlight GOP’s withdrawal of resources from key House races and the right‑wing uproar over James Talarico’s campaign absence.",
+    "Premium segment includes a minute‑by‑minute commentary on Katie Zachary’s 15‑minute press briefing and a debate on Tim’s controversial past stance."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261014001443.3.0d610baa408cc079@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "American ‘Psycho,’ Fascist Dork: Inside Stephen Miller’s War of Terror",
+   "date": "2026-10-13T17:14-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/stephen-miller-trump-running-world",
+   "bullets": [
+    "Former Trump officials tell Zeteo that Stephen Miller, the administration’s chief policy architect, deliberately tolerates massive loss of life, even encouraging riots to justify invoking the Insurrection Act and deploying troops in U.S. cities.",
+    "Miller oversaw the creation of a “Must Deport list,” pushing deportations to countries with poor human‑rights records and sanctioning policies that ship legal immigrants to dangerous, unrelated nations.",
+    "According to insiders, Miller’s actions have driven unprecedented democratic backsliding, including militarized immigration enforcement, erosion of due process, and overt racism targeting Somali Americans and Haitians."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261013222627.3.a9a402c69ea9d8d2@mg2.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "“Superpower Suicide”: Dissecting Trump’s Deal With Putin",
+   "date": "2026-10-13T15:26-07:00",
+   "url": null,
+   "bullets": [
+    "Chrystia Freeland, former Canadian deputy PM and current adviser to Zelensky, argues that allies’ attempts to appease Trump over his pro‑Putin stance were a strategic miscalculation.",
+    "She warns that Russia’s oligarchs, who helped install Putin believing they could control him, illustrate how power‑hungry businessmen can be outmaneuvered by authoritarian leaders.",
+    "The episode also touches on Trump’s latest move to weaponize antitrust against non‑compliant media and Senator Darrell Graham’s reaction to Trump’s attacks on her brother’s legacy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261013211106.3.ac8e7eb8e485dee3@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "7 Things to Know About the New Insane White House Press Secretary",
+   "date": "2026-10-13T14:11-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/7-things-to-know-about-the-new-insane",
+   "bullets": [
+    "Katie Zacharia, Donald Trump’s sixth White House press secretary, bombed her first briefing by ending after 15 minutes, answering only three questions and mistakenly calling her husband “my president.”",
+    "She is a known promoter of QAnon conspiracy theories, including claims about pedophilia rings, raising concerns beyond her poor media performance."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261013203927.3.cfb30999cd9a7d67@mg-d1.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Road to a Democratic House Runs Through Iowa",
+   "date": "2026-10-13T13:39-07:00",
+   "url": null,
+   "bullets": [
+    "Democrats are gaining ground in Iowa’s 1st and 3rd House districts as rising gas, diesel and food prices—linked to the Iran war and Trump‑era tariffs—fuel voter anger toward incumbents Rep. Zach Nunn and Rep. Mariannette Miller‑Meeks.",
+    "Incumbent Nunn, a MAGA Republican, has faced criticism for backing unpopular tariffs, never holding a town hall, and using Defense Secretary Pete Hegseth as a campaign prop tied to the costly Iran conflict, boosting Democrat Sarah Trone Garriott’s momentum.",
+    "Democrat Christina Bohannan, after two prior defeats, cites soaring costs and health‑care premiums as key issues; she says the recent loss by Miller‑Meeks’s super PAC funding signals growing Democratic momentum in the district."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261013183240.3.645819a5748a5c0a@mg-d1.substack.com",
    "newsletter": "Jon Ossoff",
@@ -105,10 +174,11 @@
    "date": "2026-10-13T07:32-07:00",
    "url": null,
    "bullets": [
-    "ONE OF THE UNEXPECTED NEW STARS of this midterm election has been Adam Hamilton, the Kansas megachurch pastor who has a chance—though it’s nowhere near certain—of defeating Republican Sen. Roger Marshall and becoming the first Democratic se…",
-    "Donald Trump won Kansas two years ago by 16 points. That’s bigger than his margins in Iowa, Florida, Alaska, or Texas. So a Hamilton win would be one of the most impressive feats of any Democratic candidate this cycle. Hamilton has tied or …"
+    "Kansas megachurch pastor Adam Hamilton, a Democrat, is polling within 5 points of Republican Sen. Roger Marshall despite Trump’s 16‑point 2022 win in the state, a rare Democratic surge in a deep red state.",
+    "New York Times polls since September show Hamilton tied or leading, though the lead never exceeds 5 points and includes a campaign‑sponsored poll.",
+    "Interviews with 2024 Kansas Trump voters suggest specific voter concerns and messaging that could inform Democratic strategies in other red states."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261013132541.3.08f0dc37a6c76aa2@mg-d1.substack.com",
@@ -132,10 +202,11 @@
    "date": "2026-10-13T06:01-07:00",
    "url": "https://chrispappasnh.substack.com/p/3-weeks-left-and-a-lot-of-work-to",
    "bullets": [
-    "In 24 hours we hit the final FEC deadline of this entire campaign. This is our final opportunity to raise the resources we need and show our strength before November 3rd. Here’s why this deadline matters more in the Granite State than anywh…",
-    "In other states campaigns can lock in early votes weeks ahead of time. But in New Hampshire, there is no early voting. In 2024, about ninety percent of voters cast their ballots on Election Day — so we need every resource available until th…"
+    "The campaign’s final FEC deadline is in 24 hours, with a goal to raise $350,000 to fund door‑knocking, calls, and messaging in New Hampshire, where 90% vote on Election Day.",
+    "John Sununu and corporate backers have spent over $60 million on attack ads in the state, and the campaign warns that tomorrow’s fundraising numbers will be the last the media and Trump see before the final stretch.",
+    "Supporters are urged to donate $5‑$25 immediately, as the deadline marks the last chance to demonstrate strength before the 21‑day sprint to the November 3 election."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261013122838.3.92c76e7f20e2b67a@mg2.substack.com",
@@ -5275,7 +5346,7 @@
   }
  ],
  "counts": {
-  "shown": 88,
-  "total": 385
+  "shown": 90,
+  "total": 390
  }
 }
