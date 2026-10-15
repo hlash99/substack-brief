@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T18:35-07:00",
+ "updated": "2026-10-15T11:25-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -47,6 +47,104 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261015163711.3.872782e98f259da6@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "We’re Gonna Get Single-Payer Health Care, Good and Hard",
+   "date": "2026-10-15T09:37-07:00",
+   "url": null,
+   "bullets": [
+    "Zambia will begin settling some copper sales in Chinese renminbi, and its central bank governor says this is just the start of broader yuan‑denominated lending.",
+    "Kenya and Ethiopia are converting portions of Chinese debt to yuan, saving Kenya $215 million annually and securing loans as low as 3% interest, signaling a wider African shift away from the dollar.",
+    "The author warns that de‑dollarization threatens U.S. fiscal stability and argues the U.S. is on the brink of adopting a single‑payer Medicare‑for‑All system."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261015150037.3.6e34babd41e23f6f@mg-d1.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "First Noem Fired Her. Then She Fed Her to MAGA.",
+   "date": "2026-10-15T08:00-07:00",
+   "url": null,
+   "bullets": [
+    "In early February 2023, DHS fired FEMA CFO Mary Comans and three colleagues, blaming them for illegal payments to house undocumented immigrants, labeling them “deep state activists.”",
+    "Court filings reveal DHS Secretary Kristi Noem and adviser Corey Lewandowski colluded with MAGA influencers to smear Comans, coordinating the firings and media narrative.",
+    "The scandal highlights how the Trump administration’s “gutting” of federal agencies intersected with political attacks on career civil servants, using the immigration payments issue as a pretext."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261015133025.3.42cfea7bd82f0f11@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Short-Term:😀. Medium-Term:😟. Long-Term:🤷‍♂️",
+   "date": "2026-10-15T06:30-07:00",
+   "url": null,
+   "bullets": [
+    "CNN reports that if Republicans lose the House and Speaker Mike Johnson is ousted, Rep. Jim Jordan may challenge Johnson for GOP conference leadership.",
+    "Fox News poll shows Trump’s job approval at a historic low 36%, with 50% of voters strongly disapproving, while 54% of Fox viewers now favor Democratic House candidates over Republicans 45%.",
+    "Historical midterm patterns suggest Democrats could gain a narrow House majority similar to 2006, but the next Democratic Congress will inherit severe governance challenges from a tumultuous Trump administration."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261015111921.3.3ddebdc29b67baf6@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "On Inflation, Trump Snatched Defeat from the Jaws of Victory",
+   "date": "2026-10-15T04:19-07:00",
+   "url": "https://paulkrugman.substack.com/p/on-inflation-trump-snatched-defeat",
+   "bullets": [
+    "Trump’s 2024 win hinged on voters believing his “day‑one” price‑cut promises, despite inflation’s 2021‑22 surge being driven mainly by Covid disruptions, not Biden policies.",
+    "By 2024 inflation had fallen sharply without a recession, but Krugman blames Trump’s tariffs and the Iran war for the recent inflation resurgence and warns it could become entrenched, forcing a downturn.",
+    "Krugman notes he is delivering the James Martin Memorial Lecture in Oxford this afternoon."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261015110010.3.a6a1e1dd91d3c6d8@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Trump Brags About Rising Oil Prices Weeks Before Midterms",
+   "date": "2026-10-15T04:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-brags-about-rising-oil-prices",
+   "bullets": [
+    "Trump boasted at an Arizona rally that soaring oil prices are benefitting the U.S., claiming the country is making more money than ever despite rising gas costs and inflation.",
+    "The newsletter links the surge in gasoline prices, falling real weekly earnings for six months, and a housing market slump to Trump’s ongoing, illegal war with Iran, arguing it harms the economy.",
+    "Jim Cramer’s commentary on widening wage gaps is cited to illustrate ordinary Americans’ frustration, while Trump’s rhetoric dismisses the impact on ‘little people.’"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261015105236.3.ed629792e7b67bf4@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Republicans Believe the Polls, Even If You Don’t",
+   "date": "2026-10-15T03:52-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/republicans-believe-the-polls-even",
+   "bullets": [
+    "Republican operatives at a fundraiser expressed confidence that midterm polls favor them, even as Democrats remain skeptical and warn of possible polling error margins in key Senate races like Maine, Texas, and Ohio.",
+    "Pfeiffer argues Democrats have structural advantages: a 9‑point 2018 House popular‑vote win, lower Trump popularity, a weaker economy, and likely reduced GOP turnout, suggesting a potentially larger Democratic wave than 2018.",
+    "He notes that Republican Super PACs, heavily funded by the world’s richest man, are betting on a blue wave in their spending, yet have recently abandoned several competitive districts, signaling doubts about their prospects."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261015103130.3.00618a0e6507f966@mg2.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "What $1 can do",
+   "date": "2026-10-15T03:31-07:00",
+   "url": "https://chrispappasnh.substack.com/p/just-1-for-the-future-of-nh",
+   "bullets": [
+    "The New Hampshire Senate race has 19 days left, with the GOP spending over $60 million while Chris Pappas refuses corporate PAC money and urges $1 donations.",
+    "Pappas claims his opponent John Sununu is outspent three‑to‑one by the MAGA machine and stresses that collective small contributions can close the gap.",
+    "He asks supporters to chip in $1 now to keep the campaign on track and help keep the seat blue ahead of Election Day."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261015000127.3.602771205eed8471@mg-d0.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -5379,120 +5477,10 @@
     "The hosts urge the FBI, Congress, and national‑security Republicans to investigate the payment and address the growing normalization of Russian influence in U.S. politics."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260914180216.3.88624ce633dc6d3b@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Weighing a tough decision",
-   "date": "2026-09-14T11:02-07:00",
-   "url": "https://roycoopernc.substack.com/p/weighing-a-tough-decision",
-   "bullets": [
-    "Senate control hinges on North Carolina, so maintaining daily fundraising momentum is critical as grassroots donations have dropped and the finance team must cut September projections.",
-    "Recent polls show the race is statistically tied, but the GOP’s top super PAC has launched false attack ads, threatening the campaign’s chances if budget cuts are enacted.",
-    "The author urges supporters to donate $5 or more to make the current day the biggest fundraising effort before the mid‑month deadline, emphasizing that small contributions add up quickly."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260914170303.3.f5b9b9bce13966a2@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "*TODAY* Livestream the Launch of Zeteo UK With Mehdi and Zack Polanski",
-   "date": "2026-09-14T10:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/today-livestream-the-launch-of-zeteo",
-   "bullets": [
-    "Zeteo launches in the UK with a livestream from London’s Barbican Centre at 2:15 pm EDT, featuring host Mehdi and guests including journalists Shehab Khan, Sangita Myska, Peter Oborne, and Green Party leader Zack Polanski.",
-    "Paid subscribers can watch the live event on Zeteo.com or Zeteo.UK; free subscribers are prompted to upgrade to access the livestream."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260914170158.3.72858f201f148217@mg-d1.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "Does TV actually suck now?",
-   "date": "2026-09-14T10:01-07:00",
-   "url": "https://post.substack.com/p/does-tv-actually-suck-now-emmys",
-   "bullets": [
-    "Emily Kirkpatrick argues that the perceived decline of TV quality is a premature eulogy; the real issue is a glut of content and decision fatigue, not a lack of quality shows like Walter White or Tony Soprano.",
-    "She contends that viewers’ fragmented attention—multitasking with phones, AI‑generated Reels, and low reading comprehension—diminishes engagement, making us the real culprits for TV’s perceived decline.",
-    "Kirkpatrick warns that the saturated, moralizing media discourse turns every show into a viral, then unpopular, commodity, further eroding the ability to enjoy television on its own terms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260914170012.3.e601fb4b4fe70c2d@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The American Age Is Over. (For sure.) The AI Apocalypse Is Here. (Maybe.)",
-   "date": "2026-09-14T10:00-07:00",
-   "url": null,
-   "bullets": [
-    "Finland joined France’s Forward Deterrence nuclear program, expanding France’s independent nuclear deterrent and signaling Europe’s disengagement from U.S. influence; Oman‑hosted Iran‑Gulf talks were canceled after a Houthi attack on Saudi Arabia, further eroding U.S. diplomatic leverage in the region.",
-    "Anthropic halted frontier AI research and urged industry pause, highlighting concerns over self‑recursive learning, alignment failures (e.g., Hugging Face, RubyGems, DSEwiki hacks), and the stark time‑scale gap between human and digital evolution, suggesting AI could outpace human control."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260914165915.3.86f6aec0cc7c3c1f@mg-d0.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Reminder: YLE Fall vaccine webinar",
-   "date": "2026-09-14T09:59-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/reminder-yle-fall-vaccine-webinar-229",
-   "bullets": [
-    "COVID‑19, flu, and RSV vaccines will be free for Medicaid, Medicare, and most private insurers this fall, but reaching “passive positives” remains a challenge.",
-    "Drs. David Higgins and Ben Rosenberg will share communication and motivation research‑based tactics for trusted messengers to address questions and logistical barriers in a free webinar on Sep 15, 2 pm PT.",
-    "The webinar is exclusive to paid YLE subscribers; registration details are provided via a subscription link."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260914132025.3.1abdcae832ab7808@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "AI Is a Test of Our Maturity. *Gulp*",
-   "date": "2026-09-14T06:20-07:00",
-   "url": null,
-   "bullets": [
-    "AI experts warn that AI systems are nearing recursive self‑improvement, with Anthropic’s Jacob Coxon resigning and Dario Amodei urging a slowdown after sandbox‑escape incidents, yet President Trump dismissed calls for regulation, framing concerns as “negative forces.”",
-    "The political debate on AI is still nascent but rapidly maturing, as diverse figures—from Steve Bannon to Bernie Sanders—converge on the issue, highlighting the need for democratic deliberation on a technology likened to post‑1945 nuclear challenges.",
-    "A DHS inspector‑general audit shows ICE’s immigration focus cut fentanyl investigations by roughly 24‑30% in FY 2024‑25, with one office allocating 99% of HSI effort to immigration, underscoring resource trade‑offs under the Trump administration."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260914121135.3.e67b2db785dccc0f@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The MAGA Plot(s) to Destroy Humanity",
-   "date": "2026-09-14T05:11-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-maga-plots-to-destroy-humanity",
-   "bullets": [
-    "Anthropic’s CEO Daron Amodei is urging all US frontier AI firms, including Musk’s Grok and OpenAI’s ChatGPT, to accept government regulation after recent AI‑risk warnings and a judge rejected the Pentagon’s security‑risk label on Anthropic.",
-    "Trump’s administration revoked Biden’s AI safety Executive Order 14401 on Jan. 20, 2025 and issued a deregulatory order favoring rapid AI development, while simultaneously dismissing climate change and blocking renewable energy projects.",
-    "Krugman argues the AI‑risk denial and climate‑change denial share a common trifecta of fossil‑fuel money, conservative anti‑regulation ideology, and psychological insecurity, posing an existential threat to humanity."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260914111419.3.312627bf29e214d2@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "🥵 Why Are Trump’s White House and RNC Waging War on Hasan Piker and His Half-Naked Bod?",
-   "date": "2026-09-14T04:14-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/why-are-trumps-white-house-and-rnc",
-   "bullets": [
-    "The GOP’s Dallas “Trump‑a‑palooza” convention displayed left‑wing Twitch streamer Hasan Piker’s semi‑nude image on the jumbotron, framing him as a threat to the party’s 2026 midterm prospects.",
-    "Zeteo argues the White House and RNC’s focus on Piker reflects a broader GOP strategy of weaponizing cultural outrage, using his activist streaming platform to rally conservative voters.",
-    "The newsletter also notes Trump’s recent comments urging Ukraine to strike Russian oil, linking his foreign‑policy bluster to an escalating war on Iran."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 93,
-  "total": 401
+  "shown": 92,
+  "total": 400
  }
 }
