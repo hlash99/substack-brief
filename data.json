@@ -1,52 +1,137 @@
 {
- "updated": "2026-10-15T11:25-07:00",
+ "updated": "2026-10-15T18:31-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump's political machine is unraveling as his cult of personality, costly ad strategies, and dubious foreign deals spark internal fractures and declining voter approval, a trend covered by The Bulwark, The Message Box, and Dan Pfeiffer.",
-   "Billionaire influence is reshaping elections, with Elon Musk pouring hundreds of millions into Republican Senate races while facing double standards in legal scrutiny, reported by Paul Krugman, Zeteo, and The Bulwark.",
-   "Democratic Senate hopefuls are mobilizing grassroots fundraising to counter massive GOP ad spends in key battlegrounds like Georgia, North Carolina, and New Hampshire, highlighted in newsletters from Jon Ossoff, Roy Cooper, and Chris Pappas.",
-   "The economic narrative is shifting: despite solid macro indicators, Trump’s “economy” is losing public support, and AI investment threatens job creation, a dual focus of Zeteo and Paul Krugman.",
-   "International dynamics are intensifying, with Indonesia’s BRICS entry and US defense partnership illustrating strategic ambiguity, while Trump’s energy deals with Putin raise security concerns, analyzed by Doomberg and The Bulwark."
+   "Trump’s post‑midterm strategy is shifting from overt policy to covert sabotage, with his allies using the White House press secretary’s botched briefing and the CFTC shutdown to signal a willingness to undermine institutions (Krugman, The Bulwark).",
+   "The GOP’s war on the 2026 midterms is being financed by a massive reallocation of super‑PAC money from safe seats to swing districts, while Democrats are scrambling to match the $60 million spending gap in New Hampshire and Georgia (The Message Box, The Bulwark).",
+   "Saudi Arabia’s failure to protect its emergency alert system amid Houthi missile strikes has exposed a critical vulnerability in the kingdom’s civil‑defense infrastructure, threatening both civilian safety and the stability of the Aramco oil hub (Zeteo).",
+   "The Trump administration’s continued use of the “Elon‑Putin‑Trump axis” rhetoric is fueling a new wave of voter‑suppression tactics that courts have largely blocked but that may intensify as the 2028 election approaches (The Bulwark, Doomberg).",
+   "China’s growing yuan‑denominated debt in Africa is reshaping global finance, with Zambia, Kenya, and Ethiopia cutting dollar exposure and saving hundreds of millions, a trend that could undermine U.S. influence in the region (JVL).",
+   "The political narrative in Iowa is pivoting toward seniority concerns, with calls for term limits and age caps on long‑tenured politicians like Senator Grassley reflecting a broader debate over the future of Republican leadership (Joe Perticone)."
   ],
   "by": "groq",
   "ids": [
-   "20261010233033.3.38649285f922e677@mg2.substack.com",
-   "20261011090205.3.8bac416f67a532db@mg-d1.substack.com",
-   "20261011103120.3.6c1f9b94818f42d0@mg2.substack.com",
-   "20261011120247.3.913ca668e76eac91@mg2.substack.com",
-   "20261011130349.3.79145c7e293dc6d7@mg-d1.substack.com",
-   "20261011140313.3.bd845c876291cfdb@mg2.substack.com",
-   "20261011150128.3.164e4cbeac413be3@mg2.substack.com",
-   "20261011180136.3.4341b66819b44453@mg2.substack.com",
-   "20261011184543.3.e57c0060221d6f5d@mg-d1.substack.com",
-   "20261011233144.3.1c7f2809e8cfcdbf@mg-d1.substack.com",
-   "20261012003043.3.ca6e1f26cf55bcea@mg-d1.substack.com",
-   "20261012030054.3.628dc70acbadb8a0@mg2.substack.com",
-   "20261012103124.3.3452d196f229640f@mg2.substack.com",
-   "20261012105127.3.2061d9465fa71e24@mg2.substack.com",
-   "20261012133211.3.85aae795daee493d@mg-d1.substack.com",
-   "20261012140404.3.347789fc0e79b6df@mg2.substack.com",
-   "20261012164212.3.73279bf270a49940@mg2.substack.com",
-   "20261012190033.3.ea5d28c5524fe51d@mg-d0.substack.com",
-   "20261012193210.3.40a6e541ed72b758@mg2.substack.com",
-   "20261012220055.3.16c3d37f35eec0d1@mg2.substack.com",
-   "20261013000105.3.058ea4c23ea80e5f@mg-d0.substack.com",
-   "20261013001153.3.8435839a9645edd1@mg2.substack.com",
    "20261013111129.3.569b1011184e63a4@mg-d1.substack.com",
    "20261013120339.3.7b103d1472aff46e@mg2.substack.com",
    "20261013122838.3.92c76e7f20e2b67a@mg2.substack.com",
+   "20261013130153.3.9f9dd909bd234da3@mg-d0.substack.com",
    "20261013132541.3.08f0dc37a6c76aa2@mg-d1.substack.com",
+   "20261013143205.3.865e748d6f0744ef@mg-d0.substack.com",
    "20261013150139.3.9df80a79e683c296@mg2.substack.com",
    "20261013163736.3.c25aeaa8aa4cf691@mg2.substack.com",
    "20261013170944.3.5de1818ae4c6d464@mg-d0.substack.com",
-   "20261013183240.3.645819a5748a5c0a@mg-d1.substack.com"
+   "20261013183240.3.645819a5748a5c0a@mg-d1.substack.com",
+   "20261013203927.3.cfb30999cd9a7d67@mg-d1.substack.com",
+   "20261013211106.3.ac8e7eb8e485dee3@mg-d0.substack.com",
+   "20261013222627.3.a9a402c69ea9d8d2@mg2.substack.com",
+   "20261014001443.3.0d610baa408cc079@mg-d1.substack.com",
+   "20261014004005.3.56b4b996bf39e3df@mg-d0.substack.com",
+   "20261014090225.3.ed6ca3b53d9b5e15@mg-d0.substack.com",
+   "20261014100344.3.2c63d61d84d196b7@mg2.substack.com",
+   "20261014103136.3.5a83ec2a156ef4e3@mg-d0.substack.com",
+   "20261014111715.3.c073cbb427b664a9@mg-d1.substack.com",
+   "20261014112101.3.2702e9e48180e37d@mg2.substack.com",
+   "20261014132556.3.19ef301e70632bd2@mg-d1.substack.com",
+   "20261014133325.3.22cbe5ee433d3b90@mg2.substack.com",
+   "20261014140209.3.f70bd55a29139558@mg-d0.substack.com",
+   "20261014143113.3.13877895bdf52195@mg2.substack.com",
+   "20261014160343.3.54d0e7290a57f234@mg-d1.substack.com",
+   "20261014163103.3.f3264bd305788ef7@mg-d0.substack.com",
+   "20261014180334.3.924bca3a3de9849d.2fok9ifv@mg1.substack.com",
+   "20261014191435.3.f11d17693b638d08@mg2.substack.com",
+   "20261014203058.3.047ca974ec020ea4@mg-d1.substack.com",
+   "20261014222901.3.67c0ad238990ec0d@mg2.substack.com",
+   "20261014230119.3.cff0cb8596e6a7b7@mg-d0.substack.com",
+   "20261014230130.3.e1f6afa8c26535b6@mg-d0.substack.com",
+   "20261015000127.3.602771205eed8471@mg-d0.substack.com",
+   "20261015103130.3.00618a0e6507f966@mg2.substack.com",
+   "20261015105236.3.ed629792e7b67bf4@mg2.substack.com",
+   "20261015110010.3.a6a1e1dd91d3c6d8@mg-d1.substack.com",
+   "20261015111921.3.3ddebdc29b67baf6@mg-d1.substack.com",
+   "20261015133025.3.42cfea7bd82f0f11@mg2.substack.com",
+   "20261015150037.3.6e34babd41e23f6f@mg-d1.substack.com",
+   "20261015163711.3.872782e98f259da6@mg-d0.substack.com",
+   "20261015190354.3.c4fc64cee62b65bd@mg2.substack.com",
+   "20261015202617.3.dd4ba5ea1877bde1@mg-d1.substack.com",
+   "20261015230112.3.2a537cca67a266b1@mg-d1.substack.com",
+   "20261016000124.3.a87f4023fe597faa@mg2.substack.com",
+   "20261016011539.3.af4a41710ca160b5@mg-d1.substack.com"
   ],
-  "updated": "2026-10-13T13:18-07:00",
+  "updated": "2026-10-15T18:31-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261016011539.3.af4a41710ca160b5@mg-d1.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "James Talarico Utterly Dismantled a Republican’s Religious Ambush (w/ George Conway)",
+   "date": "2026-10-15T18:15-07:00",
+   "url": null,
+   "bullets": [
+    "James Talarico exposed a Republican’s religious‑based attack, showing how MAGA lies can be dismantled with factual rebuttals.",
+    "George Conway returns to The Bulwark, critiques Mike Johnson’s fear of a Democratic House investigation into Trump‑era corruption, and links the Elon‑Putin‑Trump axis as a renewed threat.",
+    "The episode also notes Trump’s mental decline, highlights Sen. Ossoff’s appearance on Chris Hayes, and promotes upcoming Bulwark events and a 30% subscription discount."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261016000124.3.a87f4023fe597faa@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "‘Secretary of War Crimes’: Pete Hegseth Is the ‘Dumb’ Guy Who Quenches Trump’s Bloodlust",
+   "date": "2026-10-15T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/secretary-of-war-crimes-pete-hegseth",
+   "bullets": [
+    "Pete Hegseth, former Fox & Friends co‑host and Trump’s defense secretary since Jan 2025, has pushed extreme policies like a livestreamed public execution, aligning with Trump’s “bloodlust” for violent spectacle.",
+    "Hegseth advocated executing a wheelchair‑bound mass murderer by firing squad and broadcasting it online, but Trump halted the livestream after learning the convict’s condition, though the execution will still proceed.",
+    "The article argues Hegseth uses every Pentagon lever to realize Trump’s imperialist, bigoted, and violent agenda both abroad and domestically."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261015230112.3.2a537cca67a266b1@mg-d1.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Just. So. Much. Corruption.",
+   "date": "2026-10-15T16:01-07:00",
+   "url": null,
+   "bullets": [
+    "Bloomberg reports a senior adviser to the Trump‑appointed CFTC chair halted a referral for a full insider‑trading probe after traders profited from oil and S&P bets timed to Trump’s Iran threat retraction, suggesting regulator interference enabled the scheme.",
+    "Trump Media is suing Wall Street firms for early access to Truth Social posts, effectively creating a marketplace for insider information that the San Francisco City Attorney says lets Trump profit from insider trading, while a White House aide simultaneously earned millions from Tether while pushing a crypto bill.",
+    "Gallup and Fox News polls show record‑high public belief that government corruption is widespread, with a majority of Republicans now saying Trump prioritizes his personal financial interests even as SNAP enrollment falls 13% and food insecurity rises under his tax‑cut agenda."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261015202617.3.dd4ba5ea1877bde1@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "The Truth About the Houthis – and Why Saudi Arabia Is Struggling to Defend Itself Against Them",
+   "date": "2026-10-15T13:26-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-truth-about-the-houthis-and-why",
+   "bullets": [
+    "Saudi Arabia disabled its emergency mobile alert system amid complaints, even as Houthi missile strikes this week killed 13 at Riyadh airport, wounded hundreds, and set Aramco headquarters ablaze, prompting flight cancellations and Novak Djokovic’s withdrawal from a Saudi event.",
+    "The Houthis have escalated attacks on civilian infrastructure, including a Saturday strike on Riyadh’s international airport, demonstrating their capacity to inflict significant damage and prompting speculation that Riyadh may seek peace negotiations soon."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261015190354.3.c4fc64cee62b65bd@mg2.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Iowa Wonders: What Happens If Grassley Dies?",
+   "date": "2026-10-15T12:03-07:00",
+   "url": null,
+   "bullets": [
+    "Rob Sand, Iowa Democratic gubernatorial candidate, urged term and age limits for politicians, citing concerns about long tenures like Senator Chuck Grassley’s decades‑long service.",
+    "Grassley, who first won office in the Eisenhower era, recently acknowledged his age while endorsing GOP governor candidate Zach Lahn, sparking renewed debate over seniority in Iowa politics.",
+    "Despite Iowa’s relatively young Senate and governor candidates—most under 50—public focus remains on Grassley’s potential succession and the need for institutional renewal."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261015163711.3.872782e98f259da6@mg-d0.substack.com",
    "newsletter": "JVL - The Bulwark",
@@ -5421,66 +5506,10 @@
     "The World Trade Center Health Program, covering over 104,000 responders and survivors, finds that half of participants have certified health conditions—1 in 8 cancer and 1 in 5 non‑cancer—highlighting long‑term disaster health impacts."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260915010540.3.e08a6b3d9dd10b2a@mg-d1.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "Yesterday’s rally in Athens",
-   "date": "2026-09-14T18:05-07:00",
-   "url": "https://ossoff.substack.com/p/yesterdays-rally-in-athens",
-   "bullets": [
-    "Ossoff rallied a large Athens crowd, urging voters to turn out in a month to defeat Trump‑aligned Rep. Mike Collins and elect Democratic candidates, including Gov. Bottoms for Medicaid expansion.",
-    "He accused Trump of inflating prices, mismanaging wars, and funneling $620 million Pentagon loans to his son’s venture, while calling for a constitutional amendment to overturn Citizens United.",
-    "Ossoff highlighted bipartisan local support, citing Republican mayors backing his campaign and his own efforts on disaster relief and infrastructure projects."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260915000629.3.f59ec999d7768d06@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "How to Stop AI From Killing Humanity",
-   "date": "2026-09-14T17:06-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/how-to-stop-ai-from-killing-humanity",
-   "bullets": [
-    "Nate Soares argues that any development of smarter‑than‑human AI using current methods carries a high probability of human extinction, estimating at least a 10% chance if rushed.",
-    "He notes a growing wave of AI researchers and company employees publicly warning that the race toward superintelligence could kill all humans within a decade.",
-    "Soares questions why leading AI firms, despite these alarms, are not halting development, implying corporate incentives outweigh existential risk concerns."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260914235556.3.6c37c5ab1a76ac08@mg2.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Latest Right-Wing Revolt Against Markwayne Mullin Is the Wildest Yet",
-   "date": "2026-09-14T16:55-07:00",
-   "url": null,
-   "bullets": [
-    "Conservative pundits, from Benny Johnson to Tomi Lahren, are enraged that DHS Secretary Markwayne Mullin gave no concrete plan to deport Rep. Ilhan Omar, a claim based on a dubious anonymous forum post.",
-    "Despite repeated MAGA promises and a Justice Department claim of an immigration‑fraud probe, no credible evidence supports the allegation Omar married her brother, yet right‑wing influencers continue to demand her deportation.",
-    "Mullin’s silence has sparked a backlash across Fox News, The Blaze, and pro‑Trump influencers, who accuse him of protecting Omar and threaten to hold him accountable for unfulfilled mass‑deportation promises."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260914194405.3.baa44d9503c2d8ba@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "BOMBSHELL: Russian Oligarch Bankrolled Don Jr.’s Wedding",
-   "date": "2026-09-14T12:44-07:00",
-   "url": null,
-   "bullets": [
-    "ProPublica reports a Russian oligarch close to Vladimir Putin secretly funded Donald Trump Jr.'s Bahamas wedding with hundreds of thousands of dollars, raising counterintelligence concerns about leverage and compromise within the Trump circle.",
-    "The oligarch is linked to Russian ultra‑nationalist groups and an organization accused of abducting Ukrainian children, tying the wedding money to broader Russian influence and the Ukraine war.",
-    "The hosts urge the FBI, Congress, and national‑security Republicans to investigate the payment and address the growing normalization of Russian influence in U.S. politics."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 92,
-  "total": 400
+  "total": 401
  }
 }
