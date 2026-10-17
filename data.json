@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T11:11-07:00",
+ "updated": "2026-10-16T18:23-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -64,6 +64,85 @@
  },
  "items": [
   {
+   "id": "20261017010800.3.907c171346ff5614@mg2.substack.com",
+   "newsletter": "Sarah Longwell—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s DOJ Lawyers Could Face a MAJOR Reckoning (w/ Andrew Weissmann)",
+   "date": "2026-10-16T18:08-07:00",
+   "url": null,
+   "bullets": [
+    "Andrew Weissmann argues that ordering Trump to stop violating campaign finance rules is insufficient, warning that DOJ lawyers who pursue politically motivated prosecutions risk disbarment if they ignore the law’s limits.",
+    "The episode covers the FBI raid on Ilhan Omar’s office, Trump’s recent overtures to Putin, and court actions aimed at curbing his taxpayer-funded campaign ads."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261017005016.3.2dde079559fda9fe.3br4myps@mg1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Live video with Mehdi Hasan now: Mo Amer and Rep. Greg Casar with Mehdi Live in Houston",
+   "date": "2026-10-16T17:50-07:00",
+   "url": null,
+   "bullets": [
+    "Mehdi Hasan hosts a live video in Houston featuring comedian Mo Amer and Representative Greg Casar, available exclusively to paid subscribers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261016230128.3.cf931f78106a8ae6@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "‘The Israel Experience with Mike Huckabee’: The Ambassador’s Family Sells Trips to Israel",
+   "date": "2026-10-16T16:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-israel-experience-with-mike-huckabee",
+   "bullets": [
+    "Mike Huckabee, now U.S. ambassador to Israel, continues to profit from his family’s travel company that sells pricey “Israel Experience” tours, despite his role denying Israel’s alleged genocide and apartheid policies.",
+    "Critics argue Huckabee prioritizes Israeli interests over American ones, even claiming “no such thing as a Palestinian,” while his diplomatic actions allegedly favor Israel at the expense of Palestinians and U.S. citizens."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261016213049.3.026927fe1a8381b7@mg-d1.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Brendan Carr, the Hackiest Hack in Hackville",
+   "date": "2026-10-16T14:30-07:00",
+   "url": null,
+   "bullets": [
+    "At a Trump rally in Alaska, FCC Chairman Brendan Carr was introduced as “the most‑feared man in government,” underscoring his new role as a political tool for the president’s attacks on the press.",
+    "Carr has been using his FCC authority to block or delay media‑related deals the administration dislikes, with commissioners like Anna Gomez warning the agency now follows White House whims rather than technical expertise.",
+    "The FCC’s recent nine‑figure broadband investment in Alaska masks a deeper shift: under Carr, the regulator is being weaponized for partisan interference, even when such actions may be illegal."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261016193546.3.6b5b426c85dac49a@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "BREAKING: Trump Fires New Press Secretary After Five Days (w/ Judd Legum)",
+   "date": "2026-10-16T12:35-07:00",
+   "url": null,
+   "bullets": [
+    "Katie Zachariah was fired as Trump’s White House press secretary after just five days amid revelations that her legal credentials were dubious and internal staff turned against her.",
+    "Journalist Judd Legum’s reporting exposed Zachariah’s questionable résumé, and former deputy press secretary Sarah Matthews explained that Trump’s own decisions and the chaotic White House environment precipitated her abrupt dismissal."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261016190119.3.56e2580c703cd29e@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "**TODAY** Stream Mehdi and Mo Amer LIVE in Houston",
+   "date": "2026-10-16T12:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/today-stream-mehdi-and-mo-amer-live",
+   "bullets": [
+    "Mehdi Hasan and Zeteo’s “We’re Not Kidding” podcast will go live tonight in Houston with Palestinian-American comedian Mo Amer, featuring political comedy and a Q&A.",
+    "Texas Rep. Greg Casar will join the stage to answer audience questions ahead of the U.S. midterms.",
+    "Paid subscribers can stream the event live; free readers are urged to upgrade for access."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261016161350.3.1ee1e3bb3442a705@mg2.substack.com",
    "newsletter": "JVL - The Bulwark",
    "pub": "thebulwark",
@@ -71,10 +150,11 @@
    "date": "2026-10-16T09:13-07:00",
    "url": null,
    "bullets": [
-    "Before we start: Katie Zacharia got turned inside out by Sean Hannity last night. This morning she bombed on . . . Fox & Friends. At this point I legitimately don’t know if she’ll make it to Election Day.",
-    "But there’s good news! Trump could just move her over to the Shield of the Americas, because one of the fake jobs at that fake organization just opened up [ https://substack.com/redirect/0dc07eb9-83cc-4a68-bfb5-13cc9a79736e?j=eyJ1IjoiMnVxMX…"
+    "On October 10 a man was killed by a tiger at Yorkshire Wildlife Park, and President Trump shared the footage, then posted a second video of tigers and lions mauling people, some clips later identified as AI‑generated.",
+    "Seven hours later Trump posted an entirely AI‑generated video showing himself confronting and hugging a tiger, raising questions about his awareness of the fabricated content.",
+    "The author warns that the newsletter’s paywalled continuation contains even more disturbing material about Trump’s handling of nuclear authority."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261016150154.3.2375c90725c88d42@mg2.substack.com",
@@ -97,10 +177,11 @@
    "date": "2026-10-16T07:45-07:00",
    "url": null,
    "bullets": [
-    "PRESIDENT TRUMP IS ALREADY laying the predicate for interfering with the polls this November, from rhetorical and regulatory attacks on voting by mail to frenetic searches by his administration for non-citizens on state voter rolls, most re…",
-    "In late May, staff from the offices of Democratic state attorneys general and secretaries of state gathered [ https://substack.com/redirect/2bcb3c4c-2f75-4281-8c06-79babe78fd44?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSC…"
+    "Democratic officials and activists have held wargames in Milwaukee (May) and Washington (August) and launched the New Battlefield Project and Vote Safe to train thousands of poll observers against potential ICE deployment at polls.",
+    "Republican election official Stephen Richer, who helped run the Milwaukee simulations, says ICE at polls is “far‑fetched” but advises legal injunctions, hotlines and observer placement as contingency plans.",
+    "Trump allies, including Steve Bannon, have floated using ICE to “surround the polls,” while DHS officials admit ICE could appear for specific threats, prompting states like Nevada to pass felony statutes against poll‑worker intimidation."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261016132557.3.fc48d26d130005ce@mg-d0.substack.com",
@@ -5379,108 +5460,10 @@
     "Smith’s cabinet leak revealed internal debates on how to expand Alberta’s cheap natural‑gas sales to data‑center builders without alienating voters who rely on the domestic supply, highlighting the broader challenge of balancing local subsidies with export ambitions."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260916012313.3.1ff77e61114857c5@mg2.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Thomas Massie Has a Nasty Surprise for Pete Hegseth",
-   "date": "2026-09-15T18:23-07:00",
-   "url": null,
-   "bullets": [
-    "Thomas Massie filed articles of impeachment against conservative commentator Pete Hegseth, accusing him of inciting violence and spreading falsehoods.",
-    "A new New York Times poll shows Democrats gaining ground in the 2024 midterms, though voters remain deeply concerned about AI’s impact on jobs and privacy.",
-    "The hosts note that Gov. Gavin Newsom appears to be stepping back from a presidential bid, and they call out a notoriously racist Republican candidate running for Texas railroad commissioner."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260916010024.3.efbfca3a7e983859@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Big AI Wants You to Believe It Could Destroy the World – So It Can Fill Its Pockets",
-   "date": "2026-09-15T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/big-ai-wants-you-to-believe-it-could",
-   "bullets": [
-    "Nate Soares argues that AI researchers warn of a real existential threat within a decade, citing self‑improving models from OpenAI and Anthropic that could surpass human control and potentially annihilate humanity.",
-    "Paris Marx counters that the “end‑of‑humanity” warnings are sensationalist, noting that current AI systems still require human oversight and that claims of imminent superintelligence lack concrete evidence.",
-    "The newsletter highlights a recent thread by former Anthropic employee Jacob Coxon claiming a race toward autonomous superintelligence, but stresses the need for caution before accepting such dramatic predictions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260916002103.3.fab99ba944ee65a6@mg2.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "EXCLUSIVE: The Next Big Dem Proposal: Let Kids Eat Free",
-   "date": "2026-09-15T17:21-07:00",
-   "url": null,
-   "bullets": [
-    "Searchlight Institute proposes a national plan to give every public school child free breakfast and lunch, costing a few billion dollars a year and expanding the current program that only serves the poorest families.",
-    "The proposal argues that universal free meals reduce stigma, lower administrative costs, and invest in children’s future, citing the pandemic‑era federal subsidy that temporarily covered all school meals.",
-    "Current federal school lunch program serves 29 million kids daily, with 21 million receiving free or discounted meals, yet many eligible families miss out due to complex enrollment and lack of awareness."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260915220612.3.685de52227487200@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Even George Conway Wasn’t Ready for Kash Patel’s Senate Hearing",
-   "date": "2026-09-15T15:06-07:00",
-   "url": null,
-   "bullets": [
-    "Trump lashes out at the Supreme Court after his appointees helped block his administration’s mail‑ballot rules, prompting George Conway and Sam Stein to debate the ruling and its midterm implications.",
-    "In a Senate hearing, Kash Patel attempts to explain a bizarre FBI controversy involving alleged mishandling of evidence, which Conway describes as one of the strangest and grossest cases ever heard.",
-    "The Bulwark is hosting a benefit live event in Dayton, Ohio on September 25, with proceeds supporting the Haitian Community Help and Support Center in Springfield."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260915200047.3.2b6a46f74184e310@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Meet the British TV Host Who Says She Was Taken Off Air Over Gaza",
-   "date": "2026-09-15T13:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/meet-the-british-tv-host-who-says",
-   "bullets": [
-    "Long‑time ITV daytime host Nadia Sawalha says she was abruptly removed from ‘Loose Women’ after publicly supporting Palestine following the Oct 7 Gaza war, with producers citing ‘noise’.",
-    "Sawalha has filed legal action against ITV, hoping the case will set a precedent against unfair treatment of individuals expressing moral convictions, and discusses related libel damages from the Daily Mail.",
-    "The inaugural ‘Sangita Meets…’ podcast interview, available to paid Zeteo subscribers, covers her Jordanian heritage, accusations of antisemitism, and the potential career impact of suing ITV."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260915192342.3.1eeaf909c767ec88@mg2.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "AI CEOs Would Very Much Like Congress to Save the World",
-   "date": "2026-09-15T12:23-07:00",
-   "url": null,
-   "bullets": [
-    "A whistleblower warned AI firms’ products pose a >10% chance of human extinction, prompting CEOs of Anthropic, OpenAI and xAI to demand congressional guardrails, which the author suggests may be a move toward regulatory capture.",
-    "Senators Alex Padilla, Chris Murphy and others express concern that AI CEOs are hiring former lawmakers and funding anti‑state regulation efforts, while noting China’s role in amplifying AI fears.",
-    "The piece highlights divergent views: Bernie Sanders trusts CEOs’ expertise, whereas critics cite Elon Musk’s deceptive history and Sam Altman’s alleged sociopathy, leaving the legislative outcome uncertain."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260915181445.3.ff0a65650d296dfb@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "The Brand New NYT Poll Is a Disaster for Republicans",
-   "date": "2026-09-15T11:14-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/the-brand-new-nyt-poll-is-a-disaster",
-   "bullets": [
-    "The New York Times/Siena poll shows Democrats leading likely voters for Congress by nearly 9 points, matching the 2018 margin that helped them gain 40 House seats.",
-    "The lead is driven by Trump’s unpopularity, economic dissatisfaction, and widespread disapproval of his handling of issues, especially the cost of living.",
-    "The poll also reveals deeper GOP challenges that contradict conventional wisdom, threatening Republican majorities beyond the generic ballot advantage."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 90,
-  "total": 399
+  "shown": 91,
+  "total": 398
  }
 }
