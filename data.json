@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:21-07:00",
+ "updated": "2026-10-17T18:14-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -64,6 +64,59 @@
  },
  "items": [
   {
+   "id": "20261017230104.3.3836b4537cb8b2f4@mg-d1.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "President Obama: “We must win New Hampshire’s Senate race”",
+   "date": "2026-10-17T16:01-07:00",
+   "url": "https://chrispappasnh.substack.com/p/a-message-from-president-obama",
+   "bullets": [
+    "President Obama urges New Hampshire voters to support Chris Pappas, citing high costs and corporate influence as reasons the Senate race matters for change in Washington.",
+    "The 2016 NH Senate race was decided by 1,017 votes, and Pappas’ campaign faces a $60 million GOP spending advantage from John Sununu’s campaign, with 17 days left to close the gap."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261017220918.3.1313b870804ea3e9@mg2.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Our Work Won’t End When the Votes Are Counted",
+   "date": "2026-10-17T15:09-07:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark urges readers to become Bulwark+ members before the 30% discount expires Sunday, Oct 18, to fund independent pro‑democracy coverage through the midterms and beyond.",
+    "Members get ad‑free access to all content plus exclusive events, including a live‑streamed chat with Pete Buttigieg this Sunday and a pre‑midterms Q&A on Nov 1."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261017190118.3.26d09a89955ae56f@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "The Trio: MAGA Influencers Are Running for Cover After Talarico Smear Collapses",
+   "date": "2026-10-17T12:01-07:00",
+   "url": null,
+   "bullets": [
+    "Sam Stein, Tim Miller, and Will Sommer detail how MAGA influencers propagated a fabricated smear against Texas Democrat James Talarico, noting the smear’s collapse and likely lack of repercussions for its architects.",
+    "Court filings allege that Gov. Kristi Noem and former Trump aide Corey Lewandowski supplied false intel to Laura Loomer to target a government employee, illustrating how political disinformation can spread without mainstream media oversight.",
+    "The trio also examines Ben Shapiro’s expanding conservative film venture, citing Hollywood actors like Rob Lowe joining his projects, and provides an update on Trump‑aligned congressional hopeful Anthony Constantino’s rap‑infused campaign."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261017175936.3.6b8ba099d7e9abee@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "As I write this…",
+   "date": "2026-10-17T10:59-07:00",
+   "url": "https://roycoopernc.substack.com/p/as-i-write-this",
+   "bullets": [
+    "Roy Cooper urges North Carolinians to donate now as voting begins, emphasizing that flipping the Senate seat—unheld by a Democrat for nearly 20 years—depends on grassroots funding.",
+    "He claims polls show his campaign surging against a Trump‑backed former GOP chair and asks for $5 contributions to boost voter outreach before November 3."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261017170120.3.baca573b76c95a09@mg-d1.substack.com",
    "newsletter": "This Week in Palestine | Zeteo",
    "pub": "zeteo",
@@ -71,10 +124,10 @@
    "date": "2026-10-17T10:01-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-two-videos",
    "bullets": [
-    "The video is haunting. Little Maryam, surrounded by fire and smoke [ https://substack.com/redirect/3e9e78be-d575-4e79-a06e-35478e4628c5?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ], crying as she watches her mother bu…",
-    "Maryam Ghanem survived, rescued [ https://substack.com/redirect/87327c45-9579-41ef-a92f-078bbd270d42?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] by Palestinian journalist Ali al-Jaafrawi. The toddler is now an orphan…"
+    "A video shows toddler Maryam Ghanem, whose parents were killed, watching her mother burn and later being rescued with severe burns, illustrating the daily genocide faced by Palestinian children in Gaza.",
+    "In the occupied West West Bank, settlers attacked Palestinian olive harvesters, injuring several, including Washington Post photojournalist Heidi Levine, highlighting ongoing settler violence against Palestinians."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261017165334.3.a03e105be03a2546@mg-d0.substack.com",
@@ -125,10 +178,10 @@
    "date": "2026-10-17T06:03-07:00",
    "url": "https://post.substack.com/p/age-is-a-social-construct-you-can",
    "bullets": [
-    "This week, we’re turning 74, rebooting a favorite show, and diving into Colleen Hoover’s writing process. “I think I may be the voice of my generation” Perhaps by now you’ve heard the news, if not felt some sort of magnetic force field open…",
-    "For and Against the  [ https://substack.com/redirect/3dba3d65-7fe0-47f3-aa76-b934d1ba9c5b?j=eyJ1IjoiNWJ2anRsIn0.dvJG6tliYeGynhwMZWxeGfDYkCv6sNTbe4jHfFG5Nf8 ]Girls [ https://substack.com/redirect/3dba3d65-7fe0-47f3-aa76-b934d1ba9c5b?j=eyJ1Ij…"
+    "Lena Dunham announced a Girls reboot, sparking a split among Substackers: Em argues reboots ruin TV and the show’s Obama‑era tone won’t resonate now, while Angela praises its authentic millennial realism and trusts Dunham to portray a matured Hannah authentically.",
+    "The Substack review of Nathan Fielder’s documentary You Can See Everything details unprecedented access to Elizabeth Holmes in her final weeks before a 10‑year prison sentence, concluding the film confirms Holmes as a liar who lacks honest self‑communication."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261017123115.3.449d55a9fe0644bd@mg-d1.substack.com",
@@ -178,10 +231,11 @@
    "date": "2026-10-16T19:01-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-91-trump",
    "bullets": [
-    "This week’s predawn raid by federal agents of the home of a sitting U.S. lawmaker who is up for reelection just weeks before voters go to the polls sadly, though perfectly, illustrates what the United States has come to represent under Dona…",
-    "In this case, the target was Rep. Ilhan Omar, but we know too well it didn’t start and won’t stop with her. Because in Donald Trump’s America, racism, xenophobia, and Islamophobia drive policy. Because in Donald Trump’s America, repression …"
+    "Federal agents raided Rep. Ilhan Omar’s Washington, DC home on Oct. 12 as part of a long‑running immigration fraud probe aimed at stripping her citizenship, violating the DOJ’s informal 60‑day rule before the election.",
+    "The Justice Department opened an antitrust investigation into major TV networks—including NBC, ABC, CBS, CNN and Fox—after a Trump adviser claimed they colluded to suppress coverage of the president.",
+    "Trump’s administration spent nearly $22 million of taxpayer money on campaign‑style ads, with about $10 million aired after a court ordered the ads stopped, and is planning a $100 million ICE domestic surveillance program deploying over 140 contractors nationwide."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261017010800.3.907c171346ff5614@mg2.substack.com",
@@ -5338,89 +5392,10 @@
     "A new Receipts With Catherine Rampell podcast launches September 18, covering these economic and political dynamics."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260917010024.3.68630494f578c165@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "‘60 Minutes’ Is Now 'Dead' and Bari'd",
-   "date": "2026-09-16T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/60-minutes-is-now-dead-and-barid",
-   "bullets": [
-    "CBS staffers say the Bari Weiss‑overhauled ‘60 Minutes’ debut drew only 7.9 million viewers (1.6 million 25‑54 demo), a 21% total and 33% demo drop from last season’s 10.03 million/2.36 million launch",
-    "They warn the ratings disaster signals broader damage to CBS (‘the Tiffany Network’) under Weiss’s changes, calling the new format a mismatched Frankenstein"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260916210044.3.c4b6005504a742ac@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Palestinian Ambassador Says UK Government Told Him Tougher Restrictions on UK Arms to Israel Are Coming",
-   "date": "2026-09-16T14:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/palestinian-ambassador-says-uk-government",
-   "bullets": [
-    "Palestinian Ambassador Husam Zomlot told Zeteo UK that British ministers, including the foreign secretary, have signaled a forthcoming tighter regime on UK arms exports to Israel following recent sanctions on West Bank settlements",
-    "He linked the shift to a change in UK political priorities after Andy Burnham succeeded Keir Starmer as prime minister, and previewed further measures beyond the announced sanctions",
-    "The interview, recorded on September 9, also covered Israel’s reaction, the UK’s role in the Board of Peace, Britain’s historic ties to Palestine, and Zomlot’s personal account of the genocide"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260916203349.3.d08e4f233ca31c06@mg-d1.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Less than 2 hours until President Trump is in North Carolina",
-   "date": "2026-09-16T13:33-07:00",
-   "url": "https://roycoopernc.substack.com/p/less-than-2-hours-until-president",
-   "bullets": [
-    "President Trump will hold a MAGA rally in North Carolina tonight alongside GOP opponent Michael Whatley, prompting Roy Cooper to request urgent donations to meet a $100,000 rapid‑response fund.",
-    "Cooper claims Trump’s campaign has contributed $5 million and the GOP has spent over $100 million to defeat him, arguing Senate control hinges on this race."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260916191443.3.652f87259f038ce4@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "BREAKING: JD Vance Privately Advised Hillary Clinton's Campaign in 2016",
-   "date": "2026-09-16T12:14-07:00",
-   "url": null,
-   "bullets": [
-    "Chris Whipple reveals that J.D. Vance privately advised Hillary Clinton’s 2016 campaign, working behind the scenes to counter Trump before later becoming his vice‑president.",
-    "The interview traces Vance’s shift from a Yale‑law‑school Trump critic to a MAGA figure, questioning whether his reversal was inevitable or sparked by specific influences.",
-    "Whipple cites Susie Wiles’ insight that Vance’s evolution was viewed differently from typical Republican turnarounds, suggesting a unique strategic calculus behind his change."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260916173609.3.40220e4617b153bb.ch3oh1dk@mg1.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Live video with The Bulwark now: September Book Club: The Odyssey (w/ Sonny Bunch)",
-   "date": "2026-09-16T10:36-07:00",
-   "url": null,
-   "bullets": [
-    "The September Book Club live video features Sonny Bunch discussing Homer’s Odyssey and its relevance to contemporary politics and culture."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260916173238.3.78eb7bca5f3f22e1@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Behind The Scenes at Zeteo UK’s Launch in London",
-   "date": "2026-09-16T10:32-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/behind-the-scenes-at-zeteo-uks-launch",
-   "bullets": [
-    "Zeteo UK’s launch event at the Barbican Center sold out, showcasing a large-scale production with extensive tech, talent, and lighting coordination.",
-    "The newsletter urges subscribers to upgrade to a Zeteo UK content bundle or gift subscriptions, positioning the event as a milestone in the brand’s global expansion."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 91,
-  "total": 395
+  "shown": 93,
+  "total": 393
  }
 }
