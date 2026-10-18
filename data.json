@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:14-07:00",
+ "updated": "2026-10-18T10:27-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -63,6 +63,88 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261018140535.3.7144fe09350b0c85@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Sneak Peek: Zeteo’s Breakthrough Investigative Documentary on AIPAC",
+   "date": "2026-10-18T07:05-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/sneak-peek-zeteos-breakthrough-investigative",
+   "bullets": [
+    "Former AIPAC chief lobbyist Douglas Bloomfield claims the group operates independently, but the documentary’s reporting traces four decades of evidence suggesting Israeli government influence.",
+    "The film ‘Night Flower: Inside AIPAC’s Fight for Influence’ premieres in Chicago on Oct. 20, with a post‑screening conversation featuring Mehdi Hasan, Rep. Delia Ramirez, and other panelists.",
+    "Paid subscribers can stream the documentary on Zeteo’s site starting Oct. 21; tickets and subscription links are provided in the email."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261018140210.3.5cfb02f571b40e02@mg2.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Before ‘Medicare for All,’ This Senator Wants ‘Medicaid for Kids’",
+   "date": "2026-10-18T07:02-07:00",
+   "url": null,
+   "bullets": [
+    "Democrats agree short‑term on restoring Medicaid cuts and ACA subsidies cut by Trump, but long‑term debate continues between Medicare‑for‑All and incremental reforms.",
+    "Sen. Andy Kim (D‑NJ) introduced a 13‑page ‘MediKids’ bill to automatically enroll every newborn in a public insurance program, with opt‑out, covering them until age 26 to stop children slipping through the coverage gap.",
+    "Kim frames MediKids as a unifying first step that shields kids from upcoming Republican enrollment restrictions and builds momentum toward broader universal‑coverage legislation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261018133039.3.cfcb3e13bde08fc4@mg2.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "When you look up John Sununu’s name in the dictionary…",
+   "date": "2026-10-18T06:30-07:00",
+   "url": "https://chrispappasnh.substack.com/p/when-you-look-up-john-sununus-name",
+   "bullets": [
+    "John Sununu, after 25 years in Washington, voted four times against lowering prescription drug prices, supported a $700 billion Wall Street bailout, and now reportedly earned up to $35 million from the same industries he once regulated.",
+    "The author contrasts Sununu with himself, claiming he takes no corporate PAC money, backs a ban on stock trading for Congress, seeks to disclose dark‑money donors, and proposes a lifetime lobbying ban for former members working for foreign governments.",
+    "With 16 days left in the Senate race, the campaign urges grassroots donations to counter what it calls a $2 billion Trump‑linked corruption problem and special‑interest backing of Sununu."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261018113134.3.8ca66bf6b44179b9@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Voters Explain Ossoff’s Appeal. And It’s Not What You Think.",
+   "date": "2026-10-18T04:31-07:00",
+   "url": null,
+   "bullets": [
+    "Ossoff’s debate attacks on Rep. Mike Collins—highlighting Collins’ support for data-center subsidies and alleged hiring of extremist staff—have boosted Ossoff’s lead to double digits in Georgia.",
+    "Despite Ossoff’s measured, Atticus Finch‑style delivery and avoidance of presidential ambitions, Georgia Trump voters who now disapprove of Trump view him favorably, according to the newsletter’s poll.",
+    "The author argues Ossoff exemplifies the Democratic strategy she’s advocated: strong, issue‑focused attacks without lofty rhetoric."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261018103101.3.bb3bf24b1053ff47@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "AI, Rising Inequality and Rising Oligarchy",
+   "date": "2026-10-18T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/ai-rising-inequality-and-rising-oligarchy",
+   "bullets": [
+    "AI‑related capital spending is crowding out investment in housing, manufacturing and other sectors, so fewer workers are needed and overall labor demand falls, risking slower or negative real wage growth.",
+    "The AI boom will accelerate the already‑declining labor share of national income, boosting wealth inequality and strengthening an emerging oligarchy of ultra‑wealthy capital owners."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261018090119.3.6df452999703a426@mg2.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Electricity Island",
+   "date": "2026-10-18T02:01-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/electricity-island",
+   "bullets": [
+    "On Feb 9 2025 EU Commission President Ursula von der Leyen celebrated the Baltic states’ full integration into the Continental European Synchronous Area, ending their reliance on cheap Russian electricity and receiving €1.23 billion in EU grants covering 75% of the project costs.",
+    "The cut‑off isolates Russia’s Kaliningrad exclave—home to ~1 million people—from mainland power, heightening its strategic vulnerability and prompting Moscow’s September warning that NATO moves could trigger nuclear retaliation."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261017230104.3.3836b4537cb8b2f4@mg-d1.substack.com",
    "newsletter": "Chris Pappas",
@@ -5272,130 +5354,10 @@
     "Democrats cite the post‑Nixon investigations into government corruption as a blueprint for new oversight measures targeting alleged Trump‑era misconduct."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260917164203.3.dfa25e9dc10308c7@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Canada Is Making America Its B*tch",
-   "date": "2026-09-17T09:42-07:00",
-   "url": null,
-   "bullets": [
-    "Canada is shifting from a close ally to a strategic competitor, positioning itself as a counterweight to U.S. influence in foreign affairs and the bond market, according to the newsletter’s analysis."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260917160728.3.f4bf17287b60cf9a@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "The president’s rally in NC just changed everything",
-   "date": "2026-09-17T09:07-07:00",
-   "url": "https://roycoopernc.substack.com/p/the-presidents-rally-in-nc-just-changed",
-   "bullets": [
-    "President’s overnight rally in North Carolina boosted GOP super‑PAC spending, pushing dark‑money attacks over $100 million and threatening to erase Roy Cooper’s slight polling edge against Michael Whatley.",
-    "The campaign now needs an additional $38,000 by 11:59 p.m. tonight to fund new TV ads and voter outreach, aiming to reverse the momentum and flip the Senate seat blue for the first time since 2008."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260917160226.3.5b448b614bf33ee3@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Hasan Piker Says America Has Killed Lots of People. Donald Trump Agrees",
-   "date": "2026-09-17T09:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/hasan-piker-america-killed-al-qaeda-axios",
-   "bullets": [
-    "Hasan Piker told Axios that, pound for pound, the U.S. has caused more deaths than al‑Qaeda, citing 432,000 civilian deaths in Iraq, Afghanistan, Syria, Yemen and Pakistan (2001‑2023) and over 300,000 in Vietnam, 150,000 in Laos and up to 1 million in Indonesia’s anti‑Communist massacres.",
-    "Piker highlighted U.S. airstrikes on a school in Minab that killed 150 people, including more than 100 children, as an example of American terror under Trump’s administration, arguing that such killings are “acts of terror.”",
-    "The Axios clip, released as a 56‑second preview, sparked backlash from right‑wing commentator Scott Jennings, liberal activist Shannon Watts, and Michigan Democratic Senate candidate Abdul El‑Sayed, who distanced himself from Piker’s remarks."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260917145452.3.d5de91ffc8d48dba@mg-d0.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Ben Shapiro’s New Anti-Muslim Movie Is Truly Bad",
-   "date": "2026-09-17T07:54-07:00",
-   "url": null,
-   "bullets": [
-    "The author condemns Ben Shapiro’s anti‑Muslim action thriller ‘Run Hide Fight: Infidels’, calling it poorly made and full of offensive stereotypes, such as a terrorist kicking a gay ally and an Asian‑American student defusing bombs solely because he’s Asian.",
-    "He highlights the film’s reliance on hateful tropes and its low‑budget, shoddy execution, arguing it does more damage to conservative credibility than any political message."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260917133401.3.12bcff282672a3a4@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Congress to Trump: MORE TARIFFS, PLEASE!",
-   "date": "2026-09-17T06:34-07:00",
-   "url": null,
-   "bullets": [
-    "The House passed a bipartisan Russia sanctions bill that, besides punishing Russian leadership and industries, gives Trump discretionary authority to impose up to 100% tariffs on top importers of Russian energy, a concession meant to win his support for Ukraine aid.",
-    "Critics note the tariff powers are a dangerous expansion of Trump’s trade war toolkit, ignoring his history of using narrow tariff authorities for broad protectionist aims, and more than a dozen GOP members tried unsuccessfully to strip the provisions before the vote.",
-    "The bill cleared the Senate 86‑0 and the House 262‑? despite concerns from Democrats like Hakeem Jeffries and some Republicans that the tariff provisions outweigh the sanctions’ benefits."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260917113749.3.ecbcc4d272401404@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "EXCLUSIVE: Biden’s Genocide Accomplices Targeted by New Accountability Campaign",
-   "date": "2026-09-17T04:37-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/exclusive-bidens-genocide-accomplices",
-   "bullets": [
-    "A coalition of human‑rights groups launched the #DropTheGenocide20 pledge, urging employers not to hire 20 top Biden‑Harris officials they say promoted, lied about, or covered up the Gaza genocide.",
-    "The campaign targets former Biden officials now in academia, think tanks and media, demanding they be barred from future Democratic administrations for their alleged role in the conflict."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260917104720.3.24a08e48cdc91d2f@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Fuels and our Money",
-   "date": "2026-09-17T03:47-07:00",
-   "url": "https://paulkrugman.substack.com/p/fuels-and-our-money",
-   "bullets": [
-    "Krugman highlights that U.S. gasoline pump prices have risen sharply over the past year, equating the increase to a higher dollars‑per‑barrel cost for 42‑gallon gallons.",
-    "He notes the global economy has shown surprising resilience despite these fuel cost spikes, but warns that there may be limits to this durability."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260917065701.3.0ef2f3c9eecab723@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Watch Me Live (Or probably not)",
-   "date": "2026-09-16T23:57-07:00",
-   "url": "https://paulkrugman.substack.com/p/watch-me-live-or-probably-not",
-   "bullets": [
-    "The European Central Bank’s 11th Annual Research Conference on 16 June 2026 will feature speeches on monetary policy, inflation dynamics, and the eurozone’s post‑pandemic recovery.",
-    "Key speakers include ECB policymakers, leading academics, and industry experts who will present new research on fiscal‑monetary coordination and climate‑related financial risks.",
-    "The event will be streamed online, but live attendance may be limited due to ongoing health restrictions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260917012427.3.09ca250c63536955@mg-d0.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Here’s Who Trump Should Blame for the Rate Hike He’s Raging About",
-   "date": "2026-09-16T18:24-07:00",
-   "url": null,
-   "bullets": [
-    "The Fed raised rates again, citing persistent inflation and geopolitical risks, and most officials now expect at least one more hike before year‑end.",
-    "Trump blames the Fed for higher rates, but the article argues his tariffs, Iran war escalation, and inflated consumer price expectations—up to 4.6% annual—have driven the inflation the Fed must combat.",
-    "A new Receipts With Catherine Rampell podcast launches September 18, covering these economic and political dynamics."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 93,
-  "total": 393
+  "total": 390
  }
 }
