@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:56-07:00",
+ "updated": "2026-10-20T11:33-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -64,6 +64,154 @@
  },
  "items": [
   {
+   "id": "20261020180453.3.a88d4dbbcc803765@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Meet the 5 Israeli Politicians Trying to Replace Netanyahu – and Who Sadly Sound a Lot Like Him",
+   "date": "2026-10-20T11:04-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/meet-the-5-israeli-politicians-trying",
+   "bullets": [
+    "The newsletter lists five Israeli politicians—Gadi Eisenkot, Yair Lapid, Benny Gantz, Naftali Bennett, and Yair Golan—who are vying to replace Netanyahu but are portrayed as offering little change, especially on Palestinian statehood and ending the occupation.",
+    "It claims these candidates are as right‑wing or more right‑wing than Netanyahu, describing them as “racist, ethnocentric, and bigoted,” and notes Netanyahu is facing ICC war‑crimes charges.",
+    "The piece urges readers to stay informed about these leaders’ true positions, implying they will continue Netanyahu’s hardline policies rather than provide a substantive alternative."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020163252.3.f1d217445179e8be@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "F*ck Joe Manchin",
+   "date": "2026-10-20T09:32-07:00",
+   "url": null,
+   "bullets": [
+    "Joe Manchin, a moderate Democrat, will travel to Maine tomorrow to campaign for Senator Susan Collins, citing attacks on Collins for her frequent support of President Donald Trump as his motivation.",
+    "The newsletter argues that Manchin’s move highlights a deeper asymmetry between Democrats and Republicans, suggesting this imbalance fuels a fascist movement in America.",
+    "It calls on readers to support Bulwark+ to counter this perceived threat."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020150315.3.a426c19020eb9d55@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "‘Zionists Are the Enemies of the Jews’: Jewish Author of Provocative New Book on Anti-Zionism",
+   "date": "2026-10-20T08:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/zionists-are-the-enemies-of-the-jews",
+   "bullets": [
+    "Benjamin Moser’s book \"ANTI‑ZIONISM: A Jewish History\" argues that Jews and Zionists are distinct, citing Jewish thinkers, poets, and rabbis who opposed Zionism and were persecuted for it.",
+    "Moser claims Zionists are the enemies of Jews, justifies denying Israel’s right to exist, and dismisses cultural and liberal Zionism as a fantasy, proposing a future state on historic Palestine.",
+    "The newsletter promotes buying the book and offers a 4‑minute preview for free subscribers, with full video available to paid subscribers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020145613.3.24757e4fc11969ea@mg2.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Darline Graham’s Seat Isn’t Safe. These Voters Explain Why.",
+   "date": "2026-10-20T07:56-07:00",
+   "url": null,
+   "bullets": [
+    "Darline Graham, sister of Lindsey Graham, faces a tough South Carolina Senate race against Dr. Annie Andrews, with Trump winning the state by 18 points in 2024 and racial polarization tightening the margin.",
+    "Despite Graham’s clean record, South Carolina Republicans fielded a weaker nominee, and recent focus groups of disaffected Trump voters reveal tribal instincts that could keep Andrews from winning but may narrow the gap."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020135833.3.e3e7e134b556d228@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Trump is coming, and time is running out",
+   "date": "2026-10-20T06:58-07:00",
+   "url": "https://roycoopernc.substack.com/p/trump-is-here-and-time-is-running",
+   "bullets": [
+    "President Trump is campaigning in North Carolina, attacking Gov. Roy Cooper with false claims and calling him a “radical left” fraud, while the GOP pours tens of millions into attack ads.",
+    "Cooper’s campaign has set a rapid‑response goal of $1 million to counter Trump’s influence and flip North Carolina from red to blue, arguing the state’s outcome is key to regaining the Senate."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020132052.3.d8c7e44024d09472@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Fasten Your Seatbelts: Trumpism Is Beginning Its Final Descent",
+   "date": "2026-10-20T06:20-07:00",
+   "url": null,
+   "bullets": [
+    "Hello from Atlanta, the third stop in The Bulwark’s Good Fight Tour and the first where your Morning Shots correspondents are along for the ride. Say a little prayer on our behalf that our hotel wifi holds up for our regular Tuesday livestr…",
+    "There are two weeks left until election day 2026. It seems like it could be a big moment, even perhaps an historic one. Or are we too swept up in the moment? It’s only a midterm election, after all. And midterms come and go, oscillating bac…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261020125927.3.95d55e9506cd94fb@mg2.substack.com",
+   "newsletter": "Citrini",
+   "pub": "citrini",
+   "subject": "Citrini Therapeutics",
+   "date": "2026-10-20T05:59-07:00",
+   "url": "https://open.substack.com/pub/citrini/p/citrini-therapeutics",
+   "bullets": [
+    "Citrini Research used Anthropic’s Claude Science model to autonomously design over 300 protein sub‑agents on 300 GPUs, sending them to a lab for synthesis and testing without further human input.",
+    "The team, largely non‑experts, invested $200,000 to test AI‑driven drug discovery, focusing on tractable in‑vitro targets like scorpion antivenom, aiming to prove AI can generate viable therapeutic candidates.",
+    "Their experiment highlighted AI’s rapid progress yet limited speed, showing both promise and current constraints in applying AI to biology, and they are hiring bio‑coverage talent to expand this work."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020110535.3.5c40d71ed8606c67@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Why Is Israel Running TV Ads in Iowa Ahead of the Midterms?",
+   "date": "2026-10-20T04:05-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-is-israel-running-tv-ads-in-iowa",
+   "bullets": [
+    "Israel’s government, not the AIPAC lobby, has bought TV spots in Iowa— a key Senate battleground—to promote its war against Iran and claim direct benefits for Americans amid rising fuel prices and inflation.",
+    "The ads argue Israel’s strikes on Iran and its proxies deter aggression and prevent a wider conflict, positioning the war as a solution to U.S. economic woes tied to the conflict.",
+    "The author links the ads to the 2026 midterms, suggesting the Israel‑Iran war could shape the race, especially for Democrats, while noting the lack of media coverage on this unusual state‑run campaign."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020103052.3.e3cf823299390b28@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Traitor in Chief",
+   "date": "2026-10-20T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-traitor-in-chief",
+   "bullets": [
+    "Trump says Russia is being “fine” on Ukraine Writing in the New York Times, David Sanger highlights the extent to which Donald Trump is going all out [ https://substack.com/redirect/4b082d8d-3864-41c0-bfe9-e444c5f166d1?j=eyJ1IjoiMnVxMXlxIn0…",
+    "President Trump’s intensifying effort in the past few weeks to rehabilitate Russia and usher President Vladimir V. Putin back into diplomatic society is remarkable for its speed, its characterization of Mr. Zelensky as the primary obstacle …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261020102234.3.674010110534aebe@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Voters Finally Care About Trump’s Corruption",
+   "date": "2026-10-20T03:22-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/voters-finally-care-about-trumps",
+   "bullets": [
+    "A recent Fox News poll shows government corruption now tops voters’ concerns, even ahead of cost‑of‑living issues, signaling a shift toward anti‑Trump sentiment as the 2024 election nears.",
+    "Trump’s personal wealth has risen by about $3 billion since the 2024 election, and his corruption is perceived as more blatant, hurting Republican candidates and boosting Democratic prospects."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020100046.3.68494fafb068a080@mg2.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Another mass shooter strikes, RSV surges, Ebola persists. Plus, what to know about waning flu vaccines.",
+   "date": "2026-10-20T03:00-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/another-mass-shooter-strikes-rsv",
+   "bullets": [
+    "I’m back from a trip to the East Coast, and the leaves are just starting to turn. There’s just something about red and gold and bright yellow that makes everything in this world feel a little better and cozier.",
+    "This beauty, sadly, does nothing to stop the fall viruses that are stirring this week, nor a devastating public health problem: mass shootings. As a mom to two elementary school students (and epidemiologist, and human), this guts me every. …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20261020010109.3.2fff209105542f92@mg2.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
@@ -99,10 +247,11 @@
    "date": "2026-10-19T17:01-07:00",
    "url": "https://chrispappasnh.substack.com/p/sununus-non-answer",
    "bullets": [
-    "At our first debate on Tuesday, the moderator asked John Sununu a simple question: What is your specific proposal for saving Social Security? Here’s what he said: He won’t say what his plan is because he knows how deeply unpopular it is. Bu…",
-    "My answer is simple. People pay into Social Security their whole working lives, and they deserve to know it’ll be there when they retire. I’ll oppose any cuts to benefits, and I won’t tell anyone they have to work longer to get what they’ve…"
+    "John Sununu avoided answering how he would save Social Security, despite his past role in privatization proposals, while Chris Pappas pledges to protect benefits and reject work‑longer mandates.",
+    "Sununu claimed he wouldn’t have voted for Pete Hegseth, RFK Jr., and Kristi Noem but refused to specify which, obscuring his stance on key Senate confirmations that could affect Pentagon leadership and policy.",
+    "Pappas warns Sununu’s Trump endorsement and $60 million in Republican ad spending threaten New Hampshire’s Senate seat, urging a $15 donation to fund a counter‑campaign before the November election."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261019220151.3.69a8f112a3cd29f3@mg2.substack.com",
@@ -5237,115 +5386,10 @@
     "The Bulwark’s Good Fight Tour will hit Columbia, Charlotte (with Pete Buttigieg) and Atlanta Oct 16‑18; tickets are on TheBulwark.com/Events."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260919170103.3.1493fc3cb55dd97f@mg-d1.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine: Gaza Building Collapse Kills 12 Kids, as Trump Plans to Send Israel 2,000-Pound Bombs",
-   "date": "2026-09-19T10:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-gaza-building",
-   "bullets": [
-    "A war‑damaged building collapsed in Gaza City, killing 12 children and 9 adults; rescue workers used bare hands amid Israel’s restrictions on heavy machinery, saving dozens of trapped residents.",
-    "Israel’s continued airstrikes in Gaza killed a 15‑year‑old boy, while settler violence in the West Bank escalated; a leading Israeli think tank warned that “Jewish terrorism” poses a strategic threat to Israel."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260919151101.3.d86a230321e849d8@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Almost six weeks until Election Day",
-   "date": "2026-09-19T08:11-07:00",
-   "url": "https://roycoopernc.substack.com/p/almost-six-weeks-until-election-day",
-   "bullets": [
-    "The North Carolina Democratic Party’s coordinated campaign knocked on 37,000 doors and made 25,000 calls last weekend, reaching over 60,000 voters in a single week.",
-    "Nearly 15,000 volunteers have been active statewide, and the campaign urges continued weekend canvassing, phone banking, and personal outreach to maintain momentum for the 45 days until Election Day."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260919140342.3.2dd51baf02f0b04c@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Noura Erakat On Why She Was Arrested for Protesting Israeli Bond Investments",
-   "date": "2026-09-19T07:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/noura-erakat-and-lydia-ghuman-arrest-palm-beach",
-   "bullets": [
-    "Lydia Ghuman of the Internationalist Law Center says Florida is a test case for Zionist influence, noting Israel is the only foreign nation receiving such large local taxpayer bond investments"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260919130331.3.7521aa1d4144c033@mg-d0.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“I liked imagining us listening to the same song at the same time. It was the only piece of connection I had left.”",
-   "date": "2026-09-19T06:03-07:00",
-   "url": "https://post.substack.com/p/i-liked-imagining-us-listening-to",
-   "bullets": [
-    "After a 2023 divorce, stepmother Chloé Caldwell kept a bond with her 13‑year‑old stepdaughter by continuously adding songs to a shared playlist, eventually reuniting at her father’s 2025 memorial where they played “Blackbird” together.",
-    "AI safety researcher Joe Benton quit Anthropic’s safety team to join independent evaluator METR, warning that AI agents could soon surpass human intelligence, with recent hacks and social‑engineering incidents suggesting industry under‑investment in safety could threaten humanity’s survival.",
-    "MrBeast (Jimmy Donaldson) has built a billion‑dollar empire, amassing over 500 million YouTube subscribers (≈6% of world population) and a record‑breaking Amazon reality show, while monetizing extreme stunts and philanthropy that often involve personal hardship for content."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260919124547.3.c958875d94cdce38@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Focus Groups Are Revealing a HUGE Weakness for Republicans",
-   "date": "2026-09-19T05:45-07:00",
-   "url": null,
-   "bullets": [
-    "Sarah Longwell’s focus groups in San Francisco show Republicans lack a clear, relatable narrative on everyday issues, making them vulnerable to voter disengagement.",
-    "She argues the GOP’s messaging fails to address middle‑class concerns, with respondents citing confusion over policy priorities and distrust of party leaders."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260919120523.3.b50739cf5e648900@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "What the Hell Was Gavin Newsom Thinking?",
-   "date": "2026-09-19T05:05-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/what-the-hell-was-gavin-newsom-thinking",
-   "bullets": [
-    "Newsom told Jake Tapper he wouldn’t run for president if Kamala Harris entered the race, sparking criticism that he’s limiting his own prospects just 50 days before the election.",
-    "Pfeiffer argues the comment is a tactical move to avoid a contentious primary with Harris, whose national popularity may rival Newsom’s, and notes the backlash on social media and among subscribers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260919113124.3.89fd880f6529d4db@mg-d0.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "MAGA’s Alternate Realities, Fractured Elbows, and a Fast-Moving War",
-   "date": "2026-09-19T04:31-07:00",
-   "url": null,
-   "bullets": [
-    "George Conway, Andrew Egger and Catherine Rampell appeared on an emergency Kennedy Center livestream discussing the rapid escalation of the Iran‑Israel war and why Washington is struggling to keep pace.",
-    "Sarah Longwell’s new bestseller, highlighted with an excerpt and a book‑tour stop in Dayton, Ohio, uses a personal “fractured elbow” metaphor to argue for a principled, bipartisan approach to politics.",
-    "The newsletter memorializes late Arizona Sen. Jon Kyl, crediting his “Kyl Style” of direct, truth‑telling debate as a model for current conservative discourse."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260919103112.3.e021094f11fe0e5c@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Economic Size and Economic Power",
-   "date": "2026-09-19T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/economic-size-and-economic-power",
-   "bullets": [
-    "Krugman argues that in weaponized interdependence, the welfare loss from cutting off imports (consumer surplus) usually exceeds the loss to exporters because import demand is less elastic than export supply.",
-    "He cites the Canada‑U.S. trade dispute over Alberta tar sands oil as a case where export‑side producer surplus is significant, warning that policymakers often underestimate such export losses."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 95,
-  "total": 389
+  "shown": 96,
+  "total": 392
  }
 }
