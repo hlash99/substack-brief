@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:01-07:00",
+ "updated": "2026-10-19T18:56-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -63,6 +63,89 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261020010109.3.2fff209105542f92@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "‘Why on Earth Would Iran Make a Nuclear Deal With Us?’ Ex-Obama Official on Trump and What’s Next",
+   "date": "2026-10-19T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-on-earth-would-iran-make-a-nuclear",
+   "bullets": [
+    "Ben Rhodes argues Trump’s “fascist looting” has crippled U.S. global authority, pushing the country toward authoritarianism and undermining its diplomatic leverage.",
+    "He contends Iran would never negotiate a nuclear deal with a U.S. led by Trump, citing the administration’s support for Israel and antagonism toward Moscow.",
+    "The discussion also covers Russia‑Ukraine dynamics, Gaza aid, and the broader implications of Trump’s alignment with Putin for U.S. foreign policy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020000348.3.3215d3b915efd35d@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Republicans Finally Have Their First “Goth Groypette” House Candidate",
+   "date": "2026-10-19T17:03-07:00",
+   "url": null,
+   "bullets": [
+    "Colorado GOP congressional nominee Kelley Dennison, 27, is being billed as America’s first “goth baddie” and has attracted praise from Dr. Drew and Michael Knowles.",
+    "Dennison’s campaign openly courts the antisemitic “groyper” movement linked to white‑nationalist podcaster Nick Fuentes, making her the first groyper‑aligned candidate to win a major‑party federal nomination.",
+    "While she hasn’t labeled herself a groyper and declined comment, her online tactics mirror the group’s rhetoric and style."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020000118.3.2fd26b301c922d82@mg2.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "ICYMI: My first debate against John Sununu",
+   "date": "2026-10-19T17:01-07:00",
+   "url": "https://chrispappasnh.substack.com/p/sununus-non-answer",
+   "bullets": [
+    "At our first debate on Tuesday, the moderator asked John Sununu a simple question: What is your specific proposal for saving Social Security? Here’s what he said: He won’t say what his plan is because he knows how deeply unpopular it is. Bu…",
+    "My answer is simple. People pay into Social Security their whole working lives, and they deserve to know it’ll be there when they retire. I’ll oppose any cuts to benefits, and I won’t tell anyone they have to work longer to get what they’ve…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261019220151.3.69a8f112a3cd29f3@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "I Believed American Healthcare Was the Best in the World. Then I Did the Math",
+   "date": "2026-10-19T15:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/i-believed-american-healthcare-was",
+   "bullets": [
+    "The author, a Yale epidemiology chair, admits his belief that U.S. healthcare is world‑best was mistaken, citing three decades of comparative research.",
+    "Studies show lower‑resource nations provide universal care with no deductibles, achieving better health outcomes while spending far less than the United States.",
+    "Achieving similar universal, cost‑effective care in the U.S. would require systemic changes to replace fee‑for‑service, deductible‑heavy models with collective funding akin to public schools and fire departments."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261019214712.3.7a22971ac4bb45c3@mg-d0.substack.com",
+   "newsletter": "Pete Buttigieg",
+   "pub": "petebuttigieg",
+   "subject": "An Enormous Act of Hope in Virginia",
+   "date": "2026-10-19T14:47-07:00",
+   "url": "https://petebuttigieg.substack.com/p/an-enormous-act-of-hope-in-virginia",
+   "bullets": [
+    "Buttigieg recounts his son’s blunt comment about mortality, using it to frame a personal call to health and legacy as he reflects on future generational judgments.",
+    "He attended a rally in Henrico County with Democratic House candidates Tom Perriello, Shannon Taylor, Elaine Luria, and Jennifer McClellan, emphasizing that their Monday‑afternoon turnout signals urgent action with 15 days left before critical Virginia races that could secure a Democratic House majority.",
+    "He urges viewers to watch the rally and consider what concrete actions they will claim in fall 2026 to improve the country."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261019210735.3.0fa49cdea4c1f0b2@mg2.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "The crook President Donald J. Trump",
+   "date": "2026-10-19T14:07-07:00",
+   "url": "https://ossoff.substack.com/p/saturdays-rally-in-atlanta",
+   "bullets": [
+    "Ossoff urges Georgia voters to defeat Republican Mike Collins and elect Democrat Keisha Lance Bottoms as governor, promising universal pre‑K, Medicaid expansion, and lower child healthcare costs.",
+    "He accuses Trump of inflating oil prices, doubling insurance premiums, and orchestrating corrupt deals selling Russian energy assets to Trump allies, citing Jared Kushner, Steve Witkoff, and foreign financiers.",
+    "Ossoff blames systemic political corruption, especially Citizens United, and calls for a constitutional amendment to end secret corporate money, positioning Georgia as a leader in that effort."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261019190115.3.96864615bfd00cdf@mg-d1.substack.com",
    "newsletter": "Catherine Rampell - The Bulwark",
@@ -5259,65 +5342,10 @@
     "He cites the Canada‑U.S. trade dispute over Alberta tar sands oil as a case where export‑side producer surplus is significant, warning that policymakers often underestimate such export losses."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260919010048.3.fd9ae621b54dcb56@mg-d0.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 87: Trump Bans CNN, MS NOW, and Politico from White House and Lashes Out at Supreme …",
-   "date": "2026-09-18T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-87-trump",
-   "bullets": [
-    "The Supreme Court rejected Trump’s attempt to restrict mail‑in voting, a rare Democratic win, but the ruling was cryptic and is expected to spark further legal battles through 2028.",
-    "Trump fired back at his own Court nominees, threatened to tear down the Kennedy Center if he can’t name it, and banned CNN, MS NOW, and Politico from the White House for negative coverage, citing First Amendment violations."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260918214411.3.71d4bbc6668620ab@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Abdul El-Sayed Hits Back Against His Critics",
-   "date": "2026-09-18T14:44-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/abdul-el-sayed-hits-back",
-   "bullets": [
-    "In a candid interview, Michigan Senate candidate Abdul El‑Sayed calls Vice President JD Vance “idiot ass boss,” labels Trump “vain” and “narcissistic,” and brands GOP rival Mike Rogers a “coward” who skipped their debate.",
-    "El‑Sayed condemns Trump’s $2.8 billion weapons package for Israel as ineffective, criticizes billionaire Robert Kraft’s pressure on Macklemore’s tour, and decries media focus on Hasan Piker and attacks on his wife’s medical practice.",
-    "Subscribers can watch the full half‑hour video interview; free users get a two‑minute preview, with an upgrade link provided to bypass the Zeteo paywall."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260918211849.3.a9208e823716fbe5@mg-d1.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "The gap is closing. Fast.",
-   "date": "2026-09-18T14:18-07:00",
-   "url": "https://roycoopernc.substack.com/p/the-gap-is-closing-fast",
-   "bullets": [
-    "A new poll shows NC Senate race between Roy Cooper and GOP’s Michael Whatley is now within the margin of error, with Whatley closing in on the lead.",
-    "Trump, Stephen Miller, and super PACs are spending over $100 million on ads against Cooper, aiming to keep Senate control for the GOP through 2029.",
-    "Cooper urges immediate grassroots donations, asking supporters to give $5 to counter the GOP’s spending advantage."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260918203041.3.d028c9d7b134ac60@mg-d0.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "We’re Living in an Insane Asylum",
-   "date": "2026-09-18T13:30-07:00",
-   "url": null,
-   "bullets": [
-    "President Biden accused the Democratic Party of plotting to assassinate him, a claim the hosts say is being ignored while diesel prices surge dramatically.",
-    "The show riffs on Trump’s wish to demolish the Kennedy Center, Joe Manchin’s posthumous‑style endorsement of Susan Collins, and a 90% odds estimate that AI won’t wipe out humanity.",
-    "Sarah’s book How to Eat an Elephant hit #2 on the NYT bestseller list, and the hosts promote a Bulwark LIVE tour in October with guests like Bakari Sellers, Pete Buttigieg, and Bill Kristol."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 92,
-  "total": 387
+  "shown": 95,
+  "total": 389
  }
 }
