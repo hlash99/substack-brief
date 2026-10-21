@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T11:33-07:00",
+ "updated": "2026-10-20T18:43-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -63,6 +63,59 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261020232214.3.123df4fa44790e31@mg2.substack.com",
+   "newsletter": "Will Saletan",
+   "pub": "thebulwark",
+   "subject": "The Case Against Susan Collins",
+   "date": "2026-10-20T16:22-07:00",
+   "url": null,
+   "bullets": [
+    "Sen. Susan Collins, a Republican from Maine, has shifted her messaging between Fox News and PBS, warning that her Democratic challenger Troy Jackson is “soft on crime” and “gone far left,” while also claiming to use her Senate Appropriations Committee chairmanship to offset Trump‑era costs for Mainers.",
+    "Collins’ strategy frames her as a moderate who can reduce the negative impacts of the Trump administration, but critics argue this approach may be undermined by growing voter anger toward Trump and the GOP’s perceived failure to confront his policies.",
+    "In recent interviews, Collins defended her continued Senate tenure by citing the power of seniority and her role on the Appropriations Committee, arguing that her experience allows her to deliver more effectively for constituents than a freshman senator would."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020220048.3.549255927c8a670d@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "This Might Be the Democrats’ Last Chance to Punish Trump and MAGA",
+   "date": "2026-10-20T15:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-might-be-the-democrats-last",
+   "bullets": [
+    "Democrats are projected to win the 2026 midterms, likely taking the House and possibly the Senate, despite a Republican‑favorable map.",
+    "The newsletter claims the Trump administration is engaged in widespread criminality, including cryptocurrency corruption and a targeted persecution of Rep. Ilhan Omar, citing links to alleged totalitarian tactics.",
+    "It warns that if Democrats fail to prosecute Trump and his allies decisively after gaining control, they risk losing future opportunities to hold the GOP accountable."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020210133.3.3ee19edb9c11da56@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Mike Johnson Gets Grilled on Fox News as GOP Disaster Looms",
+   "date": "2026-10-20T14:01-07:00",
+   "url": null,
+   "bullets": [
+    "Will Saletan argues that GOP leadership is panicking over bad polls, shrinking campaign budgets, and vulnerable races that threaten the party’s congressional control."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261020191404.3.4c59757c55091760@mg-d0.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "These Michigan ‘Democrats’ Come With Republican Financing",
+   "date": "2026-10-20T12:14-07:00",
+   "url": null,
+   "bullets": [
+    "Wait a minute, Doc. Are you telling me you built a Democratic PAC out of Republicans? The “Democrats for Mike Rogers” PAC, which recently rebranded [ https://substack.com/redirect/c5019a3c-d498-40f1-be7e-e57d9790a26c?j=eyJ1IjoiMnVxMXlxIn0.K…",
+    "The group launched to much fanfare after Abdul El-Sayed won the Democratic primary, playing up the idea that he would be undone in the general election because his candidacy would fracture the Democratic coalition. But the PAC’s latest Fede…"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20261020180453.3.a88d4dbbcc803765@mg-d1.substack.com",
    "newsletter": "Zeteo",
@@ -139,10 +192,10 @@
    "date": "2026-10-20T06:20-07:00",
    "url": null,
    "bullets": [
-    "Hello from Atlanta, the third stop in The Bulwark’s Good Fight Tour and the first where your Morning Shots correspondents are along for the ride. Say a little prayer on our behalf that our hotel wifi holds up for our regular Tuesday livestr…",
-    "There are two weeks left until election day 2026. It seems like it could be a big moment, even perhaps an historic one. Or are we too swept up in the moment? It’s only a midterm election, after all. And midterms come and go, oscillating bac…"
+    "Kristol argues the 2026 midterms could signal the end of Trump’s dominance, weakening his party and setting the stage for a potentially Democratic win in 2028 if his approval stays low.",
+    "He draws parallels to historic midterms like 1930 and 2010, suggesting this election may be a prelude to a generational shift ending Baby Boomer political dominance by 2028."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261020125927.3.95d55e9506cd94fb@mg2.substack.com",
@@ -180,10 +233,11 @@
    "date": "2026-10-20T03:30-07:00",
    "url": "https://paulkrugman.substack.com/p/the-traitor-in-chief",
    "bullets": [
-    "Trump says Russia is being “fine” on Ukraine Writing in the New York Times, David Sanger highlights the extent to which Donald Trump is going all out [ https://substack.com/redirect/4b082d8d-3864-41c0-bfe9-e444c5f166d1?j=eyJ1IjoiMnVxMXlxIn0…",
-    "President Trump’s intensifying effort in the past few weeks to rehabilitate Russia and usher President Vladimir V. Putin back into diplomatic society is remarkable for its speed, its characterization of Mr. Zelensky as the primary obstacle …"
+    "Trump claimed Russia is “fine” on Ukraine despite ongoing missile and drone attacks on Kyiv, while asserting the U.S. has given “a lot” to Ukraine but received nothing in return.",
+    "The piece notes that under Trump, U.S. aid to Ukraine was cut, intelligence sharing was intermittently blocked, and Patriot missile transfers were delayed, even as Russia supplies Iran with weapons that target U.S. forces.",
+    "Krugman argues Trump’s sudden overt pro‑Russia stance stems from his collapsing domestic support, allowing him to openly back autocrats like Putin while vilifying democratic leaders such as Zelenskyy."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261020102234.3.674010110534aebe@mg2.substack.com",
@@ -206,10 +260,11 @@
    "date": "2026-10-20T03:00-07:00",
    "url": "https://yourlocalepidemiologist.substack.com/p/another-mass-shooter-strikes-rsv",
    "bullets": [
-    "I’m back from a trip to the East Coast, and the leaves are just starting to turn. There’s just something about red and gold and bright yellow that makes everything in this world feel a little better and cozier.",
-    "This beauty, sadly, does nothing to stop the fall viruses that are stirring this week, nor a devastating public health problem: mass shootings. As a mom to two elementary school students (and epidemiologist, and human), this guts me every. …"
+    "Flu cases are rising on the West Coast while Covid-19 declines, and RSV is low but spreading nationwide, prompting a call to vaccinate and consider indoor masks.",
+    "The Bend, Oregon school shooting left three children and a teacher dead, marking the youngest school victim since 2018; the U.S. has recorded 380 mass shootings (≥4 victims) this year, and guns remain the leading cause of death for ages 1‑17, nine‑times higher than Canada’s rate.",
+    "The Bundibugyo Ebola outbreak in the DRC has exceeded 9,000 cases and 4,400 deaths with a 48% fatality rate, now reaching an eighth province and spilling into Kenya (eight cases); a trial of the Ervebo vaccine for this strain is beginning, though risk to Americans remains very low."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261020010109.3.2fff209105542f92@mg2.substack.com",
@@ -5358,38 +5413,10 @@
     "Despite the tariffs, neither a U.S. nor global recession materialized, retaliation was limited, and countries like India and the EU advanced free‑trade deals, while domestic political support stayed around 20% and was confined to Trump loyalists."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260919232039.3.e3a9509542980bb6@mg2.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Anne Applebaum: Putin Played Jared Kushner “Like a Fiddle”",
-   "date": "2026-09-19T16:20-07:00",
-   "url": null,
-   "bullets": [
-    "Applebaum argues Putin manipulated Jared Kushner, treating him as a pliable instrument in Russia’s geopolitical games.",
-    "Miller claims the Trump administration is deploying tech entrepreneurs and hedge‑funders to run a covert influence operation in Greenland while simultaneously seizing Venezuelan gold and oil and backing the Bolsonaro family in Brazil, possibly linked to Elon Musk’s grievances.",
-    "The episode also promotes Applebaum’s Atlantic cover story “Empire of Grift,” her novel recommendation “Whistler,” and announces a Bulwark benefit event in Springfield, Ohio."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260919190456.3.40c35c173e283b3d@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Alex Wagner NUKES Alito’s Defense of the Trump Election Power Grab",
-   "date": "2026-09-19T12:04-07:00",
-   "url": null,
-   "bullets": [
-    "Alex Wagner and JVL map how four conservative operatives constructed a legal infrastructure that remade the Supreme Court over decades and underpins today’s partisan politics.",
-    "They dissect Justice Samuel Alito’s dissent in the Supreme Court’s mail‑ballot decision, arguing it shields Trump’s ongoing battle over the Kennedy Center’s leadership.",
-    "The Bulwark’s Good Fight Tour will hit Columbia, Charlotte (with Pete Buttigieg) and Atlanta Oct 16‑18; tickets are on TheBulwark.com/Events."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 96,
-  "total": 392
+  "shown": 95,
+  "total": 394
  }
 }
