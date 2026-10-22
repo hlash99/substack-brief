@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:46-07:00",
+ "updated": "2026-10-21T18:38-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -64,6 +64,58 @@
  },
  "items": [
   {
+   "id": "20261022010102.3.164b6ab64f0e1d41@mg2.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Elon Musk Could Face a MOUNTAIN of Subpoenas in 2027",
+   "date": "2026-10-21T18:01-07:00",
+   "url": null,
+   "bullets": [
+    "This week’s Next Level starts out as a Secret Pod episode, before Tim and Sam crash the stage. They discuss Sarah’s interview with Pete Buttigieg, why Jon Ossoff might be history’s choice for 2028 whether he likes it or not. Plus: some hopi…",
+    "If following all of this is making you feel like you’re losing your mind, join The Bulwark. We can’t make the news less insane, but we can help you make sense of it with smart people who haven’t lost the plot."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261022000136.3.7c174135fec77287@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Amanpour’s CNN Exit Leaves Staffers Worried About Who’s Next",
+   "date": "2026-10-21T17:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/amanpours-cnn-exit-leaves-staffers",
+   "bullets": [
+    "Good evening, and welcome to this week’s ‘Ragebait.’ Justin Baragona here. In tonight’s edition, we take a look at what CNN legend Christiane Amanpour’s departure means for the David Ellison-owned network, and whether others could soon foll…",
+    "Christiane Amanpour, David Ellison, and the CNN ‘Brain Drain’ Announcing her pending exit from the network she’s called home for the past 43 years, CNN legend Christiane Amanpour made no mention of David Ellison and his recent takeover [ ht…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261021232233.3.238e62f3a2fcb9f7@mg-d0.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Your X Feed Is Not Going to Predict the Midterms",
+   "date": "2026-10-21T16:22-07:00",
+   "url": null,
+   "bullets": [
+    "WITH THE ARRIVAL OF MID-OCTOBER in even-numbered years come the telltale signs of campaign season entering the final stretch. The ads get more vicious. The rallies get more crowded. Michael Bloomberg cuts a big fat check [ https://substack.…",
+    "Admit it. Over the past week or so, you too have begun obsessively doomscrolling social media in search of new, unexplored angles on the congressional map. You’ve found yourself stuck in a vortex in which JoeTexasDataGuy’s breakdown of the …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261021190142.3.96b76240a07165ec@mg-d1.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "ICE Is Surging in California Right Ahead of the Election",
+   "date": "2026-10-21T12:01-07:00",
+   "url": null,
+   "bullets": [
+    "THE TRUMP ADMINISTRATION HAS MADE California the central target of its efforts to intimidate voters. The Department of Justice has launched efforts [ https://substack.com/redirect/b7509651-4370-48fb-9a4a-50c6bce31e9f?j=eyJ1IjoiMnVxMXlxIn0.K…",
+    "But the efforts have gone beyond just trying to scare people away from going to the polls. The administration is also starting yet another immigration crackdown in the state, which advocates there told me left them alarmed..."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20261021164539.3.2a4b088bddac0c84@mg-d0.substack.com",
    "newsletter": "Dan Pfeiffer from The Message Box",
    "pub": "messagebox",
@@ -111,10 +163,10 @@
    "date": "2026-10-21T07:57-07:00",
    "url": "https://roycoopernc.substack.com/p/trump-personally-attacked-me",
    "bullets": [
-    "Last night, President Trump held a rally in North Carolina in support of my GOP opponent, Michael Whatley. He told that crowd a lot of lies – about me, my record and the grassroots movement we’re building.",
-    "And while visiting Hendersonville this week, JD Vance embarrassed himself again when he implied “Raleigh-Durham” was the name of our capital city – you can tell he doesn’t really leave the airport the few times he’s been in NC!!"
+    "Trump held a rally in North Carolina supporting GOP opponent Michael Whatley, spreading lies about Roy Cooper’s record and grassroots movement, while a Trump‑aligned super PAC pours multimillion‑dollar lifeline into Whatley’s campaign.",
+    "Cooper’s team has raised resources to counter false attacks but still trails a $1 million rapid‑response goal; GOP has invested tens of millions to flip NC, risking Democratic Senate control."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261021143116.3.32f12411f7a1d331@mg2.substack.com",
@@ -138,10 +190,11 @@
    "date": "2026-10-21T06:18-07:00",
    "url": null,
    "bullets": [
-    "Trump and his cronies keep using slurs like they’re going out of style—which, to be fair, they are. On Monday in Kansas, Trump denounced news reports that he said portrayed Sen. Roger Marshall as “a Shylock-type guy.” And yesterday, after T…",
-    "Trump, as he ages, is losing his last fragments of self-control, and his comms staffers are rotting their brains more every day in the bigoted fever swamps of right-wing social media. The slurs will continue until morale improves. Happy Wed…"
+    "Ramesh Ramaswamy’s Ohio gubernatorial campaign released a $4 million attack ad featuring Amy Acton’s estranged mother, Donna Arthur, who accused Acton of lying about her homeless childhood, sparking condemnation from Ohio Republicans and national GOP figures.",
+    "The ad’s backstory revealed Acton’s mother was absent after a stepfather’s rape charge and the family’s removal from her custody, with court records and her brother corroborating her abuse claims, leading to a backlash that forced Ramaswamy to admit his campaign produced the ad and defend its intent.",
+    "Ramaswamy’s recent controversies also include a prior ad that featured registered sex offender Vernon Edwards, which the campaign claimed ignorance of, highlighting a pattern of questionable ad placements and damaging GOP optics."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261021112907.3.981d48b25ce576d6@mg-d1.substack.com",
@@ -151,10 +204,11 @@
    "date": "2026-10-21T04:29-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/the-ugliest-midterms-race-just-got",
    "bullets": [
-    "On this day last year, construction crews tore down the East Wing of the White House to make room for Donald Trump’s cherished ballroom. Clearly illegal, the project nonetheless continues.",
-    "Welcome to Wednesday. It’s Swin again. We are less than two weeks from Election Day. If the polls are right, Donald Trump and his neo-Confederate gargoyles and trillionaire-aligned degenerates are in for an electoral kicking. In this final …"
+    "Ohio’s 2026 governor race has turned ultra‑negative as Trump‑backed Vivek Ramaswamy’s campaign leaked a focus‑group ad featuring Acton’s estranged mother accusing her of lifelong lies, prompting GOP anxiety that the attack could backfire.",
+    "The same GOP turmoil is spilling into federal races, with Ohio potentially flipping Senate seat to Democrat Sherrod Brown and the governor’s contest becoming a bellwether of growing anti‑Trump sentiment.",
+    "Billionaire Bill Ackman is promoting a Islamophobic video, and Israeli forces detained NY Democratic candidate Brad Lander in the West Bank, underscoring the broader national and international controversies tied to the Ohio race."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261021110352.3.463f90216380a4f0@mg-d1.substack.com",
@@ -164,10 +218,11 @@
    "date": "2026-10-21T04:03-07:00",
    "url": "https://yourlocalepidemiologist.substack.com/p/forget-living-to-150-what-actually",
    "bullets": [
-    "Open any social feed, and someone is selling you more years. One person offers an IV drip, another has a $400 blood test that reveals your “real” age, and a third suggests a morning protocol involving cold plunges, a dozen supplements, and …",
-    "We’re getting wrapped up in the marketing of a trillion-dollar wellness industry. But underneath it all is a quieter, very real fear that I think most of us share: Am I doing enough? Am I aging too fast? Is everyone else getting an edge I’m…"
+    "Popular anti‑aging products like rapamycin, NAD+ boosters, metformin, GLP‑1 drugs, and intermittent fasting lack solid human evidence for extending lifespan, with mixed or no results in trials.",
+    "Low‑risk interventions with modest benefits for healthspan include creatine plus strength training, adequate protein intake for older adults, and increased dietary fiber to reduce chronic disease risk.",
+    "Doctor advises ignoring unvalidated biological‑age tests and focusing on resilience through regular exercise, proper nutrition, and proven lifestyle habits rather than costly longevity hype."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261021103047.3.6259901b9bb5a1b9@mg-d1.substack.com",
@@ -5451,64 +5506,10 @@
     "Rising diesel costs raise producer prices, feeding core inflation and forcing the Fed to consider higher interest rates, making Trump’s demand politically motivated but unrealistic."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260921013018.3.2618bf4503168415@mg-d0.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "The World Is on Fire. Here’s What You Need to Know.",
-   "date": "2026-09-20T18:30-07:00",
-   "url": null,
-   "bullets": [
-    "The Houthis intensified attacks on Saudi Arabia, striking Riyadh, while Ukraine launched a large-scale drone and missile campaign against Moscow and Russian energy sites.",
-    "The hosts critique the Trump administration’s handling of the Saudi crisis, assess U.S. involvement in Ukraine, and warn of Russia’s expanding sabotage across Europe and a harsh Ukrainian winter."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260921003414.3.b25423a721348ef0@mg2.substack.com",
-   "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
-   "pub": "macgregorwarrior",
-   "subject": "America’s Toxic Military Culture Must End",
-   "date": "2026-09-20T17:34-07:00",
-   "url": "https://macgregorwarrior.substack.com/p/americas-toxic-military-culture-must",
-   "bullets": [
-    "Macgregor argues that a toxic U.S. military culture, not just presidential decisions, drives endless wars, citing Trump’s Iran conflict as worse than LBJ’s Vietnam escalation.",
-    "He warns that even if Democrats win Congress, entrenched Zionist‑backed interests and soaring defense budgets will prevent ending the war, and replacing top officials like SecDef Hegseth won’t fix deep‑rooted Pentagon problems."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260920234918.3.cecf9c808690db84@mg-d1.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The One Legit Reason for Dem Panic",
-   "date": "2026-09-20T16:49-07:00",
-   "url": null,
-   "bullets": [
-    "Republican national committees raised about $100 million more than Democrats by July and have pledged $557 million versus Democrats’ $343 million in the nine most competitive Senate races, plus a $13 million cash edge in the House race‑down‑the‑road.",
-    "Democratic strategists say GOP’s late‑season ad spending is costly because cheap spring GRP slots are gone, with cost‑per‑GRP jumps of 500% in Anchorage and up to 138% in Michigan, limiting Democratic ad buys despite their candidates out‑raising individual Republican opponents.",
-    "The Supreme Court’s ruling lifting limits on coordinated spending lets GOP committees sit on cash and buy low‑rate TV spots in October, prompting Democrats to fear a margin‑cutting ad surge that could shrink their House majority and force intensified fundraising."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260920192541.3.e6c4c33ebbeee603@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Robert Kagan’s Chilling Warning About Trump’s Next Two Years | Bulwark on Sunday",
-   "date": "2026-09-20T12:25-07:00",
-   "url": null,
-   "bullets": [
-    "Kagan warns that Trump’s war with Iran is hastening U.S. strategic withdrawal, forcing NATO allies to defend themselves as China and Russia gain operational latitude.",
-    "He notes Trump’s lingering ambitions in Greenland and recent Xi Jinping visit to Washington as signs of a chaotic foreign policy lacking coherent direction.",
-    "Kagan cautions that the post‑World‑War‑II order could unravel far faster than Washington anticipates, threatening global stability."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 95,
+  "shown": 93,
   "total": 401
  }
 }
