@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:38-07:00",
+ "updated": "2026-10-22T11:39-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -64,6 +64,140 @@
  },
  "items": [
   {
+   "id": "20261022170536.3.867fd75be19e1b10@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "How Third-Party Candidates Could Swing the Senate",
+   "date": "2026-10-22T10:05-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/how-third-party-candidates-could",
+   "bullets": [
+    "With all of the attention on Trump’s rallies, the GOP’s money advantage, and the overall political environment, very little attention has gone to one of the most important factors in the battle for the Senate.",
+    "Over the years, third-party candidates have been devastating to Democrats and America. In 2000, George W. Bush wouldn’t have become president without Green Party candidate Ralph Nader siphoning votes from Al Gore. Then in 2016, Jill Stein, …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261022164047.3.52f8040d2205406d@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "JD Vance Is a Sociopath",
+   "date": "2026-10-22T09:40-07:00",
+   "url": null,
+   "bullets": [
+    "Vance spread a false claim that 20,000 Haitian migrants had “ravaged” Springfield, Ohio, telling CNN he didn’t care if the rumor was true and would fabricate stories to get media attention",
+    "In a September 15 CNN interview Vance doubled down, saying he would create stories to make the American media notice suffering, showing no remorse for the misinformation",
+    "In an October 17, 2026 interview Vance admitted his rhetoric on immigrants was imperfect, but offered no apology, reinforcing his pattern of scapegoating and deflecting responsibility"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261022154916.3.c2255914b0d689d5@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Brazil Must Choose a President – Lula or Bolsonaro. Think It’s a No-Brainer? Think Again",
+   "date": "2026-10-22T08:49-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/brazil-must-choose-a-president-lula",
+   "bullets": [
+    "Senator Flávio Bolsonaro, the front‑runner for Brazil’s Oct 25 runoff, has said any president must pardon his father, ex‑president Jair Bolsonaro, even if the Supreme Court deems it unconstitutional, and is willing to use force against the judiciary to do so.",
+    "Flávio, who entered politics at 21 and now leads the Bolsonaro family’s political dynasty, is positioning a potential pardon as a non‑negotiable condition for his candidacy, echoing his 2022 claim that a future president must override legal barriers.",
+    "The article warns that treating the Lula‑vs‑Bolsonaro choice as a simple binary ignores the risk that a Bolsonaro‑aligned victory could trigger a constitutional crisis by forcing an illegal pardon and undermining judicial independence."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261022150246.3.ed5e8e98b21338b2@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Progressive vs Moderate: Mehdi Debates Centrist, Contrarian Pundit Matthew Yglesias on Gaza, El-Sayed, and More",
+   "date": "2026-10-22T08:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/matt-yglesias-mehdi-debate",
+   "bullets": [
+    "Mehdi has never backed down from a good ol’ Twitter feud, especially with centrist, contrarian pundit Matthew Yglesias – the author of ‘Slow Boring’ [ https://substack.com/redirect/ff330e07-ca50-4df7-831a-898c3e8a37fc?j=eyJ1IjoiMnVxMXlxIn0.…",
+    "In this ‘Mehdi Unfiltered’ segment, the two finally take each other on, in-person, for the very first time. As per usual, Mehdi brings the receipts, with Yglesias even telling Mehdi at one point, “you’re a tough interviewer.”"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261022150005.3.9915c67c2c267b29@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "One of the most important decisions I've made during this campaign",
+   "date": "2026-10-22T08:00-07:00",
+   "url": "https://roycoopernc.substack.com/p/one-of-the-most-important-decisions",
+   "bullets": [
+    "Amy Cooper urges supporters to donate $8+ within 30 minutes to keep her governor campaign’s TV ads running, citing a $145 million outspend by Vivek Ramaswamy’s allies and a 12‑day budget gap."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261022145655.3.7ba97ec96aea2648@mg-d0.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "MAGA Media Learns to Love Vile Vivek Ramaswamy Ad",
+   "date": "2026-10-22T07:56-07:00",
+   "url": null,
+   "bullets": [
+    "Ben Shapiro and other right‑wing figures like Glenn Beck and Donald Trump defend Vivek Ramaswamy’s $4 million Ohio governor ad that attacks Democrat Amy Acton by featuring Acton’s estranged mother, who was married to a man charged with raping Acton when she was 12.",
+    "The ad’s defenders argue the controversy is just “rough‑and‑tumble” politics, dismissing liberal criticism as “pearl‑clutching” and comparing it to past political attacks such as the Kennedy family’s criticism of Robert F. Kennedy Jr. and Rep. Paul Gosar’s opponents.",
+    "Critics within conservative media, including Erick Erickson, National Review, and some far‑right voices, point out factual inaccuracies—such as Shapiro’s claim that Acton’s stepfather was not charged by a grand jury—and highlight the mother’s own credibility issues, like a 2021 case involving kittens in a hot car."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261022133657.3.cb77ba18b4f476a5@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Monsters Among Us",
+   "date": "2026-10-22T06:36-07:00",
+   "url": null,
+   "bullets": [
+    "What’s driving the coming blue wave? More than anything else, the latest New York Times/Siena poll finds [ https://substack.com/redirect/c59c4082-667e-47a5-b5c3-d8ef5072319f?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM …",
+    "There’s a remark by the early-twentieth-century Marxist thinker and Italian Communist Party leader Antonio Gramsci, who was imprisoned by Mussolini’s fascist government in 1926 until his death in 1937, that’s been much quoted in recent year…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261022111415.3.d384931352707b70@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "🍑 What’s Behind Trump’s Midterm Obsession With a Senator’s ‘Ass’?",
+   "date": "2026-10-22T04:14-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/whats-behind-trumps-midterm-obsession",
+   "bullets": [
+    "On this day in 2018, the investor and philanthropist George Soros became the first of 16 prominent progressives and media organizations to receive a pipe bomb in the mail. Trump supporter Cesar Sayoc was ultimately arrested, tried, and jail…",
+    "Happy Thursday! Swin here. This morning we’re talking “ass,” and lots of it. I don’t mean to sound crass, though. I’m merely directly quoting the president of the United States, who won’t stop talking about one Ohio politician’s sweet, manl…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261022102239.3.23f8f4ce715a64dd@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "It’s Time to Take Starlink Away from Elon Musk",
+   "date": "2026-10-22T03:22-07:00",
+   "url": "https://paulkrugman.substack.com/p/its-time-to-take-starlink-away-from",
+   "bullets": [
+    "U.S. officials, including Secretary of State Marco Rubio, say Elon Musk unilaterally cut Ukraine’s Starlink service, a move that aided Russia and jeopardized civilian lives as the war intensifies.",
+    "Krugman argues that private control of critical communications like Starlink undermines national security, citing WWII precedent where the government seized Montgomery Ward to protect the war effort.",
+    "He calls for the government to seize or regulate Starlink, asserting that no private individual should decide foreign‑policy or defense actions, especially given Musk’s alleged support for Putin and extremist groups."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261022090223.3.db1c661d75a6ae5f@mg2.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "Less than two weeks to take back the Senate",
+   "date": "2026-10-22T02:02-07:00",
+   "url": "https://chrispappasnh.substack.com/p/why-gavin-newsom-came-to-exeter",
+   "bullets": [
+    "The campaign warns that Donald Trump, Elon Musk, and allied dark‑money groups have poured over $64 million into New Hampshire Senate candidate John Sununu, aiming to buy the seat.",
+    "Pappas urges grassroots supporters to donate $15 and mobilize in the final 12‑17 days, arguing Sununu’s ties to Trump and past votes on wars, bailouts, tax cuts, and anti‑choice judges threaten New Hampshire’s interests.",
+    "He frames the race as a fight for health care, climate action, public education, and protecting Social Security and Roe v. Wade against a ‘broken presidency’ and corporate special interests."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261022010102.3.164b6ab64f0e1d41@mg2.substack.com",
    "newsletter": "Tim, Sarah and JVL - The Bulwark",
    "pub": "thebulwark",
@@ -71,10 +205,10 @@
    "date": "2026-10-21T18:01-07:00",
    "url": null,
    "bullets": [
-    "This week’s Next Level starts out as a Secret Pod episode, before Tim and Sam crash the stage. They discuss Sarah’s interview with Pete Buttigieg, why Jon Ossoff might be history’s choice for 2028 whether he likes it or not. Plus: some hopi…",
-    "If following all of this is making you feel like you’re losing your mind, join The Bulwark. We can’t make the news less insane, but we can help you make sense of it with smart people who haven’t lost the plot."
+    "Tim, Sarah and JVL predict Elon Musk could be hit with a “mountain” of subpoenas in 2027, alongside RFK Jr., Todd Blanche and Jared Kushner, as they name likely Democratic committee targets.",
+    "They argue Jon Ossoff may become the default Democratic presidential choice for 2028, discuss Sarah’s interview with Pete Buttigieg, and criticize Vivek Ramaswamy’s ad using Amy Acton’s estranged mother."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261022000136.3.7c174135fec77287@mg-d0.substack.com",
@@ -84,10 +218,11 @@
    "date": "2026-10-21T17:01-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/amanpours-cnn-exit-leaves-staffers",
    "bullets": [
-    "Good evening, and welcome to this week’s ‘Ragebait.’ Justin Baragona here. In tonight’s edition, we take a look at what CNN legend Christiane Amanpour’s departure means for the David Ellison-owned network, and whether others could soon foll…",
-    "Christiane Amanpour, David Ellison, and the CNN ‘Brain Drain’ Announcing her pending exit from the network she’s called home for the past 43 years, CNN legend Christiane Amanpour made no mention of David Ellison and his recent takeover [ ht…"
+    "Christiane Amanpour announced her departure from CNN after 43 years, citing team camaraderie and a commitment to truth, while noting she’ll continue her ‘Ex‑Files with Global’ podcast and new projects.",
+    "Her exit comes as David Ellison’s Skydance acquisition of CNN finalizes in June, prompting speculation among staff about further high‑profile departures under the new ownership.",
+    "The newsletter also teases upcoming coverage on potential CBS News discipline for Jan Crawford and reactions from editorial boards to the Ilhan Omar raid."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261021232233.3.238e62f3a2fcb9f7@mg-d0.substack.com",
@@ -97,10 +232,11 @@
    "date": "2026-10-21T16:22-07:00",
    "url": null,
    "bullets": [
-    "WITH THE ARRIVAL OF MID-OCTOBER in even-numbered years come the telltale signs of campaign season entering the final stretch. The ads get more vicious. The rallies get more crowded. Michael Bloomberg cuts a big fat check [ https://substack.…",
-    "Admit it. Over the past week or so, you too have begun obsessively doomscrolling social media in search of new, unexplored angles on the congressional map. You’ve found yourself stuck in a vortex in which JoeTexasDataGuy’s breakdown of the …"
+    "Election analysts say late‑stage campaign data like early‑vote totals and mail‑ballot request spikes are noisy and not predictive of the November midterms.",
+    "Michael Bloomberg has just contributed a large donation to Democratic efforts, intensifying ad wars as the race tightens.",
+    "The newsletter urges readers to ignore fragmented social‑media maps and focus on vetted, nonpartisan metrics rather than viral speculation."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261021190142.3.96b76240a07165ec@mg-d1.substack.com",
@@ -110,10 +246,10 @@
    "date": "2026-10-21T12:01-07:00",
    "url": null,
    "bullets": [
-    "THE TRUMP ADMINISTRATION HAS MADE California the central target of its efforts to intimidate voters. The Department of Justice has launched efforts [ https://substack.com/redirect/b7509651-4370-48fb-9a4a-50c6bce31e9f?j=eyJ1IjoiMnVxMXlxIn0.K…",
-    "But the efforts have gone beyond just trying to scare people away from going to the polls. The administration is also starting yet another immigration crackdown in the state, which advocates there told me left them alarmed..."
+    "The Trump administration is targeting California, with the DOJ launching a probe into alleged illegal voters in Los Angeles County and DHS agents visiting voters’ homes.",
+    "Simultaneously, a new immigration crackdown is being rolled out in the state, prompting alarm from local advocates over its timing before the election."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261021164539.3.2a4b088bddac0c84@mg-d0.substack.com",
@@ -123,10 +259,11 @@
    "date": "2026-10-21T09:45-07:00",
    "url": "https://open.substack.com/pub/messagebox/p/brand-new-nyt-poll-shows-the-bottom",
    "bullets": [
-    "Polls can be wrong. Even A+ rated polls can be wrong. But the brand-new New York Times/Siena poll  [ https://substack.com/redirect/973f9e58-f72d-4c87-a0b8-746cf19f9acc?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]sugge…",
-    "Trump’s approval rating is 36%, down a couple of points from September, and Democrats’ lead on the generic ballot increased two points. Their 11-point lead on the generic ballot is the largest in any election since 2008, when Barack Obama w…"
+    "The new New York Times/Siena poll puts Trump’s approval at 36%, a drop of a few points since September, and shows Democrats leading the generic ballot by 11 points, the widest margin since Obama’s 2008 win.",
+    "Nate Cohn notes that even if the poll’s Democratic lead were off by the typical 2016‑2020 error margin, Democrats would still secure a substantial victory.",
+    "Crosstab data in the poll indicates an even steeper decline for Trump’s support, suggesting a lower baseline for his base than previously assumed."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261021163053.3.5d5631bb77b9af8a@mg2.substack.com",
@@ -5411,105 +5548,10 @@
     "Refinery utilization is near 98% capacity, leaving little slack for further disruptions as 42 states already see record diesel prices and national gasoline averages rise toward this year’s peak."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260921165104.3.a0a3435ee0f2acac@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Forever War Is Sucking the Life Out of Him",
-   "date": "2026-09-21T09:51-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s Iran policy has evolved from a brief engagement to a long‑term, unending conflict, with the author arguing he has no viable exit strategy beyond continued war.",
-    "The author predicts that this perpetual war will drain U.S. resources, destabilize regional security, and ultimately lead to Trump’s political downfall."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260921150645.3.007bc4a540b564f2@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Zack Polanski Talks to Zeteo UK About Being Jewish and Anti-Zionist, Running for Starmer’s Seat, and Taking On the…",
-   "date": "2026-09-21T08:06-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/zack-polanski-talks-to-zeteo-uk-about",
-   "bullets": [
-    "Zack Polanski, Green Party leader and Jewish anti‑Zionist, condemned Israel’s actions in Gaza, invoking the Holocaust’s “never again” principle for all peoples.",
-    "He discussed his evolving stance on Israel, criticism of Andy Burnham’s leadership, potential resignation if he loses his parliamentary race, and the risk of Green votes aiding Reform UK.",
-    "Polanski also addressed his media attacks, a televised clash with Ed Balls, upcoming Israeli elections, and his strategy for AI and data‑center regulation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260921140117.3.cb1c7002e31889c2@mg2.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "JD Vance just landed in North Carolina",
-   "date": "2026-09-21T07:01-07:00",
-   "url": "https://roycoopernc.substack.com/p/jd-vance-just-landed-in-north-carolina",
-   "bullets": [
-    "GOP spending in North Carolina to defeat Roy Cooper has exceeded $100 million, with Trump’s super PAC pouring millions into Michael Whatley’s campaign.",
-    "Senate candidate JD Vance is arriving in North Carolina to campaign alongside Whatley, as a new poll shows the race now within the margin of error with six weeks left.",
-    "Cooper is launching a $200,000 rapid‑response fund to counter Vance’s attacks and asks supporters to donate immediately."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260921133308.3.2abd4aad40a4cb23@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s AI Hubris Is a Blue Opportunity",
-   "date": "2026-09-21T06:33-07:00",
-   "url": null,
-   "bullets": [
-    "A new Tavern Research poll shows 76% of Americans prioritize AI safety over rapid innovation, while only 19% approve of Trump’s pro‑speed, anti‑regulation AI stance, creating a huge Democratic advantage.",
-    "Trump’s latest AI rhetoric glorifies “Supreme Intelligence” and frames AI development as a national‑security, money‑printing race against China, despite widespread public fear of superintelligent AI threats."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260921110239.3.3875095b1e78150a@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Trump Threatens to ‘Blow Up’ Iran Again. Not Everyone Thinks He’ll TACO This Time",
-   "date": "2026-09-21T04:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-threatens-to-blow-up-iran-again",
-   "bullets": [
-    "Trump, after cutting short a Camp David visit, told Fox he is weighing “wiping Iran out” or a deal and hinted at meeting Iran’s president at the UN, prompting a State Department security alert and Iranian threats to target U.S. bases.",
-    "Legal backdrop: New York AG Letitia James sued Trump and his family for business fraud in 2022; they were ordered to pay $450 million in Feb 2024, a verdict upheld in Aug 2025 but the penalty was later thrown out, and Trump is now attempting to prosecute James on dubious charges.",
-    "The White House has also banned CNN, MSNBC and Politico, while aides appear unsettled after the departure of press secretary Karoline Leavitt and chief of staff Susie Wiles, raising concerns about Trump’s foreign‑policy moves ahead of the midterms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260921103734.3.fc09f9e205195e7d@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "NBC Poll: The Midterms Are a Referendum on Trump, and He's Losing",
-   "date": "2026-09-21T03:37-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/nbc-poll-the-midterms-are-a-referendum",
-   "bullets": [
-    "An NBC poll finds Trump’s approval at only low‑40s and a generic Democratic advantage of 5 points, indicating Republicans lack any positive Trump‑driven boost for midterms.",
-    "Voters see the midterms as a referendum on Trump, rejecting his agenda and making him a political liability rather than an asset for GOP candidates."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260921103111.3.e7cfd712b38e4b8d@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Of Donald and Diesel",
-   "date": "2026-09-21T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/of-donald-and-diesel",
-   "bullets": [
-    "Trump demanded Zelensky stop targeting Russian diesel facilities, claiming it hurts U.S. midterm prospects, despite Trump’s own aid cuts leaving Ukraine defenseless.",
-    "Krugman argues the global energy crunch is now a refined‑product bottleneck: diesel trades above $200/barrel, driven by refinery outages in the Middle East and Ukraine’s strikes on Russian plants.",
-    "Rising diesel costs raise producer prices, feeding core inflation and forcing the Fed to consider higher interest rates, making Trump’s demand politically motivated but unrealistic."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 93,
-  "total": 401
+  "shown": 96,
+  "total": 404
  }
 }
