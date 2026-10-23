@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:39-07:00",
+ "updated": "2026-10-23T11:31-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -61,6 +61,128 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261023160833.3.091ff575a94736e4@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "40 Years Ago, Netanyahu Laid the Groundwork for America’s Disastrous ‘Global War on Terror’",
+   "date": "2026-10-23T09:08-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/40-years-ago-netanyahu-laid-the-groundwork",
+   "bullets": [
+    "In 1986 Reagan read a terrorism manual edited by then‑Israeli diplomat Benjamin Netanyahu, prompting him to seek ways to fund the anti‑communist Contras despite a congressional ban, a move that fed into the later Iran‑Contra scandal.",
+    "The U.S. ignored an International Court of Justice ruling that its Contra support violated international law, and subsequently built a permanent ‘war on terror’ framework that Netanyahu helped shape, influencing later U.S. actions against Iran.",
+    "Eight months into the U.S.–Israeli war on Iran, over 1,200 Iranians and 21 U.S. service members have died, global energy prices have spiked, and the conflict is hurting Trump’s approval and threatening Republican midterm prospects."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261023143535.3.28ed2dbabf13f7a8@mg-d1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Top GOP Operative Let Out-of-State Voters Vote From His PA Home",
+   "date": "2026-10-23T07:35-07:00",
+   "url": null,
+   "bullets": [
+    "Scott Presler, a top GOP grassroots organizer, bought a home in Beaver County, PA, and used it as a voting address for himself and at least three out‑of‑state GOP operatives, including a Florida consultant and an Oklahoma social media personality, during the 2024 election.",
+    "Presler’s use of his PA residence for other voters violates Pennsylvania’s residency requirement that voters live in the state and district for 30 days before Election Day, raising legal questions about the legitimacy of those ballots.",
+    "Presler’s PAC, Early Vote Action, defended the practice as “generous” and blamed PA for failing to clean up voter rolls, while critics point to evidence that the supposed “friends” did not meet the state’s residency criteria."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261023141926.3.8c9eb37e63863e3a@mg2.substack.com",
+   "newsletter": "Brian Gitt",
+   "pub": "nuclearprosperity",
+   "subject": "No Fuel. No Power.",
+   "date": "2026-10-23T07:19-07:00",
+   "url": "https://nuclearprosperity.substack.com/p/no-fuel-no-power",
+   "bullets": [
+    "I work at an advanced nuclear tech company. I spend my days talking to developers of data centers, AI factories, and industrial sites—companies who hope that advanced nuclear plants can meet their enormous and ever-increasing energy needs. …",
+    "Nuclear fuel has an outsized impact on both answers. Thanks for reading! Subscribe for free to receive new posts and support my work. To scale nuclear power you need abundant fuel with a per-kWh cost that can compete with other energy sourc…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261023132849.3.e5bb0c9ad654cc6d@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Everything Hegseth Touches Breaks",
+   "date": "2026-10-23T06:28-07:00",
+   "url": null,
+   "bullets": [
+    "Vivek Ramaswamy’s ad using Amy Acton’s estranged mother to attack her character sparked outrage, but Trump praised it on Truth Social, urging opponents’ mothers to expose lies.",
+    "Secretary of Defense Pete Hegseth, aiming to emulate Eisenhower, ordered a 30‑inch WWII globe into his office; his staff mishandled it, dropping and damaging the artifact, prompting calls for impeachment."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261023112450.3.009082d3b65ae8c2@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "🫠 ‘It’s Moron Time, Again’: Trump Secretly Plots to Blow Up the World Economy After the Midterms",
+   "date": "2026-10-23T04:24-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/its-moron-time-again-trump-secretly",
+   "bullets": [
+    "The New York Times reports U.S. and Israeli militaries have drafted plans to strike Iran’s energy, nuclear, missile and drone sites after the 2026 midterms, with civilian infrastructure on the target list.",
+    "Senior U.S. officials warn that reviving Trump’s Iran war will deepen the global economic fallout already triggered by oil price spikes and the Strait of Hormuz closure, and likely increase casualties.",
+    "The Guardian cites Iran’s supreme security council secretary warning that a renewed U.S.-Israeli attack would provoke Iranian strikes on oil facilities, undersea cables, data centers and AI sites across up to seven Gulf nations."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261023103120.3.85b234079db708e9@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Starlink-Ukraine Scandal, Phase 2",
+   "date": "2026-10-23T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-starlink-ukraine-scandal-phase",
+   "bullets": [
+    "Elon Musk abruptly throttled Starshield bandwidth, crippling Ukraine’s defense, and both the White House and Musk blamed each other, exposing the danger of private control over critical national‑security tech.",
+    "Former President Trump reportedly called Musk to lift the speed caps, using the private firm as a shield for his own agenda, which Krugman argues shows why such decisions must be made by elected officials, not billionaires.",
+    "Krugman calls for Starlink’s operations to be nationalized or placed under direct government oversight, insisting public outrage and congressional scrutiny are essential to prevent plutocratic interference in U.S. foreign policy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261023100337.3.44d07d6a6f9ee6f3@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Our story, told in 20 minutes",
+   "date": "2026-10-23T03:03-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/our-story-told-in-20-minutes",
+   "bullets": [
+    "The author attended a STAT News biotech summit where private-sector innovators discussed health, but noted that on‑stage talks often ignore real‑world patient needs, access barriers, and community concerns.",
+    "Highlights included a pancreatic cancer trial survivor’s story, a Mennonite/Amish researcher’s practical approach to vaccine hesitancy, and candid remarks from three former FDA commissioners.",
+    "When it was the author's turn to speak, they aimed to bridge the gap between biotech hype and the lived experiences of patients and underserved communities."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261023022104.3.5c9dc36ee10a8e88@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "The Number 1 Myth about Zionism, Debunked",
+   "date": "2026-10-22T19:21-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-number-1-myth-about-zionism-debunked",
+   "bullets": [
+    "The newsletter argues that Zionism’s core goal was establishing a Jewish state in a non‑Jewish land, not rescuing Jews, and it historically favored young, affluent pioneers over families, refugees, or the infirm.",
+    "It claims Zionist leaders viewed mass Jewish rescue as an existential threat, deliberately sabotaging rescue efforts before and during the Nazi era to preserve the narrative of Zionism as the sole salvation for Jews."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261023013043.3.47a82195bb29d136@mg-d1.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Adam Kinzinger’s Military Sources Sound the Alarm",
+   "date": "2026-10-22T18:30-07:00",
+   "url": null,
+   "bullets": [
+    "Democrats on the House Oversight Committee are already divvying up how to investigate Musk, the one-time shadow president who's still making foreign policy decisions about the war in Ukraine. Also on tap for hearings is the impeachable Hegs…",
+    "Kinzinger's YouTube [ https://substack.com/redirect/55839492-7d5c-41e8-a8a1-cc6f5f837e5e?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] Kinzinger on Substack [ https://substack.com/redirect/327449f5-7b17-4c4e-bcd7-b83e6…"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20261023000130.3.a4aaecdb7b9f160c@mg2.substack.com",
    "newsletter": "Chris Pappas",
@@ -125,10 +247,11 @@
    "date": "2026-10-22T10:05-07:00",
    "url": "https://open.substack.com/pub/messagebox/p/how-third-party-candidates-could",
    "bullets": [
-    "With all of the attention on Trump’s rallies, the GOP’s money advantage, and the overall political environment, very little attention has gone to one of the most important factors in the battle for the Senate.",
-    "Over the years, third-party candidates have been devastating to Democrats and America. In 2000, George W. Bush wouldn’t have become president without Green Party candidate Ralph Nader siphoning votes from Al Gore. Then in 2016, Jill Stein, …"
+    "Third‑party candidates, historically spoilers for Democrats (e.g., Nader in 2000, Stein in 2016), could now siphon votes from Republicans and help Democrats win Senate seats this cycle.",
+    "Republican operatives even aided Kanye West’s 2020 ballot access, showing a pattern of using third‑party runs to split opposition votes.",
+    "Voters choose third‑party options mainly out of dissatisfaction with their own party’s nominee, suggesting current Republican discontent could be decisive in tight Senate races."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261022164047.3.52f8040d2205406d@mg-d1.substack.com",
@@ -5405,156 +5528,10 @@
     "The email urges donations to defeat Whatley, labeling him a “pedophile protector” and urging supporters to contribute $5."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260922183133.3.cde5db9371b4f312@mg2.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "SCOOP: Jeffries to Fundraise With Fox News’s Favorite Democrat",
-   "date": "2026-09-22T11:31-07:00",
-   "url": null,
-   "bullets": [
-    "House Minority Leader Hakeem Jeffries is hosting a $1,000‑ticket fundraiser with Fox‑News‑favored Democrat Michael LaRosa and Ballard Partners officials, raising $8,500 per host and $10,000 per PAC for the Jeffries Majority Fund next week.",
-    "LaRosa, a former Jill Biden spokesman, is known for praising Trump, criticizing Democrats on DEI and foreign policy, and lobbying for clients like TikTok, UnitedHealthcare, Comcast, Saudi Arabia, Japan, and the Libyan National Army through Ballard Partners.",
-    "The event’s high‑profile hosts—Ballard officials Ana Cruz, Tracie Pough, Joe Buscaino, and Eugene O’Flaherty—represent industries ranging from tobacco and healthcare to defense contractors and data‑center concrete, raising questions about the sources of funding Jeffries is willing to tap for a House majority."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922162709.3.4beaf4ce015631bc@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "What Dems Should Do With 54 Senate Seats",
-   "date": "2026-09-22T09:27-07:00",
-   "url": null,
-   "bullets": [
-    "The author outlines a scenario where Democrats could control 54 Senate seats by winning the Big 5 races, a swing Iowa, and possibly Kansas, with a stretch to 56 if South Carolina and Nebraska flip.",
-    "He warns that even a 56‑seat majority would be fragile, citing vulnerable freshmen in Alaska and Texas, a one‑term South Carolina senator, an independent from a red state, and John Fetterman.",
-    "To capitalize on such a slim majority, Democrats must craft a governing framework that pre‑emptively builds public support for policies, focusing on factual justification rather than political appeasement."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922142941.3.bfb0ead484971c53@mg2.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why Vivek Ramaswamy’s Star Is Falling in Ohio",
-   "date": "2026-09-22T07:29-07:00",
-   "url": null,
-   "bullets": [
-    "Trump voters nationwide have praised Vivek Ramaswamy as intelligent, debate‑savvy, and economically knowledgeable, seeing him as a potential future GOP leader.",
-    "However, focus groups of Ohio Trump supporters—where Ramaswamy is running for governor—show a stark reversal, indicating his appeal is collapsing in that key state."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922135934.3.13f9242d6e6ac9c9@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Why your groceries cost so much, and my plan to fix it",
-   "date": "2026-09-22T06:59-07:00",
-   "url": "https://roycoopernc.substack.com/p/why-your-groceries-cost-so-much-and",
-   "bullets": [
-    "Governor Cooper says tariffs are driving up farmers’ costs, forcing higher grocery prices, and he pledges to roll back these tariffs and support local agriculture with $1.3 million in federal grants for school breakfasts and $5 million for food‑insecurity programs.",
-    "He plans to curb grocery‑store power by blocking anti‑competitive mergers, strengthening antitrust enforcement, and banning algorithmic pricing that charges consumers different prices for the same goods."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922133307.3.96ac06537a1894ac@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Quadrangle of Doom",
-   "date": "2026-09-22T06:33-07:00",
-   "url": null,
-   "bullets": [
-    "Oil prices fell below $100 a barrel after Saudi Arabia resumed pipeline flow damaged by Iranian drone strikes and Iran offered to reopen the Strait of Hormuz if the U.S. lifts its blockade.",
-    "Bill Kristol argues Trump’s “Quadrangle of Doom”—an unhinged president, fanatical aides, radicalized MAGA supporters, and accommodating elites—threatens U.S. stability in the next two years."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922123339.3.7b08bb6b76f8a514@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "The Press Fights Back. Is It Too Little, Too Late?",
-   "date": "2026-09-22T05:33-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/the-press-fights-back-is-it-too-little",
-   "bullets": [
-    "Trump banned the Associated Press, CNN, MSNBC, and Politico from the White House in 2023, confiscating press passes and forcing the four major TV networks—ABC, CBS, Fox News, and NBC—to suspend pooled coverage of presidential events, leaving many signings unbroadcast on TV.",
-    "The press’s delayed response, waiting until 2026 to strike back, allowed Trump’s media strategy to shift from traditional outlets to a state‑funded “Trump TV” YouTube channel and a White House app, effectively pushing audiences into a MAGA media bubble and eroding the credibility of mainstream journalism."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922122237.3.70bb6ad0923d7d49@mg-d1.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Where are the fall vaccines? Plus Covid-19 and norovirus, and what another measles death means",
-   "date": "2026-09-22T05:22-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/where-are-the-fall-vaccines-plus",
-   "bullets": [
-    "Federal bottlenecks are delaying fall vaccines and RSV monoclonal antibodies, with CDC approval stalls and insurance coverage uncertainty leaving many high‑risk patients without timely protection.",
-    "Covid‑19 cases are still rising in the West and growing in the Midwest/Northeast, so vaccination remains advised, while norovirus is resurging and measles in Pennsylvania has caused its first U.S. death since 1992, likely undercounted with 1,300‑4,000 true cases.",
-    "Despite the PA measles surge, MMR vaccinations have doubled to over 46,000 in August 2026, and malaria vaccines are cutting cases in Africa, though funding cuts threaten continued progress."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922111125.3.0295521786da1def@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "SCOOP: Israel Is Funding AI Chatbot Propaganda",
-   "date": "2026-09-22T04:11-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/scoop-israel-is-funding-ai-chatbot",
-   "bullets": [
-    "Israel’s government spent $1 million to launch IsraelFact.com, a foreign‑agent‑registered site that publishes 119 pro‑Israel articles per month, each framed as a question to steer AI chatbot responses."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922094608.3.7e6f5bc49b5b48e7@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Will Crypto Crash the Blue Wave?",
-   "date": "2026-09-22T02:46-07:00",
-   "url": "https://paulkrugman.substack.com/p/will-crypto-crash-the-blue-wave",
-   "bullets": [
-    "Crypto industry, though not a viable business, has spent billions on 2024 election campaigns, targeting hostile candidates in primaries and general elections, and is poised to spend even more in 2026 midterms, according to Open Secrets data.",
-    "Despite only 2% of Americans using crypto for non‑speculative transactions, the sector’s political influence is outsized, with high‑profile contributions such as $1.4 billion from Trump and lobbying groups like Fairshake, and it has successfully pressured lawmakers, including Senator Chuck Schumer, to caution against regulatory reforms like the Clarity Act."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922090218.3.f8a8124cc8487195@mg2.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Escalation Clauses",
-   "date": "2026-09-22T02:02-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/escalation-clauses",
-   "bullets": [
-    "Ukraine’s recent drone strikes crippled five Russian refineries—Gazpromneft (245k bpd), Ryazan (320k bpd), Saratov (140k bpd), Syzran (150k bpd), Yaroslavl (300k bpd) and possibly Bashneft-Ufaneftekhim (190k bpd) – sharply tightening global diesel supplies.",
-    "German CDU leader Friedrich Merz suffered a historic loss, winning only 4.9% in Mecklenburg‑Vorpommern, while the far‑right AfD became the region’s largest party, highlighting rising political unrest amid soaring fuel costs.",
-    "France faces record diesel prices ($10.50/gal) and growing protests, with Marine Le Pen urging fuel‑tax cuts as Macron’s approval sinks to 16%, signaling a deepening cost‑of‑living crisis across Europe."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922015436.3.c7190794bed63499@mg-d0.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Latest Meltdown Is a Dead Giveaway: He’s Rattled (w/ Andrew Egger)",
-   "date": "2026-09-21T18:54-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s attempt to ban CNN, MSNBC and Politico from the White House press pool signals his desperation as his Middle‑East strategy, especially over Iran, runs out of options.",
-    "The episode features Andrew Egger filling in for Bill Kristol, covering Trump’s AI naming poll, the absurd idea of a military base on a triumphal arch, and the ongoing education crisis."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 95,
-  "total": 404
+  "shown": 96,
+  "total": 402
  }
 }
