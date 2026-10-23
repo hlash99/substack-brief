@@ -1,68 +1,122 @@
 {
- "updated": "2026-10-22T11:39-07:00",
+ "updated": "2026-10-22T18:39-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s post‑midterm strategy is shifting from overt policy to covert sabotage, with his allies using the White House press secretary’s botched briefing and the CFTC shutdown to signal a willingness to undermine institutions (Krugman, The Bulwark).",
-   "The GOP’s war on the 2026 midterms is being financed by a massive reallocation of super‑PAC money from safe seats to swing districts, while Democrats are scrambling to match the $60 million spending gap in New Hampshire and Georgia (The Message Box, The Bulwark).",
-   "Saudi Arabia’s failure to protect its emergency alert system amid Houthi missile strikes has exposed a critical vulnerability in the kingdom’s civil‑defense infrastructure, threatening both civilian safety and the stability of the Aramco oil hub (Zeteo).",
-   "The Trump administration’s continued use of the “Elon‑Putin‑Trump axis” rhetoric is fueling a new wave of voter‑suppression tactics that courts have largely blocked but that may intensify as the 2028 election approaches (The Bulwark, Doomberg).",
-   "China’s growing yuan‑denominated debt in Africa is reshaping global finance, with Zambia, Kenya, and Ethiopia cutting dollar exposure and saving hundreds of millions, a trend that could undermine U.S. influence in the region (JVL).",
-   "The political narrative in Iowa is pivoting toward seniority concerns, with calls for term limits and age caps on long‑tenured politicians like Senator Grassley reflecting a broader debate over the future of Republican leadership (Joe Perticone)."
+   "Trump’s 2026 midterm strategy is now a money‑war: dark‑money groups and corporate PACs have poured over $64 million into New Hampshire’s Senate race and Ohio’s governor contest, while Democrats scramble to raise emergency funds and counter attack ads (The Bulwark, Chris Pappas).",
+   "The GOP’s fear‑based messaging—tied to foreign unrest, immigration raids, and sensationalized attack ads—has backfired in several key states, turning voters wary of Trump‑aligned candidates and boosting Democratic turnout in younger demographics (The Bulwark, Dan Pfeiffer).",
+   "Elon Musk’s Starlink shutdown of Ukraine’s communications and his broader influence on critical infrastructure have sparked bipartisan calls for tighter regulation of private tech in national security (Paul Krugman).",
+   "In Brazil, Senator Flávio Bolsonaro’s demand for a presidential pardon for his father and willingness to use force against the judiciary signals a potential constitutional crisis that could reshape Latin American politics (Zeteo).",
+   "Israel’s government is buying TV spots in Iowa to promote its war against Iran, framing foreign policy as a domestic economic solution and raising concerns about foreign influence in U.S. elections (Zeteo).",
+   "The Democratic Party’s projected 2026 midterm win hinges on exposing Trump’s corruption and policy failures, with polls showing a widening gap and voters prioritizing government integrity over cost‑of‑living issues (The Message Box, The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20261013111129.3.569b1011184e63a4@mg-d1.substack.com",
-   "20261013120339.3.7b103d1472aff46e@mg2.substack.com",
-   "20261013122838.3.92c76e7f20e2b67a@mg2.substack.com",
-   "20261013130153.3.9f9dd909bd234da3@mg-d0.substack.com",
-   "20261013132541.3.08f0dc37a6c76aa2@mg-d1.substack.com",
-   "20261013143205.3.865e748d6f0744ef@mg-d0.substack.com",
-   "20261013150139.3.9df80a79e683c296@mg2.substack.com",
-   "20261013163736.3.c25aeaa8aa4cf691@mg2.substack.com",
-   "20261013170944.3.5de1818ae4c6d464@mg-d0.substack.com",
-   "20261013183240.3.645819a5748a5c0a@mg-d1.substack.com",
-   "20261013203927.3.cfb30999cd9a7d67@mg-d1.substack.com",
-   "20261013211106.3.ac8e7eb8e485dee3@mg-d0.substack.com",
-   "20261013222627.3.a9a402c69ea9d8d2@mg2.substack.com",
-   "20261014001443.3.0d610baa408cc079@mg-d1.substack.com",
-   "20261014004005.3.56b4b996bf39e3df@mg-d0.substack.com",
-   "20261014090225.3.ed6ca3b53d9b5e15@mg-d0.substack.com",
-   "20261014100344.3.2c63d61d84d196b7@mg2.substack.com",
-   "20261014103136.3.5a83ec2a156ef4e3@mg-d0.substack.com",
-   "20261014111715.3.c073cbb427b664a9@mg-d1.substack.com",
-   "20261014112101.3.2702e9e48180e37d@mg2.substack.com",
-   "20261014132556.3.19ef301e70632bd2@mg-d1.substack.com",
-   "20261014133325.3.22cbe5ee433d3b90@mg2.substack.com",
-   "20261014140209.3.f70bd55a29139558@mg-d0.substack.com",
-   "20261014143113.3.13877895bdf52195@mg2.substack.com",
-   "20261014160343.3.54d0e7290a57f234@mg-d1.substack.com",
-   "20261014163103.3.f3264bd305788ef7@mg-d0.substack.com",
-   "20261014180334.3.924bca3a3de9849d.2fok9ifv@mg1.substack.com",
-   "20261014191435.3.f11d17693b638d08@mg2.substack.com",
-   "20261014203058.3.047ca974ec020ea4@mg-d1.substack.com",
-   "20261014222901.3.67c0ad238990ec0d@mg2.substack.com",
-   "20261014230119.3.cff0cb8596e6a7b7@mg-d0.substack.com",
-   "20261014230130.3.e1f6afa8c26535b6@mg-d0.substack.com",
-   "20261015000127.3.602771205eed8471@mg-d0.substack.com",
-   "20261015103130.3.00618a0e6507f966@mg2.substack.com",
-   "20261015105236.3.ed629792e7b67bf4@mg2.substack.com",
-   "20261015110010.3.a6a1e1dd91d3c6d8@mg-d1.substack.com",
-   "20261015111921.3.3ddebdc29b67baf6@mg-d1.substack.com",
-   "20261015133025.3.42cfea7bd82f0f11@mg2.substack.com",
-   "20261015150037.3.6e34babd41e23f6f@mg-d1.substack.com",
-   "20261015163711.3.872782e98f259da6@mg-d0.substack.com",
-   "20261015190354.3.c4fc64cee62b65bd@mg2.substack.com",
-   "20261015202617.3.dd4ba5ea1877bde1@mg-d1.substack.com",
-   "20261015230112.3.2a537cca67a266b1@mg-d1.substack.com",
-   "20261016000124.3.a87f4023fe597faa@mg2.substack.com",
-   "20261016011539.3.af4a41710ca160b5@mg-d1.substack.com"
+   "20261020100046.3.68494fafb068a080@mg2.substack.com",
+   "20261020102234.3.674010110534aebe@mg2.substack.com",
+   "20261020103052.3.e3cf823299390b28@mg2.substack.com",
+   "20261020110535.3.5c40d71ed8606c67@mg-d1.substack.com",
+   "20261020125927.3.95d55e9506cd94fb@mg2.substack.com",
+   "20261020132052.3.d8c7e44024d09472@mg2.substack.com",
+   "20261020135833.3.e3e7e134b556d228@mg-d0.substack.com",
+   "20261020145613.3.24757e4fc11969ea@mg2.substack.com",
+   "20261020150315.3.a426c19020eb9d55@mg2.substack.com",
+   "20261020163252.3.f1d217445179e8be@mg-d1.substack.com",
+   "20261020180453.3.a88d4dbbcc803765@mg-d1.substack.com",
+   "20261020191404.3.4c59757c55091760@mg-d0.substack.com",
+   "20261020210133.3.3ee19edb9c11da56@mg-d1.substack.com",
+   "20261020220048.3.549255927c8a670d@mg2.substack.com",
+   "20261020232214.3.123df4fa44790e31@mg2.substack.com",
+   "20261021100141.3.0efaae6fbef84709@mg2.substack.com",
+   "20261021102434.3.e02b607a22dc6c22@mg-d1.substack.com",
+   "20261021103047.3.6259901b9bb5a1b9@mg-d1.substack.com",
+   "20261021110352.3.463f90216380a4f0@mg-d1.substack.com",
+   "20261021112907.3.981d48b25ce576d6@mg-d1.substack.com",
+   "20261021131825.3.c0275dcd7f2a425b@mg-d0.substack.com",
+   "20261021143116.3.32f12411f7a1d331@mg2.substack.com",
+   "20261021145731.3.fd4fb8475ae17fc1@mg2.substack.com",
+   "20261021151926.3.31bb9df3aee7f896@mg-d1.substack.com",
+   "20261021163053.3.5d5631bb77b9af8a@mg2.substack.com",
+   "20261021164539.3.2a4b088bddac0c84@mg-d0.substack.com",
+   "20261021190142.3.96b76240a07165ec@mg-d1.substack.com",
+   "20261021232233.3.238e62f3a2fcb9f7@mg-d0.substack.com",
+   "20261022000136.3.7c174135fec77287@mg-d0.substack.com",
+   "20261022010102.3.164b6ab64f0e1d41@mg2.substack.com",
+   "20261022090223.3.db1c661d75a6ae5f@mg2.substack.com",
+   "20261022102239.3.23f8f4ce715a64dd@mg2.substack.com",
+   "20261022111415.3.d384931352707b70@mg2.substack.com",
+   "20261022133657.3.cb77ba18b4f476a5@mg-d0.substack.com",
+   "20261022145655.3.7ba97ec96aea2648@mg-d0.substack.com",
+   "20261022150005.3.9915c67c2c267b29@mg-d1.substack.com",
+   "20261022150246.3.ed5e8e98b21338b2@mg-d1.substack.com",
+   "20261022154916.3.c2255914b0d689d5@mg-d1.substack.com",
+   "20261022164047.3.52f8040d2205406d@mg-d1.substack.com",
+   "20261022194401.3.00b7186c0e819a4d@mg-d0.substack.com",
+   "20261022220111.3.7167760a513d480c@mg-d1.substack.com",
+   "20261022234853.3.a3008b0f77a8af46@mg-d1.substack.com",
+   "20261023000130.3.a4aaecdb7b9f160c@mg2.substack.com"
   ],
-  "updated": "2026-10-15T18:31-07:00",
+  "updated": "2026-10-22T18:39-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261023000130.3.a4aaecdb7b9f160c@mg2.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "Something spooky is on the ballot (John Sununu)",
+   "date": "2026-10-22T17:01-07:00",
+   "url": "https://chrispappasnh.substack.com/p/something-spooky-is-on-the-ballot",
+   "bullets": [
+    "Donald Trump hand‑picked John Sununu for the New Hampshire Senate race, and Republicans and allies are pouring over $60 million—including funds from the No Going Back PAC, the Koch network, and Elon Musk—into his campaign.",
+    "Sununu’s record includes votes favoring Wall Street, Big Pharma, and Big Oil, after which his net worth reportedly rose by up to $35 million, prompting critics to label him a corporate sell‑out.",
+    "With 12 days left, Democrats warn that losing this seat would keep the Senate out of reach, while progressive groups are urging small donations to counter the dark‑money influx and keep New Hampshire blue."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261022234853.3.a3008b0f77a8af46@mg-d1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Is Already Building His Excuse for Losing the Midterms",
+   "date": "2026-10-22T16:48-07:00",
+   "url": null,
+   "bullets": [
+    "Federal agents raided 72‑year‑old Omar Muñoz’s home in Commerce, California, handcuffing him and filming the raid as part of Trump’s “Operation Protect the Vote,” accusing him of voter fraud despite his denial.",
+    "HSI, an immigration‑enforcement unit, was used to conduct pre‑dawn raids on 28 green‑card holders in California’s 23‑million‑voter population and has reportedly been deployed nationwide to question residents about immigration status and voting history.",
+    "The article argues that these door‑step raids represent a new form of election interference, urging readers to stay informed and support efforts to counter such law‑enforcement overreach."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261022220111.3.7167760a513d480c@mg-d1.substack.com",
+   "newsletter": "Catherine Cortez Masto",
+   "pub": "cortezmasto",
+   "subject": "I’m proud to support Nevada Dems",
+   "date": "2026-10-22T15:01-07:00",
+   "url": "https://cortezmasto.substack.com/p/im-proud-to-support-nevada-dems",
+   "bullets": [
+    "Elizabeth Warren praised the 21st Century ROAD to Housing Act, the first major housing bill in over 30 years, saying it lowers costs, expands homeownership and curbs private‑equity hoarding, but urges Democratic victories this fall to fund and implement it fully",
+    "She joined Nevada Attorney General Aaron Ford at a reproductive‑rights rally, warning that Republican abortion bans are “cruel and deadly” and urging voters to elect Democrats and approve a state constitutional amendment protecting choice",
+    "Warren closed by urging supporters to donate to her, Nevada Democrats and Sen. Catherine Cortez Masto to help defeat Trump‑aligned agendas and advance affordable housing, healthcare and corporate accountability"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261022194401.3.00b7186c0e819a4d@mg-d0.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "To Motivate Base, GOP Cites Ancient Fear: France",
+   "date": "2026-10-22T12:44-07:00",
+   "url": null,
+   "bullets": [
+    "Republicans are leveraging recent riots in France as visual propaganda to energize their demoralized base ahead of the 2024 House and Senate races.",
+    "The party is attempting to tie the French unrest to Democratic candidates, framing the violence as evidence of a broader left‑wing threat.",
+    "These tactics aim to replace policy‑focused messaging with fear‑based imagery to boost voter turnout among GOP supporters."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261022170536.3.867fd75be19e1b10@mg-d0.substack.com",
    "newsletter": "Dan Pfeiffer from The Message Box",
@@ -112,10 +166,11 @@
    "date": "2026-10-22T08:02-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/matt-yglesias-mehdi-debate",
    "bullets": [
-    "Mehdi has never backed down from a good ol’ Twitter feud, especially with centrist, contrarian pundit Matthew Yglesias – the author of ‘Slow Boring’ [ https://substack.com/redirect/ff330e07-ca50-4df7-831a-898c3e8a37fc?j=eyJ1IjoiMnVxMXlxIn0.…",
-    "In this ‘Mehdi Unfiltered’ segment, the two finally take each other on, in-person, for the very first time. As per usual, Mehdi brings the receipts, with Yglesias even telling Mehdi at one point, “you’re a tough interviewer.”"
+    "Yglesia defends pro‑Israel Democrat Haley Stevens, arguing primary‑winning skill doesn’t predict general‑election success, despite her $50 million outside spending loss to Mike Rogers.",
+    "He concedes Democrats should prioritize winning before condemning the Biden administration’s policy of sending non‑criminal migrants to El Salvador’s detention facilities, saying “you got to win first.”",
+    "When pressed on Gaza, Yglesia claims no genocide occurred and calls Israel’s war “just,” then ambiguously questions whether he ever labeled Sudan a genocide."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261022150005.3.9915c67c2c267b29@mg-d1.substack.com",
@@ -151,10 +206,11 @@
    "date": "2026-10-22T06:36-07:00",
    "url": null,
    "bullets": [
-    "What’s driving the coming blue wave? More than anything else, the latest New York Times/Siena poll finds [ https://substack.com/redirect/c59c4082-667e-47a5-b5c3-d8ef5072319f?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM …",
-    "There’s a remark by the early-twentieth-century Marxist thinker and Italian Communist Party leader Antonio Gramsci, who was imprisoned by Mussolini’s fascist government in 1926 until his death in 1937, that’s been much quoted in recent year…"
+    "A new NYT/Siena poll shows the biggest Democratic gain among voters 18‑29, who jumped 15 points to 70% support, while older voters shift only modestly.",
+    "William Kristol argues that Trumpism is collapsing into “morbid phenomena,” citing Ramaswamy’s $4 million smear ad against Ohio Gov. candidate Amy Acton and JD Vance’s praise of that attack as evidence of a decaying movement.",
+    "Andrew Egger highlights Trump’s contradictory claims about securing the release of detained American Stephen Hubbard, suggesting the president traded sanctions relief for the prisoner’s freedom and underscoring the risks of rewarding authoritarian regimes."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261022111415.3.d384931352707b70@mg2.substack.com",
@@ -164,10 +220,11 @@
    "date": "2026-10-22T04:14-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/whats-behind-trumps-midterm-obsession",
    "bullets": [
-    "On this day in 2018, the investor and philanthropist George Soros became the first of 16 prominent progressives and media organizations to receive a pipe bomb in the mail. Trump supporter Cesar Sayoc was ultimately arrested, tried, and jail…",
-    "Happy Thursday! Swin here. This morning we’re talking “ass,” and lots of it. I don’t mean to sound crass, though. I’m merely directly quoting the president of the United States, who won’t stop talking about one Ohio politician’s sweet, manl…"
+    "Trump has fixated on Ohio Senator Jon Husted’s physique, repeatedly praising his “muscle‑bound ass” at rallies in Ohio, Kentucky and North Carolina to gauge audience reaction during the 2026 midterms",
+    "Sources say the president uses the odd compliment to energize his base, noting it draws loud applause and laughs, even though the comment has no policy relevance",
+    "A new MAGA Inc. ad highlights that voters dislike Stephen Miller, while the newsletter also flags concerning developments in the Iran‑Israel conflict"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261022102239.3.23f8f4ce715a64dd@mg2.substack.com",
@@ -5494,64 +5551,10 @@
     "The episode features Andrew Egger filling in for Bill Kristol, covering Trump’s AI naming poll, the absurd idea of a military base on a triumphal arch, and the ongoing education crisis."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260921235026.3.ea6ff144c50b1bcf@mg-d1.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "SCOOP: Looksmaxxer Clavicular Charged With Criminal Rape, Drugging",
-   "date": "2026-09-21T16:50-07:00",
-   "url": null,
-   "bullets": [
-    "Right‑wing livestreamer Braden Peters, known as “Clavicular,” has been charged with criminal rape and drugging according to newly released court documents.",
-    "His prior business ties to an Israeli mafia associate have been severed, his alleged overdose occurred five months ago, and his relationship with a powerful publicist has been revived.",
-    "Despite the charges, Clavicular’s brand of “looksmaxxing” entered the mainstream (now in Merriam‑Webster) and he recently appeared on Howie Mandel’s podcast, Barstool Sports, Red Scare and the All In show hosted by David Sacks."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260921231540.3.9c95898ef41196a8@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Trump’s Biggest Con of All",
-   "date": "2026-09-21T16:15-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trumps-biggest-con-of-all",
-   "bullets": [
-    "ProPublica revealed a Russian oligarch funded Donald Trump Jr.'s wedding, which Bettina Trump downplayed as a generous gift without agenda, echoing the family’s typical Russia denial.",
-    "The author argues this undisclosed Russia‑Trump link is the most damaging of Trump’s cons, enabling wealth, party corruption, and bolstering Putin’s authoritarian regime while harming the U.S. and the free world."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260921213239.3.9a456449b2c60d4e@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "We can’t let Vance’s attacks go unanswered",
-   "date": "2026-09-21T14:32-07:00",
-   "url": "https://roycoopernc.substack.com/p/we-cant-let-vances-attacks-go-unanswered",
-   "bullets": [
-    "Roy Cooper says recent small-dollar donations haven’t met his $200,000 rapid‑response target after Vice President Vance’s rally attacking him and his opponent Michael Whatley.",
-    "He warns a new poll shows the North Carolina Senate race virtually tied and that over $100 million from GOP super‑PACs and Trump‑aligned attacks are pressuring his campaign.",
-    "Cooper extends the fundraising deadline to 11:59 p.m., urging supporters to chip in to fund air‑wave ads and flip the seat, citing Senate control at stake."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260921203133.3.800148886c10184e@mg-d0.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Trump’s Gas Price Problem Is About to Get Much, Much Worse (w/ GasBuddy’s Patrick De Haan)",
-   "date": "2026-09-21T13:31-07:00",
-   "url": null,
-   "bullets": [
-    "Escalating Middle East conflict, attacks on Russian refineries, and tight diesel inventories—15% below the five‑year average—are driving oil and diesel prices toward $7‑$8 per gallon this winter.",
-    "Refinery utilization is near 98% capacity, leaving little slack for further disruptions as 42 states already see record diesel prices and national gasoline averages rise toward this year’s peak."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 96,
+  "shown": 95,
   "total": 404
  }
 }
