@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T11:31-07:00",
+ "updated": "2026-10-23T18:43-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -62,6 +62,87 @@
  },
  "items": [
   {
+   "id": "20261024010045.3.ffe55d824a5ba32f@mg-d1.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 92: Trump Asks Court to Block Election Result if Democratic Candidate Wins",
+   "date": "2026-10-23T18:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-92-trump",
+   "bullets": [
+    "We’re just 11 days from the midterm elections, and Donald Trump and his allies are ramping up efforts to steal them. This week, we learned the Trump administration asked a federal agency to hack voting machines, the president lost it – agai…",
+    "Needless to say, Trump and his allies were extremely busy harming American democracy, undermining the Constitution, and hurting societies worldwide. Here’s more from ‘This Week in Democracy – Week 92’:"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261024000050.3.0726a870094a938d@mg2.substack.com",
+   "newsletter": "Vann Bentley (Chris’s husband)",
+   "pub": "chrispappasnh",
+   "subject": "A personal note from me",
+   "date": "2026-10-23T17:00-07:00",
+   "url": "https://chrispappasnh.substack.com/p/chris-wont-say-this-so-i-will",
+   "bullets": [
+    "Chris Sununu’s New Hampshire Senate race could flip control of the U.S. Senate, with Democrats needing a win to gain a majority while Republicans have spent over $60 million to defend it.",
+    "If elected, Sununu would become the first openly gay man in the U.S. Senate, breaking a 25‑year gap since Tammy Baldwin’s 2012 win and following Barney Frank’s 1987 disclosure."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261023224606.3.6266022661e14d9c@mg-d0.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Worst Person in the World",
+   "date": "2026-10-23T15:46-07:00",
+   "url": null,
+   "bullets": [
+    "Elon Musk contributed an additional $76 million to the upcoming election, intensifying his political influence.",
+    "The hosts allege that a Vivek Ramaswamy campaign ad featured a woman linked to a pedophile‑rapist, and Ohio Trump voters reacted negatively to it.",
+    "They also criticize fake pollsters and claim Trump‑aligned grifters are being released by the Republican establishment."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261023221932.3.1e4a3ad0ceb528fc@mg2.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "I need your help",
+   "date": "2026-10-23T15:19-07:00",
+   "url": "https://ossoff.substack.com/p/i-need-your-help",
+   "bullets": [
+    "Jon Ossoff urges supporters to donate immediately to fund a statewide voter outreach operation for his 2026 Senate reelection, citing the need to counter tens of millions spent by Republicans.",
+    "He claims the 2020‑21 outreach effort was the largest in Georgia, helped elect him and Rev. Warnock, and secured the Senate majority, and says a similar push is essential for a decisive win on Nov. 3."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261023215341.3.5baf2b5bbc2f268e@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "‘Best Shot Of My Entire Life’ Of Flipping Texas Blue, Says Rep. Greg Casar",
+   "date": "2026-10-23T14:53-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/best-shot-of-my-entire-life-of-flipping",
+   "bullets": [
+    "Rep. Greg Casar called the 2026 Texas elections “the best shot of my entire life” to flip the state blue, warning that massive turnout must overcome historic spending by GOP donor Elon Musk",
+    "He linked big‑money politics and U.S. support for Israel to humanitarian harms, urging removal of large donors and tarnishing AIPAC to save lives in Gaza",
+    "Casar condemned ICE as a rogue force with a budget larger than the Marine Corps and highlighted his bipartisan bill with Sen. Bernie Sanders to ban superintelligent AI"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261023193147.3.078724223281dfbd@mg2.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Must-Watch Awards-Season Films",
+   "date": "2026-10-23T12:31-07:00",
+   "url": null,
+   "bullets": [
+    "Fjord, the Cannes Palme d’Or winner, expands to more screens and is a strong foreign‑feature Oscar contender, while the surprise documentary You Can See Everything opened with $15 million on 855 screens and could snag a Best Picture nod.",
+    "Sony plans to drop its flagship 4K UHD player, signaling a near‑complete exit from the home‑video market and raising concerns for collectors about long‑term access to physical movies.",
+    "Netflix fired chief content officer Bela Bajaria and film head Dan Lin, installing former Disney/21st Century Fox exec Peter Rice to run programming as the streamer, which despite $3.66 billion quarterly profit, struggles with content quality and awards relevance."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261023160833.3.091ff575a94736e4@mg-d1.substack.com",
    "newsletter": "Zeteo",
    "pub": "zeteo",
@@ -97,10 +178,11 @@
    "date": "2026-10-23T07:19-07:00",
    "url": "https://nuclearprosperity.substack.com/p/no-fuel-no-power",
    "bullets": [
-    "I work at an advanced nuclear tech company. I spend my days talking to developers of data centers, AI factories, and industrial sites—companies who hope that advanced nuclear plants can meet their enormous and ever-increasing energy needs. …",
-    "Nuclear fuel has an outsized impact on both answers. Thanks for reading! Subscribe for free to receive new posts and support my work. To scale nuclear power you need abundant fuel with a per-kWh cost that can compete with other energy sourc…"
+    "Advanced nuclear fuel must be diversified across fresh uranium, government‑stockpiled material, and recycled waste because each source balances cost, availability, and scalability, with fresh fuel cheapest now but expensive, government material low‑cost but limited and uncertain, and recycling offering up to 80% cost cuts but requiring long‑term infrastructure.",
+    "Supply chain constraints mean fresh fuel deliveries (e.g., Centrus HALEU for Oklo and X‑energy) won’t start until 2029, so near‑term (3‑4 yr) projects rely on fresh fuel, mid‑term (5‑7 yr) on government material, and long‑term (8+ yr) on recycled fuel to achieve competitive per‑kWh costs versus gas.",
+    "Traditional light‑water reactors remain part of the mix, but advancing reactors need higher enrichment (5‑20% HALEU, TRISO) to improve energy density and reduce waste, making a mixed fuel strategy essential for scaling nuclear power quickly."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261023132849.3.e5bb0c9ad654cc6d@mg-d1.substack.com",
@@ -5459,79 +5541,10 @@
     "While Medicare for All could improve access and reduce wait times, it alone cannot solve primary‑care shortages, medical‑school debt, or broader social determinants of health that drive overall health outcomes."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260922234729.3.1712418ffcb8bd57@mg2.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Obama’s Top Economist Has a Warning for the Country",
-   "date": "2026-09-22T16:47-07:00",
-   "url": null,
-   "bullets": [
-    "Former Obama adviser Jason Furman warns that Biden‑era inflation may be underestimated, but notes the economy and stock market have stayed surprisingly resilient under Trump policies.",
-    "Furman says the Fed appears more independent after last week’s rate hike and suggests that former Fed Chair Kevin Warsh’s actions may have helped Trump view the Fed as an obstacle to cuts.",
-    "The episode also offers Furman’s advice to Trump’s economic team, critiques Kevin Hassett’s media performance, and discusses Trump’s control of NIH grants and lessons from ‘Bidenomics.’"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922230101.3.93240f0b72370f0f@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "AGI, ASI, RSI? 9 Words and Acronyms You Need to Know to Understand the ‘AI Apocalypse’",
-   "date": "2026-09-22T16:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/agi-asi-rsi-superintelligence-meaning-artificial-intelligence-explainer",
-   "bullets": [
-    "The newsletter outlines nine key AI terms, emphasizing that while current models like ChatGPT are narrow, true Artificial General Intelligence (AGI) would match or exceed human abilities across domains, with OpenAI’s Sam Altman predicting AGI by year‑end and Anthropic’s Dario Amodei calling the label a marketing gimmick but admitting near‑human‑level performance is imminent.",
-    "It warns that AI risks are real—citing recent warnings from researchers and executives about potential existential threats within a decade—yet notes the hype may also be driven by profit motives, and stresses that regulation or slowdown won’t halt the technology’s transformative impact."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922221554.3.043525711c2a319a@mg2.substack.com",
-   "newsletter": "Sam Stein—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "FREEDOM OF THE DAMN PRESS",
-   "date": "2026-09-22T15:15-07:00",
-   "url": null,
-   "bullets": [
-    "Donald Trump expelled Politico, CNN, and MSNBC from the White House this week solely because he dislikes their coverage, raising alarms about press freedom.",
-    "Sam Stein argues that protecting independent journalism is crucial for oversight of the Trump administration and urges readers to become Bulwark+ members.",
-    "He emphasizes that The Bulwark is not beholden to billionaires or the administration and will continue reporting without fear of retaliation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922191507.3.2a03625a756f7596@mg-d0.substack.com",
-   "newsletter": "Citrini",
-   "pub": "citrini",
-   "subject": "Agentic Reality",
-   "date": "2026-09-22T12:15-07:00",
-   "url": "https://open.substack.com/pub/citrini/p/agentic-reality",
-   "bullets": [
-    "Meta’s consumer AI agent Muse hit #1 in the App Store with 700,000 downloads day one, offering a free tier of 100 million tokens weekly, signaling mass‑market product‑market fit for consumer agents.",
-    "The newsletter argues that AI agents are already eroding traditional intermediaries—travel booking, insurance renewals, real‑estate commissions—by automating price‑matching and continuous optimization, cutting fees by up to 70%.",
-    "It warns that businesses built on friction‑based models must adapt quickly, as agents will soon monetize unused loyalty points, subscriptions, and low‑yield cash, reshaping consumer finance and investment analysis."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260922191405.3.0dec324c09f6bdef@mg2.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "The North Carolina Senate candidate who promoted a child predator",
-   "date": "2026-09-22T12:14-07:00",
-   "url": "https://roycoopernc.substack.com/p/the-north-carolina-senate-candidate",
-   "bullets": [
-    "Michael Whatley, former NC GOP chair, repeatedly appointed convicted child sex offender Harvey Lee West to positions despite knowing West’s crimes, allegedly to raise money.",
-    "The Cooper campaign released an ad accusing Whatley of endangering children for political gain, noting Trump is spending millions to support Whatley’s Senate bid, with polls now within the margin of error.",
-    "The email urges donations to defeat Whatley, labeling him a “pedophile protector” and urging supporters to contribute $5."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 96,
-  "total": 402
+  "total": 403
  }
 }
