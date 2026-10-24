@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:43-07:00",
+ "updated": "2026-10-24T10:31-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -62,6 +62,127 @@
  },
  "items": [
   {
+   "id": "20261024170235.3.10a5fa7f8e3e6bbb@mg2.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: Collective Punishment on West Bank, and Settlers Destroy Shireen Abu Akleh Memorial",
+   "date": "2026-10-24T10:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israel-inflicts",
+   "bullets": [
+    "Israeli forces imposed a full lockdown on the West Bank after two soldiers were killed near a Hebron checkpoint, raiding villages, forcibly displacing families, and demolishing homes of unrelated Palestinians.",
+    "In Gaza, Israel has killed over 350 children since the 2023 ceasefire, including 7‑year‑old Misk Hazem al‑Dalou and 10‑year‑old Abdul Rahman Khalil Awad, with daily child casualties reported throughout the week."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261024163048.3.27c0a583c08f9c5f@mg-d1.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Putin’s Pal, Pete’s Pep Talk, and Vivek’s Meltdown",
+   "date": "2026-10-24T09:30-07:00",
+   "url": null,
+   "bullets": [
+    "Cathy Young critiques Trump‑aligned pro‑Ukraine defenders, Mona Charen argues the right misreads France, and Pete Buttigieg visits Charlotte while Jonathan Cohn interviews Abdul El‑Sayed on political issues.",
+    "Ohio’s political relevance is highlighted through a Morning Shots piece on Vivek Ramaswamy’s attack on Amy Acton, Trump’s defense, and Republican backlash, with a transcript available.",
+    "A book club will discuss The Age of Acrimony, and a Netflix docuseries on James Garfield’s assassination is recommended for context."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261024145738.3.644969ff1d1e0ef1@mg2.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Cruelty to Abuse Victims Extends Far Beyond Amy Acton",
+   "date": "2026-10-24T07:57-07:00",
+   "url": null,
+   "bullets": [
+    "Vivek Ramaswamy’s Ohio campaign released a disallowed ad attacking Amy Acton’s mother, a 12‑year‑old rape survivor, accusing her of lying about her past and supporting a “disaster” candidate; Trump publicly endorsed the ad, urging the mother to expose Acton’s supposed dishonesty.",
+    "Trump’s rhetoric of protecting women and preventing child abuse contrasts with his history of supporting abusers—he was close to Jeffrey Epstein, dismisses child rapists as “proponents of gender ideology,” and has repeatedly silenced survivors for political gain.",
+    "The ad and Trump’s reaction illustrate a broader pattern: the administration’s policies have harmed thousands of sexual‑abuse and domestic‑violence victims, often without electoral benefit, highlighting a stark hypocrisy in the Trumpist agenda."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261024140309.3.3f095ea5b9ccc2a1@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Is It Time to Change the Constitution? Historian Weighs In",
+   "date": "2026-10-24T07:03-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/is-it-time-to-change-the-constitution",
+   "bullets": [
+    "Harvard historian Jill Lepore argues the Constitution is “fairly good shape,” but warns that a disengaged civil society and belief that institutions are immutable threaten democracy",
+    "She says the Constitution’s amendment process is a “philosophy of amendment” that can adapt if masses mobilize through voting and civic engagement",
+    "The live Zeteo conversation outlines how midterm elections could spark a “shakeup” and potentially open the “constitutional door” for new amendments"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261024134435.3.1cad69d35c5e0d7d@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Why Elon Musk’s Money Could Backfire on Republicans",
+   "date": "2026-10-24T06:44-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/why-elon-musks-money-could-backfire",
+   "bullets": [
+    "Elon Musk is pouring an unprecedented, “wholly obscene” amount of personal money into Republican midterm races, positioning himself as a high‑profile Trump champion.",
+    "Pfeiffer argues Musk’s motivation is attention‑seeking, but warns that this late‑stage, massive financial injection could ultimately backfire on the GOP’s electoral prospects."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261024130205.3.49582bc767a6775c@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“You just need to pretend to be an important person”",
+   "date": "2026-10-24T06:02-07:00",
+   "url": "https://post.substack.com/p/you-just-need-to-pretend-to-be-an",
+   "bullets": [
+    "Kit Williams buried an 18‑carat gold hare worth £5,000 in 1979, sparking a worldwide treasure hunt that drew ~2 million seekers and 30,000 letters, with the hare found after 2½ years.",
+    "Maura Brannigan recounts 20 years of breast cancer surveillance—15 exams, 12 ultrasounds, 3 mammograms, 2 biopsies, 2 titanium clips—highlighting the relentless, routine nature of her medical monitoring.",
+    "Gabriella Karefa‑Johnson convenes a fashion roundtable to critique recent runway shows and assess the industry's current state."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261024103035.3.bc5c847bfdb72e87@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Lisa Graves at the Brattleboro Literary Festival",
+   "date": "2026-10-24T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/lisa-graves-at-the-brattleboro-literary",
+   "bullets": [
+    "Krugman recounts an April conversation with legal scholar Lisa Graves, diagnosing the Supreme Court's crisis as a product of politicized appointments and erosion of institutional norms.",
+    "Graves appears at the Brattleboro Literary Festival, where she will elaborate on how partisan battles and procedural changes have undermined the Court’s legitimacy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261024100113.3.26dc2fe465e8cb00@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Focus Group Shows Why Susan Collins is in Trouble (with Alex Seitz-Wald)",
+   "date": "2026-10-24T03:01-07:00",
+   "url": null,
+   "bullets": [
+    "Former Collins supporters in Maine are increasingly willing to vote her out, citing a loss of her independent reputation despite lingering personal goodwill.",
+    "Midcoast Villager deputy editor Alex Seitz‑Wald says voters find Republican challenger Troy Jackson uninspiring and see local issues like fisheries and broadband as decisive factors.",
+    "The episode of The Focus Group discusses these voter sentiments and how they could shape Collins’ bid for a sixth term."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261024090202.3.475311b33df96940@mg2.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Margin Call",
+   "date": "2026-10-24T02:02-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/margin-call",
+   "bullets": [
+    "Suriname’s GranMorgu project aims for 220,000 bpd by mid‑2028, while Brazil’s Petrobras reported hydrocarbons in the deep‑water Morpho‑1 well (9,500 ft) off Amapá, hinting at a new Equatorial Margin play amid a looming presidential runoff"
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261024010045.3.ffe55d824a5ba32f@mg-d1.substack.com",
    "newsletter": "This Week in Democracy",
    "pub": "zeteo",
@@ -69,10 +190,11 @@
    "date": "2026-10-23T18:00-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-92-trump",
    "bullets": [
-    "We’re just 11 days from the midterm elections, and Donald Trump and his allies are ramping up efforts to steal them. This week, we learned the Trump administration asked a federal agency to hack voting machines, the president lost it – agai…",
-    "Needless to say, Trump and his allies were extremely busy harming American democracy, undermining the Constitution, and hurting societies worldwide. Here’s more from ‘This Week in Democracy – Week 92’:"
+    "ProPublica revealed the Trump administration asked CISA to secretly acquire and hack a voting machine, a request that was rejected after internal concerns and staffing cuts;",
+    "The State Department issued only 26,000 immigrant visas in February, half the pre‑Trump average, after policies blocked visas for nearly half of the world’s countries;",
+    "Trump’s FCC chair Brendan Carr warned broadcasters against airing “fake polls,” prompting a rebuttal from Democratic commissioner Anna Gomez defending legitimate poll reporting."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261024000050.3.0726a870094a938d@mg2.substack.com",
@@ -260,10 +382,11 @@
    "date": "2026-10-22T18:30-07:00",
    "url": null,
    "bullets": [
-    "Democrats on the House Oversight Committee are already divvying up how to investigate Musk, the one-time shadow president who's still making foreign policy decisions about the war in Ukraine. Also on tap for hearings is the impeachable Hegs…",
-    "Kinzinger's YouTube [ https://substack.com/redirect/55839492-7d5c-41e8-a8a1-cc6f5f837e5e?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] Kinzinger on Substack [ https://substack.com/redirect/327449f5-7b17-4c4e-bcd7-b83e6…"
+    "Democrats on the House Oversight Committee are already planning hearings to probe Elon Musk’s unofficial foreign‑policy role in the Ukraine war, alongside a separate inquiry into former Pentagon chief Mark Hegseth’s alleged misconduct.",
+    "Crypto lobbyists are allocating $55 million to influence Ohio Senator Jon Husted, while Mike Rogers’s wife has secured unusually large government contracts, raising conflict‑of‑interest concerns.",
+    "Former Rep. Adam Kinzinger, appearing with Tim Miller, warns that Texas activist Talarico is gaining significant momentum, and he critiques Jared Kushner’s diplomatic overtures with a Putin‑friendly partner."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261023000130.3.a4aaecdb7b9f160c@mg2.substack.com",
@@ -5415,130 +5538,6 @@
     "Gerard Baker, former WSJ editor, published an essay claiming Trump’s policies caused inflation, deficits, and a “reckless military adventure” that disrupted global energy, but downplays Trump’s authoritarian actions.",
     "The author of the brief criticizes Baker’s portrayal, labeling it cowardly and arguing that Trump’s real threats include a secret police, support for dictators, and the Jan. 6 attack on constitutional order.",
     "He warns against treating former anti‑Trump defenders like Baker as allies, urging vigilance toward anyone shifting away from Trump without genuine commitment to liberal democracy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260923150126.3.821e158972c48076@mg2.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "She’s Gen Z. She’s an Immigrant. And She’s Going to Congress!",
-   "date": "2026-09-23T08:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/big-ai-wants-you-to-believe-it-could",
-   "bullets": [
-    "Melat Kiros, a Gen‑Z immigrant, won Colorado’s Democratic primary against a 15‑term incumbent and is poised to become the first Gen‑Z woman in Congress, promising to shake up establishment politics.",
-    "She says democratic socialism is needed to curb billionaire‑driven AI tech and will likely back Hakeem Jeffries for House speaker while holding Twitch streamer Hasan Piker to higher accountability than many officials."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260923145132.3.fa5ff83e33388257@mg-d0.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "This Is a Five-Alarm Fire for Medical Research",
-   "date": "2026-09-23T07:51-07:00",
-   "url": null,
-   "bullets": [
-    "The Trump administration is reportedly drafting an executive order that would require political officials, not just scientists, to approve NIH grant applications, threatening the agency’s $50 billion budget where 80% funds external research.",
-    "Policy analyst Russell Vought, a key Trump ally, is pushing the plan and has already pressured NIH by canceling grants, demanding a 40% budget cut, and targeting DEI‑related projects.",
-    "Both Republican and Democratic lawmakers have blocked the proposal in a stopgap spending bill, and NIH Director Jay Bhattacharya has publicly opposed the politicization of grant reviews."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260923140236.3.1b048aec94b6259a@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Take it from me, this is close",
-   "date": "2026-09-23T07:02-07:00",
-   "url": "https://roycoopernc.substack.com/p/take-it-from-me-this-is-close",
-   "bullets": [
-    "Roy Cooper’s North Carolina campaign is in a tighter race than expected, with his lead cut in half since Trump’s super PAC began buying ads, and the GOP’s $125 million war chest is flooding the airwaves.",
-    "The state’s large, dispersed electorate makes advertising expensive, forcing Cooper’s team to rely heavily on donations to counter the GOP’s financial advantage and protect voting rights.",
-    "The author urges immediate $5+ contributions to help Cooper’s campaign fight back against the super PAC’s spending and secure victory before Election Day."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260923133939.3.5c7efb46dfb0eb75@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "We Watched Six Hours of Trump TV",
-   "date": "2026-09-23T06:39-07:00",
-   "url": null,
-   "bullets": [
-    "Brendan Hartnett’s six‑hour marathon of Trump TV reveals a bland, self‑congratulatory spectacle where promises about ending censorship, cutting inflation and colonizing Mars ring hollow against Trump’s 2026 record of unfulfilled pledges.",
-    "Andrew Egger warns that Trump’s announced potash deal with Belarus is infeasible: Belarus lacks surplus supply, is under EU sanctions, and logistics would be far costlier than Canada’s reliable Saskatchewan shipments, exposing Trump’s trade‑war ignorance."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260923133028.3.98e23e5d4a9e07de@mg-d1.substack.com",
-   "newsletter": "Here Be Dragons from Barbara F. Walter",
-   "pub": "barbarafwalter",
-   "subject": "Off to Bellagio",
-   "date": "2026-09-23T06:30-07:00",
-   "url": "https://barbarafwalter.substack.com/p/im-off-to-bellagio",
-   "bullets": [
-    "Barbara F. Walter announces a month-long residency at the Rockefeller Foundation's Bellagio Center on Lake Como, a program that has hosted figures like Maya Angelou and Joseph Stiglitz since 1959.",
-    "Her interdisciplinary cohort includes an Amazon indigenous leader, a Beirut-based artist, a sustainable‑fashion entrepreneur, and an engineer redesigning refrigeration, promising fresh perspectives beyond politics.",
-    "She says future Here Be Dragons issues will feature insights from the Bellagio experience."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260923114618.3.c308100c08957b7a@mg2.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Furious Republicans are Finally Breaking with a Weakened Trump",
-   "date": "2026-09-23T04:46-07:00",
-   "url": null,
-   "bullets": [
-    "Sarah’s Focus Group Newsletter argues that Sarah’s book tour signals a shift in Republican focus toward policy over personality, citing Vivek Ramaswamy’s rise and the need for a new party narrative.",
-    "George W. Bush’s fundraiser for Republican Senate candidates shows former president’s unexpected return to politics, raising questions about his influence on the GOP’s future direction.",
-    "Trump’s recent ban of CNN, MSNOW, and POLITICO from the White House press pool is highlighted, with the authors debating whether this move signals a broader erosion of press freedom and its impact on public trust."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260923111344.3.5f4de9569caf261f@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "🇺🇳 Trump’s Disgusting UN Speech: When You’re America, They Let You Do It",
-   "date": "2026-09-23T04:13-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trumps-disgusting-un-speech-when",
-   "bullets": [
-    "Trump’s UN General Assembly speech devolved into self‑aggrandizing threats, including vows to annihilate Iran, intimidate Cuba, and boast about a covert Venezuelan invasion and oil deal, signaling a shift to overt, extra‑legal U.S. aggression.",
-    "A ProPublica‑style investigation revealed GOP Senator Susan Collins’ Maine ties to a bribery probe that the Trump‑appointed DOJ allegedly suppressed, highlighting ongoing corruption concerns.",
-    "The piece links Trump’s UN rhetoric to his 2020 refusal to ensure a peaceful power transition, framing his current foreign‑policy posturing as an extension of his authoritarian domestic behavior."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260923103125.3.d1bf8b7ec2941085@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "It’s “Underwear on the Outside” Time",
-   "date": "2026-09-23T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/its-underwear-on-the-outside-time",
-   "bullets": [
-    "Trump’s UN speech, likened to a 1971 comedy’s dictator, showcases his bizarre demands—calling for a “Triumphal Arch” with drones and snipers, and a shift from “artificial intelligence” to “superintelligence,” reflecting his erratic rhetoric and perceived mental decline.",
-    "The midterm elections are expected to swing to Democrats, potentially ending Trump’s influence in Congress, but the author warns that Trump’s power will linger, enabling vindictive actions against both Democrats and the public, and that the broader threat of Trumpism stems from a decades‑long network of Koch money, segregationists, religious fundamentalists, the Federalist Society, the Roberts Court, and the tech elite.",
-    "The newsletter urges continued vigilance, noting that even a Democratic White House in 2028 would inherit a nation severely weakened by Trump’s policies and that a new generation of Democrats must confront the entrenched “many‑headed hydra” linking these forces to defeat Trumpism."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260923100350.3.f03b1e1472415963@mg2.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Medicare for All: Separating the slogan from the substance",
-   "date": "2026-09-23T03:03-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/medicare-for-all-separating-the-slogan",
-   "bullets": [
-    "Medicare for All could lower U.S. health spending by replacing private insurance, cutting the $100 billion annual cost of Medicare Advantage and reducing administrative overhead, but would require new taxes to avoid debt.",
-    "A single, all‑inclusive federal plan would eliminate the bargaining power of large hospital chains, allowing small clinics to compete on quality rather than price and potentially reduce the 27 million uninsured by covering everyone.",
-    "While Medicare for All could improve access and reduce wait times, it alone cannot solve primary‑care shortages, medical‑school debt, or broader social determinants of health that drive overall health outcomes."
    ],
    "summary_by": "groq"
   }
