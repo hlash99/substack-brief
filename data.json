@@ -1,48 +1,18 @@
 {
- "updated": "2026-10-24T10:31-07:00",
+ "updated": "2026-10-24T18:19-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s 2026 midterm strategy is now a money‑war: dark‑money groups and corporate PACs have poured over $64 million into New Hampshire’s Senate race and Ohio’s governor contest, while Democrats scramble to raise emergency funds and counter attack ads (The Bulwark, Chris Pappas).",
-   "The GOP’s fear‑based messaging—tied to foreign unrest, immigration raids, and sensationalized attack ads—has backfired in several key states, turning voters wary of Trump‑aligned candidates and boosting Democratic turnout in younger demographics (The Bulwark, Dan Pfeiffer).",
-   "Elon Musk’s Starlink shutdown of Ukraine’s communications and his broader influence on critical infrastructure have sparked bipartisan calls for tighter regulation of private tech in national security (Paul Krugman).",
-   "In Brazil, Senator Flávio Bolsonaro’s demand for a presidential pardon for his father and willingness to use force against the judiciary signals a potential constitutional crisis that could reshape Latin American politics (Zeteo).",
-   "Israel’s government is buying TV spots in Iowa to promote its war against Iran, framing foreign policy as a domestic economic solution and raising concerns about foreign influence in U.S. elections (Zeteo).",
-   "The Democratic Party’s projected 2026 midterm win hinges on exposing Trump’s corruption and policy failures, with polls showing a widening gap and voters prioritizing government integrity over cost‑of‑living issues (The Message Box, The Bulwark)."
+   "The New Hampshire Senate race is the most pivotal story, with Donald Trump‑backed John Sununu receiving over $60 million from Musk, the Koch network and other dark‑money groups, while grassroots donors are urged to step up to keep the seat from tipping the Senate (Chris Pappas, Dan Pfeiffer).",
+   "Elon Musk’s unprecedented $76 million injection into Republican midterm campaigns is a double‑edged sword that could backfire on the GOP by alienating voters and drawing scrutiny from regulators (The Message Box, The Bulwark).",
+   "The Trump administration’s aggressive use of ICE and HSI, including raids on political figures and the targeting of immigrant families, has sparked a national debate over civil liberties and the legality of such tactics (Adrian Carrasquillo, The Bulwark).",
+   "Israel’s continued military operations in the West Bank and Gaza, resulting in hundreds of child casualties and widespread displacement, remain a flashpoint for international criticism and human rights concerns (Zeteo).",
+   "The Supreme Court’s legitimacy is under strain as politicized appointments and procedural changes erode institutional norms, a crisis highlighted by legal scholars and commentators (Paul Krugman).",
+   "Private control of critical national‑security infrastructure, exemplified by Musk’s throttling of Starlink for Ukraine, underscores the risks of allowing corporate interests to dictate essential services (Paul Krugman)."
   ],
   "by": "groq",
   "ids": [
-   "20261020100046.3.68494fafb068a080@mg2.substack.com",
-   "20261020102234.3.674010110534aebe@mg2.substack.com",
-   "20261020103052.3.e3cf823299390b28@mg2.substack.com",
-   "20261020110535.3.5c40d71ed8606c67@mg-d1.substack.com",
-   "20261020125927.3.95d55e9506cd94fb@mg2.substack.com",
-   "20261020132052.3.d8c7e44024d09472@mg2.substack.com",
-   "20261020135833.3.e3e7e134b556d228@mg-d0.substack.com",
-   "20261020145613.3.24757e4fc11969ea@mg2.substack.com",
-   "20261020150315.3.a426c19020eb9d55@mg2.substack.com",
-   "20261020163252.3.f1d217445179e8be@mg-d1.substack.com",
-   "20261020180453.3.a88d4dbbcc803765@mg-d1.substack.com",
-   "20261020191404.3.4c59757c55091760@mg-d0.substack.com",
-   "20261020210133.3.3ee19edb9c11da56@mg-d1.substack.com",
-   "20261020220048.3.549255927c8a670d@mg2.substack.com",
-   "20261020232214.3.123df4fa44790e31@mg2.substack.com",
-   "20261021100141.3.0efaae6fbef84709@mg2.substack.com",
-   "20261021102434.3.e02b607a22dc6c22@mg-d1.substack.com",
-   "20261021103047.3.6259901b9bb5a1b9@mg-d1.substack.com",
-   "20261021110352.3.463f90216380a4f0@mg-d1.substack.com",
-   "20261021112907.3.981d48b25ce576d6@mg-d1.substack.com",
-   "20261021131825.3.c0275dcd7f2a425b@mg-d0.substack.com",
-   "20261021143116.3.32f12411f7a1d331@mg2.substack.com",
-   "20261021145731.3.fd4fb8475ae17fc1@mg2.substack.com",
-   "20261021151926.3.31bb9df3aee7f896@mg-d1.substack.com",
-   "20261021163053.3.5d5631bb77b9af8a@mg2.substack.com",
-   "20261021164539.3.2a4b088bddac0c84@mg-d0.substack.com",
-   "20261021190142.3.96b76240a07165ec@mg-d1.substack.com",
-   "20261021232233.3.238e62f3a2fcb9f7@mg-d0.substack.com",
-   "20261022000136.3.7c174135fec77287@mg-d0.substack.com",
-   "20261022010102.3.164b6ab64f0e1d41@mg2.substack.com",
    "20261022090223.3.db1c661d75a6ae5f@mg2.substack.com",
    "20261022102239.3.23f8f4ce715a64dd@mg2.substack.com",
    "20261022111415.3.d384931352707b70@mg2.substack.com",
@@ -52,15 +22,99 @@
    "20261022150246.3.ed5e8e98b21338b2@mg-d1.substack.com",
    "20261022154916.3.c2255914b0d689d5@mg-d1.substack.com",
    "20261022164047.3.52f8040d2205406d@mg-d1.substack.com",
+   "20261022170536.3.867fd75be19e1b10@mg-d0.substack.com",
    "20261022194401.3.00b7186c0e819a4d@mg-d0.substack.com",
    "20261022220111.3.7167760a513d480c@mg-d1.substack.com",
    "20261022234853.3.a3008b0f77a8af46@mg-d1.substack.com",
-   "20261023000130.3.a4aaecdb7b9f160c@mg2.substack.com"
+   "20261023000130.3.a4aaecdb7b9f160c@mg2.substack.com",
+   "20261023013043.3.47a82195bb29d136@mg-d1.substack.com",
+   "20261023022104.3.5c9dc36ee10a8e88@mg-d1.substack.com",
+   "20261023100337.3.44d07d6a6f9ee6f3@mg-d0.substack.com",
+   "20261023103120.3.85b234079db708e9@mg2.substack.com",
+   "20261023112450.3.009082d3b65ae8c2@mg-d1.substack.com",
+   "20261023132849.3.e5bb0c9ad654cc6d@mg-d1.substack.com",
+   "20261023141926.3.8c9eb37e63863e3a@mg2.substack.com",
+   "20261023143535.3.28ed2dbabf13f7a8@mg-d1.substack.com",
+   "20261023160833.3.091ff575a94736e4@mg-d1.substack.com",
+   "20261023193147.3.078724223281dfbd@mg2.substack.com",
+   "20261023215341.3.5baf2b5bbc2f268e@mg-d1.substack.com",
+   "20261023221932.3.1e4a3ad0ceb528fc@mg2.substack.com",
+   "20261023224606.3.6266022661e14d9c@mg-d0.substack.com",
+   "20261024000050.3.0726a870094a938d@mg2.substack.com",
+   "20261024010045.3.ffe55d824a5ba32f@mg-d1.substack.com",
+   "20261024090202.3.475311b33df96940@mg2.substack.com",
+   "20261024100113.3.26dc2fe465e8cb00@mg-d0.substack.com",
+   "20261024103035.3.bc5c847bfdb72e87@mg2.substack.com",
+   "20261024130205.3.49582bc767a6775c@mg-d1.substack.com",
+   "20261024134435.3.1cad69d35c5e0d7d@mg2.substack.com",
+   "20261024140309.3.3f095ea5b9ccc2a1@mg-d1.substack.com",
+   "20261024145738.3.644969ff1d1e0ef1@mg2.substack.com",
+   "20261024163048.3.27c0a583c08f9c5f@mg-d1.substack.com",
+   "20261024170235.3.10a5fa7f8e3e6bbb@mg2.substack.com",
+   "20261024190300.3.b34cc422f8bdb918@mg-d1.substack.com",
+   "20261024213041.3.3edb3f4258ec5403@mg-d1.substack.com",
+   "20261024230108.3.da3355e218bdae78@mg2.substack.com",
+   "20261025010059.3.dbe5dea22f024af0@mg2.substack.com"
   ],
-  "updated": "2026-10-22T18:39-07:00",
+  "updated": "2026-10-24T18:19-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261025010059.3.dbe5dea22f024af0@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Elon Musk Has Some Thoughts About The Bulwark. They’re Not Nice.",
+   "date": "2026-10-24T18:00-07:00",
+   "url": null,
+   "bullets": [
+    "Tim Miller rebuts Elon Musk’s threat to The Bulwark, calling Musk’s “live by the sword” comment a dangerous intimidation tactic.",
+    "Miller attacks Iowa GOP candidate Joe Mitchell for giving Trump a homemade “Man of the Century” award and for past video showing him ranting about his penis size and making racist remarks toward Black women.",
+    "He warns that Rep. Mike Rogers’ support for the Iran war could damage his Michigan Senate bid as voters confront rising gas prices and frustration with Trump’s foreign policy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261024230108.3.da3355e218bdae78@mg2.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "Can I count on you?",
+   "date": "2026-10-24T16:01-07:00",
+   "url": "https://chrispappasnh.substack.com/p/almost-there",
+   "bullets": [
+    "Republican candidate John Sununu, hand‑picked by Donald Trump, has over $66 million backing to win New Hampshire’s open Senate seat and secure a GOP Senate majority.",
+    "Chris Pappas urges supporters to donate $10 in the final ten days of the race, arguing grassroots door‑knocking and calls can offset the Republicans’ cash advantage and flip the Senate."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261024213041.3.3edb3f4258ec5403@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s $10 Billion BBC Lawsuit Just Backfired",
+   "date": "2026-10-24T14:30-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s $10 billion defamation lawsuit against the BBC has stalled after a court dismissed key claims, weakening his legal offensive and exposing strategic missteps.",
+    "The Justice Department has opened a criminal probe into former Trump aide Corey Lewandowski, signaling a potentially serious corruption investigation tied to the former president’s inner circle.",
+    "Longwell and Weissmann also discuss Trump’s failed attempt to overturn 20,000 California votes and the latest Russian election‑interference efforts targeting U.S. elections."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261024190300.3.b34cc422f8bdb918@mg-d1.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "ICE’s Cruelty Is Becoming America’s M.O.",
+   "date": "2026-10-24T12:03-07:00",
+   "url": null,
+   "bullets": [
+    "ICE agents violently detained U.S. citizen Ricardo Gonzalez in Long Beach, tasing him twice, breaking his arm, and refusing immediate medical aid, prompting a mayoral investigation.",
+    "ICE’s aggressive tactics have also harmed undocumented fathers like Sebastian, whose car was rammed and children seized, and targeted Rep. Ilhan Omar’s home in a denaturalization‑linked raid.",
+    "The newsletter argues ICE’s brutality reflects a broader Trump‑era shift toward ‘alien citizenship,’ with declining naturalizations and heightened fear among Latino communities."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261024170235.3.10a5fa7f8e3e6bbb@mg2.substack.com",
    "newsletter": "This Week in Palestine | Zeteo",
@@ -5485,59 +5539,6 @@
     "CNN, MS NOW and Politico sued the Trump White House after he barred them from the press pool, alleging illegal suppression of news coverage.",
     "A federal court ruled in favor of Andrew Weissmann, dismissing Cassidy Hutchinson’s former lawyer’s defamation claim against him.",
     "Paramount settled a states’ antitrust suit over its Warner Bros. acquisition, ending a major media consolidation challenge."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260924000107.3.c6d7137816747a67@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Here’s How Trump’s White House Press Ban Hurts MAGA Media Too",
-   "date": "2026-09-23T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/heres-how-trumps-white-house-press",
-   "bullets": [
-    "The White House’s ad‑hoc “national security” ban on CNN, MS NOW and Politico was struck down in court, with a judge likely ordering the outlets’ access restored on due‑process grounds.",
-    "Trump’s press ban, intended to curb critical coverage, backfired by harming right‑wing media; the ban’s reversal is now crucial for the MAGA media landscape to regain White House access and influence."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260923233302.3.7686e506f801a5ab@mg2.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Dems’ Newest Campaign Line: Trump’s Gonna Freeze You to Death",
-   "date": "2026-09-23T16:33-07:00",
-   "url": null,
-   "bullets": [
-    "Democrats are using rising heating‑oil prices to warn voters that winter costs will spike, blaming Trump’s Iran policy for the surge in petroleum‑dependent energy costs.",
-    "The campaign message frames the heat wave and winter chill as a political issue, suggesting Republicans will face higher heating bills if Trump’s policies continue."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260923200152.3.a8ca601225ef3093@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Here’s How the Left Can Defeat the Fascists",
-   "date": "2026-09-23T13:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/heres-how-the-left-can-defeat-the",
-   "bullets": [
-    "Varoufakis argues fascism rises when capitalism faces crisis and the left offers no credible alternative, warning that fascists will co-opt anti‑capitalist rhetoric but ultimately ally with big business and finance to consolidate power and expand militarism.",
-    "He calls for an anti‑fascist economics built on three pillars: state‑directed investment, banning private banks from creating money, and instituting one‑employee‑one‑share‑one‑vote corporate governance to restore worker control and shared prosperity."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260923173926.3.2ec47321bb2dee1a@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Portrait of an Anti-Anti-Trumper in Despair",
-   "date": "2026-09-23T10:39-07:00",
-   "url": null,
-   "bullets": [
-    "Gerard Baker, former WSJ editor, published an essay claiming Trump’s policies caused inflation, deficits, and a “reckless military adventure” that disrupted global energy, but downplays Trump’s authoritarian actions.",
-    "The author of the brief criticizes Baker’s portrayal, labeling it cowardly and arguing that Trump’s real threats include a secret police, support for dictators, and the Jan. 6 attack on constitutional order.",
-    "He warns against treating former anti‑Trump defenders like Baker as allies, urging vigilance toward anyone shifting away from Trump without genuine commitment to liberal democracy."
    ],
    "summary_by": "groq"
   }
