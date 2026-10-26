@@ -1,32 +1,18 @@
 {
- "updated": "2026-10-25T10:43-07:00",
+ "updated": "2026-10-25T18:22-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The New Hampshire Senate race is the most pivotal story, with Donald Trump‑backed John Sununu receiving over $60 million from Musk, the Koch network and other dark‑money groups, while grassroots donors are urged to step up to keep the seat from tipping the Senate (Chris Pappas, Dan Pfeiffer).",
-   "Elon Musk’s unprecedented $76 million injection into Republican midterm campaigns is a double‑edged sword that could backfire on the GOP by alienating voters and drawing scrutiny from regulators (The Message Box, The Bulwark).",
-   "The Trump administration’s aggressive use of ICE and HSI, including raids on political figures and the targeting of immigrant families, has sparked a national debate over civil liberties and the legality of such tactics (Adrian Carrasquillo, The Bulwark).",
-   "Israel’s continued military operations in the West Bank and Gaza, resulting in hundreds of child casualties and widespread displacement, remain a flashpoint for international criticism and human rights concerns (Zeteo).",
-   "The Supreme Court’s legitimacy is under strain as politicized appointments and procedural changes erode institutional norms, a crisis highlighted by legal scholars and commentators (Paul Krugman).",
-   "Private control of critical national‑security infrastructure, exemplified by Musk’s throttling of Starlink for Ukraine, underscores the risks of allowing corporate interests to dictate essential services (Paul Krugman)."
+   "The UN‑verified genocide in Sudan’s El Fasher and ongoing Israeli‑Palestinian atrocities highlight a widening humanitarian crisis in Africa and the Middle East (Zeteo).",
+   "Elon Musk’s massive, last‑minute cash infusion into Republican races and his controversial control of critical tech like Starshield are reshaping the 2026 midterms and could backfire on the GOP (The Message Box, Doomberg, The Bulwark).",
+   "Republican campaign tactics are turning increasingly vile, with anti‑Muslim and attack ads targeting candidates like Amy Acton, sparking backlash and venue cancellations for figures such as Vivek Ramaswamy (The Bulwark, Sarah Longwell).",
+   "Democrats see a potential 2026 wave as a pathway to competitive 2028 presidential races, emphasizing grassroots fundraising and Senate flips in key states (The Bulwark, Chris Pappas).",
+   "Paul Krugman warns that persistent inflation, a looming AI‑driven bubble, and rising bond yields could push the Fed into a stagflation trap and trigger a debt crisis (Paul Krugman).",
+   "Historical analyses reveal how past U.S. foreign‑policy decisions, from the 1980s “global war on terror” to current AIPAC influence, continue to shape today’s geopolitical and domestic political battles (Zeteo, The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20261022090223.3.db1c661d75a6ae5f@mg2.substack.com",
-   "20261022102239.3.23f8f4ce715a64dd@mg2.substack.com",
-   "20261022111415.3.d384931352707b70@mg2.substack.com",
-   "20261022133657.3.cb77ba18b4f476a5@mg-d0.substack.com",
-   "20261022145655.3.7ba97ec96aea2648@mg-d0.substack.com",
-   "20261022150005.3.9915c67c2c267b29@mg-d1.substack.com",
-   "20261022150246.3.ed5e8e98b21338b2@mg-d1.substack.com",
-   "20261022154916.3.c2255914b0d689d5@mg-d1.substack.com",
-   "20261022164047.3.52f8040d2205406d@mg-d1.substack.com",
-   "20261022170536.3.867fd75be19e1b10@mg-d0.substack.com",
-   "20261022194401.3.00b7186c0e819a4d@mg-d0.substack.com",
-   "20261022220111.3.7167760a513d480c@mg-d1.substack.com",
-   "20261022234853.3.a3008b0f77a8af46@mg-d1.substack.com",
-   "20261023000130.3.a4aaecdb7b9f160c@mg2.substack.com",
    "20261023013043.3.47a82195bb29d136@mg-d1.substack.com",
    "20261023022104.3.5c9dc36ee10a8e88@mg-d1.substack.com",
    "20261023100337.3.44d07d6a6f9ee6f3@mg-d0.substack.com",
@@ -54,12 +40,47 @@
    "20261024190300.3.b34cc422f8bdb918@mg-d1.substack.com",
    "20261024213041.3.3edb3f4258ec5403@mg-d1.substack.com",
    "20261024230108.3.da3355e218bdae78@mg2.substack.com",
-   "20261025010059.3.dbe5dea22f024af0@mg2.substack.com"
+   "20261025010059.3.dbe5dea22f024af0@mg2.substack.com",
+   "20261025020433.3.c237c11a8f479e61@mg-d0.substack.com",
+   "20261025100257.3.6c9ebcc9a4cef216@mg-d1.substack.com",
+   "20261025104455.3.e128c4aa738ba04c@mg-d0.substack.com",
+   "20261025112933.3.810f9a92f93b9a77@mg2.substack.com",
+   "20261025140334.3.433bad644f959a52@mg-d0.substack.com",
+   "20261025140337.3.80c0948bfcb35f99@mg2.substack.com",
+   "20261025233932.3.65ad4cf4554a5db8@mg2.substack.com",
+   "20261026000234.3.ddcc053dc0c6d5f6@mg2.substack.com"
   ],
-  "updated": "2026-10-24T18:19-07:00",
+  "updated": "2026-10-25T18:22-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261026000234.3.ddcc053dc0c6d5f6@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "A Genocide Was Committed in Sudan’s El Fasher. A Year Later, Survivors Recount the Horrors",
+   "date": "2026-10-25T17:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/a-genocide-was-committed-in-sudans",
+   "bullets": [
+    "In September 2025, five brothers from the Salman family were killed by an RSF shell in El Fasher’s Tambasi neighborhood during the final weeks of an 18‑month siege that ended with the city’s fall on Oct 26, 2025.",
+    "A UN fact‑finding mission concluded the RSF’s mass killings, rapes, torture and enforced disappearances of Zaghawa and Fur civilians in El Fasher constitute a genocidal campaign, with thousands killed.",
+    "One year later, families like the Salmans still search for missing relatives, the city remains depopulated, and no RSF perpetrators have been held accountable."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261025233932.3.65ad4cf4554a5db8@mg2.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "What a Blowout Dem Win in ’26 Would Mean for ’28",
+   "date": "2026-10-25T16:39-07:00",
+   "url": null,
+   "bullets": [
+    "If Democrats pull off a sweeping 2026 midterm win—flipping the Senate and winning governorships in traditionally Trump states like Ohio, Iowa, Texas, and Kansas—it would position those states as competitive in the 2028 presidential race, according to Biden‑Harris campaign battleground director Dan Kanninen.",
+    "Kentucky Gov. Andy Beshear echoes this view, arguing that Democratic success in 2026 is crucial for building the momentum and voter perception needed to secure a 2028 presidential victory."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261025140334.3.433bad644f959a52@mg-d0.substack.com",
    "newsletter": "Zeteo",
@@ -5446,77 +5467,10 @@
     "It also critiques right‑wing media’s failed attempt to create its own press pool, citing technical glitches, missing pool protocols, and footage that appears to follow Trump’s motorcade too closely."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260925000238.3.b3dd6edfdd5fc053@mg-d1.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump L’Oil: A Fake Fix for High Diesel Prices",
-   "date": "2026-09-24T17:02-07:00",
-   "url": null,
-   "bullets": [
-    "Diesel prices in the U.S. have surged to near‑record highs, roughly double pre‑Iran‑war levels, hurting truckers, farmers and consumers nationwide.",
-    "Trump is reportedly considering a ban on U.S. diesel exports—a move with no precedent that would restrict trade and likely cause economic, diplomatic and political backlash."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260924230120.3.56a36c6d9ebfead4@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "In Gaza, ‘Whoever Survives the Bombing Won’t Survive the Rubble’",
-   "date": "2026-09-24T16:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/in-gaza-whoever-survives-the-bombing",
-   "bullets": [
-    "Amr Adas recounts the collapse of Gaza’s Al‑Saada building, which killed 11 children—including his 6‑year‑old son Bilal and 12‑year‑old daughter Dunya—and ten adults, with dozens injured or missing.",
-    "He blames Israel for blocking heavy rescue equipment and forcing families into unsafe, war‑damaged structures due to repeated displacement, bombardment, harsh weather and lack of funds.",
-    "The piece warns that over 2,000 Gaza buildings remain at risk of collapse, suggesting many more tragedies like Al‑Saada are likely in the coming weeks and months."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260924191107.3.c2b420874c40481c@mg-d1.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Republicans Are Running Out of Gas on Trump’s Iran War",
-   "date": "2026-09-24T12:11-07:00",
-   "url": null,
-   "bullets": [
-    "Republican lawmakers in key House and Senate races are publicly breaking with Trump over the Iran war, citing the national gasoline average of $4.48 and diesel over $6.50 as voter‑pain points.",
-    "The Trump administration is flirting with a 90‑day ban on U.S. diesel exports as a short‑term fix, but analysts say it won’t lower prices and Senate Republicans view it as politically untenable."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260924181447.3.4525754bc916343f@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "No One Should Panic About the NYT Poll in Maine",
-   "date": "2026-09-24T11:14-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/no-one-should-panic-about-the-nyt",
-   "bullets": [
-    "The New York Times/Siena poll shows Democrat Abdul El‑Sayed up 5 points in Michigan, Democrat Chris Pappas up 5 points in New Hampshire, but Republican Susan Collins ahead of Troy Jackson by 3 points in Maine.",
-    "Collins’ lead threatens Democratic Senate hopes: without Maine, Democrats must win three of Texas, Ohio, Iowa and Alaska—states Trump carried in all three elections—to secure a majority.",
-    "Despite the poll, the author argues Democrats shouldn’t panic, suggesting the Maine race isn’t decisive enough to overturn overall Senate prospects."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260924180053.3.0a1ebbd69dc65a04@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Elon Musk Endorsed Socialist Healthcare Before Campaigning Against It",
-   "date": "2026-09-24T11:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/elon-musk-endorsed-socialist-healthcare",
-   "bullets": [
-    "Elon Musk’s America PAC is running ads on Roku and door‑knocking in Maine, accusing Senate candidate Troy Jackson of supporting “government‑run” Medicare‑for‑All and labeling him a socialist, while also targeting former Ohio Senator Sherrod Brown and former Virginia Congresswoman Elaine Luria with similar claims despite neither supporting Medicare‑for‑All but having backed public health insurance options in the past.",
-    "Musk, who once publicly praised government‑run “socialist” healthcare as having majority support, now uses his wealth and platform to attack Democrats and Democratic socialists—Bernie Sanders, Alexandria Ocasio‑Cortez, and Zohran Mamdani—by portraying them as endorsing a socialist agenda that would eliminate private health insurance."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 96,
-  "total": 401
+  "shown": 93,
+  "total": 398
  }
 }
