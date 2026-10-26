@@ -1,28 +1,18 @@
 {
- "updated": "2026-10-25T18:22-07:00",
+ "updated": "2026-10-26T13:02-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The UN‑verified genocide in Sudan’s El Fasher and ongoing Israeli‑Palestinian atrocities highlight a widening humanitarian crisis in Africa and the Middle East (Zeteo).",
-   "Elon Musk’s massive, last‑minute cash infusion into Republican races and his controversial control of critical tech like Starshield are reshaping the 2026 midterms and could backfire on the GOP (The Message Box, Doomberg, The Bulwark).",
-   "Republican campaign tactics are turning increasingly vile, with anti‑Muslim and attack ads targeting candidates like Amy Acton, sparking backlash and venue cancellations for figures such as Vivek Ramaswamy (The Bulwark, Sarah Longwell).",
-   "Democrats see a potential 2026 wave as a pathway to competitive 2028 presidential races, emphasizing grassroots fundraising and Senate flips in key states (The Bulwark, Chris Pappas).",
-   "Paul Krugman warns that persistent inflation, a looming AI‑driven bubble, and rising bond yields could push the Fed into a stagflation trap and trigger a debt crisis (Paul Krugman).",
-   "Historical analyses reveal how past U.S. foreign‑policy decisions, from the 1980s “global war on terror” to current AIPAC influence, continue to shape today’s geopolitical and domestic political battles (Zeteo, The Bulwark)."
+   "The 2026 midterms are shaping up to be a decisive battleground, with Democrats targeting key Senate seats in North Carolina, New Hampshire, and traditionally red states like Ohio and Texas, while Republicans are pouring unprecedented money—especially from Elon Musk—into defending those seats (The Bulwark, The Message Box, Zeteo).",
+   "The narrative of a Democratic wave is fueled by high-profile attack ads and aggressive social‑media tactics, yet polling shows many races remain within the margin of error, turning outcomes into coin flips and underscoring the high downside risk for Republicans (The Bulwark, Zeteo).",
+   "Vivek Ramaswamy’s Ohio campaign has sparked backlash after a disallowed ad attacking a 12‑year‑old rape survivor’s mother, leading venues to refuse hosting him and exposing the GOP’s willingness to use divisive, disallowed messaging (The Bulwark, Sarah Longwell).",
+   "Elon Musk’s $76‑plus million injection into Republican midterm races is a double‑edged sword, potentially galvanizing GOP voters but also risking backlash and a backlash against the party’s perceived reliance on big money (The Bulwark, The Message Box).",
+   "The Democratic strategy hinges on mobilizing grassroots outreach and countering the GOP’s cash advantage, as seen in Jon Ossoff’s call for immediate donations to fund voter outreach in Georgia and Chris Pappas’s push for small‑donor contributions in New Hampshire (The Message Box, Chris Pappas).",
+   "Beyond domestic politics, international tensions—such as the U.S. legal probe into former Trump aide Corey Lewandowski and the ongoing Israeli‑Palestinian conflict—continue to influence public sentiment and could sway voter priorities in the 2026 election (The Bulwark, This Week in Palestine)."
   ],
   "by": "groq",
   "ids": [
-   "20261023013043.3.47a82195bb29d136@mg-d1.substack.com",
-   "20261023022104.3.5c9dc36ee10a8e88@mg-d1.substack.com",
-   "20261023100337.3.44d07d6a6f9ee6f3@mg-d0.substack.com",
-   "20261023103120.3.85b234079db708e9@mg2.substack.com",
-   "20261023112450.3.009082d3b65ae8c2@mg-d1.substack.com",
-   "20261023132849.3.e5bb0c9ad654cc6d@mg-d1.substack.com",
-   "20261023141926.3.8c9eb37e63863e3a@mg2.substack.com",
-   "20261023143535.3.28ed2dbabf13f7a8@mg-d1.substack.com",
-   "20261023160833.3.091ff575a94736e4@mg-d1.substack.com",
-   "20261023193147.3.078724223281dfbd@mg2.substack.com",
    "20261023215341.3.5baf2b5bbc2f268e@mg-d1.substack.com",
    "20261023221932.3.1e4a3ad0ceb528fc@mg2.substack.com",
    "20261023224606.3.6266022661e14d9c@mg-d0.substack.com",
@@ -48,12 +38,128 @@
    "20261025140334.3.433bad644f959a52@mg-d0.substack.com",
    "20261025140337.3.80c0948bfcb35f99@mg2.substack.com",
    "20261025233932.3.65ad4cf4554a5db8@mg2.substack.com",
-   "20261026000234.3.ddcc053dc0c6d5f6@mg2.substack.com"
+   "20261026000234.3.ddcc053dc0c6d5f6@mg2.substack.com",
+   "20261026013039.3.f615e964f0abfee8@mg-d1.substack.com",
+   "20261026103837.3.da359ca134267852@mg-d0.substack.com",
+   "20261026112031.3.6844482644e93c4f@mg2.substack.com",
+   "20261026114946.3.fd829d76a4f9e9a0@mg-d1.substack.com",
+   "20261026133112.3.dc321aaf8d92d5dd@mg-d0.substack.com",
+   "20261026150251.3.048edf08d04e132f@mg-d0.substack.com",
+   "20261026161136.3.6e5840f4feea886a@mg-d0.substack.com",
+   "20261026163212.3.20f1926a820061ab@mg2.substack.com"
   ],
-  "updated": "2026-10-25T18:22-07:00",
+  "updated": "2026-10-26T13:02-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261026163212.3.20f1926a820061ab@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Who’s Right? The Polls or the Vibes?",
+   "date": "2026-10-26T09:32-07:00",
+   "url": null,
+   "bullets": [
+    "The author argues that qualitative 'vibes' suggest a massive Democratic wave due to superior candidate quality, poor economic news for Republicans, and President Biden’s extreme unpopularity.",
+    "Poll data, however, shows many races still within the margin of error, turning the election into a series of coin flips despite Democratic advantages.",
+    "The piece warns of high downside risk for Republicans while warning that the potential Democratic surge could be as dramatic as a 'Hulk Smash Kaiju Tsunami.'"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261026161136.3.6e5840f4feea886a@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Lula’s Incredible Comeback Shows How Democrats Can Win in 2028",
+   "date": "2026-10-26T09:11-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/lulas-incredible-comeback-shows-how",
+   "bullets": [
+    "After trailing by 2 million votes in Brazil’s first round, Lula reshuffled his team and hired 41‑year‑old Governor Rafael Fonteles, who introduced an aggressive social‑media strategy and selfie videos for the octogenarian candidate.",
+    "Fonteles’ bare‑bones, phone‑held videos focusing on policies like ending the 44‑hour work week and free weekend buses resonated with younger voters, helping Lula close the gap against far‑right candidate Flavio Bolsonaro’s 47% lead.",
+    "The author argues Lula’s comeback shows that Democrats can win in 2028 by modernising outreach, using authentic, low‑production content to make voters pay attention to substantive policy messages."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261026150251.3.048edf08d04e132f@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "This race has changed. Let’s talk about it.",
+   "date": "2026-10-26T08:02-07:00",
+   "url": "https://roycoopernc.substack.com/p/this-race-has-changed-lets-talk-about",
+   "bullets": [
+    "David Plouffe, former Obama strategist, warned that North Carolina is a must‑win Senate race for Democrats aiming to retake the Senate majority.",
+    "Historically tight, the seat was last won by a Democrat in 2008 and by a narrow 10,000‑vote margin in 2016, so complacency could cost it.",
+    "Campaign manager Jeff Allen urges donors to contribute immediately, saying the final eight days will focus on voter outreach and organizing to secure the margin."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261026133112.3.dc321aaf8d92d5dd@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Rallies Have Become What He Covets: Ass",
+   "date": "2026-10-26T06:31-07:00",
+   "url": null,
+   "bullets": [
+    "Trump’s post‑2024 rally tour is marked by exhaustion and repetitive promises, now framed as conditional rewards like $5,000 checks for adults and localized projects that only materialize if Republicans win the midterms, many of which are unlikely or already progressing regardless of election outcomes.",
+    "In Serbia, long‑time nationalist leader Aleksandar Vučić was ousted by a student‑driven party, a “tectonic blow” to the Milošević‑era order, while Brazil narrowly re‑elected leftist Lula over Bolsonaro’s son, highlighting a regional shift away from authoritarian incumbents."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261026114946.3.fd829d76a4f9e9a0@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Oligarchs Lose a Big One",
+   "date": "2026-10-26T04:49-07:00",
+   "url": "https://paulkrugman.substack.com/p/the-oligarchs-lose-a-big-one",
+   "bullets": [
+    "Krugman contrasts Meta’s alleged bias with Elon Musk’s overt support for Vladimir Putin, arguing both tech oligarchs influence politics to the right’s advantage"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261026112031.3.6844482644e93c4f@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Trump: I ‘Don’t Give a Damn’ About Gas Prices – But Obama Knows Voters Do",
+   "date": "2026-10-26T04:20-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-i-dont-give-a-damn-about-gas",
+   "bullets": [
+    "Trump told a Georgia rally he’s making \"hundreds of billions, trillions of dollars\" from oil deals and doesn’t care that gas prices are higher for Americans, citing the Iran war as the cause of higher pump prices.",
+    "Obama campaigned in Ohio and Michigan, warning that voters care about gas prices and criticizing Trump’s alleged profiteering, while also mocking Trump’s White House décor choices.",
+    "Brazil’s runoff saw Lula defeat Flávio Bolsonaro amid chaos and a delayed concession, and the newsletter notes escalating tensions in the Iran‑Israel conflict ahead of Israel’s election."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261026103837.3.da359ca134267852@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "The Battle for the House Moves into Deep Trump Country",
+   "date": "2026-10-26T03:38-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/the-battle-for-the-house-moves-into",
+   "bullets": [
+    "Democrats are on track for their strongest midterms since 2006, but the focus has been on high‑profile Senate races featuring candidates like James Talarico, Abdul El‑Sayed, Sherrod Brown, Mary Peltola, Roy Cooper, Ken Paxton, Susan Collins and Roger Marshall.",
+    "Pfeiffer argues that House races, being more sensitive to the national mood and covering a broader demographic and geographic sample, are a better barometer for future political trends than the limited Senate contests.",
+    "He notes the latest shift: the House battle has entered deep Trump‑leaning districts, where Republicans are now scrambling to defend seats that seemed uncompetitive just weeks earlier."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261026013039.3.f615e964f0abfee8@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "South Carolina? Florida? Mississippi?! Democrats Test the Limits of a Blue Wave | Bulwark on Sunday",
+   "date": "2026-10-25T18:30-07:00",
+   "url": null,
+   "bullets": [
+    "Bill Kristol and Lauren Egan analyze whether Democrats can realistically flip Senate seats in traditionally red states Mississippi, South Carolina, and Florida.",
+    "They assess the expanding Senate map, highlighting surprising opportunities for Democrats but caution that optimism may outpace the political realities in those deep-red states."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261026000234.3.ddcc053dc0c6d5f6@mg2.substack.com",
    "newsletter": "Zeteo",
@@ -5319,158 +5425,10 @@
     "The newsletter promotes a Bulwark LIVE tour in October with guests like Bakari Sellers, Pete Buttigieg, and Mark Hertling, and notes that “How to Eat an Elephant” hit #2 on the NYT bestseller list, surpassing Ted Cruz."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260925194042.3.7a919ebdd92aa00f@mg-d0.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A Bipartisan Bet on Bringing Movies Back to America",
-   "date": "2026-09-25T12:40-07:00",
-   "url": null,
-   "bullets": [
-    "A bipartisan group of senators and representatives introduced a federal film tax credit offering a 20% credit on payroll compensation, stackable with state incentives and potentially rising to 30% with bonuses for multi‑state spending and disaster‑area shoots.",
-    "The credit applies to both above‑the‑line and below‑the‑line wages but excludes profit participation, aiming to keep star salaries taxable in the U.S. and reshore jobs, with Treasury overseeing implementation and no content‑based restrictions.",
-    "Paramount’s recent settlement obligates it to spend an additional $1.5 billion in U.S. production over five years, and if the federal credit passes, U.S. production could rise to 20‑30% of its output, or 40% with complementary state credits."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260925185811.3.275f055991f57af0@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "A few things that may convince you",
-   "date": "2026-09-25T11:58-07:00",
-   "url": "https://roycoopernc.substack.com/p/a-few-things-that-may-convince-you",
-   "bullets": [
-    "Republican figures including Trump, Vice President Harris, and Stephen Miller are personally targeting Roy Cooper, with GOP spending over $100 million to defeat him in North Carolina.",
-    "Cooper says a recent poll shows his narrow lead has shrunk to a statistical tie as GOP super PAC attack ads increase, threatening Democratic Senate chances.",
-    "He urges a $7 donation before Wednesday’s fundraising deadline to counter GOP spending, protect his lead, and help flip North Carolina for the Senate."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260925180056.3.f074b21f9672b81d@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "*TICKETS* Join Mehdi for the Premiere of Zeteo’s New AIPAC Documentary in Chicago",
-   "date": "2026-09-25T11:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/tickets-join-mehdi-for-the-premiere",
-   "bullets": [
-    "Zeteo and IMEU Policy Project will premiere the investigative documentary ‘Night Flower: Inside AIPAC’s Fight for Influence’ in Chicago on Oct. 20, examining AIPAC’s political sway and election impact.",
-    "The post‑screening panel includes Congresswoman Delia Ramirez, Zeteo founder Mehdi Hasan, Pulitzer‑finalist reporter Dion Nissenbaum, IMEU director Margaret DeReus, and commentator Kat Abughazaleh, with a live audience Q&A."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260925165335.3.5495ceef1ea4ef87@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "You guys are the best.",
-   "date": "2026-09-25T09:53-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark team is traveling to Ohio for a live show supporting the Haitian community in Springfield amid Trump administration deportations, with venue size expanding due to high attendance.",
-    "Sarah Longwell’s book *How to Eat an Elephant: One Voter at a Time* debuted at #2 on the New York Times bestseller list and stayed there a second week, while readers are actively leaving reviews on Amazon and Goodreads.",
-    "An AMA with Longwell is scheduled for Friday, October 2 at 2 p.m. EDT, inviting audience questions about the book and its ideas."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260925150403.3.b033fa77e49686e9@mg-d0.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "The ‘End Times’ Fascists Want Doomsday. Can They Be Stopped?",
-   "date": "2026-09-25T08:04-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/naomi-klein-astra-taylor-fascism",
-   "bullets": [
-    "Naomi Klein and Astra Taylor argue that a coalition of billionaires, right‑wing politicians, and religious fundamentalists is driving a new era of fascism that threatens ecological and human survival, citing the Trump administration’s Gaza reconstruction plan and ongoing genocide.",
-    "They warn that unregulated artificial intelligence could become as toxic as AIPAC money, while centrist leaders like Chuck Schumer enable fascist gains, and propose Zohran Mamdani’s 2025 NYC mayoral campaign as a practical blueprint for resistance."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260925132639.3.cf77b73e6fa636e0@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why We’re Going to Springfield",
-   "date": "2026-09-25T06:26-07:00",
-   "url": null,
-   "bullets": [
-    "White House finally allowed reporters from Politico, CNN, and MSNOW to enter the complex after a court order, but CNN and MSNOW staff were still denied entry to President Trump’s state dinner for Chinese President Xi Jinping.",
-    "Bill Kristol is hosting a Bulwark LIVE benefit in Dayton to raise money for the Haitian Support Center in Springfield, having already raised $85,000 and selling over a thousand tickets for the event."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260925124700.3.b1a4e7edb94cd93c@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Two Screenshots, Minutes Apart",
-   "date": "2026-09-25T05:47-07:00",
-   "url": "https://paulkrugman.substack.com/p/two-screenshots-minutes-apart",
-   "bullets": [
-    "Two Screenshots, Minutes Apart"
-   ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20260925112457.3.1dd479f1cc3410dc@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Netanyahu Slams Mamdani and Piker Before Nearly Empty UN",
-   "date": "2026-09-25T04:24-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/netanyahu-slams-mamdani-and-piker",
-   "bullets": [
-    "Netanyahu’s UN General Assembly speech attacked New York Mayor Zohran Mamdani and left‑wing streamer Hasan Piker, falsely claiming Piker said “America deserved 9/11” and accusing them of praising Hamas supporters.",
-    "Piker responded with a brief, pointed rebuttal, noting he had never endorsed 9/11 and had clarified his remarks in a prior Zeteo interview.",
-    "The newsletter also flags bizarre Trump‑linked political ads that may violate taxpayer‑funding rules and mentions ongoing Iran war developments."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260925103130.3.172139b5b1ba31e0@mg2.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Don’t boil the ocean: Reach passive positives",
-   "date": "2026-09-25T03:31-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/dont-boil-the-ocean-reach-passive",
-   "bullets": [
-    "The 2026 fall vaccine rollout is lagging due to limited outreach budgets and public fatigue, so the author urges targeting “passive positives” – people with questions or logistical barriers – rather than trying to reach everyone.",
-    "In a recent subscriber webinar, Dr. David Higgins and Dr. Ben Rosenberg identified the size of the passive positive population in the U.S. and offered concrete steps for clinicians, pharmacists, school nurses, community health workers, and public health departments to engage them.",
-    "The newsletter includes answers to the top eight audience questions from the webinar, focusing on practical strategies to improve vaccine access for this group."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260925100132.3.52ac1b83d00394b7@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Day Off",
-   "date": "2026-09-25T03:01-07:00",
-   "url": "https://paulkrugman.substack.com/p/day-off-a3d",
-   "bullets": [
-    "Krugman announces he's taking a day off and will publish a primer on interest rates tomorrow.",
-    "He is uncertain whether a podcast will be released tomorrow."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260925013055.3.84a2fc972608c9de@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "The Bulwark’s Cruelest Assignment Yet: 6 Hours of Trump TV",
-   "date": "2026-09-24T18:30-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark’s “Cruelest Assignment Yet” has Brendan Hartnett spend six hours watching the new White House “Trump TV” livestream, which loops Trump footage and attracted only a tiny audience.",
-    "The episode details the chaos after CNN, Politico and MS NOW were temporarily banned then reinstated at the White House, yet CNN still lacks assurance of re‑entry into the TV pool.",
-    "It also critiques right‑wing media’s failed attempt to create its own press pool, citing technical glitches, missing pool protocols, and footage that appears to follow Trump’s motorcade too closely."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 93,
-  "total": 398
+  "shown": 95,
+  "total": 395
  }
 }
