@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T19:11-07:00",
+ "updated": "2026-10-27T12:30-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -51,6 +51,182 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261027191547.3.26b493c079486b89@mg-d0.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Democrats Get Ready for the Sore-Loser-in-Chief",
+   "date": "2026-10-27T12:15-07:00",
+   "url": null,
+   "bullets": [
+    "House Democrats have mobilized nearly 300 staffers to monitor 60‑70 key districts, preparing to document and contest any Republican or federal interference such as ICE presence at polls.",
+    "Democratic lawyer Marc Elias warns the Trump administration will employ a “flood‑the‑zone” legal strategy post‑election, but says the party is ready to defeat those lawsuits.",
+    "The Justice Department has filed a lawsuit in Alaska over the Dan Sullivan name confusion, seeking to delay certification if the margin is narrow, a move supported by the DSCC and Peltola campaign."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027163049.3.87f4d578be847236@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Nationalize SpaceX",
+   "date": "2026-10-27T09:30-07:00",
+   "url": null,
+   "bullets": [
+    "I’ve been making the case for nationalizing SpaceX for years, but I’ve never put the arguments all in one place. That’s what we’re doing today. Let’s stipulate that this newsletter won’t have all the answers. It’s a starting point for deepe…",
+    "SpaceX is a national security vulnerability. Something must be done about it. Two things up front: First, my headline is “Nationalize SpaceX,” but that’s shorthand. I don’t know that we need to “nationalize” the company, per se. Maybe we do…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261027151613.3.262d979837ce088b@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "The UAE Helped Fuel the Sudan Genocide. Now One of Its Diplomats Wants To Lead the United Nations",
+   "date": "2026-10-27T08:16-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-uae-helped-fuel-the-sudan-genocide",
+   "bullets": [
+    "Lana Nusseibeh, former UAE minister and UN representative, is running to become the UN Secretary‑General, potentially becoming the first woman, Muslim, and Palestinian‑descended holder of the post.",
+    "She has long denied or downplayed the UAE’s role in the Sudan genocide, a fact that critics argue would undermine UN credibility if she is confirmed.",
+    "The Trump administration opposes her candidacy, and many other candidates are believed to be against her, raising concerns about a possible UN leadership misstep."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027143539.3.46ef0216b50c66dd@mg2.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Former Collins Voters Explain Why She’s Tough to Beat—And Has to Go",
+   "date": "2026-10-27T07:35-07:00",
+   "url": null,
+   "bullets": [
+    "Susan Collins, a Republican senator from Maine, has repeatedly survived tough re-election battles, leveraging her moderate stance and bipartisan appeal to maintain a strong voter base.",
+    "In 2020, a group of Mainers who voted for both Joe Biden and Susan Collins revealed that Collins’ ability to win hinges on her willingness to break with party lines on key issues, earning her respect among independents and Democrats.",
+    "The newsletter suggests that while Collins remains a formidable incumbent, the political climate is shifting, and her future electoral prospects may face new challenges from both sides of the aisle."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027140015.3.d01134feb6a38536@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Are you with me?",
+   "date": "2026-10-27T07:00-07:00",
+   "url": "https://roycoopernc.substack.com/p/are-you-with-me",
+   "bullets": [
+    "Governor Josh Stein, Justice Anita Earls, and over a thousand voters attended a Get Out The Vote concert featuring North Carolina artists Davie Circle, Karly Hartzman, Tift Merritt, Hiss Golden Messenger, and Watchhouse x Viv & Riley.",
+    "With only seven days to Election Day, the newsletter urges North Carolinians to vote, donate, or volunteer to support a campaign focused on reducing costs and bringing common sense to Washington."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027132556.3.d0fd77f1ab3053a3@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Wave Goodbye to a Republican Congress",
+   "date": "2026-10-27T06:25-07:00",
+   "url": null,
+   "bullets": [
+    "Can Bibi Netanyahu hang on? Israel’s six-term prime minister faces a stiff challenge in Israel’s elections today. Polls show the bloc led by Netanyahu’s Likud party neck and neck with the bloc led by former military chief Gadi Einsenkot’s Y…",
+    "We’re a week out from election day, and things continue to look good. In fact, I’ve got to say, they’re looking a little bit better every day. The early vote— [I INTERRUPT THIS NEWSLETTER TO KNOCK ON WOOD, TOSS SALT OVER MY SHOULDER, AND, Y…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261027113611.3.30cfef0913098ff4@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Bird flu in mink, measles double last year, SNAP at an all time low.",
+   "date": "2026-10-27T04:36-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/bird-flu-in-mink-measles-double-last",
+   "bullets": [
+    "Happy Halloween week! Which means tiny goblins running around (and, to fellow parents—there are ways [ https://substack.com/redirect/38adb55e-591d-495c-ac08-d7944629bf0a?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] to…",
+    "Here’s what’s happening in the world of health: measles rates are now more than double last year’s, flu continues to make its mark early (including a concerning bird flu outbreak), and CDC expects a winter about as heavy as last season’s fo…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261027112701.3.12e37812741f7d56@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Donald Trump Is Newly Accused of Rape – and Epstein Allegedly Helped 👀",
+   "date": "2026-10-27T04:27-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/donald-trump-is-newly-accused-of",
+   "bullets": [
+    "A House Judiciary Committee report alleges Donald Trump actively participated in Jeffrey Epstein’s 1990s sexual abuse network, citing five of eleven women who directly accuse him of rape or assault in Epstein‑linked settings such as beauty pageants.",
+    "The report claims Trump and Epstein collaborated as “hunting grounds,” using high‑profile events to prey on young women, while Trump denies any wrongdoing.",
+    "Zeteo also shares an exclusive Arab‑American poll on the 2028 election, midterms, and Israel‑Palestine issues, plus updates on the Iran war and Israel’s upcoming elections."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027105235.3.90887433c6cd812e@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Why Trump’s Rally Tour Is a Gift to Democrats",
+   "date": "2026-10-27T03:52-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/why-trumps-rally-tour-is-a-gift-to",
+   "bullets": [
+    "Trump’s 2026 midterm approval is the lowest for any president entering a midterm since Harry Truman, yet he’s holding 21 rallies in October, contrary to the usual strategy of unpopular incumbents staying out of the news.",
+    "Pfeiffer argues Trump’s rally tour, meant to energize the GOP base, is unlikely to boost turnout and may actually damage Republican prospects by keeping the unpopular president in the spotlight during an election where price concerns dominate.",
+    "He notes Trump’s historic strength was mobilizing voters when his name was on the ballot, a dynamic he can’t replicate now, making the rally blitz a strategic misfire that benefits Democrats."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027104341.3.db9cb20a544061c0@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Trump Doesn’t Give a Damn About Your Problems",
+   "date": "2026-10-27T03:43-07:00",
+   "url": "https://paulkrugman.substack.com/p/trump-doesnt-give-a-damn-about-your",
+   "bullets": [
+    "Trump’s war with Iran has lifted refined gasoline and diesel prices by about $75 per barrel, costing U.S. consumers roughly $560 billion annually, while oil firms profit billions and gave 88% of their 2024 campaign donations to Republicans.",
+    "The surge in energy prices, now back to Biden‑era peaks, undermines Trump’s campaign promise to halve fuel costs within a year and fuels Republican poll declines ahead of next Tuesday’s election."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027103114.3.dd5e00aff0114879@mg-d1.substack.com",
+   "newsletter": "Brendan Hartnett (The Bulwark)",
+   "pub": "thebulwark",
+   "subject": "Hegseth Needs More T—Poll Shows He’s No Male Role Model",
+   "date": "2026-10-27T03:31-07:00",
+   "url": null,
+   "bullets": [
+    "Only 28% of American adults—and just 18% of 18‑to‑29‑year‑olds—see Defense Secretary Pete Hegseth as a strong male role model, placing him second‑worst among nine surveyed public figures, with Trump rated lowest at -18 points; top figures were McConaughey (+33), Obama (+28) and LeBron James (+25).",
+    "The poll found 68% of Americans never bet on sports, yet 44% think legalized sports gambling harms sports, and 36% support tighter regulation of prediction markets, with a partisan split favoring more regulation among Harris voters (45%) versus Trump voters (33%).",
+    "A majority (51%) oppose transgender athletes competing according to gender identity, while only 31% correctly estimate that fewer than 1% of NCAA athletes are transgender, despite NCAA data showing virtually zero trans participants after recent restrictions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027090113.3.3ec9d0a762b95712@mg2.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Tough Comp",
+   "date": "2026-10-27T02:01-07:00",
+   "url": "https://open.substack.com/pub/doomberg/p/tough-comp",
+   "bullets": [
+    "The Doomberg newsletter highlights how Russia’s massive missile and drone campaign against Ukraine’s energy grid has only recently caused severe damage, underscoring the difficulty of delivering decisive knockout blows from long‑range standoff weapons.",
+    "It then notes a Wall Street Journal report that U.S. warships in the Arabian Sea are loading large stocks of standoff land‑attack and bunker‑buster missiles in preparation for potential escalation against Iran, questioning whether such limited assets can achieve a comparable decisive effect.",
+    "The author suggests a direct open‑source comparison of Russia‑Ukraine and U.S.-Iran scenarios will reveal stark numbers that make a swift, overwhelming strike against Iran seem implausibly effective."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027090106.3.3203d7f79675569f@mg2.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "John Sununu’s real record:",
+   "date": "2026-10-27T02:01-07:00",
+   "url": "https://chrispappasnh.substack.com/p/this-is-who-john-sununu-really-is",
+   "bullets": [
+    "John Sununu, Trump‑endorsed Senate candidate, is accused of lying about a Qatar trip linked to Jeffrey Epstein and of profiting from Wall Street bailouts and Big Pharma after voting against drug‑price cuts.",
+    "He allegedly led efforts to privatize Social Security, is backed by dark‑money super PACs with an $800 million war chest, and is portrayed as selling out New Hampshire’s voters."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261027013039.3.c15ce7dfad8e5cd4@mg2.substack.com",
    "newsletter": "George Conway - The Bulwark",
@@ -5314,147 +5490,10 @@
     "Jensen Huang argues AI may render basic math teaching obsolete, a claim the hosts warn could erode essential foundational skills."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260926182216.3.eed50d39eba38144@mg-d0.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "To be honest:",
-   "date": "2026-09-26T11:22-07:00",
-   "url": "https://ossoff.substack.com/p/to-be-honest",
-   "bullets": [
-    "Ossoff argues the upcoming midterm elections are the most consequential in modern history, claiming they will decide whether Trump’s alleged corruption is stopped and healthcare restored.",
-    "He urges Georgia voters to donate $5 to his campaign, saying a Republican win would prevent a Democratic Senate majority and any accountability for Trump.",
-    "Ossoff frames the elections as a decisive battle against a combined political, economic, and moral crisis, urging immediate civic action."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260926173032.3.7cb4713802233377@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Inside the Strange CIA Briefing That Sent Europe Into a Panic",
-   "date": "2026-09-26T10:30-07:00",
-   "url": null,
-   "bullets": [
-    "The CIA briefing warned of a surge in Russian sabotage and state terrorism, prompting European panic but later downgraded, yet the threat of mass‑casualty attacks remains real.",
-    "Polymorphopoulos and Weiss argue Europe must strengthen counter‑sabotage measures and clarify NATO’s Article 5 response to deter Russia’s testing of Western resolve.",
-    "They caution that Russia’s escalating covert operations could trigger a dangerous incident even without a full invasion, urging proactive defense coordination."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260926170208.3.432b50dc87c1599e@mg-d0.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine: Israel Drops ‘Skunk Water’ on Gaza and Demolishes Palestinian Homes in the West Bank",
-   "date": "2026-09-26T10:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israel-drops",
-   "bullets": [
-    "Israeli Prime Minister Benjamin Netanyahu faced a mass walkout and street protests during his UN General Assembly address, highlighting his growing isolation amid war‑crime accusations.",
-    "Israeli forces reportedly dropped “skunk water” on Gaza residents, killed children, and demolished about 180 Palestinian homes in the West Bank, continuing the violence as the war enters its third year.",
-    "Israeli President pardoned a soldier who killed an incapacitated Palestinian attacker, a move criticized by Palestinians and international observers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260926150455.3.dbb3394e7b23745e@mg-d1.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "My decision",
-   "date": "2026-09-26T08:04-07:00",
-   "url": "https://roycoopernc.substack.com/p/my-decision",
-   "bullets": [
-    "A recent poll shows the North Carolina Senate race is statistically tied, with GOP super PACs spending over $100 million to try to defeat Democrat Roy Cooper and keep Senate control.",
-    "Cooper criticizes opponent Michael Whatley for ties to Big Oil, appointing a convicted child sex offender to party leadership, and being President‑backed after Thom Tillis withdrew.",
-    "He urges supporters to donate immediately to sustain the grassroots campaign and flip the seat, noting the $100 million GOP dark‑money surge threatens his narrow lead."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260926134132.3.f0c82f15c15fb8b2@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Republicans Are Suddenly Fighting for Their Lives in Ohio (with Andrew Tobias)",
-   "date": "2026-09-26T06:41-07:00",
-   "url": null,
-   "bullets": [
-    "Ohio, once the nation’s top swing state, has turned solidly red with Trump winning by 11 points in 2024, yet this cycle it’s unexpectedly competitive due to a single dominant local issue.",
-    "Signal Ohio reporter Andrew Tobias joins Sarah Longwell to dissect the key players and dynamics shaping the Ohio race, explaining why Republicans now feel their political survival is at stake.",
-    "The episode also promotes an upcoming AMA on Oct 2 and offers premium, ad‑free access to the full discussion for subscribers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260926130323.3.b01212c024bec928@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Here’s the ‘Pathetic’ Reason Trump Is Running His Corrupt ‘Love Me’ Ads",
-   "date": "2026-09-26T06:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-love-me-ads-pathetic-reason",
-   "bullets": [
-    "The White House is airing taxpayer‑funded TV ads, including a “Love Me” spot denouncing “communists,” which watchdogs and Democrats say violate federal anti‑propaganda rules.",
-    "GOP operatives describe the campaign as “pathetic,” noting Trump’s massive personal war chest makes the ads unnecessary, yet the administration plans additional ads about a plot against Maduro and a Mount Rushmore PSA.",
-    "Officials label the ads “public service announcements,” insisting they are not campaign ads, while critics argue they serve to boost Trump’s image ahead of the 2026 election cycle."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260926130256.3.d046c186c9040509@mg-d1.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“In nature, the poison and the remedy are often found side by side”",
-   "date": "2026-09-26T06:02-07:00",
-   "url": "https://post.substack.com/p/in-nature-the-poison-and-the-remedy",
-   "bullets": [
-    "Jonah Weiner recalls a 2010 Rolling Stone contract that paid him $90,000 a year for 35,000 words, a rarity now, and laments how celebrity profiles have shrunk to Q&A and videos, losing depth and craft.",
-    "Pascal Baudar, a former tech creative director who lost his fortune in the dot‑com crash, now teaches foraging and wild‑crafted food, showing how poison and remedy coexist in nature and how Michelin‑star chefs use his wild‑clay ceramics to create a “full circle” dining experience."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260926123226.3.d0db8da46ed3b2a7@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "When Did Voters Stop Caring About Policy?",
-   "date": "2026-09-26T05:32-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/when-did-voters-stop-caring-about",
-   "bullets": [
-    "Pfeiffer argues that voters aren’t driven by detailed policy outcomes but by a basic belief that a candidate will improve their personal lives, regardless of specific promises.",
-    "He notes Democrats feel punished for focusing on policy, citing Biden’s unrewarded achievements and voters’ willingness to back Trump despite empty rhetoric.",
-    "Pfeiffer suggests the next Democratic president will be consumed with undoing Trump-era damage, implying policy relevance remains secondary to perceived personal impact."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260926113133.3.bf4a852590b72a3d@mg-d1.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Shuts Out the Press, ICE Opens Fire, and We Stand with Springfield",
-   "date": "2026-09-26T04:31-07:00",
-   "url": null,
-   "bullets": [
-    "Will Saletan reports Republicans cheering Trump’s ban on White House reporters, while Adrian Carrasquillo details an ICE agent’s fatal shooting in Austin, Texas.",
-    "Brendan Hartnett reviews six hours of Trump‑TV programming, and Cathy Young exposes white‑nationalist language surfacing in State Department communications.",
-    "The Bulwark’s Dayton event raised nearly $250,000 for the Haitian Support Center after over 1,000 attendees rallied to support Springfield’s Haitian community."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260926103304.3.5e054e51997e34b6@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Another Day Off",
-   "date": "2026-09-26T03:33-07:00",
-   "url": "https://paulkrugman.substack.com/p/another-day-off-904",
-   "bullets": [
-    "Krugman announces a brief hiatus, promising a detailed primer on interest rates in his next newsletter."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 94,
-  "total": 397
+  "shown": 95,
+  "total": 400
  }
 }
