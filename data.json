@@ -1,23 +1,17 @@
 {
- "updated": "2026-10-26T13:02-07:00",
+ "updated": "2026-10-26T19:11-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms are shaping up to be a decisive battleground, with Democrats targeting key Senate seats in North Carolina, New Hampshire, and traditionally red states like Ohio and Texas, while Republicans are pouring unprecedented money—especially from Elon Musk—into defending those seats (The Bulwark, The Message Box, Zeteo).",
-   "The narrative of a Democratic wave is fueled by high-profile attack ads and aggressive social‑media tactics, yet polling shows many races remain within the margin of error, turning outcomes into coin flips and underscoring the high downside risk for Republicans (The Bulwark, Zeteo).",
-   "Vivek Ramaswamy’s Ohio campaign has sparked backlash after a disallowed ad attacking a 12‑year‑old rape survivor’s mother, leading venues to refuse hosting him and exposing the GOP’s willingness to use divisive, disallowed messaging (The Bulwark, Sarah Longwell).",
-   "Elon Musk’s $76‑plus million injection into Republican midterm races is a double‑edged sword, potentially galvanizing GOP voters but also risking backlash and a backlash against the party’s perceived reliance on big money (The Bulwark, The Message Box).",
-   "The Democratic strategy hinges on mobilizing grassroots outreach and countering the GOP’s cash advantage, as seen in Jon Ossoff’s call for immediate donations to fund voter outreach in Georgia and Chris Pappas’s push for small‑donor contributions in New Hampshire (The Message Box, Chris Pappas).",
-   "Beyond domestic politics, international tensions—such as the U.S. legal probe into former Trump aide Corey Lewandowski and the ongoing Israeli‑Palestinian conflict—continue to influence public sentiment and could sway voter priorities in the 2026 election (The Bulwark, This Week in Palestine)."
+   "The GOP’s internal fractures—exemplified by far‑right club splits, anti‑Muslim ad scandals, and Trump‑aligned candidates floundering over controversial ads—are fueling a Democratic wave that could reshape the Senate and House in 2026 (The Bulwark, Zeteo, The Message Box).",
+   "Democrats are capitalizing on the GOP’s turmoil, with aggressive fundraising pushes in New Hampshire, North Carolina, and Ohio, and a strategic focus on flipping deep‑red Senate seats in Mississippi, South Carolina, and Florida (The Bulwark, The Message Box).",
+   "AIPAC’s influence is under intense scrutiny, from a whistleblower documentary to congressional calls for a foreign‑agent investigation, highlighting growing bipartisan concern over pro‑Israel lobbying (Mehdi Unfiltered, Zeteo).",
+   "Middle‑East conflict remains a flashpoint, as Israel’s election politics marginalize Palestinian citizens, while U.S. lawmakers grapple with aid, anti‑Muslim rhetoric, and calls to curb weapons shipments (Zeteo, The Bulwark).",
+   "Economic anxieties—rising gas prices, inflation risks, and looming debt crises—are dominating the political narrative, with Trump dismissing fuel costs and Krugman warning of stagflation and a potential AI‑driven bubble (Paul Krugman, First Draft | Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20261023215341.3.5baf2b5bbc2f268e@mg-d1.substack.com",
-   "20261023221932.3.1e4a3ad0ceb528fc@mg2.substack.com",
-   "20261023224606.3.6266022661e14d9c@mg-d0.substack.com",
-   "20261024000050.3.0726a870094a938d@mg2.substack.com",
-   "20261024010045.3.ffe55d824a5ba32f@mg-d1.substack.com",
    "20261024090202.3.475311b33df96940@mg2.substack.com",
    "20261024100113.3.26dc2fe465e8cb00@mg-d0.substack.com",
    "20261024103035.3.bc5c847bfdb72e87@mg2.substack.com",
@@ -46,12 +40,86 @@
    "20261026133112.3.dc321aaf8d92d5dd@mg-d0.substack.com",
    "20261026150251.3.048edf08d04e132f@mg-d0.substack.com",
    "20261026161136.3.6e5840f4feea886a@mg-d0.substack.com",
-   "20261026163212.3.20f1926a820061ab@mg2.substack.com"
+   "20261026163212.3.20f1926a820061ab@mg2.substack.com",
+   "20261026210058.3.2d93045183ff3010@mg2.substack.com",
+   "20261026235208.3.e6c2a6594e04602d@mg2.substack.com",
+   "20261027010054.3.3369d43f64989553@mg-d0.substack.com",
+   "20261027010101.3.bfd0f55eb231630a@mg2.substack.com",
+   "20261027013039.3.c15ce7dfad8e5cd4@mg2.substack.com"
   ],
-  "updated": "2026-10-26T13:02-07:00",
+  "updated": "2026-10-26T19:11-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261027013039.3.c15ce7dfad8e5cd4@mg2.substack.com",
+   "newsletter": "George Conway - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "George Conway Is Sickened by What Trump and Vance Have Become",
+   "date": "2026-10-26T18:30-07:00",
+   "url": null,
+   "bullets": [
+    "Conway and Longwell argue Trump’s erratic conduct and broken economic pledges are alienating voters, who feel duped by his promises and personal attacks.",
+    "Longwell cites focus‑group data showing Vivek Ramaswamy’s harsh criticism of Michigan health official Amy Acton backfired, deepening GOP’s moral decline.",
+    "They claim the GOP’s collapse creates a massive opening for Democrats in the upcoming midterm elections."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027010101.3.bfd0f55eb231630a@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "What It’s Like to Be a Palestinian Citizen of Israel During This Racist Israeli Election",
+   "date": "2026-10-26T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/heres-what-its-like-as-a-palestinian",
+   "bullets": [
+    "Palestinian citizens of Israel, 16% of eligible voters, view the 2024 election as existential, fearing that both Netanyahu’s bloc and the opposition will continue policies that marginalize them.",
+    "The campaign focuses on party blocs, ultra‑Orthodox conscription, and Netanyahu’s fate, but largely ignores how the outcome will affect Palestinians living from the River to the Sea."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027010054.3.3369d43f64989553@mg-d0.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "What happens on October 29th",
+   "date": "2026-10-26T18:00-07:00",
+   "url": "https://chrispappasnh.substack.com/p/what-happens-on-october-29th",
+   "bullets": [
+    "The campaign has until October 29 to fund its final TV ads in New Hampshire, needing $500,000 but currently $276,850.87 short with four days left",
+    "Opponent and dark‑money groups are spending three times the campaign’s amount, with GOP candidate John Sununu leading polls after $65 million in spending",
+    "Because 90% of New Hampshire voters vote on Election Day and there’s no early voting, the final TV push is crucial to reach voters before the deadline"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261026235208.3.e6c2a6594e04602d@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A Right-Wing Men’s Club Cracks Up Over Israel—and Trump",
+   "date": "2026-10-26T16:52-07:00",
+   "url": null,
+   "bullets": [
+    "The secretive far‑right Old Glory Club, claiming hundreds of members and 40 chapters, expelled two chapters after a clash over its stance on Trump and Israel, exposing internal fractures.",
+    "Critics, including Canada‑based far‑right X user ‘Captive Dreamer,’ mocked the split as evidence that no right‑wing group can stay above the GOP’s ongoing war over ‘groyperism.’",
+    "The dispute highlights the club’s paradox: a seemingly whimsical, LARP‑like organization with ominous ambitions to coordinate far‑right men in a governmental collapse."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261026210058.3.2d93045183ff3010@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "This Congresswoman Says Democrats Should Do ‘Everything’ to Investigate AIPAC",
+   "date": "2026-10-26T14:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-congresswoman-says-democrats",
+   "bullets": [
+    "Rep. Delia Ramirez (D‑Ill.) urges Democrats, if they regain Congress, to investigate AIPAC’s foreign‑agent status after a documentary exposed its influence tactics",
+    "Ramirez promotes her bill to block weapons shipments to Israel and ties AIPAC’s role to the 2028 Democratic primary, claiming a pro‑peace, anti‑AIPAC Congress is imminent",
+    "She also introduces the ‘Reimaging Safety Act’ to abolish ICE and CBP and replace DHS with a Department of Community Safety"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261026163212.3.20f1926a820061ab@mg2.substack.com",
    "newsletter": "JVL - The Bulwark",
@@ -5383,52 +5451,10 @@
     "Krugman announces a brief hiatus, promising a detailed primer on interest rates in his next newsletter."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260926004037.3.1abf0fdfa354f720@mg-d0.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "McConnell’s Corpse Casts Deciding Vote on Iran War (w/ Alex Wagner)",
-   "date": "2026-09-25T17:40-07:00",
-   "url": null,
-   "bullets": [
-    "Trump claimed at a state dinner that China is supplying Iran with drone and missile guidance parts used to target U.S. soldiers, prompting Senate Republicans to block a vote to end the war before the midterms.",
-    "Alex Wagner’s new book \"The Steal\" examines the origins of today’s supermajority Supreme Court and warns Republicans may attempt to seize another seat in the lame‑duck Congress.",
-    "The episode also discusses how election deniers plan to contest November results and includes Tim Miller’s take on GOP candidates evading responsibility for the Iran war."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260926000146.3.c99e9edc3cdf65d6@mg-d1.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 88: Trump’s White House Press Ban Backfires",
-   "date": "2026-09-25T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-88-trumps",
-   "bullets": [
-    "Removal orders for undocumented children doubled under Trump, with over 200,000 orders—70% for kids under 13—driven by Stephen Miller’s deportation push.",
-    "A UN legal expert says Trump’s Caribbean and Pacific boat strikes, now killing at least 231 people, violate international law and may constitute crimes against humanity.",
-    "A federal judge temporarily blocked Trump’s press ban on CNN, MS NOW and Politico, ordering restoration of credentials after the administration cited dubious national‑security claims."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260925223033.3.26d9bf8faafc2b1e@mg-d0.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Ten Lesbians Walk Into a Bar . . .",
-   "date": "2026-09-25T15:30-07:00",
-   "url": null,
-   "bullets": [
-    "The government allegedly lied to a court again, while JD Vance is accused of leaking national‑security information and Trump is said to have compromat on Susan Collins; Mary Peltola faces a context‑collapse scandal.",
-    "JVL apologizes for cutting a promo, and the newsletter highlights a Massachusetts lesbian bar story that was “not woke enough,” calling it a solid B‑/B episode.",
-    "The newsletter promotes a Bulwark LIVE tour in October with guests like Bakari Sellers, Pete Buttigieg, and Mark Hertling, and notes that “How to Eat an Elephant” hit #2 on the NYT bestseller list, surpassing Ted Cruz."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 95,
-  "total": 395
+  "shown": 94,
+  "total": 397
  }
 }
