@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T19:25-07:00",
+ "updated": "2026-10-28T12:41-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -51,6 +51,154 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261028173407.3.40220e4617b153bb.4yxh4x48@mg1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Live video with The Bulwark now: Bulwark Book Club: ‘The Age of Acrimony' (w/ JVL & Jon Grinspan) | Mona Charen Show",
+   "date": "2026-10-28T10:34-07:00",
+   "url": null,
+   "bullets": [
+    "Live video now available for paid subscribers: Bulwark Book Club episode on ‘The Age of Acrimony’ featuring JVL and Jon Grinspan on the Mona Charen Show."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028164920.3.f5af19a4d9b4b944@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Safe Space for Strongmen",
+   "date": "2026-10-28T09:49-07:00",
+   "url": null,
+   "bullets": [
+    "Flávio Bolsonaro, a Brazilian national accused of laundering over $1 billion, entered the U.S. after a visa was granted by Senator Marco Rubio with the Trump administration’s approval, despite Interpol Red Notice requests.",
+    "The case illustrates how the Trump administration’s rhetoric on illegal immigration was contradicted by its facilitation of a high‑profile criminal’s entry into America.",
+    "It raises questions about the consistency of U.S. immigration policy and the use of political influence to override legal safeguards."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028164539.3.014aa32585748b17@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "NYT Poll: Annie Andrews Can Win South Carolina",
+   "date": "2026-10-28T09:45-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/nyt-poll-annie-andrews-can-win-south",
+   "bullets": [
+    "The NYT/Siena poll shows South Carolina Senate candidate Annie Andrews trailing Republican Darline Graham by less than one point with under a week left, a rare near‑tie in a state that hasn't elected a Democrat in 28 years.",
+    "Trump’s low approval (42‑55 overall, 38 points below independent baseline) is hurting the GOP ticket, making the race highly competitive and boosting Andrews’ chances.",
+    "Republicans are pouring millions into last‑minute ads and Trump is scheduled to rally in the state, underscoring how contested the race has become."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028150046.3.9cc7e6bdc90e4580@mg2.substack.com",
+   "newsletter": "We're Not Kidding | Zeteo",
+   "pub": "zeteo",
+   "subject": "Mo Amer and Mehdi Talk Palestine, Comedy, Netflix, and DJ Khaled, LIVE in Houston!",
+   "date": "2026-10-28T08:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/mo-amer-houston-palestine-netflix",
+   "bullets": [
+    "It’s been a long time coming, but Mehdi was finally joined by the acclaimed Palestinian-American comedian Mo Amer for a very special LIVE taping of ‘We’re Not Kidding’ in Mo’s hometown of Houston, Texas. In this wide-ranging, hilarious, and…",
+    "“How hard has the last three years been for you, as a Palestinian public figure?” Mehdi asks. “I didn’t even think about it as a public figure. This has been my life the whole time,” Mo says. “The last three years have been heightened by 10…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261028144040.3.1e79b5a46b52ead8@mg-d1.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Case El-Sayed Can Make to Black Voters",
+   "date": "2026-10-28T07:40-07:00",
+   "url": null,
+   "bullets": [
+    "A Michigan Senate attack ad claims Abdul El‑Sayed ignores black voters, citing a 5,000‑word platform with no mention of black issues, but his campaign website lists a 21‑point THRIVE agenda targeting black communities.",
+    "The ad is produced by an independent PAC opposing El‑Sayed and is part of a broader misinformation effort in a race where Democrats need strong black voter turnout, a weakness exploited by Republican Mike Rogers.",
+    "The controversy highlights deeper tensions between Michigan’s black and Arab communities and debates over progressive versus moderate policy priorities within the Democratic Party."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028140920.3.edd2dffa3534059c@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "We’ve got to keep our eye on the ball",
+   "date": "2026-10-28T07:09-07:00",
+   "url": "https://roycoopernc.substack.com/p/weve-got-to-keep-our-eye-on-the-ball",
+   "bullets": [
+    "Nate Silver’s Silver Bulletin now favors Roy Cooper in NC Senate race, but GOP super PACs have spent millions on false claims about his record and Trump & JD Vance are rallying the MAGA base in Greenville and Hendersonville.",
+    "Cooper urges grassroots donors to contribute $5 to meet daily fundraising goals, arguing that despite the shift, the GOP remains desperate and any surprise attacks could still jeopardize the seat and Senate control."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028133424.3.4ebb463efd84e353@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How Do You Solve a Problem Like Elon Musk?",
+   "date": "2026-10-28T06:34-07:00",
+   "url": null,
+   "bullets": [
+    "Elon Musk has poured $446 million into 2024 midterms, with $180 million earmarked for Texas Senate race against James Talarico, using personal attacks on X and direct mail to sway voters.",
+    "Talarico’s campaign frames Musk as a shadowy buyer of Texas, claiming Musk’s money fuels Republican candidate Ken Paxton and threatens state resources, echoing past anti‑Soros tactics.",
+    "Kristol warns that the rise of nationalism, populism, and authoritarianism worldwide—exemplified by Israel’s split, Hungary’s and Serbia’s politics—signals a return to 19th‑century liberal vs. anti‑liberal struggles, undermining modern liberal democracy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028133113.3.e3fe374adedfc80e@mg2.substack.com",
+   "newsletter": "Here Be Dragons from Barbara F. Walter",
+   "pub": "barbarafwalter",
+   "subject": "What Happens If Democrats Win and Trump Refuses to Accept It?",
+   "date": "2026-10-28T06:31-07:00",
+   "url": "https://barbarafwalter.substack.com/p/what-happens-if-democrats-win-and",
+   "bullets": [
+    "Democrats are likely to win the House and possibly the Senate, but Trump may pressure state officials in close races—like Alaska, Iowa, Ohio, Texas, Maine, Michigan—to reject or delay certification, and Republicans could use congressional authority to block seating Democratic members.",
+    "Even if Democrats take control, Trump will retain executive power to veto legislation, issue orders, and resist subpoenas, potentially limiting Democratic effectiveness and risking a constitutional crisis, though Congress still holds significant powers such as spending, investigations, and impeachment."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028114034.3.df63cacc6a7ef25d@mg-d1.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Politics is medicine on a large scale",
+   "date": "2026-10-28T04:40-07:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/politics-is-medicine-on-a-large-scale",
+   "bullets": [
+    "Rudolf Virchow’s 1848 report linked disease to poverty, arguing that politics—education, jobs, housing, fair taxes, and democracy—is medicine on a large scale; today health policy appears on ballots in at least 29 states and influences federal agencies via the HELP Committee.",
+    "Current trends show rising medical debt, measles outbreaks, declining food assistance (lowest in 17 years), and cuts to research funding, underscoring that political decisions, not just pathogens, drive health outcomes.",
+    "A 2026 United States of Care survey finds 75% of voters rank health care among top three voting issues and 78% favor a larger government role, making midterm votes directly tied to public health."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028113215.3.55d93552307fe614@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Netanyahu Collapsed – But Zionists Claim Record Arab Turnout Somehow Absolves Israel",
+   "date": "2026-10-28T04:32-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/netanyahu-collapsed-but-zionists",
+   "bullets": [
+    "📱 If our emails sometimes get buried in your inbox, we’ve got another way for you to keep up to date: the new  [ https://substack.com/redirect/b1005afb-efd7-4041-8eb2-b60307fa93d2?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1zt…",
+    "Good morning, friends! Prem here. I cannot stop thinking about Donald Trump screaming, “I love the meat! [ https://substack.com/redirect/91365a9f-e33e-4c92-9b46-ad9c42b391a4?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261028103055.3.68001b09c57e1f5b@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Hack Apocalypse Now",
+   "date": "2026-10-28T03:30-07:00",
+   "url": "https://paulkrugman.substack.com/p/hack-apocalypse-now",
+   "bullets": [
+    "Critical PHP vulnerabilities uncovered by AI forced European government sites offline, with experts warning a rapid wave of hacks as attackers exploit the flaws before patches spread.",
+    "AI‑driven discovery of software bugs is sparking a “Hackening,” likened to the internet’s “Wuhan moment,” and could slash short‑term economic growth as businesses scramble to adopt costly gated‑network solutions.",
+    "Regulating AI safety prompts is seen as ineffective because they can be easily reversed, pushing the future toward partially closed digital domains that trade openness for security."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261028020133.3.edddd91307276001@mg-d0.substack.com",
    "newsletter": "Naomi Klein | Zeteo",
@@ -127,10 +275,11 @@
    "date": "2026-10-27T15:39-07:00",
    "url": "https://ossoff.substack.com/p/my-decision-c2c",
    "bullets": [
-    "I’m the only Democratic Senator up for reelection in a state Trump won. And this U.S. Senate race in Georgia will be one of the most competitive and most expensive in the nation. So if you’re upset by what’s being done to our country right …",
-    "Here’s the link to donate: https://secure.actblue.com/donate/ossoff-fr-substack-2026 [ https://secure.actblue.com/donate/ossoff-fr-substack-2026?refcode= em261027&utm_source=nl&utm_medium=substack&utm_campaign=em261027 ]"
+    "Senator Jon Ossoff, the sole Democratic Senate candidate in a Trump‑won state, warns that the president is staging an unprecedented power grab, including freeing Capitol attackers and threatening media outlets.",
+    "He claims his 2020 victory flipped a Republican seat and secured the Senate majority, and urges grassroots donations averaging $30 to fund his 2026 reelection campaign.",
+    "Ossoff links to an ActBlue donation page, emphasizing that many small contributions are needed to sustain the campaign."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261027191547.3.26b493c079486b89@mg-d0.substack.com",
@@ -5493,77 +5642,10 @@
     "The piece outlines Kimberly Guilfoyle’s chaotic stint as U.S. ambassador to Greece, citing a shady lobbyist, dubious energy deals, a midnight Albania trip, a failed vodka venture, and an alarming warning she delivered to a U.S. ally."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260927173254.3.486c2d319546a2f1@mg2.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Here is what’s at stake",
-   "date": "2026-09-27T10:32-07:00",
-   "url": "https://roycoopernc.substack.com/p/here-is-whats-at-stake",
-   "bullets": [
-    "The email warns that North Carolina’s 2024 gubernatorial race could hinge on a few votes, with Republican dark‑money super PACs already spending over $100 million on attack ads against incumbent Gov. Roy Cooper.",
-    "It contrasts Cooper’s record—expanding affordable health care, defending rights, aiding working families—with challenger Michael Whatley’s background as a former Big Oil lobbyist, Trump ally, and appointee of a convicted child sex offender.",
-    "Readers are urged to donate, volunteer door‑knocking, or register to vote before the end‑of‑quarter deadline to help counter the massive outside spending."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260927153329.3.7db83db0ff786216@mg-d0.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "Totally out of control",
-   "date": "2026-09-27T08:33-07:00",
-   "url": "https://ossoff.substack.com/p/totally-out-of-control",
-   "bullets": [
-    "Ossoff warns that GOP Super PACs have raised over $500 million for the Georgia Senate race, with additional funds from Trump’s PAC and donors like Elon Musk threatening to outspend Democrats by hundreds of millions",
-    "He urges supporters to donate $5 to his campaign to counter the “dark‑money” flood and keep his message alive despite the massive financial advantage of the opposition"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260927140242.3.8006c30527a27851@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Inside AIPAC: Watch the Trailer For Zeteo’s New Documentary on the Pro-Israel Lobby",
-   "date": "2026-09-27T07:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/inside-aipac-watch-the-trailer-for",
-   "bullets": [
-    "The hour‑long documentary ‘Night Flower: Inside AIPAC’s Fight for Influence’—featuring former AIPAC officials, politicians and activists—examines the lobby’s evolution and role in the 2024 U.S. midterms, with its trailer now live.",
-    "A live premiere screening is scheduled in Chicago on Oct. 20, with discounted tickets for paid subscribers and a 20% off code already emailed.",
-    "Zeteo is seeking donations from free and paid subscribers to finish production, promising full, paywall‑free access to the film upon release."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260927120114.3.abc52f633e7338c7@mg2.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Rogers Tries to Make El-Sayed’s Health Care Plan Scary",
-   "date": "2026-09-27T05:01-07:00",
-   "url": null,
-   "bullets": [
-    "Mike Rogers held a health‑care press conference to attack Democratic nominee Abdul El‑Sayed’s plan, despite Republicans’ recent refusal to extend ACA subsidies that raised insurance costs for over 20 million Americans.",
-    "Rogers aims to frame El‑Sayed’s doctor‑backed proposal as scary, leveraging voter concerns that health‑care costs are a top issue in the Michigan Senate race."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260927104634.3.59a142cceaf6db89@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Booms, Bombs and Bonds: Interest Rates, Part I",
-   "date": "2026-09-27T03:46-07:00",
-   "url": "https://paulkrugman.substack.com/p/booms-bombs-and-bonds-interest-rates",
-   "bullets": [
-    "Krugman notes that recent interest‑rate spikes—reaching levels not seen since the 2000s housing bubble—are driven by a massive AI‑investment boom, amplified by inflationary pressures from the Iran war and a shifting policy narrative.",
-    "He contrasts bond yields with stock prices, arguing that while stocks are fickle and often mis‑predict recessions, bond yields usually convey real economic signals, though analysts currently disagree on their precise meaning."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 98,
-  "total": 405
+  "shown": 96,
+  "total": 411
  }
 }
