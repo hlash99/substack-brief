@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:30-07:00",
+ "updated": "2026-10-27T19:25-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,87 @@
  },
  "items": [
   {
+   "id": "20261028020133.3.edddd91307276001@mg-d0.substack.com",
+   "newsletter": "Naomi Klein | Zeteo",
+   "pub": "zeteo",
+   "subject": "Fighting Fascist Crime Families, From Brazil to Israel to the U.S.",
+   "date": "2026-10-27T19:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/brazil-israel-elections-naomi-klein",
+   "bullets": [
+    "Naomi Klein and Mehdi argue that Brazil’s left‑wing victory, Trump’s backing of Flávio Bolsonaro, and Netanyahu’s grip on Israel show how fascist crime families evade justice while maintaining power.",
+    "They note Bolsonaro’s father Jair is jailed for a 2022 coup plot, and Brazil’s prosecution of the coup attempt contrasts with the Bolsonaro family’s corruption, offering a lesson for U.S. Democrats ahead of the midterms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028015717.3.3c0093e99ac74c91@mg2.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "JVL’s Wild 57-Seat Senate Scenario Has Tim Doing the Math",
+   "date": "2026-10-27T18:57-07:00",
+   "url": null,
+   "bullets": [
+    "For the final stretch of the election and everything that comes after, become a paid member of The Bulwark for more of Sarah, Tim, and JVL’s unfiltered conversations, members-only Q&As, and election analysis.",
+    "Tim, Sarah, and JVL are back together for their last Next Level before Election Day. They discuss Marco Rubio helping Flavio Bolsonaro take refuge in the United States after losing Brazil's presidential election, RFK Jr's wildly racist comm…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261028003043.3.41f6b57ff2255b50@mg-d1.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "Missed goal",
+   "date": "2026-10-27T17:30-07:00",
+   "url": null,
+   "bullets": [
+    "The GOP has spent over $66 million trying to buy the New Hampshire Senate seat, while Chris Pappas refuses corporate PAC money and relies on small donors.",
+    "With one week left, Pappas’ fundraising has slumped and he’s setting a 24‑hour $100 K emergency goal to close the gap and fund voter outreach.",
+    "He urges supporters to donate $10‑$15 now to help keep New Hampshire blue and flip the Senate."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027235633.3.20be74b18bef650c@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Republicans Warned Vivek Ramaswamy His ‘Rapist Protector’ Ad Was a Terrible Idea",
+   "date": "2026-10-27T16:56-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/republicans-warned-vivek-ramaswamy",
+   "bullets": [
+    "Multiple Ohio Republicans warned Vivek Ramaswamy that his “rapist protector” attack ad against Democrat Amy Acton would likely backfire, but he ran it anyway, spending millions on promotion.",
+    "The ad featured Acton’s estranged mother, Donna Arthur, accusing her daughter of lying about a childhood rape by her husband, a claim based on publicly available court records and prior reporting.",
+    "The ad was produced by Ohio firm Strategy Group, which has faced scrutiny for its role in a controversial $220 million DHS advertising contract."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027231835.3.10b266f350f2e572@mg-d1.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Mark Cuban Goes Nuclear on America’s Health Care Giants",
+   "date": "2026-10-27T16:18-07:00",
+   "url": null,
+   "bullets": [
+    "Mark Cuban argues that U.S. health‑care conglomerates artificially raise drug prices, conceal fees, and profit at patients' expense.",
+    "He criticizes Democrats' Medicare‑for‑All proposals as misguided and outlines his own strategies to combat price inflation.",
+    "Cuban also shares his perspective on the Trump administration's health‑care agenda, suggesting it differs from current partisan narratives."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261027223935.3.8c3996a6861b3cdb@mg2.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "My decision",
+   "date": "2026-10-27T15:39-07:00",
+   "url": "https://ossoff.substack.com/p/my-decision-c2c",
+   "bullets": [
+    "I’m the only Democratic Senator up for reelection in a state Trump won. And this U.S. Senate race in Georgia will be one of the most competitive and most expensive in the nation. So if you’re upset by what’s being done to our country right …",
+    "Here’s the link to donate: https://secure.actblue.com/donate/ossoff-fr-substack-2026 [ https://secure.actblue.com/donate/ossoff-fr-substack-2026?refcode= em261027&utm_source=nl&utm_medium=substack&utm_campaign=em261027 ]"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
    "id": "20261027191547.3.26b493c079486b89@mg-d0.substack.com",
    "newsletter": "Joe Perticone - The Bulwark",
    "pub": "thebulwark",
@@ -73,10 +154,11 @@
    "date": "2026-10-27T09:30-07:00",
    "url": null,
    "bullets": [
-    "I’ve been making the case for nationalizing SpaceX for years, but I’ve never put the arguments all in one place. That’s what we’re doing today. Let’s stipulate that this newsletter won’t have all the answers. It’s a starting point for deepe…",
-    "SpaceX is a national security vulnerability. Something must be done about it. Two things up front: First, my headline is “Nationalize SpaceX,” but that’s shorthand. I don’t know that we need to “nationalize” the company, per se. Maybe we do…"
+    "The author argues SpaceX poses a national security vulnerability, asserting that private control—whether by Elon Musk or any trillionaire—creates unacceptable risks for America.",
+    "He proposes treating “nationalize SpaceX” as a catch‑all term, suggesting options ranging from full nationalization to breakup or aggressive regulation to mitigate those risks.",
+    "The newsletter will outline why SpaceX is a danger and then explore possible policy solutions, starting with the claim that the company cannot be trusted to sell combat‑ready fighter jets."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261027151613.3.262d979837ce088b@mg-d0.substack.com",
@@ -127,10 +209,11 @@
    "date": "2026-10-27T06:25-07:00",
    "url": null,
    "bullets": [
-    "Can Bibi Netanyahu hang on? Israel’s six-term prime minister faces a stiff challenge in Israel’s elections today. Polls show the bloc led by Netanyahu’s Likud party neck and neck with the bloc led by former military chief Gadi Einsenkot’s Y…",
-    "We’re a week out from election day, and things continue to look good. In fact, I’ve got to say, they’re looking a little bit better every day. The early vote— [I INTERRUPT THIS NEWSLETTER TO KNOCK ON WOOD, TOSS SALT OVER MY SHOULDER, AND, Y…"
+    "Early voting shows Democrats leading the generic ballot by about 9 points, with Reuters/Ipsos polling Trump at 35% approval and 65% disapproval among registered voters.",
+    "Kristol argues the House will almost certainly flip to Democrats and the Senate is very likely to follow, a rare midterm double‑chamber shift last seen in 1994 and 2006.",
+    "Egger reports the DOJ filed a third criminal information against James Comey to sidestep a statute‑of‑limitations deadline, but legal experts say it’s procedurally dubious and likely to be dismissed."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261027113611.3.30cfef0913098ff4@mg-d0.substack.com",
@@ -140,10 +223,11 @@
    "date": "2026-10-27T04:36-07:00",
    "url": "https://yourlocalepidemiologist.substack.com/p/bird-flu-in-mink-measles-double-last",
    "bullets": [
-    "Happy Halloween week! Which means tiny goblins running around (and, to fellow parents—there are ways [ https://substack.com/redirect/38adb55e-591d-495c-ac08-d7944629bf0a?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] to…",
-    "Here’s what’s happening in the world of health: measles rates are now more than double last year’s, flu continues to make its mark early (including a concerning bird flu outbreak), and CDC expects a winter about as heavy as last season’s fo…"
+    "U.S. measles cases hit 4,588 in 2026—double 2025 and the highest since 1991—driven by a Pennsylvania outbreak with <1% vaccination and spreading to NY, Ohio, Wisconsin, Kentucky, and Indiana.",
+    "A Utah mink farm harbored undetected bird flu for two months; mink can mix avian and human flu genes, and officials failed to act, raising pandemic concerns.",
+    "SNAP enrollment fell by over 5 million (including 2 million children) to a 17‑year low, threatening free school‑meal eligibility in most states and pushing families toward lunch bills."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261027112701.3.12e37812741f7d56@mg2.substack.com",
@@ -5476,24 +5560,10 @@
     "He contrasts bond yields with stock prices, arguing that while stocks are fickle and often mis‑predict recessions, bond yields usually convey real economic signals, though analysts currently disagree on their precise meaning."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260926232034.3.9d746579f0171eb9@mg-d1.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Receipts Live: Riley Gaines’ Medical Bills Reveal a Huge Problem for MAGA",
-   "date": "2026-09-26T16:20-07:00",
-   "url": null,
-   "bullets": [
-    "Treasury yields have spiked, pushing mortgage rates toward 7% as inflation, soaring government debt and uncertainty from the Iran war strain Scott Bessent’s bid to lower bond costs.",
-    "Trump’s proposed diesel export ban could unintentionally raise gasoline and other petroleum prices, disrupting global energy markets and hurting consumers.",
-    "Jensen Huang argues AI may render basic math teaching obsolete, a claim the hosts warn could erode essential foundational skills."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 95,
-  "total": 400
+  "shown": 98,
+  "total": 405
  }
 }
