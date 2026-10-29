@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:41-07:00",
+ "updated": "2026-10-28T19:33-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,113 @@
  },
  "items": [
   {
+   "id": "20261029020520.3.c714bbbb77142649@mg-d0.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "If you’re new here...",
+   "date": "2026-10-28T19:05-07:00",
+   "url": null,
+   "bullets": [
+    "Chris Pappas, a New Hampshire congressman and LGBTQ+ advocate, is running for Senate to fight a system he says favors the wealthy, citing his family’s 109‑year‑old Greek‑immigrant restaurant and 35,000 gallons of homemade ice cream churned annually as proof of hard work and community service.",
+    "He highlights his legislative record, including opposing a 2015 bill that would have denied out‑of‑state same‑sex marriages, helping secure civil unions in 2017, and New Hampshire becoming the first state to legalize marriage equality by law in 2019.",
+    "Pappas contrasts his bipartisan, results‑oriented approach with Republican opponent John Sununu, accusing the GOP of extreme rhetoric, attacks on reproductive rights, and a Trump administration that prioritizes billionaires over families, while pledging to continue fighting for prescription drug costs, youth engagement, and economic fairness."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261029013044.3.358ffd7947da13ca@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Keeps Trying to Jail His Enemies. Grand Juries Keep Saying NO",
+   "date": "2026-10-28T18:30-07:00",
+   "url": null,
+   "bullets": [
+    "Let’s be clear about what we’re doing here. The Bulwark exists to fight authoritarianism and defend American democracy. We do that with reporting, analysis, accountability, and by building a community of people who refuse to look away or pr…",
+    "Sarah Longwell and Andrew Weissmann discuss Trump’s desperate (and failing) attempts to punish his political enemies, from a grand jury’s refusal to indict Cassidy Hutchinson to a judge’s ruling against the firing of Maureen Comey. They als…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261029010126.3.fc2ad6833545b195@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Why Is the Media Ignoring the New Rape Allegation Against Trump?",
+   "date": "2026-10-28T18:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-is-the-media-ignoring-trump",
+   "bullets": [
+    "House Judiciary Democrats released a 53‑page report alleging Trump’s ties to Jeffrey Epstein and a new rape claim by a beauty‑pageant contestant, urging an independent special counsel for investigation.",
+    "The report cites 11 women, five of whom accuse Trump directly, yet mainstream media largely ignored the allegations, a silence the author argues would not occur for a Democratic president.",
+    "The author criticizes CBS News for deleting an unforced error tweet and notes Hasan Piker’s lawsuit against Scott Jennings, but focuses on the media blackout surrounding Trump’s alleged crimes."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261029000008.3.cd2ca01dfa062ac4@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Republicans Tried to Undercut Black Voters. It’s Blowing Up in Their Faces.",
+   "date": "2026-10-28T17:00-07:00",
+   "url": null,
+   "bullets": [
+    "Republican redistricting after the Supreme Court’s ruling on Section 2 has spurred a surge in black voter turnout, with over 160,000 more ballots cast this year than in 2022, especially in Southern states like Louisiana, South Carolina, and Tennessee’s Shelby County.",
+    "Early‑vote data shows a disproportionate rise among younger black voters—contrary to the typical older‑skew of early voting—suggesting heightened political engagement that could flip traditionally Republican districts such as Tennessee’s 5th and 9th and tighten races in Virginia and South Carolina."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028230111.3.0a673c34ac3ef7fb@mg2.substack.com",
+   "newsletter": "Catherine Cortez Masto",
+   "pub": "cortezmasto",
+   "subject": "My day in Georgia",
+   "date": "2026-10-28T16:01-07:00",
+   "url": "https://cortezmasto.substack.com/p/my-day-in-georgia",
+   "bullets": [
+    "Senator Catherine Cortez Masto spent a day in Georgia canvassing, meeting Latino voters and volunteers, to boost Jon Ossoff’s tight, must‑win Senate race as Democrats seek to regain control.",
+    "She highlighted her role recruiting Ossoff and her 2020 DSCC leadership that helped flip the Senate, urging supporters to donate to both her and Ossoff’s campaigns in the final days before Election Day."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028223337.3.c6f26cac7dd614ff@mg2.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "Let me explain",
+   "date": "2026-10-28T15:33-07:00",
+   "url": "https://ossoff.substack.com/p/let-me-explain",
+   "bullets": [
+    "Jon Ossoff urges donors to contribute before his end‑of‑month deadline, warning he’s the only Democratic Georgia senator facing a MAGA‑targeted reelection after Trump’s 2024 win",
+    "He says his campaign rejects corporate PACs and lobbyist money, needing a record‑large statewide effort of organizers and voter outreach to win the race"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028200104.3.7b9ec536bad527b6@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "How Israel’s Defenders Use Palestinian Voters As Window Dressing",
+   "date": "2026-10-28T13:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/how-israels-defenders-use-palestinian",
+   "bullets": [
+    "Deborah Lipstadt praised images of Palestinian citizens voting as proof Israel isn’t racist, while ignoring Netanyahu’s racist ad using the same images and his campaign to intimidate Palestinian voters.",
+    "U.S. officials and pro‑Israel groups (Josh Gottheimer, AIPAC, Mike Huckabee) lauded the turnout of ~2 million Arab‑Israeli voters as evidence of Israel’s democracy, yet stayed silent on bans of Palestinian parties and election‑observer intimidation.",
+    "Beinart argues this selective praise masks the inherent contradiction of a Jewish state that grants limited franchise to Palestinians in Israel proper while denying voting rights to the 5.5 million Palestinians in the occupied territories, preserving Jewish electoral supremacy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261028200131.3.b2da3aa59a16b1db@mg-d1.substack.com",
+   "newsletter": "Sam Stein—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Pre-Election Day Livestream This Sunday Night",
+   "date": "2026-10-28T13:01-07:00",
+   "url": null,
+   "bullets": [
+    "Bulwark+ members are invited to a pre-election livestream on Sunday, Nov 1 at 8:30 p.m. ET featuring Joe Perticone, Andrew Egger, Tim Miller, Sam Stein, Lauren Egan, and Jonathan Cohn.",
+    "The panel will discuss the latest developments in the hottest races, take live questions from the audience, and the recording will be posted on the Bulwark Takes feed afterward."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261028173407.3.40220e4617b153bb.4yxh4x48@mg1.substack.com",
    "newsletter": "The Bulwark",
    "pub": "thebulwark",
@@ -99,10 +206,10 @@
    "date": "2026-10-28T08:00-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/mo-amer-houston-palestine-netflix",
    "bullets": [
-    "It’s been a long time coming, but Mehdi was finally joined by the acclaimed Palestinian-American comedian Mo Amer for a very special LIVE taping of ‘We’re Not Kidding’ in Mo’s hometown of Houston, Texas. In this wide-ranging, hilarious, and…",
-    "“How hard has the last three years been for you, as a Palestinian public figure?” Mehdi asks. “I didn’t even think about it as a public figure. This has been my life the whole time,” Mo says. “The last three years have been heightened by 10…"
+    "Mo Amer discusses how the past three years of Gaza genocide have amplified his personal experience by “10,000%,” shaping his Peabody‑winning Netflix series ‘Mo’ which tackles ICE detention, Israeli cultural appropriation, and West Bank oppression",
+    "He criticizes fellow Palestinian DJ Khaled for staying silent on the genocide, calling his public persona “off and disconnected,” and reflects on his journey from immigrant Halloween bewilderment to becoming the first Arab‑American to sell out Radio City Music Hall"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261028144040.3.1e79b5a46b52ead8@mg-d1.substack.com",
@@ -220,10 +327,10 @@
    "date": "2026-10-27T18:57-07:00",
    "url": null,
    "bullets": [
-    "For the final stretch of the election and everything that comes after, become a paid member of The Bulwark for more of Sarah, Tim, and JVL’s unfiltered conversations, members-only Q&As, and election analysis.",
-    "Tim, Sarah, and JVL are back together for their last Next Level before Election Day. They discuss Marco Rubio helping Flavio Bolsonaro take refuge in the United States after losing Brazil's presidential election, RFK Jr's wildly racist comm…"
+    "The hosts warn that Marco Rubio helped Flavio Bolsonaro flee to the U.S. after Brazil’s election loss, while RFK Jr. made overtly racist remarks about Arab voters in Michigan and Vivek Ramaswamy’s attack ad on Amy Acton sparked further controversy.",
+    "They note a Kansas City Star story that Roger Marshall’s hometown is turning against him, Susan Collins is running a elitist ad against Troy Jackson, and Pete Hegseth may eye Marsha Blackburn’s Senate seat as Democrats could achieve a massive wave across the map."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261028003043.3.41f6b57ff2255b50@mg-d1.substack.com",
@@ -5601,51 +5708,10 @@
     "Krugman sarcastically suggests the ad’s creators might be ‘deep‑state moles’ influencing Trump’s messaging."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260927235516.3.61ad7a2681c1d42d@mg-d1.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Could a Wave THIS Big Actually Happen?",
-   "date": "2026-09-27T16:55-07:00",
-   "url": null,
-   "bullets": [
-    "In 2014, DCCC chair Steve Israel warned Democrats that defending the Senate and limiting GOP House gains was like landing a plane in a hurricane, foreshadowing a disastrous midterm for the party.",
-    "The newsletter argues that Republicans now face a similar ‘hurricane’ scenario, with Donald Trump’s approval at historic lows, escalating crises, and an expanding slate of vulnerable seats.",
-    "It suggests the 2014 Democratic wipeout offers a cautionary parallel for today’s GOP, implying a potentially massive electoral wave against them."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260927230236.3.44b51d2a23adc0c1@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Fascism Doesn’t Always Arrive by Force. Sometimes It Comes as Law",
-   "date": "2026-09-27T16:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/fascism-doesnt-always-arrive-by-force",
-   "bullets": [
-    "The newsletter argues that fascism can arise through legal mechanisms, citing Nazi‑occupied Europe where ghettos were established by law to isolate Jews and Roma before deportation.",
-    "It highlights that the U.S. now detains over 65,000 people—70% without criminal records—in federal camps, suggesting a legal pathway could enable authoritarian confinement similar to historical fascist regimes."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260927203332.3.758a886338ed98c1@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Something Very Strange Is Going On With Kimberly Guilfoyle in Europe",
-   "date": "2026-09-27T13:33-07:00",
-   "url": null,
-   "bullets": [
-    "Rampell and Sommer expose Trump’s intensified assault on the White House press corps, noting the rise of a DIY MAGA media pool supplanting traditional reporters.",
-    "They detail Rep. Byron Donalds’ uneasy effort to distance himself from Trump amid growing intra‑party tensions.",
-    "The piece outlines Kimberly Guilfoyle’s chaotic stint as U.S. ambassador to Greece, citing a shady lobbyist, dubious energy deals, a midnight Albania trip, a failed vodka venture, and an alarming warning she delivered to a U.S. ally."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 96,
-  "total": 411
+  "shown": 101,
+  "total": 416
  }
 }
