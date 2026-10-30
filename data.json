@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T19:42-07:00",
+ "updated": "2026-10-30T12:30-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -67,6 +67,141 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261030183747.3.387433a9bffa9c62@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "We Need to Nationalize the AI Companies",
+   "date": "2026-10-30T11:37-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/we-need-to-nationalize-the-ai-companies",
+   "bullets": [
+    "Anthropic proposes a draft AI regulation that would allow a model to cause up to 50 deaths or $1 billion in damage before regulators intervene, arguing these thresholds are “sensible policies” for Congress.",
+    "Senior Anthropic researcher Evan Hubinger publicly stated a >10% chance that AI could kill all humans within a decade, sparking criticism from former employee Jacob Coxon who warned that AI firms are “gambling with our lives.”",
+    "Critics claim such apocalyptic predictions are marketing tactics to inflate an AI bubble, suggesting the industry may be building an extinction‑level threat while also engaging in routine fraud."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261030164309.3.fa9916d8d6ac7746@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Stop Whining. Just Win.",
+   "date": "2026-10-30T09:43-07:00",
+   "url": null,
+   "bullets": [
+    "Quick alert! I got something special for you on the Secret later today. You’ll thank me. —JVL Mary Peltola’s team did something not nice and unsportsmanlike. They went and found another guy named Dan Sullivan and got him on the ballot in th…",
+    "Republicans are outraged—not just random Republicans on X, but national, elected Republicans. They have sued. They are calling on Peltola to drop out of the race. They are demanding that if Peltola wins the election, her victory not be cert…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261030150229.3.885e7020011653a3@mg-d0.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "This Progressive is Vying to Become Florida’s First Black Senator on Tuesday",
+   "date": "2026-10-30T08:02-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/angie-nixon-florida-senate-race",
+   "bullets": [
+    "Angie Nixon, a progressive who was recently endorsed [ https://substack.com/redirect/a8077eb1-5949-440a-9a79-4d91368cf851?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] by former President Barack Obama, is vying to beco…",
+    "Nixon’s campaign is calling for Medicare for All, abolishing ICE [ https://substack.com/redirect/24db7a1f-4eb4-4993-99e3-3e2e2e6150f0?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ], raising the federal minimum wage, and…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261030143536.3.4a03f76408662f00@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "What Texas Trump Voters Really Think of Elon Musk’s Ads",
+   "date": "2026-10-30T07:35-07:00",
+   "url": null,
+   "bullets": [
+    "Elon Musk has spent $190 million on ads supporting Texas Attorney General Ken Paxton, attacking opponents like James Talarico and a state senator’s husband with claims about gender and Christianity.",
+    "Focus groups of 2024 Trump voters who disapprove of Trump’s performance were convened to gauge whether Musk’s spending would help Paxton win a Senate seat.",
+    "The newsletter hints that the results of these focus groups will reveal whether the ads are effective, but no definitive outcome is yet reported."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261030140231.3.99aac543079c694a@mg2.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "From last July to the final weekend",
+   "date": "2026-10-30T07:02-07:00",
+   "url": "https://roycoopernc.substack.com/p/from-last-july-to-the-final-weekend",
+   "bullets": [
+    "Since the start of early voting, our team and volunteers contacted more than 619,000 voters across North Carolina. And this week, I continued my Make Stuff Cost Less tour in Charlotte and Durham and felt the energy of a crowd ready for chan…",
+    "I launched this race last July because I knew that we could have better days ahead of us. And these past 15 months have shown me that North Carolinians agree. People all across the state and country are standing up and making their voices h…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261030133217.3.1294fadb45949a7c@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Top Campaign Issue of the Decade Has Vanished",
+   "date": "2026-10-30T06:32-07:00",
+   "url": null,
+   "bullets": [
+    "The Supreme Court’s 2022 Roe v. Wade reversal has pushed abortion back to state politics, but both parties have largely dropped abortion messaging in 2024 midterms, focusing instead on cost‑of‑living and other culture‑war issues; Democrats cite affordability as a unifying theme, while Republicans avoid rally‑round pro‑life messaging after Trump’s pivot to other issues.",
+    "AdImpact and Adsmom data show Democratic abortion ad spend fell four‑fold in 2024 compared to 2022, and abortion ads ranked 15th out of 26 topics in October, below data centers and climate; Republicans likewise have not used abortion as a midterm rallying point, citing a lack of base motivation and a shift toward trans‑rights controversies."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261030130216.3.25ab87614c40f81a@mg-d1.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "A personal note from the campaign trail",
+   "date": "2026-10-30T06:02-07:00",
+   "url": "https://chrispappasnh.substack.com/p/a-personal-note-from-the-campaign-eda",
+   "bullets": [
+    "With only four days left, John Sununu leads New Hampshire Senate polls after GOP spends over $67 million on ads and airwaves.",
+    "Chris Pappas urges supporters to donate $10‑$15 now to close the gap and keep New Hampshire blue in a race he says could decide the Senate majority.",
+    "He emphasizes grassroots outreach across community centers and town events, arguing every door knock and contribution is crucial as the race tightens."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261030113135.3.936e9617bcba8f55@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Why I Am Thanking Bill and Hillary Clinton Today 🙏🏽",
+   "date": "2026-10-30T04:31-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-i-am-thanking-bill-and-hillary",
+   "bullets": [
+    "Bill and Hillary Clinton publicly condemned Republican anti‑Muslim attacks on Democratic Senate candidate Abdul El‑Sayed in Michigan, calling out fear‑mongering and bigotry.",
+    "The author criticizes centrist Democrats—Haley Stevens, Josh Gottheimer, John Fetterman, Nancy Pelosi, Chuck Schumer, Kirsten Gillibrand—for remaining silent or even supporting anti‑Muslim rhetoric despite the GOP’s campaign against El‑Sayed.",
+    "Midterm stakes are high as the author urges Democrats to match the Clintons’ defense of religious tolerance and reject the GOP’s Islamophobic tactics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261030105943.3.6c6f68d6d8851c69@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "I Love Election Nights (Yes, Really)",
+   "date": "2026-10-30T03:59-07:00",
+   "url": "https://open.substack.com/pub/messagebox/p/i-love-election-nights-yes-really",
+   "bullets": [
+    "Dan Pfeiffer says he actually enjoys election nights, viewing them as the payoff for campaign work and a chance to test poll predictions against real results",
+    "He offers paid subscribers an election‑night guide, rapid poll‑response analysis, a live Substack chat, a post‑mortem Wednesday piece, and deeper post‑election coverage, with a 20% annual discount",
+    "He predicts a strong Democratic showing and hopes Donald Trump faces a decisive defeat"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261030103117.3.94a2a37ef5431e68@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Trumpflation and Travel",
+   "date": "2026-10-30T03:31-07:00",
+   "url": "https://paulkrugman.substack.com/p/trumpflation-and-travel",
+   "bullets": [
+    "A chart of the Fed's preferred inflation gauge shows a sharp rise, marking the last major data point before the midterms.",
+    "Krugman attributes the surge to Trump's policies, first tariffs and now war, coining the term 'Trumpflation' for the inflationary impact."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261030012259.3.e4017c215675cfe9@mg-d0.substack.com",
    "newsletter": "Catherine Rampell - The Bulwark",
@@ -156,10 +291,11 @@
    "date": "2026-10-29T10:07-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/inside-trumps-desperate-final-push",
    "bullets": [
-    "President Donald Trump and Republicans are engaging in an all-out effort to challenge the results of next week’s midterm elections, in a desperate campaign to cling to power for the next two years – spreading unfounded fears of noncitizen v…",
-    "To help sway the election in Republicans’ favor, the DOJ is apparently violating its own policies by attempting to interfere with how states administer elections and determine the validity of votes. And even as its lawsuits flounder, the Tr…"
+    "Trump and top Republican officials are orchestrating a coordinated campaign to overturn the 2026 midterm results, including false claims of non‑citizen voting, targeting opponents, and threatening Democratic election officials with criminal prosecution.",
+    "The Justice Department is allegedly violating its own policies by trying to influence state election administration and arguing courts that the election isn’t legitimate unless Trump wins.",
+    "White House officials have not ruled out deploying military, federal law enforcement, or armed ICE agents at polls, a move the author says would be illegal but reflects a last‑ditch escalation to rig the vote."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261029170001.3.f0925080c9c6dac4@mg-d1.substack.com",
@@ -245,10 +381,10 @@
    "date": "2026-10-29T04:37-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/dems-are-bleeding-team-trump-in-this",
    "bullets": [
-    "📱 If our emails sometimes get buried in your inbox, we’ve got another way for you to keep up to date: the new  [ https://substack.com/redirect/b5203b68-4354-4619-9ad6-4fd233243a26?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1zt…",
-    "Happy Thursday! It’s Swin again. In the very last days of the interminable, extremely  [ https://substack.com/redirect/e10c5541-8ca7-4c36-8ce7-b85701e5ca6c?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]high-stakes [ htt…"
+    "Republicans fear a disastrous loss in Kansas, where Democrat Adam Hamilton is closing in on Trump‑backed Sen. Roger Marshall, a potential bellwether for a 2026 blue wave despite Trump’s 16‑point 2024 win.",
+    "If Kansas flips, GOP insiders expect intense intra‑party blame‑games targeting Trump advisers like Susie Wiles and James Blair, while even a Marshall win may still signal deeper damage to the party’s future."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261029020520.3.c714bbbb77142649@mg-d0.substack.com",
@@ -5566,186 +5702,10 @@
     "The episode also notes turmoil in FBI leadership after a top deputy’s resignation, suggesting internal instability amid these scandals."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260929191146.3.11b00fdc3b9b8285@mg-d0.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "An Evangelical Kingmaker Is Lost in the Age of Trump",
-   "date": "2026-09-29T12:11-07:00",
-   "url": null,
-   "bullets": [
-    "Tony Perkins, once an evangelical kingmaker, addressed a sparsely attended Pray Vote Stand Summit in Leesburg, noting that abortions have risen 21% since 2020, driven by mail‑order pills like mifepristone.",
-    "Perkins blamed the Biden administration’s rule allowing abortion pills to be mailed and criticized the Trump administration and GOP for failing to uphold a strong pro‑life stance, despite the party dropping a nationwide ban from its 2024 platform.",
-    "The Family Research Council’s flagship event saw a dramatic drop in high‑profile speakers—only Sen. Josh Hawley appeared in person, with others like Speaker Mike Johnson reduced to Zoom—signaling waning evangelical influence in Trump’s coalition."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929190735.3.4d505ddd5609ee9a@mg2.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Less than 36 hours",
-   "date": "2026-09-29T12:07-07:00",
-   "url": "https://roycoopernc.substack.com/p/less-than-36-hours",
-   "bullets": [
-    "President Trump and Vice President Vance visited North Carolina to rally GOP voters and spread lies about Roy Cooper, threatening his slim lead in the Senate race.",
-    "Recent polls show Cooper’s lead narrowing to a statistical tie, and the campaign’s budget gap must be closed before the FEC deadline to fund counter‑attack ads."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929170144.3.0888a4cb2f37ac79@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "The Board of Peace Is an Abject Failure, and Palestinians Are Paying the Price",
-   "date": "2026-09-29T10:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-board-of-peace-is-an-abject-failure",
-   "bullets": [
-    "Tony Blair, former UK prime minister, now serves as a key figure on Donald Trump’s Board of Peace, positioning himself as a mediator while promoting U.S. interests in the Middle East.",
-    "At a Board of Peace event near the UN General Assembly, Blair lectured Palestinians to abandon the slogan “free Palestine,” claiming they need a practical solution rather than rhetoric.",
-    "The Board of Peace offers no substantive plan for Palestinian statehood or humanitarian relief, leaving Palestinians to bear the consequences of U.S. policy while the board remains largely symbolic and ineffective."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929165850.3.3e5dccc495b84ede@mg2.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "The situation is serious",
-   "date": "2026-09-29T09:58-07:00",
-   "url": "https://ossoff.substack.com/p/the-situation-is-serious",
-   "bullets": [
-    "Jon Ossoff, the only Democratic senator up for reelection in a Trump‑won state, warns he is the top MAGA target and urges immediate donations to his campaign via ActBlue",
-    "He claims the GOP will spend heavily to back Trump ally Mike Collins for the seat, framing the race as critical to national political balance"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929163333.3.6beb3e3e02a00184@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Forces of Trumpism Are in Disarray",
-   "date": "2026-09-29T09:33-07:00",
-   "url": null,
-   "bullets": [
-    "The past 72 hours have exposed deep fractures in the GOP, signaling that Trump’s movement and party may lose electoral dominance and control of political events."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929143112.3.c22d4f4ba6ff4749@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why Abdul El-Sayed Is Overperforming With Trump Voters",
-   "date": "2026-09-29T07:31-07:00",
-   "url": null,
-   "bullets": [
-    "Abdul El‑Sayed, a Democrat, is gaining traction with 2024 Trump voters—winning 8 % of them in a NYT/Siena poll, higher than other swing‑state Democratic Senate candidates like Chris Pappas (5 %) and Troy Jackson (3 %).",
-    "El‑Sayed’s appeal is partly due to shared positions with far‑right figures: he opposes AIPAC, cuts Israel aid, and pushes lower health insurance costs, leading commentators like Tucker Carlson to label his campaign “literally Trumpian.”",
-    "A focus group of Michigan Trump voters who disapprove of Trump’s performance revealed that El‑Sayed’s messaging resonates with them, suggesting his crossover strategy is working beyond traditional Democratic bases."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929140203.3.8f7abaeb726fe80e@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "We lost two days of outreach to a Facebook outage. Here’s why that matters.",
-   "date": "2026-09-29T07:02-07:00",
-   "url": "https://roycoopernc.substack.com/p/we-lost-two-days-of-outreach-to-a",
-   "bullets": [
-    "A Facebook glitch halted the campaign's digital ads for two days, cutting voter outreach and fundraising just 35 days before the North Carolina Senate election.",
-    "The loss threatens the campaign's end-of-quarter fundraising deadline, risking a shortfall of hundreds of thousands of dollars as the opponent spends over $100 million from GOP dark‑money super PACs.",
-    "The email urges supporters to donate, even $5, to recover the outreach deficit and meet the fundraising goal before the October 15 absentee‑ballot deadline."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929132819.3.8efc740245b33430@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Impeach Him Again",
-   "date": "2026-09-29T06:28-07:00",
-   "url": null,
-   "bullets": [
-    "Senate Republicans are still pursuing impeachment, with Judiciary Committee hearing former Special Counsel Jack Smith, who says he would prosecute a former president regardless of party, to justify charges against Trump.",
-    "Andrew Egger argues Democrats should not pursue a third Trump impeachment, citing political costs, the difficulty of convincing the public, and the potential for a more damaging focus on other targets like Defense Secretary Pete Hegseth."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929112207.3.4980c1ea85897a92@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Israel Has Kidnapped Another American Teenager",
-   "date": "2026-09-29T04:22-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/israel-has-kidnapped-another-american",
-   "bullets": [
-    "Israeli forces abducted 17‑year‑old American‑born Abdalkareem Issa Ahmed Safi from his West Bank home in June, placing him in administrative detention without disclosed charges, likely until at least Oct. 28.",
-    "Safi is held in Ofer prison’s adult wing under harsh conditions—beatings, overcrowding, shackling, and hunger—mirroring broader Israeli practices of secret‑evidence detentions of Palestinians."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929110848.3.dfc47ae95eddeb31@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Beclowning of Scott Bessent",
-   "date": "2026-09-29T04:08-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-beclowning-of-scott-bessent",
-   "bullets": [
-    "Krugman argues Treasury Secretary Scott Bessent, once praised by Obama’s chief economist as credible, has become a market “clown” after boasting he can move bonds and buying 30‑year Treasuries, a move likened to worsening a mortgage with credit‑card debt.",
-    "He links soaring long‑term rates—unseen since the dot‑com bubble—to an AI‑driven investment boom, higher oil prices after Trump rejected an Iranian cease‑fire, and a shipping crunch, suggesting inflation and Fed tightening will keep rates high, humiliating Bessent’s market interventions.",
-    "Krugman contends Bessent’s prediction of Iran’s economic collapse within weeks and a quick Trump‑friendly deal is as implausible as his bond‑market bravado, illustrating how association with Trump can utterly destroy a previously respected reputation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929103110.3.a6ca538d6b8591bb@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Are the Polls Too Good to Be True?",
-   "date": "2026-09-29T03:31-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/are-the-polls-too-good-to-be-true",
-   "bullets": [
-    "Pfeiffer notes Democrats are unusually optimistic after Nate Silver’s poll averages show Democratic leads in several Senate races, including Texas (+3.4) and Ohio (+4.1), sparking doubts about poll accuracy.",
-    "He reminds readers that 2016‑2020 polls missed Trump’s strength due to undersampling his voters, but 2024 polls have been broadly correct, though some Democrats still feel misled.",
-    "Pfeiffer urges readers to temper excitement with a realistic view of poll margins as the election approaches over the next four weeks."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929100319.3.02322611618ec7d4@mg-d0.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Flu is here early. Plus Covid, mosquitoes, and more.",
-   "date": "2026-09-29T03:03-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/flu-is-here-early-plus-covid-mosquitoes",
-   "bullets": [
-    "Flu activity is rising unusually early, especially in the Western U.S., mirroring early surges in the U.K., Japan and parts of the Southern Hemisphere, prompting a recommendation to get the flu shot now rather than waiting until October.",
-    "National wastewater data show Covid‑19 cases have peaked, with deaths projected at about 9,100 this year—roughly half the annual flu death toll—so vaccination remains important for high‑risk groups.",
-    "Mosquito‑borne disease risk remains elevated in the Southwest (Phoenix and California) despite a quieter national season, so continue repellent use and eliminate standing water until the first sustained cold snap."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929090234.3.fdc4cd4bbc1e7072@mg2.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Going With the Flow",
-   "date": "2026-09-29T02:02-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/going-with-the-flow",
-   "bullets": [
-    "The newsletter predicts Ed Miliband could become UK prime minister as a climate‑policy pivot, but he was instead appointed foreign secretary while his successor Miatta Fahnbulleh remains a climate advocate.",
-    "Despite a triple shortage of LNG, crude oil and refined products, the UK government is advancing a costly 350‑mile hydrogen pipeline (Project Union) that critics say lacks demand and downstream infrastructure.",
-    "The author argues the UK faces a harsher winter energy shock than the EU, highlighting its vulnerability to global energy markets and questioning the government's energy strategy."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 99,
-  "total": 418
+  "shown": 102,
+  "total": 415
  }
 }
