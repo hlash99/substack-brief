@@ -1,56 +1,140 @@
 {
- "updated": "2026-10-29T12:43-07:00",
+ "updated": "2026-10-29T19:42-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The GOP’s internal fractures—exemplified by far‑right club splits, anti‑Muslim ad scandals, and Trump‑aligned candidates floundering over controversial ads—are fueling a Democratic wave that could reshape the Senate and House in 2026 (The Bulwark, Zeteo, The Message Box).",
-   "Democrats are capitalizing on the GOP’s turmoil, with aggressive fundraising pushes in New Hampshire, North Carolina, and Ohio, and a strategic focus on flipping deep‑red Senate seats in Mississippi, South Carolina, and Florida (The Bulwark, The Message Box).",
-   "AIPAC’s influence is under intense scrutiny, from a whistleblower documentary to congressional calls for a foreign‑agent investigation, highlighting growing bipartisan concern over pro‑Israel lobbying (Mehdi Unfiltered, Zeteo).",
-   "Middle‑East conflict remains a flashpoint, as Israel’s election politics marginalize Palestinian citizens, while U.S. lawmakers grapple with aid, anti‑Muslim rhetoric, and calls to curb weapons shipments (Zeteo, The Bulwark).",
-   "Economic anxieties—rising gas prices, inflation risks, and looming debt crises—are dominating the political narrative, with Trump dismissing fuel costs and Krugman warning of stagflation and a potential AI‑driven bubble (Paul Krugman, First Draft | Zeteo)."
+   "The midterm race is turning into a high‑stakes battle for the Senate, with Democrats racing to raise funds and mobilize voters in key swing states while GOP dark‑money spending hits $66 million in New Hampshire and $180 million in Texas (Chris Pappas, Bill Kristol & Andrew Egger).",
+   "Trump’s influence remains a central threat: his rallies, grand‑jury attempts to indict allies, and the spread of his fraud narrative are fueling GOP attacks and threatening to derail certification in several close contests (The Bulwark, Zeteo, The Message Box).",
+   "Corporate ties to Trump are under scrutiny as investigations target oil firms and other companies that courted the former president, with potential subpoenas looming as Democrats regain congressional power (Catherine Rampell).",
+   "Vivek Ramaswamy’s controversial “rapist protector” ad has backfired, prompting GOP leaders to warn him and highlighting the broader issue of divisive attack ads in the Ohio Senate race (Zeteo).",
+   "Democratic candidates like Jon Ossoff and Catherine Cortez Masto are intensifying outreach to Latino and black voters, noting that redistricting and increased turnout could flip the Senate, while also calling for grassroots donations (Jon Ossoff, Lauren Egan).",
+   "AI‑driven tech concerns—ranging from AI investment stalls to critical PHP vulnerabilities—are emerging as new economic and national‑security risks that could impact midterm campaign messaging and policy debates (Paul Krugman)."
   ],
   "by": "groq",
   "ids": [
-   "20261024090202.3.475311b33df96940@mg2.substack.com",
-   "20261024100113.3.26dc2fe465e8cb00@mg-d0.substack.com",
-   "20261024103035.3.bc5c847bfdb72e87@mg2.substack.com",
-   "20261024130205.3.49582bc767a6775c@mg-d1.substack.com",
-   "20261024134435.3.1cad69d35c5e0d7d@mg2.substack.com",
-   "20261024140309.3.3f095ea5b9ccc2a1@mg-d1.substack.com",
-   "20261024145738.3.644969ff1d1e0ef1@mg2.substack.com",
-   "20261024163048.3.27c0a583c08f9c5f@mg-d1.substack.com",
-   "20261024170235.3.10a5fa7f8e3e6bbb@mg2.substack.com",
-   "20261024190300.3.b34cc422f8bdb918@mg-d1.substack.com",
-   "20261024213041.3.3edb3f4258ec5403@mg-d1.substack.com",
-   "20261024230108.3.da3355e218bdae78@mg2.substack.com",
-   "20261025010059.3.dbe5dea22f024af0@mg2.substack.com",
-   "20261025020433.3.c237c11a8f479e61@mg-d0.substack.com",
-   "20261025100257.3.6c9ebcc9a4cef216@mg-d1.substack.com",
-   "20261025104455.3.e128c4aa738ba04c@mg-d0.substack.com",
-   "20261025112933.3.810f9a92f93b9a77@mg2.substack.com",
-   "20261025140334.3.433bad644f959a52@mg-d0.substack.com",
-   "20261025140337.3.80c0948bfcb35f99@mg2.substack.com",
-   "20261025233932.3.65ad4cf4554a5db8@mg2.substack.com",
-   "20261026000234.3.ddcc053dc0c6d5f6@mg2.substack.com",
-   "20261026013039.3.f615e964f0abfee8@mg-d1.substack.com",
-   "20261026103837.3.da359ca134267852@mg-d0.substack.com",
-   "20261026112031.3.6844482644e93c4f@mg2.substack.com",
-   "20261026114946.3.fd829d76a4f9e9a0@mg-d1.substack.com",
-   "20261026133112.3.dc321aaf8d92d5dd@mg-d0.substack.com",
-   "20261026150251.3.048edf08d04e132f@mg-d0.substack.com",
-   "20261026161136.3.6e5840f4feea886a@mg-d0.substack.com",
-   "20261026163212.3.20f1926a820061ab@mg2.substack.com",
-   "20261026210058.3.2d93045183ff3010@mg2.substack.com",
-   "20261026235208.3.e6c2a6594e04602d@mg2.substack.com",
-   "20261027010054.3.3369d43f64989553@mg-d0.substack.com",
-   "20261027010101.3.bfd0f55eb231630a@mg2.substack.com",
-   "20261027013039.3.c15ce7dfad8e5cd4@mg2.substack.com"
+   "20261027090106.3.3203d7f79675569f@mg2.substack.com",
+   "20261027090113.3.3ec9d0a762b95712@mg2.substack.com",
+   "20261027103114.3.dd5e00aff0114879@mg-d1.substack.com",
+   "20261027104341.3.db9cb20a544061c0@mg-d0.substack.com",
+   "20261027105235.3.90887433c6cd812e@mg-d1.substack.com",
+   "20261027112701.3.12e37812741f7d56@mg2.substack.com",
+   "20261027113611.3.30cfef0913098ff4@mg-d0.substack.com",
+   "20261027132556.3.d0fd77f1ab3053a3@mg-d0.substack.com",
+   "20261027140015.3.d01134feb6a38536@mg-d1.substack.com",
+   "20261027143539.3.46ef0216b50c66dd@mg2.substack.com",
+   "20261027151613.3.262d979837ce088b@mg-d0.substack.com",
+   "20261027163049.3.87f4d578be847236@mg-d1.substack.com",
+   "20261027191547.3.26b493c079486b89@mg-d0.substack.com",
+   "20261027223935.3.8c3996a6861b3cdb@mg2.substack.com",
+   "20261027231835.3.10b266f350f2e572@mg-d1.substack.com",
+   "20261027235633.3.20be74b18bef650c@mg-d1.substack.com",
+   "20261028003043.3.41f6b57ff2255b50@mg-d1.substack.com",
+   "20261028015717.3.3c0093e99ac74c91@mg2.substack.com",
+   "20261028020133.3.edddd91307276001@mg-d0.substack.com",
+   "20261028103055.3.68001b09c57e1f5b@mg2.substack.com",
+   "20261028114034.3.df63cacc6a7ef25d@mg-d1.substack.com",
+   "20261028133113.3.e3fe374adedfc80e@mg2.substack.com",
+   "20261028133424.3.4ebb463efd84e353@mg2.substack.com",
+   "20261028140920.3.edd2dffa3534059c@mg-d0.substack.com",
+   "20261028144040.3.1e79b5a46b52ead8@mg-d1.substack.com",
+   "20261028150046.3.9cc7e6bdc90e4580@mg2.substack.com",
+   "20261028164539.3.014aa32585748b17@mg2.substack.com",
+   "20261028164920.3.f5af19a4d9b4b944@mg2.substack.com",
+   "20261028173407.3.40220e4617b153bb.4yxh4x48@mg1.substack.com",
+   "20261028200104.3.7b9ec536bad527b6@mg-d0.substack.com",
+   "20261028200131.3.b2da3aa59a16b1db@mg-d1.substack.com",
+   "20261028223337.3.c6f26cac7dd614ff@mg2.substack.com",
+   "20261028230111.3.0a673c34ac3ef7fb@mg2.substack.com",
+   "20261029000008.3.cd2ca01dfa062ac4@mg-d1.substack.com",
+   "20261029010126.3.fc2ad6833545b195@mg-d1.substack.com",
+   "20261029013044.3.358ffd7947da13ca@mg-d1.substack.com",
+   "20261029020520.3.c714bbbb77142649@mg-d0.substack.com",
+   "20261029115644.3.ce0019210f83cd95@mg-d0.substack.com",
+   "20261029120337.3.3754c5b674a4d1fc@mg-d0.substack.com",
+   "20261029132825.3.9a9eef2bcec9eb18@mg-d1.substack.com",
+   "20261029143805.3.8898b87d0674adc3@mg-d0.substack.com",
+   "20261029164128.3.88d36de16620f1fb@mg-d1.substack.com",
+   "20261029170001.3.f0925080c9c6dac4@mg-d1.substack.com",
+   "20261029192913.3.66c6abf6f6fef27f@mg-d0.substack.com",
+   "20261029210123.3.391c705c76b5d9c1@mg-d1.substack.com",
+   "20261029210137.3.8924789db6954469@mg2.substack.com",
+   "20261029235737.3.9b4b982e6f6c16cd@mg2.substack.com",
+   "20261030000819.3.4a1c54781dabebe6@mg2.substack.com",
+   "20261030012259.3.e4017c215675cfe9@mg-d0.substack.com"
   ],
-  "updated": "2026-10-26T19:11-07:00",
+  "updated": "2026-10-29T19:42-07:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261030012259.3.e4017c215675cfe9@mg-d0.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Companies That Cozied Up to Trump Brace for a Reckoning",
+   "date": "2026-10-29T18:22-07:00",
+   "url": null,
+   "bullets": [
+    "Corporations that courted Trump—offering gifts, donations, equity stakes, and legal assistance—did so to secure favorable treatment, ignoring constitutional and market rule violations.",
+    "With Democrats poised to regain a congressional chamber and wield subpoena power, firms like oil companies face investigations for illegal actions such as facilitating Russian diesel imports under Trump pressure.",
+    "Rampell argues that restoring the rule of law will require not only punishing these corporate collaborators but also reshaping incentives to deter future capitulation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261030000819.3.4a1c54781dabebe6@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Vivek Ramaswamy Pulls His Disturbing Ad After ‘Our Numbers Cratered’",
+   "date": "2026-10-29T17:08-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/vivek-ramaswamy-pulls-his-disturbing-ad",
+   "bullets": [
+    "Ohio GOP gubernatorial nominee Vivek Ramaswamy halted his controversial “rapist protector mom” ad after internal GOP polling showed his support dramatically fell, prompting calls from party leaders.",
+    "The ad, initially defended by Trump and JD Vance, sparked outrage among Ohio Republicans who feared it would damage other GOP candidates on the ticket.",
+    "Ramaswamy’s campaign had planned to spend millions on the ad, but staff received relentless pleas from conservatives to pull it, leading to its removal."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261029235737.3.9b4b982e6f6c16cd@mg2.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "About our rally with President Obama",
+   "date": "2026-10-29T16:57-07:00",
+   "url": "https://ossoff.substack.com/p/about-our-rally-with-president-obama",
+   "bullets": [
+    "Jon Ossoff says he and President Obama rallied thousands in Atlanta to oppose the Trump administration and his GOP opponent Mike Collins as Georgia voting intensifies",
+    "He urges supporters to donate via ActBlue, noting MAGA has spent tens of millions to defeat him but claims they previously won and can do it again"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261029210137.3.8924789db6954469@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Are Never-Trumpers Welcome in the Democratic Party? Mehdi Asks Sarah Longwell",
+   "date": "2026-10-29T14:01-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/are-never-trumpers-welcome-in-the",
+   "bullets": [
+    "Sarah Longwell, former Republican operative turned Never‑Trumper, says Kamala Harris’s 2024 campaign failed because centrists saw her as too progressive and progressives saw her as too centrist, leaving her message undefined.",
+    "Longwell argues Democrats should consider shifting rightward, cites focus‑group data on former Trump voters abandoning him, and suggests House Democrats prioritize investigating Trump administration officials over impeachment if they regain Congress.",
+    "The interview also covers Longwell’s work for a right‑wing lobbyist nicknamed ‘Dr. Evil,’ her view that the GOP helped create Trump, and why she defends Liz Cheney’s alliance with Harris but not progressive figures like Hasan Piker."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261029210123.3.391c705c76b5d9c1@mg-d1.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "Your support can’t wait",
+   "date": "2026-10-29T14:01-07:00",
+   "url": "https://chrispappasnh.substack.com/p/less-than-5-days",
+   "bullets": [
+    "With five days left before Election Day, Pappas warns that New Hampshire voters largely vote on that day, making the final stretch decisive for the Senate race.",
+    "He notes the GOP candidate John Sununu leads in polls after $66 million of GOP spending, and urges donors to contribute $10‑$15 to close the fundraising gap and keep New Hampshire blue."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261029192913.3.66c6abf6f6fef27f@mg-d0.substack.com",
    "newsletter": "Joe Perticone - The Bulwark",
@@ -5658,65 +5742,10 @@
     "The author argues the UK faces a harsher winter energy shock than the EU, highlighting its vulnerability to global energy markets and questioning the government's energy strategy."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260929001622.3.1683b74b084f49ed@mg-d1.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Bizarro White House Vid Has QAnon Buzzing",
-   "date": "2026-09-28T17:16-07:00",
-   "url": null,
-   "bullets": [
-    "Dan Scavino, Trump’s deputy chief of staff, posted an AI‑generated six‑second video of himself and Eric Trump drunkenly partying on a luggage cart, set to Pitbull’s “Don’t Stop the Party,” sparking bipartisan outrage amid rising oil prices and mortgage rates",
-    "The clip, billed by Scavino as a “post State Dinner party,” was condemned by Republicans like former Senate candidate Kathy Barnette as “stupid” and used by liberals to mock Trump’s inner circle",
-    "QAnon supporters, however, celebrated the video, interpreting it as confirmation of their pro‑Trump conspiracy narratives"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260928202015.3.39b460d5f6b02ba7@mg2.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "I have nowhere else to turn",
-   "date": "2026-09-28T13:20-07:00",
-   "url": "https://roycoopernc.substack.com/p/i-have-nowhere-else-to-turn",
-   "bullets": [
-    "The campaign has three days to meet its FEC quarterly fundraising deadline before the election, fearing a shortfall could jeopardize the Democratic bid to flip North Carolina’s Senate seat, which Politico says is pivotal for Senate control.",
-    "Recent polls show Republican Michael Whatley closing in, while GOP groups are spending tens of millions on attack ads that amplify Trump’s false claims about Roy Cooper, prompting an urgent $5‑plus donation request."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260928201659.3.ada7975da5fceec6@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Republicans Are Running Away From Trump’s Iran War as Midterms Near",
-   "date": "2026-09-28T13:16-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/republicans-run-away-trump-iran-war",
-   "bullets": [
-    "Trump’s 2023 Iran raid spurred a surge in diesel and gas prices, with a CNN/SSRS poll showing 73% of Americans disapprove of the move, threatening Republican midterm prospects.",
-    "Several GOP candidates who once championed the Iran strike—such as Mike Rogers—now urge an end to the conflict, citing public backlash and the war’s economic toll.",
-    "Rogers, who framed the raid as a “biggest opportunity for peace,” now calls for a swift conclusion, arguing that continued U.S. involvement risks a protracted, costly war."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260928200114.3.7ff24c73769bf6ff@mg-d0.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Trump Said It Out Loud. His Cabinet Says It Never Happened.",
-   "date": "2026-09-28T13:01-07:00",
-   "url": null,
-   "bullets": [
-    "Trump claims he will ban news outlets for negative coverage, but his own officials deny this, insisting no such policy exists, creating a stark contradiction between the president and his staff.",
-    "Todd Blanche defends Trump’s press crackdown by arguing it protects national security, while Mike Waltz is confronted with Trump’s own statements that contradict the official narrative.",
-    "The newsletter notes a shifting story about the U.S. war with Iran, highlighting inconsistencies in the administration’s messaging on foreign policy and media control."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 100,
-  "total": 417
+  "shown": 99,
+  "total": 418
  }
 }
