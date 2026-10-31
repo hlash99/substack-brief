@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T12:30-07:00",
+ "updated": "2026-10-30T19:32-07:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -68,6 +68,88 @@
  },
  "items": [
   {
+   "id": "20261031000103.3.e59c73fa8ca8f135@mg-d1.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "About Karoline Leavitt",
+   "date": "2026-10-30T17:01-07:00",
+   "url": "https://chrispappasnh.substack.com/p/about-karoline-leavitt-d33",
+   "bullets": [
+    "John Sununu leads in NH polls with $67 million GOP spend, threatening to flip the Senate seat and boost Trump’s agenda; Chris Pappas urges $10‑$15 donations to keep the seat open.",
+    "Pappas contrasts his service‑focused record—lower drug costs, veterans’ benefits, small‑biz support, reproductive freedom, Medicare/Social Security—with Karoline Leavitt’s MAGA‑oriented, media‑centric campaign that New Hampshire voters rejected in 2022.",
+    "He warns that a GOP win would cement Trump’s Senate control and undermine New Hampshire’s independent, community‑focused politics, urging urgent grassroots funding to preserve the state’s values."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261030231430.3.65c7dc406fa561e9@mg-d1.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "BURN MAGA TO THE GROUND",
+   "date": "2026-10-30T16:14-07:00",
+   "url": null,
+   "bullets": [
+    "Each week, Sarah and JVL sit down to hash out their thinking on the latest political news driving the headlines. Enjoy, this FREE preview.  Join Bulwark+ now to go behind the paywall and continue the conversation in the comments with the Se…",
+    "This is it: The last Friday Secret before the elections. And at the very end, we have the surprise you’ve been waiting for . . . The Secret Podcast with JVL and Sarah is exclusively for members of Bulwark+. Upgrade now to watch (or listen) …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261030230056.3.6085a0b68717de28@mg2.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 93: Trump Targets El-Sayed, California Voters, and a Familiar Foe Ahead of Midterms",
+   "date": "2026-10-30T16:00-07:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-93-trump",
+   "bullets": [
+    "Trump’s Justice Department charged former FBI Director James Comey with two Espionage Act counts, marking his third indictment in 13 months, while a grand jury declined to indict former aide Cassidy Hutchinson over Jan. 6 testimony.",
+    "The administration issued over 100 subpoenas to obtain voting records in at least 13 states, expanded a criminal probe into California voters, and warned all 50 states that election officials could face prosecution for violating federal election laws.",
+    "Trump threatened to cancel the Alaska Senate election, called Democratic nominee Mary Peltola a target, and ordered the mass expulsion of more than 150 Afghan immigrants from Louisiana to Pakistan, risking persecution for some."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261030222239.3.f044db72c332a6c0@mg-d0.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "Please",
+   "date": "2026-10-30T15:22-07:00",
+   "url": "https://ossoff.substack.com/p/please",
+   "bullets": [
+    "Senator Jon Ossoff asks recipients to donate $10‑$50 to his 2026 reelection campaign via ActBlue, emphasizing it’s a grassroots effort without corporate PAC or lobbyist money",
+    "He frames the contribution as a decisive rebuke to the MAGA movement and a way to protect the future of the Republic"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261030202708.3.04e1ce531b0d31a7@mg-d1.substack.com",
+   "newsletter": "Pete Buttigieg",
+   "pub": "petebuttigieg",
+   "subject": "What’s Really at Stake in New Hampshire?",
+   "date": "2026-10-30T13:27-07:00",
+   "url": "https://petebuttigieg.substack.com/p/whats-really-at-stake-in-new-hampshire",
+   "bullets": [
+    "Buttigieg argues that rising living costs in New Hampshire are driven by the Trump‑Vance administration and Governor Kelly Ayotte, urging voters to elect candidates who will lower expenses and block that agenda",
+    "He endorses Congressman Chris Pappas for Senate and state candidates Stefany Shaheen, Maggie Goodlander, and Cinde Warmington, noting Pappas’s race will determine Senate control",
+    "He urges viewers to watch his recap video, comment, and vote on November 3 to support these candidates"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261030194901.3.6837e084237d0da6@mg-d0.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Patrick Stewart, R.I.P.",
+   "date": "2026-10-30T12:49-07:00",
+   "url": null,
+   "bullets": [
+    "Patrick Stewart’s 2023 memoir *Making It So* mixes humor with reflections on his Shakespearean roots and iconic roles as Captain Picard and Professor X, underscoring his lasting cultural impact.",
+    "Texas denied a $128,000 state film grant to *Elastic Hearts* because it tackled abortion, illustrating how political leaders use arts incentives to enforce ideological compliance, a pattern echoed in other states’ tax‑credit controversies.",
+    "The newsletter recommends the darkly comic *Wild Horse Nine*—a Martin McDonagh film starring John Malkovich as a CIA assassin grappling with mortality—as a standout recent release."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261030183747.3.387433a9bffa9c62@mg-d1.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
@@ -89,10 +171,11 @@
    "date": "2026-10-30T09:43-07:00",
    "url": null,
    "bullets": [
-    "Quick alert! I got something special for you on the Secret later today. You’ll thank me. —JVL Mary Peltola’s team did something not nice and unsportsmanlike. They went and found another guy named Dan Sullivan and got him on the ballot in th…",
-    "Republicans are outraged—not just random Republicans on X, but national, elected Republicans. They have sued. They are calling on Peltola to drop out of the race. They are demanding that if Peltola wins the election, her victory not be cert…"
+    "Mary Peltola’s campaign added a second candidate named Dan Sullivan to the Alaska Senate ballot, prompting Republican lawsuits and calls for her removal, though the tactic is legal under Alaska’s ranked‑choice voting system.",
+    "Republicans, including national elected officials and President Trump, claim the move is dishonest and demand Peltola be prosecuted or not seated, despite no evidence it violates election law.",
+    "The author argues the controversy is a partisan character attack, noting Republicans previously accepted hardball tactics like DeSantis’s gerrymandering, and urges conservatives to stop whining."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261030150229.3.885e7020011653a3@mg-d0.substack.com",
@@ -102,10 +185,11 @@
    "date": "2026-10-30T08:02-07:00",
    "url": "https://open.substack.com/pub/zeteo/p/angie-nixon-florida-senate-race",
    "bullets": [
-    "Angie Nixon, a progressive who was recently endorsed [ https://substack.com/redirect/a8077eb1-5949-440a-9a79-4d91368cf851?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ] by former President Barack Obama, is vying to beco…",
-    "Nixon’s campaign is calling for Medicare for All, abolishing ICE [ https://substack.com/redirect/24db7a1f-4eb4-4993-99e3-3e2e2e6150f0?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ], raising the federal minimum wage, and…"
+    "Progressive Angie Nixon, endorsed by Barack Obama, is running to become Florida’s first Black senator and the first Democrat to win a Senate seat there since 2012, but polls show her trailing incumbent Republican Ashley Moody by several points.",
+    "Nixon’s platform includes Medicare for All, abolishing ICE, and raising the federal minimum wage, while she accuses Moody of sending people to harass her staff and refusing to debate her.",
+    "In the interview she addresses mischaracterizations of her Cuba comments, attacks by far‑right activist Laura Loomer, her recent DSA membership, and hints at possibly leaving the Democratic Party after the election."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261030143536.3.4a03f76408662f00@mg-d1.substack.com",
@@ -129,10 +213,11 @@
    "date": "2026-10-30T07:02-07:00",
    "url": "https://roycoopernc.substack.com/p/from-last-july-to-the-final-weekend",
    "bullets": [
-    "Since the start of early voting, our team and volunteers contacted more than 619,000 voters across North Carolina. And this week, I continued my Make Stuff Cost Less tour in Charlotte and Durham and felt the energy of a crowd ready for chan…",
-    "I launched this race last July because I knew that we could have better days ahead of us. And these past 15 months have shown me that North Carolinians agree. People all across the state and country are standing up and making their voices h…"
+    "Since early voting began, Roy Cooper’s campaign and volunteers have contacted over 619,000 North Carolina voters and are urging a final push before the November 3 election.",
+    "Tomorrow is the last day for in‑person early voting and same‑day registration in NC; polls open Tuesday 6:30 am‑7:30 pm, with links provided for sites.",
+    "The campaign asks supporters to donate $5 to fund final organizing efforts to flip the Senate seat."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261030133217.3.1294fadb45949a7c@mg2.substack.com",
@@ -5660,52 +5745,10 @@
     "The author argues that cutting such research leaves critical data gaps, erodes community trust, and hampers cost‑saving interventions for disparities like Black maternal mortality (3 × higher) and rural heart disease."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20260930000225.3.14aa2c6e257b76ed@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "UN Palestine Expert Francesca Albanese on Being Sanctioned by Trump, Gaza’s Ongoing Genocide, and Netanyahu’s ‘The…",
-   "date": "2026-09-29T17:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/albanese-talks-being-sanctioned",
-   "bullets": [
-    "UN Special Rapporteur Francesca Albanese says the Gaza genocide continues despite a year‑long ceasefire, with survivors still being killed and cut off from the world.",
-    "Albanese, sanctioned by the Trump administration, vows to fight the sanctions with transparency and urges European governments to protect UN experts from political retaliation.",
-    "She criticizes Netanyahu’s recent UN speech as theatrical, links the Iran war to a distraction from Gaza, and previews an upcoming report on media complicity in the genocide."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929233622.3.1679bcbdd6c9b700@mg-d1.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Things Are Going So Badly for Trump, Even JVL Has Hope",
-   "date": "2026-09-29T16:36-07:00",
-   "url": null,
-   "bullets": [
-    "Marjorie Taylor Greene publicly rejected the GOP’s ‘caravan’ strategy, signaling internal dissent as the party flounders.",
-    "A Marist poll shows Democrats leading the generic congressional ballot by an unusually large margin, sparking talk of a potential 56‑seat Senate gain.",
-    "The hosts speculate Pete Hegseth could become the administration’s scapegoat for the Iran war and question whether Scott Jennings truly spent 30 minutes with Mitch McConnell."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20260929210903.3.039b14506957077e@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "This Kash Patel Photo Raises Some VERY Awkward Questions",
-   "date": "2026-09-29T14:09-07:00",
-   "url": null,
-   "bullets": [
-    "The hosts allege that FBI Director Kash Patel was photographed with a former informant suspected of being a double agent, raising concerns about possible corruption and counterintelligence failures in the Trump administration.",
-    "They claim U.S. Ambassador to Greece Kimberly Guilfoyle leveraged a relationship with a Greek lobbyist to pressure officials over energy contracts and threatened to destabilize the Greek government.",
-    "The episode also notes turmoil in FBI leadership after a top deputy’s resignation, suggesting internal instability amid these scandals."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 102,
-  "total": 415
+  "total": 418
  }
 }
