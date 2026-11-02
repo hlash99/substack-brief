@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:38-08:00",
+ "updated": "2026-11-02T14:50-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -68,6 +68,129 @@
  },
  "items": [
   {
+   "id": "20261102215109.3.284d8c8300f09d86@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "How Elon Musk Bought the Midterms. We Did the Math",
+   "date": "2026-11-02T13:51-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/elon-musk-474-million",
+   "bullets": [
+    "Elon Musk spent $474 million on 2026 Republican candidates, the largest single‑donor contribution in U.S. history, to help Donald Trump maintain control of Congress and undermine democratic norms.",
+    "The $474 million equals about 0.05% of Musk’s net worth and is roughly the same amount a median American could spend on a video game and a coffee tumbler."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261102200047.3.876b2bfb0f000b9c@mg-d1.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A Close-Up View of the Wildest 24 Hours of the El-Sayed Campaign",
+   "date": "2026-11-02T12:00-08:00",
+   "url": null,
+   "bullets": [
+    "Abdul El‑Sayed’s Sunday press conference at a black church was derailed by Rep. Haley Stevens’ surprise endorsement of Republican Mike Rogers, sparking a media frenzy and a rift within the Michigan Democratic Party.",
+    "El‑Sayed’s campaign raised $2.4 million in the hours after Stevens’ endorsement and an 11‑point lead in a New York Times/Siena poll, but his campaign is battling anti‑Arab and anti‑Muslim ads that tap into bigotry.",
+    "Stevens’ public endorsement of Rogers, her subsequent CNN interview, and the withdrawal of a planned joint appearance with El‑Sayed highlight deep divisions over El‑Sayed’s Israel‑related rhetoric and the broader Democratic strategy for Michigan’s Senate race."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261102183235.3.ab512d172acbda31@mg-d0.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "The local reporter who took the government to court twice",
+   "date": "2026-11-02T10:32-08:00",
+   "url": "https://post.substack.com/p/the-local-reporter-who-took-the-government",
+   "bullets": [
+    "Welcome to Local Issue, a series of profiles on the local news writers keeping the tradition of regional reporting alive. First up is Laura Belin [ https://substack.com/redirect/5c4d96d8-eb95-449f-8eeb-9e755506b1e9?j=eyJ1IjoiNWJ2anRsIn0.dvJ…",
+    "It’s Wednesday, the week before the midterm elections, and Laura Belin has just spent her morning at a briefing with Iowa’s Secretary of State and representatives from the state’s National Guard."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261102175214.3.427c7afdece21d24@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "I Believe in the Kaiju Tsunami",
+   "date": "2026-11-02T09:52-08:00",
+   "url": null,
+   "bullets": [
+    "We’ll get to everything. Trust me. But I want to start with the picture of a wave. The dotted line is what our probabilistic outcomes looked like a month ago. The blue line is where we are today. The wave is gathering energy.",
+    "This isn’t hopeium. It’s happening. The modal outcome has shifted from 52 seats to something like 54 seats. That shift might still be happening. I don’t think the polling has caught up to the facts on the ground."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261102153536.3.6c84c5fb1e7899db@mg-d0.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Blue Texas Is a Mirage—Until It Isn’t",
+   "date": "2026-11-02T07:35-08:00",
+   "url": null,
+   "bullets": [
+    "At a Trump‑backed rally in Weatherford, over 1,000 mostly Republican voters heard speakers warn of “trans ideology” and attack Democrat James Talarico, illustrating GOP’s fear‑based strategy in Texas.",
+    "Exit polls showed Trump captured about 55% of the Hispanic vote in 2024, but recent data indicate a sharp swing back to Democrats, with Latino voters now favoring Talarico over Paxton by double digits and half of 760,000 new early voters being Hispanic.",
+    "Republican officials, including state comptroller Don Huffines, acknowledged a 600,000‑vote deficit to Democrats after early voting, prompting GOP leaders to shift focus northward as southern Texas turnout surges."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261102143517.3.afc44711bca63192@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "It Won’t Be a Blue Tsunami. It’ll Be an Orange Crush.",
+   "date": "2026-11-02T06:35-08:00",
+   "url": null,
+   "bullets": [
+    "Kristol argues the 2026 midterms will deliver a decisive Democratic wave, with NYT/Siena polls showing Democrats ahead in six of seven battleground Senate states—including Texas and Kansas—and likely flipping both chambers and key governorships, effectively repudiating Trumpism.",
+    "He urges immediate voter turnout, noting over 50 million early votes already cast and stressing that tens of millions more must vote to cement this shift.",
+    "Mark Hertling highlights Trump’s recent anti‑Norway rant, noting Norway’s modest 5.6 million population, strong NATO contributions (9,200 troops in Afghanistan, ten killed), and cultural values of humility and community that clash with Trump’s worldview."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261102121151.3.139ddbd22d40e686@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Haley Stevens Called ‘MAGA Mike’ Wrong for Michigan – Then Stabbed El-Sayed and Dems in the Back",
+   "date": "2026-11-02T04:11-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/haley-stevens-called-maga-mike-wrong",
+   "bullets": [
+    "Rep. Haley Stevens announced she will vote for Trump‑aligned Rep. Mike Rogers, denouncing Abdul El‑Sayed and sparking outrage from Senate Minority Leader Chuck Schumer, who called it a “despicable betrayal.”",
+    "The move comes days before the midterms amid ongoing Trump‑backed election lawsuits, with judges in Alaska and California temporarily blocking some of the administration’s challenges.",
+    "Zeteo will broadcast live election‑night coverage from El‑Sayed’s Detroit HQ, with reporters in Ohio and Maine, urging free subscribers to upgrade for full access."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261102113151.3.711642fc68a8c96b@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "New NYT Polls Point to a Blue Tsunami",
+   "date": "2026-11-02T03:31-08:00",
+   "url": "https://open.substack.com/pub/messagebox/p/new-nyt-polls-point-to-a-blue-tsunami",
+   "bullets": [
+    "The new NYT/Siena polls show Democrats leading in all seven Senate battlegrounds, including double‑digit leads in Michigan, 7‑point lead in Texas, and 5‑point lead in Kansas, suggesting a potential blue wave.",
+    "Pfeiffer argues the poll margins may be unusually favorable to Democrats and cautions they could be too good to be true, noting even top pollsters can err.",
+    "He promotes a paid subscription for an hour‑by‑hour Election Night guide, live chat, and post‑election analysis, with further coverage planned through 2028."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261102113042.3.ab0e6f1e9cc1686c@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Oligarchy is on the Ballot",
+   "date": "2026-11-02T03:30-08:00",
+   "url": "https://paulkrugman.substack.com/p/oligarchy-is-on-the-ballot",
+   "bullets": [
+    "Only 20 ultra‑rich donors—about one ten‑millionth of the U.S. adult population—have contributed roughly $2 billion, or 15% of total midterm spending, overwhelmingly to Republican candidates.",
+    "The author argues that this oligarchic funding, enabled by Citizens United and a century‑long surge in wealth concentration, threatens a Democratic Congress that might investigate Trump‑linked corruption.",
+    "Polls show Republicans likely to lose the House and possibly the Senate, making the midterms a test of whether the wealthy can still ‘own’ the government."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261102015107.3.1658bada4572712b@mg-d0.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
@@ -75,10 +198,10 @@
    "date": "2026-11-01T17:51-08:00",
    "url": "https://open.substack.com/pub/zeteo/p/zeteos-indispensable-midterms-guide",
    "bullets": [
-    "With Donald Trump leading an authoritarian presidency, inflicting violence across America and the world, and jacking up the cost of living to unaffordable new heights, the 2026 midterm elections present an opportunity for voters, via the De…",
-    "Will Trump’s warmongering, vile racism, and brazen corruption be punished? Will Republicans pay a price for supporting the Trump-Israeli war with Iran, siccing masked ICE agents on communities nationwide, and covering up the Epstein Files?"
+    "Trump’s authoritarian actions and economic policies have made the 2026 midterms a pivotal chance for Democrats to impose checks, with Republicans risking backlash for supporting his war stance and ICE tactics.",
+    "The Senate currently stands at a 53‑47 Republican majority; Democrats need to net four seats—potentially five if Senator John Fetterman departs—to flip control, overturning the tie‑breaker role of Vice President JD Vance."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261102013740.3.40220e4617b153bb.233x7263@mg1.substack.com",
@@ -5647,162 +5770,10 @@
     "The White House replaced CNN with right‑wing Real America’s Voice in the Air Force One press pool and removed CNN from Trump’s Texas‑Oklahoma trip pool, despite a judge’s temporary block on the ban."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261002221558.3.8b297597936ae3c2@mg-d0.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Tale of Two Interviews",
-   "date": "2026-10-02T15:15-07:00",
-   "url": null,
-   "bullets": [
-    "The latest jobs report showed a sharp slowdown, prompting concerns about the economy’s trajectory.",
-    "The hosts debate whether Democrats should pursue impeachment of Pete Hegseth while noting Trump’s decision to send a third aircraft carrier to the Middle East.",
-    "They contrast JD Vance’s grounded perspective with Donald Trump’s “alternate reality” remarks and warn that the DOJ is targeting Watergate prosecutors who investigated Nixon."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261002190159.3.c26d6d5ae4443915@mg-d0.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Age of Antiheroes",
-   "date": "2026-10-02T12:01-07:00",
-   "url": null,
-   "bullets": [
-    "The New York Times’ 100 greatest TV shows list is dominated by antiheroes—from Atlanta to Succession—showing a cultural shift toward glorifying morally ambiguous characters, which the author argues erodes American resistance to bad behavior.",
-    "Sarah Longwell’s book argues that 25 years of humanizing villains in media dulls our moral clarity, a point the author extends to reality TV, wrestling, and the creators’ repeated warnings that such characters aren’t role models.",
-    "The newsletter also reviews the climate‑alarmist film Digger, noting Tom Cruise’s performance as its only redeeming element, and promotes a podcast with Sean McNulty on Paramount’s future, federal film credits, and streaming sports rights."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261002181208.3.cd57593d7f0a7660@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Guys like him",
-   "date": "2026-10-02T11:12-07:00",
-   "url": "https://roycoopernc.substack.com/p/guys-like-him",
-   "bullets": [
-    "Michael Whatley spent his career lobbying for Duke Energy and Big Oil, helping them secure rate hikes and billions in tax breaks that increase costs for consumers.",
-    "The ad claims that such lobbyists make utilities and oil firms more profitable at the expense of working families, deeming them unfit to serve the public."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261002164314.3.9e4dfc24b40b6aba@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "How a 2010 Malicious Computer Worm Foretold Our Future",
-   "date": "2026-10-02T09:43-07:00",
-   "url": null,
-   "bullets": [
-    "Stuxnet, a 2010 US-Israeli worm, infiltrated Iranian nuclear facilities by exploiting USB drives, installing a rootkit that used stolen Realtek and JMicron digital signatures to hide from Windows security and reprogram PLCs in Siemens S7-417 and S7-315 controllers, crippling Bushehr steam turbines and Natanz centrifuges for about a year.",
-    "The worm spread quietly via USB and local network print spoolers, limited to three new computers per infected drive, and communicated with C&C servers in Denmark and Malaysia to download updates, demonstrating a sophisticated, targeted cyber‑weapon that could cause physical damage without obvious internet‑wide spread.",
-    "The author compares this to modern AI incidents like the Hugging Face rogue‑agent hack, arguing that like Stuxnet, AI systems can silently compromise critical infrastructure, urging vigilance and better containment protocols to prevent similar future threats."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261002162648.3.267e8813717993dd@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Is Chris Van Hollen Running for President? Here’s What He Is Saying to Mehdi",
-   "date": "2026-10-02T09:26-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/is-chris-van-hollen-running-for-president",
-   "bullets": [
-    "Senator Chris Van Hollen says he’s “kicking the tires” on a 2028 presidential run, citing huge domestic and foreign policy changes that require a national effort",
-    "He criticized the 47‑51 vote that defeated his resolution demanding a State Department report on nine Americans killed by Israeli forces, calling dissenters complicit in covering up the killings",
-    "In the interview he addresses the lone Democrat who voted against the resolution, his age, alleged Biden administration mishandling of Gaza, AI threats, Trump’s rapport with Xi, and AIPAC’s influence"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261002145820.3.f81cf43b71926899@mg2.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "Trump Turned His Beloved Golf Hub Into a Ghost Town",
-   "date": "2026-10-02T07:58-07:00",
-   "url": null,
-   "bullets": [
-    "El Arepazo in Doral, a hub for the city’s 40% Venezuelan community, hosted celebrations for both Biden’s 2021 Temporary Protected Status for 320,000 Venezuelans and Trump’s 2024 victory, which was a 19‑point swing from 2020.",
-    "Trump visited the restaurant after his Shield of the Americas summit, greeting owner Maximo Alvarez—a long‑time Republican and Trump supporter—who praised Trump as the best president, while Trump highlighted their longstanding friendship."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261002132651.3.b65228316cc1f16b@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Not To Alarm You, But Trump’s Brain Is Melted",
-   "date": "2026-10-02T06:26-07:00",
-   "url": null,
-   "bullets": [
-    "CNN reports Kennedy Center donation pledges fell over 100% after Trump attached his name, a drop possible only because earlier pledges were withdrawn.",
-    "September added just 29,000 jobs and unemployment rose to 4.2%, far below expectations.",
-    "Trump’s Time interview featured false claims—86% popular‑vote win, a nonexistent 4‑6‑week Iran war timeline, and he blamed $11 trillion of new debt on Biden despite his own tax cuts and spending."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261002124203.3.ddcba831f5c6d79f@mg2.substack.com",
-   "newsletter": "Sarah Longwell—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Andrew Weissmann Spots the Biggest Tell in the Jack Smith Hearing",
-   "date": "2026-10-02T05:42-07:00",
-   "url": null,
-   "bullets": [
-    "Weissmann says the key giveaway in Jack Smith's Senate hearing was Republicans' failure to question the specific criminal allegations against Trump, especially the $1.776 billion slush‑fund case.",
-    "The discussion highlights internal chaos at Trump’s DOJ, a contentious fight over White House press access, and a Supreme Court election‑law ruling looming before the midterms.",
-    "They also dissect the Eric Schmitt \"gotcha\" moment that exploded publicly, illustrating the broader political stakes of the investigation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261002112511.3.d94e0f16f301eaac@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "📉 Brutal Poll Shows Trump’s Number Is Up But on He Rants Regardless",
-   "date": "2026-10-02T04:25-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/brutal-poll-shows-trumps-number-is",
-   "bullets": [
-    "AP‑NORC’s latest poll shows Trump’s support at a historic low, prompting him in a Time interview to dismiss the results as “fake numbers” and claim he could still win by 20 points.",
-    "Trump reiterated on a Texas stop that his administration has “the best numbers of any president in history,” despite the poll’s poor showing and media coverage of it.",
-    "CNN reported a conflict of interest involving Jared Kushner’s Gaza peace role and an Israeli firm allegedly financing Netanyahu’s war effort."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261002110223.3.a499b6c0428c3f78@mg-d1.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "Time and time again, you’ve shown up",
-   "date": "2026-10-02T04:02-07:00",
-   "url": "https://chrispappasnh.substack.com/p/time-and-time-again-youve-shown-up",
-   "bullets": [
-    "The campaign’s average donor has given twice, averaging $32.05 per contribution, indicating repeat support as the race enters the final 32 days before Election Day.",
-    "Cook Political Report now rates New Hampshire’s Senate race a toss‑up, with GOP candidate John Sununu leading polls after $50 million in Republican spending.",
-    "The email urges supporters to donate $15 (or any amount) to match the influx of outside money and keep the seat blue."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261002103131.3.339fe938cfb23cdc@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "A “Who You Gonna Believe?” Election",
-   "date": "2026-10-02T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/a-who-you-gonna-believe-election",
-   "bullets": [
-    "An AP‑NORC poll shows Americans now view both local and national economies as equally bleak, a shift from the “vibecession” optimism of the Biden era, undermining Trump’s narrative that the country is thriving.",
-    "Fuel prices have spiked due to Trump’s war in Iran, and the Conference Board’s “labor market differential” has collapsed to its worst level since COVID, while 30‑year mortgage rates have surged, creating a hostile economic backdrop for Republicans in the midterms.",
-    "Election models give Democrats a 99% chance of retaining the House, and combined with the deteriorating economic indicators, the Trump administration’s claim of a “Golden Age” appears increasingly out of touch."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 110,
-  "total": 422
+  "shown": 111,
+  "total": 420
  }
 }
