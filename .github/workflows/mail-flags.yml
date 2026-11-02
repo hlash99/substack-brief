@@ -1,0 +1,39 @@
+name: mail-flags
+
+# Hourly raffle check for the Morning Brief. Publishes counts only.
+# Shares the refresh concurrency group so it never races refresh.yml's push.
+on:
+  schedule:
+    - cron: '47 14-23,0-6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  flags:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check Yahoo
+        env:
+          YAHOO_EMAIL: ${{ secrets.YAHOO_EMAIL }}
+          YAHOO_APP_PASSWORD: ${{ secrets.YAHOO_APP_PASSWORD }}
+        run: python -I scripts/mail_flags.py
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          [ -f mail_flags.json ] || exit 0
+          git add mail_flags.json
+          git diff --cached --quiet && exit 0
+          git commit -m "flags: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
+          git push
