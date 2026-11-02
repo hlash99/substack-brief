@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T11:00-08:00",
+ "updated": "2026-11-01T18:38-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -67,6 +67,126 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261102015107.3.1658bada4572712b@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Zeteo’s Indispensable Midterms Guide, Breaking Down the Key 2026 Races",
+   "date": "2026-11-01T17:51-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/zeteos-indispensable-midterms-guide",
+   "bullets": [
+    "With Donald Trump leading an authoritarian presidency, inflicting violence across America and the world, and jacking up the cost of living to unaffordable new heights, the 2026 midterm elections present an opportunity for voters, via the De…",
+    "Will Trump’s warmongering, vile racism, and brazen corruption be punished? Will Republicans pay a price for supporting the Trump-Israeli war with Iran, siccing masked ICE agents on communities nationwide, and covering up the Epstein Files?"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261102013740.3.40220e4617b153bb.233x7263@mg1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Live video with The Bulwark now: Pre-Election Livestream",
+   "date": "2026-11-01T17:37-08:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark’s paid‑subscriber livestream titled “Pre‑Election Livestream” is now live, offering a live video discussion for subscribers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261102003157.3.5acda516909c5279@mg-d0.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Inside the Wargaming to Foil Trump’s Election Meddling",
+   "date": "2026-11-01T16:31-08:00",
+   "url": null,
+   "bullets": [
+    "Around 250 ACLU lawyers and experts convened in Philadelphia to wargame 25 Trump‑related election‑interference scenarios, drafting mock press releases and state‑specific legal and organizing responses.",
+    "The meeting coincided with the Supreme Court’s decision to gut Section 2 of the Voting Rights Act, prompting rapid Republican redistricting that threatened Black voting power in the South.",
+    "ACLU officials warned that midterms will face unprecedented challenges from election deniers in key state administration roles, and they claim to be prepared on all fronts."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261101230150.3.c60c8530bab58b83@mg2.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "Our last chance",
+   "date": "2026-11-01T15:01-08:00",
+   "url": "https://chrispappasnh.substack.com/p/our-last-chance",
+   "bullets": [
+    "The newsletter urges New Hampshire voters to turn out on Nov 3, noting over 90% vote that day and that the state’s Senate race could flip the U.S. Senate.",
+    "Pappas launches a “Last Chance Fund” aiming to raise $300,000 by Nov 3, asking for $15 donations to power voter outreach and keep New Hampshire blue.",
+    "He warns GOP candidate John Sununu leads in polls after $67 million of Republican spending, stressing the need for immediate grassroots contributions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261101220121.3.7c9c363259ab3955@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Zeteo Is Going LIVE for the Midterms, and We Need Your Support To Do It!",
+   "date": "2026-11-01T14:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/zeteo-is-going-live-for-the-midterms",
+   "bullets": [
+    "Zeteo will broadcast live election night coverage on Substack and YouTube from 9 pm ET, with Mehdi and Prem at Abdul El‑Sayed HQ in Detroit, Swin Suebsaeng reporting from Ohio races, and Andrew Perez covering Susan Collins in Maine.",
+    "The outlet, fully subscriber‑funded, urges free subscribers to upgrade to paid this week to unlock in‑depth reporting and documentaries, and invites donations to sustain independent, unfiltered coverage."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261101210852.3.c438d76d02832fdc@mg-d0.substack.com",
+   "newsletter": "Sam and Tim @ The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Join Us Tonight To Kick Off Election Week",
+   "date": "2026-11-01T13:08-08:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark is hosting a members‑only midterms livestream tonight at 8:30 p.m. EST, featuring Tim, Sam, Andrew and reporters Joe Perticone, Lauren Egan, and Jonathan Cohn to dissect key races and surprises.",
+    "They’re urging non‑subscribers to join now for access to the livestream, exclusive content, and to participate in a Q&A without scripted talking points."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261101204150.3.f9d8f1dae06b4615@mg-d1.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "48 Hours",
+   "date": "2026-11-01T12:41-08:00",
+   "url": "https://roycoopernc.substack.com/p/48-hours",
+   "bullets": [
+    "More than 2.8 million North Carolinians have already voted early, but the race remains tight and could be decided by a few thousand or fewer votes.",
+    "Volunteers are urged to knock doors, make calls, and offer rides in the final 48 hours before Election Day to get remaining voters to the polls.",
+    "Supporters can sign up to volunteer or donate via the provided links, as every shift and contribution could tip the margin."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261101194413.3.c95565d226018d88@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Quick Thoughts on the Impact of Haley Stevens’ Stunning Betrayal",
+   "date": "2026-11-01T11:44-08:00",
+   "url": "https://open.substack.com/pub/messagebox/p/why-haley-stevens-betrayal-probably",
+   "bullets": [
+    "Haley Stevens, after narrowly losing her primary, reversed her endorsement and backed Republican Mike Rogers in Michigan, despite previously supporting Democrat Abdul El‑Sayed to block Trump.",
+    "The author notes El‑Sayed leads Nate Silver’s poll average by 4.1 points, but warns the GOP’s extreme anti‑Muslim campaign could jeopardize the Democratic advantage.",
+    "Stevens’ flip is portrayed as a potentially decisive blow to Democrats in a key swing state, sparking alarm among the newsletter’s subscribers."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261101190214.3.6659e8a922db970e@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Three Days Until the Midterms. How Bad Could It Get for Republicans? (w/ Sarah Longwell) | Bulwark on Sunday",
+   "date": "2026-11-01T11:02-08:00",
+   "url": null,
+   "bullets": [
+    "Sarah Longwell says focus‑group data shows many Trump voters are disillusioned and considering voting Democratic, a trend Bill Kristol says could drive a historic Republican loss in the midterms.",
+    "They argue Democrats have unexpected openings in traditionally red states, citing the surprise endorsement of Republican Mike Rogers by Democrat Haley Stevens in Michigan as a sign of shifting alliances."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261101183541.3.b2e09e5cc66f3571@mg-d1.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -5679,65 +5799,10 @@
     "Election models give Democrats a 99% chance of retaining the House, and combined with the deteriorating economic indicators, the Trump administration’s claim of a “Golden Age” appears increasingly out of touch."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261002002746.3.5f4e1607a61e4ec6@mg-d1.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Who Cut The Cheese? Trump Did.",
-   "date": "2026-10-01T17:27-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s trade war with Canada, framed as protecting U.S. dairy, actually imposed 250‑400% tariffs on Canadian cheese, prompting a rapid collapse of American exporters like Vermont’s Jasper Hill Farm.",
-    "Jasper Hill Farm’s CEO Mateo Kehler says both U.S. and Canadian dairy sectors are losing, noting their Canadian market vanished overnight due to tariffs, counter‑tariffs and consumer boycotts.",
-    "The piece argues Trump’s tariff‑heavy approach harms American dairy farmers rather than helping them, turning a supposed win into a loss for the industry."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261002000042.3.06bb104647d10ee4@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Jasmine Crockett Offered Lobbying Services on Her Campaign-Funded Website – While in Office",
-   "date": "2026-10-01T17:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/jasmine-crockett-offered-lobbying",
-   "bullets": [
-    "Texas Rep. Jasmine Crockett, who lost her Senate bid in March, listed government‑relations and lobbying services on her campaign‑funded “Clapback Collection” merchandise site by May, prompting ethics concerns.",
-    "The site featured a “Political Consultant‑Book Now” button that revealed offerings including campaign strategy, PR, lobbying, digital media, and political risk management before the listing was removed after Zeteo’s inquiry."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261001200121.3.bcd1c3303ddda09c@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Dems Warn of Trump Plans to Seize Ballots",
-   "date": "2026-10-01T13:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/dems-warn-of-trump-plans-to-seize",
-   "bullets": [
-    "Democrats allege the Justice Department has abandoned its long‑standing rule against seizing evidence or arresting election officials during an election, potentially enabling Trump to confiscate ballots on Election Day.",
-    "The DNC’s FOIA lawsuit seeks DOJ communications showing policy changes that would allow ballot seizures and arrests, claiming the agency is preparing for such actions.",
-    "Democrats warn that this shift could lead to unprecedented ballot confiscation and arrests of officials in November, citing the administration’s own statements as evidence."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261001194052.3.73fd86dc600e23f8@mg-d1.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "GOP Senators Blast Trump’s Gov’t-Funded Ads",
-   "date": "2026-10-01T12:40-07:00",
-   "url": null,
-   "bullets": [
-    "Senate GOP and Dem members say federal TV ads aired during NFL games promoting Trump’s personal political agenda are a misuse of government funds, leaving them feeling powerless to stop it.",
-    "The ads feature Trump’s voice promising to ‘demolish the deep state’ and ‘liberate America,’ echoing his 2024 campaign messaging and using a text‑to‑vote tactic he’s used since 2016.",
-    "Trump reportedly directed the ad blitz, which unlike typical federal advocacy, promotes his own brand rather than any specific policy or program."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 104,
-  "total": 417
+  "shown": 110,
+  "total": 422
  }
 }
