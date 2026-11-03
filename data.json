@@ -1,72 +1,147 @@
 {
- "updated": "2026-11-02T14:50-08:00",
+ "updated": "2026-11-02T19:59-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The midterm race is turning into a high‑stakes battle for the Senate, with Democrats racing to raise funds and mobilize voters in key swing states while GOP dark‑money spending hits $66 million in New Hampshire and $180 million in Texas (Chris Pappas, Bill Kristol & Andrew Egger).",
-   "Trump’s influence remains a central threat: his rallies, grand‑jury attempts to indict allies, and the spread of his fraud narrative are fueling GOP attacks and threatening to derail certification in several close contests (The Bulwark, Zeteo, The Message Box).",
-   "Corporate ties to Trump are under scrutiny as investigations target oil firms and other companies that courted the former president, with potential subpoenas looming as Democrats regain congressional power (Catherine Rampell).",
-   "Vivek Ramaswamy’s controversial “rapist protector” ad has backfired, prompting GOP leaders to warn him and highlighting the broader issue of divisive attack ads in the Ohio Senate race (Zeteo).",
-   "Democratic candidates like Jon Ossoff and Catherine Cortez Masto are intensifying outreach to Latino and black voters, noting that redistricting and increased turnout could flip the Senate, while also calling for grassroots donations (Jon Ossoff, Lauren Egan).",
-   "AI‑driven tech concerns—ranging from AI investment stalls to critical PHP vulnerabilities—are emerging as new economic and national‑security risks that could impact midterm campaign messaging and policy debates (Paul Krugman)."
+   "The 2026 midterms are a decisive battleground, with Democrats needing to net at least four Senate seats to flip control, a scenario underscored by NYT/Siena polls showing double‑digit leads in Michigan, Texas, and Kansas (The Message Box, The Bulwark).",
+   "El‑Sayed’s campaign is being derailed by a high‑profile Islamophobic attack and the sudden endorsement of Republican Mike Rogers by former Democrat Haley Stevens, a move that could swing Michigan’s Senate race and has sparked outrage from party leaders (Zeteo, Jonathan Cohn).",
+   "El‑Sayed’s supporters are rallying behind a grassroots fundraising push, with Chris Pappas and Jon Ossoff both urging $15–$10 donations to close the $300,000 gap and keep New Hampshire and Georgia blue, respectively (Chris Pappas, Jon Ossoff).",
+   "Elites are pouring unprecedented money into Republican candidates, with Elon Musk alone spending $474 million on 2026 GOP races, a level of oligarchic funding that threatens to drown out Democratic voices (Zeteo, Paul Krugman).",
+   "The GOP’s fear‑based strategy is gaining traction in traditionally red states, as exit polls reveal a sharp swing back to Democrats among Latino voters in Texas, undermining Trump’s 55% Hispanic vote share from 2024 (The Bulwark).",
+   "Meanwhile, the ACLU and other civil‑rights groups are mobilizing legal challenges against Republican redistricting and election‑interference tactics, highlighting the broader struggle to protect voting rights in the lead‑up to Election Day (Lauren Egan)."
   ],
   "by": "groq",
   "ids": [
-   "20261027090106.3.3203d7f79675569f@mg2.substack.com",
-   "20261027090113.3.3ec9d0a762b95712@mg2.substack.com",
-   "20261027103114.3.dd5e00aff0114879@mg-d1.substack.com",
-   "20261027104341.3.db9cb20a544061c0@mg-d0.substack.com",
-   "20261027105235.3.90887433c6cd812e@mg-d1.substack.com",
-   "20261027112701.3.12e37812741f7d56@mg2.substack.com",
-   "20261027113611.3.30cfef0913098ff4@mg-d0.substack.com",
-   "20261027132556.3.d0fd77f1ab3053a3@mg-d0.substack.com",
-   "20261027140015.3.d01134feb6a38536@mg-d1.substack.com",
-   "20261027143539.3.46ef0216b50c66dd@mg2.substack.com",
-   "20261027151613.3.262d979837ce088b@mg-d0.substack.com",
-   "20261027163049.3.87f4d578be847236@mg-d1.substack.com",
-   "20261027191547.3.26b493c079486b89@mg-d0.substack.com",
-   "20261027223935.3.8c3996a6861b3cdb@mg2.substack.com",
-   "20261027231835.3.10b266f350f2e572@mg-d1.substack.com",
-   "20261027235633.3.20be74b18bef650c@mg-d1.substack.com",
-   "20261028003043.3.41f6b57ff2255b50@mg-d1.substack.com",
-   "20261028015717.3.3c0093e99ac74c91@mg2.substack.com",
-   "20261028020133.3.edddd91307276001@mg-d0.substack.com",
-   "20261028103055.3.68001b09c57e1f5b@mg2.substack.com",
-   "20261028114034.3.df63cacc6a7ef25d@mg-d1.substack.com",
-   "20261028133113.3.e3fe374adedfc80e@mg2.substack.com",
-   "20261028133424.3.4ebb463efd84e353@mg2.substack.com",
-   "20261028140920.3.edd2dffa3534059c@mg-d0.substack.com",
-   "20261028144040.3.1e79b5a46b52ead8@mg-d1.substack.com",
-   "20261028150046.3.9cc7e6bdc90e4580@mg2.substack.com",
-   "20261028164539.3.014aa32585748b17@mg2.substack.com",
-   "20261028164920.3.f5af19a4d9b4b944@mg2.substack.com",
-   "20261028173407.3.40220e4617b153bb.4yxh4x48@mg1.substack.com",
-   "20261028200104.3.7b9ec536bad527b6@mg-d0.substack.com",
-   "20261028200131.3.b2da3aa59a16b1db@mg-d1.substack.com",
-   "20261028223337.3.c6f26cac7dd614ff@mg2.substack.com",
-   "20261028230111.3.0a673c34ac3ef7fb@mg2.substack.com",
-   "20261029000008.3.cd2ca01dfa062ac4@mg-d1.substack.com",
-   "20261029010126.3.fc2ad6833545b195@mg-d1.substack.com",
-   "20261029013044.3.358ffd7947da13ca@mg-d1.substack.com",
-   "20261029020520.3.c714bbbb77142649@mg-d0.substack.com",
-   "20261029115644.3.ce0019210f83cd95@mg-d0.substack.com",
-   "20261029120337.3.3754c5b674a4d1fc@mg-d0.substack.com",
-   "20261029132825.3.9a9eef2bcec9eb18@mg-d1.substack.com",
-   "20261029143805.3.8898b87d0674adc3@mg-d0.substack.com",
-   "20261029164128.3.88d36de16620f1fb@mg-d1.substack.com",
-   "20261029170001.3.f0925080c9c6dac4@mg-d1.substack.com",
-   "20261029192913.3.66c6abf6f6fef27f@mg-d0.substack.com",
-   "20261029210123.3.391c705c76b5d9c1@mg-d1.substack.com",
-   "20261029210137.3.8924789db6954469@mg2.substack.com",
-   "20261029235737.3.9b4b982e6f6c16cd@mg2.substack.com",
-   "20261030000819.3.4a1c54781dabebe6@mg2.substack.com",
-   "20261030012259.3.e4017c215675cfe9@mg-d0.substack.com"
+   "20261031090108.3.8197a5d2703affe2@mg-d0.substack.com",
+   "20261031103056.3.93328694d2b48ecb@mg-d1.substack.com",
+   "20261031120310.3.4731db6c63b4f19d@mg-d1.substack.com",
+   "20261031121933.3.206e05cdaa783fff@mg-d0.substack.com",
+   "20261031130302.3.50f79efd9c92afee@mg2.substack.com",
+   "20261031140407.3.148fcc70ccad419f@mg-d0.substack.com",
+   "20261031143041.3.b81c5fa0dfa4f07b@mg2.substack.com",
+   "20261031160117.3.0498fc97db73069c@mg2.substack.com",
+   "20261031172433.3.2adfce1c6669eef8@mg-d0.substack.com",
+   "20261031180239.3.d93a9cd235c43eb5@mg-d1.substack.com",
+   "20261031185218.3.629aa87c821a8b39@mg-d1.substack.com",
+   "20261031210546.3.45282bbc6f7d2483@mg-d1.substack.com",
+   "20261031220131.3.b9c01a0904fb41d6@mg2.substack.com",
+   "20261101000159.3.de692d67f66ccc79@mg2.substack.com",
+   "20261101000535.3.6a7e60b9a227a5c5@mg-d1.substack.com",
+   "20261101010114.3.5c5cd29ea523f7bd@mg2.substack.com",
+   "20261101111208.3.15f2a4316913ecfb@mg-d0.substack.com",
+   "20261101120408.3.ff58fee3fc8a1842@mg-d0.substack.com",
+   "20261101150354.3.f0ca5e21c8b375a8@mg-d0.substack.com",
+   "20261101150357.3.de6e1e49e4148751@mg-d0.substack.com",
+   "20261101183541.3.b2e09e5cc66f3571@mg-d1.substack.com",
+   "20261101190214.3.6659e8a922db970e@mg-d0.substack.com",
+   "20261101194413.3.c95565d226018d88@mg-d0.substack.com",
+   "20261101204150.3.f9d8f1dae06b4615@mg-d1.substack.com",
+   "20261101210852.3.c438d76d02832fdc@mg-d0.substack.com",
+   "20261101220121.3.7c9c363259ab3955@mg-d1.substack.com",
+   "20261101230150.3.c60c8530bab58b83@mg2.substack.com",
+   "20261102003157.3.5acda516909c5279@mg-d0.substack.com",
+   "20261102013740.3.40220e4617b153bb.233x7263@mg1.substack.com",
+   "20261102015107.3.1658bada4572712b@mg-d0.substack.com",
+   "20261102113042.3.ab0e6f1e9cc1686c@mg-d0.substack.com",
+   "20261102113151.3.711642fc68a8c96b@mg2.substack.com",
+   "20261102121151.3.139ddbd22d40e686@mg-d0.substack.com",
+   "20261102143517.3.afc44711bca63192@mg-d0.substack.com",
+   "20261102153536.3.6c84c5fb1e7899db@mg-d0.substack.com",
+   "20261102175214.3.427c7afdece21d24@mg-d0.substack.com",
+   "20261102183235.3.ab512d172acbda31@mg-d0.substack.com",
+   "20261102200047.3.876b2bfb0f000b9c@mg-d1.substack.com",
+   "20261102215109.3.284d8c8300f09d86@mg-d1.substack.com",
+   "20261102230150.3.44259abf1914a057@mg-d0.substack.com",
+   "20261102232532.3.13a20aa57a78802f@mg-d0.substack.com",
+   "20261103001559.3.1377117ae83f5a50@mg-d0.substack.com",
+   "20261103020053.3.d84d7827dd651197@mg-d1.substack.com",
+   "20261103030051.3.962991e028a9c37f@mg-d1.substack.com"
   ],
-  "updated": "2026-10-29T19:42-07:00",
+  "updated": "2026-11-02T19:59-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261103030051.3.962991e028a9c37f@mg-d1.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "Two sentences",
+   "date": "2026-11-02T19:00-08:00",
+   "url": "https://chrispappasnh.substack.com/p/two-sentences",
+   "bullets": [
+    "Chris Pappas asks readers to donate $15 immediately to help meet a $300,000 fundraising target aimed at turning out voters and keeping New Hampshire blue in tomorrow's Senate race."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103023041.3.9cbe5b2332d45fd6@mg-d0.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Bill Kristol Thinks Trump's GOP Is About to Get Wiped Out (Plus: JVL!)",
+   "date": "2026-11-02T18:30-08:00",
+   "url": null,
+   "bullets": [
+    "The Iran war and its impacts at home are major issues in the midterms, but POTUS is not finished with his misadventure in the Middle East. One key Democratic senator who's been briefed on the war plan says it's \"insane\" and would lead to a …",
+    "Bill Kristol and Jonathan V. Last join Tim Miller. Monday’s “Morning Shots” [ https://substack.com/redirect/f876e36c-f840-41a9-b207-b47e9e6319ee?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261103020053.3.d84d7827dd651197@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Watch Mehdi Call Out ‘Charlatan’ Haley Stevens on ‘Piers Morgan Uncensored’",
+   "date": "2026-11-02T18:00-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/watch-mehdi-call-out-charlatan-haley",
+   "bullets": [
+    "Mehdi Hasan told Piers Morgan that Michigan Rep. Haley Stevens fabricated an antisemitic ad controversy as a pretext to withdraw support from Democrat Abdul El‑Sayed and back Republican Senate candidate Mike Rogers.",
+    "Hasan argued the real scandal is the White House’s “old school white supremacist” rhetoric, citing Islamophobic attacks on El‑Sayed, a recent antisemitic slur by the president, and Agriculture Secretary Brooke Rollins’ racist Halloween post."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103001559.3.1377117ae83f5a50@mg-d0.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "MAGA Preps for the World to End—Literally",
+   "date": "2026-11-02T16:15-08:00",
+   "url": null,
+   "bullets": [
+    "Glenn Beck and other pro‑Trump media personalities are warning their audiences to “prepare for impact,” claiming an unnamed apocalyptic event—war, cyberattack or otherwise—is imminent despite no evidence.",
+    "The apocalyptic narrative has been amplified by figures like former FBI deputy director Dan Bongino and even prompted a Republican congressman to publicly deny any imminent “shit hitting the fan,” while right‑wing prep guides flood online forums.",
+    "If current polls hold, the GOP could suffer a crushing midterm loss within 24 hours, a defeat that many on the right fear could signal a broader civilizational collapse they link to the alleged hidden global threat."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261102232532.3.13a20aa57a78802f@mg-d0.substack.com",
+   "newsletter": "Jon Ossoff",
+   "pub": "ossoff",
+   "subject": "I can win again, but only with your help.",
+   "date": "2026-11-02T15:25-08:00",
+   "url": "https://ossoff.substack.com/p/i-can-win-again-but-only-with-your",
+   "bullets": [
+    "Senator Jon Ossoff urges supporters to donate, claiming his Georgia Senate seat is the only Democratic one up for reelection in a state Trump won and is vital for Senate control.",
+    "He argues the current administration is abusing power, driving war and inflation, and that winning his race is essential to protect checks and balances and free elections in 2028.",
+    "The email includes direct ActBlue donation links, asking for contributions of any size, especially $10, to fund voter outreach and his campaign."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261102230150.3.44259abf1914a057@mg-d0.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Final Senate Polls Are So Good, Sarah Can Barely Believe Them",
+   "date": "2026-11-02T15:01-08:00",
+   "url": null,
+   "bullets": [
+    "Final Senate polls show Democrats ahead, but Sarah doubts their accuracy amid low early voting and fears a Republican turnout collapse.",
+    "Rising gas prices could become Trump’s biggest electoral liability, according to the newsletter.",
+    "The episode teases JD Vance’s harsh New York Times coverage, Peggy Noonan’s MAGA redemption narrative, and Haley Stevens' surprising weekend events."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261102215109.3.284d8c8300f09d86@mg-d1.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -102,10 +177,11 @@
    "date": "2026-11-02T10:32-08:00",
    "url": "https://post.substack.com/p/the-local-reporter-who-took-the-government",
    "bullets": [
-    "Welcome to Local Issue, a series of profiles on the local news writers keeping the tradition of regional reporting alive. First up is Laura Belin [ https://substack.com/redirect/5c4d96d8-eb95-449f-8eeb-9e755506b1e9?j=eyJ1IjoiNWJ2anRsIn0.dvJ…",
-    "It’s Wednesday, the week before the midterm elections, and Laura Belin has just spent her morning at a briefing with Iowa’s Secretary of State and representatives from the state’s National Guard."
+    "Laura Belin, a Des Moines reporter, sued the Iowa governor’s office over pandemic open‑records violations and the House chief clerk after being denied press credentials, with legal fees covered by the Institute for Free Speech and reader donations.",
+    "She produces niche, in‑depth Iowa political coverage—early voting data, election‑worker prosecutions, and exclusive scoops like Senator Grassley’s hot‑mic slip—often after being barred from campaign events such as GOP gubernatorial candidate Zach Lahn’s rallies.",
+    "Through the Iowa Writers Collaborative she runs a free Substack, now earning a salary, and highlights how a network of ~70 local newsletters is reviving regional journalism as legacy papers shut down."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261102175214.3.427c7afdece21d24@mg-d0.substack.com",
@@ -115,10 +191,10 @@
    "date": "2026-11-02T09:52-08:00",
    "url": null,
    "bullets": [
-    "We’ll get to everything. Trust me. But I want to start with the picture of a wave. The dotted line is what our probabilistic outcomes looked like a month ago. The blue line is where we are today. The wave is gathering energy.",
-    "This isn’t hopeium. It’s happening. The modal outcome has shifted from 52 seats to something like 54 seats. That shift might still be happening. I don’t think the polling has caught up to the facts on the ground."
+    "The author says the probabilistic model for Senate seats has shifted from a modal outcome of 52 Democratic seats a month ago to about 53‑54 seats today, with the wave gaining momentum.",
+    "He argues the most likely result is now 53 or 54 Democratic senators, but hints he will place his money on a different outcome altogether."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261102153536.3.6c84c5fb1e7899db@mg-d0.substack.com",
@@ -5731,49 +5807,10 @@
     "Morris forecasts Democrats needing four Senate pickups to reach 51 seats, with likely gains in North Carolina, Texas, Ohio, and a solid hold in Georgia, while noting unexpectedly tight races in traditionally Republican Plains states like Nebraska, Iowa, and Kansas."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261003003656.3.dcbe841fc7b0cadf@mg-d0.substack.com",
-   "newsletter": "Pete Buttigieg",
-   "pub": "petebuttigieg",
-   "subject": "A Sense of Hope in New Hampshire",
-   "date": "2026-10-02T17:36-07:00",
-   "url": "https://petebuttigieg.substack.com/p/a-sense-of-hope-in-new-hampshire",
-   "bullets": [
-    "Buttigieg recounts rallying with NH lawmakers Chris Pappas, Stefany Shaheen, and Cinde Warmington, urging a shift from Republican policies that have driven up gas, grocery prices, and interest rates since their 2022 takeover.",
-    "He frames the next 32 days as a critical period for grassroots effort to deliver change and restore affordability, inviting supporters to watch the rally video and engage online."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261003003118.3.ad6c30b2a99db3d5@mg2.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Okay, What Is Going On With Trump’s Legs? (w/ Tommy Vietor)",
-   "date": "2026-10-02T17:31-07:00",
-   "url": null,
-   "bullets": [
-    "Trump appears to be using a leg brace and moving unnaturally, yet his administration is sending an additional 10,000 troops to Iran amid rising tensions\",\"Jared Kushner, touted as the point person on a Gaza peace deal, is heavily invested in Israeli bomb‑making firms, raising conflict‑of‑interest concerns\",\"Tim Miller argues recent Democratic polls are overly optimistic, cites Islamophobia influencing the Michigan Senate race, advocates regime change in Eritrea, and warns that the All‑In podcast is pushing a reckless ‘all‑gas, no‑brakes’ AI agenda"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261002235947.3.5faa97d56f5d733f@mg-d1.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 89: Trump Pumps Out More Taxpayer-Funded ‘Obviously Illegal’ Ads",
-   "date": "2026-10-02T16:59-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-89-trump",
-   "bullets": [
-    "The New York Times and Wall Street Journal report that Trump’s taxpayer‑funded TV ads, paid from DHS money, likely violate federal law and could be deemed an impeachable offense, with a senior official calling them “obviously illegal.”",
-    "A GAO letter says Trump’s $810 million “pocket rescission” cancellation of HHS refugee and asylum funding bypassed Congress and breaches the Constitution.",
-    "The White House replaced CNN with right‑wing Real America’s Voice in the Air Force One press pool and removed CNN from Trump’s Texas‑Oklahoma trip pool, despite a judge’s temporary block on the ban."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 111,
-  "total": 420
+  "shown": 113,
+  "total": 423
  }
 }
