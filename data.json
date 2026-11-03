@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T19:59-08:00",
+ "updated": "2026-11-03T12:32-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -62,6 +62,169 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261103175803.3.5adb52e4df1e41f1@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Navigating the Chaos",
+   "date": "2026-11-03T09:58-08:00",
+   "url": "https://paulkrugman.substack.com/p/navigating-the-chaos",
+   "bullets": [
+    "Paul Krugman has released an ebook compiling his Substack posts, organized by theme and presented as a chronicle of recent disturbing events.",
+    "The collection includes additional material that outlines each theme, providing context for the original posts.",
+    "The ebook is available on Amazon via the provided Substack redirect link."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103173656.3.12f472118ada81ca@mg2.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Brendan Boyle Has a Warning for Trump’s Project 2025 Mastermind",
+   "date": "2026-11-03T09:36-08:00",
+   "url": null,
+   "bullets": [
+    "Rep. Brendan Boyle outlines Democrats’ strategy to reverse Trump’s healthcare cuts, tariffs, and address economic fallout from the Iran war if they regain the House.",
+    "Catherine Rampell and Sam Stein preview Election Day, noting Trump’s focus on the economy and how rising costs and voter frustration could influence turnout and results."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103161812.3.924bca3a3de9849d.pkxngltc@mg1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "💬 New thread from The Bulwark",
+   "date": "2026-11-03T08:18-08:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark launches a live Election Day coverage at 7 p.m. ET featuring hosts Tim, Sarah, and JVL, with updates from Ohio, Michigan, Texas, Georgia, and Washington, D.C.",
+    "Viewers can join the live stream on Substack, YouTube, Facebook, and Twitch, and participate in the chat to predict House and Senate outcomes and potential surprise races."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103160121.3.269adcc3fce46cc2@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "*STREAM TONIGHT* Mehdi and Prem Are Going Live From Michigan",
+   "date": "2026-11-03T08:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/stream-tonight-mehdi-and-prem-are",
+   "bullets": [
+    "Zeteo will livestream the 2026 midterm night starting at 9pm ET, covering Detroit’s Senate race between Abdul El‑Sayed and Mike Rogers with on‑ground commentary from Mehdi and Prem.",
+    "Swin Suebsaeng will join the stream to cover Ohio’s gubernatorial race featuring Vivek Ramasawmy, while Andrew Perez will report on the outcome of Sen. Susan Collins’ race in Maine.",
+    "The livestream is free for subscribers; additional support can be given via paid subscription or donation links provided in the email."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103142838.3.1376311844ba728e@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Alex Pretti Election",
+   "date": "2026-11-03T06:28-08:00",
+   "url": null,
+   "bullets": [
+    "Andrew Egger argues Trump’s 2025 downfall began with Minneapolis, where federal ICE occupation, violent clashes, and the deaths of Renée Good and Alex Pretti sparked nationwide backlash that forced the White House to abandon blue‑city enforcement and weakened Trump’s unilateral state power.",
+    "Egger links the Minneapolis resistance to a broader pattern of Trump’s state violence against Democratic protesters, noting that similar DHS killings (Lorenzo Salgado Araujo, Johan Sebastián Durán Guerrero) and lack of accountability further eroded public support.",
+    "The article suggests that if voters respond to this resistance, Democrats may regain control, but even if not, Minneapolis offers a model of grassroots opposition that could limit future executive overreach."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103131701.3.930de4adfdfa7b9e@mg2.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Election stress and your heart, early flu, another CDC leader leaves, and a mom’s hard question about vaccine inju…",
+   "date": "2026-11-03T05:17-08:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/election-stress-and-your-heart-early",
+   "bullets": [
+    "Election‑day stress is linked to higher heart‑rhythm abnormalities: a 2016 study of 2,436 North Carolina patients found a 77% increase during the election window, and a 2020 Kaiser Permanente analysis of 6.4 million Californians showed a 17% rise in cardiovascular hospitalizations and a 42% rise in heart‑attack admissions in the five days after the election.",
+    "Early U.S. flu season is normal but accelerating: every region now has >3% test positivity, with 60‑80 flu‑related deaths per week and a projected peak of ~1,800; CDC forecasts the season to resemble last winter, and Canadian data show all 116 samples match the current vaccine strains, suggesting good vaccine‑virus match."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103123541.3.50bade1b160d747c@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "What About Arab and Muslim Safety?",
+   "date": "2026-11-03T04:35-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/what-about-arab-and-muslim-safety",
+   "bullets": [
+    "🗳️ Zeteo is gearing up to cover one of the most consequential midterm elections in modern U.S. history. Tonight, Mehdi and Prem will be live from Abdul El-Sayed HQ in Detroit, Michigan, from 9pm ET on Substack and YouTube [ https://substack…",
+    "Good morning friends. Prem here, reporting on the ground from Michigan on a long-awaited 2026 Election Day – and we find out just how tired Americans are of Donald Trump’s authoritarian presidency and Republican control in Washington."
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261103122453.3.482175c74722d296@mg-d0.substack.com",
+   "newsletter": "Roy Cooper",
+   "pub": "roycoopernc",
+   "subject": "Today is Election Day. Let’s finish this strong.",
+   "date": "2026-11-03T04:24-08:00",
+   "url": "https://roycoopernc.substack.com/p/today-is-election-day-lets-finish",
+   "bullets": [
+    "Roy Cooper urges North Carolinians to vote today, emphasizing that the election can reverse policies he calls harmful—war, costly healthcare, rising grocery and gas prices—by electing a pro‑working‑family senator.",
+    "He thanks volunteers for 15 months of canvassing, phone calls, and donations, framing the campaign as a hopeful movement to flip North Carolina blue.",
+    "Cooper provides a polling‑place link and reminds voters that lines open at 7:30 PM will be honored, urging people to bring a friend and encourage neighbors to vote."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103120343.3.b0e60b02c99c2cdb@mg-d0.substack.com",
+   "newsletter": "Chris Pappas",
+   "pub": "chrispappasnh",
+   "subject": "It’s Election Day",
+   "date": "2026-11-03T04:03-08:00",
+   "url": "https://chrispappasnh.substack.com/p/its-election-day",
+   "bullets": [
+    "Chris Pappas, whose family’s Manchester restaurant has operated 109 years and churns over 35,000 gallons of ice cream annually, is urging New Hampshire voters to turn out for his Senate race against John Sununu.",
+    "He highlights his bipartisan record in Congress, his LGBTQ+ identity, and his claim that the Trump‑aligned GOP agenda threatens reproductive rights and raises costs for families.",
+    "Pappas frames the election as a fight for a fair economy, urging every Granite State voter to vote via IWillVote.com/NH to prevent a return to “extreme rhetoric” and billionaire‑focused policies."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103112913.3.83119ebca4f560c7@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Moment of Truth",
+   "date": "2026-11-03T03:29-08:00",
+   "url": "https://paulkrugman.substack.com/p/moment-of-truth",
+   "bullets": [
+    "Polls, expert analyses and prediction markets indicate Democrats have a solid lead in the House and about an 80% probability of winning the Senate.",
+    "Krugman expresses personal anxiety about the election, noting the stakes feel like the nation’s soul is on the line."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103112431.3.f016307bcda79d3a@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "An Hour-by-Hour Guide to Staying Sane on Election Night.",
+   "date": "2026-11-03T03:24-08:00",
+   "url": "https://open.substack.com/pub/messagebox/p/an-hour-by-hour-guide-to-staying",
+   "bullets": [
+    "Midterm races span a larger map than presidential ones, with many contests in traditionally Republican states like Kansas, Mississippi and Alaska, making the Democratic advantage harder to gauge.",
+    "Polls favor Democrats but key Senate races in GOP states are expected to be tighter than polls suggest because remaining undecided voters are largely Trump supporters.",
+    "Pfeiffer’s hour‑by‑hour guide highlights early toss‑up contests in Indiana’s 5th and Kentucky’s 6th districts, and a pivotal Georgia governor race where a Keisha Lance Bottoms win could affect future House maps and an Ossoff presidential bid."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103110330.3.5d042ec31cfd9fba@mg2.substack.com",
+   "newsletter": "George Conway - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Mike Madrid Predicts a Political Earthquake in Texas",
+   "date": "2026-11-03T03:03-08:00",
+   "url": null,
+   "bullets": [
+    "Mike Madrid, a 35‑year veteran on Latino voters, says turnout data shows unprecedented engagement that could destabilize Trump’s 2024 coalition and enable a Democratic upset in Texas.",
+    "Conway argues that Trump’s gerrymandering plan may unintentionally give Democrats additional House seats, while a Republican sweep looks increasingly unlikely.",
+    "The discussion also covers Haley Stevens’ unexpected endorsement of Mike Rogers in Michigan, highlighting shifting intra‑party dynamics."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261103030051.3.962991e028a9c37f@mg-d1.substack.com",
    "newsletter": "Chris Pappas",
@@ -5673,144 +5836,10 @@
     "Hosts Will Saletan and Joe Perticone will dissect the political fallout and the behind‑the‑scenes dynamics of this unexpected ally fight."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261003170047.3.5b8a1451784c77a2@mg2.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine: Israeli Settlers Carry Out More Pogroms and Israel Kills Another Gaza Journalist",
-   "date": "2026-10-03T10:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israeli-settlers-e73",
-   "bullets": [
-    "The official Gaza death toll passed 74,000 this week, with over 1,400 deaths occurring after the October cease‑fire, according to the Palestinian Ministry of Health, though the true figure is likely higher due to bodies still buried in rubble.",
-    "Israeli extremist National Security Minister Itamar Ben‑Gvir threatened to execute a Palestinian prisoner in a video, while Israeli settlers carried out additional pogroms in the occupied West Bank and hundreds of Israelis stormed the Al‑Aqsa Mosque compound."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261003164747.3.484111d9f29d36dd@mg-d0.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "I have some news",
-   "date": "2026-10-03T09:47-07:00",
-   "url": null,
-   "bullets": [
-    "Catherine Rampell launches the Receipts podcast, extending her newsletter’s data‑driven analysis of politics and economics to audio, featuring economists, policymakers, and journalists.",
-    "The debut episode with JVL examines the latest jobs numbers and critiques Trump’s national‑debt proposals, warning listeners about their implications."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261003153726.3.e5401c4c31d014a7@mg2.substack.com",
-   "newsletter": "Smart People Talking",
-   "pub": "smartpeopletalking",
-   "subject": "Americans in the West Bank under siege",
-   "date": "2026-10-03T08:37-07:00",
-   "url": "https://smartpeopletalking.substack.com/p/americans-in-the-west-bank-under",
-   "bullets": [
-    "A 78‑year‑old Palestinian American, Mustafa Zaatar, had 150 Israeli attackers burn his fields, torch cars, and smash windows in Abu Falah on Sept. 27, yet he still refuses to leave, saying the U.S. passport offers no protection.",
-    "The incident highlights how Israeli settlement expansion and road closures turn violence into a land‑use policy, prompting House Democrats to introduce the Stop the Settlements Act to sanction those building outposts and ban U.S. imports from them.",
-    "Since 2022, at least nine Americans have died in the West Bank in clashes with Israeli forces; a Senate resolution seeking answers was narrowly defeated 47‑53 on the day the author returned home."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261003150003.3.0850f532372e1620@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "I don’t take this lightly",
-   "date": "2026-10-03T08:00-07:00",
-   "url": "https://roycoopernc.substack.com/p/i-dont-take-this-lightly",
-   "bullets": [
-    "Roy Cooper urges small-dollar donors to contribute $5‑$10 to fund his campaign to flip a North Carolina Senate seat against former oil lobbyist Michael Whatley.",
-    "He emphasizes that over 90% of his donations are $100 or less and contrasts his grassroots financing with his opponent’s reliance on billionaire money.",
-    "Cooper frames the race as crucial to defeating President Trump’s ally and taking back the Senate."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261003130434.3.b023f7867b96c8a6@mg-d1.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "\"Kids his age are just better at making friends. They haven’t learned to be weird about it.\"",
-   "date": "2026-10-03T06:04-07:00",
-   "url": "https://post.substack.com/p/kids-his-age-are-just-better-at-making",
-   "bullets": [
-    "Mackenzie and Taryn’s four‑year roommate saga—four apartments, zero money, endless late‑night talks—ends as they part ways, illustrating how deep adult friendships can form amid instability.",
-    "Derek Thompson cites data showing monthly dinner parties fell from 50% of Americans in 1975 to one‑quarter by 1998, attributing the drop to ‘harried leisure’ and the rise of dual‑earner households where women’s labor participation jumped from 50% to 80%, leaving men to neglect social‑calendar logistics.",
-    "Mandy Lee argues that aging 30‑somethings in fashion must develop a new, almost masochistic resilience because the industry rewards extreme beauty; without it, average‑looking professionals feel invisible despite their analytical expertise."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261003130147.3.405637b50f94d8ba@mg2.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Let’s get ready for sick season",
-   "date": "2026-10-03T06:01-07:00",
-   "url": null,
-   "bullets": [
-    "The newsletter offers a five‑part paid guide for October that covers new fall vaccines, FAQs, evidence‑based healthy habits, debunked myths, and recovery tips for flu, Covid‑19, RSV, and other viruses."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261003123533.3.302eb4d0442f5a29@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "These Trump Voters Are Considering the Unthinkable: Voting for a Democrat (Amy Walter)",
-   "date": "2026-10-03T05:35-07:00",
-   "url": null,
-   "bullets": [
-    "Cook Political Report’s Amy Walter says Republicans face a “really, really, REALLY bad” season, noting rising swing‑voter anger and a growing list of reasons voters consider voting Democrat.",
-    "The episode covers Michigan’s Senate race, Sarah Longwell’s latest Focus Group newsletter, and a discussion on how AI is reshaping voters’ information diets and the upcoming election."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261003120331.3.dce1227a29d4be24@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Why Abdul El-Sayed Is Well Positioned to Win Michigan",
-   "date": "2026-10-03T05:03-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/why-abdul-el-sayed-is-well-positioned",
-   "bullets": [
-    "Democrats fear Abdul El‑Sayed’s primary win, despite a strong lead, could hand Republicans a crucial Senate seat in swing‑state Michigan, especially after his controversial campaign with Hasan Piker and resulting GOP attack ads.",
-    "Pfeiffer argues El‑Sayed is still well‑positioned because Michigan’s overall political climate leans Democratic in a 50‑50 state, but the race remains a high‑stakes test for the party’s ability to secure a Senate majority."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261003113133.3.7bac829547d8152a@mg-d1.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "MAGA’s Heir, the Bumbling GOP Smear Squad, and Trump’s Cheese Problem",
-   "date": "2026-10-03T04:31-07:00",
-   "url": null,
-   "bullets": [
-    "Joshua Tait argues that former Rep. Jim Jordan is the likely heir to MAGA, but his extreme tactics risk alienating suburban voters ahead of the 2024 election.",
-    "Will Saletan exposes how Republican allies are weaponizing false claims against special counsel Jack Smith to distract from ongoing investigations into Trump’s alleged crimes.",
-    "Mona Charen contends that pervasive corruption within the Trump administration has eroded his populist brand, making his anti‑establishment appeal less credible."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261003103207.3.f07fc64dbd226fb2@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Midterms!",
-   "date": "2026-10-03T03:32-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-midterms",
-   "bullets": [
-    "G. Elliott Morris’s Fifty‑Plus‑One model gives Democrats a 99% chance of winning at least 218 House seats, citing an 8‑9‑point generic‑ballot lead and a projected popular‑vote advantage of about 3.5 points despite modest gerrymandering gains for Republicans.",
-    "David Nir argues the GOP’s recent redistricting was based on an assumed permanent Latino shift toward Trump in 2024, which is now reversing as Latino voters move back toward Democrats, making many targeted Republican seats vulnerable.",
-    "Morris forecasts Democrats needing four Senate pickups to reach 51 seats, with likely gains in North Carolina, Texas, Ohio, and a solid hold in Georgia, while noting unexpectedly tight races in traditionally Republican Plains states like Nebraska, Iowa, and Kansas."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 113,
-  "total": 423
+  "shown": 112,
+  "total": 425
  }
 }
