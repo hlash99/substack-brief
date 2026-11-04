@@ -1,34 +1,18 @@
 {
- "updated": "2026-11-03T12:32-08:00",
+ "updated": "2026-11-03T19:04-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms are a decisive battleground, with Democrats needing to net at least four Senate seats to flip control, a scenario underscored by NYT/Siena polls showing double‑digit leads in Michigan, Texas, and Kansas (The Message Box, The Bulwark).",
-   "El‑Sayed’s campaign is being derailed by a high‑profile Islamophobic attack and the sudden endorsement of Republican Mike Rogers by former Democrat Haley Stevens, a move that could swing Michigan’s Senate race and has sparked outrage from party leaders (Zeteo, Jonathan Cohn).",
-   "El‑Sayed’s supporters are rallying behind a grassroots fundraising push, with Chris Pappas and Jon Ossoff both urging $15–$10 donations to close the $300,000 gap and keep New Hampshire and Georgia blue, respectively (Chris Pappas, Jon Ossoff).",
-   "Elites are pouring unprecedented money into Republican candidates, with Elon Musk alone spending $474 million on 2026 GOP races, a level of oligarchic funding that threatens to drown out Democratic voices (Zeteo, Paul Krugman).",
-   "The GOP’s fear‑based strategy is gaining traction in traditionally red states, as exit polls reveal a sharp swing back to Democrats among Latino voters in Texas, undermining Trump’s 55% Hispanic vote share from 2024 (The Bulwark).",
-   "Meanwhile, the ACLU and other civil‑rights groups are mobilizing legal challenges against Republican redistricting and election‑interference tactics, highlighting the broader struggle to protect voting rights in the lead‑up to Election Day (Lauren Egan)."
+   "The 2026 midterms are shaping up to be a decisive battle for control of Congress, with Democrats projected to net at least four Senate seats and potentially flip the House, a scenario highlighted by multiple polls and analyses from The Bulwark, Zeteo, and Paul Krugman (The Bulwark, Zeteo, Paul Krugman).",
+   "Key races in traditionally Republican states—Michigan, Texas, Kansas, and Alaska—are becoming unexpectedly competitive, driven by high turnout, shifting Hispanic votes, and surprise endorsements such as Haley Stevens’ switch to Republican Mike Rogers, as reported by The Bulwark and Zeteo (The Bulwark, Zeteo).",
+   "El‑Sayed’s Michigan Senate campaign is under intense attack from both sides, with Islamophobic messaging from Republicans and a controversial endorsement flip by Stevens, creating a volatile environment that could swing the state’s seat, according to The Bulwark and Zeteo (The Bulwark, Zeteo).",
+   "Elites and donors are pouring unprecedented sums into the race, with Elon Musk’s $474 million contribution to Republican candidates and Trump‑aligned PAC spending exceeding $67 million in New Hampshire, raising concerns about oligarchic influence, as noted by Paul Krugman and Zeteo (Paul Krugman, Zeteo).",
+   "Election night coverage is being livestreamed by several outlets—The Bulwark, The Message Box, and Zeteo—offering real‑time analysis, on‑ground commentary, and interactive chats to keep voters engaged and informed, as highlighted by Dan Pfeiffer, The Bulwark, and Zeteo (Dan Pfeiffer, The Bulwark, Zeteo).",
+   "Voter mobilization efforts are intensifying, with state leaders like Roy Cooper and Chris Pappas urging last‑minute turnout and fundraising drives to secure key seats, underscoring the high stakes for both parties, as reported by The Bulwark and local newsletters (The Bulwark, local newsletters)."
   ],
   "by": "groq",
   "ids": [
-   "20261031090108.3.8197a5d2703affe2@mg-d0.substack.com",
-   "20261031103056.3.93328694d2b48ecb@mg-d1.substack.com",
-   "20261031120310.3.4731db6c63b4f19d@mg-d1.substack.com",
-   "20261031121933.3.206e05cdaa783fff@mg-d0.substack.com",
-   "20261031130302.3.50f79efd9c92afee@mg2.substack.com",
-   "20261031140407.3.148fcc70ccad419f@mg-d0.substack.com",
-   "20261031143041.3.b81c5fa0dfa4f07b@mg2.substack.com",
-   "20261031160117.3.0498fc97db73069c@mg2.substack.com",
-   "20261031172433.3.2adfce1c6669eef8@mg-d0.substack.com",
-   "20261031180239.3.d93a9cd235c43eb5@mg-d1.substack.com",
-   "20261031185218.3.629aa87c821a8b39@mg-d1.substack.com",
-   "20261031210546.3.45282bbc6f7d2483@mg-d1.substack.com",
-   "20261031220131.3.b9c01a0904fb41d6@mg2.substack.com",
-   "20261101000159.3.de692d67f66ccc79@mg2.substack.com",
-   "20261101000535.3.6a7e60b9a227a5c5@mg-d1.substack.com",
-   "20261101010114.3.5c5cd29ea523f7bd@mg2.substack.com",
    "20261101111208.3.15f2a4316913ecfb@mg-d0.substack.com",
    "20261101120408.3.ff58fee3fc8a1842@mg-d0.substack.com",
    "20261101150354.3.f0ca5e21c8b375a8@mg-d0.substack.com",
@@ -56,12 +40,81 @@
    "20261102232532.3.13a20aa57a78802f@mg-d0.substack.com",
    "20261103001559.3.1377117ae83f5a50@mg-d0.substack.com",
    "20261103020053.3.d84d7827dd651197@mg-d1.substack.com",
-   "20261103030051.3.962991e028a9c37f@mg-d1.substack.com"
+   "20261103030051.3.962991e028a9c37f@mg-d1.substack.com",
+   "20261103110330.3.5d042ec31cfd9fba@mg2.substack.com",
+   "20261103112431.3.f016307bcda79d3a@mg-d1.substack.com",
+   "20261103112913.3.83119ebca4f560c7@mg-d1.substack.com",
+   "20261103120343.3.b0e60b02c99c2cdb@mg-d0.substack.com",
+   "20261103122453.3.482175c74722d296@mg-d0.substack.com",
+   "20261103123541.3.50bade1b160d747c@mg-d0.substack.com",
+   "20261103131701.3.930de4adfdfa7b9e@mg2.substack.com",
+   "20261103142838.3.1376311844ba728e@mg2.substack.com",
+   "20261103160121.3.269adcc3fce46cc2@mg-d1.substack.com",
+   "20261103161812.3.924bca3a3de9849d.pkxngltc@mg1.substack.com",
+   "20261103173656.3.12f472118ada81ca@mg2.substack.com",
+   "20261103175803.3.5adb52e4df1e41f1@mg-d0.substack.com",
+   "20261103203721.3.d3be4037f98b4c15@mg2.substack.com",
+   "20261103210053.3.a4cb641c8570dc9c@mg-d0.substack.com",
+   "20261103214101.3.61367cff9aa5dd60@mg-d0.substack.com",
+   "20261103231231.3.ff33ea578cdb9889@mg-d0.substack.com"
   ],
-  "updated": "2026-11-02T19:59-08:00",
+  "updated": "2026-11-03T19:04-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261103231231.3.ff33ea578cdb9889@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "The Election Night Group Chat is live",
+   "date": "2026-11-03T15:12-08:00",
+   "url": "https://open.substack.com/pub/messagebox/p/the-election-night-group-chat-is",
+   "bullets": [
+    "Dan Pfeiffer invites subscribers to a live Election Night Group Chat for real‑time results, Q&A, and his analysis, with an hour‑by‑hour guide to key races.",
+    "He’ll be present all night except when on TV or recording Pod Save America, and non‑subscribers are urged to upgrade to join."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103214101.3.61367cff9aa5dd60@mg-d0.substack.com",
+   "newsletter": "Sarah, Tim and JVL—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Tonight: We’re going live starting at 7 p.m. EST",
+   "date": "2026-11-03T13:41-08:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark will stream live Election Night coverage with Tim Miller, Sarah Longwell, JVL and guests across Substack, YouTube, Facebook, and Twitch starting at 7 p.m. EST."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103210053.3.a4cb641c8570dc9c@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Would Trump Actually Nuke Iran? Probably Not",
+   "date": "2026-11-03T13:00-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/would-trump-actually-nuke-iran-probably",
+   "bullets": [
+    "Tucker Carlson’s tweet claiming the Trump administration is days from a nuclear strike on Iran is likely a fabricated “leak” meant to generate hype, not evidence of actual plans.",
+    "The author argues Trump is unlikely to use nuclear weapons, noting the administration’s pattern of releasing hypothetical war or peace scenarios to pressure Tehran and calm markets.",
+    "The live election coverage tonight will feature hosts Mehdi, Prem, Swin, and Andrew reporting from various locations, discussing these claims among other topics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261103203721.3.d3be4037f98b4c15@mg2.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "AOC Quietly Lays the Groundwork",
+   "date": "2026-11-03T12:37-08:00",
+   "url": null,
+   "bullets": [
+    "AOC’s late‑stage Virginia tour, boosting moderate Democrat Rep. Eugene Vindman, signals she’s building goodwill in the state that will vote sixth in the 2028 Democratic primary, positioning her for a possible presidential run.",
+    "The event highlighted a rare alliance between AOC and centrist Governor Abigail Spanberger, whose 2025 gubernatorial campaign AOC is now fundraising for, underscoring a broader Democratic strategy to unite progressives and moderates in purple districts.",
+    "AOC’s campaign memo details her extensive multi‑state stump‑tour, fundraising strength, and intent to remain a key endorsement engine, while Democrats view Virginia’s shifting, educated electorate as a crucial early‑primary battleground for 2028."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261103175803.3.5adb52e4df1e41f1@mg-d0.substack.com",
    "newsletter": "Paul Krugman",
@@ -151,10 +204,11 @@
    "date": "2026-11-03T04:35-08:00",
    "url": "https://open.substack.com/pub/zeteo/p/what-about-arab-and-muslim-safety",
    "bullets": [
-    "🗳️ Zeteo is gearing up to cover one of the most consequential midterm elections in modern U.S. history. Tonight, Mehdi and Prem will be live from Abdul El-Sayed HQ in Detroit, Michigan, from 9pm ET on Substack and YouTube [ https://substack…",
-    "Good morning friends. Prem here, reporting on the ground from Michigan on a long-awaited 2026 Election Day – and we find out just how tired Americans are of Donald Trump’s authoritarian presidency and Republican control in Washington."
+    "Prem reports from Dearborn that Michigan Rep. Alabas Farhat, a 26‑year‑old Muslim lawmaker, highlighted how state policies suppress free speech and fund Israel under the guise of ‘Jewish safety’ while neglecting Arab and Muslim protection.",
+    "The newsletter claims corporate media ignores the campaign’s focus on anti‑Muslim rhetoric, noting that Donald Trump’s administration and Republican control have intensified Islamophobia, including attempts to ban, criminalize, deport, and bomb Muslim‑looking individuals.",
+    "It also notes recent political developments: the Supreme Court rejected Trump’s bid to discard 20,000 California ballots, Trump is poised to pre‑emptively pardon Elon Musk, and a pardoned Jan. 6 defendant faces charges for threatening judges."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261103122453.3.482175c74722d296@mg-d0.substack.com",
@@ -5808,38 +5862,10 @@
     "The author claims Trump has multiple levers to control diesel prices and that industry will benefit by cooperating with his preferred measures, contrary to the ‘limited options’ narrative."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261004003049.3.9fdc07abd32d8228@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Ken Paxton Gets a Painfully Awkward “Endorsement” From Estranged Wife",
-   "date": "2026-10-03T17:30-07:00",
-   "url": null,
-   "bullets": [
-    "A new NYT‑Siena poll finds Democrats leading or within single digits in traditionally red states like Texas, Alaska, Ohio, Iowa and Kansas, suggesting broader national competitiveness.",
-    "Catherine Rampell argues the data reflect genuine Democratic gains rather than temporary fluctuations, while Bill Kristol warns that Trump’s shrinking base could reshape the GOP’s electoral calculus.",
-    "The authors contend that if these trends hold, the upcoming elections could resemble a true wave rather than isolated state‑level surprises."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261003203331.3.9ad956f6bb477202@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Trump Picked a Fight With His Own Ally at the Dumbest Possible Time",
-   "date": "2026-10-03T13:33-07:00",
-   "url": null,
-   "bullets": [
-    "Trump publicly posted Arkansas Sen. Tom Cotton’s private phone number after Cotton blocked Trump’s effort to make daylight‑saving time permanent, sparking a rare intra‑Republican clash.",
-    "The dispute pits Trump’s agenda against golf‑industry interests that favor year‑round daylight, while Republicans face a tough midterm election landscape.",
-    "Hosts Will Saletan and Joe Perticone will dissect the political fallout and the behind‑the‑scenes dynamics of this unexpected ally fight."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 112,
-  "total": 425
+  "shown": 110,
+  "total": 427
  }
 }
