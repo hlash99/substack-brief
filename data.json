@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:35-08:00",
+ "updated": "2026-11-05T13:08-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -62,6 +62,140 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261105205618.3.95c3f12624f316b8@mg-d1.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "My Bar Crawl Through the MAGA Meltdown",
+   "date": "2026-11-05T12:56-08:00",
+   "url": null,
+   "bullets": [
+    "Joe Perticone recounts being denied a reservation at Butterworth’s, a Capitol Hill bar popular with MAGA supporters, after security tightened for Election Night.",
+    "He planned to use the venue as a brief stop while covering chaotic watch parties, illustrating the clash of celebratory excess and political despair on election night."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261105173007.3.e618c091bf95046a@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Conspiracy to Push Donald Trump Aside",
+   "date": "2026-11-05T09:30-08:00",
+   "url": null,
+   "bullets": [
+    "JD Vance launched his 2028 campaign by blaming Trump’s Iran policy, inflation, and close ties to Israel, urging Trump to surrender on Iran, cut ties with Israel, and drop tariffs to avoid Republican defeat.",
+    "Vance’s post suggests a coordinated effort with two other unnamed figures to push Trump out of the GOP race, though it’s unclear if Trump himself was involved in the strategy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261105160242.3.099cb8022d45bea9@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "The World’s Most Powerful Government Is Targeting This Man for Pro-Palestine Speech",
+   "date": "2026-11-05T08:02-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-worlds-most-powerful-government",
+   "bullets": [
+    "Georgetown scholar Badar Khan Suri, an Indian legal resident, was detained for two months by ICE and targeted for deportation after criticizing Israel’s Gaza assault, sparking a federal judge’s release order.",
+    "The U.S. government’s renewed deportation effort could set a precedent for using immigration enforcement to punish pro‑Palestine speech, raising concerns about free‑speech limits.",
+    "Suri’s case highlights the personal toll of such crackdowns, as he endured multiple facility transfers, family separation, and costly legal battles while advocating for democracy and Gaza’s plight."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261105160124.3.2f89fc03162bddd9@mg-d0.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Right’s Election Meltdown Is Just Getting Started",
+   "date": "2026-11-05T08:01-08:00",
+   "url": null,
+   "bullets": [
+    "THE POLLS HAD BEEN PREDICTING DOOM for his party for weeks, if not months. But as the first election results began rolling in on Tuesday afternoon, pro-Trump pundit Benny Johnson couldn’t help feeling good. Republicans had captured the gove…",
+    "“An island that knows a lot about blue waves just went Republican!” he said. The optimism didn’t last. Six hours after the big Guam win, as Democrats piled up electoral victories, Johnson was grimly intoning [ https://substack.com/redirect/…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261105143123.3.9ffc268b9a9dbbb6@mg-d1.substack.com",
+   "newsletter": "Here Be Dragons from Barbara F. Walter",
+   "pub": "barbarafwalter",
+   "subject": "Eight Things We Learned From the Midterms",
+   "date": "2026-11-05T06:31-08:00",
+   "url": "https://barbarafwalter.substack.com/p/eight-things-we-learned-from-the",
+   "bullets": [
+    "Nearly 124.3 million Americans voted in the midterms—about 12 million more than 2022—making it the second‑highest turnout since 1914, with 70 % of voters under 30 favoring Democrats; 58 % of Latino men and 69 % of Latino women voted Democratic, reversing Trump’s 2024 gains; white women shifted from a 10‑point Trump advantage to a narrow Democratic edge, while white evangelical Christians remained 80 % Republican; Democrats captured governorships and flipped legislative chambers in Michigan, Minnesota, Nevada, Pennsylvania, Wisconsin, Georgia, Iowa, Ohio, and Texas, giving them control over state election rules through 2028; no significant election misconduct was reported, and Trump accepted the results, signaling a potential end to post‑election contestation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261105143003.3.72f31e17ec876f7d@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Here’s What Happens When Trump’s Star Implodes",
+   "date": "2026-11-05T06:30-08:00",
+   "url": null,
+   "bullets": [
+    "The midterm election saw a dramatic blue wave, highlighted by Democrat Zach Dembo’s 9‑point win in Kentucky’s 6th District, signaling a massive shift toward Democrats nationwide.",
+    "Vice President J.D. Vance publicly blamed the GOP’s loss on the Iran war and called for a pivot to cost‑of‑living issues, Israel policy changes, and ending the war—an unprecedented critique from a Trump ally.",
+    "Trump’s own response was detached, focusing on personal projects like a new East Wing ballroom while the GOP, including figures like DeSantis and Carlson, openly questioned his leadership and the future of the party."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261105120659.3.ca61028f8633d397@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "🫣 Republicans Groan: Trump and Stephen Miller ‘Screwed’ Us, and Killed Our 2026 Dreams!",
+   "date": "2026-11-05T04:06-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/republicans-groan-trump-and-stephen",
+   "bullets": [
+    "Republican elites blame President Trump and his adviser Stephen Miller for the GOP’s 2026 midterm losses, citing Trump’s illegal Iran war, rising costs, and mass deportations that eroded Hispanic support.",
+    "The blame focuses on Trump’s policy failures—particularly the 2024 immigration crackdown and the “War Secretary” Pete Hegseth’s Iran campaign—while Miller’s domestic agenda is singled out for causing voter backlash.",
+    "The narrative frames the GOP’s defeat as a direct result of Trump’s actions, with donors and lawmakers reluctant to name him publicly due to fear of backlash and career damage."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261105120345.3.4b6e6382597bef15@mg-d0.substack.com",
+   "newsletter": "James Horton, PhD. from Moonshots",
+   "pub": "jimhorton",
+   "subject": "Chase Your Phantoms",
+   "date": "2026-11-05T04:03-08:00",
+   "url": "https://jimhorton.substack.com/p/echoes-down-the-cave",
+   "bullets": [
+    "James Horton shifted to a 25‑hour circadian rhythm in late 2025, eliminating morning grogginess and seasonal depression, but discovered Wellbutrin XL causes cloud‑brain when not depressed, leading to a summer of mental fog.",
+    "He completed two of four 8,000‑word academic journal articles, delaying Substack output; his pattern of “purpose creep” has inflated his posts to over 3,000 words, prompting a new strategy to finish one long piece per month while experimenting with shorter formats."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261105112437.3.c8ac396e009475e3@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "What Democrats Can Do",
+   "date": "2026-11-05T03:24-08:00",
+   "url": "https://paulkrugman.substack.com/p/what-democrats-can-do",
+   "bullets": [
+    "Democrats should use their new committee control to launch subpoenas exposing Trump’s corruption while passing popular, progressive legislation—like ACA subsidy restoration, Medicare expansions, and stronger Ukraine aid—knowing Trump will veto and forcing Republican votes on overrides.",
+    "By forcing Trump’s vetoes on well‑crafted bills, Democrats can highlight Republican complicity, potentially win some GOP overrides on issues such as sanctions on Russia, and build a policy platform for the 2028 elections.",
+    "Krugman notes the market’s reaction: oil prices fell and the Dow rose 1,500 points after the midterms, reflecting reduced war risk despite Trump’s continued veto power."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261105110301.3.ab353c145f040c8e@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Trump’s Crushing Defeat Just Changed How the World Sees America",
+   "date": "2026-11-05T03:03-08:00",
+   "url": null,
+   "bullets": [
+    "Former CIA officer Marc Polymeropoulos and journalist Michael Weiss argue that Trump’s midterm losses have prompted allies to celebrate, seeing a shift away from his destabilizing foreign policy.",
+    "They warn the results empower Ukraine against Russia, constrain Iran’s aggression, and expose Netanyahu’s gamble on MAGA as costly for Israel.",
+    "The hosts predict intense congressional investigations of Trump’s inner circle and forecast that JD Vance and Elon Musk will suffer major political setbacks from the election outcome."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261105023042.3.2d5caa72c1bb2da2@mg-d1.substack.com",
    "newsletter": "Bulwark Takes",
@@ -136,10 +270,11 @@
    "date": "2026-11-04T12:28-08:00",
    "url": "https://open.substack.com/pub/citrini/p/state-of-the-themes-556",
    "bullets": [
-    "The changing fall leaves in New York remind us of a fundamental truth. There is a season to everything, especially in markets. When Citrini Research began back in 2023, it was a good time for Thematic Investing™. Stocks were cheap, sentimen…",
-    "It wasn’t all that difficult to cast a wide net, identify structural tailwinds, and let a rising tide lift the boats. We started in AI, and repeated the blueprint with fiscal primacy, GLP-1s, robotics, energy, defense, healthcare…"
+    "Citrindex’s total return has outperformed the S&P 500 by over 2.5x since its May 31 2023 launch, but rising valuations have pushed thematic ideas from cheap winners to speculative, unprofitable 2030‑TAM bets.",
+    "The newsletter warns that AI capex is peaking: hyperscalers face a $1 trillion annual spend gap, with revenue growth lagging and datacenter bottlenecks and financing strain threatening further expansion.",
+    "Citrini is overhauling the Citrindex, shifting from continuation trades to reversals, pairs and fresh ideas, while adding new sectors like Boomer Software, Booze & Bubbles, Financials and Entertainment."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261104200834.3.6cc5a3cca1e27ff2@mg-d1.substack.com",
@@ -301,10 +436,11 @@
    "date": "2026-11-03T21:35-08:00",
    "url": "https://open.substack.com/pub/zeteo/p/breaking-dems-take-full-control-of-congress",
    "bullets": [
-    "Democrats have taken full control of the U.S. Congress in a massive repudiation of Donald Trump’s authoritarian presidency and his gross mishandling of the economy. The blue wave that observers have projected for months ended up being a blu…",
-    "For the first two years of Trump’s second term, Republicans have held a governing trifecta, denying Democrats much opportunity to block their agenda or hold the president and his corrupt administration accountable. That’s about to change: W…"
+    "Democrats secured a sweeping victory, gaining a decisive House majority and flipping seven Senate seats, including historic wins in Kansas (first Democratic senator since 1932) and Texas (first Senate seat for Democrats since 1988).",
+    "Trump acknowledged the results, claiming he’ll accept them and asserting a veto power, while Democrats now can launch formal investigations and block his agenda with control of both chambers.",
+    "Key races: Adam Hamilton (D) beat GOP Sen. Roger Marshall in Kansas; Sherrod Brown (D) reclaimed Ohio seat; Annie Andrews (D) unseated appointed GOP Sen. Darline Graham in South Carolina, a loss linked to Graham’s support for a U.S.-Israeli war in Iran."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261104052929.3.a2240edc233958c6@mg2.substack.com",
@@ -569,10 +705,10 @@
    "date": "2026-11-02T18:30-08:00",
    "url": null,
    "bullets": [
-    "The Iran war and its impacts at home are major issues in the midterms, but POTUS is not finished with his misadventure in the Middle East. One key Democratic senator who's been briefed on the war plan says it's \"insane\" and would lead to a …",
-    "Bill Kristol and Jonathan V. Last join Tim Miller. Monday’s “Morning Shots” [ https://substack.com/redirect/f876e36c-f840-41a9-b207-b47e9e6319ee?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]"
+    "Bill Kristol warns that the GOP’s alignment with Trump is on the brink of collapse as midterm dynamics shift, especially after the Iran war debate and Democratic poll leads.",
+    "A Democratic senator described the administration’s Iran war plan as ‘insane,’ warning it could trigger a devastating escalation, adding pressure on the president’s Middle East strategy."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261103020053.3.d84d7827dd651197@mg-d1.substack.com",
@@ -5927,104 +6063,10 @@
     "Trump fears a future “de‑Trumpification” that would strip his likeness from money, buildings, and monuments, prompting him to use government resources to preempt Democratic efforts to erase his legacy."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261005184724.3.fc0ddc36b51806bd@mg2.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "🚨October Surprise",
-   "date": "2026-10-05T11:47-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark offers a limited 30% discount on a year‑long Bulwark+ subscription, granting ad‑free shows, members‑only newsletters like Sarah Longwell’s Focus Group and JVL’s Triad, plus secret podcasts.",
-    "Members who join by October 18 gain access to a live‑streamed Bulwark LIVE: Charlotte event featuring Sarah, Tim, Sam, JVL and guest mayor Pete Buttigieg, with on‑demand replay and a members‑only chat."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261005172220.3.91af6387c88ae60b@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Where Does Hamas Stand Three Years After Oct. 7 – and What Comes Next?",
-   "date": "2026-10-05T10:22-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/where-does-hamas-stand-three-years",
-   "bullets": [
-    "Hamas, after three years since Oct. 7, has halted all attacks, agreed to lay down arms for Israeli withdrawal, and its leaders now focus on survival rather than liberation, sparking internal split between those labeling the attack a disaster and those invoking Yahya Sinwar’s legacy.",
-    "Israel has killed over 1,450 Palestinians since the 2025 ceasefire, including many Hamas commanders, yet Hamas has not fired a single rocket or bullet in retaliation, despite denying ceasefire violations.",
-    "The movement’s identity, built on armed resistance, is now in crisis as it struggles to find a viable alternative strategy, leading to a divided leadership and a shift toward political survival over military objectives."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261005164428.3.96bf02fe04dcc994@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Doomsday Scenario",
-   "date": "2026-10-05T09:44-07:00",
-   "url": null,
-   "bullets": [
-    "The author predicts Democrats have a roughly 52.5‑seat chance of winning the Senate, framing the outcome distribution as a bell curve centered near that number.",
-    "Despite a potential Democratic victory, the piece warns that a looming, unspecified ‘very, very dangerous’ scenario threatens the political landscape."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261005132352.3.8d2a453b00f6b3b4@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A Death. A Funeral. And the Trump Rally Down the Block.",
-   "date": "2026-10-05T06:23-07:00",
-   "url": null,
-   "bullets": [
-    "Local Ohio Republicans and MAGA voters expressed mixed feelings about the Haitian removals, acknowledging both economic contributions and concerns over illegal immigration, while political candidates avoided the topic at the rally"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261005111900.3.0409a060ce1c2155@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Free-Falling Trump Whines, Bitches, and Bribes – as New and Stunning Polls Keep Piling on the Pain",
-   "date": "2026-10-05T04:19-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/free-falling-trump-whines-bitches",
-   "bullets": [
-    "Trump claimed on Fox & Friends that if Republicans win Congress he will give every U.S. adult $5,000, absurdly saying the money would come from tariff revenues, a promise analysts say is financially impossible.",
-    "New polls show the GOP losing Latino support and seeing previously safe red states become competitive, highlighting the party’s deteriorating electoral prospects.",
-    "In California, Rep. Ro Khanna attacks Gov. Newsom over Proposition 40, a billionaire tax aimed at funding healthcare, a fight that could influence the 2028 presidential primary."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261005111312.3.fa057ec94d6e569c@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Adam Hamilton Can Win Kansas",
-   "date": "2026-10-05T04:13-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/adam-hamilton-can-win-kansas",
-   "bullets": [
-    "A NYT/Siena poll shows Democrat Adam Hamilton tied Republican Roger Marshall 45‑45 in Kansas, with an Emerson poll putting Hamilton ahead 45‑43, despite Kansas not electing a Democratic senator in 94 years and Trump having won the state by 16 points in 2024.",
-    "Trump’s approval in Kansas is low (40% overall, 55% view the economy negatively, 45% say his policies hurt the state), and his unpopular tariffs and beef imports have hurt farmers, creating a potential drag on GOP candidates.",
-    "Hamilton, a former Republican megachurch pastor with 39% favorability and 18% Republican favorability, outperforms the generic Democratic ballot among informed voters, while Marshall’s favorability is 40%/45% and he faces criticism for suing over 700 patients as a doctor, prompting GOP ad spending of over $8 million in the race."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261005103143.3.a9e509fa540509da@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Trump Administration is a Cesspit of Corruption",
-   "date": "2026-10-05T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-trump-administration-is-a-cesspit",
-   "bullets": [
-    "Krugman claims Trump and his circle have amassed roughly $10 billion in personal gain, citing pardons for scammers, Jared Kushner’s Gulf‑state fund, and Howard Lutnick’s $7 billion crypto ties.",
-    "A Wall Street Journal editorial and an Economist/YouGov poll show corruption is becoming a GOP issue, but only 30% of Americans currently view Republicans as more corrupt than Democrats.",
-    "Krugman warns Democrats must seize the expected blue wave to investigate Trump’s looting while avoiding similar big‑money corruption scandals of their own."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 111,
-  "total": 439
+  "shown": 110,
+  "total": 442
  }
 }
