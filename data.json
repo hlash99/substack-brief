@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T12:52-08:00",
+ "updated": "2026-11-04T19:35-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -62,6 +62,72 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261105023042.3.2d5caa72c1bb2da2@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Will Sommer & Sam Stein: MAGA is Losing Their Effing Minds",
+   "date": "2026-11-04T18:30-08:00",
+   "url": null,
+   "bullets": [
+    "Donald Trump ignored the midterm defeat, instead touring a White House ballroom construction site to admire chandeliers, kitchen layouts and a steel beam, prioritizing a vanity project over political fallout.",
+    "Republican leaders such as Laura Loomer, Marjorie Taylor Greene, Mark Levin, and Nancy Mace engaged in a heated blame game, trading insults and pointing fingers at each other for the losses, while Trump remained absent from the scene."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261105020053.3.5ee9e79f961fe76b@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Will the Democratic Leadership Dare to Be Bold?",
+   "date": "2026-11-04T18:00-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/will-the-democratic-leadership-dare",
+   "bullets": [
+    "The 2026 midterms saw Democrats win Senate seats in Kansas, Maine, Ohio, Iowa, North Carolina (20‑point margin), South Carolina (4‑point margin) and Texas (James Talarico beat Ken Paxton by 12 points), giving the party 54‑56 Senate seats in 2027 and likely 250+ House seats.",
+    "The massive Democratic majorities mean no single caucus—whether the left‑leaning “Squad” or centrist figures like Senator John Fetterman—can control the agenda, but they also face high expectations to act decisively against the Trump administration amid a party split on ideology and tactics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261105010308.3.cacf085e179b5a44@mg2.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Sh*t Just Got a Lot Easier for the Democratic Party Project",
+   "date": "2026-11-04T17:03-08:00",
+   "url": null,
+   "bullets": [
+    "Trump’s 2016 win shattered Democratic confidence, leading to a defensive posture that treated large swaths of the country as unwinnable; recent 2024 results challenge that narrative.",
+    "In 2024, Democrats won key Senate races—Cooper (NC), Talarico (TX), Andrews (SC), Hamilton (KS), Brown (OH), Turek (IA)—and flipped governorships in Georgia, Iowa, Texas, Ohio, and Nevada, plus major state‑legislature gains."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261104231529.3.5d1ba423bbe0b0ce@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Fox Finds Itself In a ‘Hell of a Pickle’ as America Turns on Trump",
+   "date": "2026-11-04T15:15-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/fox-finds-itself-in-a-hell-of-a-pickle",
+   "bullets": [
+    "Fox News struggled to blame Trump for the 2024 blue wave, yet avoided attacking him, revealing a deep identity crisis as the network tries to pivot while still tied to his brand.",
+    "The network’s election‑night coverage devolved into a prolonged struggle session, with hosts scrambling for excuses to explain the GOP’s blowout, highlighting their inability to distance themselves from Trump’s influence."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261104220539.3.9cb76740e4760d5e@mg2.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "‘Latino Fury’: How Anti-ICE Fervor Helped Democrats Take Back Congress",
+   "date": "2026-11-04T14:05-08:00",
+   "url": null,
+   "bullets": [
+    "Latino voters swung decisively toward Democrats in 2024, driven by anti‑ICE sentiment and economic concerns, with Latino turnout in Texas’s Rio Grande Valley surpassing 2024 levels and a 70‑point swing for Democrat James Talarico in 97‑percent Latino Starr County.",
+    "Talarico’s campaign spent over $16 million on TV ads, including $5 million on primary TV and $10 million in the fall, using stark language about ICE as a “secret police force” and highlighting the kidnapping of children to galvanize Latino voters.",
+    "Democratic consultants ran targeted Spanish‑language ads across red states—Kansas, Nebraska, Texas—emphasizing ICE abuses and Trump’s immigration policies, successfully unseating Republican incumbents like Monica De La Cruz in Texas’s 15th Congressional District."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261104202809.3.1bc78e520cf0d422@mg2.substack.com",
    "newsletter": "Citrini",
@@ -152,10 +218,11 @@
    "date": "2026-11-04T06:22-08:00",
    "url": null,
    "bullets": [
-    "Not done basking in the warm sunshine of good news? Us neither. Tim, Sarah, and JVL will be live on Substack [ https://open.substack.com/live-stream/441859?utm_source=post-publish ] and YouTube [ https://substack.com/redirect/f651359a-03c2-…",
-    "The whole game changed last night. We’re all still grappling with what Democrats’ once-in-a-century rout will mean. JVL is right [ https://substack.com/redirect/0479d11b-0786-4706-964f-4c235adf41a0?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4f…"
+    "The 2026 election produced a Democratic landslide—up to a 14‑point popular‑vote margin, roughly 45 House seats and 7‑9 Senate seats gained, plus majorities in most governorships—making the wave “too big to rig.”",
+    "Andrew Egger argues Trump’s post‑2020 election‑fraud scheme is now dead, as the Democratic sweep eliminates the institutional support he would need to attempt another steal in 2028.",
+    "Bill Kristol warns Republicans face a bind: tied to a lame‑duck Trump with no alternative power bases, while internal factional fights over issues like the Iran war will intensify."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261104120334.3.5d4382792748c429@mg-d0.substack.com",
@@ -5954,38 +6021,10 @@
     "Krugman warns Democrats must seize the expected blue wave to investigate Trump’s looting while avoiding similar big‑money corruption scandals of their own."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261005000923.3.da96f9eb91a0907d@mg-d1.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trumpism in Trouble on the Prairie",
-   "date": "2026-10-04T17:09-07:00",
-   "url": null,
-   "bullets": [
-    "Democratic Senate candidate Adam Hamilton, a 62‑year‑old United Methodist pastor, warned Kansas voters that the Senate Republicans’ top super PAC shifted money from North Carolina to Kansas for a blitz of ads against him.",
-    "Despite breaking fundraising records, Hamilton says he still needs to raise millions more and acknowledges the personal toll the campaign is taking on his church, community, and family.",
-    "Polls suggest Hamilton could be competitive against incumbent Roger Marshall, prompting Republicans to rush resources into Kansas as the midterms approach."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261004205944.3.c41e2c232153a42d@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Andrew Egger Saw an Older, Slower Trump on the Rally Stage | Bulwark on Sunday",
-   "date": "2026-10-04T13:59-07:00",
-   "url": null,
-   "bullets": [
-    "Andrew Egger attended a funeral for 20‑year‑old Haitian immigrant Pierre Bel in Ohio before going straight to a Trump rally, noting the community’s grief and resilience.",
-    "At the rally, Egger observed Trump’s lower energy and “cracks” among supporters, with some questioning the president’s immigration rhetoric toward Haitians.",
-    "They warned that Republicans face ominous midterm prospects, citing declining enthusiasm and shifting demographics in key swing areas."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 112,
-  "total": 436
+  "shown": 111,
+  "total": 439
  }
 }
