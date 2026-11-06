@@ -1,46 +1,18 @@
 {
- "updated": "2026-11-05T13:08-08:00",
+ "updated": "2026-11-05T19:30-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms are shaping up to be a decisive battle for control of Congress, with Democrats projected to net at least four Senate seats and potentially flip the House, a scenario highlighted by multiple polls and analyses from The Bulwark, Zeteo, and Paul Krugman (The Bulwark, Zeteo, Paul Krugman).",
-   "Key races in traditionally Republican states—Michigan, Texas, Kansas, and Alaska—are becoming unexpectedly competitive, driven by high turnout, shifting Hispanic votes, and surprise endorsements such as Haley Stevens’ switch to Republican Mike Rogers, as reported by The Bulwark and Zeteo (The Bulwark, Zeteo).",
-   "El‑Sayed’s Michigan Senate campaign is under intense attack from both sides, with Islamophobic messaging from Republicans and a controversial endorsement flip by Stevens, creating a volatile environment that could swing the state’s seat, according to The Bulwark and Zeteo (The Bulwark, Zeteo).",
-   "Elites and donors are pouring unprecedented sums into the race, with Elon Musk’s $474 million contribution to Republican candidates and Trump‑aligned PAC spending exceeding $67 million in New Hampshire, raising concerns about oligarchic influence, as noted by Paul Krugman and Zeteo (Paul Krugman, Zeteo).",
-   "Election night coverage is being livestreamed by several outlets—The Bulwark, The Message Box, and Zeteo—offering real‑time analysis, on‑ground commentary, and interactive chats to keep voters engaged and informed, as highlighted by Dan Pfeiffer, The Bulwark, and Zeteo (Dan Pfeiffer, The Bulwark, Zeteo).",
-   "Voter mobilization efforts are intensifying, with state leaders like Roy Cooper and Chris Pappas urging last‑minute turnout and fundraising drives to secure key seats, underscoring the high stakes for both parties, as reported by The Bulwark and local newsletters (The Bulwark, local newsletters)."
+   "The 2026 midterms produced a historic blue wave, flipping the House, most Senate seats, and key governorships, and giving Democrats a platform to investigate Trump‑aligned officials and push progressive legislation (Bulwark, Zeteo, The Message Box).",
+   "Democratic leaders are now eyeing congressional budget authority, targeting OMB Director Russell Vought as a key obstacle to restoring fiscal checks and balances, while framing him as a threat to constitutional governance (Bulwark).",
+   "The U.S. government’s renewed deportation effort against pro‑Palestine speaker Badar Khan Suri signals a broader use of immigration enforcement to silence dissent, raising free‑speech concerns (Zeteo).",
+   "Trump’s influence remains a polarizing force, with GOP insiders blaming him for the 2026 losses and his Iran war stance, while former allies like JD Vance publicly distance themselves to avoid further damage (Bulwark, Zeteo).",
+   "Natural gas output is projected to surpass the EU’s total in 2026, driving prices down and prompting a $13 billion merger that could reshape the energy landscape and LNG export strategy (Doomberg).",
+   "The election night narrative is dominated by live streams and real‑time analysis from Zeteo, The Bulwark, and The Message Box, reflecting a shift toward immersive, subscriber‑centric coverage of political upheaval (Zeteo, Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20261101111208.3.15f2a4316913ecfb@mg-d0.substack.com",
-   "20261101120408.3.ff58fee3fc8a1842@mg-d0.substack.com",
-   "20261101150354.3.f0ca5e21c8b375a8@mg-d0.substack.com",
-   "20261101150357.3.de6e1e49e4148751@mg-d0.substack.com",
-   "20261101183541.3.b2e09e5cc66f3571@mg-d1.substack.com",
-   "20261101190214.3.6659e8a922db970e@mg-d0.substack.com",
-   "20261101194413.3.c95565d226018d88@mg-d0.substack.com",
-   "20261101204150.3.f9d8f1dae06b4615@mg-d1.substack.com",
-   "20261101210852.3.c438d76d02832fdc@mg-d0.substack.com",
-   "20261101220121.3.7c9c363259ab3955@mg-d1.substack.com",
-   "20261101230150.3.c60c8530bab58b83@mg2.substack.com",
-   "20261102003157.3.5acda516909c5279@mg-d0.substack.com",
-   "20261102013740.3.40220e4617b153bb.233x7263@mg1.substack.com",
-   "20261102015107.3.1658bada4572712b@mg-d0.substack.com",
-   "20261102113042.3.ab0e6f1e9cc1686c@mg-d0.substack.com",
-   "20261102113151.3.711642fc68a8c96b@mg2.substack.com",
-   "20261102121151.3.139ddbd22d40e686@mg-d0.substack.com",
-   "20261102143517.3.afc44711bca63192@mg-d0.substack.com",
-   "20261102153536.3.6c84c5fb1e7899db@mg-d0.substack.com",
-   "20261102175214.3.427c7afdece21d24@mg-d0.substack.com",
-   "20261102183235.3.ab512d172acbda31@mg-d0.substack.com",
-   "20261102200047.3.876b2bfb0f000b9c@mg-d1.substack.com",
-   "20261102215109.3.284d8c8300f09d86@mg-d1.substack.com",
-   "20261102230150.3.44259abf1914a057@mg-d0.substack.com",
-   "20261102232532.3.13a20aa57a78802f@mg-d0.substack.com",
-   "20261103001559.3.1377117ae83f5a50@mg-d0.substack.com",
-   "20261103020053.3.d84d7827dd651197@mg-d1.substack.com",
-   "20261103030051.3.962991e028a9c37f@mg-d1.substack.com",
    "20261103110330.3.5d042ec31cfd9fba@mg2.substack.com",
    "20261103112431.3.f016307bcda79d3a@mg-d1.substack.com",
    "20261103112913.3.83119ebca4f560c7@mg-d1.substack.com",
@@ -56,12 +28,85 @@
    "20261103203721.3.d3be4037f98b4c15@mg2.substack.com",
    "20261103210053.3.a4cb641c8570dc9c@mg-d0.substack.com",
    "20261103214101.3.61367cff9aa5dd60@mg-d0.substack.com",
-   "20261103231231.3.ff33ea578cdb9889@mg-d0.substack.com"
+   "20261103231231.3.ff33ea578cdb9889@mg-d0.substack.com",
+   "20261104030644.3.df8dcd25237187a0@mg2.substack.com",
+   "20261104052929.3.a2240edc233958c6@mg2.substack.com",
+   "20261104053520.3.671c7cda3738cc6e@mg-d0.substack.com",
+   "20261104080025.3.fc8ffb79b60e44c3@mg2.substack.com",
+   "20261104100228.3.b55ec1706ec2591b@mg2.substack.com",
+   "20261104113109.3.88e39447bd543d8f@mg-d0.substack.com",
+   "20261104120229.3.f3301da6f4f0b8f9@mg2.substack.com",
+   "20261104120334.3.5d4382792748c429@mg-d0.substack.com",
+   "20261104142224.3.a278959a278c5f51@mg2.substack.com",
+   "20261104144829.3.00774bf841d6d366@mg-d1.substack.com",
+   "20261104151130.3.203071bb395d9b89@mg-d1.substack.com",
+   "20261104173728.3.5e2328f85a4bfd49@mg-d1.substack.com",
+   "20261104191350.3.c8e6b5fd8ceb0573@mg-d0.substack.com",
+   "20261104200834.3.6cc5a3cca1e27ff2@mg-d1.substack.com",
+   "20261104202809.3.1bc78e520cf0d422@mg2.substack.com",
+   "20261104220539.3.9cb76740e4760d5e@mg2.substack.com",
+   "20261104231529.3.5d1ba423bbe0b0ce@mg-d1.substack.com",
+   "20261105010308.3.cacf085e179b5a44@mg2.substack.com",
+   "20261105020053.3.5ee9e79f961fe76b@mg-d0.substack.com",
+   "20261105023042.3.2d5caa72c1bb2da2@mg-d1.substack.com",
+   "20261105110301.3.ab353c145f040c8e@mg2.substack.com",
+   "20261105112437.3.c8ac396e009475e3@mg-d0.substack.com",
+   "20261105120345.3.4b6e6382597bef15@mg-d0.substack.com",
+   "20261105120659.3.ca61028f8633d397@mg-d1.substack.com",
+   "20261105143003.3.72f31e17ec876f7d@mg-d1.substack.com",
+   "20261105143123.3.9ffc268b9a9dbbb6@mg-d1.substack.com",
+   "20261105160124.3.2f89fc03162bddd9@mg-d0.substack.com",
+   "20261105160242.3.099cb8022d45bea9@mg2.substack.com",
+   "20261105173007.3.e618c091bf95046a@mg2.substack.com",
+   "20261105205618.3.95c3f12624f316b8@mg-d1.substack.com",
+   "20261105230930.3.63e44a7a431a83a6@mg2.substack.com",
+   "20261106012856.3.82e276be6e5ec639@mg-d0.substack.com"
   ],
-  "updated": "2026-11-03T19:04-08:00",
+  "updated": "2026-11-05T19:30-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261106012856.3.82e276be6e5ec639@mg-d0.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Revenge of the (Democratic Budget) Nerds",
+   "date": "2026-11-05T17:28-08:00",
+   "url": null,
+   "bullets": [
+    "Democratic leaders plan to restore Congress’s budgetary authority by targeting OMB Director Russell Vought, whom Rep. Brendan Boyle calls the “most dangerous man in America.”",
+    "Vought, a former Trump‑era official, is credited with enabling authoritarian budget moves and is described by Georgetown professor David A. Super as “evil” despite his competence.",
+    "The article outlines constitutional threats posed by Vought’s actions and urges the new Democratic majorities to use budget powers to reinstate separation of powers and punish him."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261105230930.3.63e44a7a431a83a6@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "MAGA Influencer Russell Brand Convicted of Rape",
+   "date": "2026-11-05T15:09-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/maga-influencer-russell-brand-convicted",
+   "bullets": [
+    "A UK jury convicted Russell Brand of one count of rape and three counts of sexual assault involving four women for incidents between 2004 and 2009, and denied his bail request pending a significant prison term.",
+    "The conviction follows Brand’s rapid right‑wing shift since 2023, including appearances with Trump allies, a public conversion to Christianity, and participation in MAGA‑aligned events such as the 2024 RNC and 2025–2026 MAHA summits.",
+    "The article links Brand’s case to a broader pattern of sexual‑misconduct allegations among Trump‑associated figures, citing convictions and accusations against Donald Trump, Mike Tyson, Ted Nugent, George Nader, Pete Hegseth, Matt Gaetz, Elon Musk, and others."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261105230115.3.c9c1cc1948a833ed@mg-d1.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "JD Vance Attacked His Faith. Now He’s Headed to the Senate. (w/ Adam Hamilton & Rob Flaherty)",
+   "date": "2026-11-05T15:01-08:00",
+   "url": null,
+   "bullets": [
+    "Kansas Senator-elect Hamilton was not recruited out of the Democratic Party pipeline. The Methodist pastor chose to challenge Roger Marshall because he didn't like what was happening in the country, including with ICE agents and cuts to hea…",
+    "Senator-elect Adam Hamilton and Rob Flaherty join Tim Miller. Hamilton's victory speech [ https://substack.com/redirect/34c0ad8a-0a27-4378-817f-d822aff9ce1e?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20261105205618.3.95c3f12624f316b8@mg-d1.substack.com",
    "newsletter": "Joe Perticone - The Bulwark",
@@ -110,10 +155,11 @@
    "date": "2026-11-05T08:01-08:00",
    "url": null,
    "bullets": [
-    "THE POLLS HAD BEEN PREDICTING DOOM for his party for weeks, if not months. But as the first election results began rolling in on Tuesday afternoon, pro-Trump pundit Benny Johnson couldn’t help feeling good. Republicans had captured the gove…",
-    "“An island that knows a lot about blue waves just went Republican!” he said. The optimism didn’t last. Six hours after the big Guam win, as Democrats piled up electoral victories, Johnson was grimly intoning [ https://substack.com/redirect/…"
+    "Conservative influencers like Benny Johnson rode a brief high from a 1,020‑vote GOP win in Guam, then pivoted to despair as Democrats secured a massive House sweep and at least 54 Senate seats.",
+    "Midterm losses sparked infighting: Dave Smith clashed with Jack Posobiec on Piers Morgan, Matt Walsh advocated a nuclear‑armed Iran to block a ‘Communist’ win, and Liz Wheeler blamed the Justice Department’s inaction for GOP defeat.",
+    "Republican leaders, including JD Vance, Donald Trump Jr., and Ron DeSantis, blamed the Iran war and demographic shifts, while far‑right figures like Laura Loomer warned of an ‘Islamic takeover’ and questioned their faith."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261105143123.3.9ffc268b9a9dbbb6@mg-d1.substack.com",
@@ -5981,92 +6027,10 @@
     "A new synthetic opioid called cychlorphine, up to ten times stronger than fentanyl, has been linked to overdoses in at least 24 states, including 50 deaths in one Tennessee county, and standard fentanyl test strips don’t detect it."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261006013040.3.cf3b7a28ec317cc0@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Jack Smith Reveals the Words That Could Have Buried Trump",
-   "date": "2026-10-05T18:30-07:00",
-   "url": null,
-   "bullets": [
-    "Will Saletan argues that Jack Smith’s congressional testimony shows Trump was repeatedly warned by advisers, GOP officials, and DOJ that the 2020 election was legitimate, yet he ignored it",
-    "He outlines how prosecutors would have presented evidence of Trump’s election falsehoods, pressure on state officials in Georgia and Pennsylvania, and his refusal to halt the Jan 6 Capitol attack",
-    "The piece promotes a Bulwark video and offers discounted Bulwark+ memberships to support such in‑depth reporting"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261006010112.3.8dc151036b64806a@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Debunked: Mehdi Joins Piers Morgan To Destroy Israeli Military Claims About Murdered Journalists",
-   "date": "2026-10-05T18:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/debunked-mehdi-joins-piers-morgan",
-   "bullets": [
-    "Mehdi and Piers Morgan appeared on ‘Piers Uncensored’ to refute an Israeli military video that labeled dozens of Gaza journalists as Hamas operatives without evidence, calling the claim fake news.",
-    "The follow‑up debate, featuring analyst Omar Baddar, Netanyahu ally Amit Segal, and ex‑spokesperson Jonathan Conricus, covered Gaza’s death toll, the war‑crime documentary “Naza,” the Israeli army’s history of deception, and the alleged FlyDubai hijacking plot."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261006003141.3.646f3a18b3b6c2a3@mg-d1.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "Can I count on you again?",
-   "date": "2026-10-05T17:31-07:00",
-   "url": "https://ossoff.substack.com/p/can-i-count-on-you-again",
-   "bullets": [
-    "Ossoff reminds supporters that Republicans spent $269 million to try to defeat him in 2020, yet he won both his Georgia seat and the Democratic Senate majority.",
-    "He warns that the 2026 midterms are a pivotal battleground, with Trump and MAGA targeting his seat as the key to reclaiming the Senate.",
-    "He urges immediate donations via ActBlue, emphasizing that every contribution is crucial in this close race."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261005233407.3.349dc0e67e8840a5@mg-d0.substack.com",
-   "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
-   "pub": "macgregorwarrior",
-   "subject": "How do Washington’s Proxy Wars End?",
-   "date": "2026-10-05T16:34-07:00",
-   "url": "https://macgregorwarrior.substack.com/p/how-do-washingtons-proxy-wars-end",
-   "bullets": [
-    "Washington’s proxy wars—Ukraine’s stalled counteroffensive and US‑backed forces retreating in the Middle East while Iran controls the Strait of Hormuz—show battlefield gains haven’t translated into decisive victories.",
-    "Macgregor argues that military leaders must plan for political end‑states before fighting, citing Napoleon’s 1812 Russian invasion as a historic example of tactical success failing without a viable strategic objective.",
-    "He warns that U.S. efforts in the Persian Gulf suffer from overreach, distance, and terrain challenges, making single‑battle annihilation illusory and complicating any path to a stable peace."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261005232540.3.245d258b3643b9e9@mg-d1.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A Small Montana Town Tells Ben Shapiro to F*ck Off",
-   "date": "2026-10-05T16:25-07:00",
-   "url": null,
-   "bullets": [
-    "Livingston, Montana commissioners voted to temporarily suspend the Daily Wire’s filming permit for Ben Shapiro’s pro‑ICE movie “Pawn Shop” after complaints that the crew took over streets for a $5,000 fee despite a $1.5 million budget.",
-    "The hearing revealed residents weren’t objecting to the film’s anti‑ICE content but to the disruption and lax permitting that let the production operate with little oversight.",
-    "No Daily Wire representatives attended the meeting, and the commission plans to tighten film‑permit rules while the permit’s future remains uncertain."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261005212057.3.b49e99d3a3f9db66@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "‘De-Trumpification’: America’s Ruler Is ‘Consumed’ by Fear His Self-Tributes Will Be Erased",
-   "date": "2026-10-05T14:20-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/de-trumpification-trump-fears",
-   "bullets": [
-    "Donald Trump has spent over $1 billion of taxpayer money on projects that inflate his personality cult, including lavish decorations for his Washington, D.C. arch and White House ballroom.",
-    "Trump fears a future “de‑Trumpification” that would strip his likeness from money, buildings, and monuments, prompting him to use government resources to preempt Democratic efforts to erase his legacy."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 110,
-  "total": 442
+  "total": 439
  }
 }
