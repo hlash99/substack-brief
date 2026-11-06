@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:30-08:00",
+ "updated": "2026-11-06T12:29-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -67,6 +67,143 @@
  },
  "items": [
   {
+   "id": "20261106200150.3.7d7e10386bbb931d@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "BREAKING: Trump Names Stephen Miller as Chief of Staff",
+   "date": "2026-11-06T12:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/breaking-trump-names-stephen-miller",
+   "bullets": [
+    "Stephen Miller, Trump’s chief policy architect, was named White House chief of staff, replacing Susie Wiles, amid a national blue wave that critics see as a rebuke of his hardline agenda.",
+    "Miller has engineered Trump’s most controversial policies, including mass deportations to third‑country prisons, the use of the Insurrection Act to justify deploying troops in urban areas, and targeted prosecutions of political opponents.",
+    "Sources claim Miller deliberately provoked unrest to create a pretext for military intervention, and he has openly advocated sending deportees to countries with poor human‑rights records to ensure compliance with U.S. demands."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261106171324.3.908d92c45e1bf9c0@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trumpfall",
+   "date": "2026-11-06T09:13-08:00",
+   "url": null,
+   "bullets": [
+    "I was wondering which would break first, Trump’s spirit or his body. The president is an old man. He tries to cover up that fact with hair dye, elaborate combovers, layers of makeup, and other visual f/x. But he’s obviously unwell. Morbidly…",
+    "And yet until this week Trump’s spirit had still been strong. His will-to-power intact. His urge to dominate and ability to take the initiative had dulled, but were extant. Since Monday it’s different. We may have broken his back, once and …"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261106153415.3.2d2e3bb221cad342@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "The Trio: Laura Loomer Is Not Taking This Election Well",
+   "date": "2026-11-06T07:34-08:00",
+   "url": null,
+   "bullets": [
+    "Tim Miller, Sam Stein, and Will Sommer dissect the 2024 midterm, mocking JD Vance’s manosphere backlash, Tim Pool’s election breakdown, and MAGA defeats like Brandon Herrera’s loss, celebrating the GOP’s failures",
+    "Laura Loomer and Benny Johnson debate the results while Will Sommer introduces a prominent right‑wing streamer, highlighting his shocking living conditions, and notes Russell Brand’s rape conviction after a Trump‑era appearance"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261106142228.3.829742b956496940@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Got One Thing Right: We’re Not Tired of Winning",
+   "date": "2026-11-06T06:22-08:00",
+   "url": null,
+   "bullets": [
+    "The 2024 midterms left the U.S. with 56 Democratic senators, ~260 Democratic House members, and Democratic governors in 13 of the 14 largest states, giving Democrats 60% of House seats and 70% of governorships.",
+    "Trump’s first post‑election act was an executive order designating the Oval Office a “national landmark,” a symbolic move that Kristol mocks as meaningless and uses to extend a celebratory weekend for Democrats.",
+    "Republicans’ heavy focus on trans‑panic ads in 2024 backfired; despite passing ballot measures restricting trans participation in sports, voters elected Democrats in key districts, showing that anti‑trans rhetoric was misread as a political advantage rather than a genuine policy shift."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261106133154.3.6fc4bc08fdc1e666@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "What many get wrong about Amish or Plain Anabaptist communities, measles, and health",
+   "date": "2026-11-06T05:31-08:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/what-many-get-wrong-about-amish-or",
+   "bullets": [
+    "Three unvaccinated measles deaths occurred this week in different states, the first such fatalities in over 30 years, highlighting reliance on herd immunity for infants too young to vaccinate.",
+    "Outbreaks are now emerging in Plain Anabaptist groups like the Amish and Mennonites, whose cultural practices and misconceptions about health complicate disease control, according to rural health researcher Tristan Sharratt.",
+    "Understanding these tight‑knit communities’ values and self‑protection strategies is essential for preventing a broader measles surge and improving overall health outreach."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261106121343.3.bed79571ba331109@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "The Inconvenient Truth About Jewish Opinion on Zohran, Abdul, AIPAC, and Netanyahu",
+   "date": "2026-11-06T04:13-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-inconvenient-truth-about-jewish",
+   "bullets": [
+    "The newsletter argues that media outlets are applying a double or triple standard by linking criticism of Israel to anti‑Jewish sentiment, especially when left‑leaning figures like AOC gain traction.",
+    "It highlights a recent interview where Sara Haines asked Muslim senator‑elect Abdul El‑Sayed to address extremist views within Islam, noting the lack of comparable questioning of Christian or Jewish politicians.",
+    "The issue is framed alongside criticism of Defense Secretary Pete Hegseth’s decisions and escalating concerns about Donald Trump’s approach to Iran."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261106113609.3.071b2b022d41bbb6@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "America’s Backlash Against Oligarchy",
+   "date": "2026-11-06T03:36-08:00",
+   "url": "https://paulkrugman.substack.com/p/americas-backlash-against-oligarchy",
+   "bullets": [
+    "The 2022 midterms saw a broad voter backlash against Trump‑aligned policies, with the billionaire oligarch class—top 0.0001% now holding over seven times their 1980 wealth—spending heavily on Republicans yet losing key races, including Elon Musk’s >$200 million Texas effort that failed to keep Ken Paxton or a GOP governor.",
+    "Krugman argues that big money is self‑defeating: Republican messaging on the economy, health care, and the Iran war alienated voters, while the visible influence of oligarchic donors amplified perceptions of corruption, making wealth‑driven support a liability rather than an asset.",
+    "He identifies four limiting factors on oligarchic power—self‑defeating spending, corruption feedback, billionaire delusion, and party bubble‑ness—suggesting that without reforms to curb extreme wealth concentration, future elections will remain vulnerable to these same backlashes."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261106113110.3.3d9c6f372cc9fb00@mg2.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Dems Put Up Saddam Numbers in Cheesecake Factory Districts",
+   "date": "2026-11-06T03:31-08:00",
+   "url": null,
+   "bullets": [
+    "Obama’s joke likening Trump’s White House décor to “Saddam Hussein opened a Cheesecake Factory” sparked Republican outrage, framed as elitist snobbery against a symbol of middle‑class prosperity.",
+    "Despite the controversy, Democrats won 108 of the 175 congressional districts that contain a Cheesecake Factory, and under the 2026 map those restaurants sit in 171 districts, still favoring Democrats."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261106113047.3.35dddda942298405@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Why Democrats Won So Big",
+   "date": "2026-11-06T03:30-08:00",
+   "url": "https://open.substack.com/pub/messagebox/p/why-democrats-won-so-big",
+   "bullets": [
+    "Democrats are on track for the largest House majority in decades and an unprecedented 56 Senate seats, far exceeding expectations for a ‘Blue Wave’.",
+    "Exit polls show 96% of voters said cost of living mattered, with 82% rating it very important, and they perceived Democrats as more focused on affordability than Republicans.",
+    "Pfeiffer warns that misreading this victory—like Republicans did after 1994 and 2010—could lead to strategic errors in candidate selection, electability narratives, and congressional priorities for the next two years."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261106033040.3.1ab8ed45149b71de@mg2.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Supreme Court Plans Just Hit a Massive Roadblock",
+   "date": "2026-11-05T19:30-08:00",
+   "url": null,
+   "bullets": [
+    "Longwell and Weissmann argue that the recent judicial defeats of Trump’s election interference limit his ability to shape the Supreme Court, forcing a shift to congressional accountability measures.",
+    "They outline how Congress can use its new investigative powers and potential legislation to impose stronger guardrails on executive misconduct.",
+    "The episode promotes a 20% discount on Bulwark+ subscriptions, urging listeners to support continued coverage of these accountability efforts."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261106012856.3.82e276be6e5ec639@mg-d0.substack.com",
    "newsletter": "Catherine Rampell - The Bulwark",
    "pub": "thebulwark",
@@ -102,10 +239,11 @@
    "date": "2026-11-05T15:01-08:00",
    "url": null,
    "bullets": [
-    "Kansas Senator-elect Hamilton was not recruited out of the Democratic Party pipeline. The Methodist pastor chose to challenge Roger Marshall because he didn't like what was happening in the country, including with ICE agents and cuts to hea…",
-    "Senator-elect Adam Hamilton and Rob Flaherty join Tim Miller. Hamilton's victory speech [ https://substack.com/redirect/34c0ad8a-0a27-4378-817f-d822aff9ce1e?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]"
+    "Methodist pastor Adam Hamilton, upset by ICE policies, healthcare cuts and perceived Christian hypocrisy in D.C., defeated incumbent Roger Marshall in Kansas and is now senator‑elect.",
+    "Tim Miller’s show features Hamilton and former Kamala campaign staffer Rob Flaherty discussing the rise of midterm stars, Democratic messaging challenges, big GOP wins in GA, NC and PA, and the new Congress’s AI policy worries.",
+    "The episode also includes a interview with North Carolina’s Anderson Clayton and links to campaign ads and a ‘Nobody Knows Anything’ podcast from Flaherty."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261105205618.3.95c3f12624f316b8@mg-d1.substack.com",
@@ -5893,144 +6031,10 @@
     "A comparison between Bessent and founding Treasury Secretary Alexander Hamilton is explored, questioning whether the analogy benefits Bessent’s reputation."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261006192631.3.cedf654802793778@mg-d0.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Massive Cash Infusion Coming to Dems, Courtesy of Gun-Control Group",
-   "date": "2026-10-06T12:26-07:00",
-   "url": null,
-   "bullets": [
-    "Giffords PAC is pouring $10 million into House battlegrounds, spending $1 million on a TV ad for Democrat Christina Hines in Michigan’s 10th district and $800,000 on a spot attacking Rep. Anna Paulina Luna’s gun‑lobby ties in Florida’s 13th district, targeting races Democrats have largely ignored.",
-    "Republican Rep. Glenn Grothman (WI) warned that President Trump’s low 38% approval and “unpresidential” behavior are driving Republican voters away, admitting his own re‑election could be harmed by anti‑Trump sentiment."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261006170608.3.2c9dca8874cc5af6@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Propagandist in the Press Pool",
-   "date": "2026-10-06T10:06-07:00",
-   "url": null,
-   "bullets": [
-    "In September, Trump’s administration granted press‑pool status to Beni Rae Harmony, a 24‑year‑old Real America’s Voice reporter, who then flew on the presidential plane after CNN was denied a seat.",
-    "Harmony left her press‑pool role to become Trump’s assistant press secretary, a move unprecedented for a reporter who had just covered the White House for the broader media.",
-    "The author questions whether Harmony will receive back pay and condemns the shift from journalism to political communications as a disturbing breach of journalistic integrity."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261006150211.3.6088e34f965f8edc@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "What Is the Hannibal Directive and How Many Israelis Did It Kill on October 7?",
-   "date": "2026-10-06T08:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/what-is-the-hannibal-directive-and",
-   "bullets": [
-    "The Hannibal Directive is an Israeli military policy that authorizes soldiers to fire on their own troops or civilians to prevent enemy capture, allegedly used on Oct. 7, killing dozens of Israelis.",
-    "Israeli media reports claim the directive caused multiple Israeli deaths during the Oct. 7 attacks, but Western outlets have largely ignored the story, raising questions about a potential information cover‑up."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261006143336.3.5cad4d7025ac3296@mg2.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "A Group of Iowa Trump Voters Reveals Why MAGA Is Flailing",
-   "date": "2026-10-06T07:33-07:00",
-   "url": null,
-   "bullets": [
-    "Iowa, a bellwether state, saw Trump win by less than eight points and recent NYT polls since September are split 5‑4‑1 between GOP, Dem, and tie, indicating a potentially tight blue wave.",
-    "Democratic Senate candidate Josh Turek is described as likable and running a competent campaign, making him a strong test of how Democrats can succeed in traditionally right‑leaning states like Iowa."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261006143122.3.15264a57826245e9@mg-d1.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "Sununu is leading in the polls",
-   "date": "2026-10-06T07:31-07:00",
-   "url": "https://chrispappasnh.substack.com/p/i-want-to-make-sure-you-see-this-f88",
-   "bullets": [
-    "John Sununu leads the New Hampshire Senate race in a recent poll, backed by $50 million in outside spending and a personal endorsement from Donald Trump.",
-    "Chris Pappas urges immediate grassroots donations to counter the GOP’s financial advantage and regain the lead before the 28‑day election countdown."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261006132403.3.d2c59410dfb995c1@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Grandpa Trump Is Getting Desperate",
-   "date": "2026-10-06T06:24-07:00",
-   "url": null,
-   "bullets": [
-    "Ken Paxton’s leaked audio reveals he feels Trump‑backed super PAC money limits his campaign control, admitting the 2024 midterm convention hurt his Texas GOP Senate bid and he has little say over issues.",
-    "Bill Kristol argues Trump’s recent flurry of attacks—promising $5,000 to voters, slamming South Carolina Democrat Annie Andrews, and shifting $5 million to support Republican Darline Graham—shows Trump’s desperation amid a competitive South Carolina Senate race, with polls showing Graham only a point ahead and a major super PAC moving funds there."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261006111642.3.be91e547a911a69b@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "A Special Crooked Con Offer for Message Box Subscribers",
-   "date": "2026-10-06T04:16-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/a-special-crooked-con-offer-for-message",
-   "bullets": [
-    "Crooked Con returns Nov 7 in Washington, DC, with 2,500 attendees last year including Barack Obama, featuring panels for political professionals and democracy advocates.",
-    "Dan Pfeiffer will moderate a panel on lessons from 2026 and the path to 2028, and Message Box subscribers receive an exclusive discount code for tickets."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261006110410.3.cebf2e43b8f5c33d@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Forget Hasan Piker, Donald Trump Is America’s Worst Campaign Surrogate",
-   "date": "2026-10-06T04:04-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/forget-hasan-piker-donald-trump-is",
-   "bullets": [
-    "Donald Trump is portrayed as the most damaging campaign surrogate, actively campaigning with vulnerable GOP candidates and risking Republican control of the House and Senate in the 2026 elections.",
-    "Senate candidate Troy Jackson leads incumbent Susan Collins by four points in a new Marist poll, while leftist streamer Hasan Piker and Bernie Sanders are deemed far less toxic than Trump.",
-    "Democratic Senate hopeful Abdul El‑Sayed publicly begged Trump to visit Michigan and campaign for Republican Mike Rogers, highlighting Trump’s willingness to support opposing candidates."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261006105218.3.35ce5d800b5af0e2@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "AI Versus Everything Else",
-   "date": "2026-10-06T03:52-07:00",
-   "url": "https://paulkrugman.substack.com/p/ai-versus-everything-else",
-   "bullets": [
-    "Massive AI spending on data centers and GPUs is driving up long‑term interest rates, crowding out private investment in housing, offices, factories and other non‑AI sectors.",
-    "Unlike the 1990s tech boom, the current AI surge lacks foreign capital inflows, so the reallocation of funds is not financed elsewhere and is effectively subsidized by tax policy.",
-    "The resulting higher rates and resource constraints are already hurting commercial real‑estate and other industries, creating broader financial stress beyond speculative AI risks."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261006100318.3.63cfb836390f64f5@mg-d0.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Plague in Russia? Plus flu, common cold, a new opioid, and good news",
-   "date": "2026-10-06T03:03-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/plague-in-russia-plus-flu-common",
-   "bullets": [
-    "Flu cases are climbing nationwide, driven by H1N1pdm09 with a mutation that reduces vaccine effectiveness in teens and young adults, so getting the flu shot remains crucial.",
-    "Rhinovirus/enterovirus tests hit 32% positivity—the highest since 2019—indicating a sharp common‑cold surge, with no specific treatment beyond rest and hydration.",
-    "A new synthetic opioid called cychlorphine, up to ten times stronger than fentanyl, has been linked to overdoses in at least 24 states, including 50 deaths in one Tennessee county, and standard fentanyl test strips don’t detect it."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 110,
+  "shown": 108,
   "total": 439
  }
 }
