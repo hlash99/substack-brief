@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:57-08:00",
+ "updated": "2026-11-07T10:54-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -65,6 +65,111 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261107170230.3.fbdcd7651ce1f85b@mg-d1.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "Dems Have Their Finger on the Impeachment Trigger",
+   "date": "2026-11-07T09:02-08:00",
+   "url": null,
+   "bullets": [
+    "Rep. Robert Garcia, incoming House Oversight chair, is pushing Democrats to use the new majority to investigate Trump-era ICE and DHS abuses, citing voter anger and Latino backlash as key motivators.",
+    "Democratic leaders like Rep. Delia Ramirez and Sen. Ruben Gallego plan to build legal cases against ICE/DHS officials—especially Noem, Lewandowski, and former ICE director Todd Lyons—by documenting contract kickbacks, budget reallocation, and deadly inaction.",
+    "The agenda prioritizes accountability over retaliation, aiming to hold Trump administration officials criminally and politically responsible for deportation chaos, racial profiling, and the deaths of migrants such as Alex Pretti and Renée Good."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261107142342.3.78ca917a4a60f85e@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Nate Silver: Trump’s Collapse May Be Irreversible",
+   "date": "2026-11-07T06:23-08:00",
+   "url": null,
+   "bullets": [
+    "Tuesday night’s election results delivered the largest margin defeat for Donald Trump and MAGA to date, prompting questions about how much of the electorate remains contestable.",
+    "Nate Silver argues the scale of the loss signals a potentially irreversible collapse for Trump, with repercussions that could shape political dynamics well beyond the 2026 cycle."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261107140534.3.75ec8d25077ba6a6@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "‘MAGA Self-Immolated’: How EVERYTHING Fell Apart for Trump and Republicans This Year",
+   "date": "2026-11-07T06:05-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/maga-self-immolated-how-everything",
+   "bullets": [
+    "Midterm elections produced a sweeping Democratic “blue tsunami,” with GOP losses in Senate, House, governors and traditionally red states like Texas and Kansas, far exceeding Trump‑aligned forecasts.",
+    "Trump’s attempts to influence the 2026 election and suppress Black voting were rebuffed by robust voting‑rights protections and a record‑high “Blacklash,” while massive spending by Elon Musk failed to rescue the party.",
+    "Prominent Republicans such as Ted Cruz and Ron DeSantis publicly distanced themselves from Trump as the GOP’s base fractured over unpopular policies, including the Iran war, economic woes, and anti‑immigrant rhetoric, leading to sharp declines among working‑class and Hispanic voters."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261107140325.3.2c7e01618eceb8a1@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“What can I do but oblige the wishes of the dying?”",
+   "date": "2026-11-07T06:03-08:00",
+   "url": "https://post.substack.com/p/what-can-i-do-but-oblige-the-wishes",
+   "bullets": [
+    "Phillip Picardi mourns his cat Juniper, who after 12 years and a terminal cancer diagnosis, is dying and he reflects on grief and the wish to obey the dying’s desires\",\"Comedian Stef Dag documents a month‑long, doom‑scroll‑free experiment, noting how constant phone reliance feels like a ‘God complex’ and how she struggles when disconnected\",\"Mentalist Matt Cooper demonstrates elaborate mind‑reading tricks in NYC, revealing his methods and staging a ruse that leaves participants convinced he can plant thoughts"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261107134837.3.8006e8c90414a8f9@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Can Democrats Finally Kill the Electoral College?",
+   "date": "2026-11-07T05:48-08:00",
+   "url": "https://open.substack.com/pub/messagebox/p/can-democrats-finally-kill-the-electoral",
+   "bullets": [
+    "Pfeiffer argues that Democrats’ 2024 landslide could make any Republican in a district Trump won by less than 9 points unelectable, signaling a dramatic shift.",
+    "He explains the National Popular Vote Interstate Compact, which would allocate all state electoral votes to the national popular‑vote winner once states controlling 270 electoral votes join, offering a constitutional‑bypass route to end the Electoral College."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261107120330.3.992a3868d587afb9@mg2.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Dems Aren’t Backing Off Their Own Redistricting Push",
+   "date": "2026-11-07T04:03-08:00",
+   "url": null,
+   "bullets": [
+    "Democrats, fresh from sweeping midterm wins that gave them the House, Senate, governorships and most state legislatures, are already planning to resume mid‑decade redistricting efforts they paused last year.",
+    "Party officials told The Bulwark the redistricting drive is both an offensive tactic to capture additional House seats and a defensive hedge against GOP redistricting moves in Republican‑run states.",
+    "The top target states for the renewed Democratic redistricting push were not listed in the excerpt, but officials emphasized it as a “top agenda item” for the party."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261107113058.3.57574ac9d2f790b9@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Talking to Martin Wolf About the Midterms",
+   "date": "2026-11-07T03:30-08:00",
+   "url": "https://paulkrugman.substack.com/p/talking-to-martin-wolf-about-the",
+   "bullets": [
+    "Krugman’s video features a conversation with FT columnist Martin Wolf analyzing the 2024 midterm elections and their implications for the Democratic agenda."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261107100227.3.d074031766555833@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Attrition Pocket",
+   "date": "2026-11-07T02:02-08:00",
+   "url": "https://open.substack.com/pub/doomberg/p/attrition-pocket",
+   "bullets": [
+    "“The two most powerful warriors are patience and time.” – Leo Tolstoy In 1983, the Soviet Union began constructing the 4,100-foot-long Southern Bridge [ https://substack.com/redirect/bd63b83a-7f77-4335-94dd-0c029dbbbbcd?j=eyJ1IjoiMnVxMXlxIn…",
+    "“Almost everything that comes in from Ukraine’s western partners, from shells and missiles to armoured vehicles and fuel, must eventually cross the river to reach the front in the east."
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20261107020100.3.ee1b0ca5aa92037c@mg-d0.substack.com",
    "newsletter": "This Week in Democracy",
@@ -5884,169 +5989,10 @@
     "They also examine bizarre inquiries about Kimberly Guilfoyle’s activities in Greece and allege Russian operatives left a gruesome calling card in politicians’ homes."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261007164021.3.d9e9f78f17e39256@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Susan Collins Is the Living Worst",
-   "date": "2026-10-07T09:40-07:00",
-   "url": null,
-   "bullets": [
-    "Collins faces a coin‑flip re‑election in Maine after voting to advance Trump’s “Big Beautiful Bill,” which she claims enabled a $50 billion rural health‑care fund but added $3 billion to the state’s costs and cut SNAP and heating benefits.",
-    "The author labels Collins the “living worst” Republican, accusing her of enabling Trump’s agenda while only offering symbolic protest votes that are pre‑arranged to be ineffective."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007155145.3.3ded21358ab2253c@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "October 7 Three Years On: For Israel, a Day of Questions Must Also Ask the Difficult Kind",
-   "date": "2026-10-07T08:51-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/october-7-three-years-on-israel-response-questions-gaza",
-   "bullets": [
-    "Three years after Hamas’s Oct. 7 attack, Israel is gearing up for its first post‑war election amid fresh claims that UAE and Egyptian officials warned it of the assault, raising doubts about the coalition’s narrative of surprise and its hard‑line rhetoric.",
-    "South African lawyers—including Blinne Ní Ghrálaigh and Adila Hassim—presented a genocide case against Israel at the International Court of Justice, alleging systematic crimes in Gaza and highlighting the conflict’s legal and moral dimensions.",
-    "The essay argues that public discourse still asks the wrong questions about the war, urging deeper scrutiny of Israel’s policies and the broader regional complicity in the ongoing humanitarian crisis."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007150000.3.263ac2d730007558@mg-d0.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Donald Trump Is Buying Votes at $500 a Pop",
-   "date": "2026-10-07T08:00-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s administration is sending $500 checks to about one million HealthCare.gov users and $90 checks to roughly 20 million Medicare Part B seniors and disabled people, claiming the payments are refunds for overcharges.",
-    "The $500 checks are marketed as a “refund” for alleged overcharges, yet the author argues that the drug‑company deals Trump cites did not produce significant savings, suggesting the money is essentially a vote‑buy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007140255.3.9245923a97ea5bd3@mg-d1.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "We’re less than one month out from Election Day.",
-   "date": "2026-10-07T07:02-07:00",
-   "url": "https://roycoopernc.substack.com/p/were-less-than-one-month-out-from",
-   "bullets": [
-    "National Republicans have poured tens of millions into the North Carolina Senate race, making it one of the most expensive contests of the cycle, while Democrats aim to flip the seat for the first time since 2008.",
-    "Roy Cooper urges supporters to donate $5 or more now to build grassroots momentum before early voting begins in eight days, stressing that the outcome will determine the Senate majority."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007133100.3.9cff3951b478355f@mg-d0.substack.com",
-   "newsletter": "Here Be Dragons from Barbara F. Walter",
-   "pub": "barbarafwalter",
-   "subject": "Billionaires Don’t Need to Capture the Whole Government",
-   "date": "2026-10-07T06:31-07:00",
-   "url": "https://barbarafwalter.substack.com/p/billionaires-dont-need-to-capture",
-   "bullets": [
-    "Billionaires act as “stationary bandits,” seeking only the parts of government that protect and enhance their wealth—such as lax antitrust enforcement, low capital‑gain taxes, lucrative contracts, and data privacy—while avoiding unrelated policy areas.",
-    "The U.S. political system amplifies this effect: studies of 1,800 policy fights show that wealthy interests almost always succeed, whereas ordinary citizens rarely influence law, thanks to powerful lobbying, campaign financing, and legal expertise.",
-    "When many such bandits pursue their own gains, a tragedy of the commons emerges: each fears losing out if they restrain themselves, leading to cumulative erosion of the government’s effectiveness and eventual public backlash."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007132335.3.b529efe28d8168e5@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Reasons for Hope. Reasons for Alarm.",
-   "date": "2026-10-07T06:23-07:00",
-   "url": null,
-   "bullets": [
-    "Trump aides James Blair and Chris LaCivita spent hundreds of thousands consulting for a pro‑Russian Bosnian government while also fundraising for Trump’s PAC, raising concerns about foreign influence and cronyism.",
-    "Democrats hold a 51.1% to 43.4% advantage in generic congressional polls per FiftyPlusOne, but fear donor caution could blunt a historic midterm surge that could flip the Senate to a 54‑seat majority and win key governorships."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007114631.3.4ec1c97306f90ee0@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "State of the Race With Less Than 30 Days to Go.",
-   "date": "2026-10-07T04:46-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/state-of-the-race-with-less-than",
-   "bullets": [
-    "Nate Silver’s updated model now gives Democrats a 93% chance of winning the House, projecting a 23‑seat gain over the current balance."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007111842.3.0657a1c88f48f2c0@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "😳 GOP Panics That Racism and Trump’s Election-Rigging Attempts Will Fuel Democratic Victories",
-   "date": "2026-10-07T04:18-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/gop-panics-that-racism-and-trumps",
-   "bullets": [
-    "Republican insiders report panic as internal polls show the GOP could lose the House and possibly the Senate in November, driven by Trump’s unpopularity and a faltering economy.",
-    "GOP operatives warn that the Texas mid-decade gerrymander aimed at locking in Latino support backfired, with “dummymandered” districts likely delivering Democratic congressional wins due to voter backlash over economic hardship and anti‑Hispanic tactics."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007104227.3.d6edd457a68ac240@mg2.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Top 8 questions about the “plague” situation",
-   "date": "2026-10-07T03:42-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/top-8-questions-about-the-plague",
-   "bullets": [
-    "The YLE team rates the risk of a plague pandemic from the Russian lab worker’s death as a 1‑out of‑10 chance, citing virtually no chance of U.S. spread and no actionable steps for the public.",
-    "Pneumonic plague, if present, is contagious only with close contact and typically infects 1‑3 people per case; it is treatable with multiple antibiotics, though no U.S. vaccine exists since 1999.",
-    "CDC considers Yersinia pestis a potential bioweapon and maintains an under‑funded antibiotic stockpile, but there is currently no evidence the Russian case involved a engineered or weaponized strain."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007103120.3.6112cba9e6ac2a55@mg-d1.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "MAGA’s Racism is Blowing Up Its Own Coalition",
-   "date": "2026-10-07T03:31-07:00",
-   "url": null,
-   "bullets": [
-    "The newsletter argues that MAGA’s overt racism is fracturing its own coalition, driving away moderate supporters and harming electoral prospects.",
-    "It highlights two bizarre campaign ads—one with sexual innuendo and another with Texas Attorney General Angela Paxton endorsing her cheating ex‑husband—illustrating the movement’s chaotic messaging.",
-    "A New Yorker piece is cited showing the Heritage Foundation shifting toward groypers, signaling a right‑ward radicalization within traditionally mainstream conservative institutions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007103042.3.8441e2e3203f0e33@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Day of Reflection",
-   "date": "2026-10-07T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/day-of-reflection",
-   "bullets": [
-    "Krugman notes the chaotic situation in France but says he’s taking a pause to reflect before publishing further commentary."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007090129.3.b54d3522ba45eb69@mg2.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Ties That Bind",
-   "date": "2026-10-07T02:01-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/ties-that-bind",
-   "bullets": [
-    "Labrador, a sparsely populated but mineral‑rich region of 27,000 people, supplies most of its 5.4 GW Churchill Falls hydro output to Hydro‑Québec at just 0.2 ¢ CAD per kWh under a 1969 contract expiring 2041.",
-    "Prime Minister Mark Carney is committing C$10 billion federal backing to a C$70 billion upgrade of Churchill Falls and the new Gull Island project, promising the largest clean‑energy complex in North America and enough power for Canada’s three biggest cities.",
-    "Despite political opposition and past failed renegotiations, the federal push aims to expand the hydro pie, rebalance the historic deal, and unlock Labrador’s broader mineral and energy wealth."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 108,
-  "total": 440
+  "shown": 105,
+  "total": 436
  }
 }
