@@ -1,34 +1,18 @@
 {
- "updated": "2026-11-06T12:29-08:00",
+ "updated": "2026-11-06T18:57-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms produced a historic blue wave, flipping the House, most Senate seats, and key governorships, and giving Democrats a platform to investigate Trump‑aligned officials and push progressive legislation (Bulwark, Zeteo, The Message Box).",
-   "Democratic leaders are now eyeing congressional budget authority, targeting OMB Director Russell Vought as a key obstacle to restoring fiscal checks and balances, while framing him as a threat to constitutional governance (Bulwark).",
-   "The U.S. government’s renewed deportation effort against pro‑Palestine speaker Badar Khan Suri signals a broader use of immigration enforcement to silence dissent, raising free‑speech concerns (Zeteo).",
-   "Trump’s influence remains a polarizing force, with GOP insiders blaming him for the 2026 losses and his Iran war stance, while former allies like JD Vance publicly distance themselves to avoid further damage (Bulwark, Zeteo).",
-   "Natural gas output is projected to surpass the EU’s total in 2026, driving prices down and prompting a $13 billion merger that could reshape the energy landscape and LNG export strategy (Doomberg).",
-   "The election night narrative is dominated by live streams and real‑time analysis from Zeteo, The Bulwark, and The Message Box, reflecting a shift toward immersive, subscriber‑centric coverage of political upheaval (Zeteo, Bulwark)."
+   "The 2026 midterms delivered a historic blue wave, flipping both chambers of Congress and adding the first Muslim and openly gay senators, a shift that has already prompted Democratic leaders to plan aggressive investigations and new legislation (The Bulwark, Zeteo, The Message Box).",
+   "Stephen Miller’s promotion to White House chief of staff signals that Trump’s hard‑line agenda is still alive, even as the GOP faces a crushing electoral defeat and a loss of credibility among key voter blocs (Zeteo, The Bulwark).",
+   "Abdul El‑Sayed’s Michigan win and his pledge to push Medicare‑for‑All and hold the administration accountable illustrate how Democrats are leveraging new Senate seats to reshape policy priorities (Zeteo, Mehdi Unfiltered).",
+   "The surge in Latino turnout, driven by anti‑ICE sentiment and economic concerns, has become a decisive factor in Democratic victories across the South and Midwest, reshaping the party’s coalition strategy (The Bulwark, Dan Pfeiffer).",
+   "The collapse of the GOP has exposed internal fractures, with figures like JD Vance publicly distancing themselves from Trump’s Iran war and cost‑of‑living rhetoric, signaling a potential realignment within the party (The Bulwark, Zeteo).",
+   "Meanwhile, the national debate over immigration enforcement and free speech has intensified, highlighted by ICE’s targeting of pro‑Palestine activists and the broader fear that the executive branch may use immigration policy to silence dissent (Mehdi Unfiltered, Your Local Epidemiologist)."
   ],
   "by": "groq",
   "ids": [
-   "20261103110330.3.5d042ec31cfd9fba@mg2.substack.com",
-   "20261103112431.3.f016307bcda79d3a@mg-d1.substack.com",
-   "20261103112913.3.83119ebca4f560c7@mg-d1.substack.com",
-   "20261103120343.3.b0e60b02c99c2cdb@mg-d0.substack.com",
-   "20261103122453.3.482175c74722d296@mg-d0.substack.com",
-   "20261103123541.3.50bade1b160d747c@mg-d0.substack.com",
-   "20261103131701.3.930de4adfdfa7b9e@mg2.substack.com",
-   "20261103142838.3.1376311844ba728e@mg2.substack.com",
-   "20261103160121.3.269adcc3fce46cc2@mg-d1.substack.com",
-   "20261103161812.3.924bca3a3de9849d.pkxngltc@mg1.substack.com",
-   "20261103173656.3.12f472118ada81ca@mg2.substack.com",
-   "20261103175803.3.5adb52e4df1e41f1@mg-d0.substack.com",
-   "20261103203721.3.d3be4037f98b4c15@mg2.substack.com",
-   "20261103210053.3.a4cb641c8570dc9c@mg-d0.substack.com",
-   "20261103214101.3.61367cff9aa5dd60@mg-d0.substack.com",
-   "20261103231231.3.ff33ea578cdb9889@mg-d0.substack.com",
    "20261104030644.3.df8dcd25237187a0@mg2.substack.com",
    "20261104052929.3.a2240edc233958c6@mg2.substack.com",
    "20261104053520.3.671c7cda3738cc6e@mg-d0.substack.com",
@@ -59,13 +43,82 @@
    "20261105160242.3.099cb8022d45bea9@mg2.substack.com",
    "20261105173007.3.e618c091bf95046a@mg2.substack.com",
    "20261105205618.3.95c3f12624f316b8@mg-d1.substack.com",
+   "20261105230115.3.c9c1cc1948a833ed@mg-d1.substack.com",
    "20261105230930.3.63e44a7a431a83a6@mg2.substack.com",
-   "20261106012856.3.82e276be6e5ec639@mg-d0.substack.com"
+   "20261106012856.3.82e276be6e5ec639@mg-d0.substack.com",
+   "20261106033040.3.1ab8ed45149b71de@mg2.substack.com",
+   "20261106113047.3.35dddda942298405@mg2.substack.com",
+   "20261106113110.3.3d9c6f372cc9fb00@mg2.substack.com",
+   "20261106113609.3.071b2b022d41bbb6@mg2.substack.com",
+   "20261106121343.3.bed79571ba331109@mg-d0.substack.com",
+   "20261106133154.3.6fc4bc08fdc1e666@mg-d0.substack.com",
+   "20261106142228.3.829742b956496940@mg2.substack.com",
+   "20261106153415.3.2d2e3bb221cad342@mg-d1.substack.com",
+   "20261106171324.3.908d92c45e1bf9c0@mg-d0.substack.com",
+   "20261106200150.3.7d7e10386bbb931d@mg2.substack.com",
+   "20261106204649.3.e42cbe786a6d3299@mg-d1.substack.com",
+   "20261106220144.3.247c24a7f3f6d84f@mg-d0.substack.com",
+   "20261106221426.3.5a11b1679e8bfb2a@mg-d1.substack.com",
+   "20261107020100.3.ee1b0ca5aa92037c@mg-d0.substack.com"
   ],
-  "updated": "2026-11-05T19:30-08:00",
+  "updated": "2026-11-06T18:57-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261107020100.3.ee1b0ca5aa92037c@mg-d0.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 94: Stephen Miller’s Promotion Shows Exactly What’s Ahead From Lame Duck Trump",
+   "date": "2026-11-06T18:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-94-stephen",
+   "bullets": [
+    "Trump appointed Stephen Miller, the chief architect of his hard‑line immigration policies, as White House chief of staff on Nov. 6, signaling a continued authoritarian push despite his lame‑duck status.",
+    "Midterm results produced a historic Democratic wave: control of both chambers, the first Muslim senator (Abdul El‑Sayed), record women governors, and the first openly gay U.S. senator (Chris Pappas).",
+    "The DOJ moved again to vacate Steve Bannon’s 2022 contempt of Congress conviction, claiming doubts about trial fairness, while DHS claimed 300,000 non‑citizens on voter rolls despite evidence that non‑citizen voting is exceedingly rare."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261106221426.3.5a11b1679e8bfb2a@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Abdul El-Sayed Talks to Zeteo About His Historic Victory",
+   "date": "2026-11-06T14:14-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/abdul-el-sayed-talks-to-zeteo-about",
+   "bullets": [
+    "Abdul El‑Sayed won Michigan’s Senate race by seven points, becoming the first Muslim U.S. senator despite record outside spending, Islamophobia and a split with Haley Stevens.",
+    "In a special interview, El‑Sayed says he’ll push Trump to sign a Medicare‑for‑All bill, hold the administration accountable for corruption, and hints at possible leadership changes in the Senate.",
+    "He also discusses J.D. Vance’s role in swearing him in, critiques the GOP’s midterm losses, and addresses racist backlash to his victory‑speech phrases “Inshallah” and “Alhamdulillah.”"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261106220144.3.247c24a7f3f6d84f@mg-d0.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The All-Encompassing Terror of ‘Godzilla Minus Zero’",
+   "date": "2026-11-06T14:01-08:00",
+   "url": null,
+   "bullets": [
+    "Godzilla Minus Zero hits IMAX this weekend with an overwhelming soundscape and graphic civilian casualties, earning an R‑rating for its vivid nuclear‑war imagery and anti‑heroic themes rooted in Japan’s wartime trauma.",
+    "The film continues the post‑Godzilla narrative two years later, focusing on emergency leader Mr. Noda, ex‑kamikaze pilot Kōichi Shikishima, and their families as they confront the even louder, four‑headed Ghidorah.",
+    "The newsletter also notes the underwhelming effect of the vice president’s Texas swing on turnout and promotes a Bulwark+ flash sale plus a new interview with filmmaker Daniel Roher about his documentary ‘Navalny’ and the thriller ‘Tuner’."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261106204649.3.e42cbe786a6d3299@mg-d1.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Day After Deliverance",
+   "date": "2026-11-06T12:46-08:00",
+   "url": null,
+   "bullets": [
+    "The Secret Podcast episode features Sarah and JVL reacting to recent political events, debating Democratic Congress actions, Trump‑related questions, and a satirical segment on Susan Collins, promoted with a 20% flash sale for Bulwark+ members."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261106200150.3.7d7e10386bbb931d@mg2.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -88,10 +141,10 @@
    "date": "2026-11-06T09:13-08:00",
    "url": null,
    "bullets": [
-    "I was wondering which would break first, Trump’s spirit or his body. The president is an old man. He tries to cover up that fact with hair dye, elaborate combovers, layers of makeup, and other visual f/x. But he’s obviously unwell. Morbidly…",
-    "And yet until this week Trump’s spirit had still been strong. His will-to-power intact. His urge to dominate and ability to take the initiative had dulled, but were extant. Since Monday it’s different. We may have broken his back, once and …"
+    "The author claims Trump’s physical decline—obesity, fatigue, and health issues—has finally broken his once‑strong will to dominate after the election.",
+    "He argues that the post‑election accountability fight is now urgent, urging readers to join Bulwark+ with a 20% discount to support the effort."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261106153415.3.2d2e3bb221cad342@mg-d1.substack.com",
@@ -5990,51 +6043,10 @@
     "Despite political opposition and past failed renegotiations, the federal push aims to expand the hydro pie, rebalance the historic deal, and unlock Labrador’s broader mineral and energy wealth."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261007010131.3.c2e9df03597d9647@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Israel Is More Isolated Than Ever. Is It Enough to End the Gaza Genocide?",
-   "date": "2026-10-06T18:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/israel-is-more-isolated-than-ever",
-   "bullets": [
-    "Over 200,000 Palestinians have been killed, injured or disappeared in three years of the Gaza conflict, with ongoing bombings, starvation and AI‑driven mass‑killing experiments despite an ICC arrest warrant for Netanyahu.",
-    "Global public opinion has turned sharply against Israel—polls show widespread dislike, artists like Ed Sheeran face backlash, and megastars such as Megyn Kelly have shifted their stance—yet Western governments continue arms sales, trade and diplomatic support for Israel."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007010127.3.f98406bdf3a67b33@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Tim Miller Has a Blunt Message for People Who’ve Given Up",
-   "date": "2026-10-06T18:01-07:00",
-   "url": null,
-   "bullets": [
-    "Tim Miller criticizes Vivek Ramaswamy’s posturing at a campaign event, arguing it masks a lack of substantive policy.",
-    "He cites Senator Jon Ossoff’s appeal to young voters, urging them to channel despair into political action rather than surrender.",
-    "Miller invokes James Baldwin to illustrate a historic pattern of marginalized groups overcoming seemingly impossible odds through collective resolve."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261006223214.3.088de020a7a19556@mg-d1.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Scott Bessent’s Interview Gets Weirder and Weirder",
-   "date": "2026-10-06T15:32-07:00",
-   "url": null,
-   "bullets": [
-    "The Receipts podcast episode critiques Treasury Secretary Scott Bessent’s bizarre Axios interview, where he boasted “I am the house now” about failed bond‑market interventions before admitting the house can lose, drawing a parallel to Donald Trump’s missteps.",
-    "The show also examines how Trump’s trade war with Canada, despite promises to aid U.S. dairy, has actually damaged export‑oriented producers like Vermont cheesemaker Mateo Kehler, with tariffs cited at 250‑400 percent hurting both sides of the border.",
-    "A comparison between Bessent and founding Treasury Secretary Alexander Hamilton is explored, questioning whether the analogy benefits Bessent’s reputation."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 108,
-  "total": 439
+  "total": 440
  }
 }
