@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:54-08:00",
+ "updated": "2026-11-07T18:34-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -65,6 +65,61 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261108013029.3.031eb68e54f14e93@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Stephen Miller May Now Be the De Facto President",
+   "date": "2026-11-07T17:30-08:00",
+   "url": null,
+   "bullets": [
+    "Bill Kristol and former Trump aide Sarah Matthews argue that after the GOP’s midterm loss, Trump may elevate Stephen Miller to run the White House, effectively making him the de facto president.",
+    "They warn Miller’s appointment would shift internal power dynamics, concentrating policy control in his hands and marginalizing traditional officials like Pete Hegseth, whose loyalty may not protect his job as the Iran conflict continues."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261107223358.3.2f72564f322c0a38@mg-d1.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Michael Steele: A Total and Complete Schlonging",
+   "date": "2026-11-07T14:33-08:00",
+   "url": null,
+   "bullets": [
+    "The MAGA coalition is fracturing as Fox News reels and Trump faces rejection from large swaths of the electorate, prompting Republicans who supported the ten‑year party hijack to seek redemption.",
+    "Steele praises recent DEI gains, noting a diverse slate of statewide winners and Texas’s dominance for GOP, while suggesting a national popular‑vote election is becoming more feasible.",
+    "The episode also speculates Marco Rubio’s likely departure from the administration and revisits Tim Miller’s 2012 ‘autopsy’ of the party’s direction."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261107200058.3.fe93b9ec4e3e4183@mg-d1.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s ICE Backlash and Ohio’s Victory Dance",
+   "date": "2026-11-07T12:00-08:00",
+   "url": null,
+   "bullets": [
+    "Adrian Carrasquillo argues that anger over Trump’s ICE policies shifted Latino voters toward Democrats, helping secure Ohio’s Democratic victory party.",
+    "Brendan Hartnett uses a ‘Cheesecake Factory’ metric to identify which House districts flipped Democratic, highlighting the narrow margins that decided the race.",
+    "Will Saletan and Joshua Tait examine how much Trump cost the GOP in the midterms and debate the party’s strategic path forward, with Bill Kristol and Mike Murphy discussing these issues on Sunday’s live show."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261107190534.3.6572591bef526e93@mg-d1.substack.com",
+   "newsletter": "This Week in Palestine | Zeteo",
+   "pub": "zeteo",
+   "subject": "This Week in Palestine: Two Babies Die in Gaza Tent Fire as UN Issues Dire Warning Ahead of Winter",
+   "date": "2026-11-07T11:05-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-two-babies",
+   "bullets": [
+    "Two infants died in a Gaza tent fire amid ongoing Israeli strikes that have killed nearly two dozen Palestinians, including children, this week.",
+    "The UN warned that the approaching winter will exacerbate humanitarian suffering in Gaza as the conflict continues.",
+    "In the West Bank, Israeli settlers seized Palestinian homes and the Israeli military compelled Palestinians to demolish their own houses."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261107170230.3.fbdcd7651ce1f85b@mg-d1.substack.com",
    "newsletter": "Adrian Carrasquillo",
@@ -165,10 +220,11 @@
    "date": "2026-11-07T02:02-08:00",
    "url": "https://open.substack.com/pub/doomberg/p/attrition-pocket",
    "bullets": [
-    "“The two most powerful warriors are patience and time.” – Leo Tolstoy In 1983, the Soviet Union began constructing the 4,100-foot-long Southern Bridge [ https://substack.com/redirect/bd63b83a-7f77-4335-94dd-0c029dbbbbcd?j=eyJ1IjoiMnVxMXlxIn…",
-    "“Almost everything that comes in from Ukraine’s western partners, from shells and missiles to armoured vehicles and fuel, must eventually cross the river to reach the front in the east."
+    "The Soviet‑built Southern (Pivdennyi) Bridge in Kyiv, a vital Dnipro crossing for Western aid to Ukraine’s east front, was first hit by Russian drones and missiles in mid‑May, marking a shift to targeting key logistics after months of restraint.",
+    "Repeated strikes have forced partial or full closure of Kyiv’s major river bridges, threatening to sever supply lines that funnel shells, vehicles and fuel from the west to front‑line armies in the east.",
+    "Doomberg argues the delayed attacks signal a broader Russian strategy to split Ukraine and may presage a larger escalation they label a looming World War III scenario involving Iran."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261107020100.3.ee1b0ca5aa92037c@mg-d0.substack.com",
@@ -5936,63 +5992,10 @@
     "A French crisis could trigger a euro‑zone contagion; unlike the 2010s, a bailout faces German opposition and may be politically untenable despite the ECB’s “whatever it takes” pledge"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261008015932.3.4bce51fcf6cec4bd@mg-d0.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "BOMBSHELL: Leaked Kimberly Guilfoyle Texts Reveal Brazen Corruption",
-   "date": "2026-10-07T18:59-07:00",
-   "url": null,
-   "bullets": [
-    "The Wall Street Journal reported leaked private texts showing Kimberly Guilfoyle asked a Trump donor for $100,000 to cover her American Express bill, indicating personal financial ties to donors.",
-    "Guilfoyle’s messages repeatedly warned the donor to avoid creating a paper trail, suggesting awareness of illicit intent behind the cash request."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007232159.3.85fd27c1e1835f8a@mg-d0.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Dems’ One Big Midterm Weakness Isn’t Looking So Bad Anymore",
-   "date": "2026-10-07T16:21-07:00",
-   "url": null,
-   "bullets": [
-    "House Majority PAC raised a record $230 million in Q3 2026, its biggest quarter ever, while Senate Majority PAC pulled in a historic $202 million, signaling a sharp Democratic cash surge.",
-    "Democratic operatives say the influx of funds reflects brighter midterm prospects, eroding the Republicans’ perceived cash advantage that had been a key anxiety point."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007210144.3.7c8b3fa96c9e6190@mg2.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "How Did October 7 Happen? Mehdi Asks a Former Israeli Intelligence Official",
-   "date": "2026-10-07T14:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/october-7-avi-melamed-israel-mehdi",
-   "bullets": [
-    "Former Israeli intelligence officer Avi Melamed says Prime Minister Netanyahu received multiple warnings—including a UAE president alert ten days before Oct. 7—and dismissed them, contributing to Israel’s unpreparedness for Hamas’s attack that killed over 1,000 and abducted 250+ people.",
-    "Melamed argues that Israeli military and intelligence downplayed a detailed Hamas battle plan obtained a year earlier, and Netanyahu has refused an internal investigation, framing the Gaza war as an operational failure.",
-    "The interview, available as a 52‑minute video for paid subscribers, also probes whether Israel’s actions in Gaza constitute genocide and critiques commentary from figures like Hillary Clinton and Charlie Kirk."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261007193055.3.23d16d59ee7d7c6f@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Ex-CIA Officer Reacts to Insane Spy Scandal Rocking the Intelligence World",
-   "date": "2026-10-07T12:30-07:00",
-   "url": null,
-   "bullets": [
-    "Michael Weiss and ex‑CIA officer Marc Polymeropoulos detail a spy scandal linking Germany’s former intelligence chief to an alleged Iranian plot to target U.S. bombers stationed in Britain.",
-    "They also examine bizarre inquiries about Kimberly Guilfoyle’s activities in Greece and allege Russian operatives left a gruesome calling card in politicians’ homes."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 105,
+  "shown": 104,
   "total": 436
  }
 }
