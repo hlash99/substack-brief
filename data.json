@@ -1,47 +1,18 @@
 {
- "updated": "2026-11-07T18:34-08:00",
+ "updated": "2026-11-08T10:54-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms delivered a historic blue wave, flipping both chambers of Congress and adding the first Muslim and openly gay senators, a shift that has already prompted Democratic leaders to plan aggressive investigations and new legislation (The Bulwark, Zeteo, The Message Box).",
-   "Stephen Miller’s promotion to White House chief of staff signals that Trump’s hard‑line agenda is still alive, even as the GOP faces a crushing electoral defeat and a loss of credibility among key voter blocs (Zeteo, The Bulwark).",
-   "Abdul El‑Sayed’s Michigan win and his pledge to push Medicare‑for‑All and hold the administration accountable illustrate how Democrats are leveraging new Senate seats to reshape policy priorities (Zeteo, Mehdi Unfiltered).",
-   "The surge in Latino turnout, driven by anti‑ICE sentiment and economic concerns, has become a decisive factor in Democratic victories across the South and Midwest, reshaping the party’s coalition strategy (The Bulwark, Dan Pfeiffer).",
-   "The collapse of the GOP has exposed internal fractures, with figures like JD Vance publicly distancing themselves from Trump’s Iran war and cost‑of‑living rhetoric, signaling a potential realignment within the party (The Bulwark, Zeteo).",
-   "Meanwhile, the national debate over immigration enforcement and free speech has intensified, highlighted by ICE’s targeting of pro‑Palestine activists and the broader fear that the executive branch may use immigration policy to silence dissent (Mehdi Unfiltered, Your Local Epidemiologist)."
+   "The 2026 midterms produced a historic Democratic wave that flipped the Senate, House and most governorships, cementing a new liberal agenda and prompting Democrats to push aggressive redistricting and electoral‑college reform (The Bulwark, Dan Pfeiffer/The Message Box, Paul Krugman).",
+   "Republican insiders warn that Stephen Miller’s elevation to chief of staff makes him the de‑facto power broker of a lame‑duck Trump administration, deepening authoritarian impulses within the GOP (Bulwark Takes, This Week in Democracy, Zeteo).",
+   "Analysts flag a looming AI‑investment bubble as hyperscaler stocks tumble and AI‑bond insurance costs soar, warning that a burst could trigger a deep recession (Paul Krugman).",
+   "A tragic Gaza tent fire that killed two infants underscores the worsening humanitarian crisis as UN warnings warn winter will amplify suffering, while Israeli settlement expansion continues (Zeteo).",
+   "Measles outbreaks in Amish and Plain Anabaptist communities have produced the first child deaths in over 30 years, highlighting the fragility of herd immunity in isolated populations (Your Local Epidemiologist).",
+   "Progressive voices are calling for the ouster of Senate leader Chuck Schumer and House leader Hakeem Jeffries, arguing the Democratic establishment is enabling fascist policies and should back bold candidates like Angie Nixon (Mehdi Unfiltered)."
   ],
   "by": "groq",
   "ids": [
-   "20261104030644.3.df8dcd25237187a0@mg2.substack.com",
-   "20261104052929.3.a2240edc233958c6@mg2.substack.com",
-   "20261104053520.3.671c7cda3738cc6e@mg-d0.substack.com",
-   "20261104080025.3.fc8ffb79b60e44c3@mg2.substack.com",
-   "20261104100228.3.b55ec1706ec2591b@mg2.substack.com",
-   "20261104113109.3.88e39447bd543d8f@mg-d0.substack.com",
-   "20261104120229.3.f3301da6f4f0b8f9@mg2.substack.com",
-   "20261104120334.3.5d4382792748c429@mg-d0.substack.com",
-   "20261104142224.3.a278959a278c5f51@mg2.substack.com",
-   "20261104144829.3.00774bf841d6d366@mg-d1.substack.com",
-   "20261104151130.3.203071bb395d9b89@mg-d1.substack.com",
-   "20261104173728.3.5e2328f85a4bfd49@mg-d1.substack.com",
-   "20261104191350.3.c8e6b5fd8ceb0573@mg-d0.substack.com",
-   "20261104200834.3.6cc5a3cca1e27ff2@mg-d1.substack.com",
-   "20261104202809.3.1bc78e520cf0d422@mg2.substack.com",
-   "20261104220539.3.9cb76740e4760d5e@mg2.substack.com",
-   "20261104231529.3.5d1ba423bbe0b0ce@mg-d1.substack.com",
-   "20261105010308.3.cacf085e179b5a44@mg2.substack.com",
-   "20261105020053.3.5ee9e79f961fe76b@mg-d0.substack.com",
-   "20261105023042.3.2d5caa72c1bb2da2@mg-d1.substack.com",
-   "20261105110301.3.ab353c145f040c8e@mg2.substack.com",
-   "20261105112437.3.c8ac396e009475e3@mg-d0.substack.com",
-   "20261105120345.3.4b6e6382597bef15@mg-d0.substack.com",
-   "20261105120659.3.ca61028f8633d397@mg-d1.substack.com",
-   "20261105143003.3.72f31e17ec876f7d@mg-d1.substack.com",
-   "20261105143123.3.9ffc268b9a9dbbb6@mg-d1.substack.com",
-   "20261105160124.3.2f89fc03162bddd9@mg-d0.substack.com",
-   "20261105160242.3.099cb8022d45bea9@mg2.substack.com",
-   "20261105173007.3.e618c091bf95046a@mg2.substack.com",
    "20261105205618.3.95c3f12624f316b8@mg-d1.substack.com",
    "20261105230115.3.c9c1cc1948a833ed@mg-d1.substack.com",
    "20261105230930.3.63e44a7a431a83a6@mg2.substack.com",
@@ -59,12 +30,98 @@
    "20261106204649.3.e42cbe786a6d3299@mg-d1.substack.com",
    "20261106220144.3.247c24a7f3f6d84f@mg-d0.substack.com",
    "20261106221426.3.5a11b1679e8bfb2a@mg-d1.substack.com",
-   "20261107020100.3.ee1b0ca5aa92037c@mg-d0.substack.com"
+   "20261107020100.3.ee1b0ca5aa92037c@mg-d0.substack.com",
+   "20261107100227.3.d074031766555833@mg-d1.substack.com",
+   "20261107113058.3.57574ac9d2f790b9@mg-d1.substack.com",
+   "20261107120330.3.992a3868d587afb9@mg2.substack.com",
+   "20261107134837.3.8006e8c90414a8f9@mg2.substack.com",
+   "20261107140325.3.2c7e01618eceb8a1@mg-d1.substack.com",
+   "20261107140534.3.75ec8d25077ba6a6@mg-d1.substack.com",
+   "20261107142342.3.78ca917a4a60f85e@mg-d1.substack.com",
+   "20261107170230.3.fbdcd7651ce1f85b@mg-d1.substack.com",
+   "20261107190534.3.6572591bef526e93@mg-d1.substack.com",
+   "20261107200058.3.fe93b9ec4e3e4183@mg-d1.substack.com",
+   "20261107223358.3.2f72564f322c0a38@mg-d1.substack.com",
+   "20261108013029.3.031eb68e54f14e93@mg-d1.substack.com",
+   "20261108114718.3.c95d3877f92bece9@mg-d1.substack.com",
+   "20261108120316.3.87632279d73a2336@mg-d1.substack.com",
+   "20261108122039.3.436627daf90a8704@mg-d0.substack.com",
+   "20261108140335.3.2986964183d1b937@mg-d1.substack.com",
+   "20261108174053.3.06e0cfd2e78a0e98@mg-d0.substack.com"
   ],
-  "updated": "2026-11-06T18:57-08:00",
+  "updated": "2026-11-08T10:54-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261108174053.3.06e0cfd2e78a0e98@mg-d0.substack.com",
+   "newsletter": "Sam Stein & Tim Miller @ The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Picking the Biggest 2026 GOP Loser Is Harder Than You Think",
+   "date": "2026-11-08T09:40-08:00",
+   "url": null,
+   "bullets": [
+    "Tim Miller and Sam Stein create a fantasy draft ranking the biggest Republican failures of 2026, highlighting defeats of figures like Vivek Ramaswamy and Ken Paxton.",
+    "The Bulwark promotes a 20% flash sale on its subscription service, emphasizing its commitment to liberal reporting and accountability while offering the draft as entertaining analysis."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261108140335.3.2986964183d1b937@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Can Chuck Schumer Be Stopped? Mehdi Talks to Commentator and Socialist Emma Vigeland",
+   "date": "2026-11-08T06:03-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/emma-vigeland-schumer-aoc",
+   "bullets": [
+    "Emma Vigeland says progressives should oust Senate leader Chuck Schumer and House leader Hakeem Jeffries, blaming Schomer for enabling fascism and failing to back progressive candidates like Angie Nixon’s Florida Senate run",
+    "The interview argues that Democratic establishment’s support acts as a ‘jet pack’ for candidates, and discusses whether AOC should run for president in 2028",
+    "The episode is freely available and invites listeners to become paid subscribers or donate to support the newsletter’s independent journalism"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261108122039.3.436627daf90a8704@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "We Convened a Group of Committed GOP Voters to See How They’re Coping",
+   "date": "2026-11-08T04:20-08:00",
+   "url": null,
+   "bullets": [
+    "A focus group of voters who supported Trump in 2020, 2024 and most 2024 midterms blamed the Republican establishment, not Trump, for the party’s defeat.",
+    "Participants said GOP leaders failed to communicate policy successes and alienated the base, citing a lack of clear messaging and internal infighting.",
+    "They expressed frustration that the party prioritized culture wars over economic issues, believing this cost them broader electoral appeal."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261108120316.3.87632279d73a2336@mg-d1.substack.com",
+   "newsletter": "James Horton, PhD. from Moonshots",
+   "pub": "jimhorton",
+   "subject": "On Capacity",
+   "date": "2026-11-08T04:03-08:00",
+   "url": "https://jimhorton.substack.com/p/on-capacity",
+   "bullets": [
+    "The article argues that modern cultural praxis for self‑improvement is broken, especially for disciplined, long‑term goals that require “doing the wise thing,” leading to chronic failure despite motivation.",
+    "Horton links this failure to mismatched beliefs and lack of reliable cultural tools, noting that even well‑studied problems like procrastination remain unsolved across domains such as health, finance, and infrastructure.",
+    "He suggests the core challenge is creating systems that help people reliably achieve major behavioral changes, rather than blaming individuals or relying on vague policy fixes."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261108114718.3.c95d3877f92bece9@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "After the Bubble Bursts",
+   "date": "2026-11-08T03:47-08:00",
+   "url": "https://paulkrugman.substack.com/p/after-the-bubble-bursts",
+   "bullets": [
+    "AI capital spending, especially on data centers, has surged but investors now face a “Wile E. Coyote” risk as hyperscaler stocks have fallen 27% and AI‑bond insurance costs have spiked, hinting a possible bubble burst.",
+    "Krugman argues that if the AI bubble bursts, it will likely trigger a recession deeper than the late‑1990s tech slump, with a slow recovery and elevated unemployment lasting years.",
+    "He will later outline historical recession patterns, why post‑bubble recoveries are sluggish, compare an AI bust to the dot‑com crash, and argue policy responses will be insufficient."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261108013029.3.031eb68e54f14e93@mg-d1.substack.com",
    "newsletter": "Bulwark Takes",
@@ -5895,107 +5952,10 @@
     "Democrats are now concerned that the Trump administration may undermine the safety of mailed ballots, citing new internal threats rather than foreign interference or fraud."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261008163041.3.1fe01b16e359f093@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "These Democrats Are Good, Actually",
-   "date": "2026-10-08T09:30-07:00",
-   "url": null,
-   "bullets": [
-    "Angie Nixon, though unlikely to win, is a strong Florida Senate candidate with charisma and smart campaigning, reflecting a broader trend of competent Democratic candidates across the cycle.",
-    "The author contrasts Democratic strength with Republican weakness, naming Susan Collins and Vivek Ramaswamy as the only notable GOP contenders while dismissing others as inept or uncommitted.",
-    "He warns Democrats to learn from this disparity, implying they must improve candidate quality and campaign strategy to stay competitive."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261008150244.3.eab6c8b739cc1497@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "EXCLUSIVE: Hear a New Poem From Acclaimed Palestinian Poet Mosab Abu Toha",
-   "date": "2026-10-08T08:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/exclusive-hear-a-new-poem-from-acclaimed",
-   "bullets": [
-    "Mosab Abu Toha, a Gaza-born poet, delivers a raw, personal poem that recounts the terror of Israeli airstrikes, the loss of family, and the ongoing suffering of Palestinians, citing specific incidents such as a 2008 F‑16 raid and the 2023‑24 civilian casualties in Jabalia and Khan Younis.",
-    "The piece frames the Palestinian experience as louder than any military noise, urging U.S. President Joe Biden to recognize the human tragedy, and highlights Abu Toha’s recent accolades: 2025 Pulitzer Prize for commentary, 2024 OPC Flora Lewis Award, and a 2023 National Book Critics Circle Award finalist nod."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261008144121.3.1f3f40cd181ed3d9@mg-d0.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Republicans Have an Andrew Tate Eel-Sex Problem",
-   "date": "2026-10-08T07:41-07:00",
-   "url": null,
-   "bullets": [
-    "Andrew and Tristan Tate face extradition to the UK on rape, assault, and trafficking charges, with new court filings revealing bestiality claims involving an eel and a horse, and allegations that Tate coerced a 17‑year‑old into producing porn for $1,000 a day.",
-    "High‑profile Republicans—including Tucker Carlson, Candace Owens, Benny Johnson, Alina Habba, Ric Grenell, Paul Ingrassia, and even Trump Jr.—have publicly defended or supported the Tates despite the escalating evidence of sexual crimes.",
-    "In Indiana, staffer Paul Tinkle was fired after making an “OK” hand sign, sparking a debate over alt‑right symbolism that drew support from Turning Point USA, Jack Posobiec, and the Blaze, while local GOP officials and the party leadership denied responsibility for his dismissal."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261008135215.3.52bf81e2c08d0bc9@mg-d1.substack.com",
-   "newsletter": "Citrini",
-   "pub": "citrini",
-   "subject": "Breaking The Wall",
-   "date": "2026-10-08T06:52-07:00",
-   "url": "https://open.substack.com/pub/citrini/p/breaking-the-wall",
-   "bullets": [
-    "AI agents that can autonomously manage personal finances could trigger continuous deposit shifts, threatening banks' cheap funding and potentially creating agentic bank runs.",
-    "Crypto’s blockchain infrastructure is finally finding purpose as tokenized real‑world assets—equities, treasuries, commodities—are moving on‑chain, with Solana processing more trades than the NYSE in September and regulators granting exemptions for tokenized stock trading.",
-    "Investors should now focus on who will capture the economics of these on‑chain financial products as they gain regulatory approval and mainstream adoption."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261008132314.3.b18ebfd8b08c9865@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Our Big Fat Greek Bribery Scandal",
-   "date": "2026-10-08T06:23-07:00",
-   "url": null,
-   "bullets": [
-    "Kimberly Guilfoyle, appointed U.S. ambassador to Greece, allegedly asked Trump donor Eric Deters to wire $100,000 to her Amex card, promising access to senior officials in exchange, per text messages reported by the Wall Street Journal.",
-    "Guilfoyle’s texts show she offered to deliver favors from the Secretary of Defense, Treasury, IRS, and others, while Deters complained he’d paid $300,000 over years without receiving any promised assistance.",
-    "The piece frames the episode as another example of Trump‑era corruption, noting Trump earned over $2 billion from similar grifts last year, and suggests the scandal is unlikely to be the last before the midterms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261008110504.3.6bc8978892f4b7d5@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "ICE Jailed a Rabbi For Protesting Israel. Now He Can’t Observe His Faith",
-   "date": "2026-10-08T04:05-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/ice-jailed-a-rabbi-for-protesting",
-   "bullets": [
-    "ICE detained 35‑year‑old anti‑Zionist Satmar rabbi Yehnotan Ovadia, who entered on a religious worker visa in 2022, throughout Rosh Hashanah, Yom Kippur and Sukkot, forcing him to pray beside a toilet and causing a 25‑pound weight loss.",
-    "The Trump‑Vance administration is using the same ‘flight‑risk’ argument that kept student protester Mahmoud Khalil and writer Rümeysa Öztürk in detention, framing Ovadia’s anti‑Israel protests as a security threat while launching a nationwide anti‑hate tour.",
-    "The piece links this case to broader concerns about Trump‑aligned advisers in a pro‑Russia Balkan enclave and ongoing illegal actions against Iran, highlighting a pattern of authoritarian enforcement."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261008104036.3.946779d4e97f1e9f@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "What’s the Matter With France?",
-   "date": "2026-10-08T03:40-07:00",
-   "url": "https://paulkrugman.substack.com/p/whats-the-matter-with-france",
-   "bullets": [
-    "French 5‑year CDS spreads have spiked, implying a 1.2% five‑year default probability, as markets fear France’s unsustainable debt, large deficits and an aging population driving pension costs",
-    "France’s statutory retirement age remains at 62‑9 months, far lower than peers, and political deadlock—Le Pen promising to roll it back—feeds fiscal strain and student protests",
-    "A French crisis could trigger a euro‑zone contagion; unlike the 2010s, a bailout faces German opposition and may be politically untenable despite the ECB’s “whatever it takes” pledge"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 104,
-  "total": 436
+  "total": 434
  }
 }
