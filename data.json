@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T10:54-08:00",
+ "updated": "2026-11-08T18:46-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -53,6 +53,62 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261109000148.3.e2b7b97d8eeaf366@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Dems Won Big. Naturally, They’re Fighting About It.",
+   "date": "2026-11-08T16:01-08:00",
+   "url": null,
+   "bullets": [
+    "Democrats won big in the midterms, with candidates like Roy Cooper (won by 20 points), Abdul El‑Sayed, Jamie Ager, Randy Villegas, James Talarico and Annie Andrews securing victories by blending economic populism and cultural moderation.",
+    "Despite the wins, party operatives quickly resumed factional fights over issues such as Israel, Medicare for All, and campaign strategy, a pattern the author says reflects entrenched, dopamine‑driven infighting.",
+    "Strategists note the success came from a historic populist vein—heavy on economic concerns, light on culture—mirroring Sanders‑era and Clinton‑era Democrats, and warn that renewed infighting risks disconnecting from voters."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261108230152.3.3dfdc8d4479ba4d1@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Author of IHRA Antisemitism Definition Tells Zeteo It’s ‘So Poisoned I Wouldn’t Use It’",
+   "date": "2026-11-08T15:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/author-of-ihra-antisemitism-definition",
+   "bullets": [
+    "Kenneth Stern, lead drafter of the IHRA antisemitism definition, told Zeteo UK the definition is “so poisoned I wouldn’t use it,” warning it could increase antisemitism and silence Palestine discussion in schools.",
+    "Stern argues the definition, never meant for education, encourages groupthink and makes teachers fearful of teaching about Israel‑Palestine, contrary to Sir David Bell’s recommendation that schools adopt it.",
+    "Despite the government’s immediate acceptance of Bell’s 27‑point report urging IHRA adoption, Stern says the policy will deter critical thinking and harm free debate on the issue."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261108223045.3.13ca850cca9f4d50@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Republicans Have a Choice to Make After Trump’s Crushing Defeat (w/ Mike Murphy) | Bulwark on Sunday",
+   "date": "2026-11-08T14:30-08:00",
+   "url": null,
+   "bullets": [
+    "Bill Kristol and Mike Murphy argue that Trump’s midterm loss could push Republicans toward a post‑Trump realignment, citing internal chaos like Stephen Miller’s growing influence and Pete Hegseth’s precarious position.",
+    "They warn of a potential Nixon‑style collapse of the party’s leadership, suggesting the GOP must confront its dependence on Trump to avoid further electoral damage.",
+    "Looking ahead to 2028, they contend JD Vance faces a far tougher path than expected, given the lingering fallout from Trump’s dominance and the party’s internal fractures."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261108210550.3.e5b1caa367ca7c08@mg-d1.substack.com",
+   "newsletter": "JVL, Tim, & Sarah—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Reminder: 20% OFF Bulwark+ Ends Tonight",
+   "date": "2026-11-08T13:05-08:00",
+   "url": null,
+   "bullets": [
+    "The Bulwark offers a 20% flash sale on Bulwark+ subscriptions, ending tonight at midnight.",
+    "The newsletter frames the midterm Democratic win as the start of a longer fight against MAGA and Trumpism, urging readers to join their mission.",
+    "Support from members, not billionaires, funds their investigative reporting and liberal advocacy over the next two years."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261108174053.3.06e0cfd2e78a0e98@mg-d0.substack.com",
    "newsletter": "Sam Stein & Tim Miller @ The Bulwark",
@@ -5885,77 +5941,10 @@
     "It links the pothole example to health, urging professionals to prioritize responsiveness, consistency, and admission of mistakes to restore eroding trust."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261009011239.3.3a5426d8b78bcc38@mg2.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Accounts Were a GOOD Idea. He Just Made It an Icky One.",
-   "date": "2026-10-08T18:12-07:00",
-   "url": null,
-   "bullets": [
-    "The Trump administration’s “Trump Accounts” auto‑enroll every child born 2025‑2028 in a tax‑deferred savings account seeded with $1,000, expanding enrollment from under 8 million to over 70 million children overnight.",
-    "Rich donors like Michael Dell, Ray Dalio and SpaceX COO Gwynne Shotwell can now contribute overvalued individual stocks to groups of at least 5,000 kids, and families cannot refuse these stock gifts, despite the original law limiting investments to low‑risk index funds.",
-    "Legal experts warn the stock‑gift provision may violate the program’s congressional mandate, raising concerns about forced ownership of potentially controversial companies and lack of a mechanism for families to decline or “disclaim” such donations."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261009000128.3.ab1a0548e1e5bed4@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "3 Years of Israel's Genocide in Gaza: By the Numbers",
-   "date": "2026-10-08T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/3-years-of-israels-genocide-in-gaza",
-   "bullets": [
-    "The newsletter presents a data-driven overview of three years of the Gaza conflict, detailing civilian casualty counts, displacement figures, and the scale of humanitarian aid delivered.",
-    "It highlights that over 30,000 Palestinians have been killed, more than 1.5 million displaced, and international aid has totaled roughly $10 billion since the conflict began."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261008210646.3.0e926d2b26da82a8@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Is This Failed Actor Nepo Baby Now the Biggest Media Mogul Ever?",
-   "date": "2026-10-08T14:06-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/is-this-failed-actor-nepo-baby-now",
-   "bullets": [
-    "David Ellison’s 20‑year‑old film, costing $60 million, earned under 25% of its budget and a 34% Rotten Tomatoes rating, yet its failure financed a massive media consolidation led by his billionaire father’s investment.",
-    "Ellison, a nepo‑baby whose father is the world’s eighth‑richest, leveraged the flop’s fallout to become one of history’s largest media moguls, reshaping the industry.",
-    "The piece also claims CNN staff are overly optimistic about the network’s future under Ellison, questions Fox’s refusal to air Trump rallies, and condemns mainstream media’s coverage of the Gaza conflict."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261008210439.3.0c580c7853c7aecf@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "We Spoke to the Guy Who Snitched on Kimberly Guilfoyle (w/ Eric Deters)",
-   "date": "2026-10-08T14:04-07:00",
-   "url": null,
-   "bullets": [
-    "Eric Deters, central to the WSJ expose, claims Kimberly Guilfoyle asked him for $100,000 to cover credit‑card debt before her Greek ambassadorship confirmation, promising access and favors in return.",
-    "Deters says he spent hundreds of thousands trying to influence Guilfoyle and Trump allies, was urged to connect with Tucker Carlson and ex‑IRS chief Billy Long, and now feels like a “dumbass.”",
-    "He alleges Jared Kushner’s firm received a $3 billion Saudi sovereign‑wealth investment (reports cite $2 billion) and that Dr. Abubakar Atiq Durrani performed 580 unnecessary surgeries, though total patient impact is unclear."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261008191836.3.6e2a4c3ee2ade60d@mg2.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Dems Warn Voters: Trump May Not Deliver Your Mailed-in Ballots",
-   "date": "2026-10-08T12:18-07:00",
-   "url": null,
-   "bullets": [
-    "Democrats are now concerned that the Trump administration may undermine the safety of mailed ballots, citing new internal threats rather than foreign interference or fraud."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 104,
-  "total": 434
+  "shown": 99,
+  "total": 433
  }
 }
