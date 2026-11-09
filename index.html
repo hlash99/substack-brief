@@ -46,7 +46,19 @@ a.subj:hover{color:var(--teal);border-color:var(--teal)}
 .empty{color:var(--dim);text-align:center;padding:40px 0}
 .foot{color:#5c7392;font-size:12px;margin-top:34px;line-height:1.7}
 .foot a{color:#7fa3c9}
-@media(max-width:540px){.when{margin-left:0;width:100%}}
+.asof{display:block;margin-top:2px;color:var(--dim);font-weight:400;letter-spacing:0;text-transform:none;font-size:12.5px}
+.asof.old,.sub .old{color:#e0a64a}
+.day{cursor:pointer;user-select:none;-webkit-tap-highlight-color:transparent}
+.day .n{letter-spacing:0;text-transform:none;font-size:12px;white-space:nowrap}
+.day .tw{display:inline-block;width:10px;font-size:10px;transition:transform .12s}
+.day.shut .tw{transform:rotate(-90deg)}
+.day.shut+.dayb{display:none}
+.card.new{border-left:3px solid var(--teal);padding-left:14px}
+.newtag{font-size:10.5px;font-weight:700;letter-spacing:.5px;color:var(--teal);text-transform:uppercase}
+.chip.nw{color:var(--teal);border-color:#23605f}
+@media(max-width:540px){.when{margin-left:0;width:100%}
+.wrap{padding:22px 14px 50px}.panel{padding:14px 15px}.brief li{font-size:15px;margin:6px 0}
+.card{padding:12px 14px}.card.new{padding-left:12px}}
   .crumb{font-size:13px;color:var(--muted,#6b7280);margin-bottom:8px}
   .crumb a{color:inherit;text-decoration:none}
   .crumb a:hover{text-decoration:underline}
@@ -70,6 +82,7 @@ a.subj:hover{color:var(--teal);border-color:var(--teal)}
 server-side twice a day (morning &amp; afternoon Pacific) by
 <a href="https://github.com/hlash99/substack-brief">hlash99/substack-brief</a>.
 Items marked <i>excerpt</i> are raw snippets awaiting AI summarization.
+Older days are folded — tap a day header to open or close it.
 </p>
 </div>
 
@@ -80,59 +93,105 @@ messagebox:"Message Box",barbarafwalter:"Here Be Dragons",macgregorwarrior:"Warr
 post:"Substack Post"};
 const HUE={};let hueSeed=0;
 function hue(p){if(!(p in HUE))HUE[p]=(hueSeed+=67)%360;return HUE[p]}
-const pubName=p=>PUB[p]||p.replace(/[-_]+/g," ").replace(/\b\w/g,c=>c.toUpperCase());
 const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-let DATA=null,FILTER="all";
+let DATA=null,FILTER="all",SEEN=null,OPEN={};
+// "new since last visit": remember the newest email date seen on this device.
+// Storage can be unavailable (private mode) — the page works the same without it.
+const SEEN_KEY="substack-brief:seen";
+try{SEEN=localStorage.getItem(SEEN_KEY)}catch(e){}
+const ts=iso=>{const t=new Date(iso).getTime();return isNaN(t)?0:t};
+const isNew=it=>!!SEEN&&ts(it.date)>ts(SEEN);
 
 function dayKey(iso){return (iso||"").slice(0,10)}
+function localISO(d){return new Date(d.getTime()-d.getTimezoneOffset()*6e4).toISOString()}
 function dayLabel(k){
   const d=new Date(k+"T12:00"),today=new Date(),y=new Date(Date.now()-864e5);
   const fmt=d.toLocaleDateString(undefined,{weekday:"short",month:"short",day:"numeric"});
-  if(k===today.toISOString().slice(0,10)||k===dayKey(localISO(today)))return "Today · "+fmt;
+  if(k===dayKey(localISO(today)))return "Today · "+fmt;
   if(k===dayKey(localISO(y)))return "Yesterday · "+fmt;
   return fmt;
 }
-function localISO(d){return new Date(d.getTime()-d.getTimezoneOffset()*6e4).toISOString()}
 function timeOf(iso){const d=new Date(iso);return isNaN(d)?"":d.toLocaleTimeString(undefined,{hour:"numeric",minute:"2-digit"})}
-function ago(iso){const s=(Date.now()-new Date(iso))/1e3;
+function ago(iso){const s=Math.max(0,(Date.now()-new Date(iso))/1e3);
+  if(isNaN(s))return "at an unknown time";
   return s<3600?Math.round(s/60)+"m ago":s<86400?Math.round(s/3600)+"h ago":Math.round(s/86400)+"d ago"}
+function stamp(iso){const d=new Date(iso);if(isNaN(d))return "";
+  return d.toLocaleDateString(undefined,{weekday:"short"})+" "+timeOf(iso)}
+
+// chip/badge names: the curated map, else the sender name when a publication
+// only ever uses one (e.g. "Chris Pappas" instead of "Chrispappasnh")
+let AUTO={};
+function learnNames(items){
+  const seen={};items.forEach(it=>{if(!it||!it.pub||!it.newsletter)return;
+    const m=seen[it.pub]=seen[it.pub]||{n:0,by:{}};m.n++;m.by[it.newsletter]=(m.by[it.newsletter]||0)+1});
+  AUTO={};Object.keys(seen).forEach(p=>{
+    const top=Object.keys(seen[p].by).sort((a,b)=>seen[p].by[b]-seen[p].by[a])[0];
+    if(seen[p].by[top]>=.75*seen[p].n&&top.length<=30&&!/@/.test(top))AUTO[p]=top});
+}
+const pubName=p=>PUB[p]||AUTO[p]||String(p||"unknown").replace(/[-_]+/g," ").replace(/\b\w/g,c=>c.toUpperCase());
 
 function render(){
   const d=DATA;if(!d)return;
-  const cutoff=Date.now()-d.window_days*864e5;
-  const items=(d.items||[]).filter(it=>new Date(it.date)>=cutoff);
-  $("#sub").innerHTML=`<b>${items.length}</b> newsletters in the last ${d.window_days} days · updated ${ago(d.updated)}`;
+  const win=d.window_days||7;
+  const cutoff=Date.now()-win*864e5;
+  const all=Array.isArray(d.items)?d.items:[];
+  const items=all.filter(it=>it&&ts(it.date)>=cutoff);
+  learnNames(all);
+  const nNew=items.filter(isNew).length;
+  const stale=(Date.now()-ts(d.updated))>30*36e5;      // two missed refreshes
+  $("#sub").innerHTML=`<b>${items.length}</b> newsletters in the last ${win} days`
+    +(nNew?` · <b>${nNew} new</b> since your last visit`:"")
+    +` · <span class="${stale?"old":""}">updated ${ago(d.updated)}${stale?" — nothing new has landed since":""}</span>`;
 
   if(d.brief&&d.brief.bullets&&d.brief.bullets.length){
     $("#brief").hidden=false;
-    $("#briefHd").textContent=`The Brief · last ${d.brief.span_days||3} days`;
+    // the brief is only rewritten when the model returns a usable synthesis, so
+    // it can be older than the feed below — say when it was actually written
+    const bu=d.brief.updated,lag=bu?ts(d.updated)-ts(bu):0;
+    const asof=bu?`<span class="asof${lag>20*36e5?" old":""}">written ${esc(stamp(bu))}${lag>20*36e5?" — newer emails not yet folded in":""}</span>`:"";
+    $("#briefHd").innerHTML=`The Brief · last ${d.brief.span_days||3} days${asof}`;
     $("#briefUl").innerHTML=d.brief.bullets.map(b=>`<li>${esc(b)}</li>`).join("");
   }
 
+  if(FILTER==="new"&&!nNew)FILTER="all";
   const counts={};items.forEach(it=>counts[it.pub]=(counts[it.pub]||0)+1);
   const pubs=Object.keys(counts).sort((a,b)=>counts[b]-counts[a]);
   $("#chips").innerHTML=[`<span class="chip${FILTER==="all"?" on":""}" data-p="all">All · ${items.length}</span>`]
+    .concat(nNew?[`<span class="chip nw${FILTER==="new"?" on":""}" data-p="new">New · ${nNew}</span>`]:[])
     .concat(pubs.map(p=>`<span class="chip${FILTER===p?" on":""}" data-p="${esc(p)}">${esc(pubName(p))} · ${counts[p]}</span>`)).join("");
   document.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{FILTER=c.dataset.p;render()});
 
-  const show=items.filter(it=>FILTER==="all"||it.pub===FILTER);
+  const show=items.filter(it=>FILTER==="all"||(FILTER==="new"?isNew(it):it.pub===FILTER));
   if(!show.length){$("#feed").innerHTML=`<div class="empty">Nothing here yet.</div>`;return}
   const days={};show.forEach(it=>{(days[dayKey(it.date)]=days[dayKey(it.date)]||[]).push(it)});
-  $("#feed").innerHTML=Object.keys(days).sort().reverse().map(k=>
-    `<div class="day">${dayLabel(k)}</div>`+days[k].map(it=>{
-      const ex=it.summary_by==="excerpt";
+  const keys=Object.keys(days).sort().reverse();
+  // unfiltered, the week is ~100 cards: keep the three newest days open (the span
+  // the Brief covers) and fold the rest behind their day header. Filtered views
+  // are short, so they open fully. A tap on a header always wins.
+  const isOpen=(k,i)=>(k in OPEN)?OPEN[k]:(FILTER!=="all"||i<3||days[k].some(isNew));
+  $("#feed").innerHTML=keys.map((k,i)=>
+    `<div class="day${isOpen(k,i)?"":" shut"}" data-k="${k}"><span class="tw">▾</span>${dayLabel(k)}<span class="n">${days[k].length}</span></div>`
+    +`<div class="dayb">`+days[k].map(it=>{
+      const ex=it.summary_by==="excerpt",nw=isNew(it),name=pubName(it.pub);
       const subj=it.url?`<a class="subj" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.subject)}</a>`
                        :`<span class="subj">${esc(it.subject)}</span>`;
-      return `<div class="card${ex?" ex":""}">
-        <div class="top"><span class="badge" style="color:hsl(${hue(it.pub)} 65% 72%)">${esc(pubName(it.pub))}</span>
-        ${subj}<span class="when">${esc(it.newsletter)} · ${timeOf(it.date)}</span></div>
+      const who=it.newsletter&&it.newsletter!==name?esc(it.newsletter)+" · ":"";
+      return `<div class="card${ex?" ex":""}${nw?" new":""}">
+        <div class="top"><span class="badge" style="color:hsl(${hue(it.pub)} 65% 72%)">${esc(name)}</span>
+        ${subj}<span class="when">${nw?`<span class="newtag">new</span> · `:""}${who}${timeOf(it.date)}</span></div>
         <ul>${(it.bullets||[]).map(b=>`<li>${esc(b)}</li>`).join("")}</ul>
         ${ex?`<div class="exnote">excerpt — AI summary pending</div>`:""}
-      </div>`}).join("")).join("");
+      </div>`}).join("")+`</div>`).join("");
+  document.querySelectorAll(".day").forEach(h=>h.onclick=()=>{
+    OPEN[h.dataset.k]=h.classList.contains("shut");h.classList.toggle("shut")});
 }
 
-fetch("data.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{DATA=d;render()})
-  .catch(()=>{$("#feed").innerHTML=`<div class="empty">Couldn't load data.json.</div>`});
+fetch("data.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(d=>{
+  DATA=d;render();
+  // remember the newest email for the next visit (marks stay for this one)
+  const newest=(d.items||[]).reduce((m,it)=>it&&ts(it.date)>ts(m)?it.date:m,SEEN||"");
+  try{if(newest)localStorage.setItem(SEEN_KEY,newest)}catch(e){}
+}).catch(()=>{$("#feed").innerHTML=`<div class="empty">Couldn't load data.json.</div>`});
 </script>
 </body>
 </html>
