@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:46-08:00",
+ "updated": "2026-11-09T15:29-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -53,6 +53,114 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261109221035.3.5c067054bef18166@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Do Democrats Actually Have an ‘Affordability’ Agenda – or a Plan to Pass It?",
+   "date": "2026-11-09T14:10-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/democrats-affordability-agenda",
+   "bullets": [
+    "Democrats won a decisive midterm mandate, with 75% of voters rating the economy negatively and 59% citing gas, groceries, and healthcare costs as major concerns, yet the party’s “affordability” agenda remains vague and largely a return to pre‑Trump policies.",
+    "House Minority Leader Hakeem Jeffries and other moderates promise to reverse Trump’s healthcare cuts—ending Medicaid reductions, reauthorizing Obamacare subsidies, and stopping tariff‑driven gas price hikes—yet offer no substantive plan to lower overall healthcare costs or guarantee coverage for all Americans.",
+    "Progressive voices like Rep.-elect Melat Kiros criticize the current agenda as insufficient, noting that 61% of voters want a larger government role in healthcare, but Democrats have yet to present concrete measures beyond policy reversals to make healthcare truly affordable."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261109193632.3.cfe9e450bf60040a@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Trump’s Interview Sends MAGA Into a Full-Blown Meltdown | MAGA Mondays",
+   "date": "2026-11-09T11:36-08:00",
+   "url": null,
+   "bullets": [
+    "Will Sommer and Sam Stein report that Trump's post‑midterm interview, in which he floated an immigration deal with Democrats and claimed the elections were stolen, has sparked outrage among hard‑liners like Megyn Kelly and The Blaze, exposing fissures in the MAGA coalition.",
+    "The piece also highlights scrutiny of Laura Loomer's paid political posts, Russell Brand's prison sentence raising doubts about MAGA's tolerance of alleged predators, and escalating infighting over corruption allegations within Trump's White House."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261109173014.3.d6f5887a898c64ff@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Defund WAR!",
+   "date": "2026-11-09T09:30-08:00",
+   "url": null,
+   "bullets": [
+    "The author urges Democrats, who now hold a historic mandate, to act immediately in Congress to end the Iran war, arguing it would curb inflation and price pressures.",
+    "He claims Democrats can force President Trump’s hand by using three legislative tools to compel a cease‑fire, without needing to sway public opinion, since Americans already oppose the conflict."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261109170141.3.a2ff9d10cd4de42a@mg-d0.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Palestinian Suffering Was ‘Never Guiding’ Biden’s Gaza Policy, New Book Says",
+   "date": "2026-11-09T09:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/palestinian-suffering-was-never-guiding",
+   "bullets": [
+    "We all know the Biden administration failed in its handling of the genocide in Gaza, but very few know the full extent of that failure. Author and Washington Sun correspondent Akbar Shahid Ahmed captures it all in his latest book, ‘Crossing…",
+    "“A lot of hardline Democrats want to move past this, pretend Gaza was a blip,” Ahmed tells Mehdi. The DC insider spoke to more than 150 officials for the book, creating a record of just how incapable the Biden administration was of opposing…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261109143245.3.116df833db1c80be@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "It’s Not a Pivot. It’s a Performance.",
+   "date": "2026-11-09T06:32-08:00",
+   "url": null,
+   "bullets": [
+    "Trump promoted Stephen Miller to chief of staff and hinted at a softer immigration stance to appease business interests, but dismissed any genuine empathy for migrants and doubted Democrats would drop investigations into his corruption.",
+    "In the 60 Minutes interview, Trump insisted he will never forgive his political enemies, reinforcing his unchanged hard‑line persona despite recent electoral setbacks.",
+    "Democrat Scott Colom is poised to become Mississippi’s first Black senator since Reconstruction, leading incumbent Cindy Hyde‑Smith by about 0.3% and winning roughly a quarter of the white vote, including strong support from younger white voters."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261109121623.3.6441a38656ea18d8@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "🐊 ‘Didn’t Even Try’: How Chuck Schumer and Dem Elites Lost Florida",
+   "date": "2026-11-09T04:16-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/didnt-even-try-how-chuck-schumer",
+   "bullets": [
+    "Democrats celebrated sweeping midterm wins but suffered a notable loss in Florida, where GOP candidates Byron Donalds and Ashley Moody narrowly beat Democrats David Jolly and Angie Nixon, exposing vulnerability despite holding the state.",
+    "Strategists and pollsters on both sides say the Florida races were far tighter than expected, with the GOP fearing a deeper Democratic surge that could threaten their dominance in the Sunshine State.",
+    "Trump’s weekend speculation about appointing UFC CEO Dana White as press secretary added a farcical distraction amid the serious post‑election analysis."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261109112437.3.c489b4024d0410be@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Texas Miracle",
+   "date": "2026-11-09T03:24-08:00",
+   "url": "https://paulkrugman.substack.com/p/the-texas-miracle",
+   "bullets": [
+    "Texas Democrats swept every statewide office in the 2026 midterms, with Gov. Gina Hinojosa winning by 7 points despite gerrymandered congressional districts that still favor Republicans.",
+    "The blue shift was driven by a dramatic leftward swing among Latino voters, who rejected Trump’s anti‑immigrant policies and ICE raids, suggesting a potentially lasting realignment similar to California’s post‑1994 shift.",
+    "If Texas remains reliably Democratic, its outsized influence on national issues—like textbook standards via the Texas Board of Education—could reshape U.S. politics and curb authoritarian trends."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261109024534.3.0934c37d0ad4ad80@mg-d0.substack.com",
+   "newsletter": "Sam Stein & Tim Miller @ The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Todd Blanche’s CNN Interview Could Come Back to Bite Him",
+   "date": "2026-11-08T18:45-08:00",
+   "url": null,
+   "bullets": [
+    "Todd Blanche appeared on CNN defending Trump’s threats to imprison Democrats, denying allegations against Susie Wiles, and pledging to shield Stephen Miller from congressional probes.",
+    "Will Saletan and Catherine Rampell argue that Blanche’s attempts to preempt investigations actually furnish Democrats with additional grounds to launch inquiries into his actions."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261109000148.3.e2b7b97d8eeaf366@mg-d1.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
@@ -5764,187 +5872,10 @@
     "Trump announced he would personally fund campaign‑style ads via the MAGA, INC super PAC, but the White House said the PAC would not reimburse taxpayers for the $10 million already spent, and Trump declined to pay back the funds himself."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261009223057.3.9c0372e21b1099a8@mg2.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Is He the One We’ve Been Waiting For?",
-   "date": "2026-10-09T15:30-07:00",
-   "url": null,
-   "bullets": [
-    "Sarah and JVL dissect Jon Ossoff’s aggressive debate performance that they claim demolished Mike Collins, calling it so brutal it should have been halted.",
-    "The episode also features an intense Eric Deters interview, Pete Hegseth’s commentary on livestreamed executions, and a discussion of the pro‑life movement’s strategic silence.",
-    "Additional segments cover a quirky 'potato discourse' and a light‑hearted nod to The Golden Girls, all packaged as a premium Bulwark+ podcast."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261009200208.3.539b31a37fce5c88@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Judge Who Accused Israel of Genocide Given Nobel Peace Prize (Sorry Trump)",
-   "date": "2026-10-09T13:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/judge-who-accused-israel-of-genocide",
-   "bullets": [
-    "Editor’s Note: We thought you might find this Zeteo UK essay a worthwhile read, so we are republishing it at Zeteo. If you want to receive more essays like this from Zeteo UK, in addition to everything Zeteo offers, you can always take adva…",
-    "The South African jurist Navi Pillay, the Nobel Peace Prize recipient, is one of the most distinguished human rights lawyers and judges of the past few decades. Early in her extraordinary career, she embodied the struggle against apartheid …"
-   ],
-   "summary_by": "excerpt"
-  },
-  {
-   "id": "20261009194213.3.31bbeb12b0bbdb58@mg-d1.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "How Facebook Broke America",
-   "date": "2026-10-09T12:42-07:00",
-   "url": null,
-   "bullets": [
-    "The newsletter argues that Elon Musk’s Twitter algorithm amplified outrage over Christopher Nolan’s film by promoting race‑related disputes and false casting rumors, driving user engagement and ad revenue.",
-    "It uses Aaron Sorkin’s fictional film The Social Reckoning to illustrate how Facebook’s algorithm pushes users toward extremist groups—64% join such groups after platform nudges, with white‑power recommendations appearing in just ten days—culminating in the Jan 6 Capitol attack and Zuckerberg’s congressional testimony.",
-    "The piece critiques the film’s visual style versus The Social Network, but highlights its effective portrayal of Facebook’s moral decay, where profit‑driven algorithmic tweaks prioritize ragebait over factual discourse."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261009171626.3.30529b8b4245d836@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Experts Were Right: Trump’s an Economic Moron",
-   "date": "2026-10-09T10:16-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s 2024 tariffs, promised to curb inflation, actually re‑ignited it by raising costs and dampening activity, creating a self‑inflicted ‘moronic inflation’ that economists warned against.",
-    "The author argues the pro‑life movement is fundamentally pro‑death, citing Pete Hegseth’s livestreamed execution of Nidal Hasan as evidence of its violent, performative nature.",
-    "The newsletter’s mailbag episode discusses concerns about Trump‑aligned military influence, Democratic strategy for 2028, the author’s unchanged abortion stance, and his transition from print to on‑air media."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261009165948.3.8781159970b42054@mg-d1.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "It starts with the Supreme Court",
-   "date": "2026-10-09T09:59-07:00",
-   "url": "https://roycoopernc.substack.com/p/it-starts-with-the-supreme-court",
-   "bullets": [
-    "In 2024, NC voters elected Justice Allison Riggs by just 734 votes out of 5.5 million, after Republicans sought to discard 60,000 legal ballots, delaying certification for six months.",
-    "The author warns that similar tactics could be used to unseat Justice Anita Earls, urging a decisive re‑election margin and soliciting donations to both campaigns."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261009153309.3.dd53c2d6ed3317a5@mg2.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "Bizarre lies",
-   "date": "2026-10-09T08:33-07:00",
-   "url": "https://ossoff.substack.com/p/bizarre-lies",
-   "bullets": [
-    "Ossoff recounts his 2020 Senate run, emphasizing his investigative journalism background and a grassroots strategy that helped flip Georgia and secure the Senate majority in 2021.",
-    "He warns that the 2026 Georgia Senate race will be the nation’s tightest and most costly midterm contest, with Trump and MAGA poised to spread debunked election lies and attack voting rights.",
-    "Ossoff urges nationwide donors to fund his reelection campaign and voter‑protection efforts to counter these attacks and retain the seat."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261009150653.3.ad5a7c2eb21934c1@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "The Good, the Bad, and the Ugly: Ranking Celebrity Responses to the Gaza Genocide",
-   "date": "2026-10-09T08:06-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-good-the-bad-and-the-ugly-ranking-af9",
-   "bullets": [
-    "Zeteo ranks Hollywood figures on their responses to the Gaza genocide, noting 74,000+ Palestinian deaths, 21,000 children, and highlighting celebrities who speak out versus those who remain silent or support Israel."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261009145858.3.ed1b03e2e98f62f1@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "‘I Need Some Pepto-Bismol’: Trump’s Taxpayer-Funded Ad Bombs in Focus Group",
-   "date": "2026-10-09T07:58-07:00",
-   "url": null,
-   "bullets": [
-    "A Reuters/Ipsos poll shows 86% of Americans oppose using taxpayer money for election ads featuring Trump or his cabinet, versus only 9% in favor.",
-    "In a Florida focus group of Trump‑supporting voters who now disapprove of his performance, the taxpayer‑funded ad provoked immediate, intense revulsion, with participants unable to even answer the moderator’s question."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261009132838.3.62b43bd5be553498@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Hegseth Wants You to Watch a Snuff Film",
-   "date": "2026-10-09T06:28-07:00",
-   "url": null,
-   "bullets": [
-    "ICE officers shot 28‑year‑old illegal immigrant Oscar Belgal in NYC, emptying a magazine into his car while his 5‑year‑old watched, with no official claim of resistance or threat.",
-    "Defense Secretary Pete Hegseth told Jack Posobiec the Fort Hood shooter Maj. Nidal Hasan’s execution will be livestreamed as a public spectacle, echoing neo‑fascist ‘Ur‑Fascism’ and historic public executions.",
-    "At the National Conservatism Conference in Jerusalem, MAGA‑aligned panelists declared the American right’s “America First” stance has broken with Israel, citing “forever wars” and immigration as reasons to abandon traditional pro‑Israel ties."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261009111216.3.adea8d935aba9f9f@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Donald Trump Is Trying to Start a Race War to Win the Midterms",
-   "date": "2026-10-09T04:12-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/donald-trump-is-trying-to-start-a",
-   "bullets": [
-    "Trump posted a message urging Minnesotans to “fight back” against Somali immigrants, framing the state as under violent takeover and calling for federal intervention against Governor Tim Walz and Mayor Jacob Frey",
-    "The author links Trump’s rhetoric to his Jan. 6 incitement, noting nine deaths and arguing the president is now stoking race‑based violence to boost Republican prospects in the upcoming midterms",
-    "A New York Times report is cited that a close aide to former ambassador Mike Huckabee is steering the U.S. embassy in Israel toward overtly pro‑Israel actions, while a Senate debate in Georgia and a Nobel Peace Prize award to a Gaza genocide critic are also mentioned"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261009103138.3.8991cc7008421d52@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Buongiorno",
-   "date": "2026-10-09T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/buongiorno",
-   "bullets": [
-    "OECD data shows Italy’s total productivity grew just 2% from 2000‑2023, with its PPP‑adjusted productivity relative to the US dropping from 0.91 to 0.79, which Krugman attributes to measurement problems rather than a lack of modern technology.",
-    "He briefly mentions rising interest rates without detail.",
-    "Krugman mocks Pete Hegseth’s extreme views, linking the commentator’s belief that testosterone drives wars to a bizarre claim that America needs livestreamed public executions to become great again."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261009103053.3.09cb205db4065884@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Andrew Weissmann Sees BIG Trouble for Trump in Deportation Showdown",
-   "date": "2026-10-09T03:30-07:00",
-   "url": null,
-   "bullets": [
-    "Weissmann alleges Kimberly Guilfoyle took a $100,000 Amex payment and exchanged incriminating texts, suggesting Trump may hesitate to distance himself from her.",
-    "He argues Trump’s $5,000 election‑day promise could be a criminal act and notes a federal judge dismissed a DOJ case against Trump.",
-    "Weissmann warns that the administration’s refusal to follow court orders on El Salvador deportations could still lead to serious legal repercussions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261009100140.3.b5675759b8c74c65@mg-d0.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "The revolutionary art of fixing the thing people are complaining about",
-   "date": "2026-10-09T03:01-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/the-revolutionary-art-of-fixing-the",
-   "bullets": [
-    "NYC filled its 200,000th pothole in six months, using a simple, visible fix to demonstrate government responsiveness and rebuild public trust.",
-    "The newsletter argues that trust in health systems must be earned through consistent, transparent actions like truly listening to community concerns, not declared.",
-    "It links the pothole example to health, urging professionals to prioritize responsiveness, consistency, and admission of mistakes to restore eroding trust."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 99,
-  "total": 433
+  "shown": 96,
+  "total": 428
  }
 }
