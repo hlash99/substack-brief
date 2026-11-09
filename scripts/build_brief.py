@@ -22,6 +22,7 @@ import argparse
 import email
 import email.policy
 import email.utils
+import hashlib
 import html
 import imaplib
 import json
@@ -44,6 +45,8 @@ FETCH_DAYS = 9        # how far back each IMAP run looks (cache covers the rest)
 WINDOW_DAYS = 7       # rolling window shown on the page
 KEEP_DAYS = 30        # summaries kept in data.json so nothing is re-summarized
 BRIEF_DAYS = 3        # the top rolling brief synthesizes this many days
+MAX_TRIES = 3         # stop re-asking the LLM about an email it can't summarize
+BRIEF_MIN = 3         # fewer usable bullets than this = keep the previous brief
 SKIP_SENDERS = {"no-reply@substack.com"}   # platform digests/promos, not newsletters
 
 # ---------------------------------------------------------------- LLM chain --
@@ -120,10 +123,14 @@ def _oai_post(url, key, model, system, user, max_tokens, extra, body=None):
         raise RateLimited(f"{model}@{url.split('/')[2]} -> 429", wait)
     if r.status_code != 200:
         raise RuntimeError(f"{model}@{url.split('/')[2]} -> {r.status_code} {r.text[:160]}")
-    return strip_reasoning((r.json()["choices"][0]["message"]["content"] or "").strip())
+    global LAST_FINISH
+    choice = r.json()["choices"][0]
+    LAST_FINISH = choice.get("finish_reason")
+    return strip_reasoning((choice["message"]["content"] or "").strip())
 
 
 LAST_PROVIDER = None
+LAST_FINISH = None      # finish_reason of the last open-LLM reply ("length" = cut off)
 
 
 def make_llm():
@@ -190,6 +197,7 @@ ITEM_SYSTEM = (
     "full text, reply with ONLY a JSON object {\"bullets\": [...]} of 2-3 bullets. "
     "Each bullet is one concrete sentence (max ~28 words) capturing the actual "
     "argument, facts, names and numbers — never meta like 'the author discusses'. "
+    "Use the given Date for context and never guess a year the text does not state. "
     "If the email is a podcast/video announcement or paywalled teaser, one bullet "
     "saying what it covers is enough. No markdown, no text outside the JSON."
 )
@@ -199,29 +207,107 @@ BRIEF_SYSTEM = (
     "last few days of Substack newsletters the reader subscribes to (The Bulwark, "
     "Zeteo, Paul Krugman, Doomberg, The Message Box, and others). Given recent items "
     "(newsletter, date, subject, bullets), reply with ONLY a JSON array of AT MOST 6 "
-    "strings. Each is one plain-English sentence on a cross-cutting theme or the most "
+    "strings. Each is one plain-English sentence (max ~32 words) on a cross-cutting theme or the most "
     "consequential story — group overlapping coverage rather than listing emails, and "
     "note the newsletter(s) in parentheses. Lead with what matters most. No markdown."
 )
 
 
+_JSON_STR = re.compile(r'"(?:[^"\\\\]|\\\\.)*"')
+PARSE_NOTE = ""         # how the last reply had to be recovered ("" = clean JSON)
+
+
+def _complete_strings(fragment):
+    """Complete JSON string elements of a (possibly cut-off) array body. A reply
+    that hit max_tokens ends mid-string; the unfinished last element is dropped."""
+    out, pos = [], 0
+    while True:
+        m = re.compile(r"\s*,?\s*").match(fragment, pos)
+        pos = m.end()
+        sm = _JSON_STR.match(fragment, pos)
+        if not sm:
+            break
+        try:
+            out.append(json.loads(sm.group(0)))
+        except Exception:
+            break
+        pos = sm.end()
+    return out
+
+
+def _as_strings(v):
+    """Flatten a parsed list into clean strings (models sometimes wrap each
+    bullet in an object, or glue two bullets together with a stray '","')."""
+    out = []
+    for x in v:
+        if isinstance(x, dict):
+            x = next((y for y in x.values() if isinstance(y, str) and y.strip()), "")
+        if isinstance(x, (list, tuple)):
+            x = " ".join(str(y) for y in x)
+        for part in str(x).split('","'):
+            part = re.sub(r"^\s*(?:[-•*]|\d+[.)])\s+", "", part).strip().strip('"').strip()
+            if part and part not in out:
+                out.append(part)
+    return out
+
+
 def parse_json_loose(text, want):
-    """Parse the model's JSON reply; tolerate stray prose around it."""
+    """Parse the model's JSON reply. Tolerates stray prose / code fences around
+    it, an object where an array was asked for (and vice versa), and a reply cut
+    off by max_tokens (keeps the complete bullets). Returns a list of strings for
+    want=list, a dict with a clean "bullets" list for want=dict, or None."""
+    global PARSE_NOTE
+    PARSE_NOTE = ""
+    text = (text or "").strip()
+    v = None
     try:
         v = json.loads(text)
     except Exception:
-        m = re.search(r"\[.*\]" if want is list else r"\{.*\}", text, re.S)
-        if not m:
-            return None
-        try:
-            v = json.loads(m.group(0))
-        except Exception:
-            return None
-    if want is list and isinstance(v, list):
-        return [str(x).strip() for x in v if str(x).strip()]
-    if want is dict and isinstance(v, dict):
-        return v
-    return None
+        for pat in ((r"\[.*\]", r"\{.*\}") if want is list else (r"\{.*\}", r"\[.*\]")):
+            m = re.search(pat, text, re.S)
+            if m:
+                try:
+                    v = json.loads(m.group(0))
+                    break
+                except Exception:
+                    pass
+    bullets = None
+    if isinstance(v, dict):
+        cand = v.get("bullets")
+        if not isinstance(cand, list):
+            cand = next((x for x in v.values() if isinstance(x, list)), None)
+        if isinstance(cand, list):
+            bullets = _as_strings(cand)
+            if want is list:
+                PARSE_NOTE = "object instead of array"
+    elif isinstance(v, list):
+        bullets = _as_strings(v)
+        if want is dict:
+            PARSE_NOTE = "array instead of object"
+    if not bullets:
+        # cut-off or malformed JSON: salvage the complete string elements
+        i = text.find("[")
+        if i >= 0:
+            bullets = _as_strings(_complete_strings(text[i + 1:]))
+            if bullets:
+                PARSE_NOTE = "salvaged from cut-off/malformed JSON"
+    if not bullets and want is list and "[" not in text and "{" not in text:
+        # plain-text list ("- foo" / "1. foo" lines)
+        lines = [m.group(1) for m in re.finditer(
+            r"^\s*(?:[-•*]|\d+[.)])\s+(.{20,})$", text, re.M)]
+        bullets = _as_strings(lines)
+        if bullets:
+            PARSE_NOTE = "plain-text list"
+    if not bullets:
+        return None
+    return bullets if want is list else {"bullets": bullets}
+
+
+def reply_debug(out):
+    """One log line describing an unusable reply (shape only, for diagnosis)."""
+    out = out or ""
+    return (f"finish_reason={LAST_FINISH} len={len(out)} "
+            f"head={out[:60]!r} tail={out[-60:]!r}")
 
 
 # ------------------------------------------------------------- text extract --
@@ -300,15 +386,83 @@ def post_url(raw_text):
     return m.group(0) if m else None
 
 
+POST_PATH = re.compile(r"https?://[\w.-]+/p/[\w-]+")
+WEB_LINE = re.compile(r"View this post on the web at\s+<?(https?://\S+)", re.I)
+
+
+def custom_domain_url(plain, list_post):
+    """Fallback for publications on a custom domain (e.g. www.thebulwark.com),
+    whose emails carry no *.substack.com/p/ link: the plain-text part's "View
+    this post on the web at <url>" line, then the List-Post header. Only a
+    https://host/p/slug address is accepted, so a miss leaves url empty as before."""
+    for cand in ((WEB_LINE.search(plain or "") or [None, ""])[1], list_post or ""):
+        m = POST_PATH.match(cand.strip().strip("<>"))
+        if m:
+            return m.group(0)
+    return None
+
+
 # ------------------------------------------------------------------ sources --
 def norm_mid(mid):
     return (mid or "").strip().strip("<>").strip()
+
+
+def stable_id(mid, addr, subject, date_hdr):
+    """Message-ID, or a deterministic stand-in when the header is missing — an
+    empty id would never hit the cache, so the email would be re-summarized
+    (one LLM call) on every run."""
+    mid = norm_mid(mid)
+    if mid:
+        return mid
+    h = hashlib.sha1(f"{addr}|{subject}|{date_hdr}".encode("utf-8", "replace")).hexdigest()
+    return "noid-" + h[:20]
 
 
 def pub_key(addr):
     """thebulwark+thetriad@substack.com → 'thebulwark' (publication grouping key)."""
     local = (addr or "").split("@")[0]
     return local.split("+")[0].lower() or "unknown"
+
+
+def _fetch_one(M, num):
+    """Fetch + parse one message; None = not a newsletter / nothing fetched."""
+    typ, msg_data = M.fetch(num, "(BODY.PEEK[])")   # PEEK: don't mark as read
+    if typ != "OK" or not msg_data or msg_data[0] is None:
+        return None
+    msg = email.message_from_bytes(msg_data[0][1], policy=email.policy.default)
+    name, addr = email.utils.parseaddr(msg.get("From", ""))
+    if addr.lower() in SKIP_SENDERS:
+        return None
+    try:
+        dt = email.utils.parsedate_to_datetime(msg.get("Date"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+    except Exception:
+        dt = datetime.now(timezone.utc)
+    plain, htm = None, None
+    for part in msg.walk():
+        ct = part.get_content_type()
+        if ct == "text/plain" and plain is None:
+            plain = part.get_content()
+        elif ct == "text/html" and htm is None:
+            htm = part.get_content()
+    text, raw_for_url = plain, plain or ""
+    if htm:
+        ex = TextExtractor()
+        ex.feed(htm)
+        if not text or len(text) < 200:
+            text = ex.text()
+        raw_for_url = (plain or "") + " " + htm
+    return {
+        "id": stable_id(msg.get("Message-ID"), addr, msg.get("Subject") or "",
+                        msg.get("Date") or ""),
+        "newsletter": name or addr,
+        "pub": pub_key(addr),
+        "subject": (msg.get("Subject") or "").strip(),
+        "date": dt.astimezone(TZ).isoformat(timespec="minutes"),
+        "url": post_url(raw_for_url) or custom_domain_url(plain, msg.get("List-Post")),
+        "_text": text or "",
+    }
 
 
 def from_imap():
@@ -325,43 +479,23 @@ def from_imap():
     typ, data = M.search(None, f"(SINCE {since})")
     ids = data[0].split() if typ == "OK" else []
     items = []
+    skipped = 0
     for num in ids:
-        typ, msg_data = M.fetch(num, "(BODY.PEEK[])")   # PEEK: don't mark as read
-        if typ != "OK" or not msg_data or msg_data[0] is None:
-            continue
-        msg = email.message_from_bytes(msg_data[0][1], policy=email.policy.default)
-        name, addr = email.utils.parseaddr(msg.get("From", ""))
-        if addr.lower() in SKIP_SENDERS:
-            continue
+        # one undecodable message (odd charset, broken MIME) must not sink the
+        # whole run — it would block every refresh until it aged out of the window
         try:
-            dt = email.utils.parsedate_to_datetime(msg.get("Date"))
-            if dt.tzinfo is None:
-                dt = dt.replace(tzinfo=timezone.utc)
-        except Exception:
-            dt = datetime.now(timezone.utc)
-        plain, htm = None, None
-        for part in msg.walk():
-            ct = part.get_content_type()
-            if ct == "text/plain" and plain is None:
-                plain = part.get_content()
-            elif ct == "text/html" and htm is None:
-                htm = part.get_content()
-        text, raw_for_url = plain, plain or ""
-        if htm:
-            ex = TextExtractor()
-            ex.feed(htm)
-            if not text or len(text) < 200:
-                text = ex.text()
-            raw_for_url = (plain or "") + " " + htm
-        items.append({
-            "id": norm_mid(msg.get("Message-ID")),
-            "newsletter": name or addr,
-            "pub": pub_key(addr),
-            "subject": (msg.get("Subject") or "").strip(),
-            "date": dt.astimezone(TZ).isoformat(timespec="minutes"),
-            "url": post_url(raw_for_url),
-            "_text": text or "",
-        })
+            it = _fetch_one(M, num)
+        except (imaplib.IMAP4.abort, OSError):
+            raise                      # connection is gone: fail the run, keep data.json
+        except Exception as e:
+            skipped += 1
+            print(f"skipping unreadable message #{num.decode(errors='replace')}: "
+                  f"{type(e).__name__}", file=sys.stderr)
+            continue
+        if it:
+            items.append(it)
+    if skipped:
+        print(f"{skipped} message(s) skipped as unreadable", file=sys.stderr)
     M.logout()
     return items
 
@@ -404,7 +538,10 @@ def main():
 
     prev = {}
     if DATA.exists():
+        # a corrupt data.json raises here on purpose: fail the run, keep the file
         prev = json.loads(DATA.read_text(encoding="utf-8"))
+        if not isinstance(prev, dict) or not isinstance(prev.get("items", []), list):
+            raise RuntimeError("data.json has an unexpected shape — refusing to overwrite it")
     known = {it["id"]: it for it in prev.get("items", []) if it.get("id")}
 
     incoming = from_dir(args.from_dir) if args.from_dir else from_imap()
@@ -429,26 +566,41 @@ def main():
             items.append(old)
             continue
         it = {k: v for k, v in inc.items() if k != "_text"}
-        text = clean_lines(inc.get("_text", ""))[:9000]
+        text = clean_lines(inc.get("_text", ""))[:8900]
         done = False
-        if llm and text:
+        tries = (old or {}).get("summary_tries", 0)
+        # an email the model keeps answering unusably would otherwise cost one
+        # call per run for the whole fetch window — give up after MAX_TRIES
+        if llm and text and tries < MAX_TRIES:
             try:
                 out = llm(ITEM_SYSTEM,
-                          f"Newsletter: {it['newsletter']}\nSubject: {it['subject']}\n\n{text}",
+                          f"Newsletter: {it['newsletter']}\nDate: {it['date'][:10]}\n"
+                          f"Subject: {it['subject']}\n\n{text}",
                           400)
                 v = parse_json_loose(out, dict)
-                if v and isinstance(v.get("bullets"), list) and v["bullets"]:
-                    it["bullets"] = [str(b).strip() for b in v["bullets"][:3]]
+                if v and v.get("bullets"):
+                    it["bullets"] = v["bullets"][:3]
                     it["summary_by"] = LAST_PROVIDER
                     n_sum += 1
                     done = True
-                    time.sleep(2)     # free-tier pacing
+                    if PARSE_NOTE:
+                        print(f"summary recovered ({PARSE_NOTE}): {it['subject'][:40]}…",
+                              file=sys.stderr)
+                else:
+                    tries += 1         # unusable reply (not an outage): count it
+                    print(f"unusable summary reply ({it['subject'][:40]}…): "
+                          f"{reply_debug(out)}", file=sys.stderr)
+                time.sleep(2)     # free-tier pacing
             except Exception as e:
                 print(f"summarize failed ({it['subject'][:40]}…): {e}", file=sys.stderr)
         if not done:
             if old:                    # keep the old excerpt rather than redoing it
+                if tries:
+                    old["summary_tries"] = tries
                 items.append(old)
                 continue
+            if tries:
+                it["summary_tries"] = tries
             it["bullets"] = excerpt_bullets(inc.get("_text", ""), it["subject"])
             it["summary_by"] = "excerpt"
         items.append(it)
@@ -461,22 +613,38 @@ def main():
     items.sort(key=item_date, reverse=True)
     print(f"{len(items)} items in store · {n_sum} newly summarized")
 
-    # rolling top brief over the last BRIEF_DAYS
+    # rolling top brief over the last BRIEF_DAYS. Any failure here (provider
+    # outage, unusable reply) keeps the previous brief untouched; brief_status
+    # records the outcome so the page can say how old the brief really is.
     recent = [it for it in items if (now - item_date(it)).days < BRIEF_DAYS
               and it.get("summary_by") != "excerpt"]
     brief = prev.get("brief") or {}
+    status = prev.get("brief_status") or {}
     new_ids = sorted(it["id"] for it in recent)
     if recent and llm and (n_sum or brief.get("ids") != new_ids or not brief.get("bullets")):
         lines = [f"- [{it['newsletter']}] {it['date'][:10]} — {it['subject']}: "
-                 + " ".join(it.get("bullets", []))[:400] for it in recent]
+                 + " ".join(it.get("bullets", []))[:380] for it in recent]
+        status = {"tried": now.isoformat(timespec="minutes"), "ok": False}
         try:
-            out = llm(BRIEF_SYSTEM, "\n".join(lines), 600)
-            bl = parse_json_loose(out, list)
-            if bl:
-                brief = {"bullets": bl[:6], "by": LAST_PROVIDER, "ids": new_ids,
+            out = llm(BRIEF_SYSTEM, f"Today is {now:%Y-%m-%d}.\n" + "\n".join(lines), 600)
+            bl = parse_json_loose(out, list) or []
+            bl = [b for b in bl if len(b) >= 25][:6]
+            # a reply cut off by max_tokens still yields its complete bullets;
+            # accept it unless too little survived to be a brief
+            if len(bl) >= BRIEF_MIN or (bl and not PARSE_NOTE):
+                brief = {"bullets": bl, "by": LAST_PROVIDER, "ids": new_ids,
                          "updated": now.isoformat(timespec="minutes"),
                          "span_days": BRIEF_DAYS}
+                status["ok"] = True
+                if PARSE_NOTE:
+                    status["note"] = PARSE_NOTE
+                    print(f"brief recovered ({PARSE_NOTE}): {len(bl)} bullets", file=sys.stderr)
+            else:
+                status["note"] = "unusable reply" + (" (cut off)" if LAST_FINISH == "length" else "")
+                print(f"brief NOT updated — unusable reply, {len(bl)} bullet(s) recovered: "
+                      f"{reply_debug(out)}", file=sys.stderr)
         except Exception as e:
+            status["note"] = "provider error"
             print(f"brief synthesis failed: {e}", file=sys.stderr)
 
     shown = [it for it in items if (now - item_date(it)).days < WINDOW_DAYS]
@@ -488,14 +656,29 @@ def main():
         "items": items,
         "counts": {"shown": len(shown), "total": len(items)},
     }
-    stable = lambda o: json.dumps({k: v for k, v in o.items() if k != "updated"},
-                                  sort_keys=True, ensure_ascii=False)
+    if status:
+        out["brief_status"] = status
+    # "tried" moves on every attempt; on its own it is not a reason to commit
+    def stable(o):
+        o = {k: v for k, v in o.items() if k != "updated"}
+        if isinstance(o.get("brief_status"), dict):
+            o["brief_status"] = {k: v for k, v in o["brief_status"].items() if k != "tried"}
+        return json.dumps(o, sort_keys=True, ensure_ascii=False)
     if DATA.exists() and stable(out) == stable(prev):
         print("no material change — skipping write.")
         return
-    DATA.write_text(json.dumps(out, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    # last line of defence: the store only ever loses items that age past
+    # KEEP_DAYS (a few per run), so a big drop means something upstream broke
+    n_prev = len(prev.get("items", []))
+    if n_prev >= 20 and len(items) < 0.6 * n_prev:
+        raise RuntimeError(f"refusing to write: store would shrink {n_prev} -> {len(items)} items")
+    tmp = DATA.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(out, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    json.loads(tmp.read_text(encoding="utf-8"))      # must round-trip before it replaces
+    os.replace(tmp, DATA)
     print(f"wrote data.json · {len(shown)} items in {WINDOW_DAYS}-day window"
-          + (f" · brief {len(brief.get('bullets', []))} bullets" if brief else ""))
+          + (f" · brief {len(brief.get('bullets', []))} bullets"
+             f" (as of {brief.get('updated', '?')})" if brief else ""))
 
 
 if __name__ == "__main__":

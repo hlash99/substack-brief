@@ -16,6 +16,18 @@ a cross-newsletter synthesis ("The Brief") plus 2–3 bullets per email, publish
   new emails arrive.
 - The page shows a 7-day window with per-publication filter chips.
 
+## Failure behaviour
+
+- IMAP/login failure, a corrupt `data.json`, or a store that would shrink by >40% in one
+  run: the run fails and `data.json` is left exactly as it was.
+- One undecodable email is skipped (logged) instead of failing the run.
+- A model reply that is cut off or oddly shaped is salvaged (complete bullets kept). If
+  fewer than 3 brief bullets survive, the previous brief stays and `brief_status`
+  (`ok` / `tried` / `note`) records why; the page shows when the brief was actually written.
+- An email whose summary reply is unusable 3 times keeps its excerpt (no more LLM calls).
+- The page marks emails newer than your last visit on that device (localStorage only) and
+  folds days older than the newest three behind their header.
+
 ## Setup (repo secrets)
 
 | Secret | Value |

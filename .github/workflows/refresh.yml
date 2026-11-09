@@ -40,6 +40,9 @@ jobs:
           if ! git diff --quiet -- data.json; then
             git add data.json
             git commit -m "brief: $(date -u +%Y-%m-%dT%H:%MZ)"
+            # main may have moved since checkout (a manual push); without this the
+            # push is rejected and the run's summaries are thrown away
+            git pull --rebase origin main
             git push
           else
             echo "no change"
