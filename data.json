@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:29-08:00",
+ "updated": "2026-11-10T12:55-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -48,6 +48,179 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261110182901.3.ff291e5874bc3847@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Dark Lesson From the Midterms",
+   "date": "2026-11-10T10:29-08:00",
+   "url": "https://www.thebulwark.com/p/the-dark-lesson-from-the-midterms",
+   "bullets": [
+    "The midterm results showed voters explicitly rejecting promises to lower prices, end wars, and curb corruption, demanding politicians stop making empty claims and focus on real policy outcomes.",
+    "Despite widespread criticism of democracy’s fragility, the author argues that American institutions—courts, press, and electoral processes—continued to function effectively, proving the system’s resilience.",
+    "The piece warns that unchallenged optimism about the past decade’s stability risks normalizing authoritarian tendencies and undermines vigilance against political erosion."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110180233.3.c7fbbae0e786031c@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Jensen Huang’s Affair Isn’t the Only Reason the U.S. Is Losing Ground to China in the Tech War",
+   "date": "2026-11-10T10:02-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/jensen-huangs-affair-isnt-the-only",
+   "bullets": [
+    "Nvidia CEO Jensen Huang admitted an affair with Chinese businesswoman Alice Huang, whom U.S. intelligence suspects of commercial espionage for China, sparking concerns over insider threats in U.S. tech firms.",
+    "The scandal exposes deeper vulnerabilities in U.S. economic dominance, highlighting how personal misconduct can intersect with national security risks and China's broader strategy to undermine American technological leadership."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110170312.3.c1b46ce044923e82@mg2.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "Why save the media?",
+   "date": "2026-11-10T09:03-08:00",
+   "url": "https://post.substack.com/p/why-save-the-media",
+   "bullets": [
+    "Hamish argues that saving the media means preserving its core function of scaling trust and understanding through stories, which has been eroded by the attention economy over the past decade.",
+    "He cites a 2006 Dominion Post piece on WWII veterans planning a Crete trip, whose personal impact on veterans’ families illustrates how even brief local stories can profoundly matter.",
+    "The author frames journalism as community‑service: by sharing geographically constrained narratives, media enables people to communicate, shape collective identity, and solve problems together."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110142200.3.fe67736ba49494b7@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Wannabe Fascist Has Lost His Fastball",
+   "date": "2026-11-10T06:22-08:00",
+   "url": "https://www.thebulwark.com/p/the-wannabe-fascist-has-lost-his-fastball-trump-stephen-miller-nvidia-jensen-huang",
+   "bullets": [
+    "Defense Secretary Pete Hegseth angrily defends himself at the Pentagon against impeachment, prompting a live‑stream analysis by Lt. Gen. Mark Hertling and Ben Parler on Substack and YouTube at 9:30 a.m. EST.",
+    "Donald Trump, after appointing Stephen Miller as chief of staff, remains in a state of “nostalgic” distraction, issuing election denial posts, hosting bizarre press conferences with UFC CEO Dana White, and appearing on a surprise CSPAN call‑in, signaling a dysfunctional White House and a lack of decisive action.",
+    "Trump’s National Security Council issued a classified memo warning that Nvidia CEO Jensen Huang is linked to Chinese spy Alice Huang, yet Trump invited Huang onto a presidential trip to China in May and continues to host him at the White House despite the intelligence warning, exposing a national‑security scandal involving the president."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110130404.3.79b486ef3780fe76@mg-d1.substack.com",
+   "newsletter": "Pete Buttigieg",
+   "pub": "petebuttigieg",
+   "subject": "Announcing NEXT",
+   "date": "2026-11-10T05:04-08:00",
+   "url": "https://petebuttigieg.substack.com/p/announcing-next",
+   "bullets": [
+    "Pete Buttigieg announces his new book NEXT, set to release on January 26, 2027, arguing for systemic change beyond party politics after the 2026 election shift.",
+    "The book will outline how to build a better America, offering principles rather than policy details, and is available for pre-order at local booksellers and major audiobook platforms."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110120041.3.9a89353fc8da1353@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Run, Chris, Run!",
+   "date": "2026-11-10T04:00-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/run-chris-run",
+   "bullets": [
+    "Chris Van Hollen is positioned to replace Chuck Schumer as Senate majority leader, citing Schumer’s low approval and history of backing Republicans and Israel’s policies, while Van Hollen’s support for progressive mayor Zohran Mamdani and activism abroad is highlighted as a contrast.",
+    "Neera Tanden, chief of a liberal think tank, urges Democratic activists not to demand special favors from the incoming Democratic-controlled Congress, warning that such requests could backfire.",
+    "Pete Hegseth faces potential impeachment this week, with the article noting the possibility of formal proceedings against the conservative commentator."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110115801.3.b51e2cc27f77297c@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Cyberpunking of America (Fixed)",
+   "date": "2026-11-10T03:58-08:00",
+   "url": "https://paulkrugman.substack.com/p/the-cyberpunking-of-america-fixed",
+   "bullets": [
+    "Tesla is ending production of the Cybertruck, which critics described as a “mechanical cockroach” and a “culture war on wheels” that shifted from eco‑status symbol to MAGA signal over its seven‑year run.",
+    "Krugman links the Cybertruck’s failure and Zuckerberg’s $80 billion Metaverse loss to a broader cyberpunk‑inspired mindset among tech billionaires, who view dystopian futures as manifestos rather than warnings.",
+    "He warns that despite these tech elites’ grandiose visions, public opposition to data centers, AI, and such dystopian projects remains strong and could curb the ‘cyberpunking’ of America."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110115631.3.828d84a30bb0d453@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Republicans Outspent Democrats by $400 Million. Why Did They Still Lose?",
+   "date": "2026-11-10T03:56-08:00",
+   "url": "https://open.substack.com/pub/messagebox/p/republicans-outspent-democrats-by",
+   "bullets": [
+    "Republicans outspent Democrats by over $400 million across the 2026 cycle, with Elon Musk contributing more than $400 million—including $200 million for Texas candidate Ken Paxton, who lost by double digits.]",
+    "Despite the spending advantage, Democrats won due to favorable polls, candidate quality, and the inefficiency of $11 billion in TV ads, which struggle to reach persuadable voters as cord‑cutting rises."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110113812.3.9c06c87cf567d8a6@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Cyberpunking of America",
+   "date": "2026-11-10T03:38-08:00",
+   "url": "https://paulkrugman.substack.com/p/the-cyberpunking-of-america",
+   "bullets": [
+    "Tesla is ending production of the Cybertruck, which the New York Times called a “mechanical cockroach” and a “culture war on wheels” after a seven‑year rise and fall tied to Elon Musk’s shifting public image.”,"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110113421.3.9a87cb7abb9eda9e@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Measles elimination decision brewing, where is the fall vaccination data, and good news you might have missed",
+   "date": "2026-11-10T03:34-08:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/measles-elimination-decision-brewing",
+   "bullets": [
+    "A secret panel of eight experts will decide by Nov 16 if the U.S. has lost measles elimination status after a continuous 12‑month spread of the same genotype, likely leading to an endemic label and higher disease burden.",
+    "National ILI rates are at 2.8% (just below the 2.9% sick‑season trigger), with the South and West at 3.3%; flu positivity is 9% and three child deaths have occurred this season, while CDC has not released fall vaccination rates, raising accountability concerns."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110030045.3.4526025efabbe669@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "I Worked at the Pentagon. Congress Must Impeach and Remove Pete Hegseth Now",
+   "date": "2026-11-09T19:00-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/i-worked-at-the-pentagon-congress",
+   "bullets": [
+    "The author cites a recent video where Secretary of Defense Pete Hegseth threatened to use the U.S. military against “radical Democrats,” calling it evidence of violent extremism and psychological instability deserving impeachment.",
+    "He recounts whistleblowing on Hegseth’s illegal dismantling of the Pentagon’s civilian protection center and warns that his far‑right ideology is turning the U.S. into a fascist, globally domineering power."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110030044.3.3eda1925071921e5@mg-d1.substack.com",
+   "newsletter": "George Conway - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s End Could Come Sooner Than Anyone Thinks (w/ Mark Blumberg) | Psycho Politics",
+   "date": "2026-11-09T19:00-08:00",
+   "url": "https://www.thebulwark.com/p/an-army-of-investigators-is-going",
+   "bullets": [
+    "Conway warns that a politically weakened Trump, bolstered by Stephen Miller's rising influence, may pursue revenge-driven actions that could be more dangerous than before.",
+    "He and former federal prosecutor Mark Blumberg discuss the Rule of Law Project, which unites ex-DOJ lawyers, FBI agents, journalists, and whistleblowers to build criminal cases against Trump administration officials."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110011701.3.4f74f479f812405a@mg-d1.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Neo-Nazi Leader Accidentally Livestreams Masturbation Session",
+   "date": "2026-11-09T17:17-08:00",
+   "url": "https://www.thebulwark.com/p/neo-nazi-leader-accidentally-livestreams-masturbation-gooning-session",
+   "bullets": [
+    "Neo‑Nazi influencer Christopher Pohlhaus, known as “Hammer,” streamed a World of Warcraft session on Kick that unintentionally continued while he engaged in a two‑and‑a‑half hour cyber‑sex call with a woman using the screen name “Iron Maiden 14,” exposing the act to about fifteen viewers.",
+    "The incident, which occurred on the night of the midterm results on Tuesday, highlighted the hypocrisy of a white‑supremacist leader promoting “traditional values” while publicly masturbating, prompting horrified comments from viewers."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261109234131.3.5c94d56852a4de49@mg-d0.substack.com",
    "newsletter": "Bulwark Takes",
@@ -5721,161 +5894,15 @@
     "Glasser highlights a sharp decline in Trump’s hardcore base and suggests Democrats could achieve a historic midterm win."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261010194311.3.ba21874abef0629a@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Trump’s Putin Deal Is a Disgraceful Act of Betrayal",
-   "date": "2026-10-10T12:43-07:00",
-   "url": null,
-   "bullets": [
-    "Sam Stein and Catherine Rampell argue Trump’s decision to purchase Russian oil undermines his own Russia sanctions bill, potentially funding Putin’s war on Ukraine.",
-    "They claim the deal’s loopholes won’t meaningfully lower U.S. fuel prices and could damage U.S.-Ukraine relations as Trump urges Ukraine to halt attacks on Russian refineries."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261010170342.3.127dfd506572b73f@mg-d0.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine – Revealed: Israel Killed Over 1,480 Palestinians Since ‘Ceasefire’ One Year Ago",
-   "date": "2026-10-10T10:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-revealed-israel",
-   "bullets": [
-    "Israel has killed over 1,480 Palestinians in the past year since the so‑called ceasefire, including children, breastfeeding mothers, journalists, and striking funeral processions, while blocking aid and reconstruction materials.",
-    "The ceasefire has been repeatedly violated, with new forced displacement orders issued this week, Israeli forces attacking olive harvesters in the West Bank, and the national security minister posting a disturbing video.",
-    "Pope Francis has publicly mourned an Israeli attack on a Christian community in Gaza, highlighting the broader humanitarian crisis."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261010163106.3.df87e4fff6d7ff8e@mg2.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "The ‘Clandestine Detention Center’ in the Miami Suburbs",
-   "date": "2026-10-10T09:31-07:00",
-   "url": null,
-   "bullets": [
-    "The office is severely understaffed, lacks emergency medical capacity, and staff allegedly refuse to service toilets, prompting criticism from immigrant‑rights advocates"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261010130334.3.abf20a72c2231a2b@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Expert Pollster on the ‘Deeper’ Dynamic That Could Bring Down Trump and MAGA",
-   "date": "2026-10-10T06:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/expert-pollster-on-the-deeper-dynamic",
-   "bullets": [
-    "Veteran pollster Cornell Belcher argues Democrats can win the House and Senate by tapping a deeper American identity crisis, citing 2006 blue wave parallels and GOP culture‑war tactics.",
-    "He warns that Trump’s administration may undermine fair elections, citing concerns over voting rights and potential erosion of democratic norms.",
-    "The 39‑minute live interview examines polling limits, midterm stakes, and implications for the 2028 presidential field, with a 1‑minute preview for free subscribers."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261010130335.3.10f364d26516c18e@mg-d1.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“When you’re at rock bottom, the only way to go is up”",
-   "date": "2026-10-10T06:03-07:00",
-   "url": "https://post.substack.com/p/when-youre-at-rock-bottom-the-only",
-   "bullets": [
-    "Megan Nolan, an O‑1 visa writer, chronicles her oscillation between wealth and poverty, detailing how a $1,500 dinner, unpaid subway fares, and a lack of alternative work leave her financially vulnerable and emotionally ashamed when borrowing from her boyfriend.",
-    "The viral “Issey Miyake Kindergarten” story reveals that Brooklyn Montessori teachers wear Yamasaki Takashi pleated uniforms costing $120–$150 each, not the $800 Issey Miyake line, sparking cultural buzz about designer fashion intersecting with parenting and education."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261010123709.3.4a6f3db9e9fdb81e@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Republicans Thought Florida Was Safe. Then Everything Changed (with Kimberly Leonard)",
-   "date": "2026-10-10T05:37-07:00",
-   "url": null,
-   "bullets": [
-    "Republicans in Florida face a potential shift in 2026 as a data‑center‑focused candidate and a 'Joe Biden Basement' campaign threaten their long‑standing dominance.",
-    "The Democratic ticket, featuring former Republican Congressman David Jolly and DSA‑aligned state legislator Angie Nixon, may turn Florida into a swing state, sparking debate on its electoral future."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261010123419.3.ce5ddcf53c9b7a87@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Trump Is Trying to Buy Votes. It Won't Work..",
-   "date": "2026-10-10T05:34-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/trump-is-trying-to-buy-votes-it-wont",
-   "bullets": [
-    "Trump promises $5,000 dividend checks to every adult if Republicans win the midterms, but his popularity is declining and his rhetoric is hurting Republican candidates’ prospects.",
-    "The administration is already sending $90 checks to 20 million Medicare Part B enrollees and $500 refunds to 950,000 Obamacare‑exchange buyers, a potentially illegal but novel vote‑buying tactic."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261010120256.3.a9f86566ebd22eea@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "My head talks at the ECB",
-   "date": "2026-10-10T05:02-07:00",
-   "url": "https://paulkrugman.substack.com/p/my-head-talks-at-the-ecb",
-   "bullets": [
-    "Krugman argues the ECB's aggressive rate hikes are too late, warning that lingering inflation could force even steeper cuts later, harming growth.",
-    "He blames the ECB's focus on price stability for neglecting fiscal support, suggesting coordinated fiscal stimulus would better curb stagflation.",
-    "Krugman predicts that if the ECB continues on its current path, eurozone debt burdens will rise sharply, risking a sovereign debt crisis."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261010114713.3.e9c3627bf916f989@mg-d0.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Guilfoyle’s Grift, Trump’s Pepto Problem, and Hegseth’s Gross Execution Spectacle",
-   "date": "2026-10-10T04:47-07:00",
-   "url": null,
-   "bullets": [
-    "Sam Stein’s interview reveals a Cincinnati man at the center of the Kimberly Guilfoyle scandal allegedly running a $2 million fraud scheme tied to her campaign fundraising.",
-    "Sarah Longwell reports that Trump’s taxpayer‑funded political ads are backfiring, with polling showing a measurable increase in voter disgust toward the former president.",
-    "Catherine Rampell argues Trump transformed a public‑savings proposal into a policy that primarily benefits billionaires, while Cathy Young notes a Russian dissident was deported back to Putin’s regime, and Sam Stein and Mark Hertling critique Hegseth’s planned public execution as a grotesque spectacle."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261010103134.3.8221ff7c50763e62@mg-d0.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "Granite Strong",
-   "date": "2026-10-10T03:31-07:00",
-   "url": "https://chrispappasnh.substack.com/p/my-story",
-   "bullets": [
-    "Chris Pappas, a Democrat and former congressman, is running for U.S. Senate in New Hampshire, arguing that the economy is rigged for the wealthy and that Republican opponent John Sununu leads polls after $60 million GOP spending",
-    "He highlights his family’s 109‑year‑old restaurant roots, LGBTQ+ identity, bipartisan record, and past victories on issues like marriage equality and defeating a GOP agenda",
-    "Pappas urges donors to contribute as the campaign has 24 days left and needs funds to counter the GOP’s multi‑million‑dollar ad blitz"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261010003046.3.bcde023ce9b6a7cd@mg2.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Lauren Boebert Is in MAJOR Trouble (Derek Thompson & Adam Carlson)",
-   "date": "2026-10-09T17:30-07:00",
-   "url": "https://open.substack.com/pub/derekthompson/p/the-state-of-ai-in-2026in-26-charts",
-   "bullets": [
-    "Derek Thompson argues AI is driving up costs, citing 26 key facts that show its economic impact while noting developers fear its danger yet push rapid deployment.",
-    "Adam Carlson examines why Republican polling underestimates support, suggesting voters recognize Trump’s war and tariff policies as price‑inflating, yet polls still miss Republican gains."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 96,
-  "total": 428
+  "shown": 93,
+  "total": 430
  },
  "brief_status": {
-  "tried": "2026-11-09T16:29-08:00",
-  "ok": true
+  "tried": "2026-11-10T12:55-08:00",
+  "ok": false,
+  "note": "provider error"
  }
 }
