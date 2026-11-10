@@ -1,35 +1,17 @@
 {
- "updated": "2026-11-09T15:29-08:00",
+ "updated": "2026-11-09T16:29-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms produced a historic Democratic wave that flipped the Senate, House and most governorships, cementing a new liberal agenda and prompting Democrats to push aggressive redistricting and electoral‑college reform (The Bulwark, Dan Pfeiffer/The Message Box, Paul Krugman).",
-   "Republican insiders warn that Stephen Miller’s elevation to chief of staff makes him the de‑facto power broker of a lame‑duck Trump administration, deepening authoritarian impulses within the GOP (Bulwark Takes, This Week in Democracy, Zeteo).",
-   "Analysts flag a looming AI‑investment bubble as hyperscaler stocks tumble and AI‑bond insurance costs soar, warning that a burst could trigger a deep recession (Paul Krugman).",
-   "A tragic Gaza tent fire that killed two infants underscores the worsening humanitarian crisis as UN warnings warn winter will amplify suffering, while Israeli settlement expansion continues (Zeteo).",
-   "Measles outbreaks in Amish and Plain Anabaptist communities have produced the first child deaths in over 30 years, highlighting the fragility of herd immunity in isolated populations (Your Local Epidemiologist).",
-   "Progressive voices are calling for the ouster of Senate leader Chuck Schumer and House leader Hakeem Jeffries, arguing the Democratic establishment is enabling fascist policies and should back bold candidates like Angie Nixon (Mehdi Unfiltered)."
+   "The 2026 midterms produced a historic Democratic wave, giving the party control of Congress, most governorships and historic firsts, while exposing deep fractures in the GOP and Trump’s waning grip (The Bulwark, Zeteo, Paul Krugman).",
+   "Trump’s post‑midterm interview and press antics sparked a MAGA backlash, fueling internal fights and prompting analysts to warn that Stephen Miller may become the de‑facto power holder in a lame‑duck White House (The Bulwark, This Week in Democracy).",
+   "Democrats are already leveraging their new mandate to push an aggressive agenda: ending the Iran war, reviving affordability policies, and restarting redistricting efforts, despite internal debates over priorities (The Bulwark, Zeteo).",
+   "Latino and Black voter backlash against Trump’s ICE and anti‑immigrant rhetoric helped flip key states like Ohio and contributed to the “Blue Tsunami,” suggesting a lasting realignment (Paul Krugman, The Bulwark).",
+   "Economic anxieties dominate the public mood, with voters citing gas, groceries and healthcare costs, while the AI investment bubble shows signs of strain, warning of a potential recession (Zeteo, Paul Krugman)."
   ],
   "by": "groq",
   "ids": [
-   "20261105205618.3.95c3f12624f316b8@mg-d1.substack.com",
-   "20261105230115.3.c9c1cc1948a833ed@mg-d1.substack.com",
-   "20261105230930.3.63e44a7a431a83a6@mg2.substack.com",
-   "20261106012856.3.82e276be6e5ec639@mg-d0.substack.com",
-   "20261106033040.3.1ab8ed45149b71de@mg2.substack.com",
-   "20261106113047.3.35dddda942298405@mg2.substack.com",
-   "20261106113110.3.3d9c6f372cc9fb00@mg2.substack.com",
-   "20261106113609.3.071b2b022d41bbb6@mg2.substack.com",
-   "20261106121343.3.bed79571ba331109@mg-d0.substack.com",
-   "20261106133154.3.6fc4bc08fdc1e666@mg-d0.substack.com",
-   "20261106142228.3.829742b956496940@mg2.substack.com",
-   "20261106153415.3.2d2e3bb221cad342@mg-d1.substack.com",
-   "20261106171324.3.908d92c45e1bf9c0@mg-d0.substack.com",
-   "20261106200150.3.7d7e10386bbb931d@mg2.substack.com",
-   "20261106204649.3.e42cbe786a6d3299@mg-d1.substack.com",
-   "20261106220144.3.247c24a7f3f6d84f@mg-d0.substack.com",
-   "20261106221426.3.5a11b1679e8bfb2a@mg-d1.substack.com",
    "20261107020100.3.ee1b0ca5aa92037c@mg-d0.substack.com",
    "20261107100227.3.d074031766555833@mg-d1.substack.com",
    "20261107113058.3.57574ac9d2f790b9@mg-d1.substack.com",
@@ -47,12 +29,39 @@
    "20261108120316.3.87632279d73a2336@mg-d1.substack.com",
    "20261108122039.3.436627daf90a8704@mg-d0.substack.com",
    "20261108140335.3.2986964183d1b937@mg-d1.substack.com",
-   "20261108174053.3.06e0cfd2e78a0e98@mg-d0.substack.com"
+   "20261108174053.3.06e0cfd2e78a0e98@mg-d0.substack.com",
+   "20261108210550.3.e5b1caa367ca7c08@mg-d1.substack.com",
+   "20261108223045.3.13ca850cca9f4d50@mg-d0.substack.com",
+   "20261108230152.3.3dfdc8d4479ba4d1@mg-d0.substack.com",
+   "20261109000148.3.e2b7b97d8eeaf366@mg-d1.substack.com",
+   "20261109024534.3.0934c37d0ad4ad80@mg-d0.substack.com",
+   "20261109112437.3.c489b4024d0410be@mg2.substack.com",
+   "20261109121623.3.6441a38656ea18d8@mg-d0.substack.com",
+   "20261109143245.3.116df833db1c80be@mg2.substack.com",
+   "20261109170141.3.a2ff9d10cd4de42a@mg-d0.substack.com",
+   "20261109173014.3.d6f5887a898c64ff@mg-d0.substack.com",
+   "20261109193632.3.cfe9e450bf60040a@mg2.substack.com",
+   "20261109221035.3.5c067054bef18166@mg2.substack.com",
+   "20261109234131.3.5c94d56852a4de49@mg-d0.substack.com"
   ],
-  "updated": "2026-11-08T10:54-08:00",
+  "updated": "2026-11-09T16:29-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261109234131.3.5c94d56852a4de49@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "BREAKING: Trump Hosts Ridiculous Press Conference with UFC CEO Dana White",
+   "date": "2026-11-09T15:41-08:00",
+   "url": "https://www.thebulwark.com/p/trump-hosts-ridiculous-press-conference",
+   "bullets": [
+    "Trump held an impromptu press conference where he evaded questions about a Chinese spy allegedly linked to Nvidia CEO Jensen Huang and rejected any softening of his immigration crackdown.",
+    "When pressed about Putin and commentator Pete Hegseth, Trump lashed out at reporters, displaying increasing hostility toward the press.",
+    "Trump attempted to recruit UFC CEO Dana White as his press secretary, but White rebuffed the offer, highlighting the awkwardness of the exchange."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261109221035.3.5c067054bef18166@mg2.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -73,7 +82,7 @@
    "pub": "thebulwark",
    "subject": "Trump’s Interview Sends MAGA Into a Full-Blown Meltdown | MAGA Mondays",
    "date": "2026-11-09T11:36-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/trumps-interview-sends-maga-into-368",
    "bullets": [
     "Will Sommer and Sam Stein report that Trump's post‑midterm interview, in which he floated an immigration deal with Democrats and claimed the elections were stolen, has sparked outrage among hard‑liners like Megyn Kelly and The Blaze, exposing fissures in the MAGA coalition.",
     "The piece also highlights scrutiny of Laura Loomer's paid political posts, Russell Brand's prison sentence raising doubts about MAGA's tolerance of alleged predators, and escalating infighting over corruption allegations within Trump's White House."
@@ -86,7 +95,7 @@
    "pub": "thebulwark",
    "subject": "Defund WAR!",
    "date": "2026-11-09T09:30-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/defund-war-trump-iran-hegseth-congress-midterms",
    "bullets": [
     "The author urges Democrats, who now hold a historic mandate, to act immediately in Congress to end the Iran war, arguing it would curb inflation and price pressures.",
     "He claims Democrats can force President Trump’s hand by using three legislative tools to compel a cease‑fire, without needing to sway public opinion, since Americans already oppose the conflict."
@@ -101,10 +110,11 @@
    "date": "2026-11-09T09:01-08:00",
    "url": "https://open.substack.com/pub/zeteo/p/palestinian-suffering-was-never-guiding",
    "bullets": [
-    "We all know the Biden administration failed in its handling of the genocide in Gaza, but very few know the full extent of that failure. Author and Washington Sun correspondent Akbar Shahid Ahmed captures it all in his latest book, ‘Crossing…",
-    "“A lot of hardline Democrats want to move past this, pretend Gaza was a blip,” Ahmed tells Mehdi. The DC insider spoke to more than 150 officials for the book, creating a record of just how incapable the Biden administration was of opposing…"
+    "Akbar Shahid Ahmed’s new book, based on interviews with over 150 officials, argues Biden knew of Palestinian and Lebanese suffering during the Gaza war but let it not shape U.S. policy.",
+    "According to Ahmed, senior staff like Middle East coordinator Brett McGurk and National Security Advisor Jake Sullivan dismissed reports of Gaza starvation, claiming Palestinians ‘don’t look skinny in the photographs.’",
+    "The book also reveals a Biden aide who halted criticism of Russia solely to maintain U.S. support for Israel, a detail Ahmed describes as ‘insane.’"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261109143245.3.116df833db1c80be@mg2.substack.com",
@@ -112,7 +122,7 @@
    "pub": "thebulwark",
    "subject": "It’s Not a Pivot. It’s a Performance.",
    "date": "2026-11-09T06:32-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/its-not-a-pivot-its-a-performance-trump-douthat-interview-immigration-miller-corruption-enemies-hate-colom-mississippi",
    "bullets": [
     "Trump promoted Stephen Miller to chief of staff and hinted at a softer immigration stance to appease business interests, but dismissed any genuine empathy for migrants and doubted Democrats would drop investigations into his corruption.",
     "In the 60 Minutes interview, Trump insisted he will never forgive his political enemies, reinforcing his unchanged hard‑line persona despite recent electoral setbacks.",
@@ -154,7 +164,7 @@
    "pub": "thebulwark",
    "subject": "Todd Blanche’s CNN Interview Could Come Back to Bite Him",
    "date": "2026-11-08T18:45-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/todd-blanches-cnn-interview-could",
    "bullets": [
     "Todd Blanche appeared on CNN defending Trump’s threats to imprison Democrats, denying allegations against Susie Wiles, and pledging to shield Stephen Miller from congressional probes.",
     "Will Saletan and Catherine Rampell argue that Blanche’s attempts to preempt investigations actually furnish Democrats with additional grounds to launch inquiries into his actions."
@@ -167,7 +177,7 @@
    "pub": "thebulwark",
    "subject": "Dems Won Big. Naturally, They’re Fighting About It.",
    "date": "2026-11-08T16:01-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/democrats-won-big-midterms-naturally-theyre-fighting-about-it-factions-intraparty",
    "bullets": [
     "Democrats won big in the midterms, with candidates like Roy Cooper (won by 20 points), Abdul El‑Sayed, Jamie Ager, Randy Villegas, James Talarico and Annie Andrews securing victories by blending economic populism and cultural moderation.",
     "Despite the wins, party operatives quickly resumed factional fights over issues such as Israel, Medicare for All, and campaign strategy, a pattern the author says reflects entrenched, dopamine‑driven infighting.",
@@ -195,7 +205,7 @@
    "pub": "thebulwark",
    "subject": "Republicans Have a Choice to Make After Trump’s Crushing Defeat (w/ Mike Murphy) | Bulwark on Sunday",
    "date": "2026-11-08T14:30-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/republicans-have-a-choice-to-make",
    "bullets": [
     "Bill Kristol and Mike Murphy argue that Trump’s midterm loss could push Republicans toward a post‑Trump realignment, citing internal chaos like Stephen Miller’s growing influence and Pete Hegseth’s precarious position.",
     "They warn of a potential Nixon‑style collapse of the party’s leadership, suggesting the GOP must confront its dependence on Trump to avoid further electoral damage.",
@@ -209,7 +219,7 @@
    "pub": "thebulwark",
    "subject": "Reminder: 20% OFF Bulwark+ Ends Tonight",
    "date": "2026-11-08T13:05-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/reminder-20-off-bulwark-ends-tonight",
    "bullets": [
     "The Bulwark offers a 20% flash sale on Bulwark+ subscriptions, ending tonight at midnight.",
     "The newsletter frames the midterm Democratic win as the start of a longer fight against MAGA and Trumpism, urging readers to join their mission.",
@@ -223,7 +233,7 @@
    "pub": "thebulwark",
    "subject": "Picking the Biggest 2026 GOP Loser Is Harder Than You Think",
    "date": "2026-11-08T09:40-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/picking-the-biggest-2026-gop-loser",
    "bullets": [
     "Tim Miller and Sam Stein create a fantasy draft ranking the biggest Republican failures of 2026, highlighting defeats of figures like Vivek Ramaswamy and Ken Paxton.",
     "The Bulwark promotes a 20% flash sale on its subscription service, emphasizing its commitment to liberal reporting and accountability while offering the draft as entertaining analysis."
@@ -250,7 +260,7 @@
    "pub": "thebulwark",
    "subject": "We Convened a Group of Committed GOP Voters to See How They’re Coping",
    "date": "2026-11-08T04:20-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/republican-voters-focus-group-coping-with-midterm-defeat",
    "bullets": [
     "A focus group of voters who supported Trump in 2020, 2024 and most 2024 midterms blamed the Republican establishment, not Trump, for the party’s defeat.",
     "Participants said GOP leaders failed to communicate policy successes and alienated the base, citing a lack of clear messaging and internal infighting.",
@@ -292,7 +302,7 @@
    "pub": "thebulwark",
    "subject": "Stephen Miller May Now Be the De Facto President",
    "date": "2026-11-07T17:30-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/stephen-miller-may-now-be-the-de",
    "bullets": [
     "Bill Kristol and former Trump aide Sarah Matthews argue that after the GOP’s midterm loss, Trump may elevate Stephen Miller to run the White House, effectively making him the de facto president.",
     "They warn Miller’s appointment would shift internal power dynamics, concentrating policy control in his hands and marginalizing traditional officials like Pete Hegseth, whose loyalty may not protect his job as the Iran conflict continues."
@@ -305,7 +315,7 @@
    "pub": "thebulwark",
    "subject": "Michael Steele: A Total and Complete Schlonging",
    "date": "2026-11-07T14:33-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/michael-steele-a-total-and-complete",
    "bullets": [
     "The MAGA coalition is fracturing as Fox News reels and Trump faces rejection from large swaths of the electorate, prompting Republicans who supported the ten‑year party hijack to seek redemption.",
     "Steele praises recent DEI gains, noting a diverse slate of statewide winners and Texas’s dominance for GOP, while suggesting a national popular‑vote election is becoming more feasible.",
@@ -319,7 +329,7 @@
    "pub": "thebulwark",
    "subject": "Trump’s ICE Backlash and Ohio’s Victory Dance",
    "date": "2026-11-07T12:00-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/trumps-ice-backlash-and-ohios-victory",
    "bullets": [
     "Adrian Carrasquillo argues that anger over Trump’s ICE policies shifted Latino voters toward Democrats, helping secure Ohio’s Democratic victory party.",
     "Brendan Hartnett uses a ‘Cheesecake Factory’ metric to identify which House districts flipped Democratic, highlighting the narrow margins that decided the race.",
@@ -347,7 +357,7 @@
    "pub": "thebulwark",
    "subject": "Dems Have Their Finger on the Impeachment Trigger",
    "date": "2026-11-07T09:02-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/democrats-have-their-finger-on-the-impeachment-trigger-ice-dhs-investigations-consequences",
    "bullets": [
     "Rep. Robert Garcia, incoming House Oversight chair, is pushing Democrats to use the new majority to investigate Trump-era ICE and DHS abuses, citing voter anger and Latino backlash as key motivators.",
     "Democratic leaders like Rep. Delia Ramirez and Sen. Ruben Gallego plan to build legal cases against ICE/DHS officials—especially Noem, Lewandowski, and former ICE director Todd Lyons—by documenting contract kickbacks, budget reallocation, and deadly inaction.",
@@ -361,7 +371,7 @@
    "pub": "thebulwark",
    "subject": "Nate Silver: Trump’s Collapse May Be Irreversible",
    "date": "2026-11-07T06:23-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/nate-silver-trumps-collapse-may-be",
    "bullets": [
     "Tuesday night’s election results delivered the largest margin defeat for Donald Trump and MAGA to date, prompting questions about how much of the electorate remains contestable.",
     "Nate Silver argues the scale of the loss signals a potentially irreversible collapse for Trump, with repercussions that could shape political dynamics well beyond the 2026 cycle."
@@ -413,7 +423,7 @@
    "pub": "thebulwark",
    "subject": "Dems Aren’t Backing Off Their Own Redistricting Push",
    "date": "2026-11-07T04:03-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/democrat-not-backing-off-their-own-redistricting-push-after-2026-midterms",
    "bullets": [
     "Democrats, fresh from sweeping midterm wins that gave them the House, Senate, governorships and most state legislatures, are already planning to resume mid‑decade redistricting efforts they paused last year.",
     "Party officials told The Bulwark the redistricting drive is both an offensive tactic to capture additional House seats and a defensive hedge against GOP redistricting moves in Republican‑run states.",
@@ -481,7 +491,7 @@
    "pub": "thebulwark",
    "subject": "The All-Encompassing Terror of ‘Godzilla Minus Zero’",
    "date": "2026-11-06T14:01-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/the-all-encompassing-terror-of-godzilla-minus-zero-review",
    "bullets": [
     "Godzilla Minus Zero hits IMAX this weekend with an overwhelming soundscape and graphic civilian casualties, earning an R‑rating for its vivid nuclear‑war imagery and anti‑heroic themes rooted in Japan’s wartime trauma.",
     "The film continues the post‑Godzilla narrative two years later, focusing on emergency leader Mr. Noda, ex‑kamikaze pilot Kōichi Shikishima, and their families as they confront the even louder, four‑headed Ghidorah.",
@@ -495,7 +505,7 @@
    "pub": "thebulwark",
    "subject": "The Day After Deliverance",
    "date": "2026-11-06T12:46-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/the-day-after-deliverance",
    "bullets": [
     "The Secret Podcast episode features Sarah and JVL reacting to recent political events, debating Democratic Congress actions, Trump‑related questions, and a satirical segment on Susan Collins, promoted with a 20% flash sale for Bulwark+ members."
    ],
@@ -521,7 +531,7 @@
    "pub": "thebulwark",
    "subject": "Trumpfall",
    "date": "2026-11-06T09:13-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/trumpfall-did-we-finally-break-trump",
    "bullets": [
     "The author claims Trump’s physical decline—obesity, fatigue, and health issues—has finally broken his once‑strong will to dominate after the election.",
     "He argues that the post‑election accountability fight is now urgent, urging readers to join Bulwark+ with a 20% discount to support the effort."
@@ -534,7 +544,7 @@
    "pub": "thebulwark",
    "subject": "The Trio: Laura Loomer Is Not Taking This Election Well",
    "date": "2026-11-06T07:34-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/the-trio-meet-the-most-revolting",
    "bullets": [
     "Tim Miller, Sam Stein, and Will Sommer dissect the 2024 midterm, mocking JD Vance’s manosphere backlash, Tim Pool’s election breakdown, and MAGA defeats like Brandon Herrera’s loss, celebrating the GOP’s failures",
     "Laura Loomer and Benny Johnson debate the results while Will Sommer introduces a prominent right‑wing streamer, highlighting his shocking living conditions, and notes Russell Brand’s rape conviction after a Trump‑era appearance"
@@ -547,7 +557,7 @@
    "pub": "thebulwark",
    "subject": "Trump Got One Thing Right: We’re Not Tired of Winning",
    "date": "2026-11-06T06:22-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/trump-got-one-thing-right-were-not-tired-winning-midterms-senate-house-blue-wave-tsunami-republicans-trans-vibe-shift",
    "bullets": [
     "The 2024 midterms left the U.S. with 56 Democratic senators, ~260 Democratic House members, and Democratic governors in 13 of the 14 largest states, giving Democrats 60% of House seats and 70% of governorships.",
     "Trump’s first post‑election act was an executive order designating the Oval Office a “national landmark,” a symbolic move that Kristol mocks as meaningless and uses to extend a celebratory weekend for Democrats.",
@@ -603,7 +613,7 @@
    "pub": "thebulwark",
    "subject": "Dems Put Up Saddam Numbers in Cheesecake Factory Districts",
    "date": "2026-11-06T03:31-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/democrats-midterms-put-up-saddam-hussein-numbers-in-cheesecake-factory-congressional-house-districts",
    "bullets": [
     "Obama’s joke likening Trump’s White House décor to “Saddam Hussein opened a Cheesecake Factory” sparked Republican outrage, framed as elitist snobbery against a symbol of middle‑class prosperity.",
     "Despite the controversy, Democrats won 108 of the 175 congressional districts that contain a Cheesecake Factory, and under the 2026 map those restaurants sit in 171 districts, still favoring Democrats."
@@ -630,7 +640,7 @@
    "pub": "thebulwark",
    "subject": "Trump’s Supreme Court Plans Just Hit a Massive Roadblock",
    "date": "2026-11-05T19:30-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/trumps-supreme-court-plans-just-hit",
    "bullets": [
     "Longwell and Weissmann argue that the recent judicial defeats of Trump’s election interference limit his ability to shape the Supreme Court, forcing a shift to congressional accountability measures.",
     "They outline how Congress can use its new investigative powers and potential legislation to impose stronger guardrails on executive misconduct.",
@@ -644,7 +654,7 @@
    "pub": "thebulwark",
    "subject": "Revenge of the (Democratic Budget) Nerds",
    "date": "2026-11-05T17:28-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/revenge-of-the-democratic-budget-nerds-russell-vought-omb",
    "bullets": [
     "Democratic leaders plan to restore Congress’s budgetary authority by targeting OMB Director Russell Vought, whom Rep. Brendan Boyle calls the “most dangerous man in America.”",
     "Vought, a former Trump‑era official, is credited with enabling authoritarian budget moves and is described by Georgetown professor David A. Super as “evil” despite his competence.",
@@ -672,7 +682,7 @@
    "pub": "thebulwark",
    "subject": "JD Vance Attacked His Faith. Now He’s Headed to the Senate. (w/ Adam Hamilton & Rob Flaherty)",
    "date": "2026-11-05T15:01-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/adam-hamilton-knock-holes-in-the",
    "bullets": [
     "Methodist pastor Adam Hamilton, upset by ICE policies, healthcare cuts and perceived Christian hypocrisy in D.C., defeated incumbent Roger Marshall in Kansas and is now senator‑elect.",
     "Tim Miller’s show features Hamilton and former Kamala campaign staffer Rob Flaherty discussing the rise of midterm stars, Democratic messaging challenges, big GOP wins in GA, NC and PA, and the new Congress’s AI policy worries.",
@@ -686,7 +696,7 @@
    "pub": "thebulwark",
    "subject": "My Bar Crawl Through the MAGA Meltdown",
    "date": "2026-11-05T12:56-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/my-bar-crawl-through-the-maga-meltdown",
    "bullets": [
     "Joe Perticone recounts being denied a reservation at Butterworth’s, a Capitol Hill bar popular with MAGA supporters, after security tightened for Election Night.",
     "He planned to use the venue as a brief stop while covering chaotic watch parties, illustrating the clash of celebratory excess and political despair on election night."
@@ -699,7 +709,7 @@
    "pub": "thebulwark",
    "subject": "The Conspiracy to Push Donald Trump Aside",
    "date": "2026-11-05T09:30-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/jd-vance-replace-donald-trump-conspiracy",
    "bullets": [
     "JD Vance launched his 2028 campaign by blaming Trump’s Iran policy, inflation, and close ties to Israel, urging Trump to surrender on Iran, cut ties with Israel, and drop tariffs to avoid Republican defeat.",
     "Vance’s post suggests a coordinated effort with two other unnamed figures to push Trump out of the GOP race, though it’s unclear if Trump himself was involved in the strategy."
@@ -726,7 +736,7 @@
    "pub": "thebulwark",
    "subject": "The Right’s Election Meltdown Is Just Getting Started",
    "date": "2026-11-05T08:01-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/right-wing-media-2026-midterm-election-meltdown-is-just-getting-started",
    "bullets": [
     "Conservative influencers like Benny Johnson rode a brief high from a 1,020‑vote GOP win in Guam, then pivoted to despair as Democrats secured a massive House sweep and at least 54 Senate seats.",
     "Midterm losses sparked infighting: Dave Smith clashed with Jack Posobiec on Piers Morgan, Matt Walsh advocated a nuclear‑armed Iran to block a ‘Communist’ win, and Liz Wheeler blamed the Justice Department’s inaction for GOP defeat.",
@@ -752,7 +762,7 @@
    "pub": "thebulwark",
    "subject": "Here’s What Happens When Trump’s Star Implodes",
    "date": "2026-11-05T06:30-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/heres-what-happens-when-trumps-star-implodes-gop-vance-iran-midterms-canada",
    "bullets": [
     "The midterm election saw a dramatic blue wave, highlighted by Democrat Zach Dembo’s 9‑point win in Kentucky’s 6th District, signaling a massive shift toward Democrats nationwide.",
     "Vice President J.D. Vance publicly blamed the GOP’s loss on the Iran war and called for a pivot to cost‑of‑living issues, Israel policy changes, and ending the war—an unprecedented critique from a Trump ally.",
@@ -807,7 +817,7 @@
    "pub": "thebulwark",
    "subject": "Trump’s Crushing Defeat Just Changed How the World Sees America",
    "date": "2026-11-05T03:03-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/trumps-crushing-defeat-just-changed",
    "bullets": [
     "Former CIA officer Marc Polymeropoulos and journalist Michael Weiss argue that Trump’s midterm losses have prompted allies to celebrate, seeing a shift away from his destabilizing foreign policy.",
     "They warn the results empower Ukraine against Russia, constrain Iran’s aggression, and expose Netanyahu’s gamble on MAGA as costly for Israel.",
@@ -821,7 +831,7 @@
    "pub": "thebulwark",
    "subject": "Will Sommer & Sam Stein: MAGA is Losing Their Effing Minds",
    "date": "2026-11-04T18:30-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/maga-is-losing-their-effing-minds",
    "bullets": [
     "Donald Trump ignored the midterm defeat, instead touring a White House ballroom construction site to admire chandeliers, kitchen layouts and a steel beam, prioritizing a vanity project over political fallout.",
     "Republican leaders such as Laura Loomer, Marjorie Taylor Greene, Mark Levin, and Nancy Mace engaged in a heated blame game, trading insults and pointing fingers at each other for the losses, while Trump remained absent from the scene."
@@ -847,7 +857,7 @@
    "pub": "thebulwark",
    "subject": "Sh*t Just Got a Lot Easier for the Democratic Party Project",
    "date": "2026-11-04T17:03-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/midterms-2026-democratic-party-project-maps-candidates",
    "bullets": [
     "Trump’s 2016 win shattered Democratic confidence, leading to a defensive posture that treated large swaths of the country as unwinnable; recent 2024 results challenge that narrative.",
     "In 2024, Democrats won key Senate races—Cooper (NC), Talarico (TX), Andrews (SC), Hamilton (KS), Brown (OH), Turek (IA)—and flipped governorships in Georgia, Iowa, Texas, Ohio, and Nevada, plus major state‑legislature gains."
@@ -873,7 +883,7 @@
    "pub": "thebulwark",
    "subject": "‘Latino Fury’: How Anti-ICE Fervor Helped Democrats Take Back Congress",
    "date": "2026-11-04T14:05-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/latino-fury-how-anti-ice-fervor-helped-democrats-midterms-blue-wave-immigration-economy",
    "bullets": [
     "Latino voters swung decisively toward Democrats in 2024, driven by anti‑ICE sentiment and economic concerns, with Latino turnout in Texas’s Rio Grande Valley surpassing 2024 levels and a 70‑point swing for Democrat James Talarico in 97‑percent Latino Starr County.",
     "Talarico’s campaign spent over $16 million on TV ads, including $5 million on primary TV and $10 million in the fall, using stark language about ICE as a “secret police force” and highlighting the kidnapping of children to galvanize Latino voters.",
@@ -915,7 +925,7 @@
    "pub": "thebulwark",
    "subject": "It Happened!",
    "date": "2026-11-04T11:13-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/it-happened",
    "bullets": [
     "The 2024 election delivered a historic rejection of Trump and MAGA, with Democrats winning key races and former Trump voters shifting away from the GOP, according to Tim Miller, Sarah Longwell, and JVL.",
     "JD Vance is attempting a notable break from Trump, distancing himself from the former president’s Iran war stance, while analysts discuss potential Republican civil war and implications for the Supreme Court and 2028 balance of power.",
@@ -929,7 +939,7 @@
    "pub": "thebulwark",
    "subject": "This is our moment. Let’s seize it.",
    "date": "2026-11-04T09:37-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/this-is-our-moment-lets-seize-it",
    "bullets": [
     "The 2024 midterms delivered a decisive rebuke of Donald Trump, with a clear blue wave that the author credits to organized voter mobilization and coalition building.",
     "The Bulwark plans to capitalize on this momentum by intensifying investigative reporting, expanding analysis, and encouraging community engagement to sustain democratic gains over the next 24 months.",
@@ -970,7 +980,7 @@
    "pub": "thebulwark",
    "subject": "Too Big to Rig",
    "date": "2026-11-04T06:22-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/too-big-to-rig-midterms-democrats-house-senate-trump-maga",
    "bullets": [
     "The 2026 election produced a Democratic landslide—up to a 14‑point popular‑vote margin, roughly 45 House seats and 7‑9 Senate seats gained, plus majorities in most governorships—making the wave “too big to rig.”",
     "Andrew Egger argues Trump’s post‑2020 election‑fraud scheme is now dead, as the Democratic sweep eliminates the institutional support he would need to attempt another steal in 2028.",
@@ -1067,7 +1077,7 @@
    "pub": "thebulwark",
    "subject": "Emergency Triad: MAGA Drowns Under a Blue Wave",
    "date": "2026-11-03T21:29-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/emergency-triad-maga-drowns-under-blue-wave-democrats-2026-midterm-elections-tsunami",
    "bullets": [
     "Democrats are on track to control 55‑56 Senate seats and a solid House majority, giving the new speaker leeway and opening the door to possible impeachment votes against Trump‑aligned officials.",
     "The author urges aggressive legal preparation for anyone tied to Trump’s enterprises and stresses that Democrats must keep pressuring Republicans with votes on issues like the Iran war, Epstein files, and impeachment to prevent a post‑Trump GOP resurgence.",
@@ -1106,7 +1116,7 @@
    "pub": "thebulwark",
    "subject": "Tonight: We’re going live starting at 7 p.m. EST",
    "date": "2026-11-03T13:41-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/election-night-livestream-starts-at-7pm-est",
    "bullets": [
     "The Bulwark will stream live Election Night coverage with Tim Miller, Sarah Longwell, JVL and guests across Substack, YouTube, Facebook, and Twitch starting at 7 p.m. EST."
    ],
@@ -1132,7 +1142,7 @@
    "pub": "thebulwark",
    "subject": "AOC Quietly Lays the Groundwork",
    "date": "2026-11-03T12:37-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/aoc-quietly-lays-the-groundwork-virginia-presidential-campaign-2026-2028",
    "bullets": [
     "AOC’s late‑stage Virginia tour, boosting moderate Democrat Rep. Eugene Vindman, signals she’s building goodwill in the state that will vote sixth in the 2028 Democratic primary, positioning her for a possible presidential run.",
     "The event highlighted a rare alliance between AOC and centrist Governor Abigail Spanberger, whose 2025 gubernatorial campaign AOC is now fundraising for, underscoring a broader Democratic strategy to unite progressives and moderates in purple districts.",
@@ -1160,7 +1170,7 @@
    "pub": "thebulwark",
    "subject": "Brendan Boyle Has a Warning for Trump’s Project 2025 Mastermind",
    "date": "2026-11-03T09:36-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/brendan-boyle-has-a-warning-for-trumps",
    "bullets": [
     "Rep. Brendan Boyle outlines Democrats’ strategy to reverse Trump’s healthcare cuts, tariffs, and address economic fallout from the Iran war if they regain the House.",
     "Catherine Rampell and Sam Stein preview Election Day, noting Trump’s focus on the economy and how rising costs and voter frustration could influence turnout and results."
@@ -1200,7 +1210,7 @@
    "pub": "thebulwark",
    "subject": "The Alex Pretti Election",
    "date": "2026-11-03T06:28-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/the-alex-pretti-election-minneapolis-minnesota-trump-agenda-turning-point-ice-good-midterms-vivek-ramaswamy-acton-quarter-zip",
    "bullets": [
     "Andrew Egger argues Trump’s 2025 downfall began with Minneapolis, where federal ICE occupation, violent clashes, and the deaths of Renée Good and Alex Pretti sparked nationwide backlash that forced the White House to abandon blue‑city enforcement and weakened Trump’s unilateral state power.",
     "Egger links the Minneapolis resistance to a broader pattern of Trump’s state violence against Democratic protesters, noting that similar DHS killings (Lorenzo Salgado Araujo, Johan Sebastián Durán Guerrero) and lack of accountability further eroded public support.",
@@ -1296,7 +1306,7 @@
    "pub": "thebulwark",
    "subject": "Mike Madrid Predicts a Political Earthquake in Texas",
    "date": "2026-11-03T03:03-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/mike-madrid-predicts-a-political",
    "bullets": [
     "Mike Madrid, a 35‑year veteran on Latino voters, says turnout data shows unprecedented engagement that could destabilize Trump’s 2024 coalition and enable a Democratic upset in Texas.",
     "Conway argues that Trump’s gerrymandering plan may unintentionally give Democrats additional House seats, while a Republican sweep looks increasingly unlikely.",
@@ -1322,7 +1332,7 @@
    "pub": "thebulwark",
    "subject": "Bill Kristol Thinks Trump's GOP Is About to Get Wiped Out (Plus: JVL!)",
    "date": "2026-11-02T18:30-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/bill-kristol-and-jvl-trump-could",
    "bullets": [
     "Bill Kristol warns that the GOP’s alignment with Trump is on the brink of collapse as midterm dynamics shift, especially after the Iran war debate and Democratic poll leads.",
     "A Democratic senator described the administration’s Iran war plan as ‘insane,’ warning it could trigger a devastating escalation, adding pressure on the president’s Middle East strategy."
@@ -1348,7 +1358,7 @@
    "pub": "thebulwark",
    "subject": "MAGA Preps for the World to End—Literally",
    "date": "2026-11-02T16:15-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/maga-preps-doomer-prepper-for-the-world-to-end-literally",
    "bullets": [
     "Glenn Beck and other pro‑Trump media personalities are warning their audiences to “prepare for impact,” claiming an unnamed apocalyptic event—war, cyberattack or otherwise—is imminent despite no evidence.",
     "The apocalyptic narrative has been amplified by figures like former FBI deputy director Dan Bongino and even prompted a Republican congressman to publicly deny any imminent “shit hitting the fan,” while right‑wing prep guides flood online forums.",
@@ -1376,7 +1386,7 @@
    "pub": "thebulwark",
    "subject": "Final Senate Polls Are So Good, Sarah Can Barely Believe Them",
    "date": "2026-11-02T15:01-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/final-senate-polls-are-so-good-sarah",
    "bullets": [
     "Final Senate polls show Democrats ahead, but Sarah doubts their accuracy amid low early voting and fears a Republican turnout collapse.",
     "Rising gas prices could become Trump’s biggest electoral liability, according to the newsletter.",
@@ -1403,7 +1413,7 @@
    "pub": "thebulwark",
    "subject": "A Close-Up View of the Wildest 24 Hours of the El-Sayed Campaign",
    "date": "2026-11-02T12:00-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/a-close-up-view-of-the-wildest-24-hours-abdul-el-sayed-campaign-haley-stevens-mike-rogers-michigan-senate",
    "bullets": [
     "Abdul El‑Sayed’s Sunday press conference at a black church was derailed by Rep. Haley Stevens’ surprise endorsement of Republican Mike Rogers, sparking a media frenzy and a rift within the Michigan Democratic Party.",
     "El‑Sayed’s campaign raised $2.4 million in the hours after Stevens’ endorsement and an 11‑point lead in a New York Times/Siena poll, but his campaign is battling anti‑Arab and anti‑Muslim ads that tap into bigotry.",
@@ -1431,7 +1441,7 @@
    "pub": "thebulwark",
    "subject": "I Believe in the Kaiju Tsunami",
    "date": "2026-11-02T09:52-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/i-believe-in-the-kaiju-tsunami",
    "bullets": [
     "The author says the probabilistic model for Senate seats has shifted from a modal outcome of 52 Democratic seats a month ago to about 53‑54 seats today, with the wave gaining momentum.",
     "He argues the most likely result is now 53 or 54 Democratic senators, but hints he will place his money on a different outcome altogether."
@@ -1444,7 +1454,7 @@
    "pub": "thebulwark",
    "subject": "Blue Texas Is a Mirage—Until It Isn’t",
    "date": "2026-11-02T07:35-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/blue-texas-is-a-mirage-until-it-isnt-james-talarico-ken-paxton-senate-trump-vance-midterms",
    "bullets": [
     "At a Trump‑backed rally in Weatherford, over 1,000 mostly Republican voters heard speakers warn of “trans ideology” and attack Democrat James Talarico, illustrating GOP’s fear‑based strategy in Texas.",
     "Exit polls showed Trump captured about 55% of the Hispanic vote in 2024, but recent data indicate a sharp swing back to Democrats, with Latino voters now favoring Talarico over Paxton by double digits and half of 760,000 new early voters being Hispanic.",
@@ -1458,7 +1468,7 @@
    "pub": "thebulwark",
    "subject": "It Won’t Be a Blue Tsunami. It’ll Be an Orange Crush.",
    "date": "2026-11-02T06:35-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/it-wont-be-a-blue-tsunami-orange-crush-midterms-polls-early-vote-democrats-trump-norway",
    "bullets": [
     "Kristol argues the 2026 midterms will deliver a decisive Democratic wave, with NYT/Siena polls showing Democrats ahead in six of seven battleground Senate states—including Texas and Kansas—and likely flipping both chambers and key governorships, effectively repudiating Trumpism.",
     "He urges immediate voter turnout, noting over 50 million early votes already cast and stressing that tens of millions more must vote to cement this shift.",
@@ -1539,7 +1549,7 @@
    "pub": "thebulwark",
    "subject": "Inside the Wargaming to Foil Trump’s Election Meddling",
    "date": "2026-11-01T16:31-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/inside-the-pro-democracy-groups-wargaming-to-foil-trump-midterm-election-meddling",
    "bullets": [
     "Around 250 ACLU lawyers and experts convened in Philadelphia to wargame 25 Trump‑related election‑interference scenarios, drafting mock press releases and state‑specific legal and organizing responses.",
     "The meeting coincided with the Supreme Court’s decision to gut Section 2 of the Voting Rights Act, prompting rapid Republican redistricting that threatened Black voting power in the South.",
@@ -1580,7 +1590,7 @@
    "pub": "thebulwark",
    "subject": "Join Us Tonight To Kick Off Election Week",
    "date": "2026-11-01T13:08-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/join-us-tonight-to-kick-off-election",
    "bullets": [
     "The Bulwark is hosting a members‑only midterms livestream tonight at 8:30 p.m. EST, featuring Tim, Sam, Andrew and reporters Joe Perticone, Lauren Egan, and Jonathan Cohn to dissect key races and surprises.",
     "They’re urging non‑subscribers to join now for access to the livestream, exclusive content, and to participate in a Q&A without scripted talking points."
@@ -1621,7 +1631,7 @@
    "pub": "thebulwark",
    "subject": "Three Days Until the Midterms. How Bad Could It Get for Republicans? (w/ Sarah Longwell) | Bulwark on Sunday",
    "date": "2026-11-01T11:02-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/three-days-until-the-midterms-how",
    "bullets": [
     "Sarah Longwell says focus‑group data shows many Trump voters are disillusioned and considering voting Democratic, a trend Bill Kristol says could drive a historic Republican loss in the midterms.",
     "They argue Democrats have unexpected openings in traditionally red states, citing the surprise endorsement of Republican Mike Rogers by Democrat Haley Stevens in Michigan as a sign of shifting alliances."
@@ -1661,7 +1671,7 @@
    "pub": "thebulwark",
    "subject": "Why 2026 Is a Health Care Election",
    "date": "2026-11-01T07:03-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/why-2026-is-a-health-care-election",
    "bullets": [
     "Family‑medicine doctor Raymond Rion says Packard Health, a federally qualified health center in Michigan, saw uninsured patients drop from one‑third to one‑tenth after ACA subsidies, enabling expansion but now faces layoffs as Trump‑era cuts to HealthCare.gov subsidies and Medicaid take effect.",
     "Rion warns that rising insurance costs and Medicaid reductions will push more patients to delay care, leading to complications like diabetes‑related organ damage and increased ER visits, straining providers further.",
@@ -1675,7 +1685,7 @@
    "pub": "thebulwark",
    "subject": "Is the Islamophobic Campaign Against El-Sayed Working?",
    "date": "2026-11-01T04:04-08:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/is-the-islamophobic-campaign-against-el-sayed-working-michigan-senate-rogers-midterms",
    "bullets": [
     "Republicans have launched an unusually overtly Islamophobic attack on Michigan Senate candidate Abdul El‑Sayed, with Ted Cruz calling him a “jihadist leprechaun” and ads accusing him of supporting the Muslim Brotherhood and wanting to impose sharia law.",
     "The campaign’s extreme bigotry has prompted a focus group of ten Trump‑voting Michigan voters who now disapprove of Trump, revealing mixed feelings about El‑Sayed largely due to distrust fueled by the attack ads.",
@@ -1703,7 +1713,7 @@
    "pub": "thebulwark",
    "subject": "A MAGA Blowhard’s $1 MILLION Bet Just Blew Up in His Face",
    "date": "2026-10-31T18:01-07:00",
-   "url": null,
+   "url": "https://www.thebulwark.com/p/whoops-this-maga-blowhard-made-a",
    "bullets": [
     "Clay Travis, a MAGA podcaster, wagered $1 million that oil prices would drop before the midterms, but prices remain high, exposing his flawed predictions.",
     "Tim Miller details Travis’s incorrect claims about Trump’s Iran war and highlights his growing, absurd fascination with Cheesecake Factory."
@@ -5858,24 +5868,14 @@
     "Adam Carlson examines why Republican polling underestimates support, suggesting voters recognize Trump’s war and tariff policies as price‑inflating, yet polls still miss Republican gains."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261010000135.3.ef83ae6000be693e@mg-d0.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 90: ICE Agent Posing as Construction Worker Shoots Man in New York",
-   "date": "2026-10-09T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-90-ice",
-   "bullets": [
-    "A multibillion‑dollar oil deal involving Russia’s state‑owned energy firm is being negotiated by Trump‑aligned negotiators, with U.S. investors who donated $2 million to Trump causes and Middle Eastern groups tied to Steve Witkoff and Jared Kushner involved.",
-    "ICE agents have obtained voting records of tens of millions of U.S. citizens and targeted hundreds of nonprofits, including the Council on American‑Islamic Relations, while an ICE agent posing as a construction worker shot 28‑year‑old Oscar Belgal in NYC, a 5‑year‑old was in the backseat.",
-    "Trump announced he would personally fund campaign‑style ads via the MAGA, INC super PAC, but the White House said the PAC would not reimburse taxpayers for the $10 million already spent, and Trump declined to pay back the funds himself."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 96,
   "total": 428
+ },
+ "brief_status": {
+  "tried": "2026-11-09T16:29-08:00",
+  "ok": true
  }
 }
