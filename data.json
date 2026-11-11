@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:52-08:00",
+ "updated": "2026-11-11T13:28-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -52,6 +52,126 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261111205932.3.f2ec874a9b8c313a@mg-d1.substack.com",
+   "newsletter": "Here Be Dragons from Barbara F. Walter",
+   "pub": "barbarafwalter",
+   "subject": "I’m Thrilled Stephen Miller Is Chief of Staff",
+   "date": "2026-11-11T12:59-08:00",
+   "url": "https://barbarafwalter.substack.com/p/im-thrilled-stephen-miller-is-chief",
+   "bullets": [
+    "Stephen Miller’s appointment as White House Chief of Staff is seen as a strategic move by Trump to give Democrats a common enemy, forcing them to unite against his hard‑right agenda.",
+    "Miller’s uncompromising stance on mass deportations, anti‑immigrant policies and ending birthright citizenship will polarize Congress, prompting Democrats to rally quickly or risk being blamed for supporting these measures in 2028.",
+    "Political scientists Diana Evans and Berker Kavasoglu suggest that a strong opposition party is less likely to cooperate when ideologically distant, implying Miller will intensify partisan gridlock and force Democrats to sharpen their opposition tactics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261111205429.3.c14199a2aaece4e4@mg2.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "Stephen Miller Is Still Trump’s Daddy on Immigration",
+   "date": "2026-11-11T12:54-08:00",
+   "url": "https://www.thebulwark.com/p/stephen-miller-is-still-trumps-daddy-on-immigration",
+   "bullets": [
+    "Donald Trump, in a 60 Minutes interview, praised his party’s immigration enforcement but admitted the removal of some lawful workers, hinting a bipartisan deal could be “doable” in the next Congress, yet reversed this stance a day later, denying any amnesty and insisting his policy had not changed.",
+    "Homeland Security Secretary Markwayne Mullin echoed Trump’s claim that Democrats were reaching out for an immigration deal, suggested a DACA‑focused compromise, but mistakenly conflated “citizen” with “legal permanent resident” and insisted no amnesty could result, reflecting confusion within the administration."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261111173958.3.685f77c1b833ee24@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Destroy All Monsters",
+   "date": "2026-11-11T09:39-08:00",
+   "url": "https://www.thebulwark.com/p/destroy-all-monsters-ruthless-aggression",
+   "bullets": [
+    "Trump, now backed by Stephen Miller and rallying behind Pete Hegseth, is actively fighting to retain control of the Republican Party and is using the Iran war as a political weapon against JD Vance.",
+    "The newsletter warns Democrats that their sole priority for the next two years should be to destroy Trump’s political standing, as he shows no signs of stepping aside and is willing to let the GOP lose ground to remain the party’s focal point.",
+    "JD Vance’s recent criticism of Trump’s war strategy has been turned against him by Trump, who framed a media question that forces Vance to publicly reaffirm support for the Iran war, limiting Vance’s options."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261111160325.3.5585cbeefb7b5b79@mg-d1.substack.com",
+   "newsletter": "We're Not Kidding | Zeteo",
+   "pub": "zeteo",
+   "subject": "‘The Future Is F*ck You Politics’ – Jennifer Welch and Mehdi on the Midterms, Schumer & Jeffries, and… Charlie Kirk",
+   "date": "2026-11-11T08:03-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/jennifer-welch-midterms-schumer-jeffries-charlie-kirk",
+   "bullets": [
+    "Jennifer Welch and Mehdi analyze the 2026 midterm ‘Blue Wave’, debating whether Senate leaders Chuck Schumer and Hakeem Jeffries should be removed and mocking Ted Cruz as Texas’s sole remaining Republican elected official"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261111153123.3.b887518298d078c2@mg-d0.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How Dems Can Avoid Another Self-Destructive Health Care Fight",
+   "date": "2026-11-11T07:31-08:00",
+   "url": "https://www.thebulwark.com/p/democrats-medicare-for-all-debate-single-payer-clash",
+   "bullets": [
+    "Senator Bernie Sanders is urging Democrats to use their new majorities, secured on Tuesday, to pass Medicare for All legislation quickly, while senators‑elect like Adam Hamilton of Kansas publicly oppose the plan.",
+    "The piece warns that a repeat of the 2020 intra‑party fight—where Medicare for All became an all‑or‑nothing litmus test—could derail health‑care reform as rising costs and Republican Medicaid cuts threaten coverage for millions.",
+    "It argues Democrats should avoid a self‑destructive split by finding a compromise path that expands coverage without the polarizing, single‑track approach championed by Sanders."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261111142554.3.2bcff75c00601c5d@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Chipghazi",
+   "date": "2026-11-11T06:25-08:00",
+   "url": "https://www.thebulwark.com/p/trumps-chipghazi-nvidia-huang-china-scandal-spy-coverup",
+   "bullets": [
+    "The New York Times reported that in May, Marco Rubio told President Trump on Air Force One that Nvidia CEO Jensen Huang was involved with a Chinese spy, a claim Trump allegedly ignored while continuing to consult Huang.",
+    "Politico and the Financial Times revealed that Commerce Department officials, led by Howard Lutnick, ignored dozens of warnings about Nvidia’s advanced chips being diverted to China and failed to place spy‑linked firm Megaspeed on the entity list despite $4.8 billion in chip sales.",
+    "Senate Minority Leader Chuck Schumer condemned Trump for knowing about Huang’s alleged espionage ties for over a year and doing nothing, while bipartisan congressional investigations are now promised to probe the scandal."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261111113126.3.de91c852630d09d8@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Live Event with Heather Cox Richardson",
+   "date": "2026-11-11T03:31-08:00",
+   "url": "https://paulkrugman.substack.com/p/live-event-with-heather-cox-richardson",
+   "bullets": [
+    "A live event with historian Heather Cox Richardson will stream on both Substack platforms, with a Zoom registration link provided.",
+    "Krugman promotes his new ebook, Navigating the Chaos, summarizing the past two years and outlining Democratic priorities for a lasting progressive movement, available on Amazon, Kobo, Bookshop, and Nook."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261111100247.3.a7a7f10ce10b6d0b@mg2.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Cat-Scratch Fervo",
+   "date": "2026-11-11T02:02-08:00",
+   "url": "https://open.substack.com/pub/doomberg/p/cat-scratch-fervo",
+   "bullets": [
+    "A University of Florida study shows most tech IPOs now lose money, highlighting a decline in IPO quality as banks push risky deals despite abundant private capital.",
+    "Fervo Energy, a geothermal startup that went public in May 2026 raising over $2 billion, saw its share price plunge 70% below IPO price after a short‑seller report, then jump 25% on Q3 earnings.",
+    "The author questions whether Fervo’s ambitious goal of 1 GW by 2030 will revolutionize clean energy or prove to be an overhyped, truth‑bending promotion."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261111025751.3.8343a6cc37da6b38@mg2.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Republicans Lost So Badly They’re Now Fighting Over Who to Blame",
+   "date": "2026-11-10T18:57-08:00",
+   "url": "https://www.thebulwark.com/p/republicans-lost-so-badly-theyre",
+   "bullets": [
+    "Tim, Sarah and JVL dissect the post‑election GOP fallout, noting Stephen Miller’s appointment as White House chief of staff and Jim Jordan’s rise to House minority leader while criticizing Axios’s claim the system held against Trump interference.”,"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261111001933.3.baea80d7c860dbe9@mg-d0.substack.com",
    "newsletter": "Bulwark Takes",
@@ -5814,125 +5934,15 @@
     "He notes a recent infusion of donor money has narrowed the fundraising gap with Republicans, yet the influx also created a “money crunch” as spending surged quickly."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261011184543.3.e57c0060221d6f5d@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Ron Brownstein: Trump’s Collapse Is Unlike Anything We’ve Seen in Decades | Bulwark on Sunday",
-   "date": "2026-10-11T11:45-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s support among core MAGA voters is collapsing, with warning signs appearing in unexpected Republican strongholds, according to Ron Brownstein and Bill Kristol.",
-    "The analysis highlights surprising Senate races emerging in deep-red states, suggesting a potential Democratic wave that could reshape the Supreme Court for decades.",
-    "The newsletter notes that if Democrats win Iowa, the implications for the Supreme Court could be significant, reflecting a broader shift in political power."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261011180136.3.4341b66819b44453@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Americans Are Rejecting the Trump Economy – For Good Reason",
-   "date": "2026-10-11T11:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/americans-reject-trump-economy",
-   "bullets": [
-    "Unemployment hit 4.2% in September, well below the 21st‑century average, while inflation was 3.4% in August, just under one point above the 25‑year average, and growth is projected at 2.3% by the Fed.",
-    "Despite these solid macro numbers, an AP/NORC poll showed only 26% of Americans approved of Trump’s economic performance, a figure that threatens Republican prospects in the midterms.",
-    "Trump’s policies are blamed for worsening conditions, and he dismissed Americans’ affordability concerns as a “hoax,” further eroding public support."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261011150128.3.164e4cbeac413be3@mg2.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Welcome to the ‘Neporuption’",
-   "date": "2026-10-11T08:01-07:00",
-   "url": null,
-   "bullets": [
-    "MAGA framed Hunter Biden’s alleged nepotism, art sales, and a laptop scandal as a major controversy, culminating in his gun and tax convictions that President Biden later pardoned.",
-    "The author argues that such nepotistic corruption now extends beyond the Bidens to multiple powerful families—e.g., the Trumps, Lutnicks, Witkoffs—coining the term “neporuption” for this systemic father‑son enrichment in Washington.",
-    "The piece calls for sustained investigative journalism and invites readers to join Bulwark+ at a 30% discount to support ongoing anti‑nepotism work."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261011140313.3.bd845c876291cfdb@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Did You Watch the Film They Don’t Want You To See? ‘Gaza: Doctors Under Attack’ Is Still Available Globally Via Ze…",
-   "date": "2026-10-11T07:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/did-you-watch-the-film-they-dont",
-   "bullets": [
-    "The documentary ‘Gaza: Doctors Under Attack’, barred by the BBC, shows Israel’s systematic targeting of all 36 Gaza hospitals and the killing of medical staff, evidencing war crimes.",
-    "Three years after the Gaza genocide began, no doctor featured in the film has seen justice, and UNRWA reports Gaza’s health system remains in crisis with facilities often non‑operational due to Israeli aid restrictions.",
-    "Paid subscribers can view the full film, while free subscribers get a 5‑minute preview; the newsletter urges support for continued reporting on these ongoing stories."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261011130349.3.79145c7e293dc6d7@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "The GOP’s Money Advantage Is Smaller Than It Looks",
-   "date": "2026-10-11T06:03-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/the-gops-money-advantage-is-smaller",
-   "bullets": [
-    "Republicans have poured roughly $500 million into ads from Labor Day to early October, outspending Democrats by $40 million in Ohio, $45 million in Texas and $14 million in Michigan, an unprecedented gap.",
-    "Despite this cash edge, the newsletter argues the advantage is overstated because not all political dollars translate into votes, and the current pro‑Democratic environment could offset the spending disparity.",
-    "Trump’s unpopularity, high gas prices, and Democratic enthusiasm are cited as factors that may neutralize the GOP’s financial lead in the upcoming election."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261011120247.3.913ca668e76eac91@mg2.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "GOP Goes Scorched-Earth on Abdul El-Sayed",
-   "date": "2026-10-11T05:02-07:00",
-   "url": null,
-   "bullets": [
-    "Mike Rogers’ new TV ad attacks Trump’s Canada tariffs, claiming they cost Michigan auto makers over $4 billion and are unpopular by a two‑to‑one margin in polls.",
-    "Rogers, once a pro‑business Republican, has flipped to support Trump’s tariffs and now avoids directly criticizing Trump, using attacks on Democrat Abdul El‑Sayed to deflect the issue.",
-    "In Thursday’s debate Rogers refused to face El‑Sayed, leaving an empty chair, while El‑Sayed continued to dominate media appearances and discuss policies from AI to industrial strategy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261011103120.3.6c1f9b94818f42d0@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Will AI Crowd Out Jobs?",
-   "date": "2026-10-11T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/will-ai-crowd-out-jobs",
-   "bullets": [
-    "A $8 billion AI training data center creates only 50‑150 jobs, versus over 10,000 jobs if the same capital were spent in other U.S. industries, implying about 1% as many jobs per dollar.",
-    "Van Nieuwerburgh projects $10 trillion in AI data‑center spending through 2032, which could displace roughly ten million jobs compared to alternative investment, pressuring wages and labor’s share of income."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261011090205.3.8bac416f67a532db@mg-d1.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Jump Ball",
-   "date": "2026-10-11T02:02-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/jump-ball",
-   "bullets": [
-    "Indonesia joined BRICS on Jan 6 2025, prompting student protests that Western think tanks labeled as Russia‑China‑backed color revolutions, while both powers accuse the US of meddling.",
-    "Despite BRICS membership, Indonesia signed a Major Defense Cooperation Partnership with the US in April 2026 to co‑develop asymmetric weapons, highlighting its strategic ambiguity amid China trade ties.",
-    "The author argues Indonesia’s control of the Malacca Strait makes its neutral stance precarious, suggesting a future forced choice between Washington and the Beijing‑Moscow bloc."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 93,
-  "total": 432
+  "shown": 87,
+  "total": 433
  },
  "brief_status": {
-  "tried": "2026-11-10T18:52-08:00",
-  "ok": true
+  "tried": "2026-11-11T13:28-08:00",
+  "ok": false,
+  "note": "unusable reply"
  }
 }
