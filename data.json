@@ -1,30 +1,18 @@
 {
- "updated": "2026-11-10T12:55-08:00",
+ "updated": "2026-11-10T18:52-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms produced a historic Democratic wave, giving the party control of Congress, most governorships and historic firsts, while exposing deep fractures in the GOP and Trump’s waning grip (The Bulwark, Zeteo, Paul Krugman).",
-   "Trump’s post‑midterm interview and press antics sparked a MAGA backlash, fueling internal fights and prompting analysts to warn that Stephen Miller may become the de‑facto power holder in a lame‑duck White House (The Bulwark, This Week in Democracy).",
-   "Democrats are already leveraging their new mandate to push an aggressive agenda: ending the Iran war, reviving affordability policies, and restarting redistricting efforts, despite internal debates over priorities (The Bulwark, Zeteo).",
-   "Latino and Black voter backlash against Trump’s ICE and anti‑immigrant rhetoric helped flip key states like Ohio and contributed to the “Blue Tsunami,” suggesting a lasting realignment (Paul Krugman, The Bulwark).",
-   "Economic anxieties dominate the public mood, with voters citing gas, groceries and healthcare costs, while the AI investment bubble shows signs of strain, warning of a potential recession (Zeteo, Paul Krugman)."
+   "Democrats rode a historic midterm wave, winning big but now squabbling over how to deliver on vague affordability promises and internal identity battles (Zeteo, The Bulwark).",
+   "Trump’s inner circle is in crisis, from the Jensen Huang Chinese honey‑trap scandal to Stephen Miller’s chief‑of‑staff rise and Pete Hegseth’s extremist threats, exposing deep security and governance risks (Bulwark Takes, Zeteo).",
+   "Republicans poured $400 million more than Democrats yet still lost, highlighting the inefficiency of massive TV ad spends and the growing irrelevance of cash‑heavy campaign tactics (The Message Box).",
+   "The tech war’s fault lines sharpened as U.S. intelligence flagged insider espionage at Nvidia and AI‑related capital spending bubbles threaten a sharp market correction (Zeteo, Paul Krugman).",
+   "Amid the political upheaval, cultural and media trust erodes, with calls to rescue journalism’s storytelling role and critiques of attention‑economy decay (The Substack Post).",
+   "Public health alerts loom as measles elimination hangs in the balance and flu activity nudges toward seasonal thresholds, underscoring lingering pandemic‑era vulnerabilities (Your Local Epidemiologist)."
   ],
   "by": "groq",
   "ids": [
-   "20261107020100.3.ee1b0ca5aa92037c@mg-d0.substack.com",
-   "20261107100227.3.d074031766555833@mg-d1.substack.com",
-   "20261107113058.3.57574ac9d2f790b9@mg-d1.substack.com",
-   "20261107120330.3.992a3868d587afb9@mg2.substack.com",
-   "20261107134837.3.8006e8c90414a8f9@mg2.substack.com",
-   "20261107140325.3.2c7e01618eceb8a1@mg-d1.substack.com",
-   "20261107140534.3.75ec8d25077ba6a6@mg-d1.substack.com",
-   "20261107142342.3.78ca917a4a60f85e@mg-d1.substack.com",
-   "20261107170230.3.fbdcd7651ce1f85b@mg-d1.substack.com",
-   "20261107190534.3.6572591bef526e93@mg-d1.substack.com",
-   "20261107200058.3.fe93b9ec4e3e4183@mg-d1.substack.com",
-   "20261107223358.3.2f72564f322c0a38@mg-d1.substack.com",
-   "20261108013029.3.031eb68e54f14e93@mg-d1.substack.com",
    "20261108114718.3.c95d3877f92bece9@mg-d1.substack.com",
    "20261108120316.3.87632279d73a2336@mg-d1.substack.com",
    "20261108122039.3.436627daf90a8704@mg-d0.substack.com",
@@ -42,12 +30,69 @@
    "20261109173014.3.d6f5887a898c64ff@mg-d0.substack.com",
    "20261109193632.3.cfe9e450bf60040a@mg2.substack.com",
    "20261109221035.3.5c067054bef18166@mg2.substack.com",
-   "20261109234131.3.5c94d56852a4de49@mg-d0.substack.com"
+   "20261109234131.3.5c94d56852a4de49@mg-d0.substack.com",
+   "20261110011701.3.4f74f479f812405a@mg-d1.substack.com",
+   "20261110030044.3.3eda1925071921e5@mg-d1.substack.com",
+   "20261110030045.3.4526025efabbe669@mg-d0.substack.com",
+   "20261110113421.3.9a87cb7abb9eda9e@mg-d0.substack.com",
+   "20261110113812.3.9c06c87cf567d8a6@mg-d0.substack.com",
+   "20261110115631.3.828d84a30bb0d453@mg2.substack.com",
+   "20261110115801.3.b51e2cc27f77297c@mg2.substack.com",
+   "20261110120041.3.9a89353fc8da1353@mg-d1.substack.com",
+   "20261110130404.3.79b486ef3780fe76@mg-d1.substack.com",
+   "20261110142200.3.fe67736ba49494b7@mg2.substack.com",
+   "20261110170312.3.c1b46ce044923e82@mg2.substack.com",
+   "20261110180233.3.c7fbbae0e786031c@mg-d1.substack.com",
+   "20261110182901.3.ff291e5874bc3847@mg2.substack.com",
+   "20261110210038.3.f5c8e526cebc2474@mg2.substack.com",
+   "20261110230134.3.4ce54e7d0271c6ef@mg-d0.substack.com",
+   "20261111001933.3.baea80d7c860dbe9@mg-d0.substack.com"
   ],
-  "updated": "2026-11-09T16:29-08:00",
+  "updated": "2026-11-10T18:52-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261111001933.3.baea80d7c860dbe9@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "How Trump’s Top Tech Ally Got Caught in a Honey Trap",
+   "date": "2026-11-10T16:19-08:00",
+   "url": "https://www.thebulwark.com/p/trump-was-warned-about-the-spy-in",
+   "bullets": [
+    "Marc Polymeropoulos, a 26‑year CIA veteran, and Michael Weiss detail alleged Chinese honey‑trap that seduced Nvidia CEO Jensen Huang, risking exposure of U.S. AI secrets.",
+    "U.S. intelligence reportedly uncovered the plot, Marco Rubio warned the White House, yet the Trump administration, including Jared Kushner and Steve Witkoff, appears reluctant to act."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110230134.3.4ce54e7d0271c6ef@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "The Dems Won Big. Now What Do They Do?",
+   "date": "2026-11-10T15:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-dems-won-big-now-what-do-they",
+   "bullets": [
+    "Democrats swept the 2026 midterms, crushing Trump’s MAGA movement and securing large majorities in both the House and Senate, reshaping the presidential map.",
+    "The new Congress faces pressure to address affordability issues and hold Trump accountable while internal left and center-left factions debate the party’s 21st‑century identity ahead of the 2028 nomination race.",
+    "A note that the usual ‘First Draft’ newsletter will skip Wednesday for Veterans Day and return Thursday."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261110210038.3.f5c8e526cebc2474@mg2.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Stephen Miller Is a Problem",
+   "date": "2026-11-10T13:00-08:00",
+   "url": "https://www.thebulwark.com/p/white-house-chief-of-staff-stephen-miller-is-a-problem-republican-senators-react",
+   "bullets": [
+    "Donald Trump named Stephen Miller as White House chief of staff, prompting warnings from GOP senators like Thom Tillis that Miller’s racist, hard‑line agenda will intensify the administration’s combative policies",
+    "Senators Mike Rounds, James Lankford and Bernie Moreno defended Miller, arguing the president need not seek Senate approval and that Miller’s “smart and tough” approach signals a readiness for political war",
+    "The bipartisan Problem Solvers Caucus, once 43 members, now faces collapse after the midterms, with only seven Republicans expected to remain versus nineteen Democrats in the 120th Congress"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261110182901.3.ff291e5874bc3847@mg2.substack.com",
    "newsletter": "JVL - The Bulwark",
@@ -5880,29 +5925,14 @@
     "The author argues Indonesia’s control of the Malacca Strait makes its neutral stance precarious, suggesting a future forced choice between Washington and the Beijing‑Moscow bloc."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261010233033.3.38649285f922e677@mg2.substack.com",
-   "newsletter": "Mona Charen - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Susan Glasser: Trump’s Most Loyal Supporters Are Abandoning Him",
-   "date": "2026-10-10T16:30-07:00",
-   "url": null,
-   "bullets": [
-    "Glasser argues Trump’s inner circle failed to confront him over the disastrous Iran war, weakening strategic oversight.",
-    "She notes Pete Hegseth faces a possible congressional reckoning for his extremist rhetoric and actions.",
-    "Glasser highlights a sharp decline in Trump’s hardcore base and suggests Democrats could achieve a historic midterm win."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 93,
-  "total": 430
+  "total": 432
  },
  "brief_status": {
-  "tried": "2026-11-10T12:55-08:00",
-  "ok": false,
-  "note": "provider error"
+  "tried": "2026-11-10T18:52-08:00",
+  "ok": true
  }
 }
