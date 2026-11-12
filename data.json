@@ -1,24 +1,18 @@
 {
- "updated": "2026-11-11T19:56-08:00",
+ "updated": "2026-11-12T13:31-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms delivered a historic Democratic wave, giving them massive majorities and forcing the GOP into a leadership scramble (The Bulbark, Zeteo).",
-   "Stephen Miller’s promotion to White House chief of staff has intensified the administration’s hard‑right agenda and become the central rallying point for Democrats (The Bulbark, Adrian Carrasquillo).",
-   "Despite outspending them by $400 million, Republicans lost due to poor candidate quality and ineffective ad spend, highlighting a new era of Democratic electoral efficiency (The Message Box).",
-   "Tech security concerns surged as revelations about Nvidia CEO Jensen Huang’s alleged Chinese espionage and a failed honey‑trap expose U.S. vulnerabilities in the AI race (The Bulbark, Zeteo).",
-   "Health‑care reform faces a crossroads: Democrats must avoid a repeat of the 2020 intra‑party fight to pass Medicare‑for‑All before internal divisions stall progress (The Bulbark).",
-   "The Iran war remains a flashpoint, with calls for a swift cease‑fire to curb inflation and pressure Trump, while the conflict tests the new Democratic majority’s foreign‑policy resolve (The Bulbark)."
+   "The 2026 midterms cemented a Democratic House and Senate majority, forcing GOP leaders to confront internal fractures and a costly war in Iran that threatens 2028 prospects (The Bulwark, Zeteo).",
+   "Trump’s appointment of Stephen Miller as chief of staff has intensified hard‑line immigration and anti‑immigrant rhetoric, polarizing Congress and prompting calls for impeachment of officials like Pete Hegseth (Bulwark Takes, Here Be Dragons).",
+   "Nvidia’s CEO Jensen Huang scandal—an alleged affair with a Chinese spy—has exposed deep U.S. tech vulnerabilities, prompting bipartisan warnings that the administration ignored security red flags (JVL, Bill Kristol & Andrew Egger).",
+   "Democratic strategists warn that despite the “Blue Wave,” the party’s infrastructure and funding gaps risk losing momentum in 2028, urging a focus on building state‑level capacity (Lauren Egan).",
+   "The GOP’s $400 million spending advantage failed to translate into seats, highlighting inefficiencies in media buys and the need for a new campaign narrative (Dan Pfeiffer).",
+   "Health‑care reform remains a flashpoint, with Senator Bernie Sanders pushing Medicare‑for‑All while moderates threaten to derail progress, risking a repeat of the 2020 intra‑party split (Jonathan Cohn)."
   ],
   "by": "groq",
   "ids": [
-   "20261109112437.3.c489b4024d0410be@mg2.substack.com",
-   "20261109121623.3.6441a38656ea18d8@mg-d0.substack.com",
-   "20261109143245.3.116df833db1c80be@mg2.substack.com",
-   "20261109170141.3.a2ff9d10cd4de42a@mg-d0.substack.com",
-   "20261109173014.3.d6f5887a898c64ff@mg-d0.substack.com",
-   "20261109193632.3.cfe9e450bf60040a@mg2.substack.com",
    "20261109221035.3.5c067054bef18166@mg2.substack.com",
    "20261109234131.3.5c94d56852a4de49@mg-d0.substack.com",
    "20261110011701.3.4f74f479f812405a@mg-d1.substack.com",
@@ -48,12 +42,143 @@
    "20261111205932.3.f2ec874a9b8c313a@mg-d1.substack.com",
    "20261111222851.3.95a1f7db2c54af3f@mg-d0.substack.com",
    "20261112010042.3.2ea69154d3f1dbdb@mg2.substack.com",
-   "20261112023037.3.b86f77351d83be88@mg-d0.substack.com"
+   "20261112023037.3.b86f77351d83be88@mg-d0.substack.com",
+   "20261112112028.3.e0bf789d0166db0b@mg-d0.substack.com",
+   "20261112113109.3.c389be2c2825626a@mg-d1.substack.com",
+   "20261112120108.3.3f054206c68ae6bb@mg2.substack.com",
+   "20261112124023.3.9f8ca4bfa2d437aa@mg-d0.substack.com",
+   "20261112143343.3.6dbcdcb7a871b435@mg-d0.substack.com",
+   "20261112160734.3.66b2ac141b624eb1@mg-d1.substack.com",
+   "20261112175336.3.a490a58409dd58a3@mg2.substack.com",
+   "20261112183048.3.06963a4c0458885e@mg-d0.substack.com",
+   "20261112201315.3.aa5aad0efa57daab@mg-d1.substack.com"
   ],
-  "updated": "2026-11-11T19:56-08:00",
+  "updated": "2026-11-12T13:31-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261112201315.3.aa5aad0efa57daab@mg-d1.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Blue Wave Didn’t End the Gerrymandering Arms Race",
+   "date": "2026-11-12T12:13-08:00",
+   "url": "https://www.thebulwark.com/p/the-blue-wave-didnt-end-the-gerrymandering-arms-race-redrawing-maps",
+   "bullets": [
+    "Rep. Henry Cuellar (D‑TX) won re‑election after 2025 GOP‑drawn maps, intended to favor Republicans, backfired and made his district more Democratic, prompting his sarcastic thanks to the speaker and White House.",
+    "The 2025 Republican redistricting push, spurred by Trump, led to unexpectedly competitive districts nationwide, contributing to a massive Democratic House majority and prompting Democrats to consider adopting GOP gerrymandering tactics.",
+    "Wisconsin Gov‑elect David Crowley announced plans to order a new map favoring Democrats, while Democrats in Virginia, Pennsylvania, New Jersey and Maryland are also moving to redraw maps before the next cycle, though some moderates urge non‑partisan standards."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261112183048.3.06963a4c0458885e@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Sex Crimes, Lies, War, Money: MAGA’s 2026 ‘Self-Immolation’ Keeps Getting Worse",
+   "date": "2026-11-12T10:30-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/sex-crimes-lies-war-money-magas-2026",
+   "bullets": [
+    "After the 2026 midterms, Trump and GOP leaders admit the party is demoralized, with internal feuding erupting publicly and fears the ongoing Iran war will cripple Republican prospects for 2028.",
+    "Pollster John McLaughlin warned Republicans have forgotten the 2024 winning formula and need rebuilding, while a senior administration official described MAGA as having ‘self‑immolated.’",
+    "Vice President JD Vance privately warned the Iran conflict will destroy the party unless it ends quickly, echoing widespread alarm among GOP operatives."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261112175336.3.a490a58409dd58a3@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Spies Like Trump",
+   "date": "2026-11-12T09:53-08:00",
+   "url": "https://www.thebulwark.com/p/spies-like-trump",
+   "bullets": [
+    "The newsletter alleges that Nvidia CEO Jensen Huang was caught in a Chinese MSS honeypot, that members of the Trump administration—and Trump himself—knew and invited him onto Air Force One to facilitate chip sales to China.",
+    "It claims Trump personally approved Huang’s request to sell Nvidia chips to China, framing the episode as evidence of Trump being a massive national‑security threat and possibly a foreign agent."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261112160734.3.66b2ac141b624eb1@mg-d1.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "College Republicans Revolt Against Trump",
+   "date": "2026-11-12T08:07-08:00",
+   "url": "https://www.thebulwark.com/p/college-republicans-revolt-against-trump",
+   "bullets": [
+    "The College Republican Patriot Coalition, representing chapters at universities such as Illinois, Florida, Virginia, Maryland, Georgia and New York, issued an open letter blaming Trump for abandoning MAGA principles, breaking campaign promises and driving the GOP toward a “cliff.”",
+    "The letter calls for a purge of the Trump administration and a new champion, citing grievances that include Israel policy, which they claim pushed Trump into an Iran war, and hints at possible ties to white‑nationalist podcaster Nick Fuentes."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261112143343.3.6dbcdcb7a871b435@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Musical Chairs on the MAGA Titanic",
+   "date": "2026-11-12T06:33-08:00",
+   "url": "https://www.thebulwark.com/p/musical-chairs-on-the-maga-titanic-mike-pence-national-conservatism-reagan-trump-vance-jensen-huang",
+   "bullets": [
+    "Nvidia ousted CEO Jensen Huang immediately after a board‑announced probe into an alleged affair with a Chinese spy, while China’s Ministry of State Security has not responded.",
+    "Mike Pence framed the 2024 midterm losses as a rejection of GOP economic populism and urged a return to traditional conservative principles, but his vision clashes with the New Right’s Trump‑aligned agenda.",
+    "New Right group American Ascent, funded with $12 million by donor Tom Klingenstein, seeks to recruit next‑generation national‑conservative Republicans, positioning itself as both Trump’s heir and a generational shift despite the party’s internal factional turmoil."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261112124023.3.9f8ca4bfa2d437aa@mg-d0.substack.com",
+   "newsletter": "Paul Krugman and Heather Cox Richardson from Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Paul Krugman and Heather Cox Richardson in Conversation | CUNY Graduate Center",
+   "date": "2026-11-12T04:40-08:00",
+   "url": "https://paulkrugman.substack.com/p/paul-krugman-and-heather-cox-richardson",
+   "bullets": [
+    "A live video conversation between Paul Krugman and Heather Cox Richardson, beginning at minute 34, is available for viewers to watch on the CUNY Graduate Center platform."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261112120108.3.3f054206c68ae6bb@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Is Ayanna Pressley About to Challenge Hakeem Jeffries for Speaker?",
+   "date": "2026-11-12T04:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/is-ayanna-pressley-about-to-challenge",
+   "bullets": [
+    "Mississippi elected Democrat Scott Colom, ending a decades‑long GOP hold and giving Democrats 55 Senate seats, with Alaska still undecided.",
+    "A Change.org petition urging “Make Ayanna Pressley the Speaker of the House” has gathered about 30,000 signatures, signaling growing progressive push against minority leader Hakeem Jeffries.",
+    "The newsletter highlights the petition as a potential early sign of a challenge to Jeffries for the Democratic House speaker role."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261112113109.3.c389be2c2825626a@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Climates of Treason",
+   "date": "2026-11-12T03:31-08:00",
+   "url": "https://paulkrugman.substack.com/p/climates-of-treason",
+   "bullets": [
+    "Krugman argues that Trump’s administration deliberately buried the Nvidia‑Huang security scandal, exposing a broader pattern of ideological and financial betrayals that weaken U.S. national security and its tech edge against China.",
+    "He claims MAGA officials, including Trump and allies, favor authoritarian models like Putin’s for ideological reasons while exploiting China‑related deals for personal profit, citing Nvidia’s $25 million Trump fundraiser and hundreds of millions funneled from the AI industry.",
+    "Krugman contends that this incompetence and self‑interest have led to lost wars with Iran and China, a collapsing global reputation, and a government that is unpatriotic and unwilling to sacrifice for the nation."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261112112028.3.e0bf789d0166db0b@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "How Republicans Are Choosing to Lose Again",
+   "date": "2026-11-12T03:20-08:00",
+   "url": "https://open.substack.com/pub/messagebox/p/how-republicans-are-choosing-to-lose",
+   "bullets": [
+    "Republics lost the 2026 midterms by nearly 14 points in the popular vote, falling short of 56 Senate seats and about 260 House seats, even losing traditionally red states like Kansas, South Carolina, Texas, and Mississippi.",
+    "After the loss, Trump fired campaign chief Susie Wiles and installed Stephen Miller, while House Republicans elected Jim Jordan as minority leader, signaling a continued hard‑right strategy rather than a post‑defeat recalibration.",
+    "Pfeiffer argues this leadership shift shows the GOP is denying the election reality and is poised to repeat the same losing approach in the 2028 cycle."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261112023037.3.b86f77351d83be88@mg-d0.substack.com",
    "newsletter": "Tim Miller - The Bulwark",
@@ -5841,109 +5966,14 @@
     "Tim Miller highlights the plight of Maryam Tahmasebi’s family, still detained in the Dilley detention center, as part of a broader critique of U.S. immigration enforcement policies."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261012193210.3.40a6e541ed72b758@mg2.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Elon Musk Came Crawling Back to Trump. JVL Explains Why.",
-   "date": "2026-10-12T12:32-07:00",
-   "url": null,
-   "bullets": [
-    "Elon Musk, after threatening to destroy Trump’s Republican allies, is now spending hundreds of millions to keep them in power, revealing a humiliating surrender and a new billionaire‑backed MAGA coalition.",
-    "JVL’s Triad exposes Trump’s Russian diesel deal, arguing it showcases American weakness and a desperate alignment with Putin, while Sarah Longwell proposes holding Trump’s wealthy enablers accountable.",
-    "The newsletter highlights a failed MAGA smear campaign against James Talarico, underscoring the Bulwark’s investigative journalism and the need for continued member support."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261012190033.3.ea5d28c5524fe51d@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "‘Racism and Misogyny’: Photographer Misan Harriman Talks About the Media Attacks on his Friend Meghan Markle",
-   "date": "2026-10-12T12:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/racism-and-misogyny-photographer",
-   "bullets": [
-    "Misan Harriman, a Black photographer who shot the first Black male cover for British Vogue in 2020, explains how seeing George Floyd’s death spurred him to document protest movements and the media’s role in shaping narratives.",
-    "He criticises the British press for misogyny, misogynoir, racism and greed, arguing that hate sells and fuels algorithms, and links this to the tragic suicide of Cambridge professor Jason Arday after relentless, often racist media attacks.",
-    "The interview also covers Harriman’s own experiences with online harassment over his Gaza support, his response to claims he is part of the British elite, and his feelings about having his story told in the documentary ‘Shoot the People.’"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261012164212.3.73279bf270a49940@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "He’s Desperate, Stupid, Weak, and Desperate",
-   "date": "2026-10-12T09:42-07:00",
-   "url": null,
-   "bullets": [
-    "ICE agents ran over a pedestrian in Harris County, Texas, yet the agency falsely claimed the victim ran in front of the vehicle; the incident illustrates widespread state violence and misinformation.",
-    "Trump’s 2026 policy moves—signing the Lindsey O. Graham Sanctioning Russia and Iran Act, banning U.S. diesel exports, authorizing “red‑dyed diesel” for farmers, and lifting sanctions to import 3 million tons of Russian diesel—were aimed at lowering diesel prices but likely violate the act’s waiver requirements and are legally dubious."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261012140404.3.347789fc0e79b6df@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "7 Reasons Not to Celebrate Christopher Columbus Today",
-   "date": "2026-10-12T07:04-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/7-reasons-not-celebrate-christopher-columbus-indigenous-peoples-day",
-   "bullets": [
-    "Donald Trump’s 2023 proclamation renamed Columbus Day, framing Christopher Columbus as a heroic visionary, while the author argues he never discovered the Americas, with Vikings reaching North America in 1000 CE and Columbus only landing in the Bahamas.",
-    "Columbus’s voyages triggered the transatlantic slave trade, initiating centuries of forced migration and exploitation of indigenous peoples, contradicting the celebratory narrative promoted by Trump."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261012133211.3.85aae795daee493d@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Winning the Midterms Is Not Enough",
-   "date": "2026-10-12T06:32-07:00",
-   "url": null,
-   "bullets": [
-    "Elon Musk spent $276 million—mostly into the Senate Leadership Fund—to back Republicans in the 2024 midterms, yet his net approval rating is –16.2, still better than Trump’s –22.4.",
-    "Bill Kristol argues a Democratic wave in 2024 will be a pro‑democracy victory but not a decisive win; Democrats must keep pressure on Trump through 2028 to secure a future liberal resurgence.",
-    "Andrew Egger recounts how a viral claim that James Talarico was in a mental‑health facility collapsed, exposing the MAGA media’s tendency to spin unverified stories and the ensuing chaos on Twitter and other platforms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261012105127.3.2061d9465fa71e24@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Arithmetic Suffers from Trump Derangement Syndrome",
-   "date": "2026-10-12T03:51-07:00",
-   "url": "https://paulkrugman.substack.com/p/arithmetic-suffers-from-trump-derangement",
-   "bullets": [
-    "Trump announced a plan to buy 300,000 tons (≈2 million barrels) of Russian diesel, violating sanctions and amounting to only about 12 hours of U.S. diesel consumption, highlighting his misreading of scale and support for Putin’s war.",
-    "Treasury Secretary‑designate Scott Bessent hired former Trump‑favored economist Judy Shelton as a currency adviser, despite her 2019 failed nomination to the Fed amid bipartisan criticism of her extremism.",
-    "Krugman notes that Italian productivity figures appear stagnant since 2000 due to methodological differences in GDP measurement, with Italy’s cautious hedonic adjustments contrasting with Germany and France’s approaches."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261012103124.3.3452d196f229640f@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Fox News Hosts Clash Over Trump’s Deal with Putin",
-   "date": "2026-10-12T03:31-07:00",
-   "url": null,
-   "bullets": [
-    "Michael Weiss and Marc Polymeropoulos argue Trump’s surprise energy ceasefire and deal with Putin chiefly benefits Moscow, blindsiding Ukraine and threatening U.S. intelligence sharing and weapons sales.",
-    "They warn Europe is moving toward self‑defense without Washington as U.S. policy shifts, and cite mounting pressure to remove U.S. Ambassador to Greece Kimberly Guilfoyle over corruption concerns."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 85,
-  "total": 433
+  "shown": 84,
+  "total": 435
  },
  "brief_status": {
-  "tried": "2026-11-11T19:56-08:00",
+  "tried": "2026-11-12T13:31-08:00",
   "ok": true
  }
 }
