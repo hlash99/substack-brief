@@ -1,28 +1,18 @@
 {
- "updated": "2026-11-11T13:28-08:00",
+ "updated": "2026-11-11T19:56-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Democrats rode a historic midterm wave, winning big but now squabbling over how to deliver on vague affordability promises and internal identity battles (Zeteo, The Bulwark).",
-   "Trump’s inner circle is in crisis, from the Jensen Huang Chinese honey‑trap scandal to Stephen Miller’s chief‑of‑staff rise and Pete Hegseth’s extremist threats, exposing deep security and governance risks (Bulwark Takes, Zeteo).",
-   "Republicans poured $400 million more than Democrats yet still lost, highlighting the inefficiency of massive TV ad spends and the growing irrelevance of cash‑heavy campaign tactics (The Message Box).",
-   "The tech war’s fault lines sharpened as U.S. intelligence flagged insider espionage at Nvidia and AI‑related capital spending bubbles threaten a sharp market correction (Zeteo, Paul Krugman).",
-   "Amid the political upheaval, cultural and media trust erodes, with calls to rescue journalism’s storytelling role and critiques of attention‑economy decay (The Substack Post).",
-   "Public health alerts loom as measles elimination hangs in the balance and flu activity nudges toward seasonal thresholds, underscoring lingering pandemic‑era vulnerabilities (Your Local Epidemiologist)."
+   "The 2026 midterms delivered a historic Democratic wave, giving them massive majorities and forcing the GOP into a leadership scramble (The Bulbark, Zeteo).",
+   "Stephen Miller’s promotion to White House chief of staff has intensified the administration’s hard‑right agenda and become the central rallying point for Democrats (The Bulbark, Adrian Carrasquillo).",
+   "Despite outspending them by $400 million, Republicans lost due to poor candidate quality and ineffective ad spend, highlighting a new era of Democratic electoral efficiency (The Message Box).",
+   "Tech security concerns surged as revelations about Nvidia CEO Jensen Huang’s alleged Chinese espionage and a failed honey‑trap expose U.S. vulnerabilities in the AI race (The Bulbark, Zeteo).",
+   "Health‑care reform faces a crossroads: Democrats must avoid a repeat of the 2020 intra‑party fight to pass Medicare‑for‑All before internal divisions stall progress (The Bulbark).",
+   "The Iran war remains a flashpoint, with calls for a swift cease‑fire to curb inflation and pressure Trump, while the conflict tests the new Democratic majority’s foreign‑policy resolve (The Bulbark)."
   ],
   "by": "groq",
   "ids": [
-   "20261108114718.3.c95d3877f92bece9@mg-d1.substack.com",
-   "20261108120316.3.87632279d73a2336@mg-d1.substack.com",
-   "20261108122039.3.436627daf90a8704@mg-d0.substack.com",
-   "20261108140335.3.2986964183d1b937@mg-d1.substack.com",
-   "20261108174053.3.06e0cfd2e78a0e98@mg-d0.substack.com",
-   "20261108210550.3.e5b1caa367ca7c08@mg-d1.substack.com",
-   "20261108223045.3.13ca850cca9f4d50@mg-d0.substack.com",
-   "20261108230152.3.3dfdc8d4479ba4d1@mg-d0.substack.com",
-   "20261109000148.3.e2b7b97d8eeaf366@mg-d1.substack.com",
-   "20261109024534.3.0934c37d0ad4ad80@mg-d0.substack.com",
    "20261109112437.3.c489b4024d0410be@mg2.substack.com",
    "20261109121623.3.6441a38656ea18d8@mg-d0.substack.com",
    "20261109143245.3.116df833db1c80be@mg2.substack.com",
@@ -46,12 +36,65 @@
    "20261110182901.3.ff291e5874bc3847@mg2.substack.com",
    "20261110210038.3.f5c8e526cebc2474@mg2.substack.com",
    "20261110230134.3.4ce54e7d0271c6ef@mg-d0.substack.com",
-   "20261111001933.3.baea80d7c860dbe9@mg-d0.substack.com"
+   "20261111001933.3.baea80d7c860dbe9@mg-d0.substack.com",
+   "20261111025751.3.8343a6cc37da6b38@mg2.substack.com",
+   "20261111100247.3.a7a7f10ce10b6d0b@mg2.substack.com",
+   "20261111113126.3.de91c852630d09d8@mg-d1.substack.com",
+   "20261111142554.3.2bcff75c00601c5d@mg-d1.substack.com",
+   "20261111153123.3.b887518298d078c2@mg-d0.substack.com",
+   "20261111160325.3.5585cbeefb7b5b79@mg-d1.substack.com",
+   "20261111173958.3.685f77c1b833ee24@mg-d0.substack.com",
+   "20261111205429.3.c14199a2aaece4e4@mg2.substack.com",
+   "20261111205932.3.f2ec874a9b8c313a@mg-d1.substack.com",
+   "20261111222851.3.95a1f7db2c54af3f@mg-d0.substack.com",
+   "20261112010042.3.2ea69154d3f1dbdb@mg2.substack.com",
+   "20261112023037.3.b86f77351d83be88@mg-d0.substack.com"
   ],
-  "updated": "2026-11-10T18:52-08:00",
+  "updated": "2026-11-11T19:56-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261112023037.3.b86f77351d83be88@mg-d0.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Vivek Ramaswamy Took Such a Beating That He Disappeared (w/ Nick Wright & Anderson Clayton)",
+   "date": "2026-11-11T18:30-08:00",
+   "url": "https://www.thebulwark.com/p/nick-wright-and-anderson-clayton",
+   "bullets": [
+    "Tim Miller argues that many 2024 voters initially backed the Republican “bully” party but turned away after seeing harsh ICE policies and attempts to restrict voting rights",
+    "Nick Wright notes a growing recognition in the manosphere that overt meanness isn’t strength, while also criticizing sports commentators pandering to MAGA and lamenting his own mis‑call on Nikola Jokić",
+    "Tim calls for patience in the lame‑duck period and interviews young NC Democratic chair Anderson Clayton about the party’s surprising recent victories in the state"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261112010042.3.2ea69154d3f1dbdb@mg2.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "One Easy Trick for Dems to Maintain Their Blue-Wave Gains",
+   "date": "2026-11-11T17:00-08:00",
+   "url": "https://www.thebulwark.com/p/one-easy-trick-for-democrats-to-maintain-their-blue-wave-gains-investment",
+   "bullets": [
+    "Democratic operatives warn that despite recent midterm gains in traditionally red states like Texas and South Carolina, state parties lack infrastructure and funding, risking missed opportunities in the 2028 election cycle.",
+    "DNC chair Ken Martin’s fifty‑state program now gives $1 million monthly to state parties, but fundraising shortfalls and recent staff layoffs raise doubts about sustaining long‑term investment in red‑state organization.",
+    "Leaders such as Sen. Raphael Warnock and former DNC chair Jaime Harrison urge presidential candidates to commit resources to voter registration, recruitment, and building durable state‑level organizations, proposing a 57‑state pledge to centralize effort."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261111222851.3.95a1f7db2c54af3f@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Laura Loomer’s MAGA Pay-for-Play Feud Takes a Very Suspicious Turn | MAGA Wednesdays",
+   "date": "2026-11-11T14:28-08:00",
+   "url": "https://www.thebulwark.com/p/neo-nazi-accidentally-livestreams",
+   "bullets": [
+    "Sam Stein and Will Sommer host a special MAGA Wednesdays episode featuring a neo-Nazi leader who accidentally livestreamed a sex act, Mark Levin's public AOL account meltdown, and a lawsuit alleging foreign money and luxury gifts in Trump’s circle.",
+    "The episode also reports James Fishback receiving a $4 million judgment and Vivek Ramaswamy’s disappearance from Twitter, while MAGA media prepares to name a Citizen Journalist of the Year."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261111205932.3.f2ec874a9b8c313a@mg-d1.substack.com",
    "newsletter": "Here Be Dragons from Barbara F. Walter",
@@ -5893,56 +5936,14 @@
     "They warn Europe is moving toward self‑defense without Washington as U.S. policy shifts, and cite mounting pressure to remove U.S. Ambassador to Greece Kimberly Guilfoyle over corruption concerns."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261012030054.3.628dc70acbadb8a0@mg2.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "MAGA’s Talarico Mental Breakdown Conspiracy Implodes—Instantly",
-   "date": "2026-10-11T20:00-07:00",
-   "url": null,
-   "bullets": [
-    "MAGA influencers Nick Sortor and Rhein Amacher claimed a Lindner Center employee confirmed Texas Democrat James Talarico’s discharge from an Ohio mental‑health facility, sparking viral X posts and Elon Musk’s retweets.",
-    "The claim unraveled when timeline inconsistencies showed Talarico was at the Austin City Limits festival on Friday and a Kacey Musgraves concert the next day, making an Ohio discharge impossible.",
-    "Full audio revealed the supposed ‘proof’ was a brief, edited clip; the longer six‑minute call showed no confirmation, and Talarico’s spokesperson denounced the story as a fabricated conspiracy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261012003043.3.ca6e1f26cf55bcea@mg-d1.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "Spending problem (John Sununu)",
-   "date": "2026-10-11T17:30-07:00",
-   "url": "https://chrispappasnh.substack.com/p/spending-problem-john-sununu",
-   "bullets": [
-    "The GOP has poured over $60 million into ads supporting John Sununu in New Hampshire, giving him a poll lead with just 23 days left before the Senate election.",
-    "Chris Pappas’s campaign is urging supporters to donate $10‑$25 to counter the GOP’s ad blitz and keep the state blue.",
-    "The email warns that additional GOP ad spending is imminent, stressing the need for immediate contributions to close the funding gap."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261011233144.3.1c7f2809e8cfcdbf@mg-d1.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Top Senate Dem to Trump Underlings: Lawyer Up",
-   "date": "2026-10-11T16:31-07:00",
-   "url": null,
-   "bullets": [
-    "Senate Democrat Brian Schatz, soon to be party whip, says Democrats have gained momentum in red‑state races but risk post‑election blame if they fall short, even in places like Kansas.",
-    "He notes a recent infusion of donor money has narrowed the fundraising gap with Republicans, yet the influx also created a “money crunch” as spending surged quickly."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 87,
+  "shown": 85,
   "total": 433
  },
  "brief_status": {
-  "tried": "2026-11-11T13:28-08:00",
-  "ok": false,
-  "note": "unusable reply"
+  "tried": "2026-11-11T19:56-08:00",
+  "ok": true
  }
 }
