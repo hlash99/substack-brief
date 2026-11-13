@@ -1,23 +1,18 @@
 {
- "updated": "2026-11-12T13:31-08:00",
+ "updated": "2026-11-12T19:28-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms cemented a Democratic House and Senate majority, forcing GOP leaders to confront internal fractures and a costly war in Iran that threatens 2028 prospects (The Bulwark, Zeteo).",
-   "Trump’s appointment of Stephen Miller as chief of staff has intensified hard‑line immigration and anti‑immigrant rhetoric, polarizing Congress and prompting calls for impeachment of officials like Pete Hegseth (Bulwark Takes, Here Be Dragons).",
-   "Nvidia’s CEO Jensen Huang scandal—an alleged affair with a Chinese spy—has exposed deep U.S. tech vulnerabilities, prompting bipartisan warnings that the administration ignored security red flags (JVL, Bill Kristol & Andrew Egger).",
-   "Democratic strategists warn that despite the “Blue Wave,” the party’s infrastructure and funding gaps risk losing momentum in 2028, urging a focus on building state‑level capacity (Lauren Egan).",
-   "The GOP’s $400 million spending advantage failed to translate into seats, highlighting inefficiencies in media buys and the need for a new campaign narrative (Dan Pfeiffer).",
-   "Health‑care reform remains a flashpoint, with Senator Bernie Sanders pushing Medicare‑for‑All while moderates threaten to derail progress, risking a repeat of the 2020 intra‑party split (Jonathan Cohn)."
+   "The 2026 midterms have handed Democrats a sweeping majority, forcing the new Congress to confront healthcare reform, climate policy, and a weakened GOP that is scrambling to rebuild after Trump’s collapse (The Bulwark, Zeteo, Paul Krugman).",
+   "Trump’s administration is unraveling as DOJ officials flee, Stephen Miller is named chief of staff, and the White House is accused of shielding Nvidia CEO Jensen Huang’s alleged affair with a Chinese spy, exposing deep national‑security breaches (The Bulwark, JVL, Bill Kristol & Andrew Egger).",
+   "The GOP’s redistricting gamble backfired, creating unexpectedly competitive districts that helped Democrats win key seats, yet the party remains divided over how to regain its footing amid internal feuds and a demoralized MAGA base (The Bulwark, Zeteo).",
+   "Tech‑industry scandals—Nvidia’s leadership turmoil and Tesla’s Cybertruck cancellation—highlight a broader erosion of U.S. tech dominance, as personal misconduct and corporate missteps intersect with geopolitical tensions with China (Krugman, Doomberg).",
+   "Democratic leaders face a strategic dilemma: push aggressively for Medicare‑for‑All while avoiding intra‑party gridlock, and decide whether to elevate progressive figures like Ayanna Pressley to leadership roles amid calls for a new party identity (The Bulwark, First Draft).",
+   "Amid political upheaval, public health concerns loom as measles elimination status is under review and flu rates rise, reminding voters that governance must address both pandemic preparedness and the fallout from a fractured political landscape (Your Local Epidemiologist)."
   ],
   "by": "groq",
   "ids": [
-   "20261109221035.3.5c067054bef18166@mg2.substack.com",
-   "20261109234131.3.5c94d56852a4de49@mg-d0.substack.com",
-   "20261110011701.3.4f74f479f812405a@mg-d1.substack.com",
-   "20261110030044.3.3eda1925071921e5@mg-d1.substack.com",
-   "20261110030045.3.4526025efabbe669@mg-d0.substack.com",
    "20261110113421.3.9a87cb7abb9eda9e@mg-d0.substack.com",
    "20261110113812.3.9c06c87cf567d8a6@mg-d0.substack.com",
    "20261110115631.3.828d84a30bb0d453@mg2.substack.com",
@@ -51,12 +46,84 @@
    "20261112160734.3.66b2ac141b624eb1@mg-d1.substack.com",
    "20261112175336.3.a490a58409dd58a3@mg2.substack.com",
    "20261112183048.3.06963a4c0458885e@mg-d0.substack.com",
-   "20261112201315.3.aa5aad0efa57daab@mg-d1.substack.com"
+   "20261112201315.3.aa5aad0efa57daab@mg-d1.substack.com",
+   "20261112220236.3.a0b8cf6bfca3d647@mg-d1.substack.com",
+   "20261112223052.3.17b87bbe4e1b7bfb@mg-d1.substack.com",
+   "20261113020105.3.8da6492c12fb1802@mg-d1.substack.com",
+   "20261113020648.3.3d9be66ee3da9ddd@mg2.substack.com",
+   "20261113030105.3.fff0828436c95d84@mg-d1.substack.com"
   ],
-  "updated": "2026-11-12T13:31-08:00",
+  "updated": "2026-11-12T19:28-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261113030105.3.fff0828436c95d84@mg-d1.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Ezra Klein: MAGA Is Over",
+   "date": "2026-11-12T19:01-08:00",
+   "url": "https://www.thebulwark.com/p/ezra-klein-maga-is-over",
+   "bullets": [
+    "Ezra Klein argues that despite Donald Trump’s lingering danger, the 2026 electorate rejected his moral collapse, favoring candidates emphasizing faith‑based values like Ossoff and El‑Sayed.",
+    "He predicts the new Democratic Congress will prioritize economics, especially healthcare reform, and will scale back unconditional support for Israel, aided by a permitting reform bill to improve government efficiency."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261113020648.3.3d9be66ee3da9ddd@mg2.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Nvidia’s Friends With Benefits",
+   "date": "2026-11-12T18:06-08:00",
+   "url": "https://www.thebulwark.com/p/jensen-huang-donald-trump-nvidia-friends-with-benefits",
+   "bullets": [
+    "Jensen Huang resigned after U.S. intel flagged his affair with a suspected Chinese spy, yet the Trump administration ignored warnings and loosened export controls to favor Nvidia’s chip sales to China.",
+    "Trump’s team, including Commerce Secretary Howard Lutnick, halted investigations and blocked blacklisting of shell company Megaspeed—linked to Huang’s paramour—while Nvidia donated $25 million to Trump’s fundraiser and Huang attended a $1 million-per-plate Mar‑a‑Lago dinner that allegedly swayed policy.",
+    "Nvidia’s dominance in AI, underpinning about 40% of the S&P 500’s market cap, created incentives to keep sales flowing to China and protect the stock market, raising concerns of a national‑security scandal over the administration’s trade‑policy decisions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261113020105.3.8da6492c12fb1802@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "The Free Press’s El-Sayed Derangement Syndrome Comes Back to Bite It",
+   "date": "2026-11-12T18:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-free-presss-el-sayed-derangement",
+   "bullets": [
+    "After Abdul El-Sayed became Michigan's first Muslim senator, The Free Press staff used generative AI to falsify a photo and a reporter lied about his victory speech, prompting criticism even from anti-woke circles.",
+    "The Free Press, owned by David Ellison's Skydance for $150 million, faced internal backlash as its mishandling of El-Sayed's win coincided with a CBS News story sparking a newsroom fight.",
+    "A pro-Trump channel's shrinking audience, noted in the newsletter, is presented as an early warning sign of declining MAGA influence."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261112223052.3.17b87bbe4e1b7bfb@mg-d1.substack.com",
+   "newsletter": "Sarah Longwell—The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s DOJ Is Falling Apart as Top Officials Flee (w/ Andrew Weissmann) | Illegal News",
+   "date": "2026-11-12T14:30-08:00",
+   "url": "https://www.thebulwark.com/p/trumps-doj-is-falling-apart-as-top",
+   "bullets": [
+    "The Bulwark’s Sarah Longwell and former prosecutor Andrew Weissmann say the DOJ is shedding senior staff as pressure mounts to target Trump’s political foes, while the White House threatens Democrats probing the administration.",
+    "They argue Congress could compel Ghislaine Maxwell to testify about her ties to Jeffrey Epstein and Donald Trump, and note the stalled impeachment effort against Pete Hegseth.",
+    "They also flag a dubious $50 million contract awarded to Trump lawyer Alina Habba, suggesting possible corruption within the department."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261112220236.3.a0b8cf6bfca3d647@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Here’s How Right-Wingers Packed The Courts Well Before Trump",
+   "date": "2026-11-12T14:02-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/how-right-wingers-packed-the-courts",
+   "bullets": [
+    "Alex Wagner argues that the rightward shift of the Supreme Court—evident in the 2022 Voting Rights Act weakening, 2022 Roe v. Wade overturn, and 2023 affirmative‑action ban—was engineered by Reagan‑era conservatives targeting the courts for decades"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261112201315.3.aa5aad0efa57daab@mg-d1.substack.com",
    "newsletter": "Joe Perticone - The Bulwark",
@@ -5924,56 +5991,15 @@
     "It notes that since the cease‑fire anniversary, Israel has killed over 1,400 Palestinians in Gaza, drawing widespread condemnation."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261013001153.3.8435839a9645edd1@mg2.substack.com",
-   "newsletter": "George Conway - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Welcome to Psycho Politics",
-   "date": "2026-10-12T17:11-07:00",
-   "url": null,
-   "bullets": [
-    "George Conway launches a new podcast, Psycho Politics, to dissect Trump’s cult of personality, legal maneuvers, and the political fallout that will ultimately collapse his influence.",
-    "The first episode features Jim Acosta discussing Trump’s erratic behavior and the broader insanity surrounding his administration, courts, and constitutional implications.",
-    "Conway partners with The Bulwark to provide independent, pro‑democracy coverage, urging listeners to support ad‑free access through Bulwark+ membership."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013000105.3.058ea4c23ea80e5f@mg-d0.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "My decision",
-   "date": "2026-10-12T17:01-07:00",
-   "url": "https://chrispappasnh.substack.com/p/my-decision",
-   "bullets": [
-    "Chris Pappas faces John Sununu in a debate tomorrow, pledging to keep the Senate seat independent of corporate PAC money while New Hampshire’s $60 million GOP spend threatens the race.",
-    "Pappas argues that refusing corporate PAC funds has built a winning campaign, citing four congressional victories and a commitment to prioritize Granite Staters over big money.",
-    "He emphasizes his focus on lowering costs, protecting Social Security and Medicare, defending abortion access, and ensuring hard‑working people can advance, framing the Senate bid as a fight for local accountability."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261012220055.3.16c3d37f35eec0d1@mg2.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Bill Kristol: The Paxton Nightmare Is Costing Republicans Big Time",
-   "date": "2026-10-12T15:00-07:00",
-   "url": null,
-   "bullets": [
-    "Ken Paxton’s legal woes and the money poured into his defense are diverting Republican resources from key Senate races in Alaska and Kansas, while Texas Governor Greg Abbott faces a close contest against Democrat Gina Hinojosa, who could benefit from redirected GOP funding.",
-    "Bill Kristol and Tim Miller argue that President Biden’s continued support for Putin, Saudi Crown Prince Mohammed bin Salman’s backlash over Trump‑family dealings, and the Department of Homeland Security’s raid on Ilhan Omar’s home illustrate a broader pattern of political missteps that Republicans should counter by reallocating resources to vulnerable races.",
-    "Tim Miller highlights the plight of Maryam Tahmasebi’s family, still detained in the Dilley detention center, as part of a broader critique of U.S. immigration enforcement policies."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 84,
-  "total": 435
+  "shown": 86,
+  "total": 437
  },
  "brief_status": {
-  "tried": "2026-11-12T13:31-08:00",
-  "ok": true
+  "tried": "2026-11-12T19:28-08:00",
+  "ok": true,
+  "note": "plain-text list"
  }
 }
