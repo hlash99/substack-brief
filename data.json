@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T19:28-08:00",
+ "updated": "2026-11-13T12:56-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -57,6 +57,125 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261113201749.3.be5cc2ef402bb717@mg-d0.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "One of the Best-Looking Movies You’ll EVER See",
+   "date": "2026-11-13T12:17-08:00",
+   "url": "https://www.thebulwark.com/p/one-of-the-best-looking-movies-you-will-ever-see",
+   "bullets": [
+    "The stop‑motion film Wildwood impresses with its intricate blend of CGI and handcrafted puppetry, especially a massive final battle featuring thousands of crows, but its plot is derivative, echoing Narnia and The Hobbit.”,"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261113180233.3.c53ee65cae07a54c@mg2.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "The internet should be a paradise of niche interests",
+   "date": "2026-11-13T10:02-08:00",
+   "url": "https://post.substack.com/p/the-internet-should-be-a-paradise",
+   "bullets": [
+    "Mills Baker argues that the early web (1997‑2009) was a pluralistic, niche‑centric space where creators like him and his wife met through Tumblr, a contrast to today’s homogenized, ad‑driven platforms that favor mass appeal over specific communities.",
+    "He believes Substack’s model—requiring only thousands of fans rather than millions—can recreate a diverse internet biosphere, enabling small communities to set their own rules (Reply Rules), communicate privately (Chat), and customize aesthetics, thereby fostering pluralism and creative independence."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261113173131.3.9580560d1ae985a2@mg2.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Threeway with the Huangs",
+   "date": "2026-11-13T09:31-08:00",
+   "url": "https://www.thebulwark.com/p/trumps-threeway-with-the-huangs",
+   "bullets": [
+    "Trump and Nvidia executives, including CEO Jensen Huang, pushed to relax U.S. export controls so Nvidia could sell $7 billion+ of Blackwell‑class and H200 GPUs to Chinese firms, often via front companies, while Trump’s Commerce Department ignored due‑diligence requirements.",
+    "Chinese state‑run AI labs used roughly $500 million of these controlled chips, as shown by Will DePue’s surveillance, indicating a covert state‑led procurement facilitated by Alice Huang’s liaison with Nvidia and the Chinese MSS.",
+    "The Trump administration, led by Commerce Secretary Howard Lutnick, repeatedly lobbied to lift restrictions and shielded Nvidia from investigations, allowing the company to profit from sales to China despite national‑security risks."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261113161404.3.0d46c472b54b50b2@mg2.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "Border Dems to Fellow Democrats: Don’t F This Up",
+   "date": "2026-11-13T08:14-08:00",
+   "url": "https://www.thebulwark.com/p/border-dems-to-fellow-democrats-dont-f-this-up-immigration-reform",
+   "bullets": [
+    "Democrats in border districts, highlighted by a press conference with cowboy hats, urged Washington to act swiftly on immigration reform after winning all ten Southwest congressional seats in the 2026 midterms, citing a 42.5‑point swing in Texas’s 15th district by Bobby Pulido.",
+    "Sen. Ruben Gallego and Rep. Joaquin Castro, joined by Latino leaders like Mario Guerrero, called for a “blue wall” of secure borders and accountability for ICE, while Rep. Henry Cuellar announced plans to chair the Homeland Security Appropriations Subcommittee and push guardrails for ICE and detention centers for FY 2027."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261113160452.3.a8b3f27fe32b2e71@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "There Was No ‘Liberation’ of Afghanistan",
+   "date": "2026-11-13T08:04-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/there-was-no-liberation-of-afghanistan",
+   "bullets": [
+    "On Nov. 13, 2001 Kabul’s residents briefly celebrated the Taliban’s ouster, but within days U.S. bounty leaflets spurred widespread suspicion and violence against Pashto speakers and bearded men.",
+    "A 2006 Seton Hall study of Pentagon records showed most Guantánamo detainees were captured by Pakistani forces or Northern Alliance bounty hunters, not U.S. troops, and Dostum’s forces killed thousands of surrendered Taliban in sealed containers en route to Sheberghan.",
+    "The U.S. and NATO handed post‑Taliban Afghanistan back to warlords, spending over $100 billion over two decades on a hollow ‘democratic’ state that fostered a renewed Taliban insurgency and now risks repeating the cycle of conquest."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261113142222.3.79406f21bbf0c9f6@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Chips Fall on Trump",
+   "date": "2026-11-13T06:22-08:00",
+   "url": "https://www.thebulwark.com/p/the-chips-fall-on-trump-nvidia-scandal-huang-lutnick-bessent-china",
+   "bullets": [
+    "U.S. intelligence says Alice Huang of Singapore’s Megaspeed, linked to Nvidia CEO Jensen Huang, is likely a Chinese intelligence asset, and the Trump administration has ignored warnings while maintaining close ties.",
+    "Nvidia’s board forced Jensen Huang’s resignation after reports of illegal chip rerouting to China, but the Justice Department and Commerce Department have stalled investigations and refused to add Megaspeed to the trade restriction list.",
+    "Senators Ron Wyden and Rep. Richard Neal have urged Commerce Secretary Howard Lutnick for answers, and Democrats face a choice whether to prioritize this export‑control scandal, akin to the Ukraine impeachment, as a congressional investigation target."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261113120127.3.a21c859bad56507c@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Here’s How the Blue Tsunami Could End the Electoral College",
+   "date": "2026-11-13T04:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/heres-how-the-blue-tsunami-could",
+   "bullets": [
+    "Senator Chris Van Hollen announced a challenge to Senate Majority Leader Chuck Schumer, framing it as a response to the Democratic “blue tsunami” in the recent midterms.",
+    "The newsletter argues the Electoral College is undemocratic, citing Bush’s 2000 and Trump’s 2016 popular‑vote losses, and claims widespread public support for a national popular vote could finally end it."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261113113115.3.b16f70dcf2b7d381@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Elon Still Loves Vladimir",
+   "date": "2026-11-13T03:31-08:00",
+   "url": "https://paulkrugman.substack.com/p/elon-still-loves-vladimir",
+   "bullets": [
+    "Krugman claims Elon Musk has again disrupted Ukraine’s military Starlink service, risking civilian deaths as the war shifts in Kyiv’s favor.",
+    "He suggests Musk may feel untouchable amid focus on Operation Honeypot and hints at possible contact from Putin or Trump‑aligned officials.",
+    "Krugman argues Musk belongs to a right‑wing clique that admires Putinism and calls for Starlink’s nationalization to prevent private tyranny."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261113113058.3.f2ee98afa0f62a6e@mg2.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "What’s next for health in the U.S.?",
+   "date": "2026-11-13T03:30-08:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/whats-next-for-health-in-the-us",
+   "bullets": [
+    "The post argues that the recent midterm elections created a clear public mandate for cheaper health care, trustworthy guidance, and transparent, accountable health systems in the U.S.”,"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261113030105.3.fff0828436c95d84@mg-d1.substack.com",
    "newsletter": "Tim Miller - The Bulwark",
@@ -5844,162 +5963,15 @@
     "She is a known promoter of QAnon conspiracy theories, including claims about pedophilia rings, raising concerns beyond her poor media performance."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261013203927.3.cfb30999cd9a7d67@mg-d1.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Road to a Democratic House Runs Through Iowa",
-   "date": "2026-10-13T13:39-07:00",
-   "url": null,
-   "bullets": [
-    "Democrats are gaining ground in Iowa’s 1st and 3rd House districts as rising gas, diesel and food prices—linked to the Iran war and Trump‑era tariffs—fuel voter anger toward incumbents Rep. Zach Nunn and Rep. Mariannette Miller‑Meeks.",
-    "Incumbent Nunn, a MAGA Republican, has faced criticism for backing unpopular tariffs, never holding a town hall, and using Defense Secretary Pete Hegseth as a campaign prop tied to the costly Iran conflict, boosting Democrat Sarah Trone Garriott’s momentum.",
-    "Democrat Christina Bohannan, after two prior defeats, cites soaring costs and health‑care premiums as key issues; she says the recent loss by Miller‑Meeks’s super PAC funding signals growing Democratic momentum in the district."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013183240.3.645819a5748a5c0a@mg-d1.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "I’m asking for your help once again:",
-   "date": "2026-10-13T11:32-07:00",
-   "url": "https://ossoff.substack.com/p/im-asking-for-your-help-once-again",
-   "bullets": [
-    "Jon Ossoff urges supporters to donate $10 or more before the final FEC fundraising deadline to fund a large-scale, state‑wide campaign that can counter tens of millions in outside Republican spending and secure Georgia’s Senate seat."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013170944.3.5de1818ae4c6d464@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "I’m counting on you",
-   "date": "2026-10-13T10:09-07:00",
-   "url": "https://roycoopernc.substack.com/p/im-counting-on-you",
-   "bullets": [
-    "Final FEC fundraising deadline is tomorrow; the report will reveal total funds raised, number of donations, and whether the campaign maintains momentum versus opponent Michael Whatley’s megadonors.",
-    "Roy Cooper urges supporters to donate $5 or more to strengthen the grassroots push to flip North Carolina’s Senate seat back to Democrats before Election Day."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013163736.3.c25aeaa8aa4cf691@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Enter … The Trump Zone: Where Everybody Loses",
-   "date": "2026-10-13T09:37-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s housing policy has driven home values up for owners but also made buying a house more expensive, hurting affordability and increasing overall housing costs."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013150139.3.9df80a79e683c296@mg2.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Is This the ‘Defining Political Emotion of Our Time’? A Best-Selling Author Makes the Case",
-   "date": "2026-10-13T08:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/is-this-the-defining-political-emotion",
-   "bullets": [
-    "Anand Giridharadas argues that the 2023 subway shooting in NYC exposes a national climate of “abandonment” that fuels DIY violence and deepens political divides, framing it as the era’s defining emotion.",
-    "He links this feeling to the 11‑year messaging environment that normalizes violence, warning that it will shape the 2024 midterms and the 2028 presidential race."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013143205.3.865e748d6f0744ef@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Why Adam Hamilton Could Win in Kansas, as Explained by Trump Voters",
-   "date": "2026-10-13T07:32-07:00",
-   "url": null,
-   "bullets": [
-    "Kansas megachurch pastor Adam Hamilton, a Democrat, is polling within 5 points of Republican Sen. Roger Marshall despite Trump’s 16‑point 2022 win in the state, a rare Democratic surge in a deep red state.",
-    "New York Times polls since September show Hamilton tied or leading, though the lead never exceeds 5 points and includes a campaign‑sponsored poll.",
-    "Interviews with 2024 Kansas Trump voters suggest specific voter concerns and messaging that could inform Democratic strategies in other red states."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013132541.3.08f0dc37a6c76aa2@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Donald Trump Got Mugged by Reality",
-   "date": "2026-10-13T06:25-07:00",
-   "url": null,
-   "bullets": [
-    "Top Republican super PACs are withdrawing $10 million+ from Iowa Rep. Mariannette Miller‑Meeks and New Jersey Rep. Thomas Kean Jr., reallocating funds to more winnable midterm seats.",
-    "Trump’s recent Ohio rally shows a lack of substantive policy promises; he focuses on xenophobic chants, violent rhetoric, and vague future claims like ending wars and cutting energy prices.",
-    "Bill Kristol critiques elites as self‑preserving, using a Swedish film metaphor to argue they will abandon the public when stakes rise, calling for a new, trustworthy elite class."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013130153.3.9f9dd909bd234da3@mg-d0.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "3 weeks left and a lot of work to do",
-   "date": "2026-10-13T06:01-07:00",
-   "url": "https://chrispappasnh.substack.com/p/3-weeks-left-and-a-lot-of-work-to",
-   "bullets": [
-    "The campaign’s final FEC deadline is in 24 hours, with a goal to raise $350,000 to fund door‑knocking, calls, and messaging in New Hampshire, where 90% vote on Election Day.",
-    "John Sununu and corporate backers have spent over $60 million on attack ads in the state, and the campaign warns that tomorrow’s fundraising numbers will be the last the media and Trump see before the final stretch.",
-    "Supporters are urged to donate $5‑$25 immediately, as the deadline marks the last chance to demonstrate strength before the 21‑day sprint to the November 3 election."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013122838.3.92c76e7f20e2b67a@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "The GOP Has a They/Them Problem",
-   "date": "2026-10-13T05:28-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/the-gop-has-a-theythem-problem",
-   "bullets": [
-    "Trump’s 2024 campaign spent $20 million on a ‘They/Them’ ad aired 60,000+ times, deemed most effective by Future Forward, while Harris failed to counter it with a comparable message.",
-    "Republicans now mimic the ad’s strategy, using the ‘They/Them’ tagline and even Spanish versions like ‘por los nobinarios, no por ti,’ but analysts predict it will fail because the original’s impact hinged on Trump’s unique brand of fear‑mongering."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013120339.3.7b103d1472aff46e@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Elon Musk Shows Us Why Oligarchy is a Danger",
-   "date": "2026-10-13T05:03-07:00",
-   "url": "https://paulkrugman.substack.com/p/elon-musk-shows-us-why-oligarchy",
-   "bullets": [
-    "The top 0.01 percent of the U.S. wealthiest—about 300 billionaires—have driven the rise in wealth concentration from 23.2% in 1979 to 38.3% today, while the bottom 90% of that group saw little change.",
-    "Billionaires wield disproportionate political influence: 300 of them contributed 19% of all reported federal campaign donations in 2024, and Elon Musk’s $X‑based spending and smear campaigns further amplify their power beyond cash contributions.",
-    "Krugman argues that the real threat to democracy is the ultra‑wealthy oligarchs, not the 5 million “Main Street Millionaires,” whose collective wealth is thirteen times that of the Forbes 400 but whose political clout is far smaller."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013111129.3.569b1011184e63a4@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Why Was Ilhan Omar’s Home Raided Over ‘Illegal Immigration’ Claims, and Not Elon Musk’s? You Know the Answer",
-   "date": "2026-10-13T04:11-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/why-was-ilhan-omars-home-raided-over",
-   "bullets": [
-    "ICE raided Rep. Ilhan Omar’s Washington, DC home in a criminal investigation of her immigration status, highlighting a double standard as billionaire Elon Musk—who reportedly entered the U.S. illegally in the 1990s—has faced no such action despite similar claims.",
-    "The newsletter links the raid to Trump’s long‑running anti‑Omar rhetoric and recent calls for racial violence, contrasting it with Trump’s occasional talk of deporting Musk, who is a major GOP donor ($276 million in midterms).",
-    "It notes that since the cease‑fire anniversary, Israel has killed over 1,400 Palestinians in Gaza, drawing widespread condemnation."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 86,
-  "total": 437
+  "shown": 84,
+  "total": 435
  },
  "brief_status": {
-  "tried": "2026-11-12T19:28-08:00",
-  "ok": true,
-  "note": "plain-text list"
+  "tried": "2026-11-13T12:56-08:00",
+  "ok": false,
+  "note": "provider error"
  }
 }
