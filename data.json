@@ -1,32 +1,18 @@
 {
- "updated": "2026-11-13T12:56-08:00",
+ "updated": "2026-11-13T19:23-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms have handed Democrats a sweeping majority, forcing the new Congress to confront healthcare reform, climate policy, and a weakened GOP that is scrambling to rebuild after Trump’s collapse (The Bulwark, Zeteo, Paul Krugman).",
-   "Trump’s administration is unraveling as DOJ officials flee, Stephen Miller is named chief of staff, and the White House is accused of shielding Nvidia CEO Jensen Huang’s alleged affair with a Chinese spy, exposing deep national‑security breaches (The Bulwark, JVL, Bill Kristol & Andrew Egger).",
-   "The GOP’s redistricting gamble backfired, creating unexpectedly competitive districts that helped Democrats win key seats, yet the party remains divided over how to regain its footing amid internal feuds and a demoralized MAGA base (The Bulwark, Zeteo).",
-   "Tech‑industry scandals—Nvidia’s leadership turmoil and Tesla’s Cybertruck cancellation—highlight a broader erosion of U.S. tech dominance, as personal misconduct and corporate missteps intersect with geopolitical tensions with China (Krugman, Doomberg).",
-   "Democratic leaders face a strategic dilemma: push aggressively for Medicare‑for‑All while avoiding intra‑party gridlock, and decide whether to elevate progressive figures like Ayanna Pressley to leadership roles amid calls for a new party identity (The Bulwark, First Draft).",
-   "Amid political upheaval, public health concerns loom as measles elimination status is under review and flu rates rise, reminding voters that governance must address both pandemic preparedness and the fallout from a fractured political landscape (Your Local Epidemiologist)."
+   "The 2026 midterms delivered a decisive blow to MAGA, with younger Republicans defecting and key swing states flipping, signaling the party’s generational collapse (The Bulwark, Zeteo, The Message Box).",
+   "Trump’s administration quietly enabled Nvidia’s illegal chip sales to China, ignoring intelligence warnings and prompting a board‑level ouster of Jensen Huang, a scandal that underscores national‑security risks (The Bulwark, Bill Kristol & Andrew Egger).",
+   "Democrats now control Congress and are racing to enact affordable health‑care reforms while fending off internal battles over Medicare‑for‑All, a priority highlighted by health‑policy analysts (Your Local Epidemiologist, Jonathan Cohn).",
+   "Republicans are scrambling to regroup after a historic “Blue Wave,” with internal feuds, redistricting backfires, and Stephen Miller’s hard‑right agenda threatening to further alienate voters (Dan Pfeiffer, The Bulwark).",
+   "Tech IPO quality is deteriorating as banks push risky deals, exemplified by Fervo Energy’s plunge, raising concerns about capital allocation in a booming private‑equity market (Doomberg).",
+   "The internet’s shift from niche communities to ad‑driven homogenization is prompting calls to revive Substack‑style platforms that empower small, passionate audiences (The Substack Post)."
   ],
   "by": "groq",
   "ids": [
-   "20261110113421.3.9a87cb7abb9eda9e@mg-d0.substack.com",
-   "20261110113812.3.9c06c87cf567d8a6@mg-d0.substack.com",
-   "20261110115631.3.828d84a30bb0d453@mg2.substack.com",
-   "20261110115801.3.b51e2cc27f77297c@mg2.substack.com",
-   "20261110120041.3.9a89353fc8da1353@mg-d1.substack.com",
-   "20261110130404.3.79b486ef3780fe76@mg-d1.substack.com",
-   "20261110142200.3.fe67736ba49494b7@mg2.substack.com",
-   "20261110170312.3.c1b46ce044923e82@mg2.substack.com",
-   "20261110180233.3.c7fbbae0e786031c@mg-d1.substack.com",
-   "20261110182901.3.ff291e5874bc3847@mg2.substack.com",
-   "20261110210038.3.f5c8e526cebc2474@mg2.substack.com",
-   "20261110230134.3.4ce54e7d0271c6ef@mg-d0.substack.com",
-   "20261111001933.3.baea80d7c860dbe9@mg-d0.substack.com",
-   "20261111025751.3.8343a6cc37da6b38@mg2.substack.com",
    "20261111100247.3.a7a7f10ce10b6d0b@mg2.substack.com",
    "20261111113126.3.de91c852630d09d8@mg-d1.substack.com",
    "20261111142554.3.2bcff75c00601c5d@mg-d1.substack.com",
@@ -51,12 +37,81 @@
    "20261112223052.3.17b87bbe4e1b7bfb@mg-d1.substack.com",
    "20261113020105.3.8da6492c12fb1802@mg-d1.substack.com",
    "20261113020648.3.3d9be66ee3da9ddd@mg2.substack.com",
-   "20261113030105.3.fff0828436c95d84@mg-d1.substack.com"
+   "20261113030105.3.fff0828436c95d84@mg-d1.substack.com",
+   "20261113113058.3.f2ee98afa0f62a6e@mg2.substack.com",
+   "20261113113115.3.b16f70dcf2b7d381@mg2.substack.com",
+   "20261113120127.3.a21c859bad56507c@mg-d1.substack.com",
+   "20261113142222.3.79406f21bbf0c9f6@mg-d0.substack.com",
+   "20261113160452.3.a8b3f27fe32b2e71@mg-d0.substack.com",
+   "20261113161404.3.0d46c472b54b50b2@mg2.substack.com",
+   "20261113173131.3.9580560d1ae985a2@mg2.substack.com",
+   "20261113180233.3.c53ee65cae07a54c@mg2.substack.com",
+   "20261113201749.3.be5cc2ef402bb717@mg-d0.substack.com",
+   "20261113224533.3.5eeb3ef2a6575808@mg-d1.substack.com",
+   "20261114010043.3.88803a0b799c4196@mg-d0.substack.com",
+   "20261114020227.3.9b92da97a1898312@mg2.substack.com",
+   "20261114023042.3.4420dad74c690107@mg-d1.substack.com"
   ],
-  "updated": "2026-11-12T19:28-08:00",
+  "updated": "2026-11-13T19:23-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261114023042.3.4420dad74c690107@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "MAGA Is Starting to Collapse, and Trump Can’t Stop It",
+   "date": "2026-11-13T18:30-08:00",
+   "url": "https://www.thebulwark.com/p/young-republicans-are-openly-revolting",
+   "bullets": [
+    "Andrew Egger and Will Sommer report that younger Republicans are increasingly rejecting Trump, signaling a generational shift away from MAGA.",
+    "They note far-right influencer Nick Fuentes is gaining traction among this cohort, while JD Vance's political alignment remains uncertain.",
+    "The authors argue that the escalating conflict between MAGA radicals and traditional GOP leaders could lead to the movement's collapse before a new leadership emerges."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261114020227.3.9b92da97a1898312@mg2.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 95: Trump White House Threatens to Charge Dems If They Investigate Admin",
+   "date": "2026-11-13T18:02-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-95-trump",
+   "bullets": [
+    "Trump used Truth Social on Nov 7 to order the Justice Department to investigate Democrats calling for probes of his administration, calling them “extortionists” and demanding their imprisonment; Attorney General Todd Blanche echoed the threat on Nov 8, saying he might lock up Democrats depending on alleged crimes.",
+    "The administration announced a rule on Nov 10 that would cut SNAP benefits for over 6 million people and strip nearly 2 million children of free school meals by tightening income eligibility, while a Dec‑mid‑December housing rule would deny federal aid to families with any undocumented member, endangering about 80,000 people, half children, with homelessness.",
+    "The White House’s top lawyer sent a threatening letter to incoming House Oversight chair Robert Garcia on Nov 11, accusing Democrats of intent to transgress constitutional limits, and the Supreme Court agreed on Nov 13 to hear a case on Trump’s executive order banning asylum, which lower courts blocked as violating the Immigration and Nationality Act."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261114010043.3.88803a0b799c4196@mg-d0.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Blexas and Bliss(issippi), w/ Beto O’Rourke and Wright Thompson",
+   "date": "2026-11-13T17:00-08:00",
+   "url": "https://www.thebulwark.com/p/blexas-and-blississippi-w-beto-orourke",
+   "bullets": [
+    "Texans overcame voter suppression and election interference in 2026, delivering a result that the author says better reflects the state’s will, prompting calls for Democrats to cast Trump as a modern‑day Herbert Hoover.",
+    "Mississippi voters, frustrated with elite wealth and a “gold‑covered” White House, elected Scott Colom, a victory the author frames as a moral‑justice turning point even for non‑supporters.",
+    "The episode features Beto O’Rourke and writer‑journalist Wright Thompson discussing these outcomes on Tim Miller’s ‘soft boy’ weekend podcast."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261113224533.3.5eeb3ef2a6575808@mg-d1.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "So Much Winning",
+   "date": "2026-11-13T14:45-08:00",
+   "url": "https://www.thebulwark.com/p/so-much-winning",
+   "bullets": [
+    "The hosts celebrate Scott Colom’s surprising win, arguing it signals a broader shift for Republicans in traditionally Democratic districts.",
+    "They claim recent polling errors either harmed Democrats by underestimating Republican momentum or inadvertently boosted them by prompting a backlash, and they criticize Florida’s new anti‑DEI law for targeting educators rather than corporate executives.",
+    "A debate is highlighted between Senate Majority Leader Chuck Schumer and fellow Democrat Chris Van Hollen over the party’s strategy, while JD Vance is accused of mishandling the Iran issue, and JVL teases a major upcoming announcement."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261113201749.3.be5cc2ef402bb717@mg-d0.substack.com",
    "newsletter": "Sonny Bunch - The Bulwark",
@@ -5908,70 +5963,14 @@
     "The newsletter argues Western sanctions on Russia are fundamentally flawed and calls for a new strategy to boost European economies and increase real pressure on Moscow."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261014004005.3.56b4b996bf39e3df@mg-d0.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Insiders Are Already Trashing the New Press Secretary",
-   "date": "2026-10-13T17:40-07:00",
-   "url": null,
-   "bullets": [
-    "The hosts criticize new White House Press Secretary’s background while noting Kimberly Guilfoyle’s forced exit and the DHS raid on Rep. Ilhan Omar’s home.",
-    "They highlight GOP’s withdrawal of resources from key House races and the right‑wing uproar over James Talarico’s campaign absence.",
-    "Premium segment includes a minute‑by‑minute commentary on Katie Zachary’s 15‑minute press briefing and a debate on Tim’s controversial past stance."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014001443.3.0d610baa408cc079@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "American ‘Psycho,’ Fascist Dork: Inside Stephen Miller’s War of Terror",
-   "date": "2026-10-13T17:14-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/stephen-miller-trump-running-world",
-   "bullets": [
-    "Former Trump officials tell Zeteo that Stephen Miller, the administration’s chief policy architect, deliberately tolerates massive loss of life, even encouraging riots to justify invoking the Insurrection Act and deploying troops in U.S. cities.",
-    "Miller oversaw the creation of a “Must Deport list,” pushing deportations to countries with poor human‑rights records and sanctioning policies that ship legal immigrants to dangerous, unrelated nations.",
-    "According to insiders, Miller’s actions have driven unprecedented democratic backsliding, including militarized immigration enforcement, erosion of due process, and overt racism targeting Somali Americans and Haitians."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013222627.3.a9a402c69ea9d8d2@mg2.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "“Superpower Suicide”: Dissecting Trump’s Deal With Putin",
-   "date": "2026-10-13T15:26-07:00",
-   "url": null,
-   "bullets": [
-    "Chrystia Freeland, former Canadian deputy PM and current adviser to Zelensky, argues that allies’ attempts to appease Trump over his pro‑Putin stance were a strategic miscalculation.",
-    "She warns that Russia’s oligarchs, who helped install Putin believing they could control him, illustrate how power‑hungry businessmen can be outmaneuvered by authoritarian leaders.",
-    "The episode also touches on Trump’s latest move to weaponize antitrust against non‑compliant media and Senator Darrell Graham’s reaction to Trump’s attacks on her brother’s legacy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261013211106.3.ac8e7eb8e485dee3@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "7 Things to Know About the New Insane White House Press Secretary",
-   "date": "2026-10-13T14:11-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/7-things-to-know-about-the-new-insane",
-   "bullets": [
-    "Katie Zacharia, Donald Trump’s sixth White House press secretary, bombed her first briefing by ending after 15 minutes, answering only three questions and mistakenly calling her husband “my president.”",
-    "She is a known promoter of QAnon conspiracy theories, including claims about pedophilia rings, raising concerns beyond her poor media performance."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 84,
+  "shown": 85,
   "total": 435
  },
  "brief_status": {
-  "tried": "2026-11-13T12:56-08:00",
-  "ok": false,
-  "note": "provider error"
+  "tried": "2026-11-13T19:23-08:00",
+  "ok": true
  }
 }
