@@ -1,24 +1,18 @@
 {
- "updated": "2026-11-13T19:23-08:00",
+ "updated": "2026-11-14T11:17-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms delivered a decisive blow to MAGA, with younger Republicans defecting and key swing states flipping, signaling the party’s generational collapse (The Bulwark, Zeteo, The Message Box).",
-   "Trump’s administration quietly enabled Nvidia’s illegal chip sales to China, ignoring intelligence warnings and prompting a board‑level ouster of Jensen Huang, a scandal that underscores national‑security risks (The Bulwark, Bill Kristol & Andrew Egger).",
-   "Democrats now control Congress and are racing to enact affordable health‑care reforms while fending off internal battles over Medicare‑for‑All, a priority highlighted by health‑policy analysts (Your Local Epidemiologist, Jonathan Cohn).",
-   "Republicans are scrambling to regroup after a historic “Blue Wave,” with internal feuds, redistricting backfires, and Stephen Miller’s hard‑right agenda threatening to further alienate voters (Dan Pfeiffer, The Bulwark).",
-   "Tech IPO quality is deteriorating as banks push risky deals, exemplified by Fervo Energy’s plunge, raising concerns about capital allocation in a booming private‑equity market (Doomberg).",
-   "The internet’s shift from niche communities to ad‑driven homogenization is prompting calls to revive Substack‑style platforms that empower small, passionate audiences (The Substack Post)."
+   "The 2026 midterms have flipped the GOP’s narrative: a blue wave that pollsters underestimated has forced Trump and his allies to confront a party in crisis, with younger Republicans rejecting MAGA and Democrats demanding new leadership (The Bulwark, Zeteo, The Message Box).",
+   "Trump’s administration is embroiled in a national‑security scandal as Nvidia CEO Jensen Huang is linked to a Chinese spy ring, yet the White House has ignored warnings and relaxed export controls, sparking congressional backlash (Zeteo, The Bulwark).",
+   "The DOJ is unraveling as senior officials flee amid threats to prosecute Democrats, while the administration threatens to charge opposition lawmakers, raising concerns about the rule of law (The Bulwark, The Message Box).",
+   "AI spending has ballooned into a trillion‑dollar bubble, with corporate cap‑ex outpacing revenue and raising doubts about long‑term returns, echoing past tech booms (Paul Krugman).",
+   "The Electoral College’s legitimacy is under renewed attack after the blue tsunami, with senators calling for a national popular vote to end an undemocratic system (Zeteo).",
+   "Health policy is poised for reform as the midterms signal a mandate for cheaper care and transparent systems, a shift that could reshape federal health spending (Your Local Epidemiologist)."
   ],
   "by": "groq",
   "ids": [
-   "20261111100247.3.a7a7f10ce10b6d0b@mg2.substack.com",
-   "20261111113126.3.de91c852630d09d8@mg-d1.substack.com",
-   "20261111142554.3.2bcff75c00601c5d@mg-d1.substack.com",
-   "20261111153123.3.b887518298d078c2@mg-d0.substack.com",
-   "20261111160325.3.5585cbeefb7b5b79@mg-d1.substack.com",
-   "20261111173958.3.685f77c1b833ee24@mg-d0.substack.com",
    "20261111205429.3.c14199a2aaece4e4@mg2.substack.com",
    "20261111205932.3.f2ec874a9b8c313a@mg-d1.substack.com",
    "20261111222851.3.95a1f7db2c54af3f@mg-d0.substack.com",
@@ -50,12 +44,113 @@
    "20261113224533.3.5eeb3ef2a6575808@mg-d1.substack.com",
    "20261114010043.3.88803a0b799c4196@mg-d0.substack.com",
    "20261114020227.3.9b92da97a1898312@mg2.substack.com",
-   "20261114023042.3.4420dad74c690107@mg-d1.substack.com"
+   "20261114023042.3.4420dad74c690107@mg-d1.substack.com",
+   "20261114113046.3.f45fa533a6e49309@mg-d1.substack.com",
+   "20261114131535.3.7a550459668df320@mg2.substack.com",
+   "20261114134537.3.5201850c44094643@mg-d0.substack.com",
+   "20261114140058.3.f5dbc958a812ddbe@mg-d0.substack.com",
+   "20261114160302.3.5ac27e02063ee064@mg-d0.substack.com",
+   "20261114170126.3.147f53cde78f3084@mg-d1.substack.com"
   ],
-  "updated": "2026-11-13T19:23-08:00",
+  "updated": "2026-11-14T11:17-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261114170126.3.147f53cde78f3084@mg-d1.substack.com",
+   "newsletter": "Jim Swift - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A Bigger Blue Wave, a Weaker Trump, and a Test for Congress",
+   "date": "2026-11-14T09:01-08:00",
+   "url": "https://www.thebulwark.com/p/a-bigger-blue-wave-a-weaker-trump",
+   "bullets": [
+    "Philip Rotner argues for a No Kings Act to curb corporate influence, while Mona Charen warns Republicans overreliant on Marco Rubio’s prospects amid a projected blue wave that pollsters underestimated, and Lakshya Jain explains why the 2026 election’s Democratic surge surprised analysts.",
+    "Cathy Young reports that Russia’s and Ukraine’s election outcomes were influenced by foreign interference, and Bill Kristol and Julia Curlee will discuss Trump’s China strategy and the espionage threat highlighted by the Nvidia scandal in a Sunday podcast."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261114160302.3.5ac27e02063ee064@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "‘Feeding Frenzy’: Trump’s Administration Erupts Over the Nvidia Scandal",
+   "date": "2026-11-14T08:03-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/feeding-frenzy-trumps-administration-nvidia",
+   "bullets": [
+    "The Nvidia scandal—alleged sex misconduct, spying, and chip smuggling involving CEO Jensen Huang—has erupted into a major infighting crisis within Trump’s administration, prompting Republican lawmakers to demand accountability.",
+    "Sources say President Trump was warned by Secretary of State Marco Rubio and intelligence officials about Huang’s ties to a suspected Chinese spy but downplayed the threat, allowing Huang to continue advising on AI‑related policy.",
+    "The controversy has sparked a power struggle among senior Trump‑Vance officials, with cabinet members reportedly plotting to oust a highly despised secretary described in internal leaks as “that fucking dumbass.”"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261114140058.3.f5dbc958a812ddbe@mg-d0.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“My dad is taking out billboards from the afterlife”",
+   "date": "2026-11-14T06:00-08:00",
+   "url": "https://post.substack.com/p/my-dad-is-taking-out-billboards-from",
+   "bullets": [
+    "Lucy Meilus recounts sorting her late father’s archives—photography awards, Memphis‑design furniture, a Brooklyn loft featured in the NYT—and describes a recent medium session she arranged after his three‑year death anniversary",
+    "Elif Shafak’s essay revisits Isaiah Berlin’s ‘fox vs. hedgehog’ metaphor, arguing readers should lean into their strongest skill set and find refuge in the gaps between specialties",
+    "A 1848 secret brotherhood of three art students, condemned as ‘perverse’ and dissolved after five years, now has paintings that are among the world’s most famous, illustrating how avant‑garde movements can later become canonical"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261114134537.3.5201850c44094643@mg-d0.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Are Schumer and Jeffries the Right Leaders for This Moment?",
+   "date": "2026-11-14T05:45-08:00",
+   "url": "https://open.substack.com/pub/messagebox/p/are-schumer-and-jeffries-the-right",
+   "bullets": [
+    "Pfeiffer notes post‑election anxiety among Democrats, with many questioning Senate Majority Leader Chuck Schumer and House Majority Leader Hakeem Jeffries, even booing Schumer at Crooked Con.",
+    "He acknowledges growing calls for new Democratic leadership over the past two years but suggests the answer isn’t simple, hinting at nuanced considerations for any potential replacements."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261114131535.3.7a550459668df320@mg2.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "How to Shut Down Trump’s Pardon Abuse",
+   "date": "2026-11-14T05:15-08:00",
+   "url": "https://www.thebulwark.com/p/how-to-shut-down-trump-pardon-abuse",
+   "bullets": [
+    "Trump has announced plans to issue “tremendous numbers of pardons” to allies within a thousand miles of the Oval Office, expanding from his earlier 200‑foot limit claim.",
+    "Midterm voters delivered a strong rebuke of Trump’s administration over corruption, yet the White House is threatening to prosecute Democrats overseeing the administration while continuing pardon abuse.",
+    "The author argues Congress can curb this by a three‑pronged strategy to limit presidential pardon power without a constitutional amendment."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261114113046.3.f45fa533a6e49309@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "bubbel trubbel",
+   "date": "2026-11-14T03:30-08:00",
+   "url": "https://paulkrugman.substack.com/p/bubbel-trubbel",
+   "bullets": [
+    "Bernstein and Furman argue AI spending shows bubble traits: $1 trillion cap‑ex since 2024, $6 trillion planned through 2030, with revenues under $300 billion and rising leverage.",
+    "Krugman notes the AI boom mirrors past tech bubbles—massive corporate investment, limited consumer hype, and uncertain returns—while acknowledging AI’s potential productivity gains."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261114110428.3.2e385654b049f9c8@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Why Did They Flip? Trump Voters Explain Themselves (w/ Adam Jentleson)",
+   "date": "2026-11-14T03:04-08:00",
+   "url": "https://www.thebulwark.com/p/focus-groups-find-a-remarkable-shift",
+   "summary_tries": 1,
+   "bullets": [
+    "The blue wave arrived, and it was fantastic. Now, we’re reveling by listening to some of the voters who created it. Hear why Mississippi just elected Scott Colom to the Senate, and why Texas elected Gina Hinojosa as governor, from the voter…",
+    "Adam Jentleson’s book, Supermajority [ https://substack.com/redirect/3d41f597-12a1-41a4-940e-870d7a3848d6?j=eyJ1IjoiMnVxMXlxIn0.KgFFbdwaittoWpNmNZ4febCgPyQ6cHl3c2C1ztHSCDM ]"
+   ],
+   "summary_by": "excerpt"
+  },
   {
    "id": "20261114023042.3.4420dad74c690107@mg-d1.substack.com",
    "newsletter": "Bulwark Takes",
@@ -5789,188 +5884,15 @@
     "The story highlights internal newsroom turmoil, concerns over editorial bias, and the broader debate over media independence amid corporate influence."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261014191435.3.f11d17693b638d08@mg2.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Ramaswamy Campaign Ad Accidentally Featured a Sex Offender",
-   "date": "2026-10-14T12:14-07:00",
-   "url": null,
-   "bullets": [
-    "Vivek Ramaswamy’s Ohio governor ad featured Patty Edwards of Amherst discussing property‑tax fears, but also included her husband Vernon Edwards, a registered sex offender who pleaded guilty in 2006 to two counts of gross sexual imposition of a minor and was sentenced to eight years in prison.",
-    "The campaign’s spokesperson said they had no prior knowledge of Edwards’s criminal record and removed him from the ad, while the social‑media clip featuring him was quietly taken down, raising questions about the candidate’s vetting process."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014180334.3.924bca3a3de9849d.2fok9ifv@mg1.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "💬 New thread from Jonathan Cohn",
-   "date": "2026-10-14T11:03-07:00",
-   "url": null,
-   "bullets": [
-    "Jonathan Cohn invites subscribers to a live The Bulwark chat about health‑care issues and politics, seeking reader input ahead of the upcoming election."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014163103.3.f3264bd305788ef7@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Katie Zacharia and Pyongyang on the Potomac",
-   "date": "2026-10-14T09:31-07:00",
-   "url": null,
-   "bullets": [
-    "Katie Zacharia’s brief press briefing was dominated by questions from Breitbart, Fox News, and NewsNation, all of which are tied to Trump’s media network and often ask scripted or unanswerable questions.",
-    "Breitbart’s ownership group, including the Mercer family, donated $3.4 million to Trump’s campaign, and Fox News has hired 23 of its journalists for the administration, illustrating the deep media‑political pipeline.",
-    "Fox News paid $787 million in damages to defend Trump’s 2020 election lies, underscoring its role as a state‑directed propaganda outlet rather than independent journalism."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014160343.3.54d0e7290a57f234@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "*LIVE STREAM MO AND MEHDI* There’s Still A Chance To Watch Zeteo’s *SOLD OUT* Show In Houston",
-   "date": "2026-10-14T09:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/live-stream-mo-and-mehdi-theres-still",
-   "bullets": [
-    "Zeteo’s sold‑out live taping of the ‘We’re Not Kidding’ podcast with Mehdi Hasan and Mo Amer will stream Friday from Houston’s Cullen Performance Hall, featuring audience Q&A and a special chat with Texas Rep. Greg Casar."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014143113.3.13877895bdf52195@mg2.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Tells One Health Care Story. The Facts Tell Another.",
-   "date": "2026-10-14T07:31-07:00",
-   "url": null,
-   "bullets": [
-    "Katie Zacharia claims Trump lowered prescription drug prices by 3.1%—the largest drop in 63 years—by negotiating deals and launching TrumpRx coupons, but the decline was driven by market forces, not Trump’s actions.",
-    "Republican candidates like Roger Marshall, Jon Husted, and Mike Rogers use Trump’s drug‑price narrative to counter voters’ anger over high living costs, yet the GOP’s own Medicaid cuts and ACA subsidy rollbacks have raised insurance costs for ~20 million people.",
-    "Biden’s Inflation Reduction Act, though watered down, has already negotiated lower prices for several name‑brand drugs, saving Medicare beneficiaries ~$1.5 billion in 2024, a modest benefit compared to the broader affordability gap."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014140209.3.f70bd55a29139558@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "My response to Trump",
-   "date": "2026-10-14T07:02-07:00",
-   "url": "https://roycoopernc.substack.com/p/my-response-to-trump",
-   "bullets": [
-    "Trump labeled Roy Cooper a “total fraud” and endorsed Michael Whatley, then announced a North Carolina visit to spread more lies, indicating he believes a Democratic win threatens the MAGA agenda",
-    "Cooper urges immediate donations before the FEC deadline, citing David Plouffe’s warning that Democrats must not take North Carolina for granted and emphasizing the race will be tightly contested",
-    "He stresses that national media are covering Trump’s attacks, but a strong grassroots movement can counter them if supporters contribute now"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014133325.3.22cbe5ee433d3b90@mg2.substack.com",
-   "newsletter": "Here Be Dragons from Barbara F. Walter",
-   "pub": "barbarafwalter",
-   "subject": "Can Trump Actually Rig the Midterm Elections?",
-   "date": "2026-10-14T06:33-07:00",
-   "url": "https://barbarafwalter.substack.com/p/can-trump-actually-rig-the-midterm",
-   "bullets": [
-    "Trump has pursued voter‑suppression tactics—executive orders demanding passports or birth certificates for registration, DOJ requests for state voter rolls, and mail‑ballot restrictions—most blocked by courts but likely to continue toward 2028.",
-    "He pressured Republican‑controlled states to redraw congressional maps, adding an estimated four House seats for GOP, though courts blocked more aggressive plans and Democrats still project House majorities.",
-    "While these moves tilt the playing field, Walter argues the real threat is Trump’s long‑term strategy of casting ordinary voting procedures as fraudulent to enable future challenges to any Democratic victories."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014132556.3.19ef301e70632bd2@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Strategic Flunky Reserve Is Running Low",
-   "date": "2026-10-14T06:25-07:00",
-   "url": null,
-   "bullets": [
-    "Bloomberg reports that a sudden Truth Social shift on Iran policy was preceded by billions in suspicious oil futures trades, and the CFTC investigation was shut down by senior political leadership.",
-    "Katie Zacharia’s first White House briefing was a fiasco, with no questions asked and her credibility questioned over her legal credentials, highlighting Trump’s reliance on blind loyalty amid a dwindling pool of loyalists."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014112101.3.2702e9e48180e37d@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Running Through the Tape",
-   "date": "2026-10-14T04:21-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/running-through-the-tape",
-   "bullets": [
-    "Pfeiffer argues that after Trump’s 2024 win, Democrats have regained momentum as Trump overplayed his hand, creating a generational chance for accountability and swing‑voter wins in the final three weeks before the midterms\",\"He emphasizes his newsletter’s consistent, data‑driven analysis over sensationalism, noting six years of frequent posts and a pledge to dissect post‑midterm results without break\",\"He urges readers to support the reader‑funded, pro‑democracy outlet and to volunteer with Vote Save America to help turn out Democrats"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014111715.3.c073cbb427b664a9@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "‘Excruciating’: Trump Allies React to White House Press Secretary’s First Day – As Her Claim to Be an Attorney Col…",
-   "date": "2026-10-14T04:17-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/excruciating-trump-allies-react-to",
-   "bullets": [
-    "Katie Zacharia’s first White House press briefing lasted about 15 minutes, featured stilted reading from notes, only right‑wing outlets for questions, and she avoided answering whether the U.S. still shares intelligence with Ukraine",
-    "She mistakenly referred to President Trump as “my husband,” sparked jokes, and announced the resignation request for Ambassador Kimberly Guilfoyle amid corruption allegations",
-    "Trump praised Zacharia as “very good,” but reporters, pundits and Republican operatives widely criticized the performance as chaotic and uninformative"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014103136.3.5a83ec2a156ef4e3@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Nerobefehl Nation",
-   "date": "2026-10-14T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/nerobefehl-nation",
-   "bullets": [
-    "Krugman likens Trump’s post‑midterm threat to Hitler’s 1945 Nero decree, warning that a defeated GOP may resort to destructive, spite‑driven actions against U.S. institutions.",
-    "He argues that even without congressional power, Trump retains vast unilateral authority via a partisan Supreme Court and loyal allies, enabling potential sabotage of democracy and allies like Ukraine.",
-    "Democrats must aggressively pursue legal accountability for anyone enabling Trump’s ‘Neroism,’ as complacency will only deepen the risk of institutional destruction."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014100344.3.2c63d61d84d196b7@mg2.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Getting ready for sick season. Also ticks rebounding, flu sweeping, and dengue showing its teeth.",
-   "date": "2026-10-14T03:03-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/getting-ready-for-sick-season-also",
-   "bullets": [
-    "Flu tests are up to 9.5% in the West, well above the 3% season threshold, and will likely spread eastward soon, so get your flu shot now.",
-    "Emergency room visits for tick bites are rising again, marking a typical bimodal tick season with a smaller October peak; keep checking for ticks after any outdoor activity.",
-    "Locally acquired dengue cases now outpace travel‑related ones in Florida, driven by warming temperatures expanding mosquito habitats; prevent bites as dengue may become endemic in the South."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261014090225.3.ed6ca3b53d9b5e15@mg-d0.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Diesel of Discontent",
-   "date": "2026-10-14T02:02-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/diesel-of-discontent",
-   "bullets": [
-    "In the first half of 2026, 136 of 140 LNG ships from Russia’s Yamal plant offloaded in Europe, generating roughly $7 billion that likely funds Putin’s war effort.",
-    "UK Prime Minister Keir Starmer approved a sanctions loophole allowing Russian crude refined in India into Britain, sparking criticism while shadow diesel volumes remain opaque.",
-    "The newsletter argues Western sanctions on Russia are fundamentally flawed and calls for a new strategy to boost European economies and increase real pressure on Moscow."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 85,
-  "total": 435
+  "shown": 83,
+  "total": 429
  },
  "brief_status": {
-  "tried": "2026-11-13T19:23-08:00",
-  "ok": true
+  "tried": "2026-11-14T11:17-08:00",
+  "ok": true,
+  "note": "plain-text list"
  }
 }
