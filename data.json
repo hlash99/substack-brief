@@ -1,26 +1,18 @@
 {
- "updated": "2026-11-14T18:51-08:00",
+ "updated": "2026-11-15T11:51-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms produced a sweeping Democratic wave that flipped traditionally red districts, forcing Republicans to confront a generational MAGA collapse and internal feuds (The Bulwark, Zeteo, Dan Pfeiffer).",
-   "Trump’s administration is mired in the Nvidia scandal, with allegations of secret chip sales to China and a pardon‑abuse push that highlight national‑security risks (The Bulwark, Zeteo, Bill Kristol & Andrew Egger).",
-   "Rising consumer prices from Trump‑era tariffs and immigration policies are creating a political opening for Democrats focused on affordability and housing supply (Mona Charen – The Bulwark).",
-   "AI investment is showing classic tech‑bubble traits, with massive cap‑ex and limited revenue, prompting caution even as productivity gains are touted (Paul Krugman).",
-   "Humanitarian crises in Gaza intensify, with infant deaths and hospital attacks underscoring the ongoing fallout of the Israel‑Palestine conflict (Zeteo).",
-   "Democratic leaders face internal pressure after the victories, with questions about Schumer’s and Jeffries’ suitability and calls for new leadership (Dan Pfeiffer – The Message Box)."
+   "The 2026 midterms saw a dramatic blue wave that flipped traditionally red districts, driven by local service delivery and a generational shift away from Trump‑centric MAGA politics (The Bulwark, Zeteo).",
+   "Republican losses were largely due to voter anger over corruption, racism, and failed promises, not just economic missteps, as exit polls reveal a backlash against Trump’s policies (Paul Krugman).",
+   "The Trump administration’s lax export controls and ties to Nvidia’s CEO have sparked a high‑profile scandal, prompting congressional scrutiny and a broader debate over U.S. tech security (Zeteo, The Bulwark).",
+   "China’s rapid expansion of data‑center capacity—now exceeding U.S. totals—has triggered anti‑AI ballot measures and could lead to tighter federal oversight of AI infrastructure (Doomberg).",
+   "Climate data shows a record‑high 1.47 °C temperature rise through September 2026, with a strengthening El Niño likely to worsen heat and rainfall, underscoring urgent mitigation needs (Smart People Talking).",
+   "The war in Gaza continues to claim civilian lives, including children and infants, as Israeli bombings and blockades create dire humanitarian conditions (Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20261112112028.3.e0bf789d0166db0b@mg-d0.substack.com",
-   "20261112113109.3.c389be2c2825626a@mg-d1.substack.com",
-   "20261112120108.3.3f054206c68ae6bb@mg2.substack.com",
-   "20261112124023.3.9f8ca4bfa2d437aa@mg-d0.substack.com",
-   "20261112143343.3.6dbcdcb7a871b435@mg-d0.substack.com",
-   "20261112160734.3.66b2ac141b624eb1@mg-d1.substack.com",
-   "20261112175336.3.a490a58409dd58a3@mg2.substack.com",
-   "20261112183048.3.06963a4c0458885e@mg-d0.substack.com",
    "20261112201315.3.aa5aad0efa57daab@mg-d1.substack.com",
    "20261112220236.3.a0b8cf6bfca3d647@mg-d1.substack.com",
    "20261112223052.3.17b87bbe4e1b7bfb@mg-d1.substack.com",
@@ -48,12 +40,72 @@
    "20261114160302.3.5ac27e02063ee064@mg-d0.substack.com",
    "20261114170126.3.147f53cde78f3084@mg-d1.substack.com",
    "20261114193037.3.0d9044021973f48f@mg-d1.substack.com",
-   "20261115013041.3.aca83e6cad949ebb@mg-d1.substack.com"
+   "20261115013041.3.aca83e6cad949ebb@mg-d1.substack.com",
+   "20261115100224.3.81ac1dc6737d6527@mg-d1.substack.com",
+   "20261115115010.3.99aa02d55d73c0bd@mg2.substack.com",
+   "20261115131536.3.695d682190ce3e2f@mg-d0.substack.com",
+   "20261115155809.3.979a02fb32cce5d5@mg-d0.substack.com"
   ],
-  "updated": "2026-11-14T18:51-08:00",
+  "updated": "2026-11-15T11:51-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261115155809.3.979a02fb32cce5d5@mg-d0.substack.com",
+   "newsletter": "Smart People Talking",
+   "pub": "smartpeopletalking",
+   "subject": "Record-breaking planetary change outpacing will of nations to mitigate it",
+   "date": "2026-11-15T07:58-08:00",
+   "url": "https://smartpeopletalking.substack.com/p/record-breaking-planetary-change",
+   "bullets": [
+    "The WMO’s 2026 State of the Climate report found global average temperature was about 1.47 °C above pre‑industrial levels from January‑September 2026, making the past 12 years the warmest on record and pushing ocean heat and sea level to new highs, with a strengthening El Niño set to worsen heat and rainfall through 2027.",
+    "The UN Environment Programme’s 2026 Emissions Gap Report says current policies will likely lead to ~2.8 °C warming this century, and even full implementation of existing national pledges only reduces it to ~2.6 °C, far above the 1.5 °C target and implying severe health, food, water and migration crises.",
+    "Discussions in Geneva highlighted that climate finance is skewed: vulnerable, low‑emitting developing nations face the highest adaptation costs, often receiving loans that add debt, while wealthier countries control the funding streams, deepening inequity ahead of COP31 in Antalya, Türkiye."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261115131536.3.695d682190ce3e2f@mg-d0.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Republicans Have a Muslim Problem Problem",
+   "date": "2026-11-15T05:15-08:00",
+   "url": "https://www.thebulwark.com/p/republicans-have-a-muslim-problem-bigotry-trap-focus-group",
+   "bullets": [
+    "Republicans, despite controlling the White House and Congress in 2024, failed to win voters by focusing on fear‑mongering about trans people, minorities and Muslims, leading to a blue wave loss.",
+    "Focus‑group data from Texas and other states in 2024‑2025 shows growing Islamophobia among GOP voters, with anecdotes about perceived Muslim “invasion,” sharia law, and donors like Javaid Anwar fueling the narrative.",
+    "The author warns the GOP now faces a dilemma: double‑down on anti‑Muslim rhetoric to satisfy a vocal base or abandon it to attract broader voters concerned with issues like cost of living."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261115115010.3.99aa02d55d73c0bd@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Voodoo Economics, MAGA Style",
+   "date": "2026-11-15T03:50-08:00",
+   "url": "https://paulkrugman.substack.com/p/voodoo-economics-maga-style",
+   "bullets": [
+    "Exit polls show midterm Republican losses stem from voter anger over corruption, Trump’s deportation policy, racism, gerrymandering, and the war on Iran, not just economics.",
+    "Trump’s promises failed: food prices rose 4%, gas and diesel 45%, overall inflation climbed to 3.9% despite pledges to cut groceries and energy costs.",
+    "Krugman argues Republican tax‑cut “voodoo”—the claim that cuts for the wealthy boost growth—has repeatedly increased deficits without sustained growth, a pattern Trump continues."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261115100224.3.81ac1dc6737d6527@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Lame Duck à L’Orange",
+   "date": "2026-11-15T02:02-08:00",
+   "url": "https://open.substack.com/pub/doomberg/p/lame-duck-a-lorange",
+   "bullets": [
+    "China now operates 24 GW of data‑center capacity—more than the rest of Asia combined—and has another 50 GW under construction, outpacing the US’s 56 GW total.",
+    "In the November 3 midterms, 40 of 41 anti‑data‑center ballot measures passed, signaling strong voter opposition that could translate into tighter congressional oversight of AI infrastructure.",
+    "A lame‑duck energy‑permitting reform bill could soon unlock new oil, gas, wind, solar and nuclear projects, reviving stalled US data‑center builds and challenging China’s AI lead."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261115013041.3.aca83e6cad949ebb@mg-d1.substack.com",
    "newsletter": "Mona Charen - The Bulwark",
@@ -5730,126 +5782,14 @@
     "The Houthis have escalated attacks on civilian infrastructure, including a Saturday strike on Riyadh’s international airport, demonstrating their capacity to inflict significant damage and prompting speculation that Riyadh may seek peace negotiations soon."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261015190354.3.c4fc64cee62b65bd@mg2.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Iowa Wonders: What Happens If Grassley Dies?",
-   "date": "2026-10-15T12:03-07:00",
-   "url": null,
-   "bullets": [
-    "Rob Sand, Iowa Democratic gubernatorial candidate, urged term and age limits for politicians, citing concerns about long tenures like Senator Chuck Grassley’s decades‑long service.",
-    "Grassley, who first won office in the Eisenhower era, recently acknowledged his age while endorsing GOP governor candidate Zach Lahn, sparking renewed debate over seniority in Iowa politics.",
-    "Despite Iowa’s relatively young Senate and governor candidates—most under 50—public focus remains on Grassley’s potential succession and the need for institutional renewal."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261015163711.3.872782e98f259da6@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "We’re Gonna Get Single-Payer Health Care, Good and Hard",
-   "date": "2026-10-15T09:37-07:00",
-   "url": null,
-   "bullets": [
-    "Zambia will begin settling some copper sales in Chinese renminbi, and its central bank governor says this is just the start of broader yuan‑denominated lending.",
-    "Kenya and Ethiopia are converting portions of Chinese debt to yuan, saving Kenya $215 million annually and securing loans as low as 3% interest, signaling a wider African shift away from the dollar.",
-    "The author warns that de‑dollarization threatens U.S. fiscal stability and argues the U.S. is on the brink of adopting a single‑payer Medicare‑for‑All system."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261015150037.3.6e34babd41e23f6f@mg-d1.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "First Noem Fired Her. Then She Fed Her to MAGA.",
-   "date": "2026-10-15T08:00-07:00",
-   "url": null,
-   "bullets": [
-    "In early February 2023, DHS fired FEMA CFO Mary Comans and three colleagues, blaming them for illegal payments to house undocumented immigrants, labeling them “deep state activists.”",
-    "Court filings reveal DHS Secretary Kristi Noem and adviser Corey Lewandowski colluded with MAGA influencers to smear Comans, coordinating the firings and media narrative.",
-    "The scandal highlights how the Trump administration’s “gutting” of federal agencies intersected with political attacks on career civil servants, using the immigration payments issue as a pretext."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261015133025.3.42cfea7bd82f0f11@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Short-Term:😀. Medium-Term:😟. Long-Term:🤷‍♂️",
-   "date": "2026-10-15T06:30-07:00",
-   "url": null,
-   "bullets": [
-    "CNN reports that if Republicans lose the House and Speaker Mike Johnson is ousted, Rep. Jim Jordan may challenge Johnson for GOP conference leadership.",
-    "Fox News poll shows Trump’s job approval at a historic low 36%, with 50% of voters strongly disapproving, while 54% of Fox viewers now favor Democratic House candidates over Republicans 45%.",
-    "Historical midterm patterns suggest Democrats could gain a narrow House majority similar to 2006, but the next Democratic Congress will inherit severe governance challenges from a tumultuous Trump administration."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261015111921.3.3ddebdc29b67baf6@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "On Inflation, Trump Snatched Defeat from the Jaws of Victory",
-   "date": "2026-10-15T04:19-07:00",
-   "url": "https://paulkrugman.substack.com/p/on-inflation-trump-snatched-defeat",
-   "bullets": [
-    "Trump’s 2024 win hinged on voters believing his “day‑one” price‑cut promises, despite inflation’s 2021‑22 surge being driven mainly by Covid disruptions, not Biden policies.",
-    "By 2024 inflation had fallen sharply without a recession, but Krugman blames Trump’s tariffs and the Iran war for the recent inflation resurgence and warns it could become entrenched, forcing a downturn.",
-    "Krugman notes he is delivering the James Martin Memorial Lecture in Oxford this afternoon."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261015110010.3.a6a1e1dd91d3c6d8@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Trump Brags About Rising Oil Prices Weeks Before Midterms",
-   "date": "2026-10-15T04:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-brags-about-rising-oil-prices",
-   "bullets": [
-    "Trump boasted at an Arizona rally that soaring oil prices are benefitting the U.S., claiming the country is making more money than ever despite rising gas costs and inflation.",
-    "The newsletter links the surge in gasoline prices, falling real weekly earnings for six months, and a housing market slump to Trump’s ongoing, illegal war with Iran, arguing it harms the economy.",
-    "Jim Cramer’s commentary on widening wage gaps is cited to illustrate ordinary Americans’ frustration, while Trump’s rhetoric dismisses the impact on ‘little people.’"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261015105236.3.ed629792e7b67bf4@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Republicans Believe the Polls, Even If You Don’t",
-   "date": "2026-10-15T03:52-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/republicans-believe-the-polls-even",
-   "bullets": [
-    "Republican operatives at a fundraiser expressed confidence that midterm polls favor them, even as Democrats remain skeptical and warn of possible polling error margins in key Senate races like Maine, Texas, and Ohio.",
-    "Pfeiffer argues Democrats have structural advantages: a 9‑point 2018 House popular‑vote win, lower Trump popularity, a weaker economy, and likely reduced GOP turnout, suggesting a potentially larger Democratic wave than 2018.",
-    "He notes that Republican Super PACs, heavily funded by the world’s richest man, are betting on a blue wave in their spending, yet have recently abandoned several competitive districts, signaling doubts about their prospects."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261015103130.3.00618a0e6507f966@mg2.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "What $1 can do",
-   "date": "2026-10-15T03:31-07:00",
-   "url": "https://chrispappasnh.substack.com/p/just-1-for-the-future-of-nh",
-   "bullets": [
-    "The New Hampshire Senate race has 19 days left, with the GOP spending over $60 million while Chris Pappas refuses corporate PAC money and urges $1 donations.",
-    "Pappas claims his opponent John Sununu is outspent three‑to‑one by the MAGA machine and stresses that collective small contributions can close the gap.",
-    "He asks supporters to chip in $1 now to keep the campaign on track and help keep the seat blue ahead of Election Day."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 82,
-  "total": 426
+  "shown": 81,
+  "total": 422
  },
  "brief_status": {
-  "tried": "2026-11-14T18:51-08:00",
+  "tried": "2026-11-15T11:51-08:00",
   "ok": true
  }
 }
