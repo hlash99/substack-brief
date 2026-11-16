@@ -1,23 +1,18 @@
 {
- "updated": "2026-11-15T11:51-08:00",
+ "updated": "2026-11-15T18:53-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms saw a dramatic blue wave that flipped traditionally red districts, driven by local service delivery and a generational shift away from Trump‑centric MAGA politics (The Bulwark, Zeteo).",
-   "Republican losses were largely due to voter anger over corruption, racism, and failed promises, not just economic missteps, as exit polls reveal a backlash against Trump’s policies (Paul Krugman).",
-   "The Trump administration’s lax export controls and ties to Nvidia’s CEO have sparked a high‑profile scandal, prompting congressional scrutiny and a broader debate over U.S. tech security (Zeteo, The Bulwark).",
-   "China’s rapid expansion of data‑center capacity—now exceeding U.S. totals—has triggered anti‑AI ballot measures and could lead to tighter federal oversight of AI infrastructure (Doomberg).",
-   "Climate data shows a record‑high 1.47 °C temperature rise through September 2026, with a strengthening El Niño likely to worsen heat and rainfall, underscoring urgent mitigation needs (Smart People Talking).",
-   "The war in Gaza continues to claim civilian lives, including children and infants, as Israeli bombings and blockades create dire humanitarian conditions (Zeteo)."
+   "The 2026 midterms have turned the GOP into a fractured party, with younger Republicans rejecting Trump, a generational shift toward anti‑MAGA sentiment, and a surge of Democrats in traditional red states (Bulwark, Zeteo, The Bulwark).",
+   "Trump’s administration is embroiled in a scandal after Nvidia CEO Jensen Huang resigned over alleged ties to a Chinese spy, prompting calls for tighter export controls and a congressional probe (The Substack Post, Zeteo, The Bulwark).",
+   "The FAA collapse and Trump’s blame‑game over air‑traffic control failures highlight a broader pattern of administrative incompetence and shifting explanations that undermine public trust (Bulwark Takes, The Bulwark).",
+   "Climate data from the WMO shows 2026 as the warmest year on record, with rising sea levels and a strengthening El Niño, underscoring the urgency of the emissions gap and the need for decisive policy action (Smart People Talking).",
+   "AIPAC’s waning influence is exposed by its spending on losing candidates, sparking debate over the lobby’s future role in shaping U.S. foreign policy (Zeteo).",
+   "Democratic leaders face scrutiny over leadership choices, with calls for new Senate and House majority leaders amid post‑midterm anxiety and concerns about the party’s direction (Dan Pfeiffer, The Message Box)."
   ],
   "by": "groq",
   "ids": [
-   "20261112201315.3.aa5aad0efa57daab@mg-d1.substack.com",
-   "20261112220236.3.a0b8cf6bfca3d647@mg-d1.substack.com",
-   "20261112223052.3.17b87bbe4e1b7bfb@mg-d1.substack.com",
-   "20261113020105.3.8da6492c12fb1802@mg-d1.substack.com",
-   "20261113020648.3.3d9be66ee3da9ddd@mg2.substack.com",
    "20261113030105.3.fff0828436c95d84@mg-d1.substack.com",
    "20261113113058.3.f2ee98afa0f62a6e@mg2.substack.com",
    "20261113113115.3.b16f70dcf2b7d381@mg2.substack.com",
@@ -44,12 +39,71 @@
    "20261115100224.3.81ac1dc6737d6527@mg-d1.substack.com",
    "20261115115010.3.99aa02d55d73c0bd@mg2.substack.com",
    "20261115131536.3.695d682190ce3e2f@mg-d0.substack.com",
-   "20261115155809.3.979a02fb32cce5d5@mg-d0.substack.com"
+   "20261115155809.3.979a02fb32cce5d5@mg-d0.substack.com",
+   "20261115200601.3.a17d0054205a3e93@mg-d0.substack.com",
+   "20261115202721.3.02bf424bff1899a1@mg-d1.substack.com",
+   "20261115220139.3.30e2218b0ef5f4ff@mg2.substack.com",
+   "20261116005959.3.6ac64db731871806@mg-d0.substack.com"
   ],
-  "updated": "2026-11-15T11:51-08:00",
+  "updated": "2026-11-15T18:53-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261116005959.3.6ac64db731871806@mg-d0.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Schumer vs. Van Hollen—The Race Everyone Finds Awkward",
+   "date": "2026-11-15T16:59-08:00",
+   "url": "https://www.thebulwark.com/p/chuck-schumer-vs-chris-van-hollen-senate-leader-leadership-race-everyone-awkward-uncomfortable",
+   "bullets": [
+    "Maryland Sen. Chris Van Hollen announced a challenge to New York Sen. Chuck Schumer for Senate majority leader at the Democratic “What’s Next” conference in Denver, exposing a long‑standing generational and philosophical rift within the party.",
+    "Delaware Sen. Chris Coons, after tweeting that Americans want change, gave a vague response in Denver, urging a “robust and constructive conversation” on leadership without linking it to policy issues like tariffs or gas prices.",
+    "The conference, meant to celebrate Democrats’ midterm gains and plan for 2028, turned into a tense family‑therapy session as the leadership battle highlighted internal discord despite the party’s recent triumph."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261115220139.3.30e2218b0ef5f4ff@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Trump’s Administration Is Trying to Lie Its Way Out of the FAA Mess",
+   "date": "2026-11-15T14:01-08:00",
+   "url": "https://www.thebulwark.com/p/trumps-air-traffic-control-mess-is",
+   "bullets": [
+    "The Trump administration blamed Congress, Democrats, and previous administrations for the nationwide air traffic control collapse that canceled thousands of flights, despite promising a sweeping overhaul and claiming sufficient funding from Sean Duffy.",
+    "Their shifting explanations conflict with their own record, as the FAA mess highlights failures in the administration’s promised reforms and funding allocations."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261115202721.3.02bf424bff1899a1@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "AIPAC Lost BIG In The Midterms - and Zeteo’s New Documentary Goes Inside the Lobby’s Waning Influence.",
+   "date": "2026-11-15T12:27-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/aipac-lost-big-in-the-midterms-and",
+   "bullets": [
+    "The Quincy Institute reports AIPAC spent $84 million this cycle, but more than two‑thirds went to candidates who lost, including over 30 backed candidates who accounted for three‑quarters of competitive races.",
+    "Democrats Abdul El‑Sayed and Troy Jackson defeated AIPAC‑backed opponents in Michigan and Maine Senate races, fueling debate over the lobby’s waning influence and possible foreign‑agent status.",
+    "Zeteo’s new documentary ‘Night Flower: Inside AIPAC’s Fight for Influence’ examines the lobby’s history and current power, featuring interviews with former AIPAC staff, Rep. Thomas Massie, Rep. Alexandria Ocasio‑Cortez, and activists."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261115200601.3.a17d0054205a3e93@mg-d0.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "“A consequential sex scandal at last!”",
+   "date": "2026-11-15T12:06-08:00",
+   "url": "https://post.substack.com/p/a-consequential-sex-scandal-at-last",
+   "bullets": [
+    "Jensen Huang resigned as Nvidia CEO after U.S. intelligence linked his affair with Alice Huang, a Megaspeed exec suspected of diverting chips to China and being recruited by China’s Ministry of State Security.",
+    "Senators Elizabeth Warren and Adam Schiff are calling for investigations and tighter export controls, while analysts warn the scandal could tighten chip restrictions on China, hurt U.S. firms, and trigger a broader AI‑sector bubble burst as Nvidia’s stock has fallen 29% in six months.",
+    "Interim CEO Colette Kress now leads Nvidia, but observers note the company’s reliance on Huang’s personal leadership may threaten its dominance in the AI chip market, which currently holds about 85% of the market share."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261115155809.3.979a02fb32cce5d5@mg-d0.substack.com",
    "newsletter": "Smart People Talking",
@@ -5727,69 +5781,15 @@
     "Krugman argues Trump’s tariffs and war policies worsened inflation, and his denial—exemplified by a Fox News poll where 55% say inflation isn’t under control, including 30% of Republicans—risks hurting GOP midterm prospects."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261016011539.3.af4a41710ca160b5@mg-d1.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "James Talarico Utterly Dismantled a Republican’s Religious Ambush (w/ George Conway)",
-   "date": "2026-10-15T18:15-07:00",
-   "url": null,
-   "bullets": [
-    "James Talarico exposed a Republican’s religious‑based attack, showing how MAGA lies can be dismantled with factual rebuttals.",
-    "George Conway returns to The Bulwark, critiques Mike Johnson’s fear of a Democratic House investigation into Trump‑era corruption, and links the Elon‑Putin‑Trump axis as a renewed threat.",
-    "The episode also notes Trump’s mental decline, highlights Sen. Ossoff’s appearance on Chris Hayes, and promotes upcoming Bulwark events and a 30% subscription discount."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261016000124.3.a87f4023fe597faa@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "‘Secretary of War Crimes’: Pete Hegseth Is the ‘Dumb’ Guy Who Quenches Trump’s Bloodlust",
-   "date": "2026-10-15T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/secretary-of-war-crimes-pete-hegseth",
-   "bullets": [
-    "Pete Hegseth, former Fox & Friends co‑host and Trump’s defense secretary since Jan 2025, has pushed extreme policies like a livestreamed public execution, aligning with Trump’s “bloodlust” for violent spectacle.",
-    "Hegseth advocated executing a wheelchair‑bound mass murderer by firing squad and broadcasting it online, but Trump halted the livestream after learning the convict’s condition, though the execution will still proceed.",
-    "The article argues Hegseth uses every Pentagon lever to realize Trump’s imperialist, bigoted, and violent agenda both abroad and domestically."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261015230112.3.2a537cca67a266b1@mg-d1.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Just. So. Much. Corruption.",
-   "date": "2026-10-15T16:01-07:00",
-   "url": null,
-   "bullets": [
-    "Bloomberg reports a senior adviser to the Trump‑appointed CFTC chair halted a referral for a full insider‑trading probe after traders profited from oil and S&P bets timed to Trump’s Iran threat retraction, suggesting regulator interference enabled the scheme.",
-    "Trump Media is suing Wall Street firms for early access to Truth Social posts, effectively creating a marketplace for insider information that the San Francisco City Attorney says lets Trump profit from insider trading, while a White House aide simultaneously earned millions from Tether while pushing a crypto bill.",
-    "Gallup and Fox News polls show record‑high public belief that government corruption is widespread, with a majority of Republicans now saying Trump prioritizes his personal financial interests even as SNAP enrollment falls 13% and food insecurity rises under his tax‑cut agenda."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261015202617.3.dd4ba5ea1877bde1@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "The Truth About the Houthis – and Why Saudi Arabia Is Struggling to Defend Itself Against Them",
-   "date": "2026-10-15T13:26-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-truth-about-the-houthis-and-why",
-   "bullets": [
-    "Saudi Arabia disabled its emergency mobile alert system amid complaints, even as Houthi missile strikes this week killed 13 at Riyadh airport, wounded hundreds, and set Aramco headquarters ablaze, prompting flight cancellations and Novak Djokovic’s withdrawal from a Saudi event.",
-    "The Houthis have escalated attacks on civilian infrastructure, including a Saturday strike on Riyadh’s international airport, demonstrating their capacity to inflict significant damage and prompting speculation that Riyadh may seek peace negotiations soon."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 81,
+  "shown": 80,
   "total": 422
  },
  "brief_status": {
-  "tried": "2026-11-15T11:51-08:00",
-  "ok": true
+  "tried": "2026-11-15T18:53-08:00",
+  "ok": true,
+  "note": "plain-text list"
  }
 }
