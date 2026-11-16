@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T18:53-08:00",
+ "updated": "2026-11-16T15:27-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -49,6 +49,102 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261116230611.3.08e452830a56203a@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "I Am a Palestinian-American. Israeli Soldiers Occupied My Home for Weeks and Trashed It",
+   "date": "2026-11-16T15:06-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/i-am-a-palestinian-american-israeli",
+   "bullets": [
+    "On Oct. 25‑26 2026, Israeli soldiers forcibly entered the author’s Turmus Ayya home, destroyed property, removed security cameras, raised Israeli flags, and used the house as a military barracks for almost three weeks.",
+    "The U.S. Embassy repeatedly told the author to confront the soldiers herself, refusing diplomatic or protective assistance, while the author’s husband was threatened with arrest and tear‑gased when he tried to negotiate on Oct. 31 2026."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261116204317.3.f215349635e2ab22@mg-d1.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "My Weekend With the White Nationalists",
+   "date": "2026-11-16T12:43-08:00",
+   "url": "https://www.thebulwark.com/p/my-weekend-with-the-white-nationalists-nxr-texas-conference",
+   "summary_tries": 1,
+   "bullets": [
+    "AS YOU APPROACHED THE TABLE holding everyone’s badges at the entrance of the “Christ Is King: America After Trump” conference at the Irving Convention Center last Thursday, you were greeted by a standing banner that really set the tone for …",
+    "The phrase “CATCH A LITTLE MOTION, WHITE BOY” is emblazoned underneath the image of a t-shirt with a winking young man drawn in that faux-1950s Fallout-style encircled by the words “It’s okay to be white.” He’s surrounded by SS-style lightn…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261116180930.3.7983f8d5b8a7a4e1@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The FAFO Era Begins With Jensen Huang",
+   "date": "2026-11-16T10:09-08:00",
+   "url": "https://www.thebulwark.com/p/new-fafo-era-begins-with-jensen-huang-donald-trump-deadwood",
+   "bullets": [
+    "Jensen Huang’s alleged ties to a Chinese spy, known to President Trump, have sparked a criminal investigation that could implicate Nvidia, once the world’s most valuable company, and the White House.",
+    "The fallout is framed as a catalyst for the Democrats’ midterm win, signaling the end of a two-year period when Washington and Silicon Valley felt the rule of law was eroding.",
+    "Analysts suggest the scandal will force pleas for pardons or lead to prosecutions, marking the close of Trump’s so‑called \"Deadwood\" era."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261116162906.3.593dce9641abed34@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Are Tech Billionaires Finally About to Face Accountability? Kara Swisher on the Blue Tsunami and Big Tech",
+   "date": "2026-11-16T08:29-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/after-the-blue-tsunami-are-tech-billionaires",
+   "bullets": [
+    "Kara Swisher argues that the Democratic midterm sweep creates political pressure to hold tech billionaires—especially Nvidia’s Jensen Huang and Elon Musk—accountable for Trump ties and unchecked AI power.",
+    "She details Huang’s recent scandal over alleged data‑center subsidies and Musk’s alleged government interference, warning that concentrated tech influence threatens oversight and democratic norms.",
+    "The 38‑minute live interview also covers AI’s future, data‑center debates, media shifts, and predicts where the MAGA‑aligned billionaire class may retreat after the blue wave."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261116142746.3.2d8436325e18282f@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Big Bird and His Merry Band of Turds Flies Off to China",
+   "date": "2026-11-16T06:27-08:00",
+   "url": "https://www.thebulwark.com/p/big-bird-and-his-merry-band-of-turds-flies-off-to-china-trump-putin-xi-ai-nvidia-jensen-huang",
+   "bullets": [
+    "President Trump departs for a four‑day Asia tour, attending the ASEAN summit in the Philippines, a Quad meeting, and a three‑way APEC summit in Shenzhen with Xi Jinping and Vladimir Putin, prompting the authors to warn Congress to assert its constitutional powers over foreign policy and national security.",
+    "The newsletter condemns Trump’s AI‑driven social‑media posts, highlighting a fabricated AI‑generated image of Trump comforting DHS Secretary Markwayne Mullin’s son and an AI clip of soldiers praying, arguing the president’s growing AI addiction signals dangerous psychosis."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261116121914.3.218699a19035445a@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Chris Van Hollen Can Take Down Schumer – Who Definitely Didn’t ‘Win the World Series’",
+   "date": "2026-11-16T04:19-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/chris-van-hollen-can-take-down-schumer",
+   "bullets": [
+    "Maryland Senator Chris Van Hollen announced a challenge to Senate Majority Leader Chuck Schumer, arguing the 2026 midterms showed voters want progressive change over Schumer’s centrist leadership.",
+    "Van Hollen, a former DSCC chair, told ABC’s ‘This Week’ that the election was a grassroots backlash against a ‘lawless president,’ not a party‑engineered victory.",
+    "Republican Transportation Secretary Sean Duffy faced criticism after outdated air‑traffic control equipment caused a nationwide FAA ground stop, intensifying scrutiny of the Trump administration’s handling of travel safety."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261116112943.3.235d0e011753ff9a@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Republican Ideology Ruined Your Weekend",
+   "date": "2026-11-16T03:29-08:00",
+   "url": "https://paulkrugman.substack.com/p/republican-ideology-ruined-your-weekend",
+   "bullets": [
+    "A failed router upgrade in Arkansas and a radar issue in Texas caused a nationwide air‑traffic shutdown, exposing the FAA’s underfunded, decades‑old system that the GAO warned in May 2025 was a rushed modernization effort likely to fail.",
+    "Republican opposition to federal investment, exemplified by Rep. Sean Duffy’s 2019 vote against FAA funding and his later role as Trump’s Transportation Secretary, left the FAA under‑resourced, despite a $25 billion allocation in the 2021 Bipartisan Infrastructure Law that Trump promptly paused.",
+    "Krugman argues that chronic under‑investment and staffing cuts—accelerated after the 2010 Republican House takeover and furthered by Musk‑linked “DOGE” reforms that slashed IRS auditors and cut 13% of the federal workforce—have left critical agencies like the FAA vulnerable to catastrophic failures."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261116005959.3.6ac64db731871806@mg-d0.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
@@ -101,6 +197,18 @@
     "Jensen Huang resigned as Nvidia CEO after U.S. intelligence linked his affair with Alice Huang, a Megaspeed exec suspected of diverting chips to China and being recruited by China’s Ministry of State Security.",
     "Senators Elizabeth Warren and Adam Schiff are calling for investigations and tighter export controls, while analysts warn the scandal could tighten chip restrictions on China, hurt U.S. firms, and trigger a broader AI‑sector bubble burst as Nvidia’s stock has fallen 29% in six months.",
     "Interim CEO Colette Kress now leads Nvidia, but observers note the company’s reliance on Huang’s personal leadership may threaten its dominance in the AI chip market, which currently holds about 85% of the market share."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261115190438.3.b1080339b4c0d021@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Former CIA Officer Explains Why Trump’s Nvidia Scandal Is So Serious | Bulwark On Sunday",
+   "date": "2026-11-15T11:04-08:00",
+   "url": "https://www.thebulwark.com/p/former-cia-officer-explains-why-trumps",
+   "bullets": [
+    "Curlee stresses that the incident illustrates broader risks of inadequate oversight of tech firms and the need for stronger export controls."
    ],
    "summary_by": "groq"
   },
@@ -5619,177 +5727,15 @@
     "Mehdi Hasan hosts a live video in Houston featuring comedian Mo Amer and Representative Greg Casar, available exclusively to paid subscribers."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261016230128.3.cf931f78106a8ae6@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "‘The Israel Experience with Mike Huckabee’: The Ambassador’s Family Sells Trips to Israel",
-   "date": "2026-10-16T16:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-israel-experience-with-mike-huckabee",
-   "bullets": [
-    "Mike Huckabee, now U.S. ambassador to Israel, continues to profit from his family’s travel company that sells pricey “Israel Experience” tours, despite his role denying Israel’s alleged genocide and apartheid policies.",
-    "Critics argue Huckabee prioritizes Israeli interests over American ones, even claiming “no such thing as a Palestinian,” while his diplomatic actions allegedly favor Israel at the expense of Palestinians and U.S. citizens."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261016213049.3.026927fe1a8381b7@mg-d1.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Brendan Carr, the Hackiest Hack in Hackville",
-   "date": "2026-10-16T14:30-07:00",
-   "url": null,
-   "bullets": [
-    "At a Trump rally in Alaska, FCC Chairman Brendan Carr was introduced as “the most‑feared man in government,” underscoring his new role as a political tool for the president’s attacks on the press.",
-    "Carr has been using his FCC authority to block or delay media‑related deals the administration dislikes, with commissioners like Anna Gomez warning the agency now follows White House whims rather than technical expertise.",
-    "The FCC’s recent nine‑figure broadband investment in Alaska masks a deeper shift: under Carr, the regulator is being weaponized for partisan interference, even when such actions may be illegal."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261016193546.3.6b5b426c85dac49a@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "BREAKING: Trump Fires New Press Secretary After Five Days (w/ Judd Legum)",
-   "date": "2026-10-16T12:35-07:00",
-   "url": null,
-   "bullets": [
-    "Katie Zachariah was fired as Trump’s White House press secretary after just five days amid revelations that her legal credentials were dubious and internal staff turned against her.",
-    "Journalist Judd Legum’s reporting exposed Zachariah’s questionable résumé, and former deputy press secretary Sarah Matthews explained that Trump’s own decisions and the chaotic White House environment precipitated her abrupt dismissal."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261016190119.3.56e2580c703cd29e@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "**TODAY** Stream Mehdi and Mo Amer LIVE in Houston",
-   "date": "2026-10-16T12:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/today-stream-mehdi-and-mo-amer-live",
-   "bullets": [
-    "Mehdi Hasan and Zeteo’s “We’re Not Kidding” podcast will go live tonight in Houston with Palestinian-American comedian Mo Amer, featuring political comedy and a Q&A.",
-    "Texas Rep. Greg Casar will join the stage to answer audience questions ahead of the U.S. midterms.",
-    "Paid subscribers can stream the event live; free readers are urged to upgrade for access."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261016161350.3.1ee1e3bb3442a705@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Tigers-Eating-Faces Party Is Real",
-   "date": "2026-10-16T09:13-07:00",
-   "url": null,
-   "bullets": [
-    "On October 10 a man was killed by a tiger at Yorkshire Wildlife Park, and President Trump shared the footage, then posted a second video of tigers and lions mauling people, some clips later identified as AI‑generated.",
-    "Seven hours later Trump posted an entirely AI‑generated video showing himself confronting and hugging a tiger, raising questions about his awareness of the fabricated content.",
-    "The author warns that the newsletter’s paywalled continuation contains even more disturbing material about Trump’s handling of nuclear authority."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261016150154.3.2375c90725c88d42@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Watch Mehdi Go ‘Head to Head’ With Neera Tanden",
-   "date": "2026-10-16T08:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/watch-mehdi-go-head-to-head-with",
-   "bullets": [
-    "Mehdi Hasan interviews Center for American Progress CEO Neera Tanden on Al Jazeera’s ‘Head to Head’ at Georgetown University, focusing on Democratic establishment, midterm outlook, and her controversial ties to figures like Hasan Piker and Laura Loomer.",
-    "Tanden defends her past support for Hillary Clinton, addresses criticism over her interview with Benjamin Netanyahu, and explains why she views AIPAC’s dark‑money spending differently from other lobbying groups."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261016144526.3.dc83f16984062e83@mg-d0.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "What Would Stephen Miller Do? Dems Wargame Election Defense",
-   "date": "2026-10-16T07:45-07:00",
-   "url": null,
-   "bullets": [
-    "Democratic officials and activists have held wargames in Milwaukee (May) and Washington (August) and launched the New Battlefield Project and Vote Safe to train thousands of poll observers against potential ICE deployment at polls.",
-    "Republican election official Stephen Richer, who helped run the Milwaukee simulations, says ICE at polls is “far‑fetched” but advises legal injunctions, hotlines and observer placement as contingency plans.",
-    "Trump allies, including Steve Bannon, have floated using ICE to “surround the polls,” while DHS officials admit ICE could appear for specific threats, prompting states like Nevada to pass felony statutes against poll‑worker intimidation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261016132557.3.fc48d26d130005ce@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Katie Zacharia’s Problem Is That She’s Bad at Lying",
-   "date": "2026-10-16T06:25-07:00",
-   "url": null,
-   "bullets": [
-    "The New York Times reports Republican candidates and PACs have spent over $137 million on AI‑generated political ads this year, with about 70% lacking any AI disclaimer.",
-    "White House press secretary Katie Zacharia, who never passed a bar exam, has been caught repeatedly misrepresenting herself as a lawyer, offering clumsy excuses that have drawn sharp criticism from Fox’s Sean Hannity and highlighted her inability to lie convincingly."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261016130340.3.643cb478bc1419b0@mg-d1.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "A look at what’s happening on the campaign trail",
-   "date": "2026-10-16T06:03-07:00",
-   "url": "https://chrispappasnh.substack.com/p/we-cant-run-this-campaign-without",
-   "bullets": [
-    "At the end of September, Chris Pappas met Democratic groups in New Hampshire and later hosted Pete Buttigieg and Senator Raphael Warnock at campaign events, including opening a new office in Keene.",
-    "He warns the campaign faces a “mountain of cash” from Republicans on the airwaves and urges small‑dollar donations to outwork them and defend the Senate seat."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261016111457.3.fc22f2353dd3cfae@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Trump’s White House Chief of Staff Susie Wiles Is in ‘Some Deep Sh*t’",
-   "date": "2026-10-16T04:14-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trumps-white-house-chief-of-staff",
-   "bullets": [
-    "Politico reports Trump is considering firing White House chief of staff Susie Wiles as his poll numbers tank and 2026 midterms loom, making her a likely scapegoat.",
-    "Trump publicly defended Wiles, calling the Politico story ‘total fake news,’ but insiders say he’s looking for someone to blame for his declining popularity.",
-    "The newsletter also flags a parallel immigration probe into Rep. Ilhan Omar as the White House abandons norms in a quest for retribution."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261016110408.3.b40d916dfdedef22@mg2.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "So Many Bad Things",
-   "date": "2026-10-16T04:04-07:00",
-   "url": null,
-   "bullets": [
-    "The hosts claim the media is fixating on Katie Zacharias instead of more pressing issues, labeling it a misdirected obsession.",
-    "They mock a staged confrontation between Alina Habba and Ric Grenell, calling it a 'cage match' and dismissing its relevance.",
-    "They note a fresh spike in inflation and warn that recent Senate polls show Republicans performing poorly, despite occasional hopeful moments."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261016103055.3.847cf24fd7183509@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Bad News on Inflation Just Keeps Coming",
-   "date": "2026-10-16T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-bad-news-on-inflation-just-keeps",
-   "bullets": [
-    "The latest Producer Price Index showed wholesale prices, especially diesel, rising far above forecasts, signaling higher future consumer inflation and undermining Trump’s claim of progress.",
-    "Krugman argues Trump’s tariffs and war policies worsened inflation, and his denial—exemplified by a Fox News poll where 55% say inflation isn’t under control, including 30% of Republicans—risks hurting GOP midterm prospects."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 80,
-  "total": 422
+  "shown": 81,
+  "total": 418
  },
  "brief_status": {
-  "tried": "2026-11-15T18:53-08:00",
-  "ok": true,
-  "note": "plain-text list"
+  "tried": "2026-11-16T15:27-08:00",
+  "ok": false,
+  "note": "unusable reply"
  }
 }
