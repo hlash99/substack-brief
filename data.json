@@ -1,54 +1,198 @@
 {
- "updated": "2026-11-16T15:27-08:00",
+ "updated": "2026-11-17T14:30-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterms have turned the GOP into a fractured party, with younger Republicans rejecting Trump, a generational shift toward anti‑MAGA sentiment, and a surge of Democrats in traditional red states (Bulwark, Zeteo, The Bulwark).",
-   "Trump’s administration is embroiled in a scandal after Nvidia CEO Jensen Huang resigned over alleged ties to a Chinese spy, prompting calls for tighter export controls and a congressional probe (The Substack Post, Zeteo, The Bulwark).",
-   "The FAA collapse and Trump’s blame‑game over air‑traffic control failures highlight a broader pattern of administrative incompetence and shifting explanations that undermine public trust (Bulwark Takes, The Bulwark).",
-   "Climate data from the WMO shows 2026 as the warmest year on record, with rising sea levels and a strengthening El Niño, underscoring the urgency of the emissions gap and the need for decisive policy action (Smart People Talking).",
-   "AIPAC’s waning influence is exposed by its spending on losing candidates, sparking debate over the lobby’s future role in shaping U.S. foreign policy (Zeteo).",
-   "Democratic leaders face scrutiny over leadership choices, with calls for new Senate and House majority leaders amid post‑midterm anxiety and concerns about the party’s direction (Dan Pfeiffer, The Message Box)."
+   "The fallout from the Nvidia scandal—linking CEO Jensen Huang to Chinese espionage and Trump allies—dominates politics, prompting investigations, export‑control calls, and fueling the midterm Democratic surge (Zeteo, The Bulwark, The Substack Post).",
+   "Republican leadership is fracturing as Senate Democrats push to strip Iran‑war funding while internal GOP battles over Trump’s authoritarian tactics and the looming “Axis of Evil” alliance intensify (The Bulwark, Zeteo).",
+   "Midterm results signal a decisive shift: Democrats seized control, ousting AIPAC‑backed candidates and challenging entrenched Senate leaders like Schumer, reflecting voter backlash against corruption and war policies (The Bulwark, Zeteo).",
+   "Infrastructure neglect is exposing the nation, from a nationwide FAA shutdown to crumbling air‑traffic systems blamed on Republican underfunding and Trump‑era mismanagement (The Bulwark, Paul Krugman).",
+   "Climate urgency is escalating as record heat and sea‑level rise outpace policy responses, underscoring the need for aggressive mitigation ahead of 2027 (Smart People Talking)."
   ],
   "by": "groq",
   "ids": [
-   "20261113030105.3.fff0828436c95d84@mg-d1.substack.com",
-   "20261113113058.3.f2ee98afa0f62a6e@mg2.substack.com",
-   "20261113113115.3.b16f70dcf2b7d381@mg2.substack.com",
-   "20261113120127.3.a21c859bad56507c@mg-d1.substack.com",
-   "20261113142222.3.79406f21bbf0c9f6@mg-d0.substack.com",
-   "20261113160452.3.a8b3f27fe32b2e71@mg-d0.substack.com",
-   "20261113161404.3.0d46c472b54b50b2@mg2.substack.com",
-   "20261113173131.3.9580560d1ae985a2@mg2.substack.com",
-   "20261113180233.3.c53ee65cae07a54c@mg2.substack.com",
-   "20261113201749.3.be5cc2ef402bb717@mg-d0.substack.com",
-   "20261113224533.3.5eeb3ef2a6575808@mg-d1.substack.com",
-   "20261114010043.3.88803a0b799c4196@mg-d0.substack.com",
-   "20261114020227.3.9b92da97a1898312@mg2.substack.com",
-   "20261114023042.3.4420dad74c690107@mg-d1.substack.com",
-   "20261114110428.3.2e385654b049f9c8@mg-d0.substack.com",
-   "20261114113046.3.f45fa533a6e49309@mg-d1.substack.com",
-   "20261114131535.3.7a550459668df320@mg2.substack.com",
-   "20261114134537.3.5201850c44094643@mg-d0.substack.com",
-   "20261114140058.3.f5dbc958a812ddbe@mg-d0.substack.com",
-   "20261114160302.3.5ac27e02063ee064@mg-d0.substack.com",
-   "20261114170126.3.147f53cde78f3084@mg-d1.substack.com",
-   "20261114193037.3.0d9044021973f48f@mg-d1.substack.com",
    "20261115013041.3.aca83e6cad949ebb@mg-d1.substack.com",
    "20261115100224.3.81ac1dc6737d6527@mg-d1.substack.com",
    "20261115115010.3.99aa02d55d73c0bd@mg2.substack.com",
    "20261115131536.3.695d682190ce3e2f@mg-d0.substack.com",
    "20261115155809.3.979a02fb32cce5d5@mg-d0.substack.com",
+   "20261115190438.3.b1080339b4c0d021@mg-d0.substack.com",
    "20261115200601.3.a17d0054205a3e93@mg-d0.substack.com",
    "20261115202721.3.02bf424bff1899a1@mg-d1.substack.com",
    "20261115220139.3.30e2218b0ef5f4ff@mg2.substack.com",
-   "20261116005959.3.6ac64db731871806@mg-d0.substack.com"
+   "20261116005959.3.6ac64db731871806@mg-d0.substack.com",
+   "20261116112943.3.235d0e011753ff9a@mg-d1.substack.com",
+   "20261116121914.3.218699a19035445a@mg-d1.substack.com",
+   "20261116142746.3.2d8436325e18282f@mg-d0.substack.com",
+   "20261116162906.3.593dce9641abed34@mg-d0.substack.com",
+   "20261116180930.3.7983f8d5b8a7a4e1@mg-d1.substack.com",
+   "20261116204317.3.f215349635e2ab22@mg-d1.substack.com",
+   "20261116230611.3.08e452830a56203a@mg2.substack.com",
+   "20261117011051.3.75c998eabf40ba2c@mg2.substack.com",
+   "20261117023047.3.e658f6857b02af25@mg2.substack.com",
+   "20261117113132.3.f7afa66de138436a@mg-d0.substack.com",
+   "20261117120446.3.b882a87973275d4b@mg2.substack.com",
+   "20261117123140.3.af19587c82f4f92b@mg-d0.substack.com",
+   "20261117142758.3.e6756496ad789cab@mg2.substack.com",
+   "20261117151951.3.66ba46ae22faeff2@mg-d1.substack.com",
+   "20261117160351.3.c94b5357e8141369@mg2.substack.com",
+   "20261117180833.3.73cbb56b5e9a7c00@mg-d1.substack.com",
+   "20261117202218.3.1bfb47547c7ccd3b@mg-d0.substack.com",
+   "20261117210144.3.8f9535b1201ba26b@mg-d0.substack.com"
   ],
-  "updated": "2026-11-15T18:53-08:00",
+  "updated": "2026-11-17T14:30-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261117210144.3.8f9535b1201ba26b@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "What Compromised Trump on Nvidia?",
+   "date": "2026-11-17T13:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/what-compromised-trump-on-nvidia",
+   "bullets": [
+    "Donald Trump’s early demand for “Roy Cohn” reflects his adoption of Cohn’s ruthless, self‑interested political style, which Trump has carried into his decade‑long presidency.",
+    "Cohn’s legacy of prioritizing power over morality underpins Trump’s approach to governance and explains the administration’s involvement in the scandal linking Nvidia CEO Jensen Huang to a suspected Chinese spy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261117202218.3.1bfb47547c7ccd3b@mg-d0.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The First Fight of the New Senate Is Already Here",
+   "date": "2026-11-17T12:22-08:00",
+   "url": "https://www.thebulwark.com/p/the-first-fight-of-the-new-senate-already-here-democrats-shutdown-iran",
+   "bullets": [
+    "Senate Democrats are using the December 11 funding deadline to pressure Republicans into stripping Iran‑war money from a spending bill, leveraging their 53‑vote majority to force concessions before the 120th Congress convenes in January.",
+    "Senators Ron Wyden, Andy Kim, Peter Welch, and Jack Reed all say they want the war over and would oppose funding it, but none have committed to a shutdown; the debate over leadership—Van Hollen challenging Schumer—adds another layer to the funding fight.",
+    "Sen. Chuck Grassley (R‑Iowa) will not resign his seat during the lame‑duck period and has not yet decided whether to run for re‑election in 2028, keeping his 45‑year Senate tenure potentially ongoing."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261117180833.3.73cbb56b5e9a7c00@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Axis of Evil Got an Upgrade",
+   "date": "2026-11-17T10:08-08:00",
+   "url": "https://www.thebulwark.com/p/the-axis-of-evil-got-an-upgrade",
+   "bullets": [
+    "George W. Bush coined the 2002 “Axis of Evil” to label Iran, Iraq, and North Korea, arguing illiberal regimes unite against liberalism, though the trio never truly collaborated; by 2012 a new axis emerged with Russia, China, and Iran.",
+    "In 2026, the author claims Putin and Xi have effectively incorporated Trump’s America into this axis—asserting Russia and China managed to co-opt the U.S. while retaining ties to Iran, framing it as a geopolitical coup.",
+    "The piece critiques this narrative, suggesting the U.S. is at war with Iran yet allegedly supports it, and questions the plausibility of such a coalition forming under current U.S. leadership."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261117160351.3.c94b5357e8141369@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "This Ex-Republican Professor Flipped a Trump Seat Blue – and He Wants to End Aid to Israel",
+   "date": "2026-11-17T08:03-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/don-leonard-israel-jeffries",
+   "bullets": [
+    "Incoming Democrat Don Leonard, a former Ohio Republican activist, flipped a red House seat blue in the 2026 midterms and now calls the U.S. in crisis, demanding Jeffries end Citizens United, dark money, and all aid to Israel by 2028.",
+    "Leonard, who cites his childhood Holocaust education, opposes Israel’s “Gaza genocide” and wants to replace ICE, but he does not self‑identify as a progressive and faces backlash from senior Democrats for refusing to support Jeffries as Speaker."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261117151951.3.66ba46ae22faeff2@mg-d1.substack.com",
+   "newsletter": "Brian Gitt",
+   "pub": "nuclearprosperity",
+   "subject": "The Serpent and the Atom",
+   "date": "2026-11-17T07:19-08:00",
+   "url": "https://nuclearprosperity.substack.com/p/the-serpent-and-the-atom",
+   "bullets": [
+    "The article argues that fear of nuclear power mirrors ancient myths where the feared object (snakes, atoms) becomes a source of healing when understood and harnessed, citing bronze serpent, Asclepius, antivenom, and controlled fission as examples.",
+    "It claims nuclear energy is as safe as wind and solar, with waste that can be recycled to recover ~95% of its original energy, and that abandoning nuclear after Fukushima led Germany to replace output with coal and imports, increasing risk.",
+    "The author urges policy reforms that balance safety with cost, investor confidence, and community trust to enable nuclear plants to meet rising energy demands for prosperity without retreating into fear."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261117142758.3.e6756496ad789cab@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump Can’t Even Make the Planes Run On Time",
+   "date": "2026-11-17T06:27-08:00",
+   "url": "https://www.thebulwark.com/p/trump-cant-even-make-the-planes-run-on-time-faa-atc-duffy-ai-congress-ukraine-russia-china",
+   "bullets": [
+    "Trump landed in the Philippines for a four‑day Asia trip that will include summits with Putin and Xi, yet he dismisses Ukraine as a non‑issue for the meetings.",
+    "Air traffic control outages stem from decades‑old, obsolete infrastructure; Transportation Secretary Sean Duffy has sought $12.5 billion in 2025’s One Big Beautiful Bill and now demands an additional $50 billion, blaming Democrats for delays.",
+    "Trump’s administration has prioritized high‑profile culture‑war projects over routine maintenance, leaving ATC modernization stalled despite bipartisan potential, while his rhetoric downplays Russia’s ongoing war in Ukraine."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261117123140.3.af19587c82f4f92b@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Tell us how to make YLE better!",
+   "date": "2026-11-17T04:31-08:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/tell-us-how-to-make-yle-better",
+   "bullets": [
+    "The newsletter asks readers to complete a 2026 end‑of‑year survey (under 10 minutes) that will shape YLE’s 2027 content, topics, and formats.",
+    "YL​E reaches over 475,000 people in 132+ countries and relies on community feedback to guide its public‑health reporting."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261117120446.3.b882a87973275d4b@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "No One Likes Chuck Schumer Outside DC. Does That Matter?",
+   "date": "2026-11-17T04:04-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/no-one-likes-chuck-schumer-outside",
+   "bullets": [
+    "Data for Progress poll shows 56% of Democrats and leaning independents want Senate Democrats to pick a new leader, with a plurality favoring Chris Van Hollen over Chuck Schumer.”,"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261117113132.3.f7afa66de138436a@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Trump Administration Has DOGEd the IRS, Too",
+   "date": "2026-11-17T03:31-08:00",
+   "url": "https://paulkrugman.substack.com/p/the-trump-administration-has-doged",
+   "bullets": [
+    "The Trump administration cut IRS IT staff by 40% and removed 80% of senior tech leadership, halting Biden-era modernization and relying on AI and firms like Palantir.",
+    "The IRS still runs on 1960s COBOL and assembly code, and the last official tax‑gap estimate was $606 billion in 2022—over 2% of GDP and roughly a third of the deficit.",
+    "Krugman argues Democrats must restore IRS funding and genuine modernization after a 2028 win to close the tax gap, reduce the deficit, and fund their affordability agenda."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261117023047.3.e658f6857b02af25@mg2.substack.com",
+   "newsletter": "George Conway - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Grotesque Ballroom Is Already Underway. Can Anyone Still Stop It?",
+   "date": "2026-11-16T18:30-08:00",
+   "url": "https://www.thebulwark.com/p/trumps-grotesque-ballroom-is-already",
+   "bullets": [
+    "George Conway and Democracy Defenders Fund co‑founder Norm Eisen say recent court victories have blocked Trump’s attempts to overturn the 2024 election, but his expansive “White House ballroom” scheme remains unchecked.",
+    "They warn a growing Nvidia corruption scandal could further entrench Trump allies, complicating efforts to halt his power consolidation.",
+    "The conversation shifts to the next phase: moving from preventing Trump’s abuses to legally holding his administration accountable."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261117011051.3.75c998eabf40ba2c@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Ex-PragerU Host Sues Over Alleged Racism, Assassination Video",
+   "date": "2026-11-16T17:10-08:00",
+   "url": "https://www.thebulwark.com/p/ex-prageru-host-xaviaer-durousseau-sues-over-alleged-racism-assassination-video-complaint",
+   "bullets": [
+    "Former PragerU influencer Xaviaer DuRousseau, who claimed to generate 80% of the outlet’s social media views, alleges he was subjected to racial slurs by coworkers and fired in July as retaliation for reporting racism and unlawful workplace conditions.",
+    "On November 3, DuRousseau filed a lawsuit against PragerU alleging harassment, a hostile work environment, and retaliation for his complaints, as detailed in an exclusive interview with False Flag."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261116230611.3.08e452830a56203a@mg2.substack.com",
    "newsletter": "Zeteo",
@@ -69,12 +213,10 @@
    "subject": "My Weekend With the White Nationalists",
    "date": "2026-11-16T12:43-08:00",
    "url": "https://www.thebulwark.com/p/my-weekend-with-the-white-nationalists-nxr-texas-conference",
-   "summary_tries": 1,
    "bullets": [
-    "AS YOU APPROACHED THE TABLE holding everyone’s badges at the entrance of the “Christ Is King: America After Trump” conference at the Irving Convention Center last Thursday, you were greeted by a standing banner that really set the tone for …",
-    "The phrase “CATCH A LITTLE MOTION, WHITE BOY” is emblazoned underneath the image of a t-shirt with a winking young man drawn in that faux-1950s Fallout-style encircled by the words “It’s okay to be white.” He’s surrounded by SS-style lightn…"
+    "The New Christian Right’s inaugural “Christ Is King: America After Trump” conference in Irving, Texas featured far‑right pastor Joel Webbon calling for Christian deference, mass deportations, anti‑interracial marriage, and anti‑Zionist rhetoric, framing the midterm GOP losses as divine judgment against Trump.”,"
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261116180930.3.7983f8d5b8a7a4e1@mg-d1.substack.com",
@@ -5541,201 +5683,14 @@
     "The 2016 NH Senate race was decided by 1,017 votes, and Pappas’ campaign faces a $60 million GOP spending advantage from John Sununu’s campaign, with 17 days left to close the gap."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261017220918.3.1313b870804ea3e9@mg2.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Our Work Won’t End When the Votes Are Counted",
-   "date": "2026-10-17T15:09-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark urges readers to become Bulwark+ members before the 30% discount expires Sunday, Oct 18, to fund independent pro‑democracy coverage through the midterms and beyond.",
-    "Members get ad‑free access to all content plus exclusive events, including a live‑streamed chat with Pete Buttigieg this Sunday and a pre‑midterms Q&A on Nov 1."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017190118.3.26d09a89955ae56f@mg-d0.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "The Trio: MAGA Influencers Are Running for Cover After Talarico Smear Collapses",
-   "date": "2026-10-17T12:01-07:00",
-   "url": null,
-   "bullets": [
-    "Sam Stein, Tim Miller, and Will Sommer detail how MAGA influencers propagated a fabricated smear against Texas Democrat James Talarico, noting the smear’s collapse and likely lack of repercussions for its architects.",
-    "Court filings allege that Gov. Kristi Noem and former Trump aide Corey Lewandowski supplied false intel to Laura Loomer to target a government employee, illustrating how political disinformation can spread without mainstream media oversight.",
-    "The trio also examines Ben Shapiro’s expanding conservative film venture, citing Hollywood actors like Rob Lowe joining his projects, and provides an update on Trump‑aligned congressional hopeful Anthony Constantino’s rap‑infused campaign."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017175936.3.6b8ba099d7e9abee@mg-d1.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "As I write this…",
-   "date": "2026-10-17T10:59-07:00",
-   "url": "https://roycoopernc.substack.com/p/as-i-write-this",
-   "bullets": [
-    "Roy Cooper urges North Carolinians to donate now as voting begins, emphasizing that flipping the Senate seat—unheld by a Democrat for nearly 20 years—depends on grassroots funding.",
-    "He claims polls show his campaign surging against a Trump‑backed former GOP chair and asks for $5 contributions to boost voter outreach before November 3."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017170120.3.baca573b76c95a09@mg-d1.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine: Two Videos Show Horrors of Israeli Violence in Gaza and Occupied West Bank",
-   "date": "2026-10-17T10:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-two-videos",
-   "bullets": [
-    "A video shows toddler Maryam Ghanem, whose parents were killed, watching her mother burn and later being rescued with severe burns, illustrating the daily genocide faced by Palestinian children in Gaza.",
-    "In the occupied West West Bank, settlers attacked Palestinian olive harvesters, injuring several, including Washington Post photojournalist Heidi Levine, highlighting ongoing settler violence against Palestinians."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017165334.3.a03e105be03a2546@mg-d0.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "We’re On the Road Again...",
-   "date": "2026-10-17T09:53-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark’s fall tour kicked off with a sold‑out Columbia, SC show featuring Annie Andrews, Bakari Sellers, and a lineup of Southern politics, 2028 superlatives, The Next Level and The Trio; next stop Charlotte, NC.",
-    "On Sunday, Oct. 18 at 7 p.m. EDT, Bulwark+ members can livestream a live‑chat interview with Pete Buttigieg hosted by Sarah, Tim, Sam, JVL, Lauren Egan and Catherine Rampell, available on‑demand for non‑members."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017140301.3.f21342ca225afb4e@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Ex-Trump Press Secretary Unloads on the Four Horsemen of the Trump-ocalypse",
-   "date": "2026-10-17T07:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/ex-trump-press-secretary-unloads",
-   "bullets": [
-    "Stephen Miller, Trump’s long‑time policy chief, remains entrenched because Trump prioritizes loyalty over competence, making his removal unlikely despite widespread Republican disapproval.",
-    "Marco Rubio, a former senator, is portrayed as complicit in Trump’s agenda; insiders warn he cannot distance himself from Trump 2.0’s controversies, and a rift with JD Vance is emerging.",
-    "Pete Hegseth and Mike Huckabee are highlighted as key figures whose actions have caused significant damage to the administration, with Hegseth noted as the most intimidating cabinet official to former deputy press secretary Sarah Matthews."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017134037.3.d2c6e1b46970de0f@mg2.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Election Interference Is Underway",
-   "date": "2026-10-17T06:40-07:00",
-   "url": null,
-   "bullets": [
-    "The DOJ sued California, demanding it use a thumb‑drive list of alleged non‑citizen voters within two days or face litigation, then threatened criminal liability for counting those ballots, a claim Trump amplified on Truth Social.",
-    "Similar tactics were used in Nevada, where an initial claim of 16,000 non‑citizen voters collapsed to zero, yet the administration continues to push voter‑fraud narratives and legal pressure despite losing 26 lawsuits and a Supreme Court rebuke on mail‑in voting.",
-    "FEMA tried to withhold terrorism‑prep grants unless states adopted a federal election code dictating voting equipment, audits and citizenship checks, but a judge blocked the move and FEMA rescinded the unlawful requirements."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017130341.3.7d7ee76a7ce527e4@mg-d1.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“Age is a social construct; you can accept it or reject it”",
-   "date": "2026-10-17T06:03-07:00",
-   "url": "https://post.substack.com/p/age-is-a-social-construct-you-can",
-   "bullets": [
-    "Lena Dunham announced a Girls reboot, sparking a split among Substackers: Em argues reboots ruin TV and the show’s Obama‑era tone won’t resonate now, while Angela praises its authentic millennial realism and trusts Dunham to portray a matured Hannah authentically.",
-    "The Substack review of Nathan Fielder’s documentary You Can See Everything details unprecedented access to Elizabeth Holmes in her final weeks before a 10‑year prison sentence, concluding the film confirms Holmes as a liar who lacks honest self‑communication."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017123115.3.449d55a9fe0644bd@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Why Democrats Are Doing Better in Red States Than Blue Ones",
-   "date": "2026-10-17T05:31-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/why-democrats-are-doing-better-in",
-   "bullets": [
-    "Polling shows Democrats in red‑state Senate races (e.g., Michigan, Minnesota) are underperforming relative to expectations, lagging behind the typical 10‑13 point leads they’d enjoy in blue‑state contests like Maine.",
-    "Pfeiffer attributes the anomaly to factors like money disparities and candidate quality, noting that even moderate Republicans such as Sununu could thwart Democratic chances in swing states like New Hampshire.",
-    "He warns Democrats not to assume a national wave will compensate for weaker performance in their own strongholds, urging focus on tightening races in traditionally blue states."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017102436.3.5935dd71fded0564@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Is Europe Losing the Future?",
-   "date": "2026-10-17T03:24-07:00",
-   "url": "https://paulkrugman.substack.com/p/is-europe-losing-the-future",
-   "bullets": [
-    "Krugman delivered a lecture in Oxford arguing that Europe is falling behind economically, citing slower growth, demographic decline, and lagging innovation compared to the U.S. and Asia."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017100154.3.55f5e955cc0b5625@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Some Trump Voters Are Gushing Over This Iowa Democrat (with Elaine Godfrey)",
-   "date": "2026-10-17T03:01-07:00",
-   "url": null,
-   "bullets": [
-    "Elaine Godfrey reports that disaffected Trump voters in Iowa are surprisingly enthusiastic about the state’s two leading Democratic Senate candidates, suggesting a potential shift in a traditionally red state.",
-    "Godfrey notes that other long‑shot Democrats are targeting red‑state races like Mississippi, Nebraska, and South Carolina, betting on voter fatigue with the MAGA establishment.",
-    "The episode also links to related pieces on the Bulwark’s Focus Group newsletter and offers a limited‑time 30% discount on annual subscriptions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017020101.3.9b2a97634cf71ff0@mg-d0.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 91: Trump 'Weaponizes Federal Law Enforcement' to Try to Deport Ilhan Omar",
-   "date": "2026-10-16T19:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-91-trump",
-   "bullets": [
-    "Federal agents raided Rep. Ilhan Omar’s Washington, DC home on Oct. 12 as part of a long‑running immigration fraud probe aimed at stripping her citizenship, violating the DOJ’s informal 60‑day rule before the election.",
-    "The Justice Department opened an antitrust investigation into major TV networks—including NBC, ABC, CBS, CNN and Fox—after a Trump adviser claimed they colluded to suppress coverage of the president.",
-    "Trump’s administration spent nearly $22 million of taxpayer money on campaign‑style ads, with about $10 million aired after a court ordered the ads stopped, and is planning a $100 million ICE domestic surveillance program deploying over 140 contractors nationwide."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017010800.3.907c171346ff5614@mg2.substack.com",
-   "newsletter": "Sarah Longwell—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s DOJ Lawyers Could Face a MAJOR Reckoning (w/ Andrew Weissmann)",
-   "date": "2026-10-16T18:08-07:00",
-   "url": null,
-   "bullets": [
-    "Andrew Weissmann argues that ordering Trump to stop violating campaign finance rules is insufficient, warning that DOJ lawyers who pursue politically motivated prosecutions risk disbarment if they ignore the law’s limits.",
-    "The episode covers the FBI raid on Ilhan Omar’s office, Trump’s recent overtures to Putin, and court actions aimed at curbing his taxpayer-funded campaign ads."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261017005016.3.2dde079559fda9fe.3br4myps@mg1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Live video with Mehdi Hasan now: Mo Amer and Rep. Greg Casar with Mehdi Live in Houston",
-   "date": "2026-10-16T17:50-07:00",
-   "url": null,
-   "bullets": [
-    "Mehdi Hasan hosts a live video in Houston featuring comedian Mo Amer and Representative Greg Casar, available exclusively to paid subscribers."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 81,
-  "total": 418
+  "shown": 77,
+  "total": 415
  },
  "brief_status": {
-  "tried": "2026-11-16T15:27-08:00",
-  "ok": false,
-  "note": "unusable reply"
+  "tried": "2026-11-17T14:30-08:00",
+  "ok": true
  }
 }
