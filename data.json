@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-17T14:30-08:00",
+ "updated": "2026-11-17T20:34-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The fallout from the Nvidia scandal—linking CEO Jensen Huang to Chinese espionage and Trump allies—dominates politics, prompting investigations, export‑control calls, and fueling the midterm Democratic surge (Zeteo, The Bulwark, The Substack Post).",
-   "Republican leadership is fracturing as Senate Democrats push to strip Iran‑war funding while internal GOP battles over Trump’s authoritarian tactics and the looming “Axis of Evil” alliance intensify (The Bulwark, Zeteo).",
-   "Midterm results signal a decisive shift: Democrats seized control, ousting AIPAC‑backed candidates and challenging entrenched Senate leaders like Schumer, reflecting voter backlash against corruption and war policies (The Bulwark, Zeteo).",
-   "Infrastructure neglect is exposing the nation, from a nationwide FAA shutdown to crumbling air‑traffic systems blamed on Republican underfunding and Trump‑era mismanagement (The Bulwark, Paul Krugman).",
-   "Climate urgency is escalating as record heat and sea‑level rise outpace policy responses, underscoring the need for aggressive mitigation ahead of 2027 (Smart People Talking)."
+   "The Trump administration’s Nvidia scandal—linking CEO Jensen Huang to Chinese espionage and prompting congressional investigations—has become the week’s defining national‑security flashpoint (The Bulwark, The Substack Post, Bulwark Takes).",
+   "Senate Democrats are scrambling to strip Iran‑war funding from the upcoming spending bill, while internal party battles see Chris Van Hollen challenging Chuck Schumer for leadership (The Bulwark, Zeteo, First Draft | Zeteo).",
+   "Midterm results have reshaped the political map: AOC‑linked progressive momentum, a flipped Ohio seat now demanding an end to Israel aid, and AIPAC’s waning influence after costly defeats (Zeteo, Mehdi Unfiltered).",
+   "Republican‑led cuts to IRS and FAA modernization have crippled tax collection and air‑traffic safety, underscoring the administration’s broader under‑investment in critical infrastructure (Paul Krugman, The Bulwark).",
+   "Tech billionaires face mounting accountability as Democrats push tighter export controls and AI oversight, spurred by the Nvidia scandal and growing public backlash against data‑center expansion (Zeteo, Doomberg).",
+   "The 2026 climate report warns that record‑breaking warming and a strong El Niño threaten global stability, adding urgency to policy debates already dominated by security and political turmoil (Smart People Talking)."
   ],
   "by": "groq",
   "ids": [
-   "20261115013041.3.aca83e6cad949ebb@mg-d1.substack.com",
    "20261115100224.3.81ac1dc6737d6527@mg-d1.substack.com",
    "20261115115010.3.99aa02d55d73c0bd@mg2.substack.com",
    "20261115131536.3.695d682190ce3e2f@mg-d0.substack.com",
@@ -39,12 +39,69 @@
    "20261117160351.3.c94b5357e8141369@mg2.substack.com",
    "20261117180833.3.73cbb56b5e9a7c00@mg-d1.substack.com",
    "20261117202218.3.1bfb47547c7ccd3b@mg-d0.substack.com",
-   "20261117210144.3.8f9535b1201ba26b@mg-d0.substack.com"
+   "20261117210144.3.8f9535b1201ba26b@mg-d0.substack.com",
+   "20261117224333.3.2bc4a9fc4a7f320e@mg2.substack.com",
+   "20261118005545.3.3b84af858f19c514@mg-d1.substack.com",
+   "20261118012034.3.23d03596744e8387@mg-d0.substack.com",
+   "20261118033047.3.f37601ad84c1cefc@mg-d0.substack.com"
   ],
-  "updated": "2026-11-17T14:30-08:00",
+  "updated": "2026-11-17T20:34-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261118033047.3.f37601ad84c1cefc@mg-d0.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Ukraine Dealt a Huge Blow Before Trump’s Summit (Sen. Van Hollen & Michael Weiss)",
+   "date": "2026-11-17T19:30-08:00",
+   "url": "https://www.thebulwark.com/p/michael-weiss-and-chris-van-hollen",
+   "bullets": [
+    "Sen. Chris Van Hollen says Democrats will target what he calls the most corrupt U.S. administration, push for ICE funding and an Iran war, while challenging Schumer’s leadership in the Senate caucus.”,"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261118012034.3.23d03596744e8387@mg-d0.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Everything Is Breaking, and Trump Has No Idea What to Do",
+   "date": "2026-11-17T17:20-08:00",
+   "url": "https://www.thebulwark.com/p/pete-hegseth-fired-the-people-who",
+   "bullets": [
+    "Tim, JVL, and Sarah argue the Trump administration has jeopardized national security by courting foreign dictators aiding Iran’s attacks on U.S. troops and firing Pentagon officers who warned about Iranian drone threats, calling for Benghazi‑style hearings.",
+    "They claim the administration blames “trans‑sports‑obsessed Democrats” for airline outages while offering no explanation for broader failures at Microsoft, banks, the NSA, and Apple, and note Tim’s interview with Sen. Chris Van Hollen on the Senate leadership race."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261118005545.3.3b84af858f19c514@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "The 2028 Dem Primary Is Waiting on AOC: ‘We’re Just All on Pause’",
+   "date": "2026-11-17T16:55-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/aoc-2028-dem-primary-is-waiting-on",
+   "bullets": [
+    "Democratic strategists are holding off on 2028 presidential plans, waiting to see if Alexandria Ocasio‑Cortez will run, after her role in the 2026 midterm surge for Democrats.",
+    "Thousands of activists nationwide have mobilized to push AOC’s candidacy, despite some left‑wing concerns about her electability and strategic fit.",
+    "Republicans are reportedly uneasy, noting that the 2026 midterm results, which Ocasio‑Cortez helped shape, make a presidential run by her seem plausible rather than a moonshot."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261117224333.3.2bc4a9fc4a7f320e@mg2.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Scaramucci Warns Republicans That Trump Is Coming for Them Next",
+   "date": "2026-11-17T14:43-08:00",
+   "url": "https://www.thebulwark.com/p/scaramucci-warns-republicans-that",
+   "bullets": [
+    "Trump defended Nvidia’s ousted CEO because he has personal financial stakes in the company, a link the newsletter traces through stock holdings and past donations.",
+    "The piece details a growing feud between hedge‑fund manager Scott Bessent and penny‑stock mogul Howard Lutnick, highlighting how their rivalry could affect market stability and national security.",
+    "Former Trump aide Anthony Scaramucci warns that Trump’s recent actions—targeting JD Vance and threatening party leaders—signal a plan to dismantle the Republican Party from within."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261117210144.3.8f9535b1201ba26b@mg-d0.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -5670,27 +5727,14 @@
     "The cut‑off isolates Russia’s Kaliningrad exclave—home to ~1 million people—from mainland power, heightening its strategic vulnerability and prompting Moscow’s September warning that NATO moves could trigger nuclear retaliation."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261017230104.3.3836b4537cb8b2f4@mg-d1.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "President Obama: “We must win New Hampshire’s Senate race”",
-   "date": "2026-10-17T16:01-07:00",
-   "url": "https://chrispappasnh.substack.com/p/a-message-from-president-obama",
-   "bullets": [
-    "President Obama urges New Hampshire voters to support Chris Pappas, citing high costs and corporate influence as reasons the Senate race matters for change in Washington.",
-    "The 2016 NH Senate race was decided by 1,017 votes, and Pappas’ campaign faces a $60 million GOP spending advantage from John Sununu’s campaign, with 17 days left to close the gap."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 77,
-  "total": 415
+  "shown": 78,
+  "total": 418
  },
  "brief_status": {
-  "tried": "2026-11-17T14:30-08:00",
+  "tried": "2026-11-17T20:34-08:00",
   "ok": true
  }
 }
