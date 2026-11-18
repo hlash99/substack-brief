@@ -1,26 +1,18 @@
 {
- "updated": "2026-11-17T20:34-08:00",
+ "updated": "2026-11-18T14:10-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The Trump administration’s Nvidia scandal—linking CEO Jensen Huang to Chinese espionage and prompting congressional investigations—has become the week’s defining national‑security flashpoint (The Bulwark, The Substack Post, Bulwark Takes).",
-   "Senate Democrats are scrambling to strip Iran‑war funding from the upcoming spending bill, while internal party battles see Chris Van Hollen challenging Chuck Schumer for leadership (The Bulwark, Zeteo, First Draft | Zeteo).",
-   "Midterm results have reshaped the political map: AOC‑linked progressive momentum, a flipped Ohio seat now demanding an end to Israel aid, and AIPAC’s waning influence after costly defeats (Zeteo, Mehdi Unfiltered).",
-   "Republican‑led cuts to IRS and FAA modernization have crippled tax collection and air‑traffic safety, underscoring the administration’s broader under‑investment in critical infrastructure (Paul Krugman, The Bulwark).",
-   "Tech billionaires face mounting accountability as Democrats push tighter export controls and AI oversight, spurred by the Nvidia scandal and growing public backlash against data‑center expansion (Zeteo, Doomberg).",
-   "The 2026 climate report warns that record‑breaking warming and a strong El Niño threaten global stability, adding urgency to policy debates already dominated by security and political turmoil (Smart People Talking)."
+   "The Trump administration’s chaotic handling of simultaneous cyber‑outages and AI‑driven threats signals a systemic security vulnerability, with the Bulwark warning it may be an orchestrated exploit (The Bulwark).",
+   "Democratic power shifts are reshaping Washington: a surprise midterm sweep fuels moderate populist agendas, challenges to Senate leadership, and a looming 2028 primary hinging on AOC’s decision (Zeteo, The Bulwark, Paul Krugman).",
+   "Tech billionaire accountability is rising as Nvidia’s Jensen Huang scandal and broader AI concerns become a focal point for congressional oversight and Democratic strategy (The Bulwark, Zeteo).",
+   "Trump’s foreign‑policy tour of China, Russia, and the Philippines, coupled with his embrace of authoritarian allies, deepens the U.S. alignment with the new “Axis of Evil” and raises constitutional alarms (The Bulwark).",
+   "Public‑health setbacks emerge as the U.S. loses measles elimination status, highlighting vaccination gaps and the need for renewed federal health initiatives (Your Local Epidemiologist).",
+   "Internal GOP turmoil intensifies as former allies warn Trump’s unchecked power could empower future kleptocrats, while intra‑party battles over leadership signal a fracturing Republican base (Here Be Dragons, The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20261115100224.3.81ac1dc6737d6527@mg-d1.substack.com",
-   "20261115115010.3.99aa02d55d73c0bd@mg2.substack.com",
-   "20261115131536.3.695d682190ce3e2f@mg-d0.substack.com",
-   "20261115155809.3.979a02fb32cce5d5@mg-d0.substack.com",
-   "20261115190438.3.b1080339b4c0d021@mg-d0.substack.com",
-   "20261115200601.3.a17d0054205a3e93@mg-d0.substack.com",
-   "20261115202721.3.02bf424bff1899a1@mg-d1.substack.com",
-   "20261115220139.3.30e2218b0ef5f4ff@mg2.substack.com",
    "20261116005959.3.6ac64db731871806@mg-d0.substack.com",
    "20261116112943.3.235d0e011753ff9a@mg-d1.substack.com",
    "20261116121914.3.218699a19035445a@mg-d1.substack.com",
@@ -43,12 +35,115 @@
    "20261117224333.3.2bc4a9fc4a7f320e@mg2.substack.com",
    "20261118005545.3.3b84af858f19c514@mg-d1.substack.com",
    "20261118012034.3.23d03596744e8387@mg-d0.substack.com",
-   "20261118033047.3.f37601ad84c1cefc@mg-d0.substack.com"
+   "20261118033047.3.f37601ad84c1cefc@mg-d0.substack.com",
+   "20261118113110.3.c80ced0cd7d951e8@mg-d0.substack.com",
+   "20261118113120.3.7053d29006b11b15@mg2.substack.com",
+   "20261118121325.3.6fe7d8fb3d3fa6c3@mg2.substack.com",
+   "20261118143939.3.8563a1ba76a0eef4@mg-d1.substack.com",
+   "20261118162857.3.225f7ef2b7cdc154@mg-d0.substack.com",
+   "20261118164955.3.338586c9a9b6e6ba@mg-d1.substack.com",
+   "20261118174924.3.63e5362f0265c27a@mg-d0.substack.com"
   ],
-  "updated": "2026-11-17T20:34-08:00",
+  "updated": "2026-11-18T14:10-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261118174924.3.63e5362f0265c27a@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "WTF Is Happening? No, Seriously, WTF!",
+   "date": "2026-11-18T09:49-08:00",
+   "url": "https://www.thebulwark.com/p/wtf-is-happening-no-seriously-wtf-cyber-ai",
+   "bullets": [
+    "The Trump administration, via Marco Rubio, claims no evidence links recent outages—Microsoft, FAA, banks, Apple, United Airlines, NSA—to a coordinated cyber attack, labeling them isolated incidents.",
+    "The author notes a pattern of simultaneous disruptions (Nov 12‑17) and cites AI experts warning of AI-driven exploits, suggesting a potential systemic vulnerability rather than a single attacker."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261118164955.3.338586c9a9b6e6ba@mg-d1.substack.com",
+   "newsletter": "Here Be Dragons from Barbara F. Walter",
+   "pub": "barbarafwalter",
+   "subject": "Would You Let Trump Walk Away?",
+   "date": "2026-11-18T08:49-08:00",
+   "url": "https://barbarafwalter.substack.com/p/would-you-let-trump-walk-away",
+   "bullets": [
+    "Trump’s 2028 exit could be a ‘golden exit ramp’ that lets him avoid prison and keep his wealth, but it risks encouraging future kleptocrats by rewarding bad behavior and undermining democratic accountability.",
+    "A safer bargain would grant Trump existing Supreme Court immunity and wealth protection while enacting a constitutional amendment to end future presidential criminal immunity, require business divestiture, and mandate tax‑return disclosure to curb profiteering.",
+    "If implemented, the amendment would shift 2028 Democrats’ focus from battling Trump to addressing economic issues like gas prices and housing affordability, potentially boosting their electoral prospects."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261118162857.3.225f7ef2b7cdc154@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "BREAKING: 11 Dems Vote Against Hakeem Jeffries for Speaker",
+   "date": "2026-11-18T08:28-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/breaking-11-dems-vote-against-hakeem-jeffries",
+   "bullets": [
+    "On 2026‑11‑18, 11 House Democrats voted no and two abstained on a secret ballot for Hakeem Jeffries as Speaker, despite his broad support and the party’s recent majority win.",
+    "Seven incoming progressive freshmen—Darializa Avila Chevalier, Adam Hamawy, Frederick Haynes, Melat Kiros, Donavan McKinney, Chris Rabb, and Claire Valdez—publicly declared their no votes, citing unmet demands on Medicare for All, anti‑ICE, anti‑political money, and Gaza policy.",
+    "Jeffries, a long‑time Medicare for All supporter who opposed the policy this summer and a staunch Israel backer, has tried to shift left by endorsing lower Medicare eligibility age and calling for “dramatic change” in Israel, Gaza, and the West Bank, but progressives say he failed to secure commitments on ending U.S. military aid to Israel."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261118143939.3.8563a1ba76a0eef4@mg-d1.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Beating Trump’s Marxism Will Take FDR-Style Populism",
+   "date": "2026-11-18T06:39-08:00",
+   "url": "https://www.thebulwark.com/p/beating-trumps-marxism-will-take-fdr-style-populism",
+   "bullets": [
+    "Mary Peltola’s 4‑point win over Dan Sullivan in Alaska flips a Trump‑strong seat and signals a wave of moderate Democrats poised to pursue economic populism in Washington.",
+    "The newsletter argues that Trump’s expanded government role and ties to authoritarian leaders mirror Marxist‑style corporatism, while Democrats should emulate FDR’s New Deal to curb “economic royalists.”",
+    "It warns that AI‑driven software updates are causing widespread outages, suggesting companies’ defensive patches are often unpredictable and disruptive."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261118121325.3.6fe7d8fb3d3fa6c3@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "🐴 💩 Iran DC Dirty Bomb Plot Is ‘Total Horseshit,’ Sources Say",
+   "date": "2026-11-18T04:13-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/iran-dc-dirty-bomb-plot-is-total",
+   "bullets": [
+    "Multiple sources say the alleged Iranian ‘dirty bomb’ plot in Washington, DC – cited by CNN and Trump – is baseless, describing the intelligence as ‘total horseshit’.",
+    "The story claimed seven U.S. officials saw specific targeting plans, but Zeteo’s contacts note the intel exists only as low‑credibility raw reports routinely reviewed by agencies like the National Counterterrorism Center.",
+    "Trump publicly warned Iran would ‘pay a price’ if the plot were real, while the newsletter warns the narrative fuels a dangerous, unfounded escalation in his illegal war with Iran."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261118113120.3.7053d29006b11b15@mg2.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Don’t ICEwash or Griftwash the Midterms",
+   "date": "2026-11-18T03:31-08:00",
+   "url": "https://paulkrugman.substack.com/p/dont-icewash-or-griftwash-the-midterms",
+   "bullets": [
+    "Krugman argues the Democrats’ 2026 midterm sweep, winning the popular vote by about 14 points versus Trump’s 1.5‑point win in 2024, shows voters cared about more than affordability, citing a leftward Latino swing and polls linking ICE‑related backlash and corruption concerns to Republican losses.",
+    "He critiques pundits who label the victory as an ‘affordability’ win, warning that downplaying MAGA’s broader authoritarian and corrupt image risks alienating voters who see a constellation of failures, and urges Democrats to combine honest affordability policies with swift anti‑corruption actions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261118113110.3.c80ced0cd7d951e8@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "The U.S. lost measles elimination after 26 years. Now what?",
+   "date": "2026-11-18T03:31-08:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/the-us-lost-measles-elimination-after",
+   "bullets": [
+    "The U.S. lost its measles elimination status after 26 years as vaccination rates fell, with over 28% of counties below the 90% MMR threshold, leading to 5,412 cases, 10 deaths, $477 million in costs, and thousands of school days missed this year.",
+    "Outbreaks are concentrated in under‑vaccinated pockets; unvaccinated or under‑vaccinated people account for 90‑95% of cases, so staying up‑to‑date or getting a post‑exposure MMR dose within 72 hours is crucial.",
+    "Restoring elimination will require strong federal leadership, transparent communication, increased funding for public‑health infrastructure, and community‑level advocacy to raise vaccination rates above the 95% herd‑immunity target."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261118033047.3.f37601ad84c1cefc@mg-d0.substack.com",
    "newsletter": "Tim Miller - The Bulwark",
@@ -5618,123 +5713,14 @@
     "The Bulwark’s live video features Pete Buttigieg and his team discussing current political topics from Charlotte, available now to paid subscribers."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261018211935.3.2af8f605492e1924@mg2.substack.com",
-   "newsletter": "Sarah and JVL—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Reminder: 30% OFF Bulwark+ Ends Tonight",
-   "date": "2026-10-18T14:19-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark’s 30% discount on Bulwark+ membership expires tonight, offering ad‑free articles, newsletters, podcasts and access to member‑only livestreams like the October 18 Pete Buttigieg event.",
-    "Joining Bulwark+ supports independent, pro‑democracy coverage ahead of the midterms and grants entry to a community of “politically homeless” readers and live Q&A sessions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261018190110.3.546770db0f313895@mg-d0.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "James Carville’s Midterm Predictions | Bulwark on Sunday",
-   "date": "2026-10-18T12:01-07:00",
-   "url": null,
-   "bullets": [
-    "James Carville tells Bill Kristol he’s cautiously optimistic about a massive Democratic wave, citing Republican vulnerabilities in Florida, Texas and the Deep South.",
-    "He argues Trump’s polling is disastrous and the GOP coalition is crumbling, raising concerns about election interference and a potential crushing defeat.",
-    "A Republican loss could damage Trump’s billionaire allies and reshape the future of American politics."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261018140535.3.7144fe09350b0c85@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Sneak Peek: Zeteo’s Breakthrough Investigative Documentary on AIPAC",
-   "date": "2026-10-18T07:05-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/sneak-peek-zeteos-breakthrough-investigative",
-   "bullets": [
-    "Former AIPAC chief lobbyist Douglas Bloomfield claims the group operates independently, but the documentary’s reporting traces four decades of evidence suggesting Israeli government influence.",
-    "The film ‘Night Flower: Inside AIPAC’s Fight for Influence’ premieres in Chicago on Oct. 20, with a post‑screening conversation featuring Mehdi Hasan, Rep. Delia Ramirez, and other panelists.",
-    "Paid subscribers can stream the documentary on Zeteo’s site starting Oct. 21; tickets and subscription links are provided in the email."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261018140210.3.5cfb02f571b40e02@mg2.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Before ‘Medicare for All,’ This Senator Wants ‘Medicaid for Kids’",
-   "date": "2026-10-18T07:02-07:00",
-   "url": null,
-   "bullets": [
-    "Democrats agree short‑term on restoring Medicaid cuts and ACA subsidies cut by Trump, but long‑term debate continues between Medicare‑for‑All and incremental reforms.",
-    "Sen. Andy Kim (D‑NJ) introduced a 13‑page ‘MediKids’ bill to automatically enroll every newborn in a public insurance program, with opt‑out, covering them until age 26 to stop children slipping through the coverage gap.",
-    "Kim frames MediKids as a unifying first step that shields kids from upcoming Republican enrollment restrictions and builds momentum toward broader universal‑coverage legislation."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261018133039.3.cfcb3e13bde08fc4@mg2.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "When you look up John Sununu’s name in the dictionary…",
-   "date": "2026-10-18T06:30-07:00",
-   "url": "https://chrispappasnh.substack.com/p/when-you-look-up-john-sununus-name",
-   "bullets": [
-    "John Sununu, after 25 years in Washington, voted four times against lowering prescription drug prices, supported a $700 billion Wall Street bailout, and now reportedly earned up to $35 million from the same industries he once regulated.",
-    "The author contrasts Sununu with himself, claiming he takes no corporate PAC money, backs a ban on stock trading for Congress, seeks to disclose dark‑money donors, and proposes a lifetime lobbying ban for former members working for foreign governments.",
-    "With 16 days left in the Senate race, the campaign urges grassroots donations to counter what it calls a $2 billion Trump‑linked corruption problem and special‑interest backing of Sununu."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261018113134.3.8ca66bf6b44179b9@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Voters Explain Ossoff’s Appeal. And It’s Not What You Think.",
-   "date": "2026-10-18T04:31-07:00",
-   "url": null,
-   "bullets": [
-    "Ossoff’s debate attacks on Rep. Mike Collins—highlighting Collins’ support for data-center subsidies and alleged hiring of extremist staff—have boosted Ossoff’s lead to double digits in Georgia.",
-    "Despite Ossoff’s measured, Atticus Finch‑style delivery and avoidance of presidential ambitions, Georgia Trump voters who now disapprove of Trump view him favorably, according to the newsletter’s poll.",
-    "The author argues Ossoff exemplifies the Democratic strategy she’s advocated: strong, issue‑focused attacks without lofty rhetoric."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261018103101.3.bb3bf24b1053ff47@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "AI, Rising Inequality and Rising Oligarchy",
-   "date": "2026-10-18T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/ai-rising-inequality-and-rising-oligarchy",
-   "bullets": [
-    "AI‑related capital spending is crowding out investment in housing, manufacturing and other sectors, so fewer workers are needed and overall labor demand falls, risking slower or negative real wage growth.",
-    "The AI boom will accelerate the already‑declining labor share of national income, boosting wealth inequality and strengthening an emerging oligarchy of ultra‑wealthy capital owners."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261018090119.3.6df452999703a426@mg2.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Electricity Island",
-   "date": "2026-10-18T02:01-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/electricity-island",
-   "bullets": [
-    "On Feb 9 2025 EU Commission President Ursula von der Leyen celebrated the Baltic states’ full integration into the Continental European Synchronous Area, ending their reliance on cheap Russian electricity and receiving €1.23 billion in EU grants covering 75% of the project costs.",
-    "The cut‑off isolates Russia’s Kaliningrad exclave—home to ~1 million people—from mainland power, heightening its strategic vulnerability and prompting Moscow’s September warning that NATO moves could trigger nuclear retaliation."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 78,
-  "total": 418
+  "shown": 77,
+  "total": 417
  },
  "brief_status": {
-  "tried": "2026-11-17T20:34-08:00",
+  "tried": "2026-11-18T14:10-08:00",
   "ok": true
  }
 }
