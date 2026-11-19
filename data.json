@@ -1,24 +1,18 @@
 {
- "updated": "2026-11-18T20:16-08:00",
+ "updated": "2026-11-19T14:18-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The 2026 midterm wave has reshaped the political landscape, prompting Democrats to push FDR‑style populism while Republicans scramble over leadership challenges and Trump‑linked scandals (The Bulwark, Paul Krugman).",
-   "Trump’s continued entanglement with tech moguls—especially Nvidia’s Jensen Huang and Elon Musk—has sparked investigations and a looming push for billionaire accountability (Zeteo, The Bulwark).",
-   "A series of nationwide outages and AI‑driven cyber‑risk warnings highlight systemic infrastructure fragility and the Trump administration’s under‑investment in critical tech upgrades (The Bulwark, Zeteo).",
-   "Anthropic’s $1.4 trillion IPO marks the first standalone AI lab to go public, underscoring the escalating stakes of AI commercialization and regulatory scrutiny (Zeteo).",
-   "Public‑health alarms are rising as the U.S. loses measles elimination status, with vaccination gaps driving thousands of cases and significant economic costs (Your Local Epidemiologist).",
-   "Internal GOP turmoil is evident as Fox News openly attacks JD Vance and Senate Democrats consider replacing Chuck Schumer, reflecting deep fractures within both parties (The Bulwark, Zeteo)."
+   "The ICJ’s first state‑level genocide ruling against Myanmar marks a watershed moment for global justice, forcing a rethink of how international law holds governments accountable for mass atrocities (Zeteo, First Draft).",
+   "The 2026 midterm surge that gave Democrats a 14‑point popular‑vote lead is less about affordability and more about a backlash against ICE and corporate influence, reshaping the party’s policy priorities (Paul Krugman).",
+   "Sen. John Fetterman’s high‑profile Republican‑aligned fundraising and Fox‑News attacks signal a potential 2028 primary challenge that could fracture the Democratic base (The Bulwark).",
+   "The sudden spike in national outages—from Microsoft to the FAA—suggests a systemic vulnerability in critical infrastructure, raising questions about AI‑driven cyber threats (JVL, First Draft).",
+   "The U.S. losing measles elimination status after 26 years underscores a public‑health crisis fueled by vaccine hesitancy, with 28% of counties below the 90% threshold (Your Local Epidemiologist).",
+   "The emerging “Axis of Evil” now includes Russia, China, and Iran, with Trump’s 2028 exit strategy potentially rewarding kleptocratic behavior and undermining democratic accountability (Here Be Dragons)."
   ],
   "by": "groq",
   "ids": [
-   "20261116112943.3.235d0e011753ff9a@mg-d1.substack.com",
-   "20261116121914.3.218699a19035445a@mg-d1.substack.com",
-   "20261116142746.3.2d8436325e18282f@mg-d0.substack.com",
-   "20261116162906.3.593dce9641abed34@mg-d0.substack.com",
-   "20261116180930.3.7983f8d5b8a7a4e1@mg-d1.substack.com",
-   "20261116204317.3.f215349635e2ab22@mg-d1.substack.com",
    "20261116230611.3.08e452830a56203a@mg2.substack.com",
    "20261117011051.3.75c998eabf40ba2c@mg2.substack.com",
    "20261117023047.3.e658f6857b02af25@mg2.substack.com",
@@ -45,12 +39,131 @@
    "20261118220118.3.65b774a85c74e43c@mg-d1.substack.com",
    "20261119001006.3.27f127dc693de2bc@mg-d1.substack.com",
    "20261119013047.3.cce8fb5dd3a30e3e@mg2.substack.com",
-   "20261119020055.3.d3a016d3ecb18306@mg-d1.substack.com"
+   "20261119020055.3.d3a016d3ecb18306@mg-d1.substack.com",
+   "20261119100126.3.e8044a18c6026c76@mg-d0.substack.com",
+   "20261119113116.3.0ee6faadb0510e8c@mg-d0.substack.com",
+   "20261119121654.3.06381cf8e658ab1c@mg2.substack.com",
+   "20261119143253.3.52d43fbd69201bd4@mg2.substack.com",
+   "20261119160213.3.f3f105c083f372b3@mg2.substack.com",
+   "20261119174852.3.eaa69f82025f320a@mg-d0.substack.com",
+   "20261119194738.3.e261982a8a8d37be@mg2.substack.com",
+   "20261119202800.3.444bc377e864a3d4@mg-d1.substack.com"
   ],
-  "updated": "2026-11-18T20:16-08:00",
+  "updated": "2026-11-19T14:18-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261119202800.3.444bc377e864a3d4@mg-d1.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "John Fetterman’s Days Seem Numbered—and He Knows It",
+   "date": "2026-11-19T12:28-08:00",
+   "url": "https://www.thebulwark.com/p/john-fetterman-days-seem-numbered-and-he-knows-it",
+   "bullets": [
+    "Sen. John Fetterman’s recent actions—recorded video at the Republican midterm convention, fundraising via Republican lists, and self‑describing as a “lifelong Republican”—appear aimed at baiting a 2028 primary challenge.",
+    "Fetterman’s frequent Fox News appearances, where he attacks Democratic colleagues and threatens to leave the party, have angered his own party and may accelerate his potential ouster.",
+    "Several Pennsylvania House Democrats are already eyeing a 2028 primary against Fetterman, suggesting the strategy could backfire and force his exit before the next election."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261119194738.3.e261982a8a8d37be@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "The Genocide Ruling Against Myanmar Is a Remarkable Moment for the Rohingya – and Global Justice",
+   "date": "2026-11-19T11:47-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/the-genocide-ruling-against-myanmar",
+   "bullets": [
+    "In a 9‑6 ICJ vote on 2026‑11‑19, Myanmar was found to have committed genocide against the Rohingya in Rakhine, marking the first state‑level genocide ruling in ICJ history.",
+    "The ruling cites Myanmar’s 2017 crackdown—burning villages, killing at least 10,000 Rohingya, forcibly displacing hundreds of thousands, and raping women and children—as evidence of genocidal intent, despite Myanmar’s counter‑terrorism justification.",
+    "This decision is hailed as a rare triumph for international justice, challenging a legal system traditionally resistant to state‑level genocide findings."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261119174852.3.eaa69f82025f320a@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Two Biggest Rats Are Jumping Ship",
+   "date": "2026-11-19T09:48-08:00",
+   "url": "https://www.thebulwark.com/p/the-two-biggest-rats-are-jumping-ship-elon-musk-jd-vance-donald-trump",
+   "bullets": [
+    "Elon Musk claimed to be a moderate, saying he doesn’t know what MAGA means, yet he donated $5.5 million to Greg Abbott and spent $446 million on Republican candidates in the 2024 midterms to secure unified GOP control, while publicly praising divided government.",
+    "Senator JD Vance told Laura Ingraham that Trump’s 2024 agenda failed because “True MAGA” wasn’t delivered, setting a February 2028 deadline for Trump to withdraw from the Gulf and positioning Vance for a 2028 run to fulfill Trump’s promises.",
+    "The newsletter cites Schwinn’s 1977 outsourcing to Taiwan’s Giant, leading to Schwinn’s 1992 bankruptcy and Giant becoming the world’s largest bike maker, illustrating how off‑shoring erodes a firm’s innovation capability."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261119160213.3.f3f105c083f372b3@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "New Congresswoman Who Just Voted Against Jeffries Talks Speaker Role and Rebuilding Trust With Voters",
+   "date": "2026-11-19T08:02-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/new-congresswoman-who-just-voted",
+   "bullets": [
+    "Eleven Democrats, including Rep.-elect Darializa Avila Chevalier, voted against Hakeem Jeffries’ nomination as the first Black House speaker, arguing the role is dominated by corporate interests and the party lacks voter trust.",
+    "Chevalier said she will push to block arms shipments to Israel amid ongoing hospital bombings in Gaza and warned that impeachment efforts against Trump could backfire.",
+    "Subscribers can watch a 22‑minute interview where she discusses her stance on Israel, potential Trump retaliation, and her priorities on day one in Congress."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261119143253.3.52d43fbd69201bd4@mg2.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Worst Throuple on the Planet",
+   "date": "2026-11-19T06:32-08:00",
+   "url": "https://www.thebulwark.com/p/the-worst-throuple-on-the-planet-trump-xi-putin-trilateral-summit",
+   "bullets": [
+    "Elon Musk admitted his half‑billion‑dollar political spending failed to influence the Texas midterms, noting the victory of James Talarico over Ken Paxton as proof that money isn’t everything in elections.",
+    "Trump’s Shenzhen summit with Xi and Putin produced a photo‑op that glorified Putin, reinforced a de‑facto “Axis of Evil” of nuclear powers, and ignored key issues like AI export controls, the Ukraine war, and the AI arms race.",
+    "The authors warn that while Trump courts autocrats, China is simultaneously deepening its global trade ties and preparing for future U.S. administrations, leaving democratic allies increasingly reluctant to isolate Beijing."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261119121654.3.06381cf8e658ab1c@mg2.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Now We Know What Stands Between Trump’s U.S. and Total Collapse: A Cabinet of Idiots",
+   "date": "2026-11-19T04:16-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/now-we-know-what-stands-between-trumps",
+   "bullets": [
+    "The International Court of Justice ruled that Myanmar is responsible for genocide against the Rohingya, marking the first state‑level finding under the 1948 Genocide Convention and raising expectations for its pending Gaza case against Israel.",
+    "Prem argues that a cascade of recent outages at Microsoft, Apple, JPMorgan, United Airlines, the FAA and the NSA reveals systemic fragility in the U.S., prompting public panic about cash, food and gold reserves.",
+    "He criticizes Cabinet members for offering incoherent reassurance on live TV, notes Rep. Thomas Massie and Rep. Jamie Raskin’s reactions, and adds that Elon Musk, after spending $500 million and seeing Republican midterm losses, is now distancing himself from MAGA while the Iran war escalates."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261119113116.3.0ee6faadb0510e8c@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "A Bridge, I Mean Post, Too Far",
+   "date": "2026-11-19T03:31-08:00",
+   "url": "https://paulkrugman.substack.com/p/a-bridge-i-mean-post-too-far",
+   "bullets": [
+    "Krugman was the keynote speaker at the IMF’s Statistical Forum on November 18, 2026, discussing economic data issues.",
+    "He traveled to Washington, D.C., by Amtrak and noted a passenger watching his recent interview with historian Heather Cox Richardson at the CUNY Graduate Center, now available as a cleaned‑up video with transcript."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261119100126.3.e8044a18c6026c76@mg-d0.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "The Internet of Gas",
+   "date": "2026-11-19T02:01-08:00",
+   "url": "https://open.substack.com/pub/doomberg/p/the-internet-of-gas",
+   "bullets": [
+    "The Rockies Express pipeline, built 2006‑2009 to move 1.8 Bcf/d from Colorado/Wyoming, was repurposed after 2014 to reverse flow and export Appalachian gas via the Seneca Lateral into Ohio’s Clarington hub.",
+    "EQT’s Ohio Valley Connector added 850 MMcf/d in 2016, a 400 MMcf/d Clarington Connector is imminent, and Antero Midstream is scoping a 1 Bcf/d north‑south pipeline to Clarington with a possible FID in 2027.",
+    "S&P Global Platts tracks 46.5 Bcf/d of pipeline projects announced in 2026, driven by expected demand from LNG terminals, power generators and data centers, signaling continued midstream expansion."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261119020055.3.d3a016d3ecb18306@mg-d1.substack.com",
    "newsletter": "Zeteo",
@@ -5605,139 +5718,14 @@
     "Pappas warns Sununu’s Trump endorsement and $60 million in Republican ad spending threaten New Hampshire’s Senate seat, urging a $15 donation to fund a counter‑campaign before the November election."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261019220151.3.69a8f112a3cd29f3@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "I Believed American Healthcare Was the Best in the World. Then I Did the Math",
-   "date": "2026-10-19T15:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/i-believed-american-healthcare-was",
-   "bullets": [
-    "The author, a Yale epidemiology chair, admits his belief that U.S. healthcare is world‑best was mistaken, citing three decades of comparative research.",
-    "Studies show lower‑resource nations provide universal care with no deductibles, achieving better health outcomes while spending far less than the United States.",
-    "Achieving similar universal, cost‑effective care in the U.S. would require systemic changes to replace fee‑for‑service, deductible‑heavy models with collective funding akin to public schools and fire departments."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261019214712.3.7a22971ac4bb45c3@mg-d0.substack.com",
-   "newsletter": "Pete Buttigieg",
-   "pub": "petebuttigieg",
-   "subject": "An Enormous Act of Hope in Virginia",
-   "date": "2026-10-19T14:47-07:00",
-   "url": "https://petebuttigieg.substack.com/p/an-enormous-act-of-hope-in-virginia",
-   "bullets": [
-    "Buttigieg recounts his son’s blunt comment about mortality, using it to frame a personal call to health and legacy as he reflects on future generational judgments.",
-    "He attended a rally in Henrico County with Democratic House candidates Tom Perriello, Shannon Taylor, Elaine Luria, and Jennifer McClellan, emphasizing that their Monday‑afternoon turnout signals urgent action with 15 days left before critical Virginia races that could secure a Democratic House majority.",
-    "He urges viewers to watch the rally and consider what concrete actions they will claim in fall 2026 to improve the country."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261019210735.3.0fa49cdea4c1f0b2@mg2.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "The crook President Donald J. Trump",
-   "date": "2026-10-19T14:07-07:00",
-   "url": "https://ossoff.substack.com/p/saturdays-rally-in-atlanta",
-   "bullets": [
-    "Ossoff urges Georgia voters to defeat Republican Mike Collins and elect Democrat Keisha Lance Bottoms as governor, promising universal pre‑K, Medicaid expansion, and lower child healthcare costs.",
-    "He accuses Trump of inflating oil prices, doubling insurance premiums, and orchestrating corrupt deals selling Russian energy assets to Trump allies, citing Jared Kushner, Steve Witkoff, and foreign financiers.",
-    "Ossoff blames systemic political corruption, especially Citizens United, and calls for a constitutional amendment to end secret corporate money, positioning Georgia as a leader in that effort."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261019190115.3.96864615bfd00cdf@mg-d1.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Kara Swisher Warns Elon Musk: A Reckoning Is Coming",
-   "date": "2026-10-19T12:01-07:00",
-   "url": null,
-   "bullets": [
-    "Kara Swisher argues Musk is spending hundreds of millions on Republican candidates to protect his empire from potential Democratic regulation, fearing antitrust actions and stricter tech oversight.",
-    "She says Silicon Valley’s pro‑MAGA tilt is a calculated gamble that may backfire as investors and the public push back, making Musk’s alliance with Trump increasingly desperate.",
-    "Swisher also reveals her new partnership with Hillary Clinton, critiques JD Vance’s appeal, and explains her departure from CNN, citing editorial conflicts."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261019174610.3.811f14a630386c6e@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "What the UK Is Doing to Pro-Palestine Novelist Sally Rooney Is an Act of Orwellian Villainy",
-   "date": "2026-10-19T10:46-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/what-the-uk-is-doing-to-pro-palestine",
-   "bullets": [
-    "Sally Rooney publicly condemned Israel’s actions in Gaza, supported BDS, refused Hebrew publication with an Israeli military-linked publisher, and pledged royalties to Palestine Action, now designated a UK terrorist group.",
-    "The UK government proscribed Palestine Action under the Terrorism Act, placing it alongside al-Qaeda, risking Rooney’s arrest and forcing her publishers to withdraw her books from UK sale.",
-    "The newsletter frames these moves as Orwellian censorship, warning that silencing a high-profile author could set a precedent for broader suppression of dissent."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261019164812.3.4c8da242718776ff@mg-d0.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Welcome to JD Vance 6.0",
-   "date": "2026-10-19T09:48-07:00",
-   "url": null,
-   "bullets": [
-    "The newsletter frames JD Vance’s political evolution as software versions, with JD 6.0 unveiled at a Bari Weiss‑hosted event as the launch platform for his 2028 presidential bid.",
-    "It characterizes prior versions—memoirist (1.0), Never‑Trump pundit (2.0), MAGA edgelord (3.0), and a hybrid of Elizabeth Warren and Marco Rubio with light nativism (4.0)—and notes a 5.1 backchannel upgrade that let Vance leak anti‑Trump sentiments while publicly defending him."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261019132356.3.ee7ccc9e7022ff72@mg2.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "‘Happy Birthday, Vlad. Yours, Always.’ - DJT.",
-   "date": "2026-10-19T06:23-07:00",
-   "url": null,
-   "bullets": [
-    "Trump claims his rallies save the GOP, yet Punchbowl News reports he avoids competitive House races, focusing on friendly districts, revealing his waning popularity ahead of the midterms.",
-    "Since a call with Putin on his birthday, Trump has waived sanctions, announced an unauthorized ‘energy ceasefire,’ restricted Ukraine’s Starlink, and blocked new sanctions, positioning himself as pro‑Russia and hostile to Zelensky’s war effort.",
-    "Trump justifies his Russia‑friendly stance by saying he doesn’t want to drive Moscow away from negotiations and blames Zelensky for hurting global diesel markets, while the Wall Street Journal notes Putin is proposing a US‑Russia‑China summit on Ukraine."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261019112126.3.d360e2bf6f6c7efc@mg-d0.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Forget Abdul El-Sayed’s Mom – Here’s the Truth About Donald Trump’s Dad and the KKK",
-   "date": "2026-10-19T04:21-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/forget-abdul-el-sayeds-mom-heres",
-   "bullets": [
-    "Trump has never pledged to accept the 2020 election results, echoing his 2016 debate refusal to concede if he lost, and continues to claim election fraud.",
-    "Michigan Senate candidate Abdul El‑Sayed rebuffed accusations of Muslim Brotherhood ties, highlighting that his mother’s alleged 1970s activism is irrelevant and that he was raised by his father, while a town‑hall challenger’s question backfired and went viral.",
-    "The newsletter also notes Obama’s defense of Ilhan Omar versus a senior Democrat’s silence, and criticizes Trump’s alleged treachery toward Ukraine and appeasement of Russia."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261019103057.3.a72129033226afe6@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Donald Trump is Politically Bankrupt. Be Very Afraid",
-   "date": "2026-10-19T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/donald-trump-is-politically-bankrupt",
-   "bullets": [
-    "US officials say Trump could order a strike on Iran’s energy and nuclear sites before the midterms, despite his claim he won’t, as political desperation may override caution.",
-    "Krugman argues Trump is politically bankrupt and faces “gambling for resurrection,” likening his potential war move to a failing businessman taking reckless risks to save himself, with disastrous policy looting likely after the elections.",
-    "He warns Trump’s unchecked power could lead to overt support for Putin, sabotage of Ukraine’s defenses, and open racism, indicating a shift toward extremist, self‑serving actions regardless of public or strategic costs."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 78,
-  "total": 418
+  "shown": 76,
+  "total": 417
  },
  "brief_status": {
-  "tried": "2026-11-18T20:16-08:00",
+  "tried": "2026-11-19T14:18-08:00",
   "ok": true
  }
 }
