@@ -1,19 +1,18 @@
 {
- "updated": "2026-11-18T14:10-08:00",
+ "updated": "2026-11-18T20:16-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The Trump administration’s chaotic handling of simultaneous cyber‑outages and AI‑driven threats signals a systemic security vulnerability, with the Bulwark warning it may be an orchestrated exploit (The Bulwark).",
-   "Democratic power shifts are reshaping Washington: a surprise midterm sweep fuels moderate populist agendas, challenges to Senate leadership, and a looming 2028 primary hinging on AOC’s decision (Zeteo, The Bulwark, Paul Krugman).",
-   "Tech billionaire accountability is rising as Nvidia’s Jensen Huang scandal and broader AI concerns become a focal point for congressional oversight and Democratic strategy (The Bulwark, Zeteo).",
-   "Trump’s foreign‑policy tour of China, Russia, and the Philippines, coupled with his embrace of authoritarian allies, deepens the U.S. alignment with the new “Axis of Evil” and raises constitutional alarms (The Bulwark).",
-   "Public‑health setbacks emerge as the U.S. loses measles elimination status, highlighting vaccination gaps and the need for renewed federal health initiatives (Your Local Epidemiologist).",
-   "Internal GOP turmoil intensifies as former allies warn Trump’s unchecked power could empower future kleptocrats, while intra‑party battles over leadership signal a fracturing Republican base (Here Be Dragons, The Bulwark)."
+   "The 2026 midterm wave has reshaped the political landscape, prompting Democrats to push FDR‑style populism while Republicans scramble over leadership challenges and Trump‑linked scandals (The Bulwark, Paul Krugman).",
+   "Trump’s continued entanglement with tech moguls—especially Nvidia’s Jensen Huang and Elon Musk—has sparked investigations and a looming push for billionaire accountability (Zeteo, The Bulwark).",
+   "A series of nationwide outages and AI‑driven cyber‑risk warnings highlight systemic infrastructure fragility and the Trump administration’s under‑investment in critical tech upgrades (The Bulwark, Zeteo).",
+   "Anthropic’s $1.4 trillion IPO marks the first standalone AI lab to go public, underscoring the escalating stakes of AI commercialization and regulatory scrutiny (Zeteo).",
+   "Public‑health alarms are rising as the U.S. loses measles elimination status, with vaccination gaps driving thousands of cases and significant economic costs (Your Local Epidemiologist).",
+   "Internal GOP turmoil is evident as Fox News openly attacks JD Vance and Senate Democrats consider replacing Chuck Schumer, reflecting deep fractures within both parties (The Bulwark, Zeteo)."
   ],
   "by": "groq",
   "ids": [
-   "20261116005959.3.6ac64db731871806@mg-d0.substack.com",
    "20261116112943.3.235d0e011753ff9a@mg-d1.substack.com",
    "20261116121914.3.218699a19035445a@mg-d1.substack.com",
    "20261116142746.3.2d8436325e18282f@mg-d0.substack.com",
@@ -42,12 +41,70 @@
    "20261118143939.3.8563a1ba76a0eef4@mg-d1.substack.com",
    "20261118162857.3.225f7ef2b7cdc154@mg-d0.substack.com",
    "20261118164955.3.338586c9a9b6e6ba@mg-d1.substack.com",
-   "20261118174924.3.63e5362f0265c27a@mg-d0.substack.com"
+   "20261118174924.3.63e5362f0265c27a@mg-d0.substack.com",
+   "20261118220118.3.65b774a85c74e43c@mg-d1.substack.com",
+   "20261119001006.3.27f127dc693de2bc@mg-d1.substack.com",
+   "20261119013047.3.cce8fb5dd3a30e3e@mg2.substack.com",
+   "20261119020055.3.d3a016d3ecb18306@mg-d1.substack.com"
   ],
-  "updated": "2026-11-18T14:10-08:00",
+  "updated": "2026-11-18T20:16-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261119020055.3.d3a016d3ecb18306@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Bari Weiss Has a ‘Confession’ for Ben Shapiro",
+   "date": "2026-11-18T18:00-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/bari-weiss-has-a-confession-for-ben",
+   "bullets": [
+    "Bari Weiss promoted Ben Shapiro’s new right‑wing propaganda film on The Free Press, charging subscribers $250 each for a screened viewing and live commentary with the screenwriter.",
+    "The CBS News head screened the anti‑communist film, while the Tiffany Network’s editor‑in‑chief gave a strong endorsement despite the film receiving poor reviews so far.",
+    "The piece also notes ongoing ‘Mamdani Derangement Syndrome’ on the right and declining MAGA enthusiasm."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261119013047.3.cce8fb5dd3a30e3e@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Fox News Host Unloads on JD Vance in Stunning On-Air Attack",
+   "date": "2026-11-18T17:30-08:00",
+   "url": "https://www.thebulwark.com/p/fox-news-host-unloads-on-jd-vance",
+   "bullets": [
+    "Brian Kilmeade on Fox News said JD Vance should never have been vice president, marking a rare on‑air attack from the network’s own hosts.",
+    "Tim Miller argues that Fox & Friends is already promoting 2028 GOP contenders like Ron DeSantis and Marco Rubio following the party’s midterm losses.",
+    "The piece questions whether former President Trump’s presumed successor, Vance, is losing backing from conservative media outlets."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261119001006.3.27f127dc693de2bc@mg-d1.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Don’t Just Assume Dems Will Lose Their 2026 Gains Next Time",
+   "date": "2026-11-18T16:10-08:00",
+   "url": "https://www.thebulwark.com/p/dont-just-assume-democrats-dems-will-lose-their-2026-gains-next-time",
+   "bullets": [
+    "Democrats’ 2026 midterm gains, though large, echo the 2010 Republican surge, prompting operatives to doubt long‑term durability in Trump‑leaning districts and question the elected members’ skill to survive a less favorable cycle.",
+    "Historical precedent shows such optimism can be misplaced: after Republicans added 63 seats in 2010, they retained the House until 2019, and Democrats reclaimed only eight seats in 2012 despite Obama’s re‑election.",
+    "Both parties are already planning 2028 battleground maps, assessing which new Democratic members need heavy funding to hold their seats and which districts to target next."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261118220118.3.65b774a85c74e43c@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Anthropic’s IPO and the Danger to All of Us",
+   "date": "2026-11-18T14:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/anthropics-ipo-and-the-danger-to",
+   "bullets": [
+    "Anthropic plans to list 825 million shares on Nasdaq at $70‑$78 each, targeting a valuation up to $1.4 trillion, which would be the world’s largest IPO and the first standalone AI lab to go public in the U.S.”,"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261118174924.3.63e5362f0265c27a@mg-d0.substack.com",
    "newsletter": "JVL - The Bulwark",
@@ -5673,54 +5730,14 @@
     "He warns Trump’s unchecked power could lead to overt support for Putin, sabotage of Ukraine’s defenses, and open racism, indicating a shift toward extremist, self‑serving actions regardless of public or strategic costs."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261019004214.3.b48fc2a8882a9d64@mg-d0.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Dems See Trump’s Corruption as the Grift That Keeps on Giving",
-   "date": "2026-10-18T17:42-07:00",
-   "url": null,
-   "bullets": [
-    "Gallup reports a record high share of Americans now see government corruption as widespread, and Reuters/Ipsos finds a majority think Trump has profited improperly since returning to office.",
-    "Fox News polling shows corruption is the top issue for registered voters ahead of the midterms, edging out inflation and high prices.",
-    "Democratic strategists, learning from 2018, are now centering anti‑Trump corruption messaging in their midterm campaign plans."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261019001739.3.21874128d8b34a0e@mg2.substack.com",
-   "newsletter": "Douglas Macgregor from Warrior Diplomacy Substack",
-   "pub": "macgregorwarrior",
-   "subject": "Is President Trump considering the Nuclear Option?",
-   "date": "2026-10-18T17:17-07:00",
-   "url": "https://macgregorwarrior.substack.com/p/is-president-trump-considering-the",
-   "bullets": [
-    "Trump’s frustration over failing wars in Ukraine and Iran, a worsening global energy crisis, and plummeting U.S. stocks (1,400 down >70% from 52‑week highs) is driving political desperation ahead of the midterms.",
-    "The author claims Trump may be considering a nuclear strike on Iran, arguing that the conflict has spiked fuel prices, strained refinery capacity, and threatened the petrodollar system.",
-    "He also alleges Trump is offering public bribes to voters and facing internal White House acrimony as Republicans scramble to curb gas prices, interest rates, and the unpopular war for Israel."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261018230320.3.40220e4617b153bb.cvqg0m0g@mg1.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Live video with The Bulwark now: Pete Buttigieg & The Gang LIVE from Charlotte",
-   "date": "2026-10-18T16:03-07:00",
-   "url": null,
-   "bullets": [
-    "The Bulwark’s live video features Pete Buttigieg and his team discussing current political topics from Charlotte, available now to paid subscribers."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 77,
-  "total": 417
+  "shown": 78,
+  "total": 418
  },
  "brief_status": {
-  "tried": "2026-11-18T14:10-08:00",
+  "tried": "2026-11-18T20:16-08:00",
   "ok": true
  }
 }
