@@ -1,21 +1,18 @@
 {
- "updated": "2026-11-19T14:18-08:00",
+ "updated": "2026-11-19T20:04-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The ICJ’s first state‑level genocide ruling against Myanmar marks a watershed moment for global justice, forcing a rethink of how international law holds governments accountable for mass atrocities (Zeteo, First Draft).",
-   "The 2026 midterm surge that gave Democrats a 14‑point popular‑vote lead is less about affordability and more about a backlash against ICE and corporate influence, reshaping the party’s policy priorities (Paul Krugman).",
-   "Sen. John Fetterman’s high‑profile Republican‑aligned fundraising and Fox‑News attacks signal a potential 2028 primary challenge that could fracture the Democratic base (The Bulwark).",
-   "The sudden spike in national outages—from Microsoft to the FAA—suggests a systemic vulnerability in critical infrastructure, raising questions about AI‑driven cyber threats (JVL, First Draft).",
-   "The U.S. losing measles elimination status after 26 years underscores a public‑health crisis fueled by vaccine hesitancy, with 28% of counties below the 90% threshold (Your Local Epidemiologist).",
-   "The emerging “Axis of Evil” now includes Russia, China, and Iran, with Trump’s 2028 exit strategy potentially rewarding kleptocratic behavior and undermining democratic accountability (Here Be Dragons)."
+   "The International Court of Justice’s historic genocide ruling against Myanmar (Zeteo, First Draft | Zeteo) marks the first state‑level finding under the 1948 Convention and raises hopes for accountability in other conflicts like Gaza.",
+   "Democrats celebrated a sweeping 2026 midterm victory but now face internal fractures as a bloc of fresh‑face members voted against Hakeem Jeffries for speaker and are pushing anti‑aid and anti‑corporate reforms (Mehdi Unfiltered, Zeteo | U.S. Politics, The Bulwark).",
+   "Trump’s foreign‑policy gambits – a covert Venezuela trip, a summit with Putin and Xi, and a push to downplay Ukraine – are being exposed as transactional and destabilizing, while his massive political spending failed to sway key races (Bulwark Takes, Bill Kristol & Andrew Egger).",
+   "A cascade of high‑profile tech and infrastructure outages, from Microsoft to the FAA, is being linked to aging systems and potential AI‑driven exploits, underscoring systemic vulnerability in U.S. critical infrastructure (JVL - The Bulwark, Tim Miller).",
+   "The United States lost its measles‑elimination status after vaccination rates fell, sparking a resurgence of cases and costly public‑health impacts (Your Local Epidemiologist).",
+   "Energy markets are shifting as legacy pipelines like Rockies Express are repurposed for reverse‑flow gas exports, signaling a new era of U.S. fossil‑fuel infrastructure realignment (Doomberg)."
   ],
   "by": "groq",
   "ids": [
-   "20261116230611.3.08e452830a56203a@mg2.substack.com",
-   "20261117011051.3.75c998eabf40ba2c@mg2.substack.com",
-   "20261117023047.3.e658f6857b02af25@mg2.substack.com",
    "20261117113132.3.f7afa66de138436a@mg-d0.substack.com",
    "20261117120446.3.b882a87973275d4b@mg2.substack.com",
    "20261117123140.3.af19587c82f4f92b@mg-d0.substack.com",
@@ -47,12 +44,56 @@
    "20261119160213.3.f3f105c083f372b3@mg2.substack.com",
    "20261119174852.3.eaa69f82025f320a@mg-d0.substack.com",
    "20261119194738.3.e261982a8a8d37be@mg2.substack.com",
-   "20261119202800.3.444bc377e864a3d4@mg-d1.substack.com"
+   "20261119202800.3.444bc377e864a3d4@mg-d1.substack.com",
+   "20261119230126.3.a7dcdd0c06552777@mg-d0.substack.com",
+   "20261120003152.3.09336d7af54958a2@mg-d0.substack.com",
+   "20261120013233.3.c1f432052a2771b9@mg-d0.substack.com"
   ],
-  "updated": "2026-11-19T14:18-08:00",
+  "updated": "2026-11-19T20:04-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261120013233.3.c1f432052a2771b9@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Hegseth’s Venezuela Visit Was Hidden From American Media",
+   "date": "2026-11-19T17:32-08:00",
+   "url": "https://www.thebulwark.com/p/hegseths-venezuela-visit-was-hidden",
+   "bullets": [
+    "Andrew Egger and Ben Parker argue that Defense Secretary Pete Hegseth’s covert Venezuela trip resulted in a security pact with Delcy Rodríguez’s regime, yet it yields no democratic progress and ignores alleged drug‑trafficking links.",
+    "They criticize the Trump administration’s portrayal of the deal as a foreign‑policy win, describing it as a transactional, oil‑driven arrangement that resembles a master‑vassal relationship rather than a genuine partnership."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261120003152.3.09336d7af54958a2@mg-d0.substack.com",
+   "newsletter": "The Bulwark",
+   "pub": "thebulwark",
+   "subject": "A reporter and a spy walk into a podcast…",
+   "date": "2026-11-19T16:31-08:00",
+   "url": "https://www.thebulwark.com/p/a-reporter-and-a-spy-walk-into-a",
+   "bullets": [
+    "Michael Weiss, investigative journalist, and Marc Polymeropoulos, a 26-year CIA veteran who suffered Havana syndrome, are launching a new podcast called Reporter and the Spy, debuting Sunday.",
+    "Each weekly episode will dive into tradecraft, intelligence, geopolitics, and covert operations, featuring stories from Russia, Ukraine, the Middle East, and their own careers.",
+    "The show is available on Apple Podcasts, Spotify, YouTube, and other platforms; Bulwark+ subscribers can listen ad‑free."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261119230126.3.a7dcdd0c06552777@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Heated Iran Debate: Mehdi vs. Ex-Trump Deputy Press Secretary",
+   "date": "2026-11-19T15:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/heated-iran-debate-mehdi-vs-ex-trump",
+   "bullets": [
+    "Mehdi appeared on ‘Piers Morgan Uncensored’ to rebut Bernard‑Henri Lévy’s uncritical praise of Israel and to argue with former Trump deputy press secretary Hogan Gidley that only Trump’s former boss was reckless enough to bomb Iran, unlike past presidents Clinton, Bush, Obama and Biden.",
+    "The heated interview also touched on Russia’s war in Ukraine, Trump’s alleged war‑on‑Iran stance, and compared President Biden’s sexual‑abuse allegations to those faced by comedian Russell Brand.",
+    "The newsletter links to the full video of the debate and encourages subscriptions or donations to support Zeteo’s coverage."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261119202800.3.444bc377e864a3d4@mg-d1.substack.com",
    "newsletter": "Joe Perticone - The Bulwark",
@@ -5676,56 +5717,14 @@
     "The Bundibugyo Ebola outbreak in the DRC has exceeded 9,000 cases and 4,400 deaths with a 48% fatality rate, now reaching an eighth province and spilling into Kenya (eight cases); a trial of the Ervebo vaccine for this strain is beginning, though risk to Americans remains very low."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261020010109.3.2fff209105542f92@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "‘Why on Earth Would Iran Make a Nuclear Deal With Us?’ Ex-Obama Official on Trump and What’s Next",
-   "date": "2026-10-19T18:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/why-on-earth-would-iran-make-a-nuclear",
-   "bullets": [
-    "Ben Rhodes argues Trump’s “fascist looting” has crippled U.S. global authority, pushing the country toward authoritarianism and undermining its diplomatic leverage.",
-    "He contends Iran would never negotiate a nuclear deal with a U.S. led by Trump, citing the administration’s support for Israel and antagonism toward Moscow.",
-    "The discussion also covers Russia‑Ukraine dynamics, Gaza aid, and the broader implications of Trump’s alignment with Putin for U.S. foreign policy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261020000348.3.3215d3b915efd35d@mg2.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Republicans Finally Have Their First “Goth Groypette” House Candidate",
-   "date": "2026-10-19T17:03-07:00",
-   "url": null,
-   "bullets": [
-    "Colorado GOP congressional nominee Kelley Dennison, 27, is being billed as America’s first “goth baddie” and has attracted praise from Dr. Drew and Michael Knowles.",
-    "Dennison’s campaign openly courts the antisemitic “groyper” movement linked to white‑nationalist podcaster Nick Fuentes, making her the first groyper‑aligned candidate to win a major‑party federal nomination.",
-    "While she hasn’t labeled herself a groyper and declined comment, her online tactics mirror the group’s rhetoric and style."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261020000118.3.2fd26b301c922d82@mg2.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "ICYMI: My first debate against John Sununu",
-   "date": "2026-10-19T17:01-07:00",
-   "url": "https://chrispappasnh.substack.com/p/sununus-non-answer",
-   "bullets": [
-    "John Sununu avoided answering how he would save Social Security, despite his past role in privatization proposals, while Chris Pappas pledges to protect benefits and reject work‑longer mandates.",
-    "Sununu claimed he wouldn’t have voted for Pete Hegseth, RFK Jr., and Kristi Noem but refused to specify which, obscuring his stance on key Senate confirmations that could affect Pentagon leadership and policy.",
-    "Pappas warns Sununu’s Trump endorsement and $60 million in Republican ad spending threaten New Hampshire’s Senate seat, urging a $15 donation to fund a counter‑campaign before the November election."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 76,
+  "shown": 75,
   "total": 417
  },
  "brief_status": {
-  "tried": "2026-11-19T14:18-08:00",
+  "tried": "2026-11-19T20:04-08:00",
   "ok": true
  }
 }
