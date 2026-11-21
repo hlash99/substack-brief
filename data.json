@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:53-08:00",
+ "updated": "2026-11-20T20:04-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -54,6 +54,45 @@
  },
  "items": [
   {
+   "id": "20261121023129.3.aa694192efe43794@mg-d0.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Anne Applebaum: All the Corruption, All the Time",
+   "date": "2026-11-20T18:31-08:00",
+   "url": "https://www.thebulwark.com/p/anne-applebaum-all-the-corruption",
+   "bullets": [
+    "The Bulwark launches a new Sunday podcast, “Reporter and the Spy,” featuring investigative journalist Michael Weiss and former CIA officer Marc Polymeropoulus to dissect covert ops, Russia, Ukraine, the Middle East and other global conflicts.",
+    "Anne Applebaum joins Tim Miller to discuss her critique of Trump’s recent summit, Kushner’s war‑profiteering, ongoing U.S. corruption scandals, Europe’s shift away from Starlink, and U.S. actions in Venezuela."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261121020149.3.08ba8023acb35317@mg-d0.substack.com",
+   "newsletter": "This Week in Democracy",
+   "pub": "zeteo",
+   "subject": "This Week in Democracy – Week 96: Trump Lays Groundwork to Fight Oversight Investigations",
+   "date": "2026-11-20T18:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-96-trump",
+   "bullets": [
+    "Trump held a trilateral summit with Xi Jinping and Vladimir Putin, offering glowing praise but no policy breakthroughs, while his administration struggled with cyber‑infrastructure outages, including at the NSA.",
+    "The DOJ sent threatening letters to Democratic lawmakers—including Senators Elizabeth Warren and Adam Schiff—warning of legal consequences for pursuing investigations, and the White House counsel claimed it need not preserve documents for oversight.",
+    "ICE detained green‑card holders for minor, decades‑old violations and paid AT&T millions for raw call‑record data, sparking civil‑liberty concerns, while a CFTC fraud probe into Trump’s 2025 memecoin was abandoned despite $636 million earnings and $4 billion losses to investors."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261121000120.3.ca2d43237cd586b1@mg2.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Fight the Future",
+   "date": "2026-11-20T16:01-08:00",
+   "url": "https://www.thebulwark.com/p/fight-the-future-530",
+   "bullets": [
+    "The Secret Podcast episode covers topics ranging from pinball and income inequality to Trump’s three‑way relationship with Putin and Xi, House Democrats’ stance on Iran war funding, Elon Musk’s dismissal of MAGA, Thanksgiving traditions, and why The Bulwark remains unsold."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261120213805.3.e925441acd0defd3@mg-d0.substack.com",
    "newsletter": "Sonny Bunch - The Bulwark",
    "pub": "thebulwark",
@@ -61,10 +100,11 @@
    "date": "2026-11-20T13:38-08:00",
    "url": "https://www.thebulwark.com/p/in-new-hunger-games-truth-is-fascisms",
    "bullets": [
-    "IT’S A GAME WHERE AMORALITY RULES THE DAY—but only if you want it to. Choices must be made and those choices have consequences: The game makers will send new challenges to those who act poorly or try to upset the balance. An entire nation’s…",
-    "I speak not of Grand Theft Auto VI, but of The Hunger Games: Sunrise on the Reaping, the latest prequel in the long-running YA series that keeps churning like a well-oiled machine of casual death. Set between the 2023 prequel, The Ballad of…"
+    "The new prequel *Hunger Games: Sunrise on the Reaping* retells Haymitch Abernathy’s origin and emphasizes how fascist regimes weaponize narrative, with Ralph Fiennes as President Snow and Jesse Plemons as a young Plutarch Heavensbee.",
+    "The newsletter promotes the launch of the Bulwark podcast *Reporter and the Spy*—hosted by journalist Michael Weiss and ex‑CIA officer Marc Polymeropoulos—covering covert ops and global conflicts.",
+    "Grand Theft Auto VI is projected to generate about $3 billion in its opening days, a cultural juggernaut the author discusses with Washington Post’s Gene Park."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261120200824.3.79648ac4a3f64668@mg2.substack.com",
@@ -5646,43 +5686,15 @@
     "In memoriam"
    ],
    "summary_by": "excerpt"
-  },
-  {
-   "id": "20261020232214.3.123df4fa44790e31@mg2.substack.com",
-   "newsletter": "Will Saletan",
-   "pub": "thebulwark",
-   "subject": "The Case Against Susan Collins",
-   "date": "2026-10-20T16:22-07:00",
-   "url": null,
-   "bullets": [
-    "Sen. Susan Collins, a Republican from Maine, has shifted her messaging between Fox News and PBS, warning that her Democratic challenger Troy Jackson is “soft on crime” and “gone far left,” while also claiming to use her Senate Appropriations Committee chairmanship to offset Trump‑era costs for Mainers.",
-    "Collins’ strategy frames her as a moderate who can reduce the negative impacts of the Trump administration, but critics argue this approach may be undermined by growing voter anger toward Trump and the GOP’s perceived failure to confront his policies.",
-    "In recent interviews, Collins defended her continued Senate tenure by citing the power of seniority and her role on the Appropriations Committee, arguing that her experience allows her to deliver more effectively for constituents than a freshman senator would."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261020220048.3.549255927c8a670d@mg2.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "This Might Be the Democrats’ Last Chance to Punish Trump and MAGA",
-   "date": "2026-10-20T15:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-might-be-the-democrats-last",
-   "bullets": [
-    "Democrats are projected to win the 2026 midterms, likely taking the House and possibly the Senate, despite a Republican‑favorable map.",
-    "The newsletter claims the Trump administration is engaged in widespread criminality, including cryptocurrency corruption and a targeted persecution of Rep. Ilhan Omar, citing links to alleged totalitarian tactics.",
-    "It warns that if Democrats fail to prosecute Trump and his allies decisively after gaining control, they risk losing future opportunities to hold the GOP accountable."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 76,
-  "total": 414
+  "shown": 75,
+  "total": 415
  },
  "brief_status": {
-  "tried": "2026-11-20T13:53-08:00",
+  "tried": "2026-11-20T20:04-08:00",
   "ok": false,
-  "note": "provider error"
+  "note": "unusable reply"
  }
 }
