@@ -1,25 +1,18 @@
 {
- "updated": "2026-11-21T19:17-08:00",
+ "updated": "2026-11-22T12:47-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s diplomatic overtures to Putin and Xi are deepening U.S. isolation and sparking internal GOP fractures, as seen in the Bulwark’s coverage of Vance, Rubio and the “Axis of Evil” narrative (The Bulwark, Zeteo).",
-   "The Bulwark and Zeteo highlight a surge in authoritarian‑style tactics: covert arms swaps in Venezuela, hidden diplomatic trips, and attempts to shield Trump from oversight through GAO appointments (The Bulwark, Zeteo).",
-   "Zeteo’s live conversation and articles stress an urgent need to rebuild U.S. democratic institutions and curb corruption after a series of scandals involving Trump‑linked appointments and stock‑trading loopholes (Zeteo).",
-   "The ongoing Israel‑Palestine violence escalates, with settler killings and new Gaza offensives underscoring the humanitarian crisis and its geopolitical ripple effects (Zeteo).",
-   "Tech and culture intersect with politics as GTA VI’s launch triggers economic ripples, while elite tech figures defend controversial Chinese‑linked executives, prompting scrutiny of export bans and corporate influence (The Substack Post, Paul Krugman)."
+   "Democrats’ sweeping 2026 midterm gains—seven progressive candidates flipping former GOP Senate seats—create the largest House majority in decades, forcing the party to plan a 2028 platform that restores Obamacare subsidies and expands Medicaid (Zeteo, Paul Krugman).",
+   "Trump’s post‑summit diplomacy with Putin and Xi has eroded U.S. global standing, jeopardizing allies like JD Vance and prompting GOP leaders to question the president’s foreign‑policy credibility (Mona Charen, Sarah Longwell).",
+   "A leaked Russian‑linked intelligence dossier implicates right‑wing commentator Elizabeth Lane in possible coordination with Russian operatives, raising concerns about foreign influence in U.S. media (The Bulwark).",
+   "Israeli settlers’ violent escalation—killing a 72‑year‑old Palestinian woman and building new illegal outposts—has intensified Gaza’s ground offensive, displacing thousands and killing at least seven Palestinians (Zeteo).",
+   "Trump’s attempt to place ally Eric Ueland at the GAO threatens to shield the administration from congressional oversight, while the Senate debates a stock‑trading ban that could bar the president from trading securities (The Bulwark).",
+   "The launch of the Bulwark podcast “Reporter and the Spy” signals a new era of investigative journalism focused on covert ops, Russia, Ukraine, and Middle East conflicts, reflecting growing public appetite for deep‑dive analysis (The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20261119100126.3.e8044a18c6026c76@mg-d0.substack.com",
-   "20261119113116.3.0ee6faadb0510e8c@mg-d0.substack.com",
-   "20261119121654.3.06381cf8e658ab1c@mg2.substack.com",
-   "20261119143253.3.52d43fbd69201bd4@mg2.substack.com",
-   "20261119160213.3.f3f105c083f372b3@mg2.substack.com",
-   "20261119174852.3.eaa69f82025f320a@mg-d0.substack.com",
-   "20261119194738.3.e261982a8a8d37be@mg2.substack.com",
-   "20261119202800.3.444bc377e864a3d4@mg-d1.substack.com",
    "20261119230126.3.a7dcdd0c06552777@mg-d0.substack.com",
    "20261120003152.3.09336d7af54958a2@mg-d0.substack.com",
    "20261120013233.3.c1f432052a2771b9@mg-d0.substack.com",
@@ -44,12 +37,85 @@
    "20261121170159.3.8f822f68d98a7891@mg-d0.substack.com",
    "20261121180122.3.113a312370bf8904@mg-d1.substack.com",
    "20261121193110.3.61d88cf436fbe2de@mg-d1.substack.com",
-   "20261122013043.3.6ff44ee1ed6ac105@mg-d1.substack.com"
+   "20261122013043.3.6ff44ee1ed6ac105@mg-d1.substack.com",
+   "20261122114437.3.03f4009817e50d75@mg-d0.substack.com",
+   "20261122120139.3.c5961e65a315ccc1@mg2.substack.com",
+   "20261122130354.3.d03bb77465e1d6fe@mg-d0.substack.com",
+   "20261122160252.3.8e6ffa5f736124f2@mg-d0.substack.com",
+   "20261122200107.3.ccc656e0c32817ae@mg-d0.substack.com"
   ],
-  "updated": "2026-11-21T19:17-08:00",
+  "updated": "2026-11-22T12:47-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261122200107.3.ccc656e0c32817ae@mg-d0.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "These 7 Progressives Flipped Red Seats – and Deserve Your Attention",
+   "date": "2026-11-22T12:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/these-7-progressives-flipped-red",
+   "bullets": [
+    "Democrats flipped nine Republican Senate seats in the 2026 midterms and are projected to hold 259 House seats, the largest Democratic majority in decades.",
+    "The article highlights seven progressive and populist candidates—including Abdul El‑Sayed, Troy Jackson, and Peggy Flanagan—who won formerly Republican seats and merit closer attention."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261122160252.3.8e6ffa5f736124f2@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Meet Chuck Schumer’s (Fake) Senate Campaign Consultant 😉",
+   "date": "2026-11-22T08:02-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/why-chuck-schumer-should-be-senate",
+   "bullets": [
+    "Democrats won the November 2026 midterms, but many voters fear establishment figure Chuck Schumer, 75, becoming Senate majority leader, preferring change over his Wall Street‑friendly reputation.",
+    "Zeteo’s mock Democratic consultant Frank Cappello touts Schumer’s half‑century congressional experience as a selling point, blaming Kamala Harris for the party’s 2024 losses and pitching taglines like “Schumer can’t come sooner.”",
+    "The accompanying video, freely available, presents Cappello’s satirical case for Schumer’s leadership and invites viewers to share their favorite tagline."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261122130354.3.d03bb77465e1d6fe@mg-d0.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Rising MAGA Star Has Secret Ties to a Russian Intel Op",
+   "date": "2026-11-22T05:03-08:00",
+   "url": "https://www.thebulwark.com/p/rising-maga-star-elizabeth-lane-has-secret-ties-russian-intelligence",
+   "bullets": [
+    "Elizabeth Lane, a Georgian‑born right‑wing commentator who exploded from under 1,000 followers to ~70,000 YouTube subs after a Tucker Carlson interview, has been linked via hacked laptop messages to Russian defector John Mark Dougan and former British soldier Michael Lee Gareth Jones, suggesting possible coordination with Russian intelligence.",
+    "The leaked communications, posted online after Dougan’s laptop was “poisoned,” include Lane’s praise for Putin using tactical nukes on the UK and her advocacy for the U.S. leaving NATO, while Dougan admits about 10% of the material may be fabricated but provides no detail on what is false."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261122120139.3.c5961e65a315ccc1@mg2.substack.com",
+   "newsletter": "James Horton, PhD. from Moonshots",
+   "pub": "jimhorton",
+   "subject": "Put Some Blood In It",
+   "date": "2026-11-22T04:01-08:00",
+   "url": "https://jimhorton.substack.com/p/put-some-blood-in-it",
+   "bullets": [
+    "Horton argues Nietzsche’s “bloodwriting” is elitist, claiming only great souls can write from lived, embodied experience, while ordinary “plebs” should mimic greatness by physically confronting life’s challenges.",
+    "He uses this framework to critique AI‑generated prose, saying AI strips writing of personal “terroir” and “grassiness,” producing bland, mass‑produced text that feels inauthentic to readers.",
+    "Horton proposes principles—Terroir (personal flavor) and Grassiness (real‑world contact)—to evaluate AI writing, urging writers to preserve these qualities rather than rely on “one‑prompt chump” outputs."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261122114437.3.03f4009817e50d75@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "A New Agenda for Healthcare Reform, Part I",
+   "date": "2026-11-22T03:44-08:00",
+   "url": "https://paulkrugman.substack.com/p/a-new-agenda-for-healthcare-reform",
+   "bullets": [
+    "The 2024 midterms gave Democrats a 14‑point popular‑vote lead in the House—the biggest margin since 1974—but without veto‑proof majorities they must plan a 2028 platform now.",
+    "Krugman argues Democrats should use a 2027 congressional takeover to restore Obamacare subsidies, reverse restrictive Medicaid rules, and address the 12 million Americans who have already lost coverage.",
+    "He warns that, given Trump’s unpopularity, a 2028 Democratic trifecta is likely, so the party should craft a broader reform agenda moving toward near‑universal coverage beyond merely undoing Trump‑era cuts."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261122013043.3.6ff44ee1ed6ac105@mg-d1.substack.com",
    "newsletter": "Mona Charen - The Bulwark",
@@ -5435,166 +5501,15 @@
     "Warren closed by urging supporters to donate to her, Nevada Democrats and Sen. Catherine Cortez Masto to help defeat Trump‑aligned agendas and advance affordable housing, healthcare and corporate accountability"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261022194401.3.00b7186c0e819a4d@mg-d0.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "To Motivate Base, GOP Cites Ancient Fear: France",
-   "date": "2026-10-22T12:44-07:00",
-   "url": null,
-   "bullets": [
-    "Republicans are leveraging recent riots in France as visual propaganda to energize their demoralized base ahead of the 2024 House and Senate races.",
-    "The party is attempting to tie the French unrest to Democratic candidates, framing the violence as evidence of a broader left‑wing threat.",
-    "These tactics aim to replace policy‑focused messaging with fear‑based imagery to boost voter turnout among GOP supporters."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022170536.3.867fd75be19e1b10@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "How Third-Party Candidates Could Swing the Senate",
-   "date": "2026-10-22T10:05-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/how-third-party-candidates-could",
-   "bullets": [
-    "Third‑party candidates, historically spoilers for Democrats (e.g., Nader in 2000, Stein in 2016), could now siphon votes from Republicans and help Democrats win Senate seats this cycle.",
-    "Republican operatives even aided Kanye West’s 2020 ballot access, showing a pattern of using third‑party runs to split opposition votes.",
-    "Voters choose third‑party options mainly out of dissatisfaction with their own party’s nominee, suggesting current Republican discontent could be decisive in tight Senate races."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022164047.3.52f8040d2205406d@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "JD Vance Is a Sociopath",
-   "date": "2026-10-22T09:40-07:00",
-   "url": null,
-   "bullets": [
-    "Vance spread a false claim that 20,000 Haitian migrants had “ravaged” Springfield, Ohio, telling CNN he didn’t care if the rumor was true and would fabricate stories to get media attention",
-    "In a September 15 CNN interview Vance doubled down, saying he would create stories to make the American media notice suffering, showing no remorse for the misinformation",
-    "In an October 17, 2026 interview Vance admitted his rhetoric on immigrants was imperfect, but offered no apology, reinforcing his pattern of scapegoating and deflecting responsibility"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022154916.3.c2255914b0d689d5@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Brazil Must Choose a President – Lula or Bolsonaro. Think It’s a No-Brainer? Think Again",
-   "date": "2026-10-22T08:49-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/brazil-must-choose-a-president-lula",
-   "bullets": [
-    "Senator Flávio Bolsonaro, the front‑runner for Brazil’s Oct 25 runoff, has said any president must pardon his father, ex‑president Jair Bolsonaro, even if the Supreme Court deems it unconstitutional, and is willing to use force against the judiciary to do so.",
-    "Flávio, who entered politics at 21 and now leads the Bolsonaro family’s political dynasty, is positioning a potential pardon as a non‑negotiable condition for his candidacy, echoing his 2022 claim that a future president must override legal barriers.",
-    "The article warns that treating the Lula‑vs‑Bolsonaro choice as a simple binary ignores the risk that a Bolsonaro‑aligned victory could trigger a constitutional crisis by forcing an illegal pardon and undermining judicial independence."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022150246.3.ed5e8e98b21338b2@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "Progressive vs Moderate: Mehdi Debates Centrist, Contrarian Pundit Matthew Yglesias on Gaza, El-Sayed, and More",
-   "date": "2026-10-22T08:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/matt-yglesias-mehdi-debate",
-   "bullets": [
-    "Yglesia defends pro‑Israel Democrat Haley Stevens, arguing primary‑winning skill doesn’t predict general‑election success, despite her $50 million outside spending loss to Mike Rogers.",
-    "He concedes Democrats should prioritize winning before condemning the Biden administration’s policy of sending non‑criminal migrants to El Salvador’s detention facilities, saying “you got to win first.”",
-    "When pressed on Gaza, Yglesia claims no genocide occurred and calls Israel’s war “just,” then ambiguously questions whether he ever labeled Sudan a genocide."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022150005.3.9915c67c2c267b29@mg-d1.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "One of the most important decisions I've made during this campaign",
-   "date": "2026-10-22T08:00-07:00",
-   "url": "https://roycoopernc.substack.com/p/one-of-the-most-important-decisions",
-   "bullets": [
-    "Amy Cooper urges supporters to donate $8+ within 30 minutes to keep her governor campaign’s TV ads running, citing a $145 million outspend by Vivek Ramaswamy’s allies and a 12‑day budget gap."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022145655.3.7ba97ec96aea2648@mg-d0.substack.com",
-   "newsletter": "Will Sommer - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "MAGA Media Learns to Love Vile Vivek Ramaswamy Ad",
-   "date": "2026-10-22T07:56-07:00",
-   "url": null,
-   "bullets": [
-    "Ben Shapiro and other right‑wing figures like Glenn Beck and Donald Trump defend Vivek Ramaswamy’s $4 million Ohio governor ad that attacks Democrat Amy Acton by featuring Acton’s estranged mother, who was married to a man charged with raping Acton when she was 12.",
-    "The ad’s defenders argue the controversy is just “rough‑and‑tumble” politics, dismissing liberal criticism as “pearl‑clutching” and comparing it to past political attacks such as the Kennedy family’s criticism of Robert F. Kennedy Jr. and Rep. Paul Gosar’s opponents.",
-    "Critics within conservative media, including Erick Erickson, National Review, and some far‑right voices, point out factual inaccuracies—such as Shapiro’s claim that Acton’s stepfather was not charged by a grand jury—and highlight the mother’s own credibility issues, like a 2021 case involving kittens in a hot car."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022133657.3.cb77ba18b4f476a5@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Monsters Among Us",
-   "date": "2026-10-22T06:36-07:00",
-   "url": null,
-   "bullets": [
-    "A new NYT/Siena poll shows the biggest Democratic gain among voters 18‑29, who jumped 15 points to 70% support, while older voters shift only modestly.",
-    "William Kristol argues that Trumpism is collapsing into “morbid phenomena,” citing Ramaswamy’s $4 million smear ad against Ohio Gov. candidate Amy Acton and JD Vance’s praise of that attack as evidence of a decaying movement.",
-    "Andrew Egger highlights Trump’s contradictory claims about securing the release of detained American Stephen Hubbard, suggesting the president traded sanctions relief for the prisoner’s freedom and underscoring the risks of rewarding authoritarian regimes."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022111415.3.d384931352707b70@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "🍑 What’s Behind Trump’s Midterm Obsession With a Senator’s ‘Ass’?",
-   "date": "2026-10-22T04:14-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/whats-behind-trumps-midterm-obsession",
-   "bullets": [
-    "Trump has fixated on Ohio Senator Jon Husted’s physique, repeatedly praising his “muscle‑bound ass” at rallies in Ohio, Kentucky and North Carolina to gauge audience reaction during the 2026 midterms",
-    "Sources say the president uses the odd compliment to energize his base, noting it draws loud applause and laughs, even though the comment has no policy relevance",
-    "A new MAGA Inc. ad highlights that voters dislike Stephen Miller, while the newsletter also flags concerning developments in the Iran‑Israel conflict"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022102239.3.23f8f4ce715a64dd@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "It’s Time to Take Starlink Away from Elon Musk",
-   "date": "2026-10-22T03:22-07:00",
-   "url": "https://paulkrugman.substack.com/p/its-time-to-take-starlink-away-from",
-   "bullets": [
-    "U.S. officials, including Secretary of State Marco Rubio, say Elon Musk unilaterally cut Ukraine’s Starlink service, a move that aided Russia and jeopardized civilian lives as the war intensifies.",
-    "Krugman argues that private control of critical communications like Starlink undermines national security, citing WWII precedent where the government seized Montgomery Ward to protect the war effort.",
-    "He calls for the government to seize or regulate Starlink, asserting that no private individual should decide foreign‑policy or defense actions, especially given Musk’s alleged support for Putin and extremist groups."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022090223.3.db1c661d75a6ae5f@mg2.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "Less than two weeks to take back the Senate",
-   "date": "2026-10-22T02:02-07:00",
-   "url": "https://chrispappasnh.substack.com/p/why-gavin-newsom-came-to-exeter",
-   "bullets": [
-    "The campaign warns that Donald Trump, Elon Musk, and allied dark‑money groups have poured over $64 million into New Hampshire Senate candidate John Sununu, aiming to buy the seat.",
-    "Pappas urges grassroots supporters to donate $15 and mobilize in the final 12‑17 days, arguing Sununu’s ties to Trump and past votes on wars, bailouts, tax cuts, and anti‑choice judges threaten New Hampshire’s interests.",
-    "He frames the race as a fight for health care, climate action, public education, and protecting Social Security and Roe v. Wade against a ‘broken presidency’ and corporate special interests."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 75,
-  "total": 408
+  "shown": 73,
+  "total": 402
  },
  "brief_status": {
-  "tried": "2026-11-21T19:17-08:00",
-  "ok": true
+  "tried": "2026-11-22T12:47-08:00",
+  "ok": true,
+  "note": "plain-text list"
  }
 }
