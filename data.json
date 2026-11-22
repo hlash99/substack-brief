@@ -1,42 +1,17 @@
 {
- "updated": "2026-11-21T12:36-08:00",
+ "updated": "2026-11-21T19:17-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The International Court of Justice’s historic genocide ruling against Myanmar (Zeteo, First Draft | Zeteo) marks the first state‑level finding under the 1948 Convention and raises hopes for accountability in other conflicts like Gaza.",
-   "Democrats celebrated a sweeping 2026 midterm victory but now face internal fractures as a bloc of fresh‑face members voted against Hakeem Jeffries for speaker and are pushing anti‑aid and anti‑corporate reforms (Mehdi Unfiltered, Zeteo | U.S. Politics, The Bulwark).",
-   "Trump’s foreign‑policy gambits – a covert Venezuela trip, a summit with Putin and Xi, and a push to downplay Ukraine – are being exposed as transactional and destabilizing, while his massive political spending failed to sway key races (Bulwark Takes, Bill Kristol & Andrew Egger).",
-   "A cascade of high‑profile tech and infrastructure outages, from Microsoft to the FAA, is being linked to aging systems and potential AI‑driven exploits, underscoring systemic vulnerability in U.S. critical infrastructure (JVL - The Bulwark, Tim Miller).",
-   "The United States lost its measles‑elimination status after vaccination rates fell, sparking a resurgence of cases and costly public‑health impacts (Your Local Epidemiologist).",
-   "Energy markets are shifting as legacy pipelines like Rockies Express are repurposed for reverse‑flow gas exports, signaling a new era of U.S. fossil‑fuel infrastructure realignment (Doomberg)."
+   "Trump’s diplomatic overtures to Putin and Xi are deepening U.S. isolation and sparking internal GOP fractures, as seen in the Bulwark’s coverage of Vance, Rubio and the “Axis of Evil” narrative (The Bulwark, Zeteo).",
+   "The Bulwark and Zeteo highlight a surge in authoritarian‑style tactics: covert arms swaps in Venezuela, hidden diplomatic trips, and attempts to shield Trump from oversight through GAO appointments (The Bulwark, Zeteo).",
+   "Zeteo’s live conversation and articles stress an urgent need to rebuild U.S. democratic institutions and curb corruption after a series of scandals involving Trump‑linked appointments and stock‑trading loopholes (Zeteo).",
+   "The ongoing Israel‑Palestine violence escalates, with settler killings and new Gaza offensives underscoring the humanitarian crisis and its geopolitical ripple effects (Zeteo).",
+   "Tech and culture intersect with politics as GTA VI’s launch triggers economic ripples, while elite tech figures defend controversial Chinese‑linked executives, prompting scrutiny of export bans and corporate influence (The Substack Post, Paul Krugman)."
   ],
   "by": "groq",
   "ids": [
-   "20261117113132.3.f7afa66de138436a@mg-d0.substack.com",
-   "20261117120446.3.b882a87973275d4b@mg2.substack.com",
-   "20261117123140.3.af19587c82f4f92b@mg-d0.substack.com",
-   "20261117142758.3.e6756496ad789cab@mg2.substack.com",
-   "20261117151951.3.66ba46ae22faeff2@mg-d1.substack.com",
-   "20261117160351.3.c94b5357e8141369@mg2.substack.com",
-   "20261117180833.3.73cbb56b5e9a7c00@mg-d1.substack.com",
-   "20261117202218.3.1bfb47547c7ccd3b@mg-d0.substack.com",
-   "20261117210144.3.8f9535b1201ba26b@mg-d0.substack.com",
-   "20261117224333.3.2bc4a9fc4a7f320e@mg2.substack.com",
-   "20261118005545.3.3b84af858f19c514@mg-d1.substack.com",
-   "20261118012034.3.23d03596744e8387@mg-d0.substack.com",
-   "20261118033047.3.f37601ad84c1cefc@mg-d0.substack.com",
-   "20261118113110.3.c80ced0cd7d951e8@mg-d0.substack.com",
-   "20261118113120.3.7053d29006b11b15@mg2.substack.com",
-   "20261118121325.3.6fe7d8fb3d3fa6c3@mg2.substack.com",
-   "20261118143939.3.8563a1ba76a0eef4@mg-d1.substack.com",
-   "20261118162857.3.225f7ef2b7cdc154@mg-d0.substack.com",
-   "20261118164955.3.338586c9a9b6e6ba@mg-d1.substack.com",
-   "20261118174924.3.63e5362f0265c27a@mg-d0.substack.com",
-   "20261118220118.3.65b774a85c74e43c@mg-d1.substack.com",
-   "20261119001006.3.27f127dc693de2bc@mg-d1.substack.com",
-   "20261119013047.3.cce8fb5dd3a30e3e@mg2.substack.com",
-   "20261119020055.3.d3a016d3ecb18306@mg-d1.substack.com",
    "20261119100126.3.e8044a18c6026c76@mg-d0.substack.com",
    "20261119113116.3.0ee6faadb0510e8c@mg-d0.substack.com",
    "20261119121654.3.06381cf8e658ab1c@mg2.substack.com",
@@ -47,12 +22,48 @@
    "20261119202800.3.444bc377e864a3d4@mg-d1.substack.com",
    "20261119230126.3.a7dcdd0c06552777@mg-d0.substack.com",
    "20261120003152.3.09336d7af54958a2@mg-d0.substack.com",
-   "20261120013233.3.c1f432052a2771b9@mg-d0.substack.com"
+   "20261120013233.3.c1f432052a2771b9@mg-d0.substack.com",
+   "20261120115908.3.6f3db4de7ed4788a@mg2.substack.com",
+   "20261120121807.3.4972c985c3de707f@mg2.substack.com",
+   "20261120140122.3.fca2d26c56c9217a@mg2.substack.com",
+   "20261120143218.3.a98e7a374cc64e86@mg-d0.substack.com",
+   "20261120160254.3.b0a15fe3d91d7a01@mg-d1.substack.com",
+   "20261120163156.3.4812f3762387fff4@mg-d0.substack.com",
+   "20261120183600.3.2aa4b34a40b19352@mg-d0.substack.com",
+   "20261120191109.3.8ee81b44c5488b00@mg-d0.substack.com",
+   "20261120200824.3.79648ac4a3f64668@mg2.substack.com",
+   "20261120213805.3.e925441acd0defd3@mg-d0.substack.com",
+   "20261121000120.3.ca2d43237cd586b1@mg2.substack.com",
+   "20261121020149.3.08ba8023acb35317@mg-d0.substack.com",
+   "20261121023129.3.aa694192efe43794@mg-d0.substack.com",
+   "20261121113047.3.beed69372819150f@mg2.substack.com",
+   "20261121120727.3.78784f8629cadf26@mg-d1.substack.com",
+   "20261121140415.3.0beb4abb5ef224bd@mg-d1.substack.com",
+   "20261121150212.3.0fde6fda2cdf9f10@mg-d0.substack.com",
+   "20261121154009.3.f021e631f12a5833@mg2.substack.com",
+   "20261121170159.3.8f822f68d98a7891@mg-d0.substack.com",
+   "20261121180122.3.113a312370bf8904@mg-d1.substack.com",
+   "20261121193110.3.61d88cf436fbe2de@mg-d1.substack.com",
+   "20261122013043.3.6ff44ee1ed6ac105@mg-d1.substack.com"
   ],
-  "updated": "2026-11-19T20:04-08:00",
+  "updated": "2026-11-21T19:17-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261122013043.3.6ff44ee1ed6ac105@mg-d1.substack.com",
+   "newsletter": "Mona Charen - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump May Have Ruined Both Vance and Rubio’s Futures (w/ Will Saletan)",
+   "date": "2026-11-21T17:30-08:00",
+   "url": "https://www.thebulwark.com/p/trump-may-have-ruined-both-vance",
+   "bullets": [
+    "Charen and Saletan argue Trump’s overt friendliness with Putin and Xi has eroded U.S. global standing and is now turning against his own vice president JD Vance, jeopardizing Vance’s political future.",
+    "They criticize the GOP’s direction, labeling Trump’s Cabinet as \"staggering incompetence\" and noting Republican nominees who still deny the 2020 election results and the January 6 attack.",
+    "The newsletter promotes a December Bulwark Book Club live discussion with author Carole Hooven on her book about testosterone, scheduled for Dec. 17."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261121193110.3.61d88cf436fbe2de@mg-d1.substack.com",
    "newsletter": "Sarah Longwell - The Bulwark",
@@ -5576,56 +5587,14 @@
     "He frames the race as a fight for health care, climate action, public education, and protecting Social Security and Roe v. Wade against a ‘broken presidency’ and corporate special interests."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261022010102.3.164b6ab64f0e1d41@mg2.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Elon Musk Could Face a MOUNTAIN of Subpoenas in 2027",
-   "date": "2026-10-21T18:01-07:00",
-   "url": null,
-   "bullets": [
-    "Tim, Sarah and JVL predict Elon Musk could be hit with a “mountain” of subpoenas in 2027, alongside RFK Jr., Todd Blanche and Jared Kushner, as they name likely Democratic committee targets.",
-    "They argue Jon Ossoff may become the default Democratic presidential choice for 2028, discuss Sarah’s interview with Pete Buttigieg, and criticize Vivek Ramaswamy’s ad using Amy Acton’s estranged mother."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022000136.3.7c174135fec77287@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Amanpour’s CNN Exit Leaves Staffers Worried About Who’s Next",
-   "date": "2026-10-21T17:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/amanpours-cnn-exit-leaves-staffers",
-   "bullets": [
-    "Christiane Amanpour announced her departure from CNN after 43 years, citing team camaraderie and a commitment to truth, while noting she’ll continue her ‘Ex‑Files with Global’ podcast and new projects.",
-    "Her exit comes as David Ellison’s Skydance acquisition of CNN finalizes in June, prompting speculation among staff about further high‑profile departures under the new ownership.",
-    "The newsletter also teases upcoming coverage on potential CBS News discipline for Jan Crawford and reactions from editorial boards to the Ilhan Omar raid."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261021232233.3.238e62f3a2fcb9f7@mg-d0.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Your X Feed Is Not Going to Predict the Midterms",
-   "date": "2026-10-21T16:22-07:00",
-   "url": null,
-   "bullets": [
-    "Election analysts say late‑stage campaign data like early‑vote totals and mail‑ballot request spikes are noisy and not predictive of the November midterms.",
-    "Michael Bloomberg has just contributed a large donation to Democratic efforts, intensifying ad wars as the race tightens.",
-    "The newsletter urges readers to ignore fragmented social‑media maps and focus on vetted, nonpartisan metrics rather than viral speculation."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 75,
-  "total": 410
+  "total": 408
  },
  "brief_status": {
-  "tried": "2026-11-21T12:36-08:00",
-  "ok": false,
-  "note": "unusable reply"
+  "tried": "2026-11-21T19:17-08:00",
+  "ok": true
  }
 }
