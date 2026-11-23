@@ -1,21 +1,17 @@
 {
- "updated": "2026-11-22T12:47-08:00",
+ "updated": "2026-11-22T19:48-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Democrats’ sweeping 2026 midterm gains—seven progressive candidates flipping former GOP Senate seats—create the largest House majority in decades, forcing the party to plan a 2028 platform that restores Obamacare subsidies and expands Medicaid (Zeteo, Paul Krugman).",
-   "Trump’s post‑summit diplomacy with Putin and Xi has eroded U.S. global standing, jeopardizing allies like JD Vance and prompting GOP leaders to question the president’s foreign‑policy credibility (Mona Charen, Sarah Longwell).",
-   "A leaked Russian‑linked intelligence dossier implicates right‑wing commentator Elizabeth Lane in possible coordination with Russian operatives, raising concerns about foreign influence in U.S. media (The Bulwark).",
-   "Israeli settlers’ violent escalation—killing a 72‑year‑old Palestinian woman and building new illegal outposts—has intensified Gaza’s ground offensive, displacing thousands and killing at least seven Palestinians (Zeteo).",
-   "Trump’s attempt to place ally Eric Ueland at the GAO threatens to shield the administration from congressional oversight, while the Senate debates a stock‑trading ban that could bar the president from trading securities (The Bulwark).",
-   "The launch of the Bulwark podcast “Reporter and the Spy” signals a new era of investigative journalism focused on covert ops, Russia, Ukraine, and Middle East conflicts, reflecting growing public appetite for deep‑dive analysis (The Bulwark)."
+   "Trump’s summit with Putin and Xi is reshaping global security, prompting NATO alarms and a risky “impossible problem” for Russia after the Kerch Bridge strike (Bulwark Takes, Marc & Michael – Reporter and The Spy).",
+   "Democrats rode a historic midterm wave, flipping seats and energizing progressive challengers, yet internal battles over leadership and reforms like a stock‑trading ban reveal party fractures (Zeteo, Zeteo | U.S. Politics).",
+   "The Trump administration is weaponizing appointments and investigations, from a suspicious NIH post for Todd Blanche’s wife to attempts to place allies in oversight roles, deepening concerns about corruption (Bulwark Takes, Sarah Longwell - The Bulwark).",
+   "Healthcare reform emerges as a top priority for Democrats seeking a 2028 platform, with Krugman urging restoration of Obamacare subsidies and Medicaid fixes before the next election cycle (Paul Krugman).",
+   "International tensions rise as Iran tightens the Strait of Hormuz and the U.S. faces potential energy shocks, while covert arms deals in Venezuela shift regional power balances (Bulwark Takes, Jim Swift - The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20261119230126.3.a7dcdd0c06552777@mg-d0.substack.com",
-   "20261120003152.3.09336d7af54958a2@mg-d0.substack.com",
-   "20261120013233.3.c1f432052a2771b9@mg-d0.substack.com",
    "20261120115908.3.6f3db4de7ed4788a@mg2.substack.com",
    "20261120121807.3.4972c985c3de707f@mg2.substack.com",
    "20261120140122.3.fca2d26c56c9217a@mg2.substack.com",
@@ -42,12 +38,57 @@
    "20261122120139.3.c5961e65a315ccc1@mg2.substack.com",
    "20261122130354.3.d03bb77465e1d6fe@mg-d0.substack.com",
    "20261122160252.3.8e6ffa5f736124f2@mg-d0.substack.com",
-   "20261122200107.3.ccc656e0c32817ae@mg-d0.substack.com"
+   "20261122200107.3.ccc656e0c32817ae@mg-d0.substack.com",
+   "20261122220203.3.fb3f2214ee760249@mg-d0.substack.com",
+   "20261123004250.3.0566b594cb2ca010@mg-d0.substack.com",
+   "20261123024558.3.7fdd59afd440ba8b@mg-d1.substack.com"
   ],
-  "updated": "2026-11-22T12:47-08:00",
+  "updated": "2026-11-22T19:48-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261123024558.3.7fdd59afd440ba8b@mg-d1.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Republican Senator Tears Into Howard Lutnick",
+   "date": "2026-11-22T18:45-08:00",
+   "url": "https://www.thebulwark.com/p/republican-senator-tears-into-howard",
+   "bullets": [
+    "Republican senators are demanding Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent testify on the alleged Nvidia scandal, accusing them of mishandling the issue.",
+    "Egger and Saletan argue that the Trump administration is flip‑flopping on Nvidia, denying January 6 facts, and praising Vladimir Putin to protect the president despite his waning political support.",
+    "They claim the cabinet functions as a group of yes‑men, prioritizing loyalty to Trump over accountability or policy consistency."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261123004250.3.0566b594cb2ca010@mg-d0.substack.com",
+   "newsletter": "Marc & Michael - Reporter and The Spy",
+   "pub": "thebulwark",
+   "subject": "Ukraine’s Kerch Bridge Strike Leaves Putin With an Impossible Problem",
+   "date": "2026-11-22T16:42-08:00",
+   "url": "https://www.thebulwark.com/p/rats-episode-1-members",
+   "bullets": [
+    "Michael Weiss and Marc Polymeropoulos argue that Trump’s meeting with Putin in China signals a potential shift in European security, heightening risks for Ukraine’s defense posture.",
+    "They claim Ukraine’s recent successful strike on Crimea’s Kerch Bridge creates an “impossible problem” for Putin, undermining Russia’s logistical lifeline to its annexed territory.",
+    "The episode also warns of escalating US‑Israeli intelligence friction over Iran and notes a budding alliance between Senator Marco Rubio and former Trump aide Stephen Miller shaping future policy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261122220203.3.fb3f2214ee760249@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Putin Got Everything He Wanted From Trump (w/ Robert Kagan) | Bulwark on Sunday",
+   "date": "2026-11-22T14:02-08:00",
+   "url": "https://www.thebulwark.com/p/putin-got-everything-he-wanted-from",
+   "bullets": [
+    "Bill Kristol and Robert Kagan argue that Trump's summit with Xi and Putin left Putin emboldened, likely prompting a NATO test within months.",
+    "They warn Iran is tightening control of the Strait of Hormuz, heightening global energy risks.",
+    "The hosts claim an isolationist U.S. is ill‑prepared for a surge of international crises."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261122200107.3.ccc656e0c32817ae@mg-d0.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
@@ -5432,84 +5473,14 @@
     "When it was the author's turn to speak, they aimed to bridge the gap between biotech hype and the lived experiences of patients and underserved communities."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261023022104.3.5c9dc36ee10a8e88@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "The Number 1 Myth about Zionism, Debunked",
-   "date": "2026-10-22T19:21-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-number-1-myth-about-zionism-debunked",
-   "bullets": [
-    "The newsletter argues that Zionism’s core goal was establishing a Jewish state in a non‑Jewish land, not rescuing Jews, and it historically favored young, affluent pioneers over families, refugees, or the infirm.",
-    "It claims Zionist leaders viewed mass Jewish rescue as an existential threat, deliberately sabotaging rescue efforts before and during the Nazi era to preserve the narrative of Zionism as the sole salvation for Jews."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023013043.3.47a82195bb29d136@mg-d1.substack.com",
-   "newsletter": "Tim Miller - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Adam Kinzinger’s Military Sources Sound the Alarm",
-   "date": "2026-10-22T18:30-07:00",
-   "url": null,
-   "bullets": [
-    "Democrats on the House Oversight Committee are already planning hearings to probe Elon Musk’s unofficial foreign‑policy role in the Ukraine war, alongside a separate inquiry into former Pentagon chief Mark Hegseth’s alleged misconduct.",
-    "Crypto lobbyists are allocating $55 million to influence Ohio Senator Jon Husted, while Mike Rogers’s wife has secured unusually large government contracts, raising conflict‑of‑interest concerns.",
-    "Former Rep. Adam Kinzinger, appearing with Tim Miller, warns that Texas activist Talarico is gaining significant momentum, and he critiques Jared Kushner’s diplomatic overtures with a Putin‑friendly partner."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023000130.3.a4aaecdb7b9f160c@mg2.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "Something spooky is on the ballot (John Sununu)",
-   "date": "2026-10-22T17:01-07:00",
-   "url": "https://chrispappasnh.substack.com/p/something-spooky-is-on-the-ballot",
-   "bullets": [
-    "Donald Trump hand‑picked John Sununu for the New Hampshire Senate race, and Republicans and allies are pouring over $60 million—including funds from the No Going Back PAC, the Koch network, and Elon Musk—into his campaign.",
-    "Sununu’s record includes votes favoring Wall Street, Big Pharma, and Big Oil, after which his net worth reportedly rose by up to $35 million, prompting critics to label him a corporate sell‑out.",
-    "With 12 days left, Democrats warn that losing this seat would keep the Senate out of reach, while progressive groups are urging small donations to counter the dark‑money influx and keep New Hampshire blue."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022234853.3.a3008b0f77a8af46@mg-d1.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump Is Already Building His Excuse for Losing the Midterms",
-   "date": "2026-10-22T16:48-07:00",
-   "url": null,
-   "bullets": [
-    "Federal agents raided 72‑year‑old Omar Muñoz’s home in Commerce, California, handcuffing him and filming the raid as part of Trump’s “Operation Protect the Vote,” accusing him of voter fraud despite his denial.",
-    "HSI, an immigration‑enforcement unit, was used to conduct pre‑dawn raids on 28 green‑card holders in California’s 23‑million‑voter population and has reportedly been deployed nationwide to question residents about immigration status and voting history.",
-    "The article argues that these door‑step raids represent a new form of election interference, urging readers to stay informed and support efforts to counter such law‑enforcement overreach."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261022220111.3.7167760a513d480c@mg-d1.substack.com",
-   "newsletter": "Catherine Cortez Masto",
-   "pub": "cortezmasto",
-   "subject": "I’m proud to support Nevada Dems",
-   "date": "2026-10-22T15:01-07:00",
-   "url": "https://cortezmasto.substack.com/p/im-proud-to-support-nevada-dems",
-   "bullets": [
-    "Elizabeth Warren praised the 21st Century ROAD to Housing Act, the first major housing bill in over 30 years, saying it lowers costs, expands homeownership and curbs private‑equity hoarding, but urges Democratic victories this fall to fund and implement it fully",
-    "She joined Nevada Attorney General Aaron Ford at a reproductive‑rights rally, warning that Republican abortion bans are “cruel and deadly” and urging voters to elect Democrats and approve a state constitutional amendment protecting choice",
-    "Warren closed by urging supporters to donate to her, Nevada Democrats and Sen. Catherine Cortez Masto to help defeat Trump‑aligned agendas and advance affordable housing, healthcare and corporate accountability"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 73,
-  "total": 402
+  "shown": 74,
+  "total": 400
  },
  "brief_status": {
-  "tried": "2026-11-22T12:47-08:00",
-  "ok": true,
-  "note": "plain-text list"
+  "tried": "2026-11-22T19:48-08:00",
+  "ok": true
  }
 }
