@@ -1,28 +1,17 @@
 {
- "updated": "2026-11-22T19:48-08:00",
+ "updated": "2026-11-23T17:45-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s summit with Putin and Xi is reshaping global security, prompting NATO alarms and a risky “impossible problem” for Russia after the Kerch Bridge strike (Bulwark Takes, Marc & Michael – Reporter and The Spy).",
-   "Democrats rode a historic midterm wave, flipping seats and energizing progressive challengers, yet internal battles over leadership and reforms like a stock‑trading ban reveal party fractures (Zeteo, Zeteo | U.S. Politics).",
-   "The Trump administration is weaponizing appointments and investigations, from a suspicious NIH post for Todd Blanche’s wife to attempts to place allies in oversight roles, deepening concerns about corruption (Bulwark Takes, Sarah Longwell - The Bulwark).",
-   "Healthcare reform emerges as a top priority for Democrats seeking a 2028 platform, with Krugman urging restoration of Obamacare subsidies and Medicaid fixes before the next election cycle (Paul Krugman).",
-   "International tensions rise as Iran tightens the Strait of Hormuz and the U.S. faces potential energy shocks, while covert arms deals in Venezuela shift regional power balances (Bulwark Takes, Jim Swift - The Bulwark)."
+   "Trump’s direct meddling in corporate governance—pressuring Nvidia’s board to reinstate Jensen Huang despite national‑security warnings—dominates the political coverage this week (The Bulwark, Zeteo).",
+   "The 2026 midterm wave gave Democrats a historic popular‑vote margin and flipped several Senate seats, fueling talk of a second blue wave and shaping upcoming policy agendas (The Message Box, Zeteo).",
+   "AI‑related stock valuations are collapsing, with analysts warning that inflated market caps lack durable fundamentals and could trigger a broader tech correction (Paul Krugman).",
+   "U.S. foreign‑policy credibility is eroding after Trump’s summit with Xi and Putin, prompting concerns about NATO cohesion and heightened risks for Ukraine and the Middle East (The Bulwark, Zeteo).",
+   "A high‑profile MAGA influencer’s alleged ties to Russian intelligence and the controversial “Sneako” Taliban trip highlight ongoing foreign‑influence and extremist‑media risks (The Bulwark)."
   ],
   "by": "groq",
   "ids": [
-   "20261120115908.3.6f3db4de7ed4788a@mg2.substack.com",
-   "20261120121807.3.4972c985c3de707f@mg2.substack.com",
-   "20261120140122.3.fca2d26c56c9217a@mg2.substack.com",
-   "20261120143218.3.a98e7a374cc64e86@mg-d0.substack.com",
-   "20261120160254.3.b0a15fe3d91d7a01@mg-d1.substack.com",
-   "20261120163156.3.4812f3762387fff4@mg-d0.substack.com",
-   "20261120183600.3.2aa4b34a40b19352@mg-d0.substack.com",
-   "20261120191109.3.8ee81b44c5488b00@mg-d0.substack.com",
-   "20261120200824.3.79648ac4a3f64668@mg2.substack.com",
-   "20261120213805.3.e925441acd0defd3@mg-d0.substack.com",
-   "20261121000120.3.ca2d43237cd586b1@mg2.substack.com",
    "20261121020149.3.08ba8023acb35317@mg-d0.substack.com",
    "20261121023129.3.aa694192efe43794@mg-d0.substack.com",
    "20261121113047.3.beed69372819150f@mg2.substack.com",
@@ -41,12 +30,158 @@
    "20261122200107.3.ccc656e0c32817ae@mg-d0.substack.com",
    "20261122220203.3.fb3f2214ee760249@mg-d0.substack.com",
    "20261123004250.3.0566b594cb2ca010@mg-d0.substack.com",
-   "20261123024558.3.7fdd59afd440ba8b@mg-d1.substack.com"
+   "20261123024558.3.7fdd59afd440ba8b@mg-d1.substack.com",
+   "20261123113129.3.e53c5318c9b5b7c0@mg-d1.substack.com",
+   "20261123121027.3.2d1c4dc04640ec17@mg-d1.substack.com",
+   "20261123121855.3.df965403d0848b02@mg-d1.substack.com",
+   "20261123142457.3.1556d34c51a5ca33@mg-d0.substack.com",
+   "20261123150028.3.f098618b13bf13f7@mg-d0.substack.com",
+   "20261123160605.3.489edadc5220164b@mg-d1.substack.com",
+   "20261123172024.3.f0f421633c6e859a@mg-d0.substack.com",
+   "20261123204932.3.6177264a88c674b8@mg2.substack.com",
+   "20261123210038.3.4042fe24a12b671e@mg2.substack.com",
+   "20261124010043.3.1a4152bc080f37cf@mg2.substack.com"
   ],
-  "updated": "2026-11-22T19:48-08:00",
+  "updated": "2026-11-23T17:45-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261124010043.3.1a4152bc080f37cf@mg2.substack.com",
+   "newsletter": "Will Sommer - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Sneako Would Like You to Give the Taliban a Chance",
+   "date": "2026-11-23T17:00-08:00",
+   "url": "https://www.thebulwark.com/p/sneako-would-like-you-to-give-the-taliban-a-chance",
+   "bullets": [
+    "Nicolas Kenn De Balinthazy, known as Sneako, visited Afghanistan in late November 2026 to portray Taliban rule positively, interviewing senior Taliban and Haqqani network leader Anas Haqqani, risking material‑support for terrorism charges.",
+    "After returning, De Balinthazy was questioned for eight hours by U.S. federal agents in Abu Dhabi and New York, had his phone seized, and faced criticism from anti‑Muslim activist Laura Loomer who urged DHS to act against his Taliban ties.",
+    "The incident highlights growing scrutiny of right‑wing figures traveling to hostile regimes, echoing recent Florida AG James Uthmeier’s subpoenas of leftist activists for trips to Cuba and raising questions about First Amendment limits versus terrorism statutes."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261123210038.3.4042fe24a12b671e@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "When Nvidia’s Stock Price Trumps National Security, What Happens?",
+   "date": "2026-11-23T13:00-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/when-nvidias-stock-price-trumps-national",
+   "bullets": [
+    "President Donald Trump pressured Nvidia’s board to reinstate CEO Jensen Huang after his resignation over multiple affairs, including with a subordinate and a suspected Chinese spy, causing the stock to surge sharply.",
+    "Former Commerce Secretary Gina Raimondo warned that national security cannot be traded for stock gains, arguing that Trump’s intervention undermines accountability and heightens risk of Chinese cyber attacks.",
+    "The live Zeteo discussion highlighted the need for government oversight of tech giants and the potential erosion of America’s global standing if corporate interests outweigh security concerns."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261123204932.3.6177264a88c674b8@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Trump Admits He Personally Pressured Nvidia to Rehire Jensen Huang",
+   "date": "2026-11-23T12:49-08:00",
+   "url": "https://www.thebulwark.com/p/breaking-trump-admits-he-personally",
+   "bullets": [
+    "Trump personally pressured Nvidia to rehire CEO Jensen Huang amid allegations of Chinese intelligence involvement, illegal chip exports, and national security risks, according to JVL, Catherine Rampell, and Andrew Egger.",
+    "Silicon Valley rallied to defend Huang, highlighting how America’s largest corporations appear to operate at the president’s pleasure.",
+    "The piece argues that Trump’s intervention raises questions about corporate independence and national security oversight."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261123172024.3.f0f421633c6e859a@mg-d0.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump, Jensen Huang, and American Communism",
+   "date": "2026-11-23T09:20-08:00",
+   "url": "https://www.thebulwark.com/p/trump-jensen-huang-and-american-communism",
+   "bullets": [
+    "Nvidia fired CEO Jensen Huang for alleged collusion with a Chinese spy, but President Trump intervened, demanding his rehiring and personally calling the board to assure Huang was “absolutely fine.”",
+    "Trump’s direct involvement in corporate personnel decisions signals a shift toward state control of private industry, a practice the author equates with communism."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261123160605.3.489edadc5220164b@mg-d1.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "BREAKING: Trump ‘Made It A Priority’ to Get Nvidia’s Jensen Huang Reinstated",
+   "date": "2026-11-23T08:06-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trump-nvidia-jensen-huang-job-back",
+   "bullets": [
+    "Nvidia’s board unanimously reinstated CEO Jensen Huang on Monday after a private pressure campaign led by President Donald Trump, who personally made it a priority, citing no national security risk; the board received input from senior U.S. officials.",
+    "Huang resigned in mid‑November amid allegations of multiple affairs, including with Alice Huang, a former Megaspeed executive suspected of ties to Chinese intelligence; U.S. and Singaporean investigations are ongoing over potential export violations.",
+    "Nvidia’s stock surged roughly $40 on Monday, rebounding from a Friday decline that had sparked speculation the AI bubble might burst; Trump defended Huang’s reinstatement, dismissing NYT reports linking the affair to Chinese espionage."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261123150028.3.f098618b13bf13f7@mg-d0.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "🚨 Zeteo’s BIGGEST SALE EVER Is Live Now!",
+   "date": "2026-11-23T07:00-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/zeteos-biggest-sale-ever-is-live",
+   "bullets": [
+    "Zeteo announces a Black Friday sale offering 50% off new paid subscriptions, claiming it may be the last such discount.",
+    "The paid tier grants full daily reporting, newsletters, original shows, exclusive podcasts with host Mehdi, award-winning documentaries, and live Q&A sessions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261123142457.3.1556d34c51a5ca33@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Should We Feel Sorry for Old Man Trump?",
+   "date": "2026-11-23T06:24-08:00",
+   "url": "https://www.thebulwark.com/p/should-we-feel-sorry-for-old-man-trump-putin-xi-china-russia-nvidia-huang-grand-theft-auto-vi",
+   "bullets": [
+    "Nvidia’s board voted unanimously to reinstate Jensen Huang as CEO, citing input from senior U.S. officials that his return poses no national‑security risk despite Treasury Secretary Scott Bessent’s warnings about Huang’s alleged Chinese spy ties and export‑control violations.",
+    "President Trump’s recent Asia tour yielded no policy wins and was followed by a self‑congratulatory White House press conference where he bragged about a new Qatar‑supplied Air Force One and made incoherent claims about oil‑price conspiracies, vaccine timing, and a proposed tax on U.S. firms building overseas data centers.",
+    "In the newsletter’s “Around the Bulwark” section, Andrew Egger and Will Saletan discuss Republican calls for Howard Lutnick and Treasury Secretary Bessent to testify on the Nvidia scandal, and a new episode of “Reporter & the Spy” examines Ukraine’s Kerch Bridge strike and Trump‑Putin‑Xi dynamics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261123121855.3.df965403d0848b02@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Can Democrats Can Catch a Second Blue Wave?",
+   "date": "2026-11-23T04:18-08:00",
+   "url": "https://open.substack.com/pub/messagebox/p/can-democrats-can-catch-a-second",
+   "bullets": [
+    "Democrats won a 14-point popular‑vote margin in the 2026 midterms, the widest for any party since 1974, prompting talk of a generational shellacking.",
+    "Historically, wave elections recede—as in 1994, 2010, 2018—but Pfeiffer argues 2028 could mirror 2006‑08, delivering back‑to‑back Democratic waves in both chambers.",
+    "He suggests that if the momentum holds, Democrats might capture additional Senate and House seats in 2028, repeating the dual‑wave pattern of the mid‑2000s."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261123121027.3.2d1c4dc04640ec17@mg-d1.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Could Calling Medicare for All ‘TrumpCare’ Actually... Work?",
+   "date": "2026-11-23T04:10-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/could-calling-medicare-for-all-trumpcare",
+   "bullets": [
+    "Democratic senator‑elect Abdul El‑Sayed proposed a gold‑branded “TrumpCare” that would guarantee health care for every American, urging President Trump to partner with Democrats on comprehensive reform.”,"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261123113129.3.e53c5318c9b5b7c0@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Pop! Goes the Bubble",
+   "date": "2026-11-23T03:31-08:00",
+   "url": "https://paulkrugman.substack.com/p/pop-goes-the-bubble",
+   "bullets": [
+    "AI‑related stocks have plunged as the Buffett indicator—total US market value to GDP—dropped from levels well above the dot‑com peak, reflecting a likely valuation bubble.",
+    "Krugman argues that even optimistic scenarios—accelerated productivity growth or a shift of income from labor to capital—don’t justify the sky‑high prices, especially since leading AI firms lack durable monopolies and face cheap competition from open‑weight Chinese models.",
+    "If the Buffett indicator reverted to its 2019 level, the resulting $25 trillion wealth loss—about 80% of GDP—could have major economic repercussions."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261123024558.3.7fdd59afd440ba8b@mg-d1.substack.com",
    "newsletter": "Bulwark Takes",
@@ -5294,193 +5429,14 @@
     "Suriname’s GranMorgu project aims for 220,000 bpd by mid‑2028, while Brazil’s Petrobras reported hydrocarbons in the deep‑water Morpho‑1 well (9,500 ft) off Amapá, hinting at a new Equatorial Margin play amid a looming presidential runoff"
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261024010045.3.ffe55d824a5ba32f@mg-d1.substack.com",
-   "newsletter": "This Week in Democracy",
-   "pub": "zeteo",
-   "subject": "This Week in Democracy – Week 92: Trump Asks Court to Block Election Result if Democratic Candidate Wins",
-   "date": "2026-10-23T18:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-democracy-week-92-trump",
-   "bullets": [
-    "ProPublica revealed the Trump administration asked CISA to secretly acquire and hack a voting machine, a request that was rejected after internal concerns and staffing cuts;",
-    "The State Department issued only 26,000 immigrant visas in February, half the pre‑Trump average, after policies blocked visas for nearly half of the world’s countries;",
-    "Trump’s FCC chair Brendan Carr warned broadcasters against airing “fake polls,” prompting a rebuttal from Democratic commissioner Anna Gomez defending legitimate poll reporting."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261024000050.3.0726a870094a938d@mg2.substack.com",
-   "newsletter": "Vann Bentley (Chris’s husband)",
-   "pub": "chrispappasnh",
-   "subject": "A personal note from me",
-   "date": "2026-10-23T17:00-07:00",
-   "url": "https://chrispappasnh.substack.com/p/chris-wont-say-this-so-i-will",
-   "bullets": [
-    "Chris Sununu’s New Hampshire Senate race could flip control of the U.S. Senate, with Democrats needing a win to gain a majority while Republicans have spent over $60 million to defend it.",
-    "If elected, Sununu would become the first openly gay man in the U.S. Senate, breaking a 25‑year gap since Tammy Baldwin’s 2012 win and following Barney Frank’s 1987 disclosure."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023224606.3.6266022661e14d9c@mg-d0.substack.com",
-   "newsletter": "Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Worst Person in the World",
-   "date": "2026-10-23T15:46-07:00",
-   "url": null,
-   "bullets": [
-    "Elon Musk contributed an additional $76 million to the upcoming election, intensifying his political influence.",
-    "The hosts allege that a Vivek Ramaswamy campaign ad featured a woman linked to a pedophile‑rapist, and Ohio Trump voters reacted negatively to it.",
-    "They also criticize fake pollsters and claim Trump‑aligned grifters are being released by the Republican establishment."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023221932.3.1e4a3ad0ceb528fc@mg2.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "I need your help",
-   "date": "2026-10-23T15:19-07:00",
-   "url": "https://ossoff.substack.com/p/i-need-your-help",
-   "bullets": [
-    "Jon Ossoff urges supporters to donate immediately to fund a statewide voter outreach operation for his 2026 Senate reelection, citing the need to counter tens of millions spent by Republicans.",
-    "He claims the 2020‑21 outreach effort was the largest in Georgia, helped elect him and Rev. Warnock, and secured the Senate majority, and says a similar push is essential for a decisive win on Nov. 3."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023215341.3.5baf2b5bbc2f268e@mg-d1.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "‘Best Shot Of My Entire Life’ Of Flipping Texas Blue, Says Rep. Greg Casar",
-   "date": "2026-10-23T14:53-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/best-shot-of-my-entire-life-of-flipping",
-   "bullets": [
-    "Rep. Greg Casar called the 2026 Texas elections “the best shot of my entire life” to flip the state blue, warning that massive turnout must overcome historic spending by GOP donor Elon Musk",
-    "He linked big‑money politics and U.S. support for Israel to humanitarian harms, urging removal of large donors and tarnishing AIPAC to save lives in Gaza",
-    "Casar condemned ICE as a rogue force with a budget larger than the Marine Corps and highlighted his bipartisan bill with Sen. Bernie Sanders to ban superintelligent AI"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023193147.3.078724223281dfbd@mg2.substack.com",
-   "newsletter": "Sonny Bunch - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "The Must-Watch Awards-Season Films",
-   "date": "2026-10-23T12:31-07:00",
-   "url": null,
-   "bullets": [
-    "Fjord, the Cannes Palme d’Or winner, expands to more screens and is a strong foreign‑feature Oscar contender, while the surprise documentary You Can See Everything opened with $15 million on 855 screens and could snag a Best Picture nod.",
-    "Sony plans to drop its flagship 4K UHD player, signaling a near‑complete exit from the home‑video market and raising concerns for collectors about long‑term access to physical movies.",
-    "Netflix fired chief content officer Bela Bajaria and film head Dan Lin, installing former Disney/21st Century Fox exec Peter Rice to run programming as the streamer, which despite $3.66 billion quarterly profit, struggles with content quality and awards relevance."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023160833.3.091ff575a94736e4@mg-d1.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "40 Years Ago, Netanyahu Laid the Groundwork for America’s Disastrous ‘Global War on Terror’",
-   "date": "2026-10-23T09:08-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/40-years-ago-netanyahu-laid-the-groundwork",
-   "bullets": [
-    "In 1986 Reagan read a terrorism manual edited by then‑Israeli diplomat Benjamin Netanyahu, prompting him to seek ways to fund the anti‑communist Contras despite a congressional ban, a move that fed into the later Iran‑Contra scandal.",
-    "The U.S. ignored an International Court of Justice ruling that its Contra support violated international law, and subsequently built a permanent ‘war on terror’ framework that Netanyahu helped shape, influencing later U.S. actions against Iran.",
-    "Eight months into the U.S.–Israeli war on Iran, over 1,200 Iranians and 21 U.S. service members have died, global energy prices have spiked, and the conflict is hurting Trump’s approval and threatening Republican midterm prospects."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023143535.3.28ed2dbabf13f7a8@mg-d1.substack.com",
-   "newsletter": "The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Top GOP Operative Let Out-of-State Voters Vote From His PA Home",
-   "date": "2026-10-23T07:35-07:00",
-   "url": null,
-   "bullets": [
-    "Scott Presler, a top GOP grassroots organizer, bought a home in Beaver County, PA, and used it as a voting address for himself and at least three out‑of‑state GOP operatives, including a Florida consultant and an Oklahoma social media personality, during the 2024 election.",
-    "Presler’s use of his PA residence for other voters violates Pennsylvania’s residency requirement that voters live in the state and district for 30 days before Election Day, raising legal questions about the legitimacy of those ballots.",
-    "Presler’s PAC, Early Vote Action, defended the practice as “generous” and blamed PA for failing to clean up voter rolls, while critics point to evidence that the supposed “friends” did not meet the state’s residency criteria."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023141926.3.8c9eb37e63863e3a@mg2.substack.com",
-   "newsletter": "Brian Gitt",
-   "pub": "nuclearprosperity",
-   "subject": "No Fuel. No Power.",
-   "date": "2026-10-23T07:19-07:00",
-   "url": "https://nuclearprosperity.substack.com/p/no-fuel-no-power",
-   "bullets": [
-    "Advanced nuclear fuel must be diversified across fresh uranium, government‑stockpiled material, and recycled waste because each source balances cost, availability, and scalability, with fresh fuel cheapest now but expensive, government material low‑cost but limited and uncertain, and recycling offering up to 80% cost cuts but requiring long‑term infrastructure.",
-    "Supply chain constraints mean fresh fuel deliveries (e.g., Centrus HALEU for Oklo and X‑energy) won’t start until 2029, so near‑term (3‑4 yr) projects rely on fresh fuel, mid‑term (5‑7 yr) on government material, and long‑term (8+ yr) on recycled fuel to achieve competitive per‑kWh costs versus gas.",
-    "Traditional light‑water reactors remain part of the mix, but advancing reactors need higher enrichment (5‑20% HALEU, TRISO) to improve energy density and reduce waste, making a mixed fuel strategy essential for scaling nuclear power quickly."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023132849.3.e5bb0c9ad654cc6d@mg-d1.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Everything Hegseth Touches Breaks",
-   "date": "2026-10-23T06:28-07:00",
-   "url": null,
-   "bullets": [
-    "Vivek Ramaswamy’s ad using Amy Acton’s estranged mother to attack her character sparked outrage, but Trump praised it on Truth Social, urging opponents’ mothers to expose lies.",
-    "Secretary of Defense Pete Hegseth, aiming to emulate Eisenhower, ordered a 30‑inch WWII globe into his office; his staff mishandled it, dropping and damaging the artifact, prompting calls for impeachment."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023112450.3.009082d3b65ae8c2@mg-d1.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "🫠 ‘It’s Moron Time, Again’: Trump Secretly Plots to Blow Up the World Economy After the Midterms",
-   "date": "2026-10-23T04:24-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/its-moron-time-again-trump-secretly",
-   "bullets": [
-    "The New York Times reports U.S. and Israeli militaries have drafted plans to strike Iran’s energy, nuclear, missile and drone sites after the 2026 midterms, with civilian infrastructure on the target list.",
-    "Senior U.S. officials warn that reviving Trump’s Iran war will deepen the global economic fallout already triggered by oil price spikes and the Strait of Hormuz closure, and likely increase casualties.",
-    "The Guardian cites Iran’s supreme security council secretary warning that a renewed U.S.-Israeli attack would provoke Iranian strikes on oil facilities, undersea cables, data centers and AI sites across up to seven Gulf nations."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023103120.3.85b234079db708e9@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Starlink-Ukraine Scandal, Phase 2",
-   "date": "2026-10-23T03:31-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-starlink-ukraine-scandal-phase",
-   "bullets": [
-    "Elon Musk abruptly throttled Starshield bandwidth, crippling Ukraine’s defense, and both the White House and Musk blamed each other, exposing the danger of private control over critical national‑security tech.",
-    "Former President Trump reportedly called Musk to lift the speed caps, using the private firm as a shield for his own agenda, which Krugman argues shows why such decisions must be made by elected officials, not billionaires.",
-    "Krugman calls for Starlink’s operations to be nationalized or placed under direct government oversight, insisting public outrage and congressional scrutiny are essential to prevent plutocratic interference in U.S. foreign policy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261023100337.3.44d07d6a6f9ee6f3@mg-d0.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Our story, told in 20 minutes",
-   "date": "2026-10-23T03:03-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/our-story-told-in-20-minutes",
-   "bullets": [
-    "The author attended a STAT News biotech summit where private-sector innovators discussed health, but noted that on‑stage talks often ignore real‑world patient needs, access barriers, and community concerns.",
-    "Highlights included a pancreatic cancer trial survivor’s story, a Mennonite/Amish researcher’s practical approach to vaccine hesitancy, and candid remarks from three former FDA commissioners.",
-    "When it was the author's turn to speak, they aimed to bridge the gap between biotech hype and the lived experiences of patients and underserved communities."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 74,
-  "total": 400
+  "shown": 76,
+  "total": 397
  },
  "brief_status": {
-  "tried": "2026-11-22T19:48-08:00",
+  "tried": "2026-11-23T17:45-08:00",
   "ok": true
  }
 }
