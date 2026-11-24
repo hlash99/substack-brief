@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:45-08:00",
+ "updated": "2026-11-24T15:32-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -46,6 +46,154 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261124210144.3.83ca88d72ace937d@mg2.substack.com",
+   "newsletter": "Zeteo | U.S. Politics",
+   "pub": "zeteo",
+   "subject": "Democrats Can Do Better Than Chuck Schumer",
+   "date": "2026-11-24T13:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/democrats-can-do-better-than-chuck-schumer",
+   "bullets": [
+    "James Zogby claims Chuck Schumer exaggerated his role in the 1988 Democratic convention, saying Schumer only provoked the pro‑Palestinian plank and raised money, not helped win the Senate majority in 2026.",
+    "Zogby argues Schumer’s stances on affordability, Middle East policy and big‑money influence were wrong, and that Donald Trump’s policies, not Schumer, drove Democrats’ 2026 Senate gains.",
+    "Zogby urges Democrats to elect a Senate majority leader better than Schumer, citing Schumer’s self‑promotion and fundraising from donors whose interests conflict with the agenda that won the 2026 elections."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261124210044.3.48802f50866f57fa@mg-d0.substack.com",
+   "newsletter": "Joe Perticone - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Republicans Have Tried Nothing and They’re All Out of Ideas",
+   "date": "2026-11-24T13:00-08:00",
+   "url": "https://www.thebulwark.com/p/republicans-have-tried-nothing-and",
+   "bullets": [
+    "Traditionally, political parties like to win. Winning sometimes requires thinking hard about losing—how to avoid it, and if it happens anyway, how to learn from what went wrong. For instance, after failing to win either chamber of Congress …",
+    "The GOP is not a normal political party. It has not been for a long time. One illustration of the party’s abnormal dynamic is that Republicans did not reflect on their loss in 2020; they instead made it a matter of partisan orthodoxy to ins…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261124174935.3.f82a6cd16c78f54b@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Stephen Miller 2028?",
+   "date": "2026-11-24T09:49-08:00",
+   "url": "https://www.thebulwark.com/p/stephen-miller-2028",
+   "bullets": [
+    "Donald Trump’s press conference revealed his strategy to block middle powers from acquiring nuclear weapons, aligning with Putin and Xi’s global divide plan.",
+    "Trump’s observation of JD Vance and Marco Rubio led him to identify Stephen Miller as a fallback presidential candidate, labeling Miller as a 2028 “Plan C.”",
+    "The author dismisses Miller’s candidacy as a “Sushi Glory Hole,” implying it is a futile or absurd political move."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261124160259.3.5a9e0623fd3e003a@mg-d0.substack.com",
+   "newsletter": "We're Not Kidding | Zeteo",
+   "pub": "zeteo",
+   "subject": "Meet the Pulitzer Prize Winner Who Stood Up for Gaza - and Exposed Jeff Bezos’s Insane Wealth",
+   "date": "2026-11-24T08:02-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/mona-chalabi-pulitzer-ten-lives",
+   "bullets": [
+    "Mona Chalabi’s new book, Ten Lives, follows 10 Americans across income brackets to show how wealth, class, and inequality shape life, arguing the 99% are not a unified group.",
+    "Chalabi’s Pulitzer‑winning data journalism visualizes Jeff Bezos’ wealth, revealing the extreme concentration of wealth among billionaires and prompting debate on class in politics."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261124154826.3.b376c9036043762e@mg2.substack.com",
+   "newsletter": "Sarah Longwell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "JD Vance Will Hate These Focus Groups",
+   "date": "2026-11-24T07:48-08:00",
+   "url": "https://www.thebulwark.com/p/jd-vance-will-hate-these-focus-groups",
+   "bullets": [
+    "Vice President JD Vance is reportedly considering not running for president in 2028, reflecting his awareness that many voters oppose his candidacy.",
+    "Vance’s prospects are weakened by his role as a background figure, lack of independent leadership credibility, and the challenge of proving his involvement in Iran war planning.",
+    "Focus group data suggest voters see Vance’s biggest flaw as his inability to present himself as a decisive, independent leader, prompting him to possibly skip the 2028 race."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261124141938.3.bf2be8e7f3dc3a3f@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "The Seeds of Impeachment Are Planted in the Fall",
+   "date": "2026-11-24T06:19-08:00",
+   "url": "https://www.thebulwark.com/p/the-seeds-of-impeachment-are-planted-fall-trump-nvidia-huang-putin-xi-friend",
+   "bullets": [
+    "Nvidia’s board unanimously accepted CEO Jensen Huang’s resignation, then reversed course after Donald Trump’s intervention, reinstating him and showcasing Trump’s influence over corporate governance.",
+    "Trump’s post‑election actions—appointing Stephen Miller as chief of staff, directing DOJ to block investigations, and using a doctored image of Huang after the 2024 Butler assassination attempt—illustrate his disregard for rule of law and national security."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261124120735.3.e54a014cbb61311a@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "Jensen Huang and the AI Industry Now Own Trump – and Us Too",
+   "date": "2026-11-24T04:07-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/jensen-huang-and-the-ai-industry",
+   "bullets": [
+    "Donald Trump personally intervened to have Nvidia CEO Jensen Huang reinstated despite allegations of an affair with a suspected Chinese spy, bragging on CNBC that his help was crucial and securing assurances from the administration that Huang posed no national‑security risk.",
+    "Trump, who holds up to $57.7 million in Nvidia stock and may have earned $15 million from the share surge after Huang’s return, links the health of Nvidia and the broader AI sector—about 50% of the S&P 500—to the U.S. economy and his political prospects.",
+    "The newsletter also notes stalled Iran war mediation by Qatar’s prime minister, Republican openness to funding cuts as a shutdown looms, and Democratic debates over war‑ending restrictions."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261124113144.3.20cea4ac5b3345f7@mg-d1.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Treason, Corruption and Cowardice",
+   "date": "2026-11-24T03:31-08:00",
+   "url": "https://paulkrugman.substack.com/p/treason-corruption-and-cowardice",
+   "bullets": [
+    "Krugman alleges Nvidia, under CEO Jensen Huang, knowingly sold US‑prohibited chips to China via Singapore, altering reporting to hide the buyers and profiting from the trade.",
+    "He claims the Trump administration, including Trump himself, was aware and tacitly approved the sales, with figures like Marco Rubio, Scott Bessent, and Howard Lutnick either warning or benefiting financially.",
+    "Krugman warns that the Nvidia board’s silence and Silicon Valley’s elite solidarity signal a broader culture of impunity, urging Democrats to investigate these alleged national‑security violations rather than focus only on domestic issues."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261124100205.3.5f32bbf7dee45b54@mg-d1.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Everything is Awesome",
+   "date": "2026-11-24T02:02-08:00",
+   "url": "https://open.substack.com/pub/doomberg/p/everything-is-awesome",
+   "bullets": [
+    "Houthi forces have escalated attacks on Saudi symbols, striking Aramco’s Dhahran headquarters on Oct 14, Aramco’s Riyadh tower on Nov 8, and a Public Investment Fund tower on Nov 19, exposing MBS’s waning military grip.”,"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261124043043.3.5c4e8f1de0f76e23@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Andrew Weissmann Explains Why Trump Can’t Pardon His Way Out of Everything",
+   "date": "2026-11-23T20:30-08:00",
+   "url": "https://www.thebulwark.com/p/andrew-weissmann-explains-why-trump",
+   "bullets": [
+    "Andrew Weissmann tells Sarah Longwell that Democrats can use civil contempt to enforce congressional subpoenas and hold Trump officials accountable despite the president’s pardon power and a compromised Justice Department.",
+    "He warns that the legal tools to investigate Trump’s corruption already exist, but their effectiveness depends on congressional willingness to employ them.",
+    "Weissmann also flags concerns about Elise Stefanik’s home sale, the Nvidia scandal involving Trump’s influence on reinstating its CEO, and the national‑security risks of advanced chips reaching China."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261124024555.3.da2d09650fc9c342@mg-d1.substack.com",
+   "newsletter": "George Conway - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Psychologist Sees Alarming Signs of Trump’s Decline (w/ John Gartner)",
+   "date": "2026-11-23T18:45-08:00",
+   "url": "https://www.thebulwark.com/p/psychologist-sees-alarming-signs",
+   "bullets": [
+    "Clinical psychologist John Gartner argues Trump exhibits traits meeting criteria for narcissistic and antisocial personality disorders, warning that a wounded narcissist can become more dangerous as his power wanes.",
+    "Conway and Gartner warn that Trump's psychological profile poses heightened risks given his control over nuclear weapons, suggesting his chaotic behavior could have grave national security implications."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261124010043.3.1a4152bc080f37cf@mg2.substack.com",
    "newsletter": "Will Sommer - The Bulwark",
@@ -5267,176 +5415,15 @@
     "He warns that Rep. Mike Rogers’ support for the Iran war could damage his Michigan Senate bid as voters confront rising gas prices and frustration with Trump’s foreign policy."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261024230108.3.da3355e218bdae78@mg2.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "Can I count on you?",
-   "date": "2026-10-24T16:01-07:00",
-   "url": "https://chrispappasnh.substack.com/p/almost-there",
-   "bullets": [
-    "Republican candidate John Sununu, hand‑picked by Donald Trump, has over $66 million backing to win New Hampshire’s open Senate seat and secure a GOP Senate majority.",
-    "Chris Pappas urges supporters to donate $10 in the final ten days of the race, arguing grassroots door‑knocking and calls can offset the Republicans’ cash advantage and flip the Senate."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261024213041.3.3edb3f4258ec5403@mg-d1.substack.com",
-   "newsletter": "Sarah Longwell—The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s $10 Billion BBC Lawsuit Just Backfired",
-   "date": "2026-10-24T14:30-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s $10 billion defamation lawsuit against the BBC has stalled after a court dismissed key claims, weakening his legal offensive and exposing strategic missteps.",
-    "The Justice Department has opened a criminal probe into former Trump aide Corey Lewandowski, signaling a potentially serious corruption investigation tied to the former president’s inner circle.",
-    "Longwell and Weissmann also discuss Trump’s failed attempt to overturn 20,000 California votes and the latest Russian election‑interference efforts targeting U.S. elections."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261024190300.3.b34cc422f8bdb918@mg-d1.substack.com",
-   "newsletter": "Adrian Carrasquillo",
-   "pub": "thebulwark",
-   "subject": "ICE’s Cruelty Is Becoming America’s M.O.",
-   "date": "2026-10-24T12:03-07:00",
-   "url": null,
-   "bullets": [
-    "ICE agents violently detained U.S. citizen Ricardo Gonzalez in Long Beach, tasing him twice, breaking his arm, and refusing immediate medical aid, prompting a mayoral investigation.",
-    "ICE’s aggressive tactics have also harmed undocumented fathers like Sebastian, whose car was rammed and children seized, and targeted Rep. Ilhan Omar’s home in a denaturalization‑linked raid.",
-    "The newsletter argues ICE’s brutality reflects a broader Trump‑era shift toward ‘alien citizenship,’ with declining naturalizations and heightened fear among Latino communities."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261024170235.3.10a5fa7f8e3e6bbb@mg2.substack.com",
-   "newsletter": "This Week in Palestine | Zeteo",
-   "pub": "zeteo",
-   "subject": "This Week in Palestine: Collective Punishment on West Bank, and Settlers Destroy Shireen Abu Akleh Memorial",
-   "date": "2026-10-24T10:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-week-in-palestine-israel-inflicts",
-   "bullets": [
-    "Israeli forces imposed a full lockdown on the West Bank after two soldiers were killed near a Hebron checkpoint, raiding villages, forcibly displacing families, and demolishing homes of unrelated Palestinians.",
-    "In Gaza, Israel has killed over 350 children since the 2023 ceasefire, including 7‑year‑old Misk Hazem al‑Dalou and 10‑year‑old Abdul Rahman Khalil Awad, with daily child casualties reported throughout the week."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261024163048.3.27c0a583c08f9c5f@mg-d1.substack.com",
-   "newsletter": "Jim Swift - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Putin’s Pal, Pete’s Pep Talk, and Vivek’s Meltdown",
-   "date": "2026-10-24T09:30-07:00",
-   "url": null,
-   "bullets": [
-    "Cathy Young critiques Trump‑aligned pro‑Ukraine defenders, Mona Charen argues the right misreads France, and Pete Buttigieg visits Charlotte while Jonathan Cohn interviews Abdul El‑Sayed on political issues.",
-    "Ohio’s political relevance is highlighted through a Morning Shots piece on Vivek Ramaswamy’s attack on Amy Acton, Trump’s defense, and Republican backlash, with a transcript available.",
-    "A book club will discuss The Age of Acrimony, and a Netflix docuseries on James Garfield’s assassination is recommended for context."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261024145738.3.644969ff1d1e0ef1@mg2.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Cruelty to Abuse Victims Extends Far Beyond Amy Acton",
-   "date": "2026-10-24T07:57-07:00",
-   "url": null,
-   "bullets": [
-    "Vivek Ramaswamy’s Ohio campaign released a disallowed ad attacking Amy Acton’s mother, a 12‑year‑old rape survivor, accusing her of lying about her past and supporting a “disaster” candidate; Trump publicly endorsed the ad, urging the mother to expose Acton’s supposed dishonesty.",
-    "Trump’s rhetoric of protecting women and preventing child abuse contrasts with his history of supporting abusers—he was close to Jeffrey Epstein, dismisses child rapists as “proponents of gender ideology,” and has repeatedly silenced survivors for political gain.",
-    "The ad and Trump’s reaction illustrate a broader pattern: the administration’s policies have harmed thousands of sexual‑abuse and domestic‑violence victims, often without electoral benefit, highlighting a stark hypocrisy in the Trumpist agenda."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261024140309.3.3f095ea5b9ccc2a1@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Is It Time to Change the Constitution? Historian Weighs In",
-   "date": "2026-10-24T07:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/is-it-time-to-change-the-constitution",
-   "bullets": [
-    "Harvard historian Jill Lepore argues the Constitution is “fairly good shape,” but warns that a disengaged civil society and belief that institutions are immutable threaten democracy",
-    "She says the Constitution’s amendment process is a “philosophy of amendment” that can adapt if masses mobilize through voting and civic engagement",
-    "The live Zeteo conversation outlines how midterm elections could spark a “shakeup” and potentially open the “constitutional door” for new amendments"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261024134435.3.1cad69d35c5e0d7d@mg2.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Why Elon Musk’s Money Could Backfire on Republicans",
-   "date": "2026-10-24T06:44-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/why-elon-musks-money-could-backfire",
-   "bullets": [
-    "Elon Musk is pouring an unprecedented, “wholly obscene” amount of personal money into Republican midterm races, positioning himself as a high‑profile Trump champion.",
-    "Pfeiffer argues Musk’s motivation is attention‑seeking, but warns that this late‑stage, massive financial injection could ultimately backfire on the GOP’s electoral prospects."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261024130205.3.49582bc767a6775c@mg-d1.substack.com",
-   "newsletter": "The Substack Post",
-   "pub": "post",
-   "subject": "“You just need to pretend to be an important person”",
-   "date": "2026-10-24T06:02-07:00",
-   "url": "https://post.substack.com/p/you-just-need-to-pretend-to-be-an",
-   "bullets": [
-    "Kit Williams buried an 18‑carat gold hare worth £5,000 in 1979, sparking a worldwide treasure hunt that drew ~2 million seekers and 30,000 letters, with the hare found after 2½ years.",
-    "Maura Brannigan recounts 20 years of breast cancer surveillance—15 exams, 12 ultrasounds, 3 mammograms, 2 biopsies, 2 titanium clips—highlighting the relentless, routine nature of her medical monitoring.",
-    "Gabriella Karefa‑Johnson convenes a fashion roundtable to critique recent runway shows and assess the industry's current state."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261024103035.3.bc5c847bfdb72e87@mg2.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Lisa Graves at the Brattleboro Literary Festival",
-   "date": "2026-10-24T03:30-07:00",
-   "url": "https://paulkrugman.substack.com/p/lisa-graves-at-the-brattleboro-literary",
-   "bullets": [
-    "Krugman recounts an April conversation with legal scholar Lisa Graves, diagnosing the Supreme Court's crisis as a product of politicized appointments and erosion of institutional norms.",
-    "Graves appears at the Brattleboro Literary Festival, where she will elaborate on how partisan battles and procedural changes have undermined the Court’s legitimacy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261024100113.3.26dc2fe465e8cb00@mg-d0.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Focus Group Shows Why Susan Collins is in Trouble (with Alex Seitz-Wald)",
-   "date": "2026-10-24T03:01-07:00",
-   "url": null,
-   "bullets": [
-    "Former Collins supporters in Maine are increasingly willing to vote her out, citing a loss of her independent reputation despite lingering personal goodwill.",
-    "Midcoast Villager deputy editor Alex Seitz‑Wald says voters find Republican challenger Troy Jackson uninspiring and see local issues like fisheries and broadband as decisive factors.",
-    "The episode of The Focus Group discusses these voter sentiments and how they could shape Collins’ bid for a sixth term."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261024090202.3.475311b33df96940@mg2.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Margin Call",
-   "date": "2026-10-24T02:02-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/margin-call",
-   "bullets": [
-    "Suriname’s GranMorgu project aims for 220,000 bpd by mid‑2028, while Brazil’s Petrobras reported hydrocarbons in the deep‑water Morpho‑1 well (9,500 ft) off Amapá, hinting at a new Equatorial Margin play amid a looming presidential runoff"
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
   "shown": 76,
-  "total": 397
+  "total": 396
  },
  "brief_status": {
-  "tried": "2026-11-23T17:45-08:00",
-  "ok": true
+  "tried": "2026-11-24T15:32-08:00",
+  "ok": false,
+  "note": "provider error"
  }
 }
