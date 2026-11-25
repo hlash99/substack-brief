@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:32-08:00",
+ "updated": "2026-11-25T15:10-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -47,6 +47,208 @@
  },
  "items": [
   {
+   "id": "20261125221516.3.32c64c716740271a@mg2.substack.com",
+   "newsletter": "Lauren Egan - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "No One Likes the DNC’s New Debate Rules",
+   "date": "2026-11-25T14:15-08:00",
+   "url": "https://www.thebulwark.com/p/no-one-likes-dnc-new-debate-rules-democrats-2028",
+   "bullets": [
+    "The DNC’s new 2028 primary debate rules require candidates to sign a pledge banning super‑PAC and dark‑money support, with enforcement left to rival campaigns and a DNC‑maintained tracker, prompting backlash over fairness and practicality.",
+    "Party strategists warn the pledge favors self‑funded candidates, disadvantages governors lacking federal war‑chests, and could force the eventual nominee into hypocrisy when they later accept outside money in the general election.",
+    "Critics also question the DNC’s authority to impose such litmus tests and debate the relevance of primary debates in today’s media landscape, noting concerns about candidates’ ability to counter attacks from groups like AIPAC without super‑PAC backing."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261125200134.3.d00fb900bef2db80@mg2.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Democrats Want Independent Media’s Audience. They Just Don’t Want Its Independence",
+   "date": "2026-11-25T12:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/democrats-want-independent-medias",
+   "bullets": [
+    "After Vice President Kamala Harris’s 2024 loss was partly blamed on “losing the internet,” Democrats spent two years placing candidates on independent podcasts, livestreams and new‑media shows to capture those audiences.",
+    "In the 2026 midterms the party secured its largest House majority since 1992, and three weeks later the DNC released 2028 primary debate rules that include a threat to bar candidates who don’t meet its new criteria.",
+    "The new rules effectively tie debate participation to compliance with Democratic‑controlled platforms, signaling the party’s desire for audience reach without preserving independent media’s autonomy."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261125193044.3.21cfba9189e00104@mg-d1.substack.com",
+   "newsletter": "Adrian Carrasquillo",
+   "pub": "thebulwark",
+   "subject": "A Cruel Thanksgiving for the Kids Locked Up in Dilley",
+   "date": "2026-11-25T11:30-08:00",
+   "url": "https://www.thebulwark.com/p/a-cruel-thanksgiving-for-the-kids-in-dilley-texas-ice-dhs-detention",
+   "bullets": [
+    "LAST THANKSGIVING THE KIDS at the Dilley detention center experienced a brief moment of excitement. Of hope, even. As they were ushered into a large room, they saw a table piled high with turkey, sandwiches, pies, and pastries. A holiday fe…",
+    "But the excitement and hope were quickly snuffed out. “Then the staff covered each tray of food and told the children that the food was for the employees only, and children were left in tears,” said Elora Mukherjee, director of the Immigran…"
+   ],
+   "summary_by": "excerpt"
+  },
+  {
+   "id": "20261125163114.3.b58f0a2b3244669e@mg-d1.substack.com",
+   "newsletter": "JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Mashed Potatoes and Megatons",
+   "date": "2026-11-25T08:31-08:00",
+   "url": "https://www.thebulwark.com/p/thanksgiving-and-nuclear-war",
+   "bullets": [
+    "Donald Trump announced a joint effort with Putin and Xi to stop liberal democracies from developing independent nuclear deterrents, signaling a post‑liberal order aimed at dominating former allies",
+    "Ukrainian sea drones sank the Russian corvette Merkury in the Mediterranean off Libya, demonstrating that drones can strike warships far from a nation’s own waters and threatening the survivability of blue‑water navies"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261125160408.3.1d3990abb9fc4b21@mg-d1.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "Elon Musk Has ‘Blood on His Hands’: Author Sounds the Alarm on DOGE’s Destruction",
+   "date": "2026-11-25T08:04-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/elon-musk-has-blood-on-his-hands",
+   "bullets": [
+    "Donald Trump’s Jan 20 2025 executive order created the Department of Government Efficiency (DOGE), later run by Elon Musk and young aides, sparking chaos and alleged death sentences for millions reliant on U.S. aid",
+    "Michael Lewis estimates 14 million deaths could result from USAID cuts under DOGE and urges the incoming Democratic Congress to investigate, even tracking deaths alongside money",
+    "A half‑hour interview with Lewis detailing these claims is available to paid subscribers, with a four‑minute preview for free readers"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261125154655.3.c4bf3521f65050f8@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "The Big Splat",
+   "date": "2026-11-25T07:46-08:00",
+   "url": "https://paulkrugman.substack.com/p/the-big-splat",
+   "bullets": [
+    "Donald Trump and tech elite reinstated Jensen Huang as Nvidia CEO on Impunity Day, claiming his leadership is vital for the U.S. economy and stock market, while ignoring national security concerns.",
+    "The move was framed as a defense of U.S. capitalism and elite impunity, suggesting that holding billionaires accountable would collapse the technology sector.",
+    "Despite the rally, AI and tech stocks have largely returned to pre‑Impunity Day levels, indicating the bubble’s deflation has resumed."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261125145608.3.d17f131508d0834b@mg2.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Kill the Filibuster in January",
+   "date": "2026-11-25T06:56-08:00",
+   "url": "https://open.substack.com/pub/messagebox/p/kill-the-filibuster-in-january",
+   "bullets": [
+    "Democrats should abolish the filibuster in January when they control the Senate, arguing that the filibuster kills good bills and erodes public trust, especially among swing voters."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261125141546.3.14ede786f6c0f360@mg-d0.substack.com",
+   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "An Out-of-Control President Tries a Controlled Detonation",
+   "date": "2026-11-25T06:15-08:00",
+   "url": "https://www.thebulwark.com/p/an-out-of-control-president-tries-controlled-detonation-army-ammunition-plant-iowa-sand-explosion-thanksgiving-lead-azide",
+   "bullets": [
+    "The U.S. Army will detonate over 9,000 lb of lead azide at the Iowa Army Ammunition Plant, risking a toxic lead dust plume that could drift miles, prompting evacuations and indoor warnings for nearby residents.",
+    "Donald Trump blamed the Obama administration for improper storage of the explosives, claimed he had ordered the military to halt the detonation until the Eighth Circuit approved, and threatened to hold Iowa’s incoming Democratic governor responsible if the controlled detonation proceeded."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261125120138.3.4a4917a58ec9def0@mg-d0.substack.com",
+   "newsletter": "First Draft | Zeteo",
+   "pub": "zeteo",
+   "subject": "🤑 Trump’s Advisers Want a Scapegoat for the Nvidia Scandal. He Keeps Ruining Their Plans",
+   "date": "2026-11-25T04:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/trumps-advisers-want-a-scapegoat",
+   "bullets": [
+    "Trump’s advisers, including science‑tech adviser David Sacks, are framing the Nvidia AI‑chip scandal as a new Russiagate, insisting it is a deep‑state hoax while the president himself admits to easing U.S. export rules for Nvidia to China and publicly taking credit for rehiring Nvidia CEO Jensen Huang, who was linked to a suspected Chinese spy, thereby deepening the scandal.",
+    "Trump’s inner circle, notably Commerce Secretary Howard Lutnick and lawyer‑turned‑Attorney General Todd Blanche, are frustrated that the president refuses to blame Lutnick or step back, instead using the Nvidia controversy to provide Democrats with investigative ammunition while maintaining a narrative that the administration bears collective responsibility.",
+    "The newsletter also notes the Trump administration’s consideration of an illegal assassination of hard‑line Iranian leaders as a war‑ending strategy, and Iran’s demand for seven conditions—including lifting sanctions and ending the U.S. naval blockade—before negotiating further."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261125113122.3.77daf1d022ddb233@mg-d0.substack.com",
+   "newsletter": "Paul Krugman",
+   "pub": "paulkrugman",
+   "subject": "Taking a Few Days Off",
+   "date": "2026-11-25T03:31-08:00",
+   "url": "https://paulkrugman.substack.com/p/taking-a-few-days-off",
+   "bullets": [
+    "Krugman notes he’s taking a few days off and will resume publishing after the holiday break, with no new columns until early December."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261125113144.3.fa159567ff0a82ba@mg2.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Why this lead explosion in Iowa is so maddening",
+   "date": "2026-11-25T03:31-08:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/why-this-lead-explosion-in-iowa-is",
+   "bullets": [
+    "On 2026‑11‑25 the U.S. military detonated ~9,500 lb of lead azide near Middletown, Iowa, creating a lead‑dust plume that could spread up to 100 mi into Missouri, exposing 40 mi of high‑risk ground; the EPA issued evacuation orders only on Nov 15 after a Nov 13 permit, leaving residents scrambling during Thanksgiving week.",
+    "Lead is a neurotoxin with no safe threshold; the detonation will release dust that can cause permanent learning problems, hearing loss, and miscarriage risks, especially for children, while groundwater and crops pose minimal risk but surface dust is the highest exposure route.",
+    "The incident highlights systemic failures: 306 chemical incidents reported in 2026, EPA’s weakened enforcement, and poor risk communication—maps lacked context (e.g., 0.18 µg/m³ lower limit), and authorities failed to explain cleanup thresholds (EPA’s 200 mg/kg vs CA’s 80 mg/kg, with some experts recommending 55 mg/kg)."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261125023118.3.1e7e45d9fcad0207@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Command Post: Russia Has Lost 700,000 Soldiers. Putin Has Almost Nothing to Show for It. (w/ Marc Polymeropoulos)",
+   "date": "2026-11-24T18:31-08:00",
+   "url": "https://www.thebulwark.com/p/command-post-hegseth-is-holding-up",
+   "bullets": [
+    "The panel argues Russia has suffered about 700,000 military fatalities, yet President Putin has achieved virtually no strategic gains from the war.",
+    "They claim former President Trump’s meddling in the Nvidia espionage case creates serious national‑security risks, while Ukraine’s recent strike on the Kerch Bridge marks a major blow to Russia.",
+    "The guests blame Congressman Pete Hegseth for obstructing the delivery of urgently needed air‑defence missiles to Ukraine, hampering its ability to counter Russian attacks."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261125020509.3.674f7685f09ad83e@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "Bari Weiss and Douglas Murray Hate Qatar - But They Are Now Funded by It",
+   "date": "2026-11-24T18:05-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/bari-weiss-and-douglas-murray-hate",
+   "bullets": [
+    "Since the Oct 7 Hamas attacks, Bari Weiss and Douglas Murray have publicly condemned Qatar’s media investments, calling it an anti‑Israel threat and urging divestment.",
+    "The Free Press’s owner David Ellison recently secured billions of dollars from Qatar, creating a conflict for Weiss and Murray who now work for a Qatar‑funded outlet.",
+    "Semafor’s media editor disclosed details of the Jason Miller scandal, and Matt Taibbi reversed a previous statement, as noted in the newsletter."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261125002428.3.550e2875ff12e941@mg2.substack.com",
+   "newsletter": "Tim, Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Trump’s Nvidia Fiasco Is Making Republicans Squirm",
+   "date": "2026-11-24T16:24-08:00",
+   "url": "https://www.thebulwark.com/p/trumps-nvidia-fiasco-is-making-republicans",
+   "bullets": [
+    "Republicans are finally vocal about the Nvidia scandal but still avoid naming Donald Trump, fearing political fallout as the issue gains lasting traction.",
+    "The hosts debate whether Howard Lutnick could face impeachment and argue that Trump’s reliance on Silicon Valley reveals deeper flaws in American capitalism.",
+    "They also warn that Sarah’s focus‑group data spells trouble for JD Vance, consider a Stephen Miller 2028 presidential run, and discuss exploiting Trump’s vanity to push universal health care."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261124223629.3.d48d7b15c91639a5@mg-d0.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "Recipes that taste like Thanksgiving",
+   "date": "2026-11-24T14:36-08:00",
+   "url": "https://post.substack.com/p/recipes-that-taste-like-thanksgiving",
+   "bullets": [
+    "Jenny Rosenstrach curates a Thanksgiving menu featuring braised turkey thighs, smoked turkey legs, and a Persian‑style turkey‑cranberry tachin, plus vegetarian mains like spinach‑blue‑cheese phyllo pie and mushroom pot pie.",
+    "Emilie Abel provides beverage pairings for every holiday moment, while the newsletter also suggests indulgent mac‑and‑cheese variations—from classic cast‑iron to kimchi‑infused and spicy mapo tofu versions—and bright salads such as fennel‑orange with jalapeños."
+   ],
+   "summary_by": "groq"
+  },
+  {
    "id": "20261124210144.3.83ca88d72ace937d@mg2.substack.com",
    "newsletter": "Zeteo | U.S. Politics",
    "pub": "zeteo",
@@ -68,10 +270,11 @@
    "date": "2026-11-24T13:00-08:00",
    "url": "https://www.thebulwark.com/p/republicans-have-tried-nothing-and",
    "bullets": [
-    "Traditionally, political parties like to win. Winning sometimes requires thinking hard about losing—how to avoid it, and if it happens anyway, how to learn from what went wrong. For instance, after failing to win either chamber of Congress …",
-    "The GOP is not a normal political party. It has not been for a long time. One illustration of the party’s abnormal dynamic is that Republicans did not reflect on their loss in 2020; they instead made it a matter of partisan orthodoxy to ins…"
+    "Trump appointed Stephen Miller as White House chief of staff and the GOP is elevating far‑right figures like Jim Jordan as House leader and Ben Cline to head the Republican Study Committee, despite their role in the 2024 loss.",
+    "Republicans are opposing anti‑corruption measures such as a ban on lawmakers trading stocks, with Rep. Pete Sessions claiming Washington isn’t corrupt, while the party grants a waiver for James Comer to stay on Oversight despite running for governor.",
+    "The administration pressured Nvidia’s board to reinstate CEO Jensen Huang; Trump bragged about the deal, yet most GOP lawmakers publicly downplay the intervention, offering only vague national‑security concerns."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261124174935.3.f82a6cd16c78f54b@mg-d1.substack.com",
@@ -5318,111 +5521,14 @@
     "Kentucky Gov. Andy Beshear echoes this view, arguing that Democratic success in 2026 is crucial for building the momentum and voter perception needed to secure a 2028 presidential victory."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261025140334.3.433bad644f959a52@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Exclusive: AIPAC Whistleblower Speaks to Zeteo",
-   "date": "2026-10-25T07:03-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/exclusive-aipac-whistleblower-speaks",
-   "bullets": [
-    "The hour‑long documentary “Night Flower” investigates AIPAC’s evolution from a one‑man operation to a lobby spending tens of millions on U.S. midterms, featuring former insiders, Rep. Thomas Massie, Rep. Alexandria Ocasio‑Cortez, and a disguised whistleblower questioning whether AIPAC should register as a foreign agent for Israel.",
-    "The film, by Pulitzer‑finalist Dion Nissenbaum and Emmy‑winner Zach Goldbaum, argues AIPAC’s influence explains why U.S. policymakers maintain Israel as a close ally despite the Gaza genocide and the costly Iran conflict.",
-    "Free Zeteo subscribers can view a 9‑minute preview, while paid subscribers get unrestricted access to the full documentary."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261025140337.3.80c0948bfcb35f99@mg2.substack.com",
-   "newsletter": "Jonathan Cohn - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "GOP Closes Campaign With Unapologetic Bigotry",
-   "date": "2026-10-25T07:03-07:00",
-   "url": null,
-   "bullets": [
-    "Republicans have run a series of anti‑Muslim ads, including a Michigan Senate spot falsely claiming Abdul El‑Sayed wants to impose Sharia law, despite his quote referring only to personal morality.",
-    "Similar tactics appear nationwide: AI‑generated ‘Muslims invading’ ad in Georgia, vulgar ‘Allahu Akbar your butt’ remark in Alabama, and Texas GOP’s ‘Don’t Sharia My Texas’ legislation.",
-    "The author argues this pattern shows a dangerous, fact‑bending strategy that exploits Islamophobia for political gain, urging voters to demand honesty and reject such bigotry."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261025112933.3.810f9a92f93b9a77@mg2.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "How Ohio Trump Voters Reacted to Vivek’s Attack Ad",
-   "date": "2026-10-25T04:29-07:00",
-   "url": null,
-   "bullets": [
-    "Vivek Ramaswamy spent $4 million on a Ohio gubernatorial attack ad featuring Amy Acton’s mother, claiming she lied about her past, despite evidence the mother is the liar and hasn’t seen Acton in 48 years.",
-    "A focus group of ten Trump‑voting Ohioans, split between prior openness and lukewarm views of Ramaswamy, watched both the attack ad and Acton’s rebuttal featuring her brother to gauge reaction.",
-    "The piece argues that understanding such voter responses, even when surprising or infuriating, is essential for protecting American democracy."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261025104455.3.e128c4aa738ba04c@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Crisis Next Time",
-   "date": "2026-10-25T03:44-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-crisis-next-time",
-   "bullets": [
-    "Krugman warns that persistent inflation may force the Fed to sharply raise short‑term rates, risking stagflation.",
-    "He cautions that the rapid AI boom could become a bubble whose collapse might trigger a liquidity trap.",
-    "Rising long‑term government bond yields raise the specter of a debt crisis, adding to recession risks."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261025100257.3.6c9ebcc9a4cef216@mg-d1.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "Made in Manchester",
-   "date": "2026-10-25T03:02-07:00",
-   "url": "https://chrispappasnh.substack.com/p/grounded-in-granite",
-   "bullets": [
-    "Chris Pappas, a lifelong New Hampshire resident and four‑term Democratic House member known for bipartisan work, is now running for Senate with nine days left before the election.",
-    "His campaign argues he will fight special interests, protect reproductive freedom, lower costs and curb big‑company pricing, positioning himself as a grassroots alternative to heavily funded Trump‑aligned opponents.",
-    "Supporters are urged to donate $25 to fund door‑knocking, voter outreach and ads to help flip the open Senate seat blue."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261025020433.3.c237c11a8f479e61@mg-d0.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Venues Start Canceling on Vivek Ramaswamy Over His Disgusting Ad: ‘People Don’t Want Him There’",
-   "date": "2026-10-24T19:04-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/venues-start-canceling-on-vivek-ramaswamy",
-   "bullets": [
-    "Vivek Ramaswamy’s Ohio bus tour sparked backlash after his “shameful” ad attacking his Democratic opponent, prompting venue owners to refuse hosting him due to fear of negative publicity and customer complaints.",
-    "A top Ohio Republican confirmed that businesses are receiving calls from owners who explicitly do not want Ramaswamy at their events, citing potential angry phone calls, social‑media attacks, and bad press."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261025010059.3.dbe5dea22f024af0@mg2.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "Elon Musk Has Some Thoughts About The Bulwark. They’re Not Nice.",
-   "date": "2026-10-24T18:00-07:00",
-   "url": null,
-   "bullets": [
-    "Tim Miller rebuts Elon Musk’s threat to The Bulwark, calling Musk’s “live by the sword” comment a dangerous intimidation tactic.",
-    "Miller attacks Iowa GOP candidate Joe Mitchell for giving Trump a homemade “Man of the Century” award and for past video showing him ranting about his penis size and making racist remarks toward Black women.",
-    "He warns that Rep. Mike Rogers’ support for the Iran war could damage his Michigan Senate bid as voters confront rising gas prices and frustration with Trump’s foreign policy."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 76,
-  "total": 396
+  "shown": 80,
+  "total": 404
  },
  "brief_status": {
-  "tried": "2026-11-24T15:32-08:00",
+  "tried": "2026-11-25T15:10-08:00",
   "ok": false,
   "note": "provider error"
  }
