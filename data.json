@@ -1,51 +1,109 @@
 {
- "updated": "2026-11-25T15:10-08:00",
+ "updated": "2026-11-26T15:06-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "Trump’s direct meddling in corporate governance—pressuring Nvidia’s board to reinstate Jensen Huang despite national‑security warnings—dominates the political coverage this week (The Bulwark, Zeteo).",
-   "The 2026 midterm wave gave Democrats a historic popular‑vote margin and flipped several Senate seats, fueling talk of a second blue wave and shaping upcoming policy agendas (The Message Box, Zeteo).",
-   "AI‑related stock valuations are collapsing, with analysts warning that inflated market caps lack durable fundamentals and could trigger a broader tech correction (Paul Krugman).",
-   "U.S. foreign‑policy credibility is eroding after Trump’s summit with Xi and Putin, prompting concerns about NATO cohesion and heightened risks for Ukraine and the Middle East (The Bulwark, Zeteo).",
-   "A high‑profile MAGA influencer’s alleged ties to Russian intelligence and the controversial “Sneako” Taliban trip highlight ongoing foreign‑influence and extremist‑media risks (The Bulwark)."
+   "Trump’s self‑serving meddling in the Nvidia scandal—reinstating Jensen Huang, profiting from stock moves, and framing the affair as a deep‑state hoax—has become the week’s dominant story across The Bulwark, Zeteo and Paul Krugman (Bulwark Takes, Zeteo, Krugman).",
+   "The administration’s $50 million “pardon rackets” and other pay‑to‑play schemes are prompting new congressional investigations, highlighting how Trump’s patronage network is turning government functions into profit centers (Bulwark Takes).",
+   "Republicans are scrambling to contain fallout from the Nvidia fiasco, with GOP hosts noting internal discomfort and the party’s broader struggle to distance itself from Trump’s tech‑industry entanglements (The Bulwark).",
+   "A massive lead‑azide detonation in Iowa has created a toxic plume threatening thousands of residents, underscoring lapses in environmental oversight and emergency response during Thanksgiving week (Your Local Epidemiologist, Bulwark Takes).",
+   "Historical myths about Thanksgiving are being debunked, revealing the holiday’s political origins and commercial boom, while Democrats double‑down on courting independent‑media audiences to shore up future electoral advantage (Zeteo).",
+   "Democratic strategists are urging a January filibuster kill‑off now that they control the Senate, arguing the obstructionist rule is eroding public trust and blocking key legislation (The Message Box)."
   ],
   "by": "groq",
   "ids": [
-   "20261121020149.3.08ba8023acb35317@mg-d0.substack.com",
-   "20261121023129.3.aa694192efe43794@mg-d0.substack.com",
-   "20261121113047.3.beed69372819150f@mg2.substack.com",
-   "20261121120727.3.78784f8629cadf26@mg-d1.substack.com",
-   "20261121140415.3.0beb4abb5ef224bd@mg-d1.substack.com",
-   "20261121150212.3.0fde6fda2cdf9f10@mg-d0.substack.com",
-   "20261121154009.3.f021e631f12a5833@mg2.substack.com",
-   "20261121170159.3.8f822f68d98a7891@mg-d0.substack.com",
-   "20261121180122.3.113a312370bf8904@mg-d1.substack.com",
-   "20261121193110.3.61d88cf436fbe2de@mg-d1.substack.com",
-   "20261122013043.3.6ff44ee1ed6ac105@mg-d1.substack.com",
-   "20261122114437.3.03f4009817e50d75@mg-d0.substack.com",
-   "20261122120139.3.c5961e65a315ccc1@mg2.substack.com",
-   "20261122130354.3.d03bb77465e1d6fe@mg-d0.substack.com",
-   "20261122160252.3.8e6ffa5f736124f2@mg-d0.substack.com",
-   "20261122200107.3.ccc656e0c32817ae@mg-d0.substack.com",
-   "20261122220203.3.fb3f2214ee760249@mg-d0.substack.com",
-   "20261123004250.3.0566b594cb2ca010@mg-d0.substack.com",
-   "20261123024558.3.7fdd59afd440ba8b@mg-d1.substack.com",
-   "20261123113129.3.e53c5318c9b5b7c0@mg-d1.substack.com",
-   "20261123121027.3.2d1c4dc04640ec17@mg-d1.substack.com",
-   "20261123121855.3.df965403d0848b02@mg-d1.substack.com",
-   "20261123142457.3.1556d34c51a5ca33@mg-d0.substack.com",
-   "20261123150028.3.f098618b13bf13f7@mg-d0.substack.com",
-   "20261123160605.3.489edadc5220164b@mg-d1.substack.com",
-   "20261123172024.3.f0f421633c6e859a@mg-d0.substack.com",
-   "20261123204932.3.6177264a88c674b8@mg2.substack.com",
-   "20261123210038.3.4042fe24a12b671e@mg2.substack.com",
-   "20261124010043.3.1a4152bc080f37cf@mg2.substack.com"
+   "20261124010043.3.1a4152bc080f37cf@mg2.substack.com",
+   "20261124024555.3.da2d09650fc9c342@mg-d1.substack.com",
+   "20261124043043.3.5c4e8f1de0f76e23@mg2.substack.com",
+   "20261124100205.3.5f32bbf7dee45b54@mg-d1.substack.com",
+   "20261124113144.3.20cea4ac5b3345f7@mg-d1.substack.com",
+   "20261124120735.3.e54a014cbb61311a@mg-d0.substack.com",
+   "20261124141938.3.bf2be8e7f3dc3a3f@mg-d0.substack.com",
+   "20261124154826.3.b376c9036043762e@mg2.substack.com",
+   "20261124160259.3.5a9e0623fd3e003a@mg-d0.substack.com",
+   "20261124174935.3.f82a6cd16c78f54b@mg-d1.substack.com",
+   "20261124210044.3.48802f50866f57fa@mg-d0.substack.com",
+   "20261124210144.3.83ca88d72ace937d@mg2.substack.com",
+   "20261124223629.3.d48d7b15c91639a5@mg-d0.substack.com",
+   "20261125002428.3.550e2875ff12e941@mg2.substack.com",
+   "20261125020509.3.674f7685f09ad83e@mg-d1.substack.com",
+   "20261125023118.3.1e7e45d9fcad0207@mg-d0.substack.com",
+   "20261125113122.3.77daf1d022ddb233@mg-d0.substack.com",
+   "20261125113144.3.fa159567ff0a82ba@mg2.substack.com",
+   "20261125120138.3.4a4917a58ec9def0@mg-d0.substack.com",
+   "20261125141546.3.14ede786f6c0f360@mg-d0.substack.com",
+   "20261125145608.3.d17f131508d0834b@mg2.substack.com",
+   "20261125154655.3.c4bf3521f65050f8@mg-d0.substack.com",
+   "20261125160408.3.1d3990abb9fc4b21@mg-d1.substack.com",
+   "20261125163114.3.b58f0a2b3244669e@mg-d1.substack.com",
+   "20261125193044.3.21cfba9189e00104@mg-d1.substack.com",
+   "20261125200134.3.d00fb900bef2db80@mg2.substack.com",
+   "20261125221516.3.32c64c716740271a@mg2.substack.com",
+   "20261126000136.3.db6da56311d690a4@mg2.substack.com",
+   "20261126140347.3.3fed603f6d07942b@mg-d0.substack.com",
+   "20261126150118.3.97e910fa7bfdd9a6@mg-d1.substack.com",
+   "20261126210132.3.14805c5b6f68d69f@mg2.substack.com"
   ],
-  "updated": "2026-11-23T17:45-08:00",
+  "updated": "2026-11-26T15:06-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261126210132.3.14805c5b6f68d69f@mg2.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Sam Stein Picked the Wrong Week to Go on “Vacation”",
+   "date": "2026-11-26T13:01-08:00",
+   "url": "https://www.thebulwark.com/p/sam-stein-picked-the-wrong-week-to",
+   "bullets": [
+    "Tim Miller and Will Sommer argue that the far‑right’s push to brand former Trump aide John McEntee as a 2028 presidential hopeful is more a bizarre internet stunt than a serious MAGA movement, noting Nick Fuentes’ cryptic “dark horse” tease and McEntee’s modest straw‑poll support.",
+    "They also report that the video‑game‑centric Department of Education campaign aimed at “owning the libs” suffers from a major reading‑comprehension flaw, while the group Clavicular is leveraging the “blue wave” to counter right‑wing trans panic and even wage war on MAGA within Grand Theft Auto 6."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261126150118.3.97e910fa7bfdd9a6@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "5 Things You Didn’t Know About Thanksgiving",
+   "date": "2026-11-26T07:01-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/5-things-you-didnt-know-about-thanksgiving",
+   "bullets": [
+    "The commonly taught story of a harmonious 1621 “First Thanksgiving” between Pilgrims and Wampanoag is a myth; the event was a three‑day harvest feast with political and survival motives, not a singular national origin.",
+    "Thanksgiving’s date was fixed by President Abraham Lincoln in 1863 amid the Civil War to foster unity, and the modern holiday’s commercial boom began only after World War II, when manufacturers promoted turkey sales and travel.",
+    "Native perspectives highlight that Thanksgiving marks the start of centuries of displacement, disease, and broken treaties, with many tribes now observing a National Day of Mourning instead of celebration."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261126140347.3.3fed603f6d07942b@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "Trump’s Pardon Racket Is Attracting Some Very Familiar Crooks (w/ Liz Oyer)",
+   "date": "2026-11-26T06:03-08:00",
+   "url": "https://www.thebulwark.com/p/trumps-pardon-racket-is-attracting",
+   "bullets": [
+    "Former DOJ pardon attorney Liz Oyer tells Sam Stein that Trump’s pardon brokers are running a $50 million pay‑to‑play scheme, including an extraordinary arrangement with Alina Habba.",
+    "The operation sells access to the president, generating millions for fixers, and is prompting Rep. Jamie Raskin to launch an investigation into the money trail.",
+    "Trump is reportedly planning a blanket preemptive pardon that would shield his entire administration from future prosecution."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261126000136.3.db6da56311d690a4@mg2.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Saagar Enjeti: Trump Has Doomed the MAGA Movement",
+   "date": "2026-11-25T16:01-08:00",
+   "url": "https://www.thebulwark.com/p/saagar-enjeti-trump-has-doomed-the",
+   "bullets": [
+    "Tim Miller argues that POTUS will never voluntarily abandon the MAGA project, leaving successors like Vance and Rubio trapped unless they have Trump’s blessing, while the Tech Right faces a ‘messiah’ crisis and Trumpland pushes policies resembling a Third World banana republic.",
+    "In a Thanksgiving‑themed food fight, Saagar Enjeti contends Ukraine should not surrender to Russia, and Miller links MAGA‑aligned moms and ICE enforcement to the Democrats’ recent sweeping victories.",
+    "Miller also offers practical tips to curb phone addiction and promotes related content on AI, China, and his interview with Anne Applebaum."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261125221516.3.32c64c716740271a@mg2.substack.com",
    "newsletter": "Lauren Egan - The Bulwark",
@@ -82,10 +140,11 @@
    "date": "2026-11-25T11:30-08:00",
    "url": "https://www.thebulwark.com/p/a-cruel-thanksgiving-for-the-kids-in-dilley-texas-ice-dhs-detention",
    "bullets": [
-    "LAST THANKSGIVING THE KIDS at the Dilley detention center experienced a brief moment of excitement. Of hope, even. As they were ushered into a large room, they saw a table piled high with turkey, sandwiches, pies, and pastries. A holiday fe…",
-    "But the excitement and hope were quickly snuffed out. “Then the staff covered each tray of food and told the children that the food was for the employees only, and children were left in tears,” said Elora Mukherjee, director of the Immigran…"
+    "Dilley, the only ICE family detention center, repeatedly denied children food and treats during Thanksgiving and Christmas, with staff covering meals for staff only and confiscating Santa‑gift bags, prompting Senate testimony from Columbia Law’s Elora Mukherjee and statements from Sen. Richard Blumenthal.",
+    "Detention periods at Dilley have exceeded the Flores Settlement’s 20‑day limit by up to five times, with reports of contaminated food, lack of vegetarian options without religious justification, and water containing sand, leading to illness and fainting among children.",
+    "Nonprofit Each Step Home is running a holiday matching fund to refill commissary accounts—up to $100,000 matched through Dec 31—to help families afford $30‑week water, $14 cereal, $13 ramen, or $7 sweets amid inflated ICE prices."
    ],
-   "summary_by": "excerpt"
+   "summary_by": "groq"
   },
   {
    "id": "20261125163114.3.b58f0a2b3244669e@mg-d1.substack.com",
@@ -5372,164 +5431,14 @@
     "The dispute highlights the club’s paradox: a seemingly whimsical, LARP‑like organization with ominous ambitions to coordinate far‑right men in a governmental collapse."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261026210058.3.2d93045183ff3010@mg2.substack.com",
-   "newsletter": "Mehdi Unfiltered",
-   "pub": "zeteo",
-   "subject": "This Congresswoman Says Democrats Should Do ‘Everything’ to Investigate AIPAC",
-   "date": "2026-10-26T14:00-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/this-congresswoman-says-democrats",
-   "bullets": [
-    "Rep. Delia Ramirez (D‑Ill.) urges Democrats, if they regain Congress, to investigate AIPAC’s foreign‑agent status after a documentary exposed its influence tactics",
-    "Ramirez promotes her bill to block weapons shipments to Israel and ties AIPAC’s role to the 2028 Democratic primary, claiming a pro‑peace, anti‑AIPAC Congress is imminent",
-    "She also introduces the ‘Reimaging Safety Act’ to abolish ICE and CBP and replace DHS with a Department of Community Safety"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261026163212.3.20f1926a820061ab@mg2.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Who’s Right? The Polls or the Vibes?",
-   "date": "2026-10-26T09:32-07:00",
-   "url": null,
-   "bullets": [
-    "The author argues that qualitative 'vibes' suggest a massive Democratic wave due to superior candidate quality, poor economic news for Republicans, and President Biden’s extreme unpopularity.",
-    "Poll data, however, shows many races still within the margin of error, turning the election into a series of coin flips despite Democratic advantages.",
-    "The piece warns of high downside risk for Republicans while warning that the potential Democratic surge could be as dramatic as a 'Hulk Smash Kaiju Tsunami.'"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261026161136.3.6e5840f4feea886a@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "Lula’s Incredible Comeback Shows How Democrats Can Win in 2028",
-   "date": "2026-10-26T09:11-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/lulas-incredible-comeback-shows-how",
-   "bullets": [
-    "After trailing by 2 million votes in Brazil’s first round, Lula reshuffled his team and hired 41‑year‑old Governor Rafael Fonteles, who introduced an aggressive social‑media strategy and selfie videos for the octogenarian candidate.",
-    "Fonteles’ bare‑bones, phone‑held videos focusing on policies like ending the 44‑hour work week and free weekend buses resonated with younger voters, helping Lula close the gap against far‑right candidate Flavio Bolsonaro’s 47% lead.",
-    "The author argues Lula’s comeback shows that Democrats can win in 2028 by modernising outreach, using authentic, low‑production content to make voters pay attention to substantive policy messages."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261026150251.3.048edf08d04e132f@mg-d0.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "This race has changed. Let’s talk about it.",
-   "date": "2026-10-26T08:02-07:00",
-   "url": "https://roycoopernc.substack.com/p/this-race-has-changed-lets-talk-about",
-   "bullets": [
-    "David Plouffe, former Obama strategist, warned that North Carolina is a must‑win Senate race for Democrats aiming to retake the Senate majority.",
-    "Historically tight, the seat was last won by a Democrat in 2008 and by a narrow 10,000‑vote margin in 2016, so complacency could cost it.",
-    "Campaign manager Jeff Allen urges donors to contribute immediately, saying the final eight days will focus on voter outreach and organizing to secure the margin."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261026133112.3.dc321aaf8d92d5dd@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Trump’s Rallies Have Become What He Covets: Ass",
-   "date": "2026-10-26T06:31-07:00",
-   "url": null,
-   "bullets": [
-    "Trump’s post‑2024 rally tour is marked by exhaustion and repetitive promises, now framed as conditional rewards like $5,000 checks for adults and localized projects that only materialize if Republicans win the midterms, many of which are unlikely or already progressing regardless of election outcomes.",
-    "In Serbia, long‑time nationalist leader Aleksandar Vučić was ousted by a student‑driven party, a “tectonic blow” to the Milošević‑era order, while Brazil narrowly re‑elected leftist Lula over Bolsonaro’s son, highlighting a regional shift away from authoritarian incumbents."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261026114946.3.fd829d76a4f9e9a0@mg-d1.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "The Oligarchs Lose a Big One",
-   "date": "2026-10-26T04:49-07:00",
-   "url": "https://paulkrugman.substack.com/p/the-oligarchs-lose-a-big-one",
-   "bullets": [
-    "Krugman contrasts Meta’s alleged bias with Elon Musk’s overt support for Vladimir Putin, arguing both tech oligarchs influence politics to the right’s advantage"
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261026112031.3.6844482644e93c4f@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Trump: I ‘Don’t Give a Damn’ About Gas Prices – But Obama Knows Voters Do",
-   "date": "2026-10-26T04:20-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/trump-i-dont-give-a-damn-about-gas",
-   "bullets": [
-    "Trump told a Georgia rally he’s making \"hundreds of billions, trillions of dollars\" from oil deals and doesn’t care that gas prices are higher for Americans, citing the Iran war as the cause of higher pump prices.",
-    "Obama campaigned in Ohio and Michigan, warning that voters care about gas prices and criticizing Trump’s alleged profiteering, while also mocking Trump’s White House décor choices.",
-    "Brazil’s runoff saw Lula defeat Flávio Bolsonaro amid chaos and a delayed concession, and the newsletter notes escalating tensions in the Iran‑Israel conflict ahead of Israel’s election."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261026103837.3.da359ca134267852@mg-d0.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "The Battle for the House Moves into Deep Trump Country",
-   "date": "2026-10-26T03:38-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/the-battle-for-the-house-moves-into",
-   "bullets": [
-    "Democrats are on track for their strongest midterms since 2006, but the focus has been on high‑profile Senate races featuring candidates like James Talarico, Abdul El‑Sayed, Sherrod Brown, Mary Peltola, Roy Cooper, Ken Paxton, Susan Collins and Roger Marshall.",
-    "Pfeiffer argues that House races, being more sensitive to the national mood and covering a broader demographic and geographic sample, are a better barometer for future political trends than the limited Senate contests.",
-    "He notes the latest shift: the House battle has entered deep Trump‑leaning districts, where Republicans are now scrambling to defend seats that seemed uncompetitive just weeks earlier."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261026013039.3.f615e964f0abfee8@mg-d1.substack.com",
-   "newsletter": "Bulwark Takes",
-   "pub": "thebulwark",
-   "subject": "South Carolina? Florida? Mississippi?! Democrats Test the Limits of a Blue Wave | Bulwark on Sunday",
-   "date": "2026-10-25T18:30-07:00",
-   "url": null,
-   "bullets": [
-    "Bill Kristol and Lauren Egan analyze whether Democrats can realistically flip Senate seats in traditionally red states Mississippi, South Carolina, and Florida.",
-    "They assess the expanding Senate map, highlighting surprising opportunities for Democrats but caution that optimism may outpace the political realities in those deep-red states."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261026000234.3.ddcc053dc0c6d5f6@mg2.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "A Genocide Was Committed in Sudan’s El Fasher. A Year Later, Survivors Recount the Horrors",
-   "date": "2026-10-25T17:02-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/a-genocide-was-committed-in-sudans",
-   "bullets": [
-    "In September 2025, five brothers from the Salman family were killed by an RSF shell in El Fasher’s Tambasi neighborhood during the final weeks of an 18‑month siege that ended with the city’s fall on Oct 26, 2025.",
-    "A UN fact‑finding mission concluded the RSF’s mass killings, rapes, torture and enforced disappearances of Zaghawa and Fur civilians in El Fasher constitute a genocidal campaign, with thousands killed.",
-    "One year later, families like the Salmans still search for missing relatives, the city remains depopulated, and no RSF perpetrators have been held accountable."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261025233932.3.65ad4cf4554a5db8@mg2.substack.com",
-   "newsletter": "Lauren Egan - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "What a Blowout Dem Win in ’26 Would Mean for ’28",
-   "date": "2026-10-25T16:39-07:00",
-   "url": null,
-   "bullets": [
-    "If Democrats pull off a sweeping 2026 midterm win—flipping the Senate and winning governorships in traditionally Trump states like Ohio, Iowa, Texas, and Kansas—it would position those states as competitive in the 2028 presidential race, according to Biden‑Harris campaign battleground director Dan Kanninen.",
-    "Kentucky Gov. Andy Beshear echoes this view, arguing that Democratic success in 2026 is crucial for building the momentum and voter perception needed to secure a 2028 presidential victory."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 80,
-  "total": 404
+  "shown": 72,
+  "total": 397
  },
  "brief_status": {
-  "tried": "2026-11-25T15:10-08:00",
-  "ok": false,
-  "note": "provider error"
+  "tried": "2026-11-26T15:06-08:00",
+  "ok": true
  }
 }
