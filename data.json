@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:10-08:00",
+ "updated": "2026-11-27T14:48-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
@@ -47,6 +47,165 @@
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261127223041.3.26c63a354f9910fa@mg-d1.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Jon Lovett: We Beat Their Ass",
+   "date": "2026-11-27T14:30-08:00",
+   "url": "https://www.thebulwark.com/p/jon-lovett-we-beat-their-ass",
+   "bullets": [
+    "Tim Miller and Jon Lovett celebrate the 2026 election victory, noting the scale of the win and the possibility of restoring DOJ justice as a galvanizing step.",
+    "They debate how much the pro‑democracy coalition should celebrate, with Lovett warning that Trump’s AI‑driven global emergency could undermine progress and urging the left to calm down.",
+    "The episode highlights intra‑left tensions, the Texas regime change, Tim’s potential alliance with Al Gore, and the media’s focus on the MAGA uncle over the liberal one."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261127210118.3.e7616d7cb37c3aa4@mg-d1.substack.com",
+   "newsletter": "Sonny Bunch - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "What to Watch This Thanksgiving Weekend",
+   "date": "2026-11-27T13:01-08:00",
+   "url": "https://www.thebulwark.com/p/what-to-watch-this-thanksgiving-weekend",
+   "bullets": [
+    "Peter Gamble’s film *I Play Rocky* follows a typecast actor who writes his own breakout role, showing that self‑belief and supportive collaborators are key to success; the movie drew a lively audience with laughter and emotional moments, though it contains a brief, non‑explicit reference to Stallone’s adult‑industry past.",
+    "James Gray’s *Paper Tiger* captures mid‑1980s New York City with gritty realism, emphasizing the rise of a harsher, foreign Russian mafia and the city’s corrupt power dynamics, while the film’s production values—candlelight, torches, period‑accurate lighting—create an immersive, hazy atmosphere."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261127193918.3.1e6249353b936baa@mg-d1.substack.com",
+   "newsletter": "Sarah and JVL - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Meebewegen",
+   "date": "2026-11-27T11:39-08:00",
+   "url": "https://www.thebulwark.com/p/meebewegen",
+   "bullets": [
+    "The episode pivots early to a deep dive on Democratic debate rules, questioning how to “get money out of politics” and envisioning a Bulwark-style debate format that limits corporate influence.",
+    "The hosts reference a parable about the USS North Carolina and Dutch philosophy of meebewegen, using it to critique current political maneuvering and the need for strategic, non-violent change.",
+    "Jensen Huang is briefly discussed, and Sarah ends by tempting JVL’s “bad wolf,” hinting at a playful challenge or provocative topic for future episodes."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261127190640.3.4675ae55ff1d8334@mg-d1.substack.com",
+   "newsletter": "Zeteo",
+   "pub": "zeteo",
+   "subject": "🚨 Black Friday SALE! Save 50%🚨",
+   "date": "2026-11-27T11:06-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/black-friday-sale-save-50",
+   "bullets": [
+    "Zeteo offers a Black Friday sale giving 50% off its paid subscription, promising full access to daily reporting, newsletters, original shows, exclusive podcasts, documentaries, and live Q&A sessions with Mehdi and experts.",
+    "The promotion claims to be Zeteo’s biggest sale ever and may be the last time such a large discount is offered, with the offer ending Monday."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261127171535.3.7d1dee2da1bc1930@mg-d1.substack.com",
+   "newsletter": "Tim Miller - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "For the real sickos…",
+   "date": "2026-11-27T09:15-08:00",
+   "url": "https://www.thebulwark.com/p/for-the-real-sickos",
+   "bullets": [
+    "The Bulwark launches a free 24/7 streaming channel on Amazon Prime Video Live TV, also available on Fire TV and Local Now, with no subscription or Prime membership required.",
+    "Content remains unchanged—same hosts, shows, and commentary—while the channel aims to broaden reach and encourage viewers to support the outlet via Bulwark+ memberships for continued independent journalism."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261127171406.3.d5a3b795237666fc@mg-d0.substack.com",
+   "newsletter": "Doomberg",
+   "pub": "doomberg",
+   "subject": "Do Not Pass Go",
+   "date": "2026-11-27T09:14-08:00",
+   "url": "https://open.substack.com/pub/doomberg/p/do-not-pass-go",
+   "bullets": [
+    "Good’s 1966 paper defined an ultraintelligent machine that could recursively improve its own design, predicting an intelligence explosion that today’s RSI efforts at Google, SpaceX, Anthropic and OpenAI aim to achieve.",
+    "TechCrunch notes the split view: AI doomers fear uncontrollable RSI leading to catastrophic weaponization, while enthusiasts tout unprecedented productivity and scientific breakthroughs.",
+    "The newsletter warns that if RSI succeeds, it could break encryption (e.g., via a P=NP proof) and give the winning side massive destructive power, hinting at recent unexplained Nvidia events as possible signs."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261127160305.3.d57bc03916be56e2@mg2.substack.com",
+   "newsletter": "Mehdi Unfiltered",
+   "pub": "zeteo",
+   "subject": "‘Wired to Steal’: How Neuroscience Can Explain Zionism and Settler Colonialism",
+   "date": "2026-11-27T08:03-08:00",
+   "url": "https://open.substack.com/pub/zeteo/p/wired-to-steal-how-neuroscience-can",
+   "bullets": [
+    "‘Wired to Steal: Zionism and the Shaping of the Western Mind’, co‑authored by neuroscientist Yoav Litvin and historian Ilan Pappé, argues that brain mechanisms underlie widespread Israeli support for Zionist policies and the genocide of Palestinians”, “In the Mehdi Unfiltered interview the authors say Jewish disassociation from Zionism is growing, but warn that a new Israeli unity government could either revive bombings on Iran or legitimize the genocide by normalising Palestinian‑Israeli participation”, “The interview, posted on 27 Nov 2026, promotes buying the book and links to Zeteo’s book club and subscription options"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261127153052.3.2ccf1ec53e0f68b9@mg-d1.substack.com",
+   "newsletter": "Jonathan Cohn - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "If ‘Trumpcare’ Really Became a Thing, It’d Look Like This",
+   "date": "2026-11-27T07:30-08:00",
+   "url": "https://www.thebulwark.com/p/medicare-for-all-trumpcare-really-became-a-thing-would-actually-work-adam-gaffney-interview",
+   "bullets": [
+    "Senator‑elect Abdul El‑Sayed, a Medicare‑for‑All advocate, suggested rebranding the plan as “Trumpcare” to win President Trump’s support, prompting Trump to schedule a meeting with him.",
+    "An October KFF poll shows roughly two‑thirds of Americans now favor Medicare for All, reflecting growing frustration with the current system’s uninsured millions, high costs, and poor outcomes.",
+    "Physician Adam Gaffney, former president of Physicians for a National Health Plan, describes ICU cases where lack of insurance leads to preventable complications from common conditions like hypertension."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261127143118.3.5772f90eb0df03d5@mg-d0.substack.com",
+   "newsletter": "Your Local Epidemiologist",
+   "pub": "yourlocalepidemiologist",
+   "subject": "Thankful for the YLE team",
+   "date": "2026-11-27T06:31-08:00",
+   "url": "https://yourlocalepidemiologist.substack.com/p/thankful-for-the-yle-team",
+   "bullets": [
+    "YLE is taking a Thanksgiving break to recharge while celebrating its diverse team’s shared drive to make public health more empathetic, evidence‑based, and community‑centered"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261127140347.3.7418c3bc8a036855@mg-d1.substack.com",
+   "newsletter": "The Substack Post",
+   "pub": "post",
+   "subject": "Leftovers are the whole point",
+   "date": "2026-11-27T06:03-08:00",
+   "url": "https://post.substack.com/p/leftovers-are-the-whole-point",
+   "bullets": [
+    "Chef Ryan Shepard turned Thanksgiving turkey carcasses and leftover veg into a weekly gumbo tradition, inviting her “Misfits” of restaurant workers and medical residents to share a communal pot after the holiday.",
+    "She refined the gumbo using a dark roux baked in the oven, turkey stock, leftover meat, and andouille sausage, creating a dish that became a post‑Thanksgiving gathering staple in Atlanta.",
+    "Over years, the Sunday gumbo has kept the original group together even as members move on, turning leftovers into a lasting social ritual."
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261127133044.3.3db963089cb8712d@mg-d0.substack.com",
+   "newsletter": "Bulwark Takes",
+   "pub": "thebulwark",
+   "subject": "The Trio Reacts to Anthony Constantino’s Gay Republican Recruitment Video",
+   "date": "2026-11-27T05:30-08:00",
+   "url": "https://www.thebulwark.com/p/the-trio-reacts-to-anthony-constantinos",
+   "bullets": [
+    "Sam Stein, Tim Miller, and Will Sommer critique Anthony Constantino’s video urging gay Americans to vote Republican, calling the tactic both bizarre and politically tone‑deaf.”,"
+   ],
+   "summary_by": "groq"
+  },
+  {
+   "id": "20261127123528.3.4950e8f7041d536e@mg-d1.substack.com",
+   "newsletter": "Dan Pfeiffer from The Message Box",
+   "pub": "messagebox",
+   "subject": "Trump Raised Your Prices, I’m Lowering Mine",
+   "date": "2026-11-27T04:35-08:00",
+   "url": "https://open.substack.com/pub/messagebox/p/trump-raised-your-prices-im-lowering",
+   "bullets": [
+    "Dan Pfeiffer announces a 20% Black Friday–Cyber Monday discount for a full year of Message Box, citing higher U.S. prices due to Trump’s tariffs and war",
+    "He previews upcoming coverage of the 2028 primaries, the new Democratic majority’s agenda, and ongoing Trump‑Republican corruption",
+    "Paid subscribers receive all posts, a weekly mailbag, and access to a community of organizers and democracy enthusiasts"
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261127000051.3.660e9d8a38c426b5@mg2.substack.com",
    "newsletter": "Bulwark Takes",
@@ -5194,207 +5353,15 @@
     "Cuban also shares his perspective on the Trump administration's health‑care agenda, suggesting it differs from current partisan narratives."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261027223935.3.8c3996a6861b3cdb@mg2.substack.com",
-   "newsletter": "Jon Ossoff",
-   "pub": "ossoff",
-   "subject": "My decision",
-   "date": "2026-10-27T15:39-07:00",
-   "url": "https://ossoff.substack.com/p/my-decision-c2c",
-   "bullets": [
-    "Senator Jon Ossoff, the sole Democratic Senate candidate in a Trump‑won state, warns that the president is staging an unprecedented power grab, including freeing Capitol attackers and threatening media outlets.",
-    "He claims his 2020 victory flipped a Republican seat and secured the Senate majority, and urges grassroots donations averaging $30 to fund his 2026 reelection campaign.",
-    "Ossoff links to an ActBlue donation page, emphasizing that many small contributions are needed to sustain the campaign."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027191547.3.26b493c079486b89@mg-d0.substack.com",
-   "newsletter": "Joe Perticone - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Democrats Get Ready for the Sore-Loser-in-Chief",
-   "date": "2026-10-27T12:15-07:00",
-   "url": null,
-   "bullets": [
-    "House Democrats have mobilized nearly 300 staffers to monitor 60‑70 key districts, preparing to document and contest any Republican or federal interference such as ICE presence at polls.",
-    "Democratic lawyer Marc Elias warns the Trump administration will employ a “flood‑the‑zone” legal strategy post‑election, but says the party is ready to defeat those lawsuits.",
-    "The Justice Department has filed a lawsuit in Alaska over the Dan Sullivan name confusion, seeking to delay certification if the margin is narrow, a move supported by the DSCC and Peltola campaign."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027163049.3.87f4d578be847236@mg-d1.substack.com",
-   "newsletter": "JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Nationalize SpaceX",
-   "date": "2026-10-27T09:30-07:00",
-   "url": null,
-   "bullets": [
-    "The author argues SpaceX poses a national security vulnerability, asserting that private control—whether by Elon Musk or any trillionaire—creates unacceptable risks for America.",
-    "He proposes treating “nationalize SpaceX” as a catch‑all term, suggesting options ranging from full nationalization to breakup or aggressive regulation to mitigate those risks.",
-    "The newsletter will outline why SpaceX is a danger and then explore possible policy solutions, starting with the claim that the company cannot be trusted to sell combat‑ready fighter jets."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027151613.3.262d979837ce088b@mg-d0.substack.com",
-   "newsletter": "Zeteo",
-   "pub": "zeteo",
-   "subject": "The UAE Helped Fuel the Sudan Genocide. Now One of Its Diplomats Wants To Lead the United Nations",
-   "date": "2026-10-27T08:16-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/the-uae-helped-fuel-the-sudan-genocide",
-   "bullets": [
-    "Lana Nusseibeh, former UAE minister and UN representative, is running to become the UN Secretary‑General, potentially becoming the first woman, Muslim, and Palestinian‑descended holder of the post.",
-    "She has long denied or downplayed the UAE’s role in the Sudan genocide, a fact that critics argue would undermine UN credibility if she is confirmed.",
-    "The Trump administration opposes her candidacy, and many other candidates are believed to be against her, raising concerns about a possible UN leadership misstep."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027143539.3.46ef0216b50c66dd@mg2.substack.com",
-   "newsletter": "Sarah Longwell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Former Collins Voters Explain Why She’s Tough to Beat—And Has to Go",
-   "date": "2026-10-27T07:35-07:00",
-   "url": null,
-   "bullets": [
-    "Susan Collins, a Republican senator from Maine, has repeatedly survived tough re-election battles, leveraging her moderate stance and bipartisan appeal to maintain a strong voter base.",
-    "In 2020, a group of Mainers who voted for both Joe Biden and Susan Collins revealed that Collins’ ability to win hinges on her willingness to break with party lines on key issues, earning her respect among independents and Democrats.",
-    "The newsletter suggests that while Collins remains a formidable incumbent, the political climate is shifting, and her future electoral prospects may face new challenges from both sides of the aisle."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027140015.3.d01134feb6a38536@mg-d1.substack.com",
-   "newsletter": "Roy Cooper",
-   "pub": "roycoopernc",
-   "subject": "Are you with me?",
-   "date": "2026-10-27T07:00-07:00",
-   "url": "https://roycoopernc.substack.com/p/are-you-with-me",
-   "bullets": [
-    "Governor Josh Stein, Justice Anita Earls, and over a thousand voters attended a Get Out The Vote concert featuring North Carolina artists Davie Circle, Karly Hartzman, Tift Merritt, Hiss Golden Messenger, and Watchhouse x Viv & Riley.",
-    "With only seven days to Election Day, the newsletter urges North Carolinians to vote, donate, or volunteer to support a campaign focused on reducing costs and bringing common sense to Washington."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027132556.3.d0fd77f1ab3053a3@mg-d0.substack.com",
-   "newsletter": "Bill Kristol & Andrew Egger - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Wave Goodbye to a Republican Congress",
-   "date": "2026-10-27T06:25-07:00",
-   "url": null,
-   "bullets": [
-    "Early voting shows Democrats leading the generic ballot by about 9 points, with Reuters/Ipsos polling Trump at 35% approval and 65% disapproval among registered voters.",
-    "Kristol argues the House will almost certainly flip to Democrats and the Senate is very likely to follow, a rare midterm double‑chamber shift last seen in 1994 and 2006.",
-    "Egger reports the DOJ filed a third criminal information against James Comey to sidestep a statute‑of‑limitations deadline, but legal experts say it’s procedurally dubious and likely to be dismissed."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027113611.3.30cfef0913098ff4@mg-d0.substack.com",
-   "newsletter": "Your Local Epidemiologist",
-   "pub": "yourlocalepidemiologist",
-   "subject": "Bird flu in mink, measles double last year, SNAP at an all time low.",
-   "date": "2026-10-27T04:36-07:00",
-   "url": "https://yourlocalepidemiologist.substack.com/p/bird-flu-in-mink-measles-double-last",
-   "bullets": [
-    "U.S. measles cases hit 4,588 in 2026—double 2025 and the highest since 1991—driven by a Pennsylvania outbreak with <1% vaccination and spreading to NY, Ohio, Wisconsin, Kentucky, and Indiana.",
-    "A Utah mink farm harbored undetected bird flu for two months; mink can mix avian and human flu genes, and officials failed to act, raising pandemic concerns.",
-    "SNAP enrollment fell by over 5 million (including 2 million children) to a 17‑year low, threatening free school‑meal eligibility in most states and pushing families toward lunch bills."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027112701.3.12e37812741f7d56@mg2.substack.com",
-   "newsletter": "First Draft | Zeteo",
-   "pub": "zeteo",
-   "subject": "Donald Trump Is Newly Accused of Rape – and Epstein Allegedly Helped 👀",
-   "date": "2026-10-27T04:27-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/donald-trump-is-newly-accused-of",
-   "bullets": [
-    "A House Judiciary Committee report alleges Donald Trump actively participated in Jeffrey Epstein’s 1990s sexual abuse network, citing five of eleven women who directly accuse him of rape or assault in Epstein‑linked settings such as beauty pageants.",
-    "The report claims Trump and Epstein collaborated as “hunting grounds,” using high‑profile events to prey on young women, while Trump denies any wrongdoing.",
-    "Zeteo also shares an exclusive Arab‑American poll on the 2028 election, midterms, and Israel‑Palestine issues, plus updates on the Iran war and Israel’s upcoming elections."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027105235.3.90887433c6cd812e@mg-d1.substack.com",
-   "newsletter": "Dan Pfeiffer from The Message Box",
-   "pub": "messagebox",
-   "subject": "Why Trump’s Rally Tour Is a Gift to Democrats",
-   "date": "2026-10-27T03:52-07:00",
-   "url": "https://open.substack.com/pub/messagebox/p/why-trumps-rally-tour-is-a-gift-to",
-   "bullets": [
-    "Trump’s 2026 midterm approval is the lowest for any president entering a midterm since Harry Truman, yet he’s holding 21 rallies in October, contrary to the usual strategy of unpopular incumbents staying out of the news.",
-    "Pfeiffer argues Trump’s rally tour, meant to energize the GOP base, is unlikely to boost turnout and may actually damage Republican prospects by keeping the unpopular president in the spotlight during an election where price concerns dominate.",
-    "He notes Trump’s historic strength was mobilizing voters when his name was on the ballot, a dynamic he can’t replicate now, making the rally blitz a strategic misfire that benefits Democrats."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027104341.3.db9cb20a544061c0@mg-d0.substack.com",
-   "newsletter": "Paul Krugman",
-   "pub": "paulkrugman",
-   "subject": "Trump Doesn’t Give a Damn About Your Problems",
-   "date": "2026-10-27T03:43-07:00",
-   "url": "https://paulkrugman.substack.com/p/trump-doesnt-give-a-damn-about-your",
-   "bullets": [
-    "Trump’s war with Iran has lifted refined gasoline and diesel prices by about $75 per barrel, costing U.S. consumers roughly $560 billion annually, while oil firms profit billions and gave 88% of their 2024 campaign donations to Republicans.",
-    "The surge in energy prices, now back to Biden‑era peaks, undermines Trump’s campaign promise to halve fuel costs within a year and fuels Republican poll declines ahead of next Tuesday’s election."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027103114.3.dd5e00aff0114879@mg-d1.substack.com",
-   "newsletter": "Brendan Hartnett (The Bulwark)",
-   "pub": "thebulwark",
-   "subject": "Hegseth Needs More T—Poll Shows He’s No Male Role Model",
-   "date": "2026-10-27T03:31-07:00",
-   "url": null,
-   "bullets": [
-    "Only 28% of American adults—and just 18% of 18‑to‑29‑year‑olds—see Defense Secretary Pete Hegseth as a strong male role model, placing him second‑worst among nine surveyed public figures, with Trump rated lowest at -18 points; top figures were McConaughey (+33), Obama (+28) and LeBron James (+25).",
-    "The poll found 68% of Americans never bet on sports, yet 44% think legalized sports gambling harms sports, and 36% support tighter regulation of prediction markets, with a partisan split favoring more regulation among Harris voters (45%) versus Trump voters (33%).",
-    "A majority (51%) oppose transgender athletes competing according to gender identity, while only 31% correctly estimate that fewer than 1% of NCAA athletes are transgender, despite NCAA data showing virtually zero trans participants after recent restrictions."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027090113.3.3ec9d0a762b95712@mg2.substack.com",
-   "newsletter": "Doomberg",
-   "pub": "doomberg",
-   "subject": "Tough Comp",
-   "date": "2026-10-27T02:01-07:00",
-   "url": "https://open.substack.com/pub/doomberg/p/tough-comp",
-   "bullets": [
-    "The Doomberg newsletter highlights how Russia’s massive missile and drone campaign against Ukraine’s energy grid has only recently caused severe damage, underscoring the difficulty of delivering decisive knockout blows from long‑range standoff weapons.",
-    "It then notes a Wall Street Journal report that U.S. warships in the Arabian Sea are loading large stocks of standoff land‑attack and bunker‑buster missiles in preparation for potential escalation against Iran, questioning whether such limited assets can achieve a comparable decisive effect.",
-    "The author suggests a direct open‑source comparison of Russia‑Ukraine and U.S.-Iran scenarios will reveal stark numbers that make a swift, overwhelming strike against Iran seem implausibly effective."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027090106.3.3203d7f79675569f@mg2.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "John Sununu’s real record:",
-   "date": "2026-10-27T02:01-07:00",
-   "url": "https://chrispappasnh.substack.com/p/this-is-who-john-sununu-really-is",
-   "bullets": [
-    "John Sununu, Trump‑endorsed Senate candidate, is accused of lying about a Qatar trip linked to Jeffrey Epstein and of profiting from Wall Street bailouts and Big Pharma after voting against drug‑price cuts.",
-    "He allegedly led efforts to privatize Social Security, is backed by dark‑money super PACs with an $800 million war chest, and is portrayed as selling out New Hampshire’s voters."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 71,
-  "total": 394
+  "shown": 73,
+  "total": 392
  },
  "brief_status": {
-  "tried": "2026-11-26T21:10-08:00",
-  "ok": true
+  "tried": "2026-11-27T14:48-08:00",
+  "ok": false,
+  "note": "unusable reply"
  }
 }
