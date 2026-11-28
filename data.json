@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-27T14:48-08:00",
+ "updated": "2026-11-27T20:47-08:00",
  "window_days": 7,
  "source": "Yahoo Mail 'Substack' folder via IMAP; summarized server-side",
  "brief": {
   "bullets": [
-   "The Trump‑Nvidia scandal, featuring Jensen Huang’s reinstatement despite espionage allegations, dominates coverage across The Bulwark, Paul Krugman, Zeteo and Doomberg, highlighting deep ties between the president, Silicon Valley and national‑security risks.",
-   "Republicans are scrambling over the fallout, with The Bulwark noting internal GOP panic, Stephen Miller touted as a 2028 ‘Plan C’, and Trump’s pardon racket (Bulwark) exposing corrupt patronage networks.",
-   "The DNC’s new 2028 debate pledge (The Bulwark) and Democrats’ media‑capture strategy (Zeteo) illustrate a party reshaping its electoral rules amid a massive House majority.",
-   "A massive lead‑azide detonation in Iowa threatens public health, prompting urgent alerts from local epidemiologists and criticism of delayed EPA action (Your Local Epidemiologist, The Bulwark).",
-   "Thanksgiving myths and humanitarian crises are juxtaposed, with Zeteo debunking the Pilgrim narrative and exposing ICE detention abuses at Dilley, underscoring the holiday’s darker side.",
-   "Doomberg warns that escalating Houthi attacks on Saudi oil infrastructure signal a weakening of MBS’s grip, adding a volatile Middle‑East flashpoint to the week’s headlines."
+   "The resurgence of Trump‑linked scandals—from the Nvidia CEO controversy and alleged Chinese ties to the $50 million pardon racket—dominates coverage across The Bulwark, Paul Krugman, and The Message Box (Bulwark, Krugman, Message Box).",
+   "A wave of Thanksgiving‑season content blends politics and culture, with The Bulwark dissecting debate rules and media tactics, Zeteo exposing holiday myths, and local writers turning leftovers into communal gumbo (Bulwark, Zeteo, Substack Post).",
+   "Tech‑industry risk looms large as analysts warn about AI’s “intelligence explosion” and Nvidia’s unchecked influence, a theme echoed by Doomberg and Krugman’s economic commentary (Doomberg, Krugman).",
+   "Independent media are expanding reach: The Bulwark launches a free streaming channel while Zeteo offers a massive Black Friday subscription discount, highlighting a push for broader audiences (Bulwark, Zeteo).",
+   "Public‑health and safety alerts surface, from the Iowa lead‑azide detonation’s toxic plume to concerns over ICE detention conditions, underscoring environmental and humanitarian risks during the holiday week (Your Local Epidemiologist, Adrian Carrasquillo)."
   ],
   "by": "groq",
   "ids": [
-   "20261124100205.3.5f32bbf7dee45b54@mg-d1.substack.com",
-   "20261124113144.3.20cea4ac5b3345f7@mg-d1.substack.com",
-   "20261124120735.3.e54a014cbb61311a@mg-d0.substack.com",
-   "20261124141938.3.bf2be8e7f3dc3a3f@mg-d0.substack.com",
-   "20261124154826.3.b376c9036043762e@mg2.substack.com",
-   "20261124160259.3.5a9e0623fd3e003a@mg-d0.substack.com",
-   "20261124174935.3.f82a6cd16c78f54b@mg-d1.substack.com",
-   "20261124210044.3.48802f50866f57fa@mg-d0.substack.com",
-   "20261124210144.3.83ca88d72ace937d@mg2.substack.com",
-   "20261124223629.3.d48d7b15c91639a5@mg-d0.substack.com",
-   "20261125002428.3.550e2875ff12e941@mg2.substack.com",
-   "20261125020509.3.674f7685f09ad83e@mg-d1.substack.com",
-   "20261125023118.3.1e7e45d9fcad0207@mg-d0.substack.com",
    "20261125113122.3.77daf1d022ddb233@mg-d0.substack.com",
    "20261125113144.3.fa159567ff0a82ba@mg2.substack.com",
    "20261125120138.3.4a4917a58ec9def0@mg-d0.substack.com",
@@ -41,12 +27,39 @@
    "20261126140347.3.3fed603f6d07942b@mg-d0.substack.com",
    "20261126150118.3.97e910fa7bfdd9a6@mg-d1.substack.com",
    "20261126210132.3.14805c5b6f68d69f@mg2.substack.com",
-   "20261127000051.3.660e9d8a38c426b5@mg2.substack.com"
+   "20261127000051.3.660e9d8a38c426b5@mg2.substack.com",
+   "20261127123528.3.4950e8f7041d536e@mg-d1.substack.com",
+   "20261127133044.3.3db963089cb8712d@mg-d0.substack.com",
+   "20261127140347.3.7418c3bc8a036855@mg-d1.substack.com",
+   "20261127143118.3.5772f90eb0df03d5@mg-d0.substack.com",
+   "20261127153052.3.2ccf1ec53e0f68b9@mg-d1.substack.com",
+   "20261127160305.3.d57bc03916be56e2@mg2.substack.com",
+   "20261127171406.3.d5a3b795237666fc@mg-d0.substack.com",
+   "20261127171535.3.7d1dee2da1bc1930@mg-d1.substack.com",
+   "20261127190640.3.4675ae55ff1d8334@mg-d1.substack.com",
+   "20261127193918.3.1e6249353b936baa@mg-d1.substack.com",
+   "20261127210118.3.e7616d7cb37c3aa4@mg-d1.substack.com",
+   "20261127223041.3.26c63a354f9910fa@mg-d1.substack.com",
+   "20261128003040.3.db28b3a1fde077aa@mg-d1.substack.com"
   ],
-  "updated": "2026-11-26T21:10-08:00",
+  "updated": "2026-11-27T20:47-08:00",
   "span_days": 3
  },
  "items": [
+  {
+   "id": "20261128003040.3.db28b3a1fde077aa@mg-d1.substack.com",
+   "newsletter": "Catherine Rampell - The Bulwark",
+   "pub": "thebulwark",
+   "subject": "Catherine Rampell Made a Wild Discovery While Investigating the Treasury Hack",
+   "date": "2026-11-27T16:30-08:00",
+   "url": "https://www.thebulwark.com/p/catherine-rampell-made-a-wild-discovery",
+   "bullets": [
+    "Catherine Rampell uncovered that the Treasury’s chief information officer was selecting theme music for a video game during a major cyber‑breach of the government’s financial crime enforcement system, prompting criticism of “vibe coding” for critical infrastructure.",
+    "The piece warns that Nvidia CEO Jensen Huang’s aggressive financial tactics echo 2008‑style risk, questioning what would happen if AI‑related chip valuations collapse and whether any agency truly understands the exposure.",
+    "It notes that former President Trump misread the 2024 midterm results, believing voters now favor increased tariffs despite broader polling indicating otherwise."
+   ],
+   "summary_by": "groq"
+  },
   {
    "id": "20261127223041.3.26c63a354f9910fa@mg-d1.substack.com",
    "newsletter": "Tim Miller - The Bulwark",
@@ -5285,83 +5298,14 @@
     "Regulating AI safety prompts is seen as ineffective because they can be easily reversed, pushing the future toward partially closed digital domains that trade openness for security."
    ],
    "summary_by": "groq"
-  },
-  {
-   "id": "20261028020133.3.edddd91307276001@mg-d0.substack.com",
-   "newsletter": "Naomi Klein | Zeteo",
-   "pub": "zeteo",
-   "subject": "Fighting Fascist Crime Families, From Brazil to Israel to the U.S.",
-   "date": "2026-10-27T19:01-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/brazil-israel-elections-naomi-klein",
-   "bullets": [
-    "Naomi Klein and Mehdi argue that Brazil’s left‑wing victory, Trump’s backing of Flávio Bolsonaro, and Netanyahu’s grip on Israel show how fascist crime families evade justice while maintaining power.",
-    "They note Bolsonaro’s father Jair is jailed for a 2022 coup plot, and Brazil’s prosecution of the coup attempt contrasts with the Bolsonaro family’s corruption, offering a lesson for U.S. Democrats ahead of the midterms."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261028015717.3.3c0093e99ac74c91@mg2.substack.com",
-   "newsletter": "Tim, Sarah and JVL - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "JVL’s Wild 57-Seat Senate Scenario Has Tim Doing the Math",
-   "date": "2026-10-27T18:57-07:00",
-   "url": null,
-   "bullets": [
-    "The hosts warn that Marco Rubio helped Flavio Bolsonaro flee to the U.S. after Brazil’s election loss, while RFK Jr. made overtly racist remarks about Arab voters in Michigan and Vivek Ramaswamy’s attack ad on Amy Acton sparked further controversy.",
-    "They note a Kansas City Star story that Roger Marshall’s hometown is turning against him, Susan Collins is running a elitist ad against Troy Jackson, and Pete Hegseth may eye Marsha Blackburn’s Senate seat as Democrats could achieve a massive wave across the map."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261028003043.3.41f6b57ff2255b50@mg-d1.substack.com",
-   "newsletter": "Chris Pappas",
-   "pub": "chrispappasnh",
-   "subject": "Missed goal",
-   "date": "2026-10-27T17:30-07:00",
-   "url": null,
-   "bullets": [
-    "The GOP has spent over $66 million trying to buy the New Hampshire Senate seat, while Chris Pappas refuses corporate PAC money and relies on small donors.",
-    "With one week left, Pappas’ fundraising has slumped and he’s setting a 24‑hour $100 K emergency goal to close the gap and fund voter outreach.",
-    "He urges supporters to donate $10‑$15 now to help keep New Hampshire blue and flip the Senate."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027235633.3.20be74b18bef650c@mg-d1.substack.com",
-   "newsletter": "Zeteo | U.S. Politics",
-   "pub": "zeteo",
-   "subject": "Republicans Warned Vivek Ramaswamy His ‘Rapist Protector’ Ad Was a Terrible Idea",
-   "date": "2026-10-27T16:56-07:00",
-   "url": "https://open.substack.com/pub/zeteo/p/republicans-warned-vivek-ramaswamy",
-   "bullets": [
-    "Multiple Ohio Republicans warned Vivek Ramaswamy that his “rapist protector” attack ad against Democrat Amy Acton would likely backfire, but he ran it anyway, spending millions on promotion.",
-    "The ad featured Acton’s estranged mother, Donna Arthur, accusing her daughter of lying about a childhood rape by her husband, a claim based on publicly available court records and prior reporting.",
-    "The ad was produced by Ohio firm Strategy Group, which has faced scrutiny for its role in a controversial $220 million DHS advertising contract."
-   ],
-   "summary_by": "groq"
-  },
-  {
-   "id": "20261027231835.3.10b266f350f2e572@mg-d1.substack.com",
-   "newsletter": "Catherine Rampell - The Bulwark",
-   "pub": "thebulwark",
-   "subject": "Mark Cuban Goes Nuclear on America’s Health Care Giants",
-   "date": "2026-10-27T16:18-07:00",
-   "url": null,
-   "bullets": [
-    "Mark Cuban argues that U.S. health‑care conglomerates artificially raise drug prices, conceal fees, and profit at patients' expense.",
-    "He criticizes Democrats' Medicare‑for‑All proposals as misguided and outlines his own strategies to combat price inflation.",
-    "Cuban also shares his perspective on the Trump administration's health‑care agenda, suggesting it differs from current partisan narratives."
-   ],
-   "summary_by": "groq"
   }
  ],
  "counts": {
-  "shown": 73,
-  "total": 392
+  "shown": 71,
+  "total": 388
  },
  "brief_status": {
-  "tried": "2026-11-27T14:48-08:00",
-  "ok": false,
-  "note": "unusable reply"
+  "tried": "2026-11-27T20:47-08:00",
+  "ok": true
  }
 }
